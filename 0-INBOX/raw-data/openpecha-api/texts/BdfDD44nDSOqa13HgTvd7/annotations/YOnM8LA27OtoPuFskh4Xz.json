@@ -1,0 +1,22 @@
+{
+ "id": "YOnM8LA27OtoPuFskh4Xz",
+ "type": "segmentation",
+ "data": [
+  {
+   "id": "xUTNopNfWz8VK7zDS2NGt",
+   "span": {
+    "start": 0,
+    "end": 10
+   },
+   "reference": "https://example.com/image1.png"
+  },
+  {
+   "id": "gCME35KzgEME7SIYFT3Oc",
+   "span": {
+    "start": 11,
+    "end": 20
+   },
+   "reference": "https://example.com/image2.png"
+  }
+ ]
+}

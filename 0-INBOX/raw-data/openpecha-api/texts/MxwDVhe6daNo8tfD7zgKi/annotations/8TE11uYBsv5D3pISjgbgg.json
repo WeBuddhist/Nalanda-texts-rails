@@ -1,0 +1,20 @@
+{
+ "id": "8TE11uYBsv5D3pISjgbgg",
+ "type": "segmentation",
+ "data": [
+  {
+   "id": "TCRHHA97KIIgIC74joyvr",
+   "span": {
+    "start": 0,
+    "end": 44
+   }
+  },
+  {
+   "id": "khEt2jYsIJpAmQu0g6Vrl",
+   "span": {
+    "start": 44,
+    "end": 732
+   }
+  }
+ ]
+}

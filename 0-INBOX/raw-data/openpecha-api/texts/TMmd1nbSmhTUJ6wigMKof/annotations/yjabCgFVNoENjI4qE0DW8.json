@@ -1,0 +1,34 @@
+{
+ "id": "yjabCgFVNoENjI4qE0DW8",
+ "type": "segmentation",
+ "data": [
+  {
+   "id": "X0wP6KbrLv4sx2QpITmVs",
+   "span": {
+    "start": 0,
+    "end": 12
+   }
+  },
+  {
+   "id": "iseUMfs1VhpFZu6E0owgc",
+   "span": {
+    "start": 12,
+    "end": 119
+   }
+  },
+  {
+   "id": "dRVXNPV0xyE5LL5dfA1fb",
+   "span": {
+    "start": 119,
+    "end": 350
+   }
+  },
+  {
+   "id": "sUFTXfKDEfwzYXbDdyoqk",
+   "span": {
+    "start": 350,
+    "end": 573
+   }
+  }
+ ]
+}

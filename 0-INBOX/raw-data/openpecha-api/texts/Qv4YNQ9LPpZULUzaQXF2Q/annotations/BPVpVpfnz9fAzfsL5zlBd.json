@@ -1,0 +1,34 @@
+{
+ "id": "BPVpVpfnz9fAzfsL5zlBd",
+ "type": "segmentation",
+ "data": [
+  {
+   "id": "VUP9wnyngVpB6w0xFnA2f",
+   "span": {
+    "start": 0,
+    "end": 6
+   }
+  },
+  {
+   "id": "XrfGn3KAdrm7i9wG4o5ed",
+   "span": {
+    "start": 6,
+    "end": 12
+   }
+  },
+  {
+   "id": "It85Y3aTWButwnskfijnb",
+   "span": {
+    "start": 12,
+    "end": 18
+   }
+  },
+  {
+   "id": "GJKSaHyqOiRBiy0sJE7r0",
+   "span": {
+    "start": 18,
+    "end": 24
+   }
+  }
+ ]
+}

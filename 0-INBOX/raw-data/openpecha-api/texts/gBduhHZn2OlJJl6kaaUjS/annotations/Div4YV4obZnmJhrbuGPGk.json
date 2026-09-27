@@ -1,0 +1,286 @@
+{
+ "id": "Div4YV4obZnmJhrbuGPGk",
+ "type": "segmentation",
+ "data": [
+  {
+   "id": "xq3JU5grvvoW6vhVCXBaP",
+   "span": {
+    "start": 0,
+    "end": 69
+   }
+  },
+  {
+   "id": "OCQON9TxSrczjBxjxJQ4s",
+   "span": {
+    "start": 69,
+    "end": 137
+   }
+  },
+  {
+   "id": "fNhzkybYZr6NjOOb02hXM",
+   "span": {
+    "start": 137,
+    "end": 216
+   }
+  },
+  {
+   "id": "twkv0Y3j95PZTSbkCV2Cy",
+   "span": {
+    "start": 216,
+    "end": 250
+   }
+  },
+  {
+   "id": "GL2O0Xpaf7jgSnDVW6jyl",
+   "span": {
+    "start": 250,
+    "end": 285
+   }
+  },
+  {
+   "id": "235NQztj5YgvUHBuvKD62",
+   "span": {
+    "start": 285,
+    "end": 323
+   }
+  },
+  {
+   "id": "TuGsNAHATchaKja8xVTH2",
+   "span": {
+    "start": 323,
+    "end": 360
+   }
+  },
+  {
+   "id": "Bkpvu5XpzQR2PIQqqxGpP",
+   "span": {
+    "start": 360,
+    "end": 403
+   }
+  },
+  {
+   "id": "LekrY92DeD5lJJMSjWjTO",
+   "span": {
+    "start": 403,
+    "end": 449
+   }
+  },
+  {
+   "id": "k8ZcJOV7OxzLqItoAYgdc",
+   "span": {
+    "start": 449,
+    "end": 499
+   }
+  },
+  {
+   "id": "wkbzWs219iHlqKOobcuhm",
+   "span": {
+    "start": 499,
+    "end": 539
+   }
+  },
+  {
+   "id": "BwjUxFAqJuSdUIHHBGshN",
+   "span": {
+    "start": 539,
+    "end": 608
+   }
+  },
+  {
+   "id": "Z3p7qXdRzaa7KaG5VQkIz",
+   "span": {
+    "start": 608,
+    "end": 667
+   }
+  },
+  {
+   "id": "lXa7kDn0YCDrbF8gPggAi",
+   "span": {
+    "start": 667,
+    "end": 722
+   }
+  },
+  {
+   "id": "bbrFnjqeFuVydtzytaKny",
+   "span": {
+    "start": 722,
+    "end": 743
+   }
+  },
+  {
+   "id": "qaz1YE7vq6Lr99TvAFTKE",
+   "span": {
+    "start": 743,
+    "end": 791
+   }
+  },
+  {
+   "id": "SDDC8SjfIIvOlAmt8vGyI",
+   "span": {
+    "start": 791,
+    "end": 833
+   }
+  },
+  {
+   "id": "ScGw6X5hJPRJz82pwCEtd",
+   "span": {
+    "start": 833,
+    "end": 875
+   }
+  },
+  {
+   "id": "iBiu2tdPhL8oGAKKGChbU",
+   "span": {
+    "start": 875,
+    "end": 905
+   }
+  },
+  {
+   "id": "OXDqqrhOIeEj5oBunasF5",
+   "span": {
+    "start": 905,
+    "end": 931
+   }
+  },
+  {
+   "id": "4ZHG8BEYV1BSEXbwq3MYF",
+   "span": {
+    "start": 931,
+    "end": 984
+   }
+  },
+  {
+   "id": "Zko0gQsfaOcSXJIjWRehP",
+   "span": {
+    "start": 984,
+    "end": 1028
+   }
+  },
+  {
+   "id": "ldbAi1gvLqKlTtDjsPuOD",
+   "span": {
+    "start": 1028,
+    "end": 1069
+   }
+  },
+  {
+   "id": "G0Qde5GSKUo3dEBcHe4X3",
+   "span": {
+    "start": 1069,
+    "end": 1099
+   }
+  },
+  {
+   "id": "DEkf2sk3dFpRiDvZ9KtKr",
+   "span": {
+    "start": 1099,
+    "end": 1125
+   }
+  },
+  {
+   "id": "aMKR0DnOK2ke77CF1AntU",
+   "span": {
+    "start": 1125,
+    "end": 1170
+   }
+  },
+  {
+   "id": "UGBYhXA5N1LU6w211pmMN",
+   "span": {
+    "start": 1170,
+    "end": 1240
+   }
+  },
+  {
+   "id": "XGDKK5JE9Ruhg3o1Ql1bo",
+   "span": {
+    "start": 1240,
+    "end": 1278
+   }
+  },
+  {
+   "id": "fbMljCsUIQmPu1BWiEcpZ",
+   "span": {
+    "start": 1278,
+    "end": 1309
+   }
+  },
+  {
+   "id": "TTjApQ6DI40dott2YpDrg",
+   "span": {
+    "start": 1309,
+    "end": 1346
+   }
+  },
+  {
+   "id": "sEhGPKjJqLbJ76HsfhhJi",
+   "span": {
+    "start": 1346,
+    "end": 1378
+   }
+  },
+  {
+   "id": "d3OzdaonR6cCbOlZbhdFa",
+   "span": {
+    "start": 1378,
+    "end": 1414
+   }
+  },
+  {
+   "id": "MG12CgvJihfprVgtagWBU",
+   "span": {
+    "start": 1414,
+    "end": 1460
+   }
+  },
+  {
+   "id": "n0m07frkswz1nIcyb8EfM",
+   "span": {
+    "start": 1460,
+    "end": 1503
+   }
+  },
+  {
+   "id": "JIDlVOHYoedhQ98xkpvEd",
+   "span": {
+    "start": 1503,
+    "end": 1557
+   }
+  },
+  {
+   "id": "qPIYpbOv5c04ZaWap2EWP",
+   "span": {
+    "start": 1557,
+    "end": 1573
+   }
+  },
+  {
+   "id": "f97QU3thaxcD7NNgJOZ1N",
+   "span": {
+    "start": 1573,
+    "end": 1586
+   }
+  },
+  {
+   "id": "MXgEu31GHI3hWnI0kI3wR",
+   "span": {
+    "start": 1586,
+    "end": 1611
+   }
+  },
+  {
+   "id": "z9AfclhrIcojxUltR8egy",
+   "span": {
+    "start": 1611,
+    "end": 1627
+   }
+  },
+  {
+   "id": "MJappMYpfC32QrmVLdEq5",
+   "span": {
+    "start": 1627,
+    "end": 1692
+   }
+  }
+ ]
+}

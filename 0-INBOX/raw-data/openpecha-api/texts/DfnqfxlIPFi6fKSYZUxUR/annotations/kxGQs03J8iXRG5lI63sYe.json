@@ -1,0 +1,286 @@
+{
+ "id": "kxGQs03J8iXRG5lI63sYe",
+ "type": "segmentation",
+ "data": [
+  {
+   "id": "Vkvl5LENMZJW50iH433lc",
+   "span": {
+    "start": 0,
+    "end": 25
+   }
+  },
+  {
+   "id": "GCqrWkZyFqwbK9VOP6BKP",
+   "span": {
+    "start": 25,
+    "end": 60
+   }
+  },
+  {
+   "id": "Po8FHoEpyUeNqZ2gbH4zZ",
+   "span": {
+    "start": 60,
+    "end": 104
+   }
+  },
+  {
+   "id": "6N326gDW8u1va69R3hBHo",
+   "span": {
+    "start": 104,
+    "end": 142
+   }
+  },
+  {
+   "id": "2WoqsG8t4LvMwGpk5W5c5",
+   "span": {
+    "start": 142,
+    "end": 175
+   }
+  },
+  {
+   "id": "2MhcYm5paeF32wjs0AyY4",
+   "span": {
+    "start": 175,
+    "end": 213
+   }
+  },
+  {
+   "id": "zGP1yyhsqmn17MEJJYpdp",
+   "span": {
+    "start": 213,
+    "end": 254
+   }
+  },
+  {
+   "id": "Ea3ipEa0AkiPbPKDK8Uyp",
+   "span": {
+    "start": 254,
+    "end": 298
+   }
+  },
+  {
+   "id": "m12zggGv4CO4V4Ij6fF14",
+   "span": {
+    "start": 298,
+    "end": 335
+   }
+  },
+  {
+   "id": "0VEPraVB4CFHGO9UF52n7",
+   "span": {
+    "start": 335,
+    "end": 379
+   }
+  },
+  {
+   "id": "xUSil41SfDooJ1vLWCvzQ",
+   "span": {
+    "start": 379,
+    "end": 419
+   }
+  },
+  {
+   "id": "NJInH3lcW8y2pszsTRfcE",
+   "span": {
+    "start": 419,
+    "end": 677
+   }
+  },
+  {
+   "id": "XBA5duMx5c8lNz8D8g8Jl",
+   "span": {
+    "start": 677,
+    "end": 715
+   }
+  },
+  {
+   "id": "BbMSDcM1EadKUEbvxjPu2",
+   "span": {
+    "start": 715,
+    "end": 753
+   }
+  },
+  {
+   "id": "58umrqIwJzTWU4EAlX2rx",
+   "span": {
+    "start": 753,
+    "end": 791
+   }
+  },
+  {
+   "id": "NV5ADMGNcGwqfJNUp4wPD",
+   "span": {
+    "start": 791,
+    "end": 830
+   }
+  },
+  {
+   "id": "AV9a1F6BzFH0durGVtTsr",
+   "span": {
+    "start": 830,
+    "end": 871
+   }
+  },
+  {
+   "id": "5O0hO6I390mXVKEe2oYUF",
+   "span": {
+    "start": 871,
+    "end": 912
+   }
+  },
+  {
+   "id": "VBVCF7MMjzF8rvzhfMPAj",
+   "span": {
+    "start": 912,
+    "end": 951
+   }
+  },
+  {
+   "id": "8lGEBuDA8ke1nVDxo8IVz",
+   "span": {
+    "start": 951,
+    "end": 987
+   }
+  },
+  {
+   "id": "XSAb5KelQilij1kbh9xrJ",
+   "span": {
+    "start": 987,
+    "end": 1022
+   }
+  },
+  {
+   "id": "MKoip0uUXRqte6na2bfwp",
+   "span": {
+    "start": 1022,
+    "end": 1058
+   }
+  },
+  {
+   "id": "QqR1NKZBea6aisqVYPf3s",
+   "span": {
+    "start": 1058,
+    "end": 1101
+   }
+  },
+  {
+   "id": "VHF4nsU2zB25v6rfVU9bd",
+   "span": {
+    "start": 1101,
+    "end": 1139
+   }
+  },
+  {
+   "id": "qRhxUCx7NcA8zkBprQGkU",
+   "span": {
+    "start": 1139,
+    "end": 1180
+   }
+  },
+  {
+   "id": "hhzEdQfQUekKyMFhUJmpY",
+   "span": {
+    "start": 1180,
+    "end": 1222
+   }
+  },
+  {
+   "id": "Z5toJEnGnCfxKe9IrlQlt",
+   "span": {
+    "start": 1222,
+    "end": 1263
+   }
+  },
+  {
+   "id": "hFfjfcEVqVRJ0cqmIM1Ue",
+   "span": {
+    "start": 1263,
+    "end": 1302
+   }
+  },
+  {
+   "id": "DzECAsxRhbMghIfbUKMtx",
+   "span": {
+    "start": 1302,
+    "end": 1342
+   }
+  },
+  {
+   "id": "itMwTu7vtptasCpRD3GKI",
+   "span": {
+    "start": 1342,
+    "end": 1392
+   }
+  },
+  {
+   "id": "rgg8yQE6t3wagjl0ReJcS",
+   "span": {
+    "start": 1392,
+    "end": 1428
+   }
+  },
+  {
+   "id": "4qfhOVFVrNMpMPE0mhJqw",
+   "span": {
+    "start": 1428,
+    "end": 1469
+   }
+  },
+  {
+   "id": "NrLL8PirsVqYtM8Xj9aPv",
+   "span": {
+    "start": 1469,
+    "end": 1507
+   }
+  },
+  {
+   "id": "MkjyVRb1lDGFGOFU7mTBL",
+   "span": {
+    "start": 1507,
+    "end": 1544
+   }
+  },
+  {
+   "id": "tOzcq3UUTVfEwfYnLjmd9",
+   "span": {
+    "start": 1544,
+    "end": 1582
+   }
+  },
+  {
+   "id": "VirLOhRF1ab4lmoDRIdZU",
+   "span": {
+    "start": 1582,
+    "end": 1626
+   }
+  },
+  {
+   "id": "D84nVKNjlF6t9yt0ENklN",
+   "span": {
+    "start": 1626,
+    "end": 1664
+   }
+  },
+  {
+   "id": "x5AO8jUWF3KK32b4xQ4h8",
+   "span": {
+    "start": 1664,
+    "end": 1704
+   }
+  },
+  {
+   "id": "GQH0MLWk4VtwGN2IXKA62",
+   "span": {
+    "start": 1704,
+    "end": 1743
+   }
+  },
+  {
+   "id": "PFIO3kn1bhZmcI4aXwTvg",
+   "span": {
+    "start": 1743,
+    "end": 1780
+   }
+  }
+ ]
+}

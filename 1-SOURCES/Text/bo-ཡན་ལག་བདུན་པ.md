@@ -1,0 +1,58 @@
+---
+title: "ཡན་ལག་བདུན་པ།"
+author:
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: root-text
+lang_tag: bo
+total_verses: 13
+verse_id_format: verse
+segmentation_source: "openpecha-v2 segmentation annotation JRHNID0JcCjcs6Og5pRDV — one block per segment, in span order"
+edition_type: critical
+license: Public Domain Mark
+copyright: Public domain
+source: unknown
+source_url: "https://api-aq25662yyq-uc.a.run.app/v2/instances/YK3meGLcmDIcehnaKujvl?content=true&annotation=true"
+source_description: "Downloaded 2026-09-27 from the OpenPecha backend API v2 (old production backend, openpecha-backend `main`; https://api-aq25662yyq-uc.a.run.app). Text vrUGbRKQrVgCZIQf0ydG0, instance YK3meGLcmDIcehnaKujvl (critical); upstream source: unknown. Raw API responses: 0-INBOX/raw-data/openpecha-api/texts/vrUGbRKQrVgCZIQf0ydG0/."
+bdrc_work_id:
+category: "Liturgy / ཞལ་འདོན།"
+openpecha_v2_text_id: vrUGbRKQrVgCZIQf0ydG0
+openpecha_v2_instance_id: YK3meGLcmDIcehnaKujvl
+openpecha_v2_type: translation_source
+openpecha_v2_language: bo
+openpecha_v2_category_id: dJpr4gMF72E4UpCnJ84sh
+openpecha_v2_date: "2025-11-24"
+openpecha_v2_annotations:
+  - "bibliography: 4xxk7FInpeSyjYxDi2H3v"
+  - "segmentation: JRHNID0JcCjcs6Og5pRDV"
+status: ingested
+---
+
+# ཡན་ལག་བདུན་པ། ^0
+
+ཡན་ལག་བདུན་པ། ^1
+
+ཇི་སྙེད་སུ་དག་ཕྱོགས་བཅུའི་འཇིག་རྟེན་ན། །དུས་གསུམ་གཤེགས་པ་མི་ཡི་སེངྒེ་ཀུན། །བདག་གིས་མ་ལུས་དེ་དག་ཐམས་ཅད་ལ། །ལུས་དང་ངག་ཡིད་དང་བས་ཕྱག་བགྱིའོ། ། ^2
+
+བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་སྟོབས་དག་གིས། །རྒྱལ་བ་ཐམས་ཅད་ཡིད་ཀྱི་མངོན་སུམ་དུ། །ཞིང་གི་རྡུལ་སྙེད་ལུས་རབ་བཏུད་པ་ཡིས།། རྒྱལ་བ་ཀུན་ལ་རབ་ཏུ་ཕྱག་འཚལ་ལོ། ། ^3
+
+རྡུལ་གཅིག་སྟེང་ན་རྡུལ་སྙེད་སངས་རྒྱས་རྣམས། །སངས་རྒྱས་སྲས་ཀྱི་དབུས་ན་བཞུགས་པ་དག། །དེ་ལྟར་ཆོས་ཀྱི་དབྱིངས་རྣམས་མ་ལུས་པ། །ཐམས་ཅད་རྒྱལ་བ་དག་གིས་གང་བར་མོས། ། ^4
+
+དེ་དག་བསྔགས་པ་མི་ཟད་རྒྱ་མཚོ་རྣམས། །དབྱངས་ཀྱི་ཡན་ལག་རྒྱ་མཚོའི་སྒྲ་ཀུན་གྱིས། །རྒྱལ་བ་ཀུན་གྱི་ཡོན་ཏན་རབ་བརྗོད་ཅིང༌། །བདེ་བར་གཤེགས་པ་ཐམས་ཅད་བདག་གིས་བསྟོད། ། ^5
+
+མེ་ཏོག་དམ་པ་ཕྲེང་བ་དམ་པ་དང༌། །སིལ་སྙན་རྣམས་དང་བྱུག་པ་གདུགས་མཆོག་དང༌། །མར་མེ་མཆོག་དང་བདུག་སྤོས་དམ་པ་ཡིས། །རྒྱལ་བ་དེ་དག་ལ་ནི་མཆོད་པར་བགྱི། ། ^6
+
+ན་བཟའ་དམ་པ་རྣམས་དང་དྲི་མཆོག་དང༌། །ཕྱེ་མ་ཕུར་མ་རི་རིབ་མཉམ་པ་དང༌། །བཀོད་པ་ཁྱད་པར་འཕགས་པའི་མཆོག་ཀུན་གྱིས། །རྒྱལ་བ་དེ་དག་ལ་ནི་མཆོད་པར་བགྱི། ། ^7
+
+མཆོད་པ་གང་རྣམས་བླ་མེད་རྒྱ་ཆེ་བ། །དེ་དག་རྒྱལ་བ་ཐམས་ཅད་ལ་ཡང་མོས། །བཟང་པོ་སྤྱོད་ལ་དད་པའི་སྟོབས་དག་གིས། །རྒྱལ་བ་ཀུན་ལ་ཕྱག་འཚལ་མཆོད་པར་བགྱི། ། ^8
+
+འདོད་ཆགས་ཞེ་སྡང་གཏི་མུག་དབང་གིས་ནི། །ལུས་དང་ངག་དང་དེ་བཞིན་ཡིད་ཀྱིས་ཀྱང་། །སྡིག་པ་བདག་གིས་བགྱིས་པ་ཅི་མཆིས་པ། །དེ་དག་ཐམས་ཅད་བདག་གིས་སོ་སོར་བཤགས། ། ^9
+
+ཕྱོགས་བཅུའི་རྒྱལ་བ་ཀུན་དང་སངས་རྒྱས་སྲས། །རང་རྒྱལ་རྣམས་དང་སློབ་དང་མི་སློབ་དང༌། །འགྲོ་བ་ཀུན་གྱི་བསོད་ནམས་གང་ལ་ཡང༌། །དེ་དག་ཀུན་གྱི་རྗེས་སུ་བདག་ཡི་རང་། ། ^10
+
+གང་རྣམས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་སྒྲོན་མ་དག །བྱང་ཆུབ་རིམ་པར་སངས་རྒྱས་མ་ཆགས་བརྙེས། །མགོན་པོ་དེ་དག་བདག་གིས་ཐམས་ཅད་ལ། །འཁོར་ལོ་བླ་ན་མེད་པ་བསྐོར་བར་བསྐུལ། ། ^11
+
+མྱ་ངན་འདའ་སྟོན་གང་བཞེད་དེ་དག་ལ། །འགྲོ་བ་ཀུན་ལ་ཕན་ཞིང་བདེ་བའི་ཕྱིར། །བསྐལ་པ་ཞིང་གི་རྡུལ་སྙེད་བཞུགས་པར་ཡང༌། །བདག་གིས་ཐལ་མོ་རབ་སྦྱར་གསོལ་བར་བགྱི། ། ^12
+
+ཕྱག་འཚལ་བ་དང་མཆོད་ཅིང་བཤགས་པ་དང༌། །རྗེས་སུ་ཡི་རང་བསྐུལ་ཞིང་གསོལ་བ་ཡི། །དགེ་བ་ཅུང་ཟད་བདག་གིས་ཅི་བསགས་པ། །ཐམས་ཅད་བདག་གིས་བྱང་ཆུབ་ཕྱིར་བསྔོའོ། ། ^13

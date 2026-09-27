@@ -1,0 +1,321 @@
+{
+ "id": "54UZ4yafy13wQoPUpROKW",
+ "type": "segmentation",
+ "data": [
+  {
+   "id": "oNFrivU9yazAta0KBBv1j",
+   "span": {
+    "start": 0,
+    "end": 6
+   }
+  },
+  {
+   "id": "nvRH6rT56M5xIXFyoYxFn",
+   "span": {
+    "start": 6,
+    "end": 26
+   }
+  },
+  {
+   "id": "FE60t8onNXaEmuIduoQBJ",
+   "span": {
+    "start": 26,
+    "end": 46
+   }
+  },
+  {
+   "id": "jgbmQjtm4JnkA5llwkk4R",
+   "span": {
+    "start": 46,
+    "end": 55
+   }
+  },
+  {
+   "id": "64kbSOQNH9LI6K6aqwnUt",
+   "span": {
+    "start": 55,
+    "end": 67
+   }
+  },
+  {
+   "id": "vPfHM19FnCDyuEDdiDsYh",
+   "span": {
+    "start": 67,
+    "end": 125
+   }
+  },
+  {
+   "id": "05Cuht3NXBT4rtP9tcVxE",
+   "span": {
+    "start": 125,
+    "end": 140
+   }
+  },
+  {
+   "id": "jcFTlPxzynDEKv7mQ2W2N",
+   "span": {
+    "start": 140,
+    "end": 155
+   }
+  },
+  {
+   "id": "hzcfmqBeEbqBNfVaJ2F1g",
+   "span": {
+    "start": 155,
+    "end": 171
+   }
+  },
+  {
+   "id": "438APlGqbqRAKtSVYiUGy",
+   "span": {
+    "start": 171,
+    "end": 212
+   }
+  },
+  {
+   "id": "n7dhGRYV1wXWOpLg9pZKA",
+   "span": {
+    "start": 212,
+    "end": 1013
+   }
+  },
+  {
+   "id": "XeeSuRMAphHXc8zm59TzC",
+   "span": {
+    "start": 1013,
+    "end": 1379
+   }
+  },
+  {
+   "id": "srPtdfiwXzN2LK4rI9R6F",
+   "span": {
+    "start": 1379,
+    "end": 1399
+   }
+  },
+  {
+   "id": "SwpyymsPeVVkcMzjMqX8R",
+   "span": {
+    "start": 1399,
+    "end": 1419
+   }
+  },
+  {
+   "id": "SCgXbxOLrqTGYuS4WwK5M",
+   "span": {
+    "start": 1419,
+    "end": 1439
+   }
+  },
+  {
+   "id": "y4XcYHxjpZDSTyOOQSKlt",
+   "span": {
+    "start": 1439,
+    "end": 1459
+   }
+  },
+  {
+   "id": "9nZCZo1rGWb04Y32X9wmA",
+   "span": {
+    "start": 1459,
+    "end": 1479
+   }
+  },
+  {
+   "id": "0WOMIoIxHIRoN9abDROCg",
+   "span": {
+    "start": 1479,
+    "end": 1499
+   }
+  },
+  {
+   "id": "98YEgxmLgI7wpip3g96ad",
+   "span": {
+    "start": 1499,
+    "end": 1519
+   }
+  },
+  {
+   "id": "wdE9YhAMjufQlRLK2el5s",
+   "span": {
+    "start": 1519,
+    "end": 1539
+   }
+  },
+  {
+   "id": "snOy9Ioj5UCvUZeaj9S88",
+   "span": {
+    "start": 1539,
+    "end": 1559
+   }
+  },
+  {
+   "id": "C4CWAcIIuEPkUIl05sR8H",
+   "span": {
+    "start": 1559,
+    "end": 1579
+   }
+  },
+  {
+   "id": "9ON0B6AsSfrAkow6YepPb",
+   "span": {
+    "start": 1579,
+    "end": 1599
+   }
+  },
+  {
+   "id": "zpcC9S6JszsMDaLfbNMM1",
+   "span": {
+    "start": 1599,
+    "end": 1619
+   }
+  },
+  {
+   "id": "hlkFnnwLDBFm2D9X09vez",
+   "span": {
+    "start": 1619,
+    "end": 1639
+   }
+  },
+  {
+   "id": "d7hmM1XzSJoShECCmCyXl",
+   "span": {
+    "start": 1639,
+    "end": 1659
+   }
+  },
+  {
+   "id": "gaTh1hVlGBRPjiXOTe365",
+   "span": {
+    "start": 1659,
+    "end": 1679
+   }
+  },
+  {
+   "id": "z9yAK7WnuncjkBoUvtgNm",
+   "span": {
+    "start": 1679,
+    "end": 1699
+   }
+  },
+  {
+   "id": "UdYCcMzlkKMW2vDCRA5gY",
+   "span": {
+    "start": 1699,
+    "end": 1719
+   }
+  },
+  {
+   "id": "fGvG2LjUggI8V0rx3PSRk",
+   "span": {
+    "start": 1719,
+    "end": 1739
+   }
+  },
+  {
+   "id": "vyz3WTQ6F9PvRHuguwOOc",
+   "span": {
+    "start": 1739,
+    "end": 1759
+   }
+  },
+  {
+   "id": "dCxdehuE3O2IxjTrBYm46",
+   "span": {
+    "start": 1759,
+    "end": 1779
+   }
+  },
+  {
+   "id": "BNx9nzIcDnujHaSeBpiVc",
+   "span": {
+    "start": 1779,
+    "end": 1799
+   }
+  },
+  {
+   "id": "klYqB3Ca3EAuhD9Zbxo8U",
+   "span": {
+    "start": 1799,
+    "end": 1819
+   }
+  },
+  {
+   "id": "HzPhCr2lKBZeO6XDF35LO",
+   "span": {
+    "start": 1819,
+    "end": 1839
+   }
+  },
+  {
+   "id": "iBAvzdLCCddGNe56Ktwg0",
+   "span": {
+    "start": 1839,
+    "end": 1859
+   }
+  },
+  {
+   "id": "B3dpROT4VgeZVyqUFA0ZC",
+   "span": {
+    "start": 1859,
+    "end": 1879
+   }
+  },
+  {
+   "id": "K2wzeN9EHo8cPE6JMK1fG",
+   "span": {
+    "start": 1879,
+    "end": 1899
+   }
+  },
+  {
+   "id": "FUl9o3nwB88vmZ6eTLDTU",
+   "span": {
+    "start": 1899,
+    "end": 1919
+   }
+  },
+  {
+   "id": "VdjdAh6D2MI9y8KvqhYMU",
+   "span": {
+    "start": 1919,
+    "end": 1939
+   }
+  },
+  {
+   "id": "ac7RUhCt7RD8RLr8tDb98",
+   "span": {
+    "start": 1939,
+    "end": 1959
+   }
+  },
+  {
+   "id": "BkvhGPntI797TFwhRWHbs",
+   "span": {
+    "start": 1959,
+    "end": 1979
+   }
+  },
+  {
+   "id": "BesTh0qt7J8EersI00m7N",
+   "span": {
+    "start": 1979,
+    "end": 1999
+   }
+  },
+  {
+   "id": "fR69eln6K3Jw2mp48nWFc",
+   "span": {
+    "start": 1999,
+    "end": 2019
+   }
+  },
+  {
+   "id": "o80fnNr9pKeX5whR7mCd9",
+   "span": {
+    "start": 2019,
+    "end": 2032
+   }
+  }
+ ]
+}

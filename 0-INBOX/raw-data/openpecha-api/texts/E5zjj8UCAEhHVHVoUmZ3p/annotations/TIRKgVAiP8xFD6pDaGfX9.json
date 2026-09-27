@@ -1,0 +1,20 @@
+{
+ "id": "TIRKgVAiP8xFD6pDaGfX9",
+ "type": "segmentation",
+ "data": [
+  {
+   "id": "Jj4nAW0zfkxG6ebdVIofI",
+   "span": {
+    "start": 0,
+    "end": 641
+   }
+  },
+  {
+   "id": "BxRStCTzxxUpMx1xBat6U",
+   "span": {
+    "start": 641,
+    "end": 1148
+   }
+  }
+ ]
+}

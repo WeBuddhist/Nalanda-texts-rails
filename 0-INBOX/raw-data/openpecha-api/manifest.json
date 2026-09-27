@@ -1,0 +1,26 @@
+{
+ "api_base": "https://api-aq25662yyq-uc.a.run.app",
+ "api_version": {
+  "version": "0.1.0",
+  "git_sha": "ecdf248942e98180cb1cbe9b219d4f3f8b5a7f30"
+ },
+ "backend": "openpecha-backend main branch (Firebase project pecha-backend, prod)",
+ "started": "2026-09-27T06:34:58+00:00",
+ "finished": "2026-09-27T06:49:54+00:00",
+ "types": [
+  "none",
+  "root",
+  "translation_source"
+ ],
+ "annotation_types": [
+  "bibliography",
+  "durchen",
+  "pagination",
+  "segmentation",
+  "table_of_contents",
+  "version"
+ ],
+ "texts_listed": 1071,
+ "texts_selected": 766,
+ "failures": []
+}

@@ -1,0 +1,41 @@
+{
+ "id": "UioEVNQXyG20c4PPWSpap",
+ "type": "segmentation",
+ "data": [
+  {
+   "id": "lh1fO1QYO2yo6dfBCzrME",
+   "span": {
+    "start": 0,
+    "end": 12
+   }
+  },
+  {
+   "id": "HMCK8dWhGHe1Q2Nl7idxK",
+   "span": {
+    "start": 12,
+    "end": 69
+   }
+  },
+  {
+   "id": "WVFpUExC0CWmJh2IcizO9",
+   "span": {
+    "start": 69,
+    "end": 136
+   }
+  },
+  {
+   "id": "h3PjkgPdp1WctdXmzwxsM",
+   "span": {
+    "start": 136,
+    "end": 199
+   }
+  },
+  {
+   "id": "7gKoJrxUubM56LBZxmgXh",
+   "span": {
+    "start": 199,
+    "end": 268
+   }
+  }
+ ]
+}

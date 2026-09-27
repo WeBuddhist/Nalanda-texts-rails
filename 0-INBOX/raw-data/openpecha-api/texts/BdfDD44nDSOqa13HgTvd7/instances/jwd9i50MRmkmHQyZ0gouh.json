@@ -1,0 +1,22 @@
+{
+ "metadata": {
+  "id": "jwd9i50MRmkmHQyZ0gouh",
+  "type": "diplomatic",
+  "source": "source-name",
+  "bdrc": "W123456",
+  "wiki": null,
+  "colophon": "Sample colophon text",
+  "incipit_title": {
+   "en": "Opening words",
+   "bo": "དབུ་ཚིག"
+  },
+  "alt_incipit_titles": null
+ },
+ "content": "This is the text content to be stored",
+ "annotations": [
+  {
+   "annotation_id": "YOnM8LA27OtoPuFskh4Xz",
+   "type": "segmentation"
+  }
+ ]
+}
