@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 3
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation emEM82SmNDGc7pHi5thcj — one block per segment, in span order"
+verse_id_format:
+segments: 3
+segmentation_source: "openpecha-v2 segmentation annotation emEM82SmNDGc7pHi5thcj — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,14 +26,15 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: dJpr4gMF72E4UpCnJ84sh
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: BPgetwSashSf01kjGYE06"
   - "segmentation: emEM82SmNDGc7pHi5thcj"
 status: ingested
 ---
 
-# Śaraṇagamana ^0
+# Śaraṇagamana
 
-Buddhaṃ śaranaṃ gacchāmi ^1
+Buddhaṃ śaranaṃ gacchāmi
 
-Dharmaṃ śaranaṃ gacchāmi ^2
+Dharmaṃ śaranaṃ gacchāmi
 
-Samghaṃ śaranaṃ gacchāmi ^3
+Samghaṃ śaranaṃ gacchāmi

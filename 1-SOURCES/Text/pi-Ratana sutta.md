@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 92
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation i0SRTGXi7oHUQ27mapo8S — one block per segment, in span order"
+verse_id_format:
+segments: 92
+segmentation_source: "openpecha-v2 segmentation annotation i0SRTGXi7oHUQ27mapo8S — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,188 +28,188 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Ratana sutta ^0
+# Ratana sutta
 
-Khuddakapāṭha 6 ^1
+Khuddakapāṭha 6
 
-Ratanasutta ^2
+Ratanasutta
 
-Yānīdha bhūtāni samāgatāni, ^3
+Yānīdha bhūtāni samāgatāni,
 
-Bhummāni vā yāni va antalikkhe; ^4
+Bhummāni vā yāni va antalikkhe;
 
-Sabbeva bhūtā sumanā bhavantu, ^5
+Sabbeva bhūtā sumanā bhavantu,
 
-Athopi sakkacca suṇantu bhāsitaṁ. ^6
+Athopi sakkacca suṇantu bhāsitaṁ.
 
-Tasmā hi bhūtā nisāmetha sabbe, ^7
+Tasmā hi bhūtā nisāmetha sabbe,
 
-Mettaṁ karotha mānusiyā pajāya; ^8
+Mettaṁ karotha mānusiyā pajāya;
 
-Divā ca ratto ca haranti ye baliṁ, ^9
+Divā ca ratto ca haranti ye baliṁ,
 
-Tasmā hi ne rakkhatha appamattā. ^10
+Tasmā hi ne rakkhatha appamattā.
 
-Yaṁ kiñci vittaṁ idha vā huraṁ vā, ^11
+Yaṁ kiñci vittaṁ idha vā huraṁ vā,
 
-Saggesu vā yaṁ ratanaṁ paṇītaṁ; ^12
+Saggesu vā yaṁ ratanaṁ paṇītaṁ;
 
-Na no samaṁ atthi tathāgatena, ^13
+Na no samaṁ atthi tathāgatena,
 
-Idampi buddhe ratanaṁ paṇītaṁ; ^14
+Idampi buddhe ratanaṁ paṇītaṁ;
 
-Etena saccena suvatthi hotu. ^15
+Etena saccena suvatthi hotu.
 
-Khayaṁ virāgaṁ amataṁ paṇītaṁ, ^16
+Khayaṁ virāgaṁ amataṁ paṇītaṁ,
 
-Yadajjhagā sakyamunī samāhito; ^17
+Yadajjhagā sakyamunī samāhito;
 
-Na tena dhammena samatthi kiñci, ^18
+Na tena dhammena samatthi kiñci,
 
-Idampi dhamme ratanaṁ paṇītaṁ; ^19
+Idampi dhamme ratanaṁ paṇītaṁ;
 
-Etena saccena suvatthi hotu. ^20
+Etena saccena suvatthi hotu.
 
-Yaṁ buddhaseṭṭho parivaṇṇayī suciṁ, ^21
+Yaṁ buddhaseṭṭho parivaṇṇayī suciṁ,
 
-Samādhimānantarikaññamāhu; ^22
+Samādhimānantarikaññamāhu;
 
-Samādhinā tena samo na vijjati, ^23
+Samādhinā tena samo na vijjati,
 
-Idampi dhamme ratanaṁ paṇītaṁ; ^24
+Idampi dhamme ratanaṁ paṇītaṁ;
 
-Etena saccena suvatthi hotu. ^25
+Etena saccena suvatthi hotu.
 
-Ye puggalā aṭṭha sataṁ pasatthā, ^26
+Ye puggalā aṭṭha sataṁ pasatthā,
 
-Cattāri etāni yugāni honti; ^27
+Cattāri etāni yugāni honti;
 
-Te dakkhiṇeyyā sugatassa sāvakā, ^28
+Te dakkhiṇeyyā sugatassa sāvakā,
 
-Etesu dinnāni mahapphalāni; ^29
+Etesu dinnāni mahapphalāni;
 
-Idampi saṅghe ratanaṁ paṇītaṁ, ^30
+Idampi saṅghe ratanaṁ paṇītaṁ,
 
-Etena saccena suvatthi hotu. ^31
+Etena saccena suvatthi hotu.
 
-Ye suppayuttā manasā daḷhena, ^32
+Ye suppayuttā manasā daḷhena,
 
-Nikkāmino gotamasāsanamhi; ^33
+Nikkāmino gotamasāsanamhi;
 
-Te pattipattā amataṁ vigayha, ^34
+Te pattipattā amataṁ vigayha,
 
-Laddhā mudhā nibbutiṁ bhuñjamānā; ^35
+Laddhā mudhā nibbutiṁ bhuñjamānā;
 
-Idampi saṅghe ratanaṁ paṇītaṁ, ^36
+Idampi saṅghe ratanaṁ paṇītaṁ,
 
-Etena saccena suvatthi hotu. ^37
+Etena saccena suvatthi hotu.
 
-Yathindakhīlo pathavissito siyā, ^38
+Yathindakhīlo pathavissito siyā,
 
-Catubbhi vātehi asampakampiyo; ^39
+Catubbhi vātehi asampakampiyo;
 
-Tathūpamaṁ sappurisaṁ vadāmi, ^40
+Tathūpamaṁ sappurisaṁ vadāmi,
 
-Yo ariyasaccāni avecca passati; ^41
+Yo ariyasaccāni avecca passati;
 
-Idampi saṅghe ratanaṁ paṇītaṁ, ^42
+Idampi saṅghe ratanaṁ paṇītaṁ,
 
-Etena saccena suvatthi hotu. ^43
+Etena saccena suvatthi hotu.
 
-Ye ariyasaccāni vibhāvayanti, ^44
+Ye ariyasaccāni vibhāvayanti,
 
-Gambhīrapaññena sudesitāni; ^45
+Gambhīrapaññena sudesitāni;
 
-Kiñcāpi te honti bhusaṁ pamattā, ^46
+Kiñcāpi te honti bhusaṁ pamattā,
 
-Na te bhavaṁ aṭṭhamamādiyanti; ^47
+Na te bhavaṁ aṭṭhamamādiyanti;
 
-Idampi saṅghe ratanaṁ paṇītaṁ, ^48
+Idampi saṅghe ratanaṁ paṇītaṁ,
 
-Etena saccena suvatthi hotu. ^49
+Etena saccena suvatthi hotu.
 
-Sahāvassa dassanasampadāya, ^50
+Sahāvassa dassanasampadāya,
 
-Tayassu dhammā jahitā bhavanti; ^51
+Tayassu dhammā jahitā bhavanti;
 
-Sakkāyadiṭṭhī vicikicchitañca, ^52
+Sakkāyadiṭṭhī vicikicchitañca,
 
-Sīlabbataṁ vāpi yadatthi kiñci. ^53
+Sīlabbataṁ vāpi yadatthi kiñci.
 
-Catūhapāyehi ca vippamutto, ^54
+Catūhapāyehi ca vippamutto,
 
-Chaccābhiṭhānāni abhabba kātuṁ; ^55
+Chaccābhiṭhānāni abhabba kātuṁ;
 
-Idampi saṅghe ratanaṁ paṇītaṁ, ^56
+Idampi saṅghe ratanaṁ paṇītaṁ,
 
-Etena saccena suvatthi hotu. ^57
+Etena saccena suvatthi hotu.
 
-Kiñcāpi so kamma karoti pāpakaṁ, ^58
+Kiñcāpi so kamma karoti pāpakaṁ,
 
-Kāyena vācā uda cetasā vā; ^59
+Kāyena vācā uda cetasā vā;
 
-Abhabba so tassa paṭicchadāya, ^60
+Abhabba so tassa paṭicchadāya,
 
-Abhabbatā diṭṭhapadassa vuttā; ^61
+Abhabbatā diṭṭhapadassa vuttā;
 
-Idampi saṅghe ratanaṁ paṇītaṁ, ^62
+Idampi saṅghe ratanaṁ paṇītaṁ,
 
-Etena saccena suvatthi hotu. ^63
+Etena saccena suvatthi hotu.
 
-Vanappagumbe yatha phussitagge, ^64
+Vanappagumbe yatha phussitagge,
 
-Gimhānamāse paṭhamasmiṁ gimhe; ^65
+Gimhānamāse paṭhamasmiṁ gimhe;
 
-Tathūpamaṁ dhammavaraṁ adesayi, ^66
+Tathūpamaṁ dhammavaraṁ adesayi,
 
-Nibbānagāmiṁ paramaṁ hitāya; ^67
+Nibbānagāmiṁ paramaṁ hitāya;
 
-Idampi buddhe ratanaṁ paṇītaṁ, ^68
+Idampi buddhe ratanaṁ paṇītaṁ,
 
-Etena saccena suvatthi hotu. ^69
+Etena saccena suvatthi hotu.
 
-Varo varaññū varado varāharo, ^70
+Varo varaññū varado varāharo,
 
-Anuttaro dhammavaraṁ adesayi; ^71
+Anuttaro dhammavaraṁ adesayi;
 
-Idampi buddhe ratanaṁ paṇītaṁ, ^72
+Idampi buddhe ratanaṁ paṇītaṁ,
 
-Etena saccena suvatthi hotu. ^73
+Etena saccena suvatthi hotu.
 
-Khīṇaṁ purāṇaṁ nava natthi sambhavaṁ, ^74
+Khīṇaṁ purāṇaṁ nava natthi sambhavaṁ,
 
-Virattacittāyatike bhavasmiṁ; ^75
+Virattacittāyatike bhavasmiṁ;
 
-Te khīṇabījā avirūḷhichandā, ^76
+Te khīṇabījā avirūḷhichandā,
 
-Nibbanti dhīrā yathāyaṁ padīpo; ^77
+Nibbanti dhīrā yathāyaṁ padīpo;
 
-Idampi saṅghe ratanaṁ paṇītaṁ, ^78
+Idampi saṅghe ratanaṁ paṇītaṁ,
 
-Etena saccena suvatthi hotu. ^79
+Etena saccena suvatthi hotu.
 
-Yānīdha bhūtāni samāgatāni, ^80
+Yānīdha bhūtāni samāgatāni,
 
-Bhummāni vā yāni va antalikkhe; ^81
+Bhummāni vā yāni va antalikkhe;
 
-Tathāgataṁ devamanussapūjitaṁ, ^82
+Tathāgataṁ devamanussapūjitaṁ,
 
-Buddhaṁ namassāma suvatthi hotu. ^83
+Buddhaṁ namassāma suvatthi hotu.
 
-Yānīdha bhūtāni samāgatāni, ^84
+Yānīdha bhūtāni samāgatāni,
 
-Bhummāni vā yāni va antalikkhe; ^85
+Bhummāni vā yāni va antalikkhe;
 
-Tathāgataṁ devamanussapūjitaṁ, ^86
+Tathāgataṁ devamanussapūjitaṁ,
 
-Dhammaṁ namassāma suvatthi hotu. ^87
+Dhammaṁ namassāma suvatthi hotu.
 
-Yānīdha bhūtāni samāgatāni, ^88
+Yānīdha bhūtāni samāgatāni,
 
-Bhummāni vā yāni va antalikkhe; ^89
+Bhummāni vā yāni va antalikkhe;
 
-Tathāgataṁ devamanussapūjitaṁ, ^90
+Tathāgataṁ devamanussapūjitaṁ,
 
-Saṅghaṁ namassāma suvatthi hotūti. ^91
+Saṅghaṁ namassāma suvatthi hotūti.
 
-Ratanasuttaṁ. ^92
+Ratanasuttaṁ.

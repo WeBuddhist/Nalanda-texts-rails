@@ -3,70 +3,135 @@
 "text_id": "pUUFkUBtfaCkDjyVd6fkH",
 "instance_id": "ZtCqB2xte7TRMBie9MWOG",
 "segmentation_id": "vniW5l3tZEmRJf676RwOP",
-"blocks": [
+"durchen_ids": [
+"QfYSnILcdWA5ad8qcTp2A"
+],
+"segments": [
 {
-"block": 1,
+"segment": 1,
 "segment_id": "ML3vrGhw7sbtKEQmZBcCi"
 },
 {
-"block": 2,
+"segment": 2,
 "segment_id": "0o44tALNwC9qfIKWcvDhs"
 },
 {
-"block": 3,
+"segment": 3,
 "segment_id": "9u42jKsmSavHcIUW2cgZ0"
 },
 {
-"block": 4,
+"segment": 4,
 "segment_id": "25bOC8EhyzBDgMIVoWtY5"
 },
 {
-"block": 5,
+"segment": 5,
 "segment_id": "4GcTT7wR0p9Q1MKqOUMjP"
 },
 {
-"block": 6,
+"segment": 6,
 "segment_id": "jzJ61L84oWMwwgh72OSdw"
 },
 {
-"block": 7,
+"segment": 7,
 "segment_id": "mfdrD5aye928ma30fRn70"
 },
 {
-"block": 8,
+"segment": 8,
 "segment_id": "R0KmKL4BLFdONRAGYJQ1d"
 },
 {
-"block": 9,
+"segment": 9,
 "segment_id": "UBASCXps2Y4jSjIxQCPeb"
 },
 {
-"block": 10,
+"segment": 10,
 "segment_id": "rHG8FmfBK3QIcw3MooU9H"
 },
 {
-"block": 11,
+"segment": 11,
 "segment_id": "VMb7Ac6kAvsySUorArhTv"
 },
 {
-"block": 12,
+"segment": 12,
 "segment_id": "haVms8DcG2yDKSDiXci2P"
 },
 {
-"block": 13,
+"segment": 13,
 "segment_id": "JNqrjN2n3UzT6FDcMuEcX"
 },
 {
-"block": 14,
+"segment": 14,
 "segment_id": "zR5k8XUOXJWkT2fRWCIAq"
 },
 {
-"block": 15,
+"segment": 15,
 "segment_id": "0kJ7hqX6burRGJvxlooQ9"
 },
 {
-"block": 16,
+"segment": 16,
 "segment_id": "3O9vzlhiZfrq2acgLQtTI"
+}
+],
+"footnotes": [
+{
+"footnote": 1,
+"durchen_id": "c73XgGxXdJnehl25B8ptH"
+},
+{
+"footnote": 2,
+"durchen_id": "2h8NSFNgnhnvYDdLx8Jh8"
+},
+{
+"footnote": 3,
+"durchen_id": "jTB1eVUAlAgJDer066g0H"
+},
+{
+"footnote": 4,
+"durchen_id": "NVSqF9wGcNkkbDvxrvupw"
+},
+{
+"footnote": 5,
+"durchen_id": "ATxu4y1H1EgG2h6ErHYGN"
+},
+{
+"footnote": 6,
+"durchen_id": "3CnAul3XkKk4PH6TDpLyJ"
+},
+{
+"footnote": 7,
+"durchen_id": "lHq1XyPzlpxgYD2zOYGZu"
+},
+{
+"footnote": 8,
+"durchen_id": "Wa8acFInySdxKS3JsYo01"
+},
+{
+"footnote": 9,
+"durchen_id": "DaplztqWXaOyAauSsYFrj"
+},
+{
+"footnote": 10,
+"durchen_id": "WrqlBKQxeWC5kgdJ9dafH"
+},
+{
+"footnote": 11,
+"durchen_id": "1hL8AKPNUBu1xL36VhkDs"
+},
+{
+"footnote": 12,
+"durchen_id": "QPVlulntXSZ8M2Ua0Y1PJ"
+},
+{
+"footnote": 13,
+"durchen_id": "c8kEJg3XDOe64h45l9nFT"
+},
+{
+"footnote": 14,
+"durchen_id": "bTk6bXyT2iBgXPJVdtc9C"
+},
+{
+"footnote": 15,
+"durchen_id": "TSTNmWfwOPzscze4jc6NT"
 }
 ]
 }

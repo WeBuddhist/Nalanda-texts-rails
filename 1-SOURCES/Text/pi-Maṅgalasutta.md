@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 52
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation oaDwEBLJpNac0yzXweJNY — one block per segment, in span order"
+verse_id_format:
+segments: 52
+segmentation_source: "openpecha-v2 segmentation annotation oaDwEBLJpNac0yzXweJNY — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,108 +28,108 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Maṅgalasutta ^0
+# Maṅgalasutta
 
-Khuddakapāṭha 5 ^1
+Khuddakapāṭha 5
 
-Maṅgalasutta ^2
+Maṅgalasutta
 
-Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi— ^3
+Evaṁ me sutaṁ— ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā abhikkantavaṇṇā kevalakappaṁ jetavanaṁ obhāsetvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ aṭṭhāsi. Ekamantaṁ ṭhitā kho sā devatā bhagavantaṁ gāthāya ajjhabhāsi—
 
-“Bahū devā manussā ca, ^4
+“Bahū devā manussā ca,
 
-maṅgalāni acintayuṁ; ^5
+maṅgalāni acintayuṁ;
 
-Ākaṅkhamānā sotthānaṁ, ^6
+Ākaṅkhamānā sotthānaṁ,
 
-brūhi maṅgalamuttamaṁ”. ^7
+brūhi maṅgalamuttamaṁ”.
 
-“Asevanā ca bālānaṁ, ^8
+“Asevanā ca bālānaṁ,
 
-paṇḍitānañca sevanā; ^9
+paṇḍitānañca sevanā;
 
-Pūjā ca pūjaneyyānaṁ, ^10
+Pūjā ca pūjaneyyānaṁ,
 
-etaṁ maṅgalamuttamaṁ. ^11
+etaṁ maṅgalamuttamaṁ.
 
-Patirūpadesavāso ca, ^12
+Patirūpadesavāso ca,
 
-pubbe ca katapuññatā; ^13
+pubbe ca katapuññatā;
 
-Attasammāpaṇidhi ca, ^14
+Attasammāpaṇidhi ca,
 
-etaṁ maṅgalamuttamaṁ. ^15
+etaṁ maṅgalamuttamaṁ.
 
-Bāhusaccañca sippañca, ^16
+Bāhusaccañca sippañca,
 
-vinayo ca susikkhito; ^17
+vinayo ca susikkhito;
 
-Subhāsitā ca yā vācā, ^18
+Subhāsitā ca yā vācā,
 
-etaṁ maṅgalamuttamaṁ. ^19
+etaṁ maṅgalamuttamaṁ.
 
-Mātāpituupaṭṭhānaṁ, ^20
+Mātāpituupaṭṭhānaṁ,
 
-puttadārassa saṅgaho; ^21
+puttadārassa saṅgaho;
 
-Anākulā ca kammantā, ^22
+Anākulā ca kammantā,
 
-etaṁ maṅgalamuttamaṁ. ^23
+etaṁ maṅgalamuttamaṁ.
 
-Dānañca dhammacariyā ca, ^24
+Dānañca dhammacariyā ca,
 
-ñātakānañca saṅgaho; ^25
+ñātakānañca saṅgaho;
 
-Anavajjāni kammāni, ^26
+Anavajjāni kammāni,
 
-etaṁ maṅgalamuttamaṁ. ^27
+etaṁ maṅgalamuttamaṁ.
 
-Āratī viratī pāpā, ^28
+Āratī viratī pāpā,
 
-majjapānā ca saṁyamo; ^29
+majjapānā ca saṁyamo;
 
-Appamādo ca dhammesu, ^30
+Appamādo ca dhammesu,
 
-etaṁ maṅgalamuttamaṁ. ^31
+etaṁ maṅgalamuttamaṁ.
 
-Gāravo ca nivāto ca, ^32
+Gāravo ca nivāto ca,
 
-santuṭṭhi ca kataññutā; ^33
+santuṭṭhi ca kataññutā;
 
-Kālena dhammassavanaṁ, ^34
+Kālena dhammassavanaṁ,
 
-etaṁ maṅgalamuttamaṁ. ^35
+etaṁ maṅgalamuttamaṁ.
 
-Khantī ca sovacassatā, ^36
+Khantī ca sovacassatā,
 
-samaṇānañca dassanaṁ; ^37
+samaṇānañca dassanaṁ;
 
-Kālena dhammasākacchā, ^38
+Kālena dhammasākacchā,
 
-etaṁ maṅgalamuttamaṁ. ^39
+etaṁ maṅgalamuttamaṁ.
 
-Tapo ca brahmacariyañca, ^40
+Tapo ca brahmacariyañca,
 
-ariyasaccāna dassanaṁ; ^41
+ariyasaccāna dassanaṁ;
 
-Nibbānasacchikiriyā ca, ^42
+Nibbānasacchikiriyā ca,
 
-etaṁ maṅgalamuttamaṁ. ^43
+etaṁ maṅgalamuttamaṁ.
 
-Phuṭṭhassa lokadhammehi, ^44
+Phuṭṭhassa lokadhammehi,
 
-cittaṁ yassa na kampati; ^45
+cittaṁ yassa na kampati;
 
-Asokaṁ virajaṁ khemaṁ, ^46
+Asokaṁ virajaṁ khemaṁ,
 
-etaṁ maṅgalamuttamaṁ. ^47
+etaṁ maṅgalamuttamaṁ.
 
-Etādisāni katvāna, ^48
+Etādisāni katvāna,
 
-Sabbattha maparājitā; ^49
+Sabbattha maparājitā;
 
-Sabbattha sotthiṁ gacchanti, ^50
+Sabbattha sotthiṁ gacchanti,
 
-Taṁ tesaṁ maṅgalamuttaman”ti. ^51
+Taṁ tesaṁ maṅgalamuttaman”ti.
 
-Maṅgalasuttaṁ. ^52
+Maṅgalasuttaṁ.

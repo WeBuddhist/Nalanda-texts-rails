@@ -1,0 +1,20 @@
+{
+ "id": "SaNjvAvVPEXFXUeEsVVeD",
+ "type": "search_segmentation",
+ "data": [
+  {
+   "id": "TrmGFkIb3gLF6MAMdllMN",
+   "span": {
+    "start": 0,
+    "end": 3013
+   }
+  },
+  {
+   "id": "AmrOlbhGtZ8q5fD7fOEql",
+   "span": {
+    "start": 3013,
+    "end": 4180
+   }
+  }
+ ]
+}

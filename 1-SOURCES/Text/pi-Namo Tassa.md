@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 3
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation nw2OkZuQd5ulsjWC97Tba — one block per segment, in span order"
+verse_id_format:
+segments: 3
+segmentation_source: "openpecha-v2 segmentation annotation nw2OkZuQd5ulsjWC97Tba — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,10 +28,10 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Namo Tassa ^0
+# Namo Tassa
 
-Namo tassa Bhagavato Arahato Sammā‧sambuddhassa ^1
+Namo tassa Bhagavato Arahato Sammā‧sambuddhassa
 
-Namo tassa Bhagavato Arahato Sammā‧sambuddhassa ^2
+Namo tassa Bhagavato Arahato Sammā‧sambuddhassa
 
-Namo tassa Bhagavato Arahato Sammā‧sambuddhassa ^3
+Namo tassa Bhagavato Arahato Sammā‧sambuddhassa

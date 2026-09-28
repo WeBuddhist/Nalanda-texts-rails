@@ -3,74 +3,115 @@
 "text_id": "ghsgH2SI3dy2wrfFKJVEf",
 "instance_id": "z5TsmWxpg9bXm96HjGe4c",
 "segmentation_id": "pEiIv7Lk2XCF7iVPFttSy",
-"blocks": [
+"durchen_ids": [
+"M05ugNent323JX9H26VDp"
+],
+"segments": [
 {
-"block": 1,
+"segment": 1,
 "segment_id": "Fr6AP2JET65oSc1ZrZTdH"
 },
 {
-"block": 2,
+"segment": 2,
 "segment_id": "mO9BDqCQJ2hQktWKFfEY7"
 },
 {
-"block": 3,
+"segment": 3,
 "segment_id": "SKx6lNOL0TkA7zUIePhmr"
 },
 {
-"block": 4,
+"segment": 4,
 "segment_id": "KproD1I40B4RkX429U02A"
 },
 {
-"block": 5,
+"segment": 5,
 "segment_id": "Z5vC2ZYt2MQTrnST6hTkh"
 },
 {
-"block": 6,
+"segment": 6,
 "segment_id": "D5T4ODuNZuPe2ri6LSbhI"
 },
 {
-"block": 7,
+"segment": 7,
 "segment_id": "9bLAHbofXO8jir4ZNFdUr"
 },
 {
-"block": 8,
+"segment": 8,
 "segment_id": "HzYjyks8t4Gxngx8qKGe2"
 },
 {
-"block": 9,
+"segment": 9,
 "segment_id": "rX205uDI0Q5okKhBDf8aQ"
 },
 {
-"block": 10,
+"segment": 10,
 "segment_id": "RxZOv3AQdgg3hE4eL8KPz"
 },
 {
-"block": 11,
+"segment": 11,
 "segment_id": "YtkWKpAdGrFvTRSWXR9KR"
 },
 {
-"block": 12,
+"segment": 12,
 "segment_id": "igbPBAta2JzMPMy9f4vFY"
 },
 {
-"block": 13,
+"segment": 13,
 "segment_id": "sx10mvtoQxqUifBYGid3H"
 },
 {
-"block": 14,
+"segment": 14,
 "segment_id": "NIDkXy29jAXXhF6ZnVOOk"
 },
 {
-"block": 15,
+"segment": 15,
 "segment_id": "799idk6Kzu8TH8gtywyTV"
 },
 {
-"block": 16,
+"segment": 16,
 "segment_id": "FMfdSIon9JslGsAIcbqDP"
 },
 {
-"block": 17,
+"segment": 17,
 "segment_id": "ochdDzuBAHzmriKsQYSXA"
+}
+],
+"footnotes": [
+{
+"footnote": 1,
+"durchen_id": "fsYsf8X0v4T17OLZu2sVt"
+},
+{
+"footnote": 2,
+"durchen_id": "SwrlPbEvXIFQfiEwYR1ZA"
+},
+{
+"footnote": 3,
+"durchen_id": "VkelpJutAJqZkgO6GdH2O"
+},
+{
+"footnote": 4,
+"durchen_id": "KtRPMsYT6Td7hW3TjPIy4"
+},
+{
+"footnote": 5,
+"durchen_id": "yj9OfnpbqEUoH8cC28J5y"
+},
+{
+"footnote": 6,
+"durchen_id": "IbthrekB1eVe2RxhyZOtb"
+},
+{
+"footnote": 7,
+"durchen_id": "81yEpb585EpRkxAqlDNcj"
+},
+{
+"footnote": 8,
+"durchen_id": "B52Af6wfrjnlU5WpWMH42"
+},
+{
+"footnote": 9,
+"durchen_id": "JfRSwiFlmumQBLc0GG7JP"
 }
 ]
 }

@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 1
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation 1dXvawTwqX6AlIzo9GJR1 — one block per segment, in span order"
+verse_id_format:
+segments: 1
+segmentation_source: "openpecha-v2 segmentation annotation 1dXvawTwqX6AlIzo9GJR1 — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,10 +26,11 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: mvZP5HaJpjBNLRmKIDMjK
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: QwITnuQ2jbR7jWTnf7Gka"
   - "segmentation: 1dXvawTwqX6AlIzo9GJR1"
 status: ingested
 ---
 
-# Tārā dhārani ^0
+# Tārā dhārani
 
-Om tāre tuttare ture svāhā ^1
+Om tāre tuttare ture svāhā

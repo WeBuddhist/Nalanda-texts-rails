@@ -1,0 +1,27 @@
+{
+ "id": "LB48BWOx12fORmn86XZPp",
+ "type": "search_segmentation",
+ "data": [
+  {
+   "id": "U75irpeX0hnQIHRu3NkQq",
+   "span": {
+    "start": 0,
+    "end": 2304
+   }
+  },
+  {
+   "id": "bts2zkorSxbsB67baXHkH",
+   "span": {
+    "start": 2304,
+    "end": 4545
+   }
+  },
+  {
+   "id": "dRliIzLMMqfXHOAPvjI4P",
+   "span": {
+    "start": 4545,
+    "end": 4638
+   }
+  }
+ ]
+}

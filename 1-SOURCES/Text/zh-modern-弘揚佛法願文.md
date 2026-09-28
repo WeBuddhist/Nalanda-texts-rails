@@ -6,9 +6,9 @@ language: Modern Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh-modern
-total_verses: 6
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation BJYRBV7t5wPzya7Duncov — one block per segment, in span order"
+verse_id_format:
+segments: 6
+segmentation_source: "openpecha-v2 segmentation annotation BJYRBV7t5wPzya7Duncov — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -24,20 +24,21 @@ openpecha_v2_language: zh
 openpecha_v2_category_id: dJpr4gMF72E4UpCnJ84sh
 openpecha_v2_date: "2025-12-29"
 openpecha_v2_annotations:
+  - "search_segmentation: 8WuLtZIeYi9CaUyb08Jxz"
   - "segmentation: BJYRBV7t5wPzya7Duncov"
 status: ingested
 ---
 
-# 弘揚佛法願文 ^0
+# 弘揚佛法願文
 
-弘揚佛法願文 ^1
+弘揚佛法願文
 
-願我生生世世中， ^2
+願我生生世世中，
 
-荷負如來聖教擔， ^3
+荷負如來聖教擔，
 
-縱然無力作承擔， ^4
+縱然無力作承擔，
 
-然憂佛法衰退心， ^5
+然憂佛法衰退心，
 
-願我亦能生少許。 ^6
+願我亦能生少許。

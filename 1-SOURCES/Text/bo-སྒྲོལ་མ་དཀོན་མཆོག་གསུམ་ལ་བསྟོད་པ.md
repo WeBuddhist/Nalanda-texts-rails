@@ -9,9 +9,11 @@ language: Tibetan
 script: Unicode Tibetan
 file_type: root-text
 lang_tag: bo
-total_verses: 6
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation IOnLlcNcV1NsOJfK5uffJ — one block per segment, in span order"
+verse_id_format:
+segments: 6
+segmentation_source: "openpecha-v2 segmentation annotation IOnLlcNcV1NsOJfK5uffJ — one paragraph per segment, in span order"
+durchen_notes: 5
+durchen_source: "openpecha-v2 durchen annotation 5xx7QSVUKIOtpKLnpgQv8 — variant readings as footnotes placed right after each annotated span; each note reads 'lemma] ༼edition sigla༽ variant'"
 edition_type: critical
 license: Public Domain Mark
 copyright: Public domain
@@ -28,20 +30,27 @@ openpecha_v2_category_id: yteMP9CDaB50HjkAfiPQg
 openpecha_v2_date:
 openpecha_v2_annotations:
   - "durchen: 5xx7QSVUKIOtpKLnpgQv8"
+  - "search_segmentation: fRaCqH22tNg1NcFf6WC5B"
   - "segmentation: IOnLlcNcV1NsOJfK5uffJ"
 status: ingested
 ---
 
-# སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ། ^0
+# སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ།
 
-༄། །སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ་བཞུགས། ༄༅༅། །སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ། ལོག་རྟོག་མ་རིག་གཉིད་སྤངས་ཤིང་། །བློ་མཆོག་ཤེས་བྱ་ཀུན་ལ་ཁྱབ། ། ^1
+༄། །སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ་བཞུགས། ༄༅༅། །སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ། ལོག་རྟོག་[^1]མ་རིག་གཉིད་སྤངས་ཤིང་། །བློ་མཆོག་ཤེས་བྱ་ཀུན་ལ་ཁྱབ། །
 
-ཡང་དག་རྫོགས་པའི་མཆོག་བརྙེས་མ། །སྒྲོལ་མ་སངས་རྒྱས་ཁྱོད་ཕྱག་འཚལ། ། ^2
+ཡང་དག་རྫོགས་པའི་མཆོག་བརྙེས་མ། །སྒྲོལ་མ་སངས་རྒྱས་ཁྱོད་ཕྱག་འཚལ། །
 
-བདེ་ཆེན་ཞི་བ་མྱ་ངན་འདས། ། ^3
+བདེ་ཆེན་ཞི་བ་མྱ་ངན་འདས། །
 
-དམ་པའི་ཆོས་མཆོག་ཡི་གེ་བཅུ། །ཕ་རོལ་ཕྱིན་པ་བཅུ་ཡི་ཚུལ། །སྒྲོལ་མ་དམ་ཆོས་ཁྱོད་ཕྱག་འཚལ། ། ^4
+དམ་པའི་ཆོས་མཆོག་ཡི་གེ་བཅུ། །ཕ་རོལ་ཕྱིན་པ་བཅུ་ཡི་ཚུལ།[^2] །སྒྲོལ་མ་དམ་ཆོས་ཁྱོད་ཕྱག་འཚལ། །
 
-དུས་གསུམ་བདེ་གཤེགས་ཐམས་ཅད་ཀྱི། །སྐུ་དང་གསུང་དང་ཐུགས་གསང་བ། །འདུས་པའི་ཡེ་ཤེས་མཁའ་འགྲོ་མ། །སྒྲོལ་མ་དགེ་འདུན་ཁྱོད་ཕྱག་འཚལ། ། ^5
+དུས་གསུམ་བདེ་གཤེགས་ཐམས་ཅད་ཀྱི། །སྐུ་དང་གསུང་དང་ཐུགས་གསང་བ།[^3] །འདུས་པའི་ཡེ་ཤེས་མཁའ་འགྲོ་མ། །སྒྲོལ་མ་དགེ་འདུན་ཁྱོད་ཕྱག་འཚལ། །
 
-སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ། རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀ་ར་ཤྲཱི་ཛྙཱ་ནའི་ཞལ་སྔ་ནས་དང་། བོད་ཀྱི་ལོ་ཙཱ་བ་ནག་ཚོ་ཚུལ་ཁྲིམས་རྒྱལ་བས་བི་ཀྲ་མ་ཤཱི་ལའི་གཙུག་ལག་ཁང་དུ་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ། ^6
+སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ། རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀ་ར་ཤྲཱི་ཛྙཱ་ནའི་ཞལ་སྔ་ནས་དང་། བོད་ཀྱི་ལོ་ཙཱ་བ་ནག་ཚོ་ཚུལ་ཁྲིམས་རྒྱལ་བས་བི་ཀྲ་[^4]མ་ཤཱི་ལའི་གཙུག་ལག་ཁང་དུ་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ།[^5]
+
+[^1]: རྟོག་] ༼སྣར་༽༼པེ་༽ཏོག་
+[^2]: ཚུལ།] ༼སྣར་༽༼པེ་༽ཆུ།
+[^3]: གསང་བ།] ༼སྣར་༽༼པེ་༽གསང་བ་ཡིས།
+[^4]: ཀྲ་] ༼པེ་༽ཀྱ་
+[^5]: ] ༼སྣར་༽༼པེ་༽ལ་ཕབ་པ་རྫོགས་སོ།

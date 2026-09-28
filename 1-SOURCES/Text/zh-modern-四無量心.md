@@ -6,9 +6,9 @@ language: Modern Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh-modern
-total_verses: 5
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation ya1ITurG4Dy3MVuP82bB4 — one block per segment, in span order"
+verse_id_format:
+segments: 5
+segmentation_source: "openpecha-v2 segmentation annotation ya1ITurG4Dy3MVuP82bB4 — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,14 +28,14 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# 四無量心 ^0
+# 四無量心
 
-四無量心 ^1
+四無量心
 
-願等虛空一切慈母有情具足樂及樂因， ^2
+願等虛空一切慈母有情具足樂及樂因，
 
-願等虛空一切慈母有情遠離苦及苦因， ^3
+願等虛空一切慈母有情遠離苦及苦因，
 
-願等虛空一切慈母有情不離無苦妙樂， ^4
+願等虛空一切慈母有情不離無苦妙樂，
 
-願等虛空一切慈母有情遠離愛憎親疏 常住平等捨。 ^5
+願等虛空一切慈母有情遠離愛憎親疏 常住平等捨。

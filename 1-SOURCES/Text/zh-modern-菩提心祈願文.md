@@ -6,9 +6,9 @@ language: Modern Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh-modern
-total_verses: 5
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation O9cMS2uMrumugOPY9c7Y9 — one block per segment, in span order"
+verse_id_format:
+segments: 5
+segmentation_source: "openpecha-v2 segmentation annotation O9cMS2uMrumugOPY9c7Y9 — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,14 +28,14 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# 菩提心祈願文 ^0
+# 菩提心祈願文
 
-菩提心祈願文 ^1
+菩提心祈願文
 
-菩提心妙寶， ^2
+菩提心妙寶，
 
-未生令生起， ^3
+未生令生起，
 
-已生令堅固， ^4
+已生令堅固，
 
-已固令增長。 ^5
+已固令增長。

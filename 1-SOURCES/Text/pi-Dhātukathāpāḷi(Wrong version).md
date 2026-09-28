@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 1997
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation 7FAQd1Aj6Xa67ue6ZlNeg — one block per segment, in span order"
+verse_id_format:
+segments: 1997
+segmentation_source: "openpecha-v2 segmentation annotation 7FAQd1Aj6Xa67ue6ZlNeg — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -24,4002 +24,4003 @@ openpecha_v2_language: pi
 openpecha_v2_category_id: iGzbJ0D6zdyccIv2gnXeI
 openpecha_v2_date: "2026-04-27"
 openpecha_v2_annotations:
+  - "search_segmentation: Rs0RE8yfwwl29e2CnuHTF"
   - "segmentation: 7FAQd1Aj6Xa67ue6ZlNeg"
 status: ingested
 ---
 
-# Dhātukathāpāḷi(Wrong version) ^0
+# Dhātukathāpāḷi(Wrong version)
 
-Namo tassa bhagavato arahato sammāsambuddhassa ^1
+Namo tassa bhagavato arahato sammāsambuddhassa
 
-Abhidhammapiṭake ^2
+Abhidhammapiṭake
 
-Dhātukathāpāḷi ^3
+Dhātukathāpāḷi
 
-Uddeso ^4
+Uddeso
 
-1. Nayamātikā ^5
+1. Nayamātikā
 
-1. (1) Saṅgaho asaṅgaho (2) saṅgahitena asaṅgahitaṃ (3) asaṅgahitena saṅgahitaṃ (4) saṅgahitena saṅgahitaṃ (5) asaṅgahitena asaṅgahitaṃ (6) sampayogo vippayogo (7)sampayuttena vippayuttaṃ (8) vippayuttena sampayuttaṃ (9) sampayuttena sampayuttaṃ (10)vippayuttena vippayuttaṃ (11) saṅgahitena sampayuttaṃ vippayuttaṃ (12) sampayuttena saṅgahitaṃ asaṅgahitaṃ (13) asaṅgahitena sampayuttaṃ vippayuttaṃ (14) vippayuttena saṅgahitaṃ asaṅgahitaṃ. ^6
+1. (1) Saṅgaho asaṅgaho (2) saṅgahitena asaṅgahitaṃ (3) asaṅgahitena saṅgahitaṃ (4) saṅgahitena saṅgahitaṃ (5) asaṅgahitena asaṅgahitaṃ (6) sampayogo vippayogo (7)sampayuttena vippayuttaṃ (8) vippayuttena sampayuttaṃ (9) sampayuttena sampayuttaṃ (10)vippayuttena vippayuttaṃ (11) saṅgahitena sampayuttaṃ vippayuttaṃ (12) sampayuttena saṅgahitaṃ asaṅgahitaṃ (13) asaṅgahitena sampayuttaṃ vippayuttaṃ (14) vippayuttena saṅgahitaṃ asaṅgahitaṃ.
 
-2. Abbhantaramātikā ^7
+2. Abbhantaramātikā
 
-2. (1) Pañcakkhandhā (2) dvādasāyatanāni (3) aṭṭhārasa dhātuyo (4) cattāri saccāni (5) ^8
+2. (1) Pañcakkhandhā (2) dvādasāyatanāni (3) aṭṭhārasa dhātuyo (4) cattāri saccāni (5)
 
-bāvīsatindriyāni (6) paṭiccasamuppādo (7) cattāro satipaṭṭhānā (8)cattāro sammappadhānā (9) cattāro iddhipādā (10) cattāri jhānāni (11) catasso appamaññāyo (12) pañcindriyāni (13) pañca balāni (14) satta bojjhaṅgā (15)ariyo aṭṭhaṅgiko maggo (16) phasso vedanā saññā cetanā cittaṃ adhimokkho manasikāro. ^9
+bāvīsatindriyāni (6) paṭiccasamuppādo (7) cattāro satipaṭṭhānā (8)cattāro sammappadhānā (9) cattāro iddhipādā (10) cattāri jhānāni (11) catasso appamaññāyo (12) pañcindriyāni (13) pañca balāni (14) satta bojjhaṅgā (15)ariyo aṭṭhaṅgiko maggo (16) phasso vedanā saññā cetanā cittaṃ adhimokkho manasikāro.
 
-3. Nayamukhamātikā ^10
+3. Nayamukhamātikā
 
-3. Tīhi saṅgaho, tīhi asaṅgaho, catūhi sampayogo, catūhi vippayogo. ^11
+3. Tīhi saṅgaho, tīhi asaṅgaho, catūhi sampayogo, catūhi vippayogo.
 
-4. Lakkhaṇamātikā ^12
+4. Lakkhaṇamātikā
 
-4. Sabhāgo, visabhāgo. ^13
+4. Sabhāgo, visabhāgo.
 
-5. Bāhiramātikā ^14
+5. Bāhiramātikā
 
-5. Sabbāpi dhammasaṅgaṇī dhātukathāya mātikāti. ^15
+5. Sabbāpi dhammasaṅgaṇī dhātukathāya mātikāti.
 
-1. Paṭhamanayo ^16
+1. Paṭhamanayo
 
-1. Saṅgahāsaṅgahapadaniddeso ^17
+1. Saṅgahāsaṅgahapadaniddeso
 
-1. Khandho ^18
+1. Khandho
 
-6. Rūpakkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Rūpakkhandho ekena ^19
+6. Rūpakkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Rūpakkhandho ekena
 
-khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahito. Katihi asaṅgahito? Catūhi khandhehi ^20
+khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahito. Katihi asaṅgahito? Catūhi khandhehi
 
-ekenāyatanena sattahi dhātūhi asaṅgahito. ^21
+ekenāyatanena sattahi dhātūhi asaṅgahito.
 
-7. Vedanākkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Vedanākkhandho ^22
+7. Vedanākkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Vedanākkhandho
 
-ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi ^23
+ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahito. ^24
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahito.
 
-8. Saññākkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Saññākkhandho ekena ^25
+8. Saññākkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Saññākkhandho ekena
 
-khandhena ekenāyatanena ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi ^26
+khandhena ekenāyatanena ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahito. ^27
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahito.
 
-9. Saṅkhārakkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Saṅkhārakkhandho ^28
+9. Saṅkhārakkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Saṅkhārakkhandho
 
-ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi ^29
+ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahito. ^30
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahito.
 
-10. Viññāṇakkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Viññāṇakkhandho ^31
+10. Viññāṇakkhandho katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahito? Viññāṇakkhandho
 
-ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahito. Katihi asaṅgahito? Catūhi khandhehi ^32
+ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahito. Katihi asaṅgahito? Catūhi khandhehi
 
-ekādasahāyatanehi ekādasahi dhātūhi asaṅgahito. ^33
+ekādasahāyatanehi ekādasahi dhātūhi asaṅgahito.
 
-(Ekamūlakaṃ.) ^34
+(Ekamūlakaṃ.)
 
-11. Rūpakkhandho ca vedanākkhandho ca katihi khandhehi katihāyatanehi katihi dhātūhi ^35
+11. Rūpakkhandho ca vedanākkhandho ca katihi khandhehi katihāyatanehi katihi dhātūhi
 
-saṅgahitā? Rūpakkhandho ca vedanākkhandho ca dvīhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi ^36
+saṅgahitā? Rūpakkhandho ca vedanākkhandho ca dvīhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā. ^37
+saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-12. Rūpakkhandho ca saññākkhandho ca…pe… dvīhi khandhehi ekādasahāyatanehi ekādasahi ^38
+12. Rūpakkhandho ca saññākkhandho ca…pe… dvīhi khandhehi ekādasahāyatanehi ekādasahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā. ^39
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-13. Rūpakkhandho ca saṅkhārakkhandho ca…pe… dvīhi khandhehi ekādasahāyatanehi ekādasahi ^40
+13. Rūpakkhandho ca saṅkhārakkhandho ca…pe… dvīhi khandhehi ekādasahāyatanehi ekādasahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā. ^41
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-14. Rūpakkhandho ca viññāṇakkhandho ca…pe… dvīhi khandhehi dvādasahāyatanehi aṭṭhārasahi ^42
+14. Rūpakkhandho ca viññāṇakkhandho ca…pe… dvīhi khandhehi dvādasahāyatanehi aṭṭhārasahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi, na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^43
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi, na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-(Dukamūlakaṃ.) ^44
+(Dukamūlakaṃ.)
 
-15. Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca katihi khandhehi katihāyatanehi ^45
+15. Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca katihi khandhehi katihāyatanehi
 
-katihi dhātūhi saṅgahitā? Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca tīhi khandhehi ^46
+katihi dhātūhi saṅgahitā? Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca tīhi khandhehi
 
-ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekenāyatanena ^47
+ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekenāyatanena
 
-sattahi dhātūhi asaṅgahitā. ^48
+sattahi dhātūhi asaṅgahitā.
 
-16. Rūpakkhandho ca vedanākkhandho ca saṅkhārakkhandho ca…pe… tīhi khandhehi ^49
+16. Rūpakkhandho ca vedanākkhandho ca saṅkhārakkhandho ca…pe… tīhi khandhehi
 
-ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekenāyatanena ^50
+ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekenāyatanena
 
-sattahi dhātūhi asaṅgahitā. ^51
+sattahi dhātūhi asaṅgahitā.
 
-17. Rūpakkhandho ca vedanākkhandho ca viññāṇakkhandho ca…pe… tīhi khandhehi ^52
+17. Rūpakkhandho ca vedanākkhandho ca viññāṇakkhandho ca…pe… tīhi khandhehi
 
-dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi, na kehici ^53
+dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi, na kehici
 
-āyatanehi na kāhici dhātūhi asaṅgahitā. ^54
+āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-(Tikamūlakaṃ.) ^55
+(Tikamūlakaṃ.)
 
-18. Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca saṅkhārakkhandho ca katihi ^56
+18. Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca saṅkhārakkhandho ca katihi
 
-khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Rūpakkhandho ca vedanākkhandho ca ^57
+khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Rūpakkhandho ca vedanākkhandho ca
 
-saññākkhandho ca saṅkhārakkhandho ca catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi ^58
+saññākkhandho ca saṅkhārakkhandho ca catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ekenāyatanena sattahi dhātūhi asaṅgahitā. ^59
+saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-19. Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca viññāṇakkhandho ca…pe… catūhi ^60
+19. Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca viññāṇakkhandho ca…pe… catūhi
 
-khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena, na ^61
+khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena, na
 
-kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^62
+kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-(Catukkamūlakaṃ.) ^63
+(Catukkamūlakaṃ.)
 
-20. Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca saṅkhārakkhandho ca ^64
+20. Rūpakkhandho ca vedanākkhandho ca saññākkhandho ca saṅkhārakkhandho ca
 
-viññāṇakkhandho ca katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Rūpakkhandho ca ^65
+viññāṇakkhandho ca katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Rūpakkhandho ca
 
-vedanākkhandho ca saññākkhandho ca saṅkhārakkhandho ca viññāṇakkhandho ca pañcahi khandhehi ^66
+vedanākkhandho ca saññākkhandho ca saṅkhārakkhandho ca viññāṇakkhandho ca pañcahi khandhehi
 
-dvādasāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^67
+dvādasāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi na kāhici dhātūhi asaṅgahitā. ^68
+āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-21. Pañcakkhandhā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Pañcakkhandhā ^69
+21. Pañcakkhandhā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Pañcakkhandhā
 
-pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^70
+pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^71
+khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-(Pañcakaṃ.) ^72
+(Pañcakaṃ.)
 
-2. Āyatanaṃ ^73
+2. Āyatanaṃ
 
-22. Cakkhāyatanaṃ katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitaṃ? Cakkhāyatanaṃ ^74
+22. Cakkhāyatanaṃ katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitaṃ? Cakkhāyatanaṃ
 
-ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ^75
+ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ. ^76
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ.
 
-23. Sotāyatanaṃ … ghānāyatanaṃ… jivhāyatanaṃ… kāyāyatanaṃ… rūpāyatanaṃ… ^77
+23. Sotāyatanaṃ … ghānāyatanaṃ… jivhāyatanaṃ… kāyāyatanaṃ… rūpāyatanaṃ…
 
-saddāyatanaṃ… gandhāyatanaṃ… rasāyatanaṃ… phoṭṭhabbāyatanaṃ…pe… ekena khandhena ^78
+saddāyatanaṃ… gandhāyatanaṃ… rasāyatanaṃ… phoṭṭhabbāyatanaṃ…pe… ekena khandhena
 
-ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi ^79
+ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi asaṅgahitaṃ. ^80
+sattarasahi dhātūhi asaṅgahitaṃ.
 
-24. Manāyatanaṃ ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitaṃ. Katihi ^81
+24. Manāyatanaṃ ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitaṃ. Katihi
 
-asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitaṃ. ^82
+asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitaṃ.
 
-25. Dhammāyatanaṃ asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi ekenāyatanena ekāya ^83
+25. Dhammāyatanaṃ asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi ekenāyatanena ekāya
 
-dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Ekena khandhena ekādasahāyatanehi sattarasahi dhātūhi ^84
+dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Ekena khandhena ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahitaṃ. ^85
+asaṅgahitaṃ.
 
-(Ekamūlakaṃ.) ^86
+(Ekamūlakaṃ.)
 
-26. Cakkhāyatanañca sotāyatanañca ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahitā. ^87
+26. Cakkhāyatanañca sotāyatanañca ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^88
+Katihi asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-27. Cakkhāyatanañca ghānāyatanañca… cakkhāyatanañca jivhāyatanañca… cakkhāyatanañca ^89
+27. Cakkhāyatanañca ghānāyatanañca… cakkhāyatanañca jivhāyatanañca… cakkhāyatanañca
 
-kāyāyatanañca… cakkhāyatanañca rūpāyatanañca… cakkhāyatanañca saddāyatanañca… ^90
+kāyāyatanañca… cakkhāyatanañca rūpāyatanañca… cakkhāyatanañca saddāyatanañca…
 
-cakkhāyatanañca gandhāyatanañca… cakkhāyatanañca rasāyatanañca… cakkhāyatanañca ^91
+cakkhāyatanañca gandhāyatanañca… cakkhāyatanañca rasāyatanañca… cakkhāyatanañca
 
-phoṭṭhabbāyatanañca ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi ^92
+phoṭṭhabbāyatanañca ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi
 
-khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^93
+khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-28. Cakkhāyatanañca manāyatanañca dvīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. ^94
+28. Cakkhāyatanañca manāyatanañca dvīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Tīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^95
+Katihi asaṅgahitā? Tīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-29. Cakkhāyatanañca dhammāyatanañca asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi ^96
+29. Cakkhāyatanañca dhammāyatanañca asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^97
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^98
+dhātūhi asaṅgahitā.
 
-(Dukamūlakaṃ.) ^99
+(Dukamūlakaṃ.)
 
-30. Dvādasāyatanāni katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Dvādasāyatanāni ^100
+30. Dvādasāyatanāni katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Dvādasāyatanāni
 
-asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. ^101
+asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^102
+Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-(Dvādasakaṃ.) ^103
+(Dvādasakaṃ.)
 
-3. Dhātu ^104
+3. Dhātu
 
-31. Cakkhudhātu katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Cakkhudhātu ekena ^105
+31. Cakkhudhātu katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Cakkhudhātu ekena
 
-khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ^106
+khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^107
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-32. Sotadhātu… ghānadhātu… jivhādhātu… kāyadhātu… rūpadhātu… saddadhātu… ^108
+32. Sotadhātu… ghānadhātu… jivhādhātu… kāyadhātu… rūpadhātu… saddadhātu…
 
-gandhadhātu… rasadhātu… phoṭṭhabbadhātu… cakkhuviññāṇadhātu… sotaviññāṇadhātu… ^109
+gandhadhātu… rasadhātu… phoṭṭhabbadhātu… cakkhuviññāṇadhātu… sotaviññāṇadhātu…
 
-ghānaviññāṇadhātu… jivhāviññāṇadhātu… kāyaviññāṇadhātu… manodhātu… manoviññāṇadhātu ^110
+ghānaviññāṇadhātu… jivhāviññāṇadhātu… kāyaviññāṇadhātu… manodhātu… manoviññāṇadhātu
 
-ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ^111
+ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^112
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-33. Dhammadhātu asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi ekenāyatanena ekāya dhātuyā ^113
+33. Dhammadhātu asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi ekenāyatanena ekāya dhātuyā
 
-saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^114
+saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-(Ekamūlakaṃ.) ^115
+(Ekamūlakaṃ.)
 
-34. Cakkhudhātu ca sotadhātu ca ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi ^116
+34. Cakkhudhātu ca sotadhātu ca ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^117
+asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-35. Cakkhudhātu ca ghānadhātu ca… cakkhudhātu ca jivhādhātu ca… cakkhudhātu ca kāyadhātu ^118
+35. Cakkhudhātu ca ghānadhātu ca… cakkhudhātu ca jivhādhātu ca… cakkhudhātu ca kāyadhātu
 
-ca… cakkhudhātu ca rūpadhātu ca… cakkhudhātu ca saddadhātu ca… cakkhudhātu ca gandhadhātu ^119
+ca… cakkhudhātu ca rūpadhātu ca… cakkhudhātu ca saddadhātu ca… cakkhudhātu ca gandhadhātu
 
-ca… cakkhudhātu ca rasadhātu ca… cakkhudhātu ca phoṭṭhabbadhātu ca ekena khandhena ^120
+ca… cakkhudhātu ca rasadhātu ca… cakkhudhātu ca phoṭṭhabbadhātu ca ekena khandhena
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi ^121
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^122
+dhātūhi asaṅgahitā.
 
-36. Cakkhudhātu ca cakkhuviññāṇadhātu ca dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi ^123
+36. Cakkhudhātu ca cakkhuviññāṇadhātu ca dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^124
+saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-37. Cakkhudhātu ca sotaviññāṇadhātu ca… cakkhudhātu ca ghānaviññāṇadhātu ca… cakkhudhātu ^125
+37. Cakkhudhātu ca sotaviññāṇadhātu ca… cakkhudhātu ca ghānaviññāṇadhātu ca… cakkhudhātu
 
-ca jivhāviññāṇadhātu ca… cakkhudhātu ca kāyaviññāṇadhātu ca… cakkhudhātu ca manodhātu ca… ^126
+ca jivhāviññāṇadhātu ca… cakkhudhātu ca kāyaviññāṇadhātu ca… cakkhudhātu ca manodhātu ca…
 
-cakkhudhātu ca manoviññāṇadhātu ca dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi ^127
+cakkhudhātu ca manoviññāṇadhātu ca dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^128
+asaṅgahitā? Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-38. Cakkhudhātu ca dhammadhātu ca asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi ^129
+38. Cakkhudhātu ca dhammadhātu ca asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^130
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^131
+dhātūhi asaṅgahitā.
 
-(Dukamūlakaṃ.) ^132
+(Dukamūlakaṃ.)
 
-39. Aṭṭhārasa dhātuyo katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Aṭṭhārasa dhātuyo ^133
+39. Aṭṭhārasa dhātuyo katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Aṭṭhārasa dhātuyo
 
-asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. ^134
+asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^135
+Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-(Aṭṭhārasakaṃ.) ^136
+(Aṭṭhārasakaṃ.)
 
-4. Saccaṃ ^137
+4. Saccaṃ
 
-40. Dukkhasaccaṃ katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitaṃ? Dukkhasaccaṃ ^138
+40. Dukkhasaccaṃ katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitaṃ? Dukkhasaccaṃ
 
-pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitaṃ. Katihi asaṅgahitaṃ? Na kehici ^139
+pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitaṃ. Katihi asaṅgahitaṃ? Na kehici
 
-khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitaṃ. ^140
+khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitaṃ.
 
-41. Samudayasaccaṃ … maggasaccaṃ ekena khandhena ekenāyatanena ekāya dhātuyā ^141
+41. Samudayasaccaṃ … maggasaccaṃ ekena khandhena ekenāyatanena ekāya dhātuyā
 
-saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ. ^142
+saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ.
 
-42. Nirodhasaccaṃ na kehici khandhehi ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi ^143
+42. Nirodhasaccaṃ na kehici khandhehi ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi
 
-asaṅgahitaṃ? Pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ. ^144
+asaṅgahitaṃ? Pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ.
 
-(Ekamūlakaṃ.) ^145
+(Ekamūlakaṃ.)
 
-43. Dukkhasaccañca samudayasaccañca pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi ^146
+43. Dukkhasaccañca samudayasaccañca pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^147
+saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-44. Dukkhasaccañca maggasaccañca pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi ^148
+44. Dukkhasaccañca maggasaccañca pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^149
+saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-45. Dukkhasaccañca nirodhasaccañca asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^150
+45. Dukkhasaccañca nirodhasaccañca asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^151
+dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi na kāhici dhātūhi asaṅgahitā. ^152
+āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-(Dukamūlakaṃ.) ^153
+(Dukamūlakaṃ.)
 
-46. Dukkhasaccañca samudayasaccañca maggasaccañca pañcahi khandhehi dvādasahāyatanehi ^154
+46. Dukkhasaccañca samudayasaccañca maggasaccañca pañcahi khandhehi dvādasahāyatanehi
 
-aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici ^155
+aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici
 
-dhātūhi asaṅgahitā. ^156
+dhātūhi asaṅgahitā.
 
-47. Dukkhasaccañca samudayasaccañca nirodhasaccañca asaṅkhataṃ khandhato ṭhapetvā pañcahi ^157
+47. Dukkhasaccañca samudayasaccañca nirodhasaccañca asaṅkhataṃ khandhato ṭhapetvā pañcahi
 
-khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na ^158
+khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na
 
-kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^159
+kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-(Tikamūlakaṃ.) ^160
+(Tikamūlakaṃ.)
 
-48. Dukkhasaccañca samudayasaccañca maggasaccañca nirodhasaccañca asaṅkhataṃ khandhato ^161
+48. Dukkhasaccañca samudayasaccañca maggasaccañca nirodhasaccañca asaṅkhataṃ khandhato
 
-ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na ^162
+ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na
 
-kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^163
+kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-49. Cattāri saccāni katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitāni? Cattāri saccāni ^164
+49. Cattāri saccāni katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitāni? Cattāri saccāni
 
-asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitāni. ^165
+asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitāni.
 
-Katihi asaṅgahitāni? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitāni. ^166
+Katihi asaṅgahitāni? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitāni.
 
-(Catukkaṃ.) ^167
+(Catukkaṃ.)
 
-5. Indriyaṃ ^168
+5. Indriyaṃ
 
-50. Cakkhundriyaṃ katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitaṃ? Cakkhundriyaṃ ^169
+50. Cakkhundriyaṃ katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitaṃ? Cakkhundriyaṃ
 
-ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ^170
+ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ. ^171
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ.
 
-51. Sotindriyaṃ… ghānindriyaṃ… jivhindriyaṃ… kāyindriyaṃ… itthindriyaṃ … purisindriyaṃ ^172
+51. Sotindriyaṃ… ghānindriyaṃ… jivhindriyaṃ… kāyindriyaṃ… itthindriyaṃ … purisindriyaṃ
 
-ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ^173
+ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ. ^174
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ.
 
-52. Manindriyaṃ ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitaṃ. Katihi asaṅgahitaṃ? ^175
+52. Manindriyaṃ ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitaṃ. Katihi asaṅgahitaṃ?
 
-Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitaṃ. ^176
+Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitaṃ.
 
-53. Jīvitindriyaṃ dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? ^177
+53. Jīvitindriyaṃ dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ?
 
-Tīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ. ^178
+Tīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ.
 
-54. Sukhindriyaṃ … dukkhindriyaṃ… somanassindriyaṃ… domanassindriyaṃ… ^179
+54. Sukhindriyaṃ … dukkhindriyaṃ… somanassindriyaṃ… domanassindriyaṃ…
 
-upekkhindriyaṃ… saddhindriyaṃ… vīriyindriyaṃ… satindriyaṃ… samādhindriyaṃ… ^180
+upekkhindriyaṃ… saddhindriyaṃ… vīriyindriyaṃ… satindriyaṃ… samādhindriyaṃ…
 
-paññindriyaṃ… anaññātaññassāmītindriyaṃ… aññindriyaṃ… aññātāvindriyaṃ ekena khandhena ^181
+paññindriyaṃ… anaññātaññassāmītindriyaṃ… aññindriyaṃ… aññātāvindriyaṃ ekena khandhena
 
-ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi ^182
+ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi asaṅgahitaṃ. ^183
+sattarasahi dhātūhi asaṅgahitaṃ.
 
-(Ekamūlakaṃ.) ^184
+(Ekamūlakaṃ.)
 
-55. Cakkhundriyañca sotindriyañca ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi ^185
+55. Cakkhundriyañca sotindriyañca ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^186
+asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-56. Cakkhundriyañca ghānindriyañca… cakkhundriyañca jivhindriyañca… cakkhundriyañca ^187
+56. Cakkhundriyañca ghānindriyañca… cakkhundriyañca jivhindriyañca… cakkhundriyañca
 
-kāyindriyañca… cakkhundriyañca itthindriyañca… cakkhundriyañca purisindriyañca ekena khandhena ^188
+kāyindriyañca… cakkhundriyañca itthindriyañca… cakkhundriyañca purisindriyañca ekena khandhena
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi ^189
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^190
+dhātūhi asaṅgahitā.
 
-57. Cakkhundriyañca manindriyañca dvīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. ^191
+57. Cakkhundriyañca manindriyañca dvīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Tīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^192
+Katihi asaṅgahitā? Tīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-58. Cakkhundriyañca jīvitindriyañca dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi ^193
+58. Cakkhundriyañca jīvitindriyañca dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^194
+asaṅgahitā? Tīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-59. Cakkhundriyañca sukhindriyañca… cakkhundriyañca dukkhindriyañca… cakkhundriyañca ^195
+59. Cakkhundriyañca sukhindriyañca… cakkhundriyañca dukkhindriyañca… cakkhundriyañca
 
-somanassindriyañca… cakkhundriyañca domanassindriyañca… cakkhundriyañca upekkhindriyañca… ^196
+somanassindriyañca… cakkhundriyañca domanassindriyañca… cakkhundriyañca upekkhindriyañca…
 
-cakkhundriyañca saddhindriyañca… cakkhundriyañca vīriyindriyañca… cakkhundriyañca ^197
+cakkhundriyañca saddhindriyañca… cakkhundriyañca vīriyindriyañca… cakkhundriyañca
 
-satindriyañca… cakkhundriyañca samādhindriyañca… cakkhundriyañca paññindriyañca… ^198
+satindriyañca… cakkhundriyañca samādhindriyañca… cakkhundriyañca paññindriyañca…
 
-cakkhundriyañca anaññātaññassāmītindriyañca… cakkhundriyañca aññindriyañca… cakkhundriyañca ^199
+cakkhundriyañca anaññātaññassāmītindriyañca… cakkhundriyañca aññindriyañca… cakkhundriyañca
 
-aññātāvindriyañca dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi ^200
+aññātāvindriyañca dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi
 
-khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^201
+khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-(Dukamūlakaṃ.) ^202
+(Dukamūlakaṃ.)
 
-60. Bāvīsatindriyāni katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitāni? Bāvīsatindriyāni ^203
+60. Bāvīsatindriyāni katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitāni? Bāvīsatindriyāni
 
-catūhi khandhehi sattahāyatanehi terasahi dhātūhi saṅgahitāni. Katihi asaṅgahitāni? Ekena khandhena ^204
+catūhi khandhehi sattahāyatanehi terasahi dhātūhi saṅgahitāni. Katihi asaṅgahitāni? Ekena khandhena
 
-pañcahāyatanehi pañcahi dhātūhi asaṅgahitāni. ^205
+pañcahāyatanehi pañcahi dhātūhi asaṅgahitāni.
 
-6. Paṭiccasamuppādādi ^206
+6. Paṭiccasamuppādādi
 
-61. Avijjā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi ^207
+61. Avijjā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi
 
-khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^208
+khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-62. Avijjāpaccayā saṅkhārā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi ^209
+62. Avijjāpaccayā saṅkhārā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi
 
-asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^210
+asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-63. Saṅkhārapaccayā viññāṇaṃ ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitaṃ. Katihi ^211
+63. Saṅkhārapaccayā viññāṇaṃ ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitaṃ. Katihi
 
-asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitaṃ. ^212
+asaṅgahitaṃ? Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitaṃ.
 
-64. Viññāṇapaccayā nāmarūpaṃ catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi ^213
+64. Viññāṇapaccayā nāmarūpaṃ catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi
 
-saṅgahitaṃ. Katihi asaṅgahitaṃ? Ekena khandhena ekenāyatanena sattahi dhātūhi asaṅgahitaṃ. ^214
+saṅgahitaṃ. Katihi asaṅgahitaṃ? Ekena khandhena ekenāyatanena sattahi dhātūhi asaṅgahitaṃ.
 
-65. Nāmarūpapaccayā saḷāyatanaṃ dvīhi khandhehi chahāyatanehi dvādasahi dhātūhi saṅgahitaṃ. ^215
+65. Nāmarūpapaccayā saḷāyatanaṃ dvīhi khandhehi chahāyatanehi dvādasahi dhātūhi saṅgahitaṃ.
 
-Katihi asaṅgahitaṃ? Tīhi khandhehi chahāyatanehi chahi dhātūhi asaṅgahitaṃ. ^216
+Katihi asaṅgahitaṃ? Tīhi khandhehi chahāyatanehi chahi dhātūhi asaṅgahitaṃ.
 
-66. Saḷāyatanapaccayā phasso… phassapaccayā vedanā… vedanāpaccayā taṇhā… taṇhāpaccayā ^217
+66. Saḷāyatanapaccayā phasso… phassapaccayā vedanā… vedanāpaccayā taṇhā… taṇhāpaccayā
 
-upādānaṃ… kammabhavo [upādānapaccayā kammabhavo (sī. syā.)] ekena khandhena ekenāyatanena ^218
+upādānaṃ… kammabhavo [upādānapaccayā kammabhavo (sī. syā.)] ekena khandhena ekenāyatanena
 
-ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^219
+ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahito. ^220
+asaṅgahito.
 
-67. Upapattibhavo … kāmabhavo… saññābhavo… pañcavokārabhavo pañcahi khandhehi ^221
+67. Upapattibhavo … kāmabhavo… saññābhavo… pañcavokārabhavo pañcahi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi saṅgahito. Katihi asaṅgahito? Na kehici khandhehi ekenāyatanena ^222
+ekādasahāyatanehi sattarasahi dhātūhi saṅgahito. Katihi asaṅgahito? Na kehici khandhehi ekenāyatanena
 
-ekāya dhātuyā asaṅgahito. ^223
+ekāya dhātuyā asaṅgahito.
 
-68. Rūpabhavo pañcahi khandhehi pañcahāyatanehi aṭṭhahi dhātūhi saṅgahito. Katihi asaṅgahito? ^224
+68. Rūpabhavo pañcahi khandhehi pañcahāyatanehi aṭṭhahi dhātūhi saṅgahito. Katihi asaṅgahito?
 
-Na kehici khandhehi sattahāyatanehi dasahi dhātūhi asaṅgahito. ^225
+Na kehici khandhehi sattahāyatanehi dasahi dhātūhi asaṅgahito.
 
-69. Arūpabhavo… nevasaññānāsaññābhavo… catuvokārabhavo catūhi khandhehi dvīhāyatanehi ^226
+69. Arūpabhavo… nevasaññānāsaññābhavo… catuvokārabhavo catūhi khandhehi dvīhāyatanehi
 
-dvīhi dhātūhi saṅgahito. Katihi asaṅgahito? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^227
+dvīhi dhātūhi saṅgahito. Katihi asaṅgahito? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-asaṅgahito. ^228
+asaṅgahito.
 
-70. Asaññābhavo… ekavokārabhavo ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahito. ^229
+70. Asaññābhavo… ekavokārabhavo ekena khandhena dvīhāyatanehi dvīhi dhātūhi saṅgahito.
 
-Katihi asaṅgahito? Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahito. ^230
+Katihi asaṅgahito? Catūhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahito.
 
-71. Jāti dvīhi khandhehi… jarā dvīhi khandhehi… maraṇaṃ dvīhi khandhehi ekenāyatanena ekāya ^231
+71. Jāti dvīhi khandhehi… jarā dvīhi khandhehi… maraṇaṃ dvīhi khandhehi ekenāyatanena ekāya
 
-dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Tīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^232
+dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Tīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahitaṃ. ^233
+asaṅgahitaṃ.
 
-72. Soko… paridevo… dukkhaṃ… domanassaṃ… upāyāso… satipaṭṭhānaṃ… sammappadhānaṃ ^234
+72. Soko… paridevo… dukkhaṃ… domanassaṃ… upāyāso… satipaṭṭhānaṃ… sammappadhānaṃ
 
-ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi ^235
+ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ. ^236
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ.
 
-73. Iddhipādo dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahito. Katihi asaṅgahito? Tīhi ^237
+73. Iddhipādo dvīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahito. Katihi asaṅgahito? Tīhi
 
-khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahito. ^238
+khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahito.
 
-74. Jhānaṃ dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Tīhi ^239
+74. Jhānaṃ dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitaṃ. Katihi asaṅgahitaṃ? Tīhi
 
-khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ. ^240
+khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitaṃ.
 
-75. Appamaññā … pañcindriyāni… pañca balāni… satta bojjhaṅgā… ariyo aṭṭhaṅgiko maggo… ^241
+75. Appamaññā … pañcindriyāni… pañca balāni… satta bojjhaṅgā… ariyo aṭṭhaṅgiko maggo…
 
-phasso… vedanā… saññā… cetanā… adhimokkho… manasikāro ekena khandhena ekenāyatanena ^242
+phasso… vedanā… saññā… cetanā… adhimokkho… manasikāro ekena khandhena ekenāyatanena
 
-ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^243
+ekāya dhātuyā saṅgahito. Katihi asaṅgahito? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahito. ^244
+asaṅgahito.
 
-76. Cittaṃ ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitaṃ. Katihi asaṅgahitaṃ? ^245
+76. Cittaṃ ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitaṃ. Katihi asaṅgahitaṃ?
 
-Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitaṃ. ^246
+Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitaṃ.
 
-7. Tikaṃ ^247
+7. Tikaṃ
 
-77. Kusalā dhammā… akusalā dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? ^248
+77. Kusalā dhammā… akusalā dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā?
 
-Kusalā dhammā… akusalā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi ^249
+Kusalā dhammā… akusalā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^250
+asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-78. Abyākatā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi ^251
+78. Abyākatā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi
 
-aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici ^252
+aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici
 
-dhātūhi asaṅgahitā. ^253
+dhātūhi asaṅgahitā.
 
-79. Sukhāya vedanāya sampayuttā dhammā… dukkhāya vedanāya sampayuttā dhammā tīhi ^254
+79. Sukhāya vedanāya sampayuttā dhammā… dukkhāya vedanāya sampayuttā dhammā tīhi
 
-khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi ^255
+khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi
 
-pannarasahi dhātūhi asaṅgahitā. ^256
+pannarasahi dhātūhi asaṅgahitā.
 
-80. Adukkhamasukhāya vedanāya sampayuttā dhammā tīhi khandhehi dvīhāyatanehi sattahi ^257
+80. Adukkhamasukhāya vedanāya sampayuttā dhammā tīhi khandhehi dvīhāyatanehi sattahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi asaṅgahitā. ^258
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi asaṅgahitā.
 
-81. Vipākā dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? ^259
+81. Vipākā dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā?
 
-Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^260
+Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-82. Vipākadhammadhammā… saṃkiliṭṭhasaṃkilesikā dhammā catūhi khandhehi dvīhāyatanehi ^261
+82. Vipākadhammadhammā… saṃkiliṭṭhasaṃkilesikā dhammā catūhi khandhehi dvīhāyatanehi
 
-dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^262
+dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-asaṅgahitā. ^263
+asaṅgahitā.
 
-83. Nevavipākanavipākadhammadhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^264
+83. Nevavipākanavipākadhammadhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^265
+dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi pañcahi dhātūhi asaṅgahitā. ^266
+āyatanehi pañcahi dhātūhi asaṅgahitā.
 
-84. Upādinnupādāniyā dhammā pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^267
+84. Upādinnupādāniyā dhammā pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi ekenāyatanena ekāya dhātuyā asaṅgahitā. ^268
+saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi ekenāyatanena ekāya dhātuyā asaṅgahitā.
 
-85. Anupādinnupādāniyā dhammā pañcahi khandhehi sattahāyatanehi aṭṭhahi dhātūhi saṅgahitā. ^269
+85. Anupādinnupādāniyā dhammā pañcahi khandhehi sattahāyatanehi aṭṭhahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi asaṅgahitā. ^270
+Katihi asaṅgahitā? Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-86. Anupādinnaanupādāniyā dhammā… asaṃkiliṭṭhaasaṃkilesikā dhammā asaṅkhataṃ khandhato ^271
+86. Anupādinnaanupādāniyā dhammā… asaṃkiliṭṭhaasaṃkilesikā dhammā asaṅkhataṃ khandhato
 
-ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ^272
+ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^273
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-87. Asaṃkiliṭṭhasaṃkilesikā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi ^274
+87. Asaṃkiliṭṭhasaṃkilesikā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^275
+saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-88. Savitakkasavicārā dhammā catūhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi ^276
+88. Savitakkasavicārā dhammā catūhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi asaṅgahitā. ^277
+asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi asaṅgahitā.
 
-89. Avitakkavicāramattā dhammā… pītisahagatā dhammā catūhi khandhehi dvīhāyatanehi dvīhi ^278
+89. Avitakkavicāramattā dhammā… pītisahagatā dhammā catūhi khandhehi dvīhāyatanehi dvīhi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^279
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-90. Avitakkaavicārā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^280
+90. Avitakkaavicārā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^281
+dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi ekāya dhātuyā asaṅgahitā. ^282
+āyatanehi ekāya dhātuyā asaṅgahitā.
 
-91. Sukhasahagatā dhammā tīhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? ^283
+91. Sukhasahagatā dhammā tīhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā?
 
-Dvīhi khandhehi dasahāyatanehi pannarasahi dhātūhi asaṅgahitā. ^284
+Dvīhi khandhehi dasahāyatanehi pannarasahi dhātūhi asaṅgahitā.
 
-92. Upekkhāsahagatā dhammā tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṅgahitā. Katihi ^285
+92. Upekkhāsahagatā dhammā tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi asaṅgahitā. ^286
+asaṅgahitā? Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi asaṅgahitā.
 
-93. Dassanena pahātabbā dhammā… bhāvanāya pahātabbā dhammā… dassanena pahātabbahetukā ^287
+93. Dassanena pahātabbā dhammā… bhāvanāya pahātabbā dhammā… dassanena pahātabbahetukā
 
-dhammā… bhāvanāya pahātabbahetukā dhammā… ācayagāmino dhammā… apacayagāmino ^288
+dhammā… bhāvanāya pahātabbahetukā dhammā… ācayagāmino dhammā… apacayagāmino
 
-dhammā… sekkhā dhammā… asekkhā dhammā… mahaggatā dhammā catūhi khandhehi dvīhāyatanehi ^289
+dhammā… sekkhā dhammā… asekkhā dhammā… mahaggatā dhammā catūhi khandhehi dvīhāyatanehi
 
-dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^290
+dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-asaṅgahitā. ^291
+asaṅgahitā.
 
-94. Neva dassanena na bhāvanāya pahātabbā dhammā… neva dassanena na bhāvanāya ^292
+94. Neva dassanena na bhāvanāya pahātabbā dhammā… neva dassanena na bhāvanāya
 
-pahātabbahetukā dhammā… nevācayagāmināpacayagāmino dhammā… nevasekkhanāsekkhā dhammā ^293
+pahātabbahetukā dhammā… nevācayagāmināpacayagāmino dhammā… nevasekkhanāsekkhā dhammā
 
-asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. ^294
+asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^295
+Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-95. Parittā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^296
+95. Parittā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^297
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-96. Appamāṇā dhammā… paṇītā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi ^298
+96. Appamāṇā dhammā… paṇītā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^299
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^300
+dhātūhi asaṅgahitā.
 
-97. Parittārammaṇā [parittāramaṇā (?)] dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi ^301
+97. Parittārammaṇā [parittāramaṇā (?)] dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^302
+saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-98. Mahaggatārammaṇā dhammā… appamāṇārammaṇā dhammā… hīnā dhammā… ^303
+98. Mahaggatārammaṇā dhammā… appamāṇārammaṇā dhammā… hīnā dhammā…
 
-micchattaniyatā dhammā… sammattaniyatā dhammā… maggārammaṇā dhammā… maggahetukā ^304
+micchattaniyatā dhammā… sammattaniyatā dhammā… maggārammaṇā dhammā… maggahetukā
 
-dhammā… maggādhipatino dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi ^305
+dhammā… maggādhipatino dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^306
+asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-99. Majjhimā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^307
+99. Majjhimā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^308
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-100. Aniyatā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi ^309
+100. Aniyatā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi
 
-aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici ^310
+aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici
 
-dhātūhi asaṅgahitā. ^311
+dhātūhi asaṅgahitā.
 
-101. Uppannā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^312
+101. Uppannā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^313
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-102. Anuppannā dhammā pañcahi khandhehi sattahāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi ^314
+102. Anuppannā dhammā pañcahi khandhehi sattahāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi asaṅgahitā. ^315
+asaṅgahitā? Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-103. Uppādino dhammā pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi ^316
+103. Uppādino dhammā pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi ekenāyatanena ekāya dhātuyā asaṅgahitā. ^317
+asaṅgahitā? Na kehici khandhehi ekenāyatanena ekāya dhātuyā asaṅgahitā.
 
-104. Atītā dhammā… anāgatā dhammā… paccuppannā dhammā… ajjhattā dhammā… ^318
+104. Atītā dhammā… anāgatā dhammā… paccuppannā dhammā… ajjhattā dhammā…
 
-ajjhattabahiddhā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^319
+ajjhattabahiddhā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^320
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-105. Bahiddhā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi ^321
+105. Bahiddhā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi
 
-aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici ^322
+aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici
 
-dhātūhi asaṅgahitā. ^323
+dhātūhi asaṅgahitā.
 
-106. Atītārammaṇā dhammā… anāgatārammaṇā dhammā catūhi khandhehi dvīhāyatanehi dvīhi ^324
+106. Atītārammaṇā dhammā… anāgatārammaṇā dhammā catūhi khandhehi dvīhāyatanehi dvīhi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^325
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-107. Paccuppannārammaṇā dhammā… ajjhattārammaṇā dhammā… bahiddhārammaṇā dhammā… ^326
+107. Paccuppannārammaṇā dhammā… ajjhattārammaṇā dhammā… bahiddhārammaṇā dhammā…
 
-ajjhattabahiddhārammaṇā dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi ^327
+ajjhattabahiddhārammaṇā dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^328
+asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-108. Sanidassanasappaṭighā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. ^329
+108. Sanidassanasappaṭighā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^330
+Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-109. Anidassanasappaṭighā dhammā ekena khandhena navahāyatanehi navahi dhātūhi saṅgahitā. ^331
+109. Anidassanasappaṭighā dhammā ekena khandhena navahāyatanehi navahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Catūhi khandhehi tīhāyatanehi navahi dhātūhi asaṅgahitā. ^332
+Katihi asaṅgahitā? Catūhi khandhehi tīhāyatanehi navahi dhātūhi asaṅgahitā.
 
-110. Anidassanaappaṭighā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^333
+110. Anidassanaappaṭighā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi, dasahāyatanehi dasahi ^334
+dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi, dasahāyatanehi dasahi
 
-dhātūhi asaṅgahitā. ^335
+dhātūhi asaṅgahitā.
 
-8. Dukaṃ ^336
+8. Dukaṃ
 
-111. Hetū dhammā… hetū ceva sahetukā ca dhammā… hetū ceva hetusampayuttā ca dhammā ^337
+111. Hetū dhammā… hetū ceva sahetukā ca dhammā… hetū ceva hetusampayuttā ca dhammā
 
-ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ^338
+ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^339
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-112. Na hetū dhammā… ahetukā dhammā… hetuvippayuttā dhammā… na hetū ahetukā [na hetū ^340
+112. Na hetū dhammā… ahetukā dhammā… hetuvippayuttā dhammā… na hetū ahetukā [na hetū
 
-ahetukā (syā. ka.) vibha. dukapañhāpucchakepi] dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi ^341
+ahetukā (syā. ka.) vibha. dukapañhāpucchakepi] dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi
 
-khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na ^342
+khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na
 
-kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^343
+kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-113. Sahetukā dhammā… hetusampayuttā dhammā… sahetukā ceva na ca hetū dhammā… ^344
+113. Sahetukā dhammā… hetusampayuttā dhammā… sahetukā ceva na ca hetū dhammā…
 
-hetusampayuttā ceva na ca hetū dhammā… na hetū sahetukā dhammā catūhi khandhehi ^345
+hetusampayuttā ceva na ca hetū dhammā… na hetū sahetukā dhammā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^346
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^347
+dhātūhi asaṅgahitā.
 
-114. Sappaccayā dhammā… saṅkhatā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi ^348
+114. Sappaccayā dhammā… saṅkhatā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi ^349
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi
 
-asaṅgahitā. ^350
+asaṅgahitā.
 
-115. Appaccayā dhammā… asaṅkhatā dhammā na kehici khandhehi ekenāyatanena ekāya dhātuyā ^351
+115. Appaccayā dhammā… asaṅkhatā dhammā na kehici khandhehi ekenāyatanena ekāya dhātuyā
 
-saṅgahitā. Katihi asaṅgahitā? Pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^352
+saṅgahitā. Katihi asaṅgahitā? Pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-116. Sanidassanā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi ^353
+116. Sanidassanā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi
 
-asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^354
+asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-117. Anidassanā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ekādasahāyatanehi ^355
+117. Anidassanā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi, ekenāyatanena ekāya dhātuyā ^356
+sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi, ekenāyatanena ekāya dhātuyā
 
-asaṅgahitā. ^357
+asaṅgahitā.
 
-118. Sappaṭighā dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi saṅgahitā. Katihi ^358
+118. Sappaṭighā dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^359
+asaṅgahitā? Catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-119. Appaṭighā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvīhāyatanehi aṭṭhahi ^360
+119. Appaṭighā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvīhāyatanehi aṭṭhahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi, dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^361
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi, dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-120. Rūpino dhammā ekena khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi ^362
+120. Rūpino dhammā ekena khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā. ^363
+asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-121. Arūpino dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi dvīhāyatanehi aṭṭhahi ^364
+121. Arūpino dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi dvīhāyatanehi aṭṭhahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^365
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-122. Lokiyā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^366
+122. Lokiyā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^367
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-123. Lokuttarā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi ^368
+123. Lokuttarā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^369
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-124. Kenaci viññeyyā dhammā… kenaci na viññeyyā dhammā asaṅkhataṃ khandhato ṭhapetvā ^370
+124. Kenaci viññeyyā dhammā… kenaci na viññeyyā dhammā asaṅkhataṃ khandhato ṭhapetvā
 
-pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^371
+pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^372
+khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-125. Āsavā dhammā… āsavā ceva sāsavā ca dhammā… āsavā ceva āsavasampayuttā ca dhammā ^373
+125. Āsavā dhammā… āsavā ceva sāsavā ca dhammā… āsavā ceva āsavasampayuttā ca dhammā
 
-ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ^374
+ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^375
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-126. No āsavā dhammā… āsavavippayuttā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi ^376
+126. No āsavā dhammā… āsavavippayuttā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi
 
-khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na ^377
+khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na
 
-kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^378
+kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-127. Sāsavā dhammā… sāsavā ceva no ca āsavā dhammā… āsavavippayuttā sāsavā dhammā ^379
+127. Sāsavā dhammā… sāsavā ceva no ca āsavā dhammā… āsavavippayuttā sāsavā dhammā
 
-pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^380
+pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^381
+khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-128. Anāsavā dhammā… āsavavippayuttā anāsavā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi ^382
+128. Anāsavā dhammā… āsavavippayuttā anāsavā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi
 
-khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi ^383
+khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi
 
-soḷasahi dhātūhi asaṅgahitā. ^384
+soḷasahi dhātūhi asaṅgahitā.
 
-129. Āsavasampayuttā dhammā… āsavasampayuttā ceva no ca āsavā dhammā catūhi khandhehi ^385
+129. Āsavasampayuttā dhammā… āsavasampayuttā ceva no ca āsavā dhammā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^386
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^387
+dhātūhi asaṅgahitā.
 
-130. Saṃyojanā dhammā… ganthā dhammā… oghā dhammā… yogā dhammā… nīvaraṇā ^388
+130. Saṃyojanā dhammā… ganthā dhammā… oghā dhammā… yogā dhammā… nīvaraṇā
 
-dhammā… parāmāsā dhammā… parāmāsā ceva parāmaṭṭhā ca dhammā ekena khandhena ^389
+dhammā… parāmāsā dhammā… parāmāsā ceva parāmaṭṭhā ca dhammā ekena khandhena
 
-ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi ^390
+ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi asaṅgahitā. ^391
+sattarasahi dhātūhi asaṅgahitā.
 
-131. No parāmāsā dhammā… parāmāsavippayuttā dhammā asaṅkhataṃ khandhato ṭhapetvā ^392
+131. No parāmāsā dhammā… parāmāsavippayuttā dhammā asaṅkhataṃ khandhato ṭhapetvā
 
-pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^393
+pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^394
+khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-132. Parāmaṭṭhā dhammā… parāmaṭṭhā ceva no ca parāmāsā dhammā… parāmāsavippayuttā ^395
+132. Parāmaṭṭhā dhammā… parāmaṭṭhā ceva no ca parāmāsā dhammā… parāmāsavippayuttā
 
-parāmaṭṭhā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^396
+parāmaṭṭhā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^397
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-133. Aparāmaṭṭhā dhammā… parāmāsavippayuttā aparāmaṭṭhā dhammā asaṅkhataṃ khandhato ^398
+133. Aparāmaṭṭhā dhammā… parāmāsavippayuttā aparāmaṭṭhā dhammā asaṅkhataṃ khandhato
 
-ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ^399
+ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^400
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-134. Parāmāsasampayuttā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi ^401
+134. Parāmāsasampayuttā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^402
+asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-135. Sārammaṇā dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi ^403
+135. Sārammaṇā dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^404
+asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-136. Anārammaṇā dhammā asaṅkhataṃ khandhato ṭhapetvā ekena khandhena ekādasahāyatanehi ^405
+136. Anārammaṇā dhammā asaṅkhataṃ khandhato ṭhapetvā ekena khandhena ekādasahāyatanehi
 
-ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi ^406
+ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi
 
-asaṅgahitā. ^407
+asaṅgahitā.
 
-137. Cittā dhammā ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitā. Katihi asaṅgahitā? ^408
+137. Cittā dhammā ekena khandhena ekenāyatanena sattahi dhātūhi saṅgahitā. Katihi asaṅgahitā?
 
-Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā. ^409
+Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā.
 
-138. No cittā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi ekādasahāyatanehi ^410
+138. No cittā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi ekādasahāyatanehi
 
-ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ekenāyatanena sattahi dhātūhi ^411
+ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ekenāyatanena sattahi dhātūhi
 
-asaṅgahitā. ^412
+asaṅgahitā.
 
-139. Cetasikā dhammā… cittasampayuttā dhammā… cittasaṃsaṭṭhā dhammā tīhi khandhehi ^413
+139. Cetasikā dhammā… cittasampayuttā dhammā… cittasaṃsaṭṭhā dhammā tīhi khandhehi
 
-ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi ^414
+ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi asaṅgahitā. ^415
+sattarasahi dhātūhi asaṅgahitā.
 
-140. Acetasikā dhammā asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi dvādasahāyatanehi ^416
+140. Acetasikā dhammā asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi dvādasahāyatanehi
 
-aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi na kehici āyatanehi na kāhici dhātūhi ^417
+aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi na kehici āyatanehi na kāhici dhātūhi
 
-asaṅgahitā. ^418
+asaṅgahitā.
 
-141. Cittavippayuttā dhammā… cittavisaṃsaṭṭhā dhammā asaṅkhataṃ khandhato ṭhapetvā ekena ^419
+141. Cittavippayuttā dhammā… cittavisaṃsaṭṭhā dhammā asaṅkhataṃ khandhato ṭhapetvā ekena
 
-khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ^420
+khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi
 
-ekenāyatanena sattahi dhātūhi asaṅgahitā. ^421
+ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-142. Cittasamuṭṭhānā dhammā catūhi khandhehi chahāyatanehi chahi dhātūhi saṅgahitā. Katihi ^422
+142. Cittasamuṭṭhānā dhammā catūhi khandhehi chahāyatanehi chahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena chahāyatanehi dvādasahi dhātūhi asaṅgahitā. ^423
+asaṅgahitā? Ekena khandhena chahāyatanehi dvādasahi dhātūhi asaṅgahitā.
 
-143. No cittasamuṭṭhānā dhammā… no cittasahabhuno dhammā… no cittānuparivattino dhammā ^424
+143. No cittasamuṭṭhānā dhammā… no cittasahabhuno dhammā… no cittānuparivattino dhammā
 
-asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. ^425
+asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Tīhi khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^426
+Katihi asaṅgahitā? Tīhi khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-144. Cittasahabhuno dhammā… cittānuparivattino dhammā catūhi khandhehi ekenāyatanena ekāya ^427
+144. Cittasahabhuno dhammā… cittānuparivattino dhammā catūhi khandhehi ekenāyatanena ekāya
 
-dhātuyā saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ekādasahāyatanehi sattarasahi dhātūhi ^428
+dhātuyā saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahitā. ^429
+asaṅgahitā.
 
-145. Cittasaṃsaṭṭhasamuṭṭhānā dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā… ^430
+145. Cittasaṃsaṭṭhasamuṭṭhānā dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā. ^431
+cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^432
+Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-146. No cittasaṃsaṭṭhasamuṭṭhānā dhammā… no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā… ^433
+146. No cittasaṃsaṭṭhasamuṭṭhānā dhammā… no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā…
 
-no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi ^434
+no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi
 
-dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi na kehici āyatanehi ^435
+dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Tīhi khandhehi na kehici āyatanehi
 
-na kāhici dhātūhi asaṅgahitā. ^436
+na kāhici dhātūhi asaṅgahitā.
 
-147. Ajjhattikā dhammā dvīhi khandhehi chahāyatanehi dvādasahi dhātūhi saṅgahitā. Katihi ^437
+147. Ajjhattikā dhammā dvīhi khandhehi chahāyatanehi dvādasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Tīhi khandhehi chahāyatanehi chahi dhātūhi asaṅgahitā. ^438
+asaṅgahitā? Tīhi khandhehi chahāyatanehi chahi dhātūhi asaṅgahitā.
 
-148. Bāhirā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi chahāyatanehi chahi ^439
+148. Bāhirā dhammā asaṅkhataṃ khandhato ṭhapetvā catūhi khandhehi chahāyatanehi chahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena chahāyatanehi dvādasahi dhātūhi asaṅgahitā. ^440
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena chahāyatanehi dvādasahi dhātūhi asaṅgahitā.
 
-149. Upādā dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? ^441
+149. Upādā dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi saṅgahitā. Katihi asaṅgahitā?
 
-Catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^442
+Catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-150. No upādā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi tīhāyatanehi navahi ^443
+150. No upādā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi tīhāyatanehi navahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi navahāyatanehi navahi dhātūhi asaṅgahitā. ^444
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi navahāyatanehi navahi dhātūhi asaṅgahitā.
 
-151. Upādinnā dhammā pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi ^445
+151. Upādinnā dhammā pañcahi khandhehi ekādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi ekenāyatanena ekāya dhātuyā asaṅgahitā. ^446
+asaṅgahitā? Na kehici khandhehi ekenāyatanena ekāya dhātuyā asaṅgahitā.
 
-152. Anupādinnā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi sattahāyatanehi ^447
+152. Anupādinnā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi sattahāyatanehi
 
-aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi ^448
+aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi pañcahāyatanehi dasahi dhātūhi
 
-asaṅgahitā. ^449
+asaṅgahitā.
 
-153. Upādānā dhammā… kilesā dhammā… kilesā ceva saṃkilesikā ca dhammā… kilesā ceva ^450
+153. Upādānā dhammā… kilesā dhammā… kilesā ceva saṃkilesikā ca dhammā… kilesā ceva
 
-saṃkiliṭṭhā ca dhammā… kilesā ceva kilesasampayuttā ca dhammā ekena khandhena ekenāyatanena ^451
+saṃkiliṭṭhā ca dhammā… kilesā ceva kilesasampayuttā ca dhammā ekena khandhena ekenāyatanena
 
-ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^452
+ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahitā. ^453
+asaṅgahitā.
 
-154. No kilesā dhammā… asaṃkiliṭṭhā dhammā… kilesavippayuttā dhammā asaṅkhataṃ ^454
+154. No kilesā dhammā… asaṃkiliṭṭhā dhammā… kilesavippayuttā dhammā asaṅkhataṃ
 
-khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^455
+khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^456
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-155. Saṃkilesikā dhammā… saṃkilesikā ceva no ca kilesā dhammā… kilesavippayuttā ^457
+155. Saṃkilesikā dhammā… saṃkilesikā ceva no ca kilesā dhammā… kilesavippayuttā
 
-saṃkilesikā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^458
+saṃkilesikā dhammā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^459
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-156. Asaṃkilesikā dhammā… kilesavippayuttā asaṃkilesikā dhammā asaṅkhataṃ khandhato ^460
+156. Asaṃkilesikā dhammā… kilesavippayuttā asaṃkilesikā dhammā asaṅkhataṃ khandhato
 
-ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ^461
+ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^462
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-157. Saṃkiliṭṭhā dhammā… kilesasampayuttā dhammā… saṃkiliṭṭhā ceva no ca kilesā dhammā… ^463
+157. Saṃkiliṭṭhā dhammā… kilesasampayuttā dhammā… saṃkiliṭṭhā ceva no ca kilesā dhammā…
 
-kilesasampayuttā ceva no ca kilesā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. ^464
+kilesasampayuttā ceva no ca kilesā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^465
+Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-158. Dassanena pahātabbā dhammā… bhāvanāya pahātabbā dhammā… dassanena ^466
+158. Dassanena pahātabbā dhammā… bhāvanāya pahātabbā dhammā… dassanena
 
-pahātabbahetukā dhammā… bhāvanāya pahātabbahetukā dhammā catūhi khandhehi dvīhāyatanehi dvīhi ^467
+pahātabbahetukā dhammā… bhāvanāya pahātabbahetukā dhammā catūhi khandhehi dvīhāyatanehi dvīhi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^468
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-159. Na dassanena pahātabbā dhammā… na bhāvanāya pahātabbā dhammā … na dassanena ^469
+159. Na dassanena pahātabbā dhammā… na bhāvanāya pahātabbā dhammā … na dassanena
 
-pahātabbahetukā dhammā… na bhāvanāya pahātabbahetukā dhammā asaṅkhataṃ khandhato ṭhapetvā ^470
+pahātabbahetukā dhammā… na bhāvanāya pahātabbahetukā dhammā asaṅkhataṃ khandhato ṭhapetvā
 
-pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^471
+pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^472
+khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-160. Savitakkā dhammā… savicārā dhammā catūhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. ^473
+160. Savitakkā dhammā… savicārā dhammā catūhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi asaṅgahitā. ^474
+Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi asaṅgahitā.
 
-161. Avitakkā dhammā… avicārā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^475
+161. Avitakkā dhammā… avicārā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^476
+dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi ekāya dhātuyā asaṅgahitā. ^477
+āyatanehi ekāya dhātuyā asaṅgahitā.
 
-162. Sappītikā dhammā… pītisahagatā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi ^478
+162. Sappītikā dhammā… pītisahagatā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^479
+saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-163. Appītikā dhammā… na pītisahagatā dhammā… na sukhasahagatā dhammā asaṅkhataṃ ^480
+163. Appītikā dhammā… na pītisahagatā dhammā… na sukhasahagatā dhammā asaṅkhataṃ
 
-khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^481
+khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^482
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-164. Sukhasahagatā dhammā tīhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi ^483
+164. Sukhasahagatā dhammā tīhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Dvīhi khandhehi dasahāyatanehi pannarasahi dhātūhi asaṅgahitā. ^484
+asaṅgahitā? Dvīhi khandhehi dasahāyatanehi pannarasahi dhātūhi asaṅgahitā.
 
-165. Upekkhāsahagatā dhammā tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṅgahitā. Katihi ^485
+165. Upekkhāsahagatā dhammā tīhi khandhehi dvīhāyatanehi sattahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi asaṅgahitā. ^486
+asaṅgahitā? Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi asaṅgahitā.
 
-166. Na upekkhāsahagatā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^487
+166. Na upekkhāsahagatā dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^488
+dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi pañcahi dhātūhi asaṅgahitā. ^489
+āyatanehi pañcahi dhātūhi asaṅgahitā.
 
-167. Kāmāvacarā dhammā… pariyāpannā dhammā… sauttarā dhammā pañcahi khandhehi ^490
+167. Kāmāvacarā dhammā… pariyāpannā dhammā… sauttarā dhammā pañcahi khandhehi
 
-dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^491
+dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi na kāhici dhātūhi asaṅgahitā. ^492
+āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-168. Na kāmāvacarā dhammā… apariyāpannā dhammā… anuttarā dhammā asaṅkhataṃ khandhato ^493
+168. Na kāmāvacarā dhammā… apariyāpannā dhammā… anuttarā dhammā asaṅkhataṃ khandhato
 
-ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ^494
+ṭhapetvā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^495
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-169. Rūpāvacarā dhammā… arūpāvacarā dhammā… niyyānikā dhammā… niyatā dhammā… ^496
+169. Rūpāvacarā dhammā… arūpāvacarā dhammā… niyyānikā dhammā… niyatā dhammā…
 
-saraṇā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena ^497
+saraṇā dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena
 
-khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^498
+khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-170. Na rūpāvacarā dhammā… na arūpāvacarā dhammā… aniyyānikā dhammā… aniyatā ^499
+170. Na rūpāvacarā dhammā… na arūpāvacarā dhammā… aniyyānikā dhammā… aniyatā
 
-dhammā… araṇā dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Araṇā dhammā ^500
+dhammā… araṇā dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Araṇā dhammā
 
-asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. ^501
+asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^502
+Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-Saṅgahāsaṅgahapadaniddeso paṭhamo. ^503
+Saṅgahāsaṅgahapadaniddeso paṭhamo.
 
-2. Dutiyanayo ^504
+2. Dutiyanayo
 
-2. Saṅgahitenaasaṅgahitapadaniddeso ^505
+2. Saṅgahitenaasaṅgahitapadaniddeso
 
-171. Cakkhāyatanena ye dhammā… phoṭṭhabbāyatanena ye dhammā… cakkhudhātuyā ye ^506
+171. Cakkhāyatanena ye dhammā… phoṭṭhabbāyatanena ye dhammā… cakkhudhātuyā ye
 
-dhammā… phoṭṭhabbadhātuyā ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā ^507
+dhammā… phoṭṭhabbadhātuyā ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi asaṅgahitā? Te ^508
+dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi asaṅgahitā? Te
 
-dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^509
+dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-172. Cakkhuviññāṇadhātuyā ye dhammā… sotaviññāṇadhātuyā ye dhammā… ^510
+172. Cakkhuviññāṇadhātuyā ye dhammā… sotaviññāṇadhātuyā ye dhammā…
 
-ghānaviññāṇadhātuyā ye dhammā… jivhāviññāṇadhātuyā ye dhammā… kāyaviññāṇadhātuyā ye ^511
+ghānaviññāṇadhātuyā ye dhammā… jivhāviññāṇadhātuyā ye dhammā… kāyaviññāṇadhātuyā ye
 
-dhammā… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā khandhasaṅgahena saṅgahitā ^512
+dhammā… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā khandhasaṅgahena saṅgahitā
 
-āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi ^513
+āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi
 
-ekādasahāyatanehi dvādasahi dhātūhi asaṅgahitā. ^514
+ekādasahāyatanehi dvādasahi dhātūhi asaṅgahitā.
 
-173. Cakkhundriyena ye dhammā… sotindriyena ye dhammā… ghānindriyena ye dhammā… ^515
+173. Cakkhundriyena ye dhammā… sotindriyena ye dhammā… ghānindriyena ye dhammā…
 
-jivhindriyena ye dhammā… kāyindriyena ye dhammā… itthindriyena ye dhammā… purisindriyena ye ^516
+jivhindriyena ye dhammā… kāyindriyena ye dhammā… itthindriyena ye dhammā… purisindriyena ye
 
-dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… ^517
+dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe…
 
-te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^518
+te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-174. Asaññābhavena ye dhammā… ekavokārabhavena ye dhammā khandhasaṅgahena saṅgahitā ^519
+174. Asaññābhavena ye dhammā… ekavokārabhavena ye dhammā khandhasaṅgahena saṅgahitā
 
-āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi ^520
+āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi
 
-tīhāyatanehi navahi dhātūhi asaṅgahitā. ^521
+tīhāyatanehi navahi dhātūhi asaṅgahitā.
 
-175. Paridevena ye dhammā… sanidassanasappaṭighehi dhammehi ye dhammā khandhasaṅgahena ^522
+175. Paridevena ye dhammā… sanidassanasappaṭighehi dhammehi ye dhammā khandhasaṅgahena
 
-saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi ^523
+saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi
 
-dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^524
+dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-176. Anidassanasappaṭighehi dhammehi ye dhammā khandhasaṅgahena saṅgahitā ^525
+176. Anidassanasappaṭighehi dhammehi ye dhammā khandhasaṅgahena saṅgahitā
 
-āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi ^526
+āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^527
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-177. Sanidassanehi dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena ^528
+177. Sanidassanehi dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi ^529
+asaṅgahitā dhātusaṅgahena asaṅgahitā…pe… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi
 
-dhātūhi asaṅgahitā. ^530
+dhātūhi asaṅgahitā.
 
-178. Sappaṭighehi dhammehi ye dhammā… upādādhammehi ye dhammā khandhasaṅgahena ^531
+178. Sappaṭighehi dhammehi ye dhammā… upādādhammehi ye dhammā khandhasaṅgahena
 
-saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi ^532
+saṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi
 
-katihāyatanehi katihi dhātūhi asaṅgahitā? Te dhammā catūhi khandhehi ekādasahāyatanehi sattarasahi ^533
+katihāyatanehi katihi dhātūhi asaṅgahitā? Te dhammā catūhi khandhehi ekādasahāyatanehi sattarasahi
 
-dhātūhi asaṅgahitā. ^534
+dhātūhi asaṅgahitā.
 
-Dasāyatanā sattarasa dhātuyo, ^535
+Dasāyatanā sattarasa dhātuyo,
 
-Sattindriyā asaññābhavo ekavokārabhavo; ^536
+Sattindriyā asaññābhavo ekavokārabhavo;
 
-Paridevo sanidassanasappaṭighaṃ, ^537
+Paridevo sanidassanasappaṭighaṃ,
 
-Anidassanaṃ punadeva [punareva (pī.)] sappaṭighaṃ upādāti. ^538
+Anidassanaṃ punadeva [punareva (pī.)] sappaṭighaṃ upādāti.
 
-Saṅgahitenaasaṅgahitapadaniddeso dutiyo. ^539
+Saṅgahitenaasaṅgahitapadaniddeso dutiyo.
 
-3. Tatiyanayo ^540
+3. Tatiyanayo
 
-3. Asaṅgahitenasaṅgahitapadaniddeso ^541
+3. Asaṅgahitenasaṅgahitapadaniddeso
 
-179. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye ^542
+179. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye
 
-dhammā… samudayasaccena ye dhammā… maggasaccena ye dhammā khandhasaṅgahena asaṅgahitā ^543
+dhammā… samudayasaccena ye dhammā… maggasaccena ye dhammā khandhasaṅgahena asaṅgahitā
 
-āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi ^544
+āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi
 
-katihi dhātūhi saṅgahitā? Te dhammā asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ^545
+katihi dhātūhi saṅgahitā? Te dhammā asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena
 
-ekāya dhātuyā saṅgahitā. ^546
+ekāya dhātuyā saṅgahitā.
 
-180. Nirodhasaccena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā ^547
+180. Nirodhasaccena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā
 
-dhātusaṅgahena saṅgahitā…pe… te dhammā catūhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā. ^548
+dhātusaṅgahena saṅgahitā…pe… te dhammā catūhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-181. Jīvitindriyena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā ^549
+181. Jīvitindriyena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā
 
-dhātusaṅgahena saṅgahitā…pe… te dhammā asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi ^550
+dhātusaṅgahena saṅgahitā…pe… te dhammā asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi
 
-ekenāyatanena ekāya dhātuyā saṅgahitā. ^551
+ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-182. Itthindriyena ye dhammā… purisindriyena ye dhammā… sukhindriyena ye dhammā… ^552
+182. Itthindriyena ye dhammā… purisindriyena ye dhammā… sukhindriyena ye dhammā…
 
-dukkhindriyena ye dhammā… somanassindriyena ye dhammā… domanassindriyena ye dhammā… ^553
+dukkhindriyena ye dhammā… somanassindriyena ye dhammā… domanassindriyena ye dhammā…
 
-upekkhindriyena ye dhammā… saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ^554
+upekkhindriyena ye dhammā… saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena
 
-ye dhammā… samādhindriyena ye dhammā… paññindriyena ye dhammā… ^555
+ye dhammā… samādhindriyena ye dhammā… paññindriyena ye dhammā…
 
-anaññātaññassāmītindriyena ye dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… ^556
+anaññātaññassāmītindriyena ye dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā…
 
-avijjāya ye dhammā… avijjāpaccayā saṅkhārena ye dhammā… saḷāyatanapaccayā phassena ye ^557
+avijjāya ye dhammā… avijjāpaccayā saṅkhārena ye dhammā… saḷāyatanapaccayā phassena ye
 
-dhammā… phassapaccayā vedanāya ye dhammā… vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā ^558
+dhammā… phassapaccayā vedanāya ye dhammā… vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā
 
-upādānena ye dhammā… kammabhavena [upādānapaccayā kammabhavena (syā.)] ye dhammā ^559
+upādānena ye dhammā… kammabhavena [upādānapaccayā kammabhavena (syā.)] ye dhammā
 
-khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā…pe… te dhammā ^560
+khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā…pe… te dhammā
 
-asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā. ^561
+asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-183. Jātiyā ye dhammā… jarāya ye dhammā… maraṇena ye dhammā… jhānena ye dhammā ^562
+183. Jātiyā ye dhammā… jarāya ye dhammā… maraṇena ye dhammā… jhānena ye dhammā
 
-khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā…pe… te dhammā ^563
+khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā…pe… te dhammā
 
-asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā. ^564
+asaṅkhataṃ khandhato ṭhapetvā dvīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-184. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā… upāyāsena ye ^565
+184. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā… upāyāsena ye
 
-dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… appamaññāya ye dhammā… ^566
+dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… appamaññāya ye dhammā…
 
-pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā… sattahi bojjhaṅgehi ye dhammā… ^567
+pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā… sattahi bojjhaṅgehi ye dhammā…
 
-ariyena aṭṭhaṅgikena maggena ye dhammā… phassena ye dhammā… vedanāya ye dhammā… saññāya ^568
+ariyena aṭṭhaṅgikena maggena ye dhammā… phassena ye dhammā… vedanāya ye dhammā… saññāya
 
-ye dhammā… cetanāya ye dhammā… adhimokkhena ye dhammā… manasikārena ye dhammā… hetūhi ^569
+ye dhammā… cetanāya ye dhammā… adhimokkhena ye dhammā… manasikārena ye dhammā… hetūhi
 
-dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi ceva ^570
+dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi ceva
 
-hetusampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā ^571
+hetusampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā
 
-dhātusaṅgahena saṅgahitā…pe… te dhammā asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi ^572
+dhātusaṅgahena saṅgahitā…pe… te dhammā asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi
 
-ekenāyatanena ekāya dhātuyā saṅgahitā. ^573
+ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-185. Appaccayehi dhammehi ye dhammā… asaṅkhatehi dhammehi ye dhammā khandhasaṅgahena ^574
+185. Appaccayehi dhammehi ye dhammā… asaṅkhatehi dhammehi ye dhammā khandhasaṅgahena
 
-asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā…pe… te dhammā catūhi khandhehi ^575
+asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā…pe… te dhammā catūhi khandhehi
 
-ekenāyatanena ekāya dhātuyā saṅgahitā. ^576
+ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-186. Āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye dhammā… āsavehi ^577
+186. Āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye dhammā… āsavehi
 
-ceva āsavasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^578
+ceva āsavasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-saṅgahitā dhātusaṅgahena saṅgahitā… te dhammā asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi ^579
+saṅgahitā dhātusaṅgahena saṅgahitā… te dhammā asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi
 
-ekenāyatanena ekāya dhātuyā saṅgahitā. ^580
+ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-187. Saṃyojanehi … ganthehi… oghehi… yogehi… nīvaraṇehi… parāmāsehi dhammehi ye ^581
+187. Saṃyojanehi … ganthehi… oghehi… yogehi… nīvaraṇehi… parāmāsehi dhammehi ye
 
-dhammā… parāmāsehi ceva parāmaṭṭhehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā ^582
+dhammā… parāmāsehi ceva parāmaṭṭhehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā
 
-āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā… te dhammā asaṅkhataṃ khandhato ṭhapetvā ^583
+āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā… te dhammā asaṅkhataṃ khandhato ṭhapetvā
 
-tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā. ^584
+tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-188. Cetasikehi dhammehi ye dhammā… cittasampayuttehi dhammehi ye dhammā… ^585
+188. Cetasikehi dhammehi ye dhammā… cittasampayuttehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā… ^586
+cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi ^587
+cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi
 
-dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena ^588
+dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena
 
-saṅgahitā…pe… te dhammā asaṅkhataṃ khandhato ṭhapetvā ekena khandhena ekenāyatanena ekāya ^589
+saṅgahitā…pe… te dhammā asaṅkhataṃ khandhato ṭhapetvā ekena khandhena ekenāyatanena ekāya
 
-dhātuyā saṅgahitā. ^590
+dhātuyā saṅgahitā.
 
-189. Cittasahabhūmi dhammehi ye dhammā… cittānuparivattīhi dhammehi ye dhammā ^591
+189. Cittasahabhūmi dhammehi ye dhammā… cittānuparivattīhi dhammehi ye dhammā
 
-khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā…pe… te dhammā ^592
+khandhasaṅgahena asaṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā…pe… te dhammā
 
-na kehici khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā. ^593
+na kehici khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-190. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva ^594
+190. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva
 
-saṃkilesikehi ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… ^595
+saṃkilesikehi ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā…
 
-kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā ^596
+kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā
 
-āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi ^597
+āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi
 
-katihi dhātūhi saṅgahitā? Te dhammā asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena ^598
+katihi dhātūhi saṅgahitā? Te dhammā asaṅkhataṃ khandhato ṭhapetvā tīhi khandhehi ekenāyatanena
 
-ekāya dhātuyā saṅgahitā. ^599
+ekāya dhātuyā saṅgahitā.
 
-Tayo khandhā tathā saccā, indriyāni ca soḷasa; ^600
+Tayo khandhā tathā saccā, indriyāni ca soḷasa;
 
-Padāni paccayākāre, cuddasūpari cuddasa. ^601
+Padāni paccayākāre, cuddasūpari cuddasa.
 
-Samatiṃsa padā honti, gocchakesu dasasvatha; ^602
+Samatiṃsa padā honti, gocchakesu dasasvatha;
 
-Duve cūḷantaradukā [cullantaradukā (sī.)], aṭṭha honti mahantarāti. ^603
+Duve cūḷantaradukā [cullantaradukā (sī.)], aṭṭha honti mahantarāti.
 
-Asaṅgahitenasaṅgahitapadaniddeso tatiyo. ^604
+Asaṅgahitenasaṅgahitapadaniddeso tatiyo.
 
-4. Catutthanayo ^605
+4. Catutthanayo
 
-4. Saṅgahitenasaṅgahitapadaniddeso ^606
+4. Saṅgahitenasaṅgahitapadaniddeso
 
-191. Samudayasaccena ye dhammā… maggasaccena ye dhammā khandhasaṅgahena saṅgahitā ^607
+191. Samudayasaccena ye dhammā… maggasaccena ye dhammā khandhasaṅgahena saṅgahitā
 
-āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, tehi dhammehi ye dhammā khandhasaṅgahena ^608
+āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, tehi dhammehi ye dhammā khandhasaṅgahena
 
-saṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi ^609
+saṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi
 
-katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā ^610
+katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā
 
-saṅgahitā. ^611
+saṅgahitā.
 
-192. Itthindriyena ye dhammā… purisindriyena ye dhammā… sukhindriyena ye dhammā… ^612
+192. Itthindriyena ye dhammā… purisindriyena ye dhammā… sukhindriyena ye dhammā…
 
-dukkhindriyena ye dhammā… somanassindriyena ye dhammā… domanassindriyena ye dhammā… ^613
+dukkhindriyena ye dhammā… somanassindriyena ye dhammā… domanassindriyena ye dhammā…
 
-upekkhindriyena ye dhammā… saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ^614
+upekkhindriyena ye dhammā… saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena
 
-ye dhammā… samādhindriyena ye dhammā… paññindriyena ye dhammā… ^615
+ye dhammā… samādhindriyena ye dhammā… paññindriyena ye dhammā…
 
-anaññātaññassāmītindriyena ye dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā…. ^616
+anaññātaññassāmītindriyena ye dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā….
 
-Avijjāya ye dhammā… avijjāpaccayā saṅkhārena ye dhammā… saḷāyatanapaccayā phassena ye ^617
+Avijjāya ye dhammā… avijjāpaccayā saṅkhārena ye dhammā… saḷāyatanapaccayā phassena ye
 
-dhammā… vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā… ^618
+dhammā… vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā…
 
-kammabhavena ye dhammā… sokena ye dhammā… paridevena ye dhammā… dukkhena ye dhammā… ^619
+kammabhavena ye dhammā… sokena ye dhammā… paridevena ye dhammā… dukkhena ye dhammā…
 
-domanassena ye dhammā… upāyāsena ye dhammā…. ^620
+domanassena ye dhammā… upāyāsena ye dhammā….
 
-Satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… appamaññāya ye dhammā… ^621
+Satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… appamaññāya ye dhammā…
 
-pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā… sattahi bojjhaṅgehi ye dhammā… ariyena ^622
+pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā… sattahi bojjhaṅgehi ye dhammā… ariyena
 
-aṭṭhaṅgikena maggena ye dhammā… phassena ye dhammā… cetanāya ye dhammā… adhimokkhena ye ^623
+aṭṭhaṅgikena maggena ye dhammā… phassena ye dhammā… cetanāya ye dhammā… adhimokkhena ye
 
-dhammā… manasikārena ye dhammā …. ^624
+dhammā… manasikārena ye dhammā ….
 
-Hetūhi dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi ceva ^625
+Hetūhi dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi ceva
 
-hetusampayuttehi ca dhammehi ye dhammā… āsavehi… saṃyojanehi… ganthehi… oghehi… yogehi… ^626
+hetusampayuttehi ca dhammehi ye dhammā… āsavehi… saṃyojanehi… ganthehi… oghehi… yogehi…
 
-nīvaraṇehi… parāmāsehi… upādānehi… kilesehi dhammehi ye dhammā… kilesehi ceva saṃkilesikehi ^627
+nīvaraṇehi… parāmāsehi… upādānehi… kilesehi dhammehi ye dhammā… kilesehi ceva saṃkilesikehi
 
-ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… kilesehi ceva ^628
+ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… kilesehi ceva
 
-kilesasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā ^629
+kilesasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā
 
-dhātusaṅgahena saṅgahitā, tehi dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena ^630
+dhātusaṅgahena saṅgahitā, tehi dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena
 
-saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi ^631
+saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi
 
-saṅgahitā? Te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. ^632
+saṅgahitā? Te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā saṅgahitā.
 
-Dve saccā pannarasindriyā, ekādasa paṭiccapadā; ^633
+Dve saccā pannarasindriyā, ekādasa paṭiccapadā;
 
-Uddhaṃ puna ekādasa, gocchakapadamettha tiṃsavidhāti [tiṃsavidhanti (pī.)]. ^634
+Uddhaṃ puna ekādasa, gocchakapadamettha tiṃsavidhāti [tiṃsavidhanti (pī.)].
 
-Saṅgahitenasaṅgahitapadaniddeso catuttho. ^635
+Saṅgahitenasaṅgahitapadaniddeso catuttho.
 
-5. Pañcamanayo ^636
+5. Pañcamanayo
 
-5. Asaṅgahitenaasaṅgahitapadaniddeso ^637
+5. Asaṅgahitenaasaṅgahitapadaniddeso
 
-193. Rūpakkhandhena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^638
+193. Rūpakkhandhena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^639
+dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi ^640
+asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi
 
-asaṅgahitā? Te dhammā ekena khandhena ekenāyatanena sattahi dhātūhi asaṅgahitā. ^641
+asaṅgahitā? Te dhammā ekena khandhena ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-194. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye ^642
+194. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye
 
-dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi ^643
+dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi
 
-dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^644
+dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahitā. ^645
+asaṅgahitā.
 
-195. Viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā… cakkhuviññāṇadhātuyā ye ^646
+195. Viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā… cakkhuviññāṇadhātuyā ye
 
-dhammā…pe… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā… manindriyena ye ^647
+dhammā…pe… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā… manindriyena ye
 
-dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi ^648
+dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi
 
-dhammehi ye dhammā…pe… te dhammā catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi ^649
+dhammehi ye dhammā…pe… te dhammā catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi
 
-asaṅgahitā. ^650
+asaṅgahitā.
 
-196. Cakkhāyatanena ye dhammā…pe… phoṭṭhabbāyatanena ye dhammā… cakkhudhātuyā ye ^651
+196. Cakkhāyatanena ye dhammā…pe… phoṭṭhabbāyatanena ye dhammā… cakkhudhātuyā ye
 
-dhammā…pe… phoṭṭhabbadhātuyā ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^652
+dhammā…pe… phoṭṭhabbadhātuyā ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi ^653
+asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi
 
-dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^654
+dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-197. Dhammāyatanena ye dhammā… dhammadhātuyā ye dhammā… itthindriyena ye dhammā… ^655
+197. Dhammāyatanena ye dhammā… dhammadhātuyā ye dhammā… itthindriyena ye dhammā…
 
-purisindriyena ye dhammā… jīvitindriyena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^656
+purisindriyena ye dhammā… jīvitindriyena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena ^657
+asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena
 
-ekenāyatanena sattahi dhātūhi asaṅgahitā. ^658
+ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-198. Samudayasaccena ye dhammā… maggasaccena ye dhammā… nirodhasaccena ye dhammā ^659
+198. Samudayasaccena ye dhammā… maggasaccena ye dhammā… nirodhasaccena ye dhammā
 
-khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ^660
+khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi
 
-ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^661
+ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-199. Cakkhundriyena ye dhammā…pe… kāyindriyena ye dhammā khandhasaṅgahena asaṅgahitā ^662
+199. Cakkhundriyena ye dhammā…pe… kāyindriyena ye dhammā khandhasaṅgahena asaṅgahitā
 
-āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ^663
+āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā
 
-catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^664
+catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-200. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā… ^665
+200. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā…
 
-domanassindriyena ye dhammā… upekkhindriyena ye dhammā… saddhindriyena ye dhammā… ^666
+domanassindriyena ye dhammā… upekkhindriyena ye dhammā… saddhindriyena ye dhammā…
 
-vīriyindriyena ye dhammā… satindriyena ye dhammā… samādhindriyena ye dhammā… paññindriyena ^667
+vīriyindriyena ye dhammā… satindriyena ye dhammā… samādhindriyena ye dhammā… paññindriyena
 
-ye dhammā… anaññātaññassāmītindriyena ye dhammā… aññindriyena ye dhammā… aññātāvindriyena ^668
+ye dhammā… anaññātaññassāmītindriyena ye dhammā… aññindriyena ye dhammā… aññātāvindriyena
 
-ye dhammā… avijjāya ye dhammā… avijjāpaccayā saṅkhārena ye dhammā khandhasaṅgahena ^669
+ye dhammā… avijjāya ye dhammā… avijjāpaccayā saṅkhārena ye dhammā khandhasaṅgahena
 
-asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… ^670
+asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe…
 
-te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^671
+te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-201. Saṅkhārapaccayā viññāṇena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^672
+201. Saṅkhārapaccayā viññāṇena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi ^673
+asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi
 
-ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā. ^674
+ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā.
 
-202. Viññāṇapaccayā nāmarūpena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^675
+202. Viññāṇapaccayā nāmarūpena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena ^676
+asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena
 
-ekenāyatanena sattahi dhātūhi asaṅgahitā. ^677
+ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-203. Nāmarūpapaccayā saḷāyatanena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^678
+203. Nāmarūpapaccayā saḷāyatanena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā tīhi khandhehi ^679
+asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā tīhi khandhehi
 
-ekenāyatanena ekāya dhātuyā asaṅgahitā. ^680
+ekenāyatanena ekāya dhātuyā asaṅgahitā.
 
-204. Saḷāyatanapaccayā phassena ye dhammā… phassapaccayā vedanāya ye dhammā… ^681
+204. Saḷāyatanapaccayā phassena ye dhammā… phassapaccayā vedanāya ye dhammā…
 
-vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā… kammabhavena ye ^682
+vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā… kammabhavena ye
 
-dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi ^683
+dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi
 
-dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^684
+dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahitā. ^685
+asaṅgahitā.
 
-205. Arūpabhavena ye dhammā… nevasaññānāsaññābhavena ye dhammā … catuvokārabhavena ye ^686
+205. Arūpabhavena ye dhammā… nevasaññānāsaññābhavena ye dhammā … catuvokārabhavena ye
 
-dhammā… iddhipādena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^687
+dhammā… iddhipādena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena ^688
+dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^689
+dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-206. Asaññābhavena ye dhammā… ekavokārabhavena ye dhammā… jātiyā ye dhammā… jarāya ^690
+206. Asaññābhavena ye dhammā… ekavokārabhavena ye dhammā… jātiyā ye dhammā… jarāya
 
-ye dhammā… maraṇena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^691
+ye dhammā… maraṇena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena ^692
+dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena
 
-ekenāyatanena sattahi dhātūhi asaṅgahitā. ^693
+ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-207. Paridevena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^694
+207. Paridevena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi ^695
+dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi
 
-dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^696
+dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-208. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā… upāyāsena ye ^697
+208. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā… upāyāsena ye
 
-dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… jhānena ye dhammā… ^698
+dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… jhānena ye dhammā…
 
-appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā… sattahi ^699
+appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā… sattahi
 
-bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā… phassena ye dhammā… ^700
+bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā… phassena ye dhammā…
 
-vedanāya ye dhammā… saññāya ye dhammā… cetanāya ye dhammā… adhimokkhena ye dhammā … ^701
+vedanāya ye dhammā… saññāya ye dhammā… cetanāya ye dhammā… adhimokkhena ye dhammā …
 
-manasikārena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena ^702
+manasikārena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena
 
-asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi ^703
+asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi asaṅgahitā. ^704
+sattarasahi dhātūhi asaṅgahitā.
 
-209. Cittena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^705
+209. Cittena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi ^706
+dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi
 
-ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā. ^707
+ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā.
 
-1. Tikaṃ ^708
+1. Tikaṃ
 
-210. Kusalehi dhammehi ye dhammā… akusalehi dhammehi ye dhammā… sukhāya vedanāya ^709
+210. Kusalehi dhammehi ye dhammā… akusalehi dhammehi ye dhammā… sukhāya vedanāya
 
-sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi dhammehi ye dhammā… ^710
+sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi dhammehi ye dhammā…
 
-adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā… vipākehi dhammehi ye dhammā… ^711
+adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā… vipākehi dhammehi ye dhammā…
 
-vipākadhammadhammehi ye dhammā… anupādinnaanupādāniyehi dhammehi ye dhammā… ^712
+vipākadhammadhammehi ye dhammā… anupādinnaanupādāniyehi dhammehi ye dhammā…
 
-saṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā… asaṃkiliṭṭhaasaṃkilesikehi dhammehi ye dhammā… ^713
+saṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā… asaṃkiliṭṭhaasaṃkilesikehi dhammehi ye dhammā…
 
-savitakkasavicārehi dhammehi ye dhammā… avitakkavicāramattehi dhammehi ye dhammā… ^714
+savitakkasavicārehi dhammehi ye dhammā… avitakkavicāramattehi dhammehi ye dhammā…
 
-pītisahagatehi dhammehi ye dhammā… sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi ^715
+pītisahagatehi dhammehi ye dhammā… sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi
 
-dhammehi ye dhammā… dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi ^716
+dhammehi ye dhammā… dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi
 
-dhammehi ye dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya ^717
+dhammehi ye dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya
 
-pahātabbahetukehi dhammehi ye dhammā… ācayagāmīhi dhammehi ye dhammā… apacayagāmīhi ^718
+pahātabbahetukehi dhammehi ye dhammā… ācayagāmīhi dhammehi ye dhammā… apacayagāmīhi
 
-dhammehi ye dhammā… sekkhehi dhammehi ye dhammā… asekkhehi dhammehi ye dhammā… ^719
+dhammehi ye dhammā… sekkhehi dhammehi ye dhammā… asekkhehi dhammehi ye dhammā…
 
-mahaggatehi dhammehi ye dhammā… appamāṇehi dhammehi ye dhammā… parittārammaṇehi ^720
+mahaggatehi dhammehi ye dhammā… appamāṇehi dhammehi ye dhammā… parittārammaṇehi
 
-dhammehi ye dhammā… mahaggatārammaṇehi dhammehi ye dhammā… appamāṇārammaṇehi ^721
+dhammehi ye dhammā… mahaggatārammaṇehi dhammehi ye dhammā… appamāṇārammaṇehi
 
-dhammehi ye dhammā… hīnehi dhammehi ye dhammā… paṇītehi dhammehi ye dhammā… ^722
+dhammehi ye dhammā… hīnehi dhammehi ye dhammā… paṇītehi dhammehi ye dhammā…
 
-micchattaniyatehi dhammehi ye dhammā… sammattaniyatehi dhammehi ye dhammā… ^723
+micchattaniyatehi dhammehi ye dhammā… sammattaniyatehi dhammehi ye dhammā…
 
-maggārammaṇehi dhammehi ye dhammā… maggahetukehi dhammehi ye dhammā… maggādhipatīhi ^724
+maggārammaṇehi dhammehi ye dhammā… maggahetukehi dhammehi ye dhammā… maggādhipatīhi
 
-dhammehi ye dhammā… atītārammaṇehi dhammehi ye dhammā… anāgatārammaṇehi dhammehi ye ^725
+dhammehi ye dhammā… atītārammaṇehi dhammehi ye dhammā… anāgatārammaṇehi dhammehi ye
 
-dhammā… paccupannārammaṇehi dhammehi ye dhammā… ajjhattārammaṇehi dhammehi ye ^726
+dhammā… paccupannārammaṇehi dhammehi ye dhammā… ajjhattārammaṇehi dhammehi ye
 
-dhammā… bahiddhārammaṇehi dhammehi ye dhammā… ajjhattabahiddhārammaṇehi dhammehi ye ^727
+dhammā… bahiddhārammaṇehi dhammehi ye dhammā… ajjhattabahiddhārammaṇehi dhammehi ye
 
-dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi ^728
+dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi
 
-dhammehi ye dhammā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^729
+dhammehi ye dhammā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-211. Sanidassanasappaṭighehi dhammehi ye dhammā… anidassanasappaṭighehi dhammehi ye ^730
+211. Sanidassanasappaṭighehi dhammehi ye dhammā… anidassanasappaṭighehi dhammehi ye
 
-dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi ^731
+dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi
 
-dhammehi ye dhammā…pe… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^732
+dhammehi ye dhammā…pe… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-2. Dukaṃ ^733
+2. Dukaṃ
 
-212. Hetūhi dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi ^734
+212. Hetūhi dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi
 
-ceva hetusampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^735
+ceva hetusampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ^736
+asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^737
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-213. Sahetukehi dhammehi ye dhammā… hetusampayuttehi dhammehi ye dhammā… sahetukehi ^738
+213. Sahetukehi dhammehi ye dhammā… hetusampayuttehi dhammehi ye dhammā… sahetukehi
 
-ceva na ca hetūhi dhammehi ye dhammā… hetusampayuttehi ceva na ca hetūhi dhammehi ye ^739
+ceva na ca hetūhi dhammehi ye dhammā… hetusampayuttehi ceva na ca hetūhi dhammehi ye
 
-dhammā… na hetusahetukehi [na hetū sahetukehi (sī.), na hetūhi sahetukehi (syā. ka.)] dhammehi ye ^740
+dhammā… na hetusahetukehi [na hetū sahetukehi (sī.), na hetūhi sahetukehi (syā. ka.)] dhammehi ye
 
-dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi ^741
+dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi
 
-dhammehi ye dhammā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^742
+dhammehi ye dhammā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-214. Appaccayehi dhammehi ye dhammā… asaṅkhatehi dhammehi ye dhammā khandhasaṅgahena ^743
+214. Appaccayehi dhammehi ye dhammā… asaṅkhatehi dhammehi ye dhammā khandhasaṅgahena
 
-asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… ^744
+asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe…
 
-te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^745
+te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-215. Sanidassanehi dhammehi ye dhammā… sappaṭighehi dhammehi ye dhammā ^746
+215. Sanidassanehi dhammehi ye dhammā… sappaṭighehi dhammehi ye dhammā
 
-khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ^747
+khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi
 
-ye dhammā…pe… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā. ^748
+ye dhammā…pe… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi asaṅgahitā.
 
-216. Rūpīhi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^749
+216. Rūpīhi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena ^750
+dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena
 
-ekenāyatanena sattahi dhātūhi asaṅgahitā. ^751
+ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-217. Arūpīhi dhammehi ye dhammā… lokuttarehi dhammehi ye dhammā khandhasaṅgahena ^752
+217. Arūpīhi dhammehi ye dhammā… lokuttarehi dhammehi ye dhammā khandhasaṅgahena
 
-asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… ^753
+asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe…
 
-te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^754
+te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-218. Āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye dhammā… āsavehi ^755
+218. Āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye dhammā… āsavehi
 
-ceva āsavasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^756
+ceva āsavasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ^757
+asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^758
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-219. Anāsavehi dhammehi ye dhammā… āsavasampayuttehi dhammehi ye dhammā… ^759
+219. Anāsavehi dhammehi ye dhammā… āsavasampayuttehi dhammehi ye dhammā…
 
-āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā… āsavavippayuttehi anāsavehi dhammehi ^760
+āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā… āsavavippayuttehi anāsavehi dhammehi
 
-ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi ^761
+ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi
 
-dhammehi ye dhammā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^762
+dhammehi ye dhammā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-220. Saṃyojanehi dhammehi ye dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi ^763
+220. Saṃyojanehi dhammehi ye dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi
 
-ye dhammā… yogehi dhammehi ye dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi ^764
+ye dhammā… yogehi dhammehi ye dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi
 
-dhammehi ye dhammā… parāmāsehi ceva parāmaṭṭhehi ca dhammehi ye dhammā khandhasaṅgahena ^765
+dhammehi ye dhammā… parāmāsehi ceva parāmaṭṭhehi ca dhammehi ye dhammā khandhasaṅgahena
 
-asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… ^766
+asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe…
 
-te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^767
+te dhammā dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-221. Aparāmaṭṭhehi dhammehi ye dhammā… parāmāsasampayuttehi dhammehi ye dhammā… ^768
+221. Aparāmaṭṭhehi dhammehi ye dhammā… parāmāsasampayuttehi dhammehi ye dhammā…
 
-parāmāsavippayuttehi aparāmaṭṭhehi dhammehi ye dhammā… sārammaṇehi dhammehi ye dhammā ^769
+parāmāsavippayuttehi aparāmaṭṭhehi dhammehi ye dhammā… sārammaṇehi dhammehi ye dhammā
 
-khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi ^770
+khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi
 
-dhammehi ye dhammā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^771
+dhammehi ye dhammā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-222. Anārammaṇehi dhammehi ye dhammā… no cittehi dhammehi ye dhammā… cittavippayuttehi ^772
+222. Anārammaṇehi dhammehi ye dhammā… no cittehi dhammehi ye dhammā… cittavippayuttehi
 
-dhammehi ye dhammā… cittavisaṃsaṭṭhehi dhammehi ye dhammā… cittasamuṭṭhānehi dhammehi ye ^773
+dhammehi ye dhammā… cittavisaṃsaṭṭhehi dhammehi ye dhammā… cittasamuṭṭhānehi dhammehi ye
 
-dhammā… cittasahabhūhi dhammehi ye dhammā… cittānuparivattīhi dhammehi ye dhammā… bāhirehi ^774
+dhammā… cittasahabhūhi dhammehi ye dhammā… cittānuparivattīhi dhammehi ye dhammā… bāhirehi
 
-dhammehi ye dhammā… upādādhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^775
+dhammehi ye dhammā… upādādhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena ^776
+asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ekena khandhena
 
-ekenāyatanena sattahi dhātūhi asaṅgahitā. ^777
+ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-223. Cittehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^778
+223. Cittehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi ^779
+dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā catūhi khandhehi
 
-ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā. ^780
+ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā.
 
-224. Cetasikehi dhammehi ye dhammā… cittasampayuttehi dhammehi ye dhammā… ^781
+224. Cetasikehi dhammehi ye dhammā… cittasampayuttehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā… ^782
+cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi ^783
+cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi
 
-dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena ^784
+dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena
 
-asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi ^785
+asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā dvīhi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi asaṅgahitā. ^786
+sattarasahi dhātūhi asaṅgahitā.
 
-225. Ajjhattikehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^787
+225. Ajjhattikehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā tehi dhammehi ye dhammā…pe… te dhammā tīhi khandhehi ^788
+asaṅgahitā dhātusaṅgahena asaṅgahitā tehi dhammehi ye dhammā…pe… te dhammā tīhi khandhehi
 
-ekenāyatanena ekāya dhātuyā asaṅgahitā. ^789
+ekenāyatanena ekāya dhātuyā asaṅgahitā.
 
-226. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva ^790
+226. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva
 
-saṃkilesikehi ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… ^791
+saṃkilesikehi ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā…
 
-kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā ^792
+kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā khandhasaṅgahena asaṅgahitā
 
-āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā ^793
+āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi dhammehi ye dhammā…pe… te dhammā
 
-dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^794
+dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-227. Asaṃkilesikehi dhammehi ye dhammā… saṃkiliṭṭhehi dhammehi ye dhammā… ^795
+227. Asaṃkilesikehi dhammehi ye dhammā… saṃkiliṭṭhehi dhammehi ye dhammā…
 
-kilesasampayuttehi dhammehi ye dhammā… saṃkiliṭṭhehi ceva no ca kilesehi dhammehi ye dhammā… ^796
+kilesasampayuttehi dhammehi ye dhammā… saṃkiliṭṭhehi ceva no ca kilesehi dhammehi ye dhammā…
 
-kilesasampayuttehi ceva no ca kilesehi dhammehi ye dhammā… kilesavippayuttehi asaṃkilesikehi ^797
+kilesasampayuttehi ceva no ca kilesehi dhammehi ye dhammā… kilesavippayuttehi asaṃkilesikehi
 
-dhammehi ye dhammā… dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi ^798
+dhammehi ye dhammā… dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi
 
-dhammehi ye dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya ^799
+dhammehi ye dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya
 
-pahātabbahetukehi dhammehi ye dhammā… savitakkehi dhammehi ye dhammā… savicārehi dhammehi ^800
+pahātabbahetukehi dhammehi ye dhammā… savitakkehi dhammehi ye dhammā… savicārehi dhammehi
 
-ye dhammā… sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā… ^801
+ye dhammā… sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā…
 
-sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye dhammā… na ^802
+sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye dhammā… na
 
-kāmāvacarehi dhammehi ye dhammā… rūpāvacarehi dhammehi ye dhammā… arūpāvacarehi ^803
+kāmāvacarehi dhammehi ye dhammā… rūpāvacarehi dhammehi ye dhammā… arūpāvacarehi
 
-dhammehi ye dhammā… apariyāpannehi dhammehi ye dhammā… niyyānikehi dhammehi ye ^804
+dhammehi ye dhammā… apariyāpannehi dhammehi ye dhammā… niyyānikehi dhammehi ye
 
-dhammā… niyatehi dhammehi ye dhammā… anuttarehi dhammehi ye dhammā… saraṇehi dhammehi ^805
+dhammā… niyatehi dhammehi ye dhammā… anuttarehi dhammehi ye dhammā… saraṇehi dhammehi
 
-ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi ^806
+ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, tehi
 
-dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena ^807
+dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena
 
-asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi asaṅgahitā? Te dhammā ekena ^808
+asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi asaṅgahitā? Te dhammā ekena
 
-khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^809
+khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-Rūpañca dhammāyatanaṃ dhammadhātu, itthipumaṃ jīvitaṃ nāmarūpaṃ; ^810
+Rūpañca dhammāyatanaṃ dhammadhātu, itthipumaṃ jīvitaṃ nāmarūpaṃ;
 
-Dve bhavā jāti jarā maccurūpaṃ, anārammaṇaṃ no cittaṃ cittena vippayuttaṃ. ^811
+Dve bhavā jāti jarā maccurūpaṃ, anārammaṇaṃ no cittaṃ cittena vippayuttaṃ.
 
-Visaṃsaṭṭhaṃ samuṭṭhāna-sahabhu anuparivatti; ^812
+Visaṃsaṭṭhaṃ samuṭṭhāna-sahabhu anuparivatti;
 
-Bāhiraṃ upādā dve, visayo [dvevīsati (syā.)] esanayo subuddho. ^813
+Bāhiraṃ upādā dve, visayo [dvevīsati (syā.)] esanayo subuddho.
 
-Asaṅgahitenaasaṅgahitapadaniddeso pañcamo. ^814
+Asaṅgahitenaasaṅgahitapadaniddeso pañcamo.
 
-6. Chaṭṭhanayo ^815
+6. Chaṭṭhanayo
 
-6. Sampayogavippayogapadaniddeso ^816
+6. Sampayogavippayogapadaniddeso
 
-1. Khandho ^817
+1. Khandho
 
-228. Rūpakkhandho katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttoti? Natthi. Katihi ^818
+228. Rūpakkhandho katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttoti? Natthi. Katihi
 
-vippayutto? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā ^819
+vippayutto? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā
 
-kehici vippayutto. ^820
+kehici vippayutto.
 
-229. Vedanākkhandho… saññākkhandho… saṅkhārakkhandho tīhi khandhehi ekenāyatanena ^821
+229. Vedanākkhandho… saññākkhandho… saṅkhārakkhandho tīhi khandhehi ekenāyatanena
 
-sattahi dhātūhi sampayutto; ekenāyatanena ekāya dhātuyā kehici sampayutto. Katihi vippayutto? Ekena ^822
+sattahi dhātūhi sampayutto; ekenāyatanena ekāya dhātuyā kehici sampayutto. Katihi vippayutto? Ekena
 
-khandhena dasahāyatanehi dasahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici vippayutto. ^823
+khandhena dasahāyatanehi dasahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici vippayutto.
 
-230. Viññāṇakkhandho tīhi khandhehi sampayutto; ekenāyatanena ekāya dhātuyā kehici ^824
+230. Viññāṇakkhandho tīhi khandhehi sampayutto; ekenāyatanena ekāya dhātuyā kehici
 
-sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayutto; ^825
+sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayutto;
 
-ekenāyatanena ekāya dhātuyā kehici vippayutto. ^826
+ekenāyatanena ekāya dhātuyā kehici vippayutto.
 
-2. Āyatanaṃ ^827
+2. Āyatanaṃ
 
-231. Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ…pe… sampayuttanti? Natthi. Katihi ^828
+231. Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ…pe… sampayuttanti? Natthi. Katihi
 
-vippayuttaṃ? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya ^829
+vippayuttaṃ? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya
 
-dhātuyā kehici vippayuttaṃ. ^830
+dhātuyā kehici vippayuttaṃ.
 
-232. Manāyatanaṃ tīhi khandhehi sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici ^831
+232. Manāyatanaṃ tīhi khandhehi sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ; ^832
+sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ. ^833
+ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ.
 
-3. Dhātu ^834
+3. Dhātu
 
-233. Cakkhudhātu …pe… phoṭṭhabbadhātu…pe… sampayuttāti? Natthi. Katihi vippayuttā? Catūhi ^835
+233. Cakkhudhātu …pe… phoṭṭhabbadhātu…pe… sampayuttāti? Natthi. Katihi vippayuttā? Catūhi
 
-khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^836
+khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-234. Cakkhuviññāṇadhātu…pe… manodhātu… manoviññāṇadhātu tīhi khandhehi sampayuttā; ^837
+234. Cakkhuviññāṇadhātu…pe… manodhātu… manoviññāṇadhātu tīhi khandhehi sampayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi ^838
+ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi
 
-soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^839
+soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-4. Saccādi ^840
+4. Saccādi
 
-235. Samudayasaccaṃ… maggasaccaṃ tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttaṃ; ^841
+235. Samudayasaccaṃ… maggasaccaṃ tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttaṃ;
 
-ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ? Ekena ^842
+ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ? Ekena
 
-khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici ^843
+khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttaṃ. ^844
+vippayuttaṃ.
 
-236. Nirodhasaccaṃ… cakkhundriyaṃ…pe… kāyindriyaṃ… itthindriyaṃ… purisindriyaṃ…pe… ^845
+236. Nirodhasaccaṃ… cakkhundriyaṃ…pe… kāyindriyaṃ… itthindriyaṃ… purisindriyaṃ…pe…
 
-sampayuttanti? Natthi. Katihi vippayuttaṃ? Catūhi khandhehi ekenāyatanena sattahi dhātūhi ^846
+sampayuttanti? Natthi. Katihi vippayuttaṃ? Catūhi khandhehi ekenāyatanena sattahi dhātūhi
 
-vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ. ^847
+vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ.
 
-237. Manindriyaṃ tīhi khandhehi sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. ^848
+237. Manindriyaṃ tīhi khandhehi sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ.
 
-Katihi vippayuttaṃ? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ; ekenāyatanena ^849
+Katihi vippayuttaṃ? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttaṃ. ^850
+ekāya dhātuyā kehici vippayuttaṃ.
 
-238. Sukhindriyaṃ… dukkhindriyaṃ… somanassindriyaṃ… domanassindriyaṃ tīhi khandhehi ^851
+238. Sukhindriyaṃ… dukkhindriyaṃ… somanassindriyaṃ… domanassindriyaṃ tīhi khandhehi
 
-ekenāyatanena ekāya dhātuyā sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi ^852
+ekenāyatanena ekāya dhātuyā sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi
 
-vippayuttaṃ? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya ^853
+vippayuttaṃ? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya
 
-dhātuyā kehici vippayuttaṃ. ^854
+dhātuyā kehici vippayuttaṃ.
 
-239. Upekkhindriyaṃ tīhi khandhehi ekenāyatanena chahi dhātūhi sampayuttaṃ; ekenāyatanena ^855
+239. Upekkhindriyaṃ tīhi khandhehi ekenāyatanena chahi dhātūhi sampayuttaṃ; ekenāyatanena
 
-ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena dasahāyatanehi ekādasahi ^856
+ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena dasahāyatanehi ekādasahi
 
-dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ. ^857
+dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ.
 
-240. Saddhindriyaṃ… vīriyindriyaṃ… satindriyaṃ… samādhindriyaṃ… paññindriyaṃ… ^858
+240. Saddhindriyaṃ… vīriyindriyaṃ… satindriyaṃ… samādhindriyaṃ… paññindriyaṃ…
 
-anaññātaññassāmītindriyaṃ… aññindriyaṃ… aññātāvindriyaṃ… avijjā… avijjāpaccayā saṅkhārā tīhi ^859
+anaññātaññassāmītindriyaṃ… aññindriyaṃ… aññātāvindriyaṃ… avijjā… avijjāpaccayā saṅkhārā tīhi
 
-khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā ^860
+khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ^861
+kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^862
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-241. Saṅkhārapaccayā viññāṇaṃ tīhi khandhehi sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici ^863
+241. Saṅkhārapaccayā viññāṇaṃ tīhi khandhehi sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ; ^864
+sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ. ^865
+ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ.
 
-242. Saḷāyatanapaccayā phasso tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayutto; ekena ^866
+242. Saḷāyatanapaccayā phasso tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayutto; ekena
 
-khandhena ekenāyatanena ekāya dhātuyā kehici sampayutto. Katihi vippayutto? Ekena khandhena ^867
+khandhena ekenāyatanena ekāya dhātuyā kehici sampayutto. Katihi vippayutto? Ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici vippayutto. ^868
+dasahāyatanehi dasahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici vippayutto.
 
-243. Phassapaccayā vedanā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ^869
+243. Phassapaccayā vedanā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi ^870
+ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi
 
-dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^871
+dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-244. Vedanāpaccayā taṇhā… taṇhāpaccayā upādānaṃ… kammabhavo tīhi khandhehi ^872
+244. Vedanāpaccayā taṇhā… taṇhāpaccayā upādānaṃ… kammabhavo tīhi khandhehi
 
-ekenāyatanena ekāya dhātuyā sampayutto; ekena khandhena ekenāyatanena ekāya dhātuyā kehici ^873
+ekenāyatanena ekāya dhātuyā sampayutto; ekena khandhena ekenāyatanena ekāya dhātuyā kehici
 
-sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayutto; ^874
+sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayutto;
 
-ekenāyatanena ekāya dhātuyā kehici vippayutto. ^875
+ekenāyatanena ekāya dhātuyā kehici vippayutto.
 
-245. Rūpabhavo…pe… sampayuttoti? Natthi. Katihi vippayutto? Na kehici khandhehi na kehici ^876
+245. Rūpabhavo…pe… sampayuttoti? Natthi. Katihi vippayutto? Na kehici khandhehi na kehici
 
-āyatanehi tīhi dhātūhi vippayutto. ^877
+āyatanehi tīhi dhātūhi vippayutto.
 
-246. Arūpabhavo… nevasaññānāsaññābhavo… catuvokārabhavo…pe… sampayuttoti? Natthi. ^878
+246. Arūpabhavo… nevasaññānāsaññābhavo… catuvokārabhavo…pe… sampayuttoti? Natthi.
 
-Katihi vippayutto? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayutto; ekenāyatanena ekāya ^879
+Katihi vippayutto? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayutto; ekenāyatanena ekāya
 
-dhātuyā kehici vippayutto. ^880
+dhātuyā kehici vippayutto.
 
-247. Asaññābhavo… ekavokārabhavo… paridevo…pe… sampayuttoti? Natthi. Katihi vippayutto? ^881
+247. Asaññābhavo… ekavokārabhavo… paridevo…pe… sampayuttoti? Natthi. Katihi vippayutto?
 
-Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici ^882
+Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici
 
-vippayutto. ^883
+vippayutto.
 
-248. Soko… dukkhaṃ… domanassaṃ tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttaṃ; ^884
+248. Soko… dukkhaṃ… domanassaṃ tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttaṃ;
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena ^885
+ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ. ^886
+dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ.
 
-249. Upāyāso… satipaṭṭhānaṃ… sammappadhānaṃ tīhi khandhehi ekenāyatanena ekāya dhātuyā ^887
+249. Upāyāso… satipaṭṭhānaṃ… sammappadhānaṃ tīhi khandhehi ekenāyatanena ekāya dhātuyā
 
-sampayuttaṃ; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ? ^888
+sampayuttaṃ; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ?
 
-Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici ^889
+Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttaṃ. ^890
+vippayuttaṃ.
 
-250. Iddhipādo dvīhi khandhehi sampayutto; ekena khandhena ekenāyatanena ekāya dhātuyā kehici ^891
+250. Iddhipādo dvīhi khandhehi sampayutto; ekena khandhena ekenāyatanena ekāya dhātuyā kehici
 
-sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayutto; ^892
+sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayutto;
 
-ekenāyatanena ekāya dhātuyā kehici vippayutto. ^893
+ekenāyatanena ekāya dhātuyā kehici vippayutto.
 
-251. Jhānaṃ dvīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttaṃ; ekena khandhena ^894
+251. Jhānaṃ dvīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttaṃ; ekena khandhena
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena ^895
+ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi vippayuttaṃ? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ. ^896
+dasahāyatanehi soḷasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya dhātuyā kehici vippayuttaṃ.
 
-252. Appamaññā… pañcindriyāni… pañca balāni… satta bojjhaṅgā… ariyo aṭṭhaṅgiko maggo tīhi ^897
+252. Appamaññā… pañcindriyāni… pañca balāni… satta bojjhaṅgā… ariyo aṭṭhaṅgiko maggo tīhi
 
-khandhehi ekenāyatanena ekāya dhātuyā sampayutto; ekena khandhena ekenāyatanena ekāya dhātuyā ^898
+khandhehi ekenāyatanena ekāya dhātuyā sampayutto; ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayutto; ^899
+kehici sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayutto;
 
-ekenāyatanena ekāya dhātuyā kehici vippayutto. ^900
+ekenāyatanena ekāya dhātuyā kehici vippayutto.
 
-253. Phasso … cetanā… manasikāro tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayutto; ^901
+253. Phasso … cetanā… manasikāro tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayutto;
 
-ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayutto. Katihi vippayutto? Ekena khandhena ^902
+ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayutto. Katihi vippayutto? Ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici vippayutto. ^903
+dasahāyatanehi dasahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici vippayutto.
 
-254. Vedanā… saññā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekenāyatanena ^904
+254. Vedanā… saññā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi ^905
+ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^906
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-255. Cittaṃ tīhi khandhehi sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi ^907
+255. Cittaṃ tīhi khandhehi sampayuttaṃ; ekenāyatanena ekāya dhātuyā kehici sampayuttaṃ. Katihi
 
-vippayuttaṃ? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya ^908
+vippayuttaṃ? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttaṃ; ekenāyatanena ekāya
 
-dhātuyā kehici vippayuttaṃ. ^909
+dhātuyā kehici vippayuttaṃ.
 
-256. Adhimokkho tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampayutto; ekena khandhena ^910
+256. Adhimokkho tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampayutto; ekena khandhena
 
-ekenāyatanena ekāya dhātuyā kehici sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi ^911
+ekenāyatanena ekāya dhātuyā kehici sampayutto. Katihi vippayutto? Ekena khandhena dasahāyatanehi
 
-pannarasahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici vippayutto. ^912
+pannarasahi dhātūhi vippayutto; ekenāyatanena ekāya dhātuyā kehici vippayutto.
 
-5. Tikaṃ ^913
+5. Tikaṃ
 
-257. Kusalā dhammā… akusalā dhammā katihi khandhehi katihāyatanehi katihi dhātūhi ^914
+257. Kusalā dhammā… akusalā dhammā katihi khandhehi katihāyatanehi katihi dhātūhi
 
-sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ^915
+sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^916
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-258. Sukhāya vedanāya sampayuttā dhammā… dukkhāya vedanāya sampayuttā dhammā ekena ^917
+258. Sukhāya vedanāya sampayuttā dhammā… dukkhāya vedanāya sampayuttā dhammā ekena
 
-khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena ^918
+khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena
 
-khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^919
+khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^920
+vippayuttā.
 
-259. Adukkhamasukhāya vedanāya sampayuttā dhammā ekena khandhena sampayuttā; ^921
+259. Adukkhamasukhāya vedanāya sampayuttā dhammā ekena khandhena sampayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi ^922
+ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi
 
-ekādasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^923
+ekādasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-260. Vipākā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena ^924
+260. Vipākā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^925
+dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-261. Vipākadhammadhammā… saṃkiliṭṭhasaṃkilesikā dhammā…pe… sampayuttāti? Natthi. ^926
+261. Vipākadhammadhammā… saṃkiliṭṭhasaṃkilesikā dhammā…pe… sampayuttāti? Natthi.
 
-Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya ^927
+Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya
 
-dhātuyā kehici vippayuttā. ^928
+dhātuyā kehici vippayuttā.
 
-262. Nevavipākanavipākadhammadhammā… anupādinnupādāniyā dhammā…pe… sampayuttāti? ^929
+262. Nevavipākanavipākadhammadhammā… anupādinnupādāniyā dhammā…pe… sampayuttāti?
 
-Natthi. Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā. ^930
+Natthi. Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā.
 
-263. Anupādinnaanupādāniyā dhammā… asaṃkiliṭṭhaasaṃkilesikā dhammā…pe… sampayuttāti? ^931
+263. Anupādinnaanupādāniyā dhammā… asaṃkiliṭṭhaasaṃkilesikā dhammā…pe… sampayuttāti?
 
-Natthi. Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā. ^932
+Natthi. Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā.
 
-264. Savitakkasavicārā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^933
+264. Savitakkasavicārā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-Katihi vippayuttā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ^934
+Katihi vippayuttā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^935
+ekāya dhātuyā kehici vippayuttā.
 
-265. Avitakkavicāramattā dhammā… pītisahagatā dhammā ekena khandhena ekenāyatanena ekāya ^936
+265. Avitakkavicāramattā dhammā… pītisahagatā dhammā ekena khandhena ekenāyatanena ekāya
 
-dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^937
+dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^938
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-266. Avitakkaavicārā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na kehici ^939
+266. Avitakkaavicārā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na kehici
 
-khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā. ^940
+khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā.
 
-267. Sukhasahagatā dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici ^941
+267. Sukhasahagatā dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ^942
+sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^943
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-268. Upekkhāsahagatā dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici ^944
+268. Upekkhāsahagatā dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā; ^945
+sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^946
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-269. Dassanena pahātabbā dhammā bhāvanāya pahātabbā dhammā… dassanena pahātabbahetukā ^947
+269. Dassanena pahātabbā dhammā bhāvanāya pahātabbā dhammā… dassanena pahātabbahetukā
 
-dhammā… bhāvanāya pahātabbahetukā dhammā… ācayagāmino dhammā… apacayagāmino ^948
+dhammā… bhāvanāya pahātabbahetukā dhammā… ācayagāmino dhammā… apacayagāmino
 
-dhammā… sekkhā dhammā… asekkhā dhammā… mahaggatā dhammā…pe… sampayuttāti? Natthi. ^949
+dhammā… sekkhā dhammā… asekkhā dhammā… mahaggatā dhammā…pe… sampayuttāti? Natthi.
 
-Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya ^950
+Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya
 
-dhātuyā kehici vippayuttā. ^951
+dhātuyā kehici vippayuttā.
 
-270. Appamāṇā dhammā… paṇītā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na ^952
+270. Appamāṇā dhammā… paṇītā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na
 
-kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā. ^953
+kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā.
 
-271. Parittārammaṇā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena ^954
+271. Parittārammaṇā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^955
+dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-272. Mahaggatārammaṇā dhammā… appamāṇārammaṇā dhammā… hīnā dhammā… ^956
+272. Mahaggatārammaṇā dhammā… appamāṇārammaṇā dhammā… hīnā dhammā…
 
-micchattaniyatā dhammā… sammattaniyatā dhammā… maggārammaṇā dhammā… maggahetukā ^957
+micchattaniyatā dhammā… sammattaniyatā dhammā… maggārammaṇā dhammā… maggahetukā
 
-dhammā… maggādhipatino dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena ^958
+dhammā… maggādhipatino dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^959
+dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-273. Anuppannā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na kehici khandhehi na ^960
+273. Anuppannā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na kehici khandhehi na
 
-kehici āyatanehi pañcahi dhātūhi vippayuttā. ^961
+kehici āyatanehi pañcahi dhātūhi vippayuttā.
 
-274. Atītārammaṇā dhammā…pe… anāgatārammaṇā dhammā…pe… sampayuttāti? Natthi. Katihi ^962
+274. Atītārammaṇā dhammā…pe… anāgatārammaṇā dhammā…pe… sampayuttāti? Natthi. Katihi
 
-vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^963
+vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^964
+kehici vippayuttā.
 
-275. Paccuppannārammaṇā dhammā… ajjhattārammaṇā dhammā… bahiddhārammaṇā dhammā… ^965
+275. Paccuppannārammaṇā dhammā… ajjhattārammaṇā dhammā… bahiddhārammaṇā dhammā…
 
-ajjhattabahiddhārammaṇā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena ^966
+ajjhattabahiddhārammaṇā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^967
+dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-276. Sanidassanasappaṭighā dhammā… anidassanasappaṭighā dhammā…pe… sampayuttāti? ^968
+276. Sanidassanasappaṭighā dhammā… anidassanasappaṭighā dhammā…pe… sampayuttāti?
 
-Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ^969
+Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^970
+ekāya dhātuyā kehici vippayuttā.
 
-6. Dukaṃ ^971
+6. Dukaṃ
 
-277. Hetū dhammā… hetū ceva sahetukā ca dhammā… hetū ceva hetusampayuttā ca dhammā tīhi ^972
+277. Hetū dhammā… hetū ceva sahetukā ca dhammā… hetū ceva hetusampayuttā ca dhammā tīhi
 
-khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā ^973
+khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ^974
+kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^975
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-278. Sahetukā dhammā… hetusampayuttā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? ^976
+278. Sahetukā dhammā… hetusampayuttā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā?
 
-Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^977
+Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^978
+vippayuttā.
 
-279. Sahetukā ceva na ca hetū dhammā… hetusampayuttā ceva na ca hetū dhammā… na ^979
+279. Sahetukā ceva na ca hetū dhammā… hetusampayuttā ceva na ca hetū dhammā… na
 
-hetusahetukā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi ^980
+hetusahetukā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi
 
-vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^981
+vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^982
+kehici vippayuttā.
 
-280. Appaccayā dhammā… asaṅkhatā dhammā… sanidassanā dhammā… sappaṭighā dhammā… ^983
+280. Appaccayā dhammā… asaṅkhatā dhammā… sanidassanā dhammā… sappaṭighā dhammā…
 
-rūpino dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena ^984
+rūpino dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena
 
-sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^985
+sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-281. Lokuttarā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na kehici khandhehi na ^986
+281. Lokuttarā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na kehici khandhehi na
 
-kehici āyatanehi chahi dhātūhi vippayuttā. ^987
+kehici āyatanehi chahi dhātūhi vippayuttā.
 
-282. Āsavā dhammā… āsavā ceva sāsavā ca dhammā… āsavā ceva āsavasampayuttā ca dhammā ^988
+282. Āsavā dhammā… āsavā ceva sāsavā ca dhammā… āsavā ceva āsavasampayuttā ca dhammā
 
-tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya ^989
+tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya
 
-dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^990
+dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^991
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-283. Anāsavā dhammā… āsavavippayuttā anāsavā dhammā…pe… sampayuttāti? Natthi. Katihi ^992
+283. Anāsavā dhammā… āsavavippayuttā anāsavā dhammā…pe… sampayuttāti? Natthi. Katihi
 
-vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā. ^993
+vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā.
 
-284. Āsavasampayuttā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena ^994
+284. Āsavasampayuttā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^995
+dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-285. Āsavasampayuttā ceva no ca āsavā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā ^996
+285. Āsavasampayuttā ceva no ca āsavā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ^997
+kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^998
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-286. Saṃyojanā dhammā… ganthā dhammā… oghā dhammā… yogā dhammā… nīvaraṇā ^999
+286. Saṃyojanā dhammā… ganthā dhammā… oghā dhammā… yogā dhammā… nīvaraṇā
 
-dhammā… parāmāsā dhammā… parāmāsā ceva parāmaṭṭhā ca dhammā tīhi khandhehi ekenāyatanena ^1000
+dhammā… parāmāsā dhammā… parāmāsā ceva parāmaṭṭhā ca dhammā tīhi khandhehi ekenāyatanena
 
-ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi ^1001
+ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi
 
-vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^1002
+vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^1003
+kehici vippayuttā.
 
-287. Aparāmaṭṭhā dhammā… parāmāsavippayuttā aparāmaṭṭhā dhammā sampayuttāti? Natthi. ^1004
+287. Aparāmaṭṭhā dhammā… parāmāsavippayuttā aparāmaṭṭhā dhammā sampayuttāti? Natthi.
 
-Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā. ^1005
+Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā.
 
-288. Parāmāsasampayuttā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici ^1006
+288. Parāmāsasampayuttā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ^1007
+sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1008
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-289. Sārammaṇā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena ^1009
+289. Sārammaṇā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1010
+dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-290. Anārammaṇā dhammā… cittavippayuttā dhammā… cittavisaṃsaṭṭhā dhammā… upādā ^1011
+290. Anārammaṇā dhammā… cittavippayuttā dhammā… cittavisaṃsaṭṭhā dhammā… upādā
 
-dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi ^1012
+dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi
 
-dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1013
+dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-291. Cittā dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1014
+291. Cittā dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya ^1015
+Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya
 
-dhātuyā kehici vippayuttā. ^1016
+dhātuyā kehici vippayuttā.
 
-292. Cetasikā dhammā… cittasampayuttā dhammā… cittasaṃsaṭṭhā dhammā… ^1017
+292. Cetasikā dhammā… cittasampayuttā dhammā… cittasaṃsaṭṭhā dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānā dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā… ^1018
+cittasaṃsaṭṭhasamuṭṭhānā dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā ekena khandhena ekenāyatanena sattahi dhātūhi ^1019
+cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā ekena khandhena ekenāyatanena sattahi dhātūhi
 
-sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ^1020
+sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1021
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-293. Anupādinnā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na kehici khandhehi na ^1022
+293. Anupādinnā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na kehici khandhehi na
 
-kehici āyatanehi pañcahi dhātūhi vippayuttā. ^1023
+kehici āyatanehi pañcahi dhātūhi vippayuttā.
 
-294. Upādānā dhammā… kilesā dhammā… kilesā ceva saṃkilesikā ca dhammā… kilesā ceva ^1024
+294. Upādānā dhammā… kilesā dhammā… kilesā ceva saṃkilesikā ca dhammā… kilesā ceva
 
-saṃkiliṭṭhā ca dhammā… kilesā ceva kilesasampayuttā ca dhammā tīhi khandhehi ekenāyatanena ekāya ^1025
+saṃkiliṭṭhā ca dhammā… kilesā ceva kilesasampayuttā ca dhammā tīhi khandhehi ekenāyatanena ekāya
 
-dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi ^1026
+dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi
 
-vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^1027
+vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^1028
+kehici vippayuttā.
 
-295. Asaṃkilesikā dhammā… kilesavippayuttā asaṃkilesikā dhammā…pe… sampayuttāti? Natthi. ^1029
+295. Asaṃkilesikā dhammā… kilesavippayuttā asaṃkilesikā dhammā…pe… sampayuttāti? Natthi.
 
-Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā. ^1030
+Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā.
 
-296. Saṃkiliṭṭhā dhammā… kilesasampayuttā dhammā…pe… sampayuttāti? Natthi. Katihi ^1031
+296. Saṃkiliṭṭhā dhammā… kilesasampayuttā dhammā…pe… sampayuttāti? Natthi. Katihi
 
-vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^1032
+vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^1033
+kehici vippayuttā.
 
-297. Saṃkiliṭṭhā ceva no ca kilesā dhammā… kilesasampayuttā ceva no ca kilesā dhammā ekena ^1034
+297. Saṃkiliṭṭhā ceva no ca kilesā dhammā… kilesasampayuttā ceva no ca kilesā dhammā ekena
 
-khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena ^1035
+khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1036
+dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-298. Dassanena pahātabbā dhammā… bhāvanāya pahātabbā dhammā… dassanena ^1037
+298. Dassanena pahātabbā dhammā… bhāvanāya pahātabbā dhammā… dassanena
 
-pahātabbahetukā dhammā… bhāvanāya pahātabbahetukā dhammā… sampayuttāti? Natthi. Katihi ^1038
+pahātabbahetukā dhammā… bhāvanāya pahātabbahetukā dhammā… sampayuttāti? Natthi. Katihi
 
-vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^1039
+vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^1040
+kehici vippayuttā.
 
-299. Savitakkā dhammā… savicārā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici ^1041
+299. Savitakkā dhammā… savicārā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ^1042
+sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1043
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-300. Avitakkā dhammā… avicārā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na ^1044
+300. Avitakkā dhammā… avicārā dhammā…pe… sampayuttāti? Natthi. Katihi vippayuttā? Na
 
-kehici khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā. ^1045
+kehici khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā.
 
-301. Sappītikā dhammā… pītisahagatā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā ^1046
+301. Sappītikā dhammā… pītisahagatā dhammā ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ^1047
+kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1048
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-302. Sukhasahagatā dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici ^1049
+302. Sukhasahagatā dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ^1050
+sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1051
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-303. Upekkhāsahagatā dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici ^1052
+303. Upekkhāsahagatā dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā; ^1053
+sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1054
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-304. Na kāmāvacarā dhammā… apariyāpannā dhammā… anuttarā dhammā…pe… sampayuttāti? ^1055
+304. Na kāmāvacarā dhammā… apariyāpannā dhammā… anuttarā dhammā…pe… sampayuttāti?
 
-Natthi. Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā. ^1056
+Natthi. Katihi vippayuttā? Na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā.
 
-305. Rūpāvacarā dhammā… arūpāvacarā dhammā… niyyānikā dhammā… niyatā dhammā… ^1057
+305. Rūpāvacarā dhammā… arūpāvacarā dhammā… niyyānikā dhammā… niyatā dhammā…
 
-saraṇā dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttāti? Natthi. Katihi vippayuttā? ^1058
+saraṇā dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttāti? Natthi. Katihi vippayuttā?
 
-Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1059
+Ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1060
+vippayuttā.
 
-Dhammāyatanaṃ dhammadhātu, dukkhasaccañca jīvitaṃ; ^1061
+Dhammāyatanaṃ dhammadhātu, dukkhasaccañca jīvitaṃ;
 
-Saḷāyatanaṃ nāmarūpaṃ, cattāro ca mahābhavā. ^1062
+Saḷāyatanaṃ nāmarūpaṃ, cattāro ca mahābhavā.
 
-Jāti jarā ca maraṇaṃ, tikesvekūnavīsati; ^1063
+Jāti jarā ca maraṇaṃ, tikesvekūnavīsati;
 
-Gocchakesu ca paññāsa, aṭṭha cūḷantare padā. ^1064
+Gocchakesu ca paññāsa, aṭṭha cūḷantare padā.
 
-Mahantare pannarasa, aṭṭhārasa tato pare; ^1065
+Mahantare pannarasa, aṭṭhārasa tato pare;
 
-Tevīsa padasataṃ etaṃ, sampayoge na labbhatīti. ^1066
+Tevīsa padasataṃ etaṃ, sampayoge na labbhatīti.
 
-Sampayogavippayogapadaniddeso chaṭṭho. ^1067
+Sampayogavippayogapadaniddeso chaṭṭho.
 
-7. Sattamanayo ^1068
+7. Sattamanayo
 
-7. Sampayuttenavippayuttapadaniddeso ^1069
+7. Sampayuttenavippayuttapadaniddeso
 
-306. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye ^1070
+306. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye
 
-dhammā… viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā sampayuttā, tehi dhammehi ye ^1071
+dhammā… viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā sampayuttā, tehi dhammehi ye
 
-dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi vippayuttā? Te dhammā ^1072
+dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi vippayuttā? Te dhammā
 
-catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1073
+catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1074
+vippayuttā.
 
-307. Cakkhuviññāṇadhātuyā ye dhammā…pe… manodhātuyā ye dhammā… manoviññāṇadhātuyā ^1075
+307. Cakkhuviññāṇadhātuyā ye dhammā…pe… manodhātuyā ye dhammā… manoviññāṇadhātuyā
 
-ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na ^1076
+ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na
 
-kehici āyatanehi ekāya dhātuyā vippayuttā. ^1077
+kehici āyatanehi ekāya dhātuyā vippayuttā.
 
-308. Manindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ^1078
+308. Manindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā
 
-catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1079
+catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1080
+vippayuttā.
 
-309. Upekkhindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te ^1081
+309. Upekkhindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te
 
-dhammā na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā. ^1082
+dhammā na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā.
 
-310. Saṅkhārapaccayā viññāṇena ye dhammā… saḷāyatanapaccayā phassena ye dhammā… ^1083
+310. Saṅkhārapaccayā viññāṇena ye dhammā… saḷāyatanapaccayā phassena ye dhammā…
 
-phassapaccayā vedanāya ye dhammā… phassena ye dhammā… vedanāya ye dhammā… saññāya ye ^1084
+phassapaccayā vedanāya ye dhammā… phassena ye dhammā… vedanāya ye dhammā… saññāya ye
 
-dhammā… cetanāya ye dhammā… cittena ye dhammā… manasikārena ye dhammā sampayuttā, tehi ^1085
+dhammā… cetanāya ye dhammā… cittena ye dhammā… manasikārena ye dhammā sampayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi ^1086
+dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1087
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-311. Adhimokkhena ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ^1088
+311. Adhimokkhena ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā
 
-na kehici khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā. ^1089
+na kehici khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā.
 
-312. Adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā… upekkhāsahagatehi ^1090
+312. Adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā… upekkhāsahagatehi
 
-dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici ^1091
+dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici
 
-khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā. ^1092
+khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā.
 
-313. Savitakkasavicārehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā ^1093
+313. Savitakkasavicārehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā. ^1094
+vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā.
 
-314. Cittehi dhammehi ye dhammā… cetasikehi dhammehi ye dhammā… cittasampayuttehi ^1095
+314. Cittehi dhammehi ye dhammā… cetasikehi dhammehi ye dhammā… cittasampayuttehi
 
-dhammehi ye dhammā … cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi ^1096
+dhammehi ye dhammā … cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi
 
-dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā… ^1097
+dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā ^1098
+cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ^1099
+vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1100
+ekāya dhātuyā kehici vippayuttā.
 
-315. Savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye dhammā sampayuttā, tehi ^1101
+315. Savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye dhammā sampayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi ekāya dhātuyā ^1102
+dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
 
-vippayuttā. ^1103
+vippayuttā.
 
-316. Upekkhāsahagatehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā ^1104
+316. Upekkhāsahagatehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā
 
-vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi vippayuttā? Te dhammā na kehici ^1105
+vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi vippayuttā? Te dhammā na kehici
 
-khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā. ^1106
+khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā.
 
-Khandhā caturo āyatanañca mekaṃ; ^1107
+Khandhā caturo āyatanañca mekaṃ;
 
-Dhātūsu satta dvepi ca indriyato. ^1108
+Dhātūsu satta dvepi ca indriyato.
 
-Tayo paṭicca tathariva phassapañcamā; ^1109
+Tayo paṭicca tathariva phassapañcamā;
 
-Adhimuccanā manasi tikesu tīṇi. ^1110
+Adhimuccanā manasi tikesu tīṇi.
 
-Sattantarā dve ca manena yuttā; ^1111
+Sattantarā dve ca manena yuttā;
 
-Vitakkavicāraṇā upekkhakāya cāti. ^1112
+Vitakkavicāraṇā upekkhakāya cāti.
 
-Sampayuttenavippayuttapadaniddeso sattamo. ^1113
+Sampayuttenavippayuttapadaniddeso sattamo.
 
-8. Aṭṭhamanayo ^1114
+8. Aṭṭhamanayo
 
-8. Vippayuttenasampayuttapadaniddeso ^1115
+8. Vippayuttenasampayuttapadaniddeso
 
-317. Rūpakkhandhena ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi ^1116
+317. Rūpakkhandhena ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi
 
-dhātūhi sampayuttāti? Natthi. ^1117
+dhātūhi sampayuttāti? Natthi.
 
-318. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye ^1118
+318. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye
 
-dhammā… viññāṇakkhandhena ye dhammā…pe… saraṇehi dhammehi ye dhammā… araṇehi ^1119
+dhammā… viññāṇakkhandhena ye dhammā…pe… saraṇehi dhammehi ye dhammā… araṇehi
 
-dhammehi ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi ^1120
+dhammehi ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi
 
-sampayuttāti? Natthi. ^1121
+sampayuttāti? Natthi.
 
-Dhammāyatanaṃ dhammadhātu, atha jīvitaṃ nāmarūpaṃ; ^1122
+Dhammāyatanaṃ dhammadhātu, atha jīvitaṃ nāmarūpaṃ;
 
-Saḷāyatanaṃ jātijarāmataṃ, dve ca tike na labbhare. ^1123
+Saḷāyatanaṃ jātijarāmataṃ, dve ca tike na labbhare.
 
-Paṭhamantare satta ca, gocchake dasa aparante; ^1124
+Paṭhamantare satta ca, gocchake dasa aparante;
 
-Cuddasa cha ca matthake, iccete sattacattālīsa dhammā; ^1125
+Cuddasa cha ca matthake, iccete sattacattālīsa dhammā;
 
-Samucchede na labbhanti, moghapucchakena cāti. ^1126
+Samucchede na labbhanti, moghapucchakena cāti.
 
-Vippayuttenasampayuttapadaniddeso aṭṭhamo. ^1127
+Vippayuttenasampayuttapadaniddeso aṭṭhamo.
 
-9. Navamanayo ^1128
+9. Navamanayo
 
-9. Sampayuttenasampayuttapadaniddeso ^1129
+9. Sampayuttenasampayuttapadaniddeso
 
-319. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye ^1130
+319. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye
 
-dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā, te dhammā katihi khandhehi ^1131
+dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā, te dhammā katihi khandhehi
 
-katihāyatanehi katihi dhātūhi sampayuttā? Te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi ^1132
+katihāyatanehi katihi dhātūhi sampayuttā? Te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi
 
-sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1133
+sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-320. Viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā… cakkhuviññāṇadhātuyā ye ^1134
+320. Viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā… cakkhuviññāṇadhātuyā ye
 
-dhammā…pe… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā sampayuttā, tehi ^1135
+dhammā…pe… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā sampayuttā, tehi
 
-dhammehi ye dhammā sampayuttā…pe… te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya ^1136
+dhammehi ye dhammā sampayuttā…pe… te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya
 
-dhātuyā kehici sampayuttā. ^1137
+dhātuyā kehici sampayuttā.
 
-321. Samudayasaccena ye dhammā… maggasaccena ye dhammā sampayuttā, tehi dhammehi ye ^1138
+321. Samudayasaccena ye dhammā… maggasaccena ye dhammā sampayuttā, tehi dhammehi ye
 
-dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena ^1139
+dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena
 
-khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1140
+khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-322. Manindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ^1141
+322. Manindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā
 
-tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1142
+tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-323. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā ^1143
+323. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā
 
-… domanassindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ^1144
+… domanassindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā
 
-tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekenāyatanena ekāya dhātuyā kehici ^1145
+tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. ^1146
+sampayuttā.
 
-324. Upekkhindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te ^1147
+324. Upekkhindriyena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te
 
-dhammā tīhi khandhehi ekenāyatanena chahi dhātūhi sampayuttā; ekenāyatanena ekāya dhātuyā kehici ^1148
+dhammā tīhi khandhehi ekenāyatanena chahi dhātūhi sampayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. ^1149
+sampayuttā.
 
-325. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā… ^1150
+325. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā…
 
-samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye ^1151
+samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye
 
-dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā… ^1152
+dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā…
 
-avijjāpaccayā saṅkhārehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ^1153
+avijjāpaccayā saṅkhārehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā
 
-tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya ^1154
+tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya
 
-dhātuyā kehici sampayuttā. ^1155
+dhātuyā kehici sampayuttā.
 
-326. Saṅkhārapaccayā viññāṇena ye dhammā sampayuttā, tehi dhammehi ye dhammā ^1156
+326. Saṅkhārapaccayā viññāṇena ye dhammā sampayuttā, tehi dhammehi ye dhammā
 
-sampayuttā… te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1157
+sampayuttā… te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-327. Saḷāyatanapaccayā phassena ye dhammā sampayuttā, tehi dhammehi ye dhammā ^1158
+327. Saḷāyatanapaccayā phassena ye dhammā sampayuttā, tehi dhammehi ye dhammā
 
-sampayuttā… te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekena khandhena ^1159
+sampayuttā… te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekena khandhena
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1160
+ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-328. Phassapaccayā vedanāya ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te ^1161
+328. Phassapaccayā vedanāya ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te
 
-dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekenāyatanena ekāya dhātuyā kehici ^1162
+dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. ^1163
+sampayuttā.
 
-329. Vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā… ^1164
+329. Vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā…
 
-kammabhavena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā tīhi ^1165
+kammabhavena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā tīhi
 
-khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā ^1166
+khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. ^1167
+kehici sampayuttā.
 
-330. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā sampayuttā, tehi ^1168
+330. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā sampayuttā, tehi
 
-dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā ^1169
+dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā
 
-sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1170
+sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-331. Upāyāsena ye dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā ^1171
+331. Upāyāsena ye dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā
 
-sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya ^1172
+sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya
 
-dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1173
+dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-332. Iddhipādena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ^1174
+332. Iddhipādena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā
 
-dvīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1175
+dvīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-333. Jhānena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā dvīhi ^1176
+333. Jhānena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā dvīhi
 
-khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā ^1177
+khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. ^1178
+kehici sampayuttā.
 
-334. Appamaññāya ye dhammā… pañcahi indriyehi ye dhammā … pañcahi balehi ye dhammā… ^1179
+334. Appamaññāya ye dhammā… pañcahi indriyehi ye dhammā … pañcahi balehi ye dhammā…
 
-sattahi bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā sampayuttā, tehi ^1180
+sattahi bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā sampayuttā, tehi
 
-dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā ^1181
+dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā
 
-sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1182
+sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-335. Phassena ye dhammā… cetanāya ye dhammā… manasikārena ye dhammā sampayuttā, tehi ^1183
+335. Phassena ye dhammā… cetanāya ye dhammā… manasikārena ye dhammā sampayuttā, tehi
 
-dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi ^1184
+dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi
 
-sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1185
+sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-336. Vedanāya ye dhammā… saññāya ye dhammā sampayuttā, tehi dhammehi ye dhammā ^1186
+336. Vedanāya ye dhammā… saññāya ye dhammā sampayuttā, tehi dhammehi ye dhammā
 
-sampayuttā… te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekenāyatanena ^1187
+sampayuttā… te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici sampayuttā. ^1188
+ekāya dhātuyā kehici sampayuttā.
 
-337. Cittena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā tīhi ^1189
+337. Cittena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā tīhi
 
-khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1190
+khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-338. Adhimokkhena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ^1191
+338. Adhimokkhena ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā
 
-tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā ^1192
+tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. ^1193
+kehici sampayuttā.
 
-339. Sukhāya vedanāya sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi ^1194
+339. Sukhāya vedanāya sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi
 
-dhammehi ye dhammā… adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā ^1195
+dhammehi ye dhammā… adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā
 
-sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena sampayuttā; ^1196
+sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena sampayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1197
+ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-340. Savitakkasavicārehi dhammehi ye dhammā… avitakkavicāramattehi dhammehi ye dhammā… ^1198
+340. Savitakkasavicārehi dhammehi ye dhammā… avitakkavicāramattehi dhammehi ye dhammā…
 
-pītisahagatehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ^1199
+pītisahagatehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā
 
-ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1200
+ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-341. Sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye dhammā ^1201
+341. Sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye dhammā
 
-sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena sampayuttā; ^1202
+sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena sampayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1203
+ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-342. Hetūhi dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi ^1204
+342. Hetūhi dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi
 
-ceva hetusampayuttehi ca dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… ^1205
+ceva hetusampayuttehi ca dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā…
 
-te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena ^1206
+te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ekenāyatanena
 
-ekāya dhātuyā kehici sampayuttā. ^1207
+ekāya dhātuyā kehici sampayuttā.
 
-343. Sahetukehi ceva na ca hetūhi dhammehi ye dhammā… hetusampayuttehi ceva na ca hetūhi ^1208
+343. Sahetukehi ceva na ca hetūhi dhammehi ye dhammā… hetusampayuttehi ceva na ca hetūhi
 
-dhammehi ye dhammā… na hetusahetukehi dhammehi ye dhammā sampayuttā, tehi dhammehi [na ^1209
+dhammehi ye dhammā… na hetusahetukehi dhammehi ye dhammā sampayuttā, tehi dhammehi [na
 
-hetūhi sahetukehi (bahūsu)] ye dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena ^1210
+hetūhi sahetukehi (bahūsu)] ye dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena
 
-ekāya dhātuyā kehici sampayuttā. ^1211
+ekāya dhātuyā kehici sampayuttā.
 
-344. Āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye dhammā… āsavehi ^1212
+344. Āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye dhammā… āsavehi
 
-ceva āsavasampayuttehi ca dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā ^1213
+ceva āsavasampayuttehi ca dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā
 
-sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ^1214
+sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1215
+ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-345. Āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye ^1216
+345. Āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye
 
-dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1217
+dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-346. Saṃyojanehi… ganthehi… oghehi… yogehi… nīvaraṇehi… parāmāsehi dhammehi ye ^1218
+346. Saṃyojanehi… ganthehi… oghehi… yogehi… nīvaraṇehi… parāmāsehi dhammehi ye
 
-dhammā… parāmāsehi ceva parāmaṭṭhehi ca dhammehi ye dhammā sampayuttā, tehi dhammehi ye ^1219
+dhammā… parāmāsehi ceva parāmaṭṭhehi ca dhammehi ye dhammā sampayuttā, tehi dhammehi ye
 
-dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena ^1220
+dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena
 
-khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1221
+khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-347. Parāmāsasampayuttehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā ^1222
+347. Parāmāsasampayuttehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā
 
-sampayuttā… te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1223
+sampayuttā… te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-348. Cittehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te ^1224
+348. Cittehi dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te
 
-dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1225
+dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-349. Cetasikehi dhammehi ye dhammā… cittasampayuttehi dhammehi ye dhammā… ^1226
+349. Cetasikehi dhammehi ye dhammā… cittasampayuttehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā… ^1227
+cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi ^1228
+cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi
 
-dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ekena ^1229
+dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā sampayuttā… te dhammā ekena
 
-khandhena ekenāyatanena sattahi dhātūhi sampayuttā. ^1230
+khandhena ekenāyatanena sattahi dhātūhi sampayuttā.
 
-350. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva ^1231
+350. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva
 
-saṃkilesikehi ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… ^1232
+saṃkilesikehi ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā…
 
-kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā ^1233
+kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā sampayuttā, tehi dhammehi ye dhammā
 
-sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena ^1234
+sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā sampayuttā; ekena khandhena
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. ^1235
+ekenāyatanena ekāya dhātuyā kehici sampayuttā.
 
-351. Saṃkiliṭṭhehi ceva no ca kilesehi dhammehi ye dhammā… kilesasampayuttehi ceva no ca ^1236
+351. Saṃkiliṭṭhehi ceva no ca kilesehi dhammehi ye dhammā… kilesasampayuttehi ceva no ca
 
-kilesehi dhammehi ye dhammā… savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye ^1237
+kilesehi dhammehi ye dhammā… savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye
 
-dhammā… sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā sampayuttā, tehi ^1238
+dhammā… sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā sampayuttā, tehi
 
-dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici ^1239
+dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. ^1240
+sampayuttā.
 
-352. Sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye dhammā ^1241
+352. Sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye dhammā
 
-sampayuttā, tehi dhammehi ye dhammā sampayuttā, te dhammā katihi khandhehi katihāyatanehi katihi ^1242
+sampayuttā, tehi dhammehi ye dhammā sampayuttā, te dhammā katihi khandhehi katihāyatanehi katihi
 
-dhātūhi sampayuttā? Te dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici ^1243
+dhātūhi sampayuttā? Te dhammā ekena khandhena sampayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. ^1244
+sampayuttā.
 
-Arūpakkhandhā cattāro, manāyatanameva ca; ^1245
+Arūpakkhandhā cattāro, manāyatanameva ca;
 
-Viññāṇadhātuyo satta, dve saccā cuddasindriyā. ^1246
+Viññāṇadhātuyo satta, dve saccā cuddasindriyā.
 
-Paccaye dvādasa padā, tato upari soḷasa; ^1247
+Paccaye dvādasa padā, tato upari soḷasa;
 
-Tikesu aṭṭha gocchake, tecattālīsameva ca. ^1248
+Tikesu aṭṭha gocchake, tecattālīsameva ca.
 
-Mahantaraduke satta, padā piṭṭhi dukesu cha; ^1249
+Mahantaraduke satta, padā piṭṭhi dukesu cha;
 
-Navamassa padassete, niddese saṅgahaṃ gatāti. ^1250
+Navamassa padassete, niddese saṅgahaṃ gatāti.
 
-Sampayuttenasampayuttapadaniddeso navamo. ^1251
+Sampayuttenasampayuttapadaniddeso navamo.
 
-10. Dasamanayo ^1252
+10. Dasamanayo
 
-10. Vippayuttenavippayuttapadaniddeso ^1253
+10. Vippayuttenavippayuttapadaniddeso
 
-353. Rūpakkhandhena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā, te dhammā ^1254
+353. Rūpakkhandhena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā, te dhammā
 
-katihi khandhehi katihāyatanehi katihi dhātūhi vippayuttā? Te dhammā catūhi khandhehi ekenāyatanena ^1255
+katihi khandhehi katihāyatanehi katihi dhātūhi vippayuttā? Te dhammā catūhi khandhehi ekenāyatanena
 
-sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1256
+sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-354. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye ^1257
+354. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye
 
-dhammā… viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā vippayuttā, tehi dhammehi ye ^1258
+dhammā… viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā vippayuttā, tehi dhammehi ye
 
-dhammā vippayuttā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ^1259
+dhammā vippayuttā…pe… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1260
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-355. Cakkhāyatanena ye dhammā…pe… phoṭṭhabbāyatanena ye dhammā… cakkhudhātuyā ye ^1261
+355. Cakkhāyatanena ye dhammā…pe… phoṭṭhabbāyatanena ye dhammā… cakkhudhātuyā ye
 
-dhammā…pe… phoṭṭhabbadhātuyā ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te ^1262
+dhammā…pe… phoṭṭhabbadhātuyā ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te
 
-dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^1263
+dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^1264
+kehici vippayuttā.
 
-356. Cakkhuviññāṇadhātuyā ye dhammā…pe… manoviññāṇadhātuyā ye dhammā… ^1265
+356. Cakkhuviññāṇadhātuyā ye dhammā…pe… manoviññāṇadhātuyā ye dhammā…
 
-samudayasaccena ye dhammā… maggasaccena ye dhammā vippayuttā, tehi dhammehi ye dhammā ^1266
+samudayasaccena ye dhammā… maggasaccena ye dhammā vippayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ^1267
+vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1268
+ekāya dhātuyā kehici vippayuttā.
 
-357. Nirodhasaccena ye dhammā… cakkhundriyena ye dhammā…pe… kāyindriyena ye dhammā.. ^1269
+357. Nirodhasaccena ye dhammā… cakkhundriyena ye dhammā…pe… kāyindriyena ye dhammā..
 
-itthindriyena ye dhammā… purisindriyena ye dhammā vippayuttā, tehi dhammehi ye dhammā ^1270
+itthindriyena ye dhammā… purisindriyena ye dhammā vippayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ^1271
+vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1272
+ekāya dhātuyā kehici vippayuttā.
 
-358. Manindriyena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ^1273
+358. Manindriyena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā
 
-ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1274
+ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1275
+vippayuttā.
 
-359. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā… ^1276
+359. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā…
 
-domanassindriyena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena ^1277
+domanassindriyena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena
 
-khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1278
+khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-360. Upekkhindriyena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ^1279
+360. Upekkhindriyena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā
 
-ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1280
+ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1281
+vippayuttā.
 
-361. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā… ^1282
+361. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā…
 
-samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye ^1283
+samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye
 
-dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā… ^1284
+dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā…
 
-avijjāpaccayā saṅkhārehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ^1285
+avijjāpaccayā saṅkhārehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā
 
-ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1286
+ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1287
+vippayuttā.
 
-362. Saṅkhārapaccayā viññāṇena ye dhammā… saḷāyatanapaccayā phassena ye dhammā… ^1288
+362. Saṅkhārapaccayā viññāṇena ye dhammā… saḷāyatanapaccayā phassena ye dhammā…
 
-phassapaccayā vedanāya ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ^1289
+phassapaccayā vedanāya ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā
 
-ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1290
+ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1291
+vippayuttā.
 
-363. Vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā… ^1292
+363. Vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā…
 
-kammabhavena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena ^1293
+kammabhavena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena
 
-khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1294
+khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-364. Rūpabhavena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na ^1295
+364. Rūpabhavena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na
 
-kehici khandhehi na kehici āyatanehi tīhi dhātūhi vippayuttā. ^1296
+kehici khandhehi na kehici āyatanehi tīhi dhātūhi vippayuttā.
 
-365. Asaññābhavena ye dhammā… ekavokārabhavena ye dhammā… paridevena ye dhammā ^1297
+365. Asaññābhavena ye dhammā… ekavokārabhavena ye dhammā… paridevena ye dhammā
 
-vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi ^1298
+vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi
 
-dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1299
+dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-366. Arūpabhavena ye dhammā… nevasaññānāsaññābhavena ye dhammā… catuvokārabhavena ye ^1300
+366. Arūpabhavena ye dhammā… nevasaññānāsaññābhavena ye dhammā… catuvokārabhavena ye
 
-dhammā… sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā… upāyāsena ye ^1301
+dhammā… sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā… upāyāsena ye
 
-dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… iddhipādena ye dhammā… ^1302
+dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… iddhipādena ye dhammā…
 
-jhānena ye dhammā… appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye ^1303
+jhānena ye dhammā… appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye
 
-dhammā… sattahi bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā vippayuttā, tehi ^1304
+dhammā… sattahi bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā vippayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^1305
+dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1306
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-367. Phassena ye dhammā… vedanāya ye dhammā… saññāya ye dhammā… cetanāya ye ^1307
+367. Phassena ye dhammā… vedanāya ye dhammā… saññāya ye dhammā… cetanāya ye
 
-dhammā… cittena ye dhammā… manasikārena ye dhammā vippayuttā, tehi dhammehi ye dhammā ^1308
+dhammā… cittena ye dhammā… manasikārena ye dhammā vippayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ^1309
+vippayuttā… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1310
+ekāya dhātuyā kehici vippayuttā.
 
-368. Adhimokkhena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ^1311
+368. Adhimokkhena ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā
 
-ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1312
+ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1313
+vippayuttā.
 
-1. Tikaṃ ^1314
+1. Tikaṃ
 
-369. Kusalehi dhammehi ye dhammā… akusalehi dhammehi ye dhammā vippayuttā, tehi ^1315
+369. Kusalehi dhammehi ye dhammā… akusalehi dhammehi ye dhammā vippayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^1316
+dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1317
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-370. Sukhāya vedanāya sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi ^1318
+370. Sukhāya vedanāya sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi
 
-dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena ^1319
+dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena
 
-khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1320
+khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1321
+vippayuttā.
 
-371. Adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā vippayuttā, tehi ^1322
+371. Adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā vippayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi ekādasahi dhātūhi ^1323
+dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi ekādasahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1324
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-372. Vipākehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te ^1325
+372. Vipākehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te
 
-dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^1326
+dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^1327
+kehici vippayuttā.
 
-373. Vipākadhammadhammehi ye dhammā… saṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā ^1328
+373. Vipākadhammadhammehi ye dhammā… saṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā
 
-vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi ^1329
+vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi
 
-soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1330
+soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-374. Nevavipākanavipākadhammadhammehi ye dhammā… anupādinnupādāniyehi dhammehi ye ^1331
+374. Nevavipākanavipākadhammadhammehi ye dhammā… anupādinnupādāniyehi dhammehi ye
 
-dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici ^1332
+dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici
 
-āyatanehi pañcahi dhātūhi vippayuttā. ^1333
+āyatanehi pañcahi dhātūhi vippayuttā.
 
-375. Anupādinnaanupādāniyehi dhammehi ye dhammā… asaṃkiliṭṭhaasaṃkilesikehi dhammehi ye ^1334
+375. Anupādinnaanupādāniyehi dhammehi ye dhammā… asaṃkiliṭṭhaasaṃkilesikehi dhammehi ye
 
-dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici ^1335
+dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici
 
-āyatanehi chahi dhātūhi vippayuttā. ^1336
+āyatanehi chahi dhātūhi vippayuttā.
 
-376. Savitakkasavicārehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā ^1337
+376. Savitakkasavicārehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ^1338
+vippayuttā… te dhammā ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1339
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-377. Avitakkavicāramattehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā ^1340
+377. Avitakkavicāramattehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā
 
-vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi ^1341
+vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi
 
-soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1342
+soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-378. Avitakkaavicārehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… ^1343
+378. Avitakkaavicārehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā…
 
-te dhammā na kehici khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā. ^1344
+te dhammā na kehici khandhehi na kehici āyatanehi ekāya dhātuyā vippayuttā.
 
-379. Sukhasahagatehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… ^1345
+379. Sukhasahagatehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā…
 
-te dhammā ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya ^1346
+te dhammā ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya
 
-dhātuyā kehici vippayuttā. ^1347
+dhātuyā kehici vippayuttā.
 
-380. Upekkhāsahagatehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā ^1348
+380. Upekkhāsahagatehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā; ekenāyatanena ^1349
+vippayuttā… te dhammā ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1350
+ekāya dhātuyā kehici vippayuttā.
 
-381. Dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi dhammehi ye ^1351
+381. Dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi dhammehi ye
 
-dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya pahātabbahetukehi ^1352
+dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya pahātabbahetukehi
 
-dhammehi ye dhammā… ācayagāmīhi dhammehi ye dhammā… apacayagāmīhi dhammehi ye ^1353
+dhammehi ye dhammā… ācayagāmīhi dhammehi ye dhammā… apacayagāmīhi dhammehi ye
 
-dhammā… sekkhehi dhammehi ye dhammā… asekkhehi dhammehi ye dhammā… mahaggatehi ^1354
+dhammā… sekkhehi dhammehi ye dhammā… asekkhehi dhammehi ye dhammā… mahaggatehi
 
-dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena ^1355
+dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena
 
-khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1356
+khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-382. Appamāṇehi dhammehi ye dhammā… paṇītehi dhammehi ye dhammā vippayuttā, tehi ^1357
+382. Appamāṇehi dhammehi ye dhammā… paṇītehi dhammehi ye dhammā vippayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi chahi dhātūhi ^1358
+dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi chahi dhātūhi
 
-vippayuttā. ^1359
+vippayuttā.
 
-383. Parittārammaṇehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… ^1360
+383. Parittārammaṇehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā…
 
-te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^1361
+te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^1362
+kehici vippayuttā.
 
-384. Mahaggatārammaṇehi dhammehi ye dhammā… appamāṇārammaṇehi dhammehi ye ^1363
+384. Mahaggatārammaṇehi dhammehi ye dhammā… appamāṇārammaṇehi dhammehi ye
 
-dhammā… hīnehi dhammehi ye dhammā… micchattaniyatehi dhammehi ye dhammā… ^1364
+dhammā… hīnehi dhammehi ye dhammā… micchattaniyatehi dhammehi ye dhammā…
 
-sammattaniyatehi dhammehi ye dhammā… maggārammaṇehi dhammehi ye dhammā… maggahetukehi ^1365
+sammattaniyatehi dhammehi ye dhammā… maggārammaṇehi dhammehi ye dhammā… maggahetukehi
 
-dhammehi ye dhammā… maggādhipatīhi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā ^1366
+dhammehi ye dhammā… maggādhipatīhi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ^1367
+vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1368
+ekāya dhātuyā kehici vippayuttā.
 
-385. Anuppannehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te ^1369
+385. Anuppannehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te
 
-dhammā na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā. ^1370
+dhammā na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā.
 
-386. Atītārammaṇehi dhammehi ye dhammā… anāgatārammaṇehi dhammehi ye dhammā ^1371
+386. Atītārammaṇehi dhammehi ye dhammā… anāgatārammaṇehi dhammehi ye dhammā
 
-vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi ^1372
+vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi
 
-soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1373
+soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-387. Paccuppannārammaṇehi dhammehi ye dhammā… ajjhattārammaṇehi dhammehi ye ^1374
+387. Paccuppannārammaṇehi dhammehi ye dhammā… ajjhattārammaṇehi dhammehi ye
 
-dhammā… bahiddhārammaṇehi dhammehi ye dhammā… ajjhattabahiddhārammaṇehi dhammehi ye ^1375
+dhammā… bahiddhārammaṇehi dhammehi ye dhammā… ajjhattabahiddhārammaṇehi dhammehi ye
 
-dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena ^1376
+dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1377
+dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-388. Sanidassanasappaṭighehi dhammehi ye dhammā… anidassanasappaṭighehi dhammehi ye ^1378
+388. Sanidassanasappaṭighehi dhammehi ye dhammā… anidassanasappaṭighehi dhammehi ye
 
-dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ^1379
+dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi
 
-ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1380
+ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-2. Dukaṃ ^1381
+2. Dukaṃ
 
-389. Hetūhi dhammehi ye dhammā… sahetukehi dhammehi ye dhammā… hetusampayuttehi ^1382
+389. Hetūhi dhammehi ye dhammā… sahetukehi dhammehi ye dhammā… hetusampayuttehi
 
-dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… sahetukehi ceva na ca ^1383
+dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… sahetukehi ceva na ca
 
-hetūhi dhammehi ye dhammā… hetūhi ceva hetusampayuttehi ca dhammehi ye dhammā… ^1384
+hetūhi dhammehi ye dhammā… hetūhi ceva hetusampayuttehi ca dhammehi ye dhammā…
 
-hetusampayuttehi ceva na ca hetūhi dhammehi ye dhammā… na hetusahetukehi dhammehi ye dhammā ^1385
+hetusampayuttehi ceva na ca hetūhi dhammehi ye dhammā… na hetusahetukehi dhammehi ye dhammā
 
-vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi ^1386
+vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi
 
-soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1387
+soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-390. Appaccayehi dhammehi ye dhammā… asaṅkhatehi dhammehi ye dhammā… sanidassanehi ^1388
+390. Appaccayehi dhammehi ye dhammā… asaṅkhatehi dhammehi ye dhammā… sanidassanehi
 
-dhammehi ye dhammā… sappaṭighehi dhammehi ye dhammā… rūpīhi dhammehi ye dhammā ^1389
+dhammehi ye dhammā… sappaṭighehi dhammehi ye dhammā… rūpīhi dhammehi ye dhammā
 
-vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi ^1390
+vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi
 
-dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1391
+dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-391. Lokuttarehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te ^1392
+391. Lokuttarehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te
 
-dhammā na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā. ^1393
+dhammā na kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā.
 
-392. Āsavehi dhammehi ye dhammā… āsavasampayuttehi dhammehi ye dhammā… āsavehi ceva ^1394
+392. Āsavehi dhammehi ye dhammā… āsavasampayuttehi dhammehi ye dhammā… āsavehi ceva
 
-sāsavehi ca dhammehi ye dhammā… āsavehi ceva āsavasampayuttehi ca dhammehi ye dhammā… ^1395
+sāsavehi ca dhammehi ye dhammā… āsavehi ceva āsavasampayuttehi ca dhammehi ye dhammā…
 
-āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā ^1396
+āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ^1397
+vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1398
+ekāya dhātuyā kehici vippayuttā.
 
-393. Anāsavehi dhammehi ye dhammā… āsavavippayuttehi anāsavehi dhammehi ye dhammā ^1399
+393. Anāsavehi dhammehi ye dhammā… āsavavippayuttehi anāsavehi dhammehi ye dhammā
 
-vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi ^1400
+vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi
 
-chahi dhātūhi vippayuttā. ^1401
+chahi dhātūhi vippayuttā.
 
-394. Saṃyojanehi dhammehi ye dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi ^1402
+394. Saṃyojanehi dhammehi ye dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi
 
-ye dhammā… yogehi dhammehi ye dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi ^1403
+ye dhammā… yogehi dhammehi ye dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi
 
-dhammehi ye dhammā… parāmāsasampayuttehi dhammehi ye dhammā… parāmāsehi ceva ^1404
+dhammehi ye dhammā… parāmāsasampayuttehi dhammehi ye dhammā… parāmāsehi ceva
 
-parāmaṭṭhehi ca dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ^1405
+parāmaṭṭhehi ca dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā
 
-ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici ^1406
+ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-vippayuttā. ^1407
+vippayuttā.
 
-395. Aparāmaṭṭhehi dhammehi ye dhammā… parāmāsavippayuttehi aparāmaṭṭhehi dhammehi ye ^1408
+395. Aparāmaṭṭhehi dhammehi ye dhammā… parāmāsavippayuttehi aparāmaṭṭhehi dhammehi ye
 
-dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici ^1409
+dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici
 
-āyatanehi chahi dhātūhi vippayuttā. ^1410
+āyatanehi chahi dhātūhi vippayuttā.
 
-396. Sārammaṇehi dhammehi ye dhammā… cittehi dhammehi ye dhammā… cetasikehi dhammehi ^1411
+396. Sārammaṇehi dhammehi ye dhammā… cittehi dhammehi ye dhammā… cetasikehi dhammehi
 
-ye dhammā… cittasampayuttehi dhammehi ye dhammā… cittasaṃsaṭṭhehi dhammehi ye dhammā… ^1412
+ye dhammā… cittasampayuttehi dhammehi ye dhammā… cittasaṃsaṭṭhehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye ^1413
+cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye
 
-dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā vippayuttā, tehi dhammehi ye ^1414
+dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā vippayuttā, tehi dhammehi ye
 
-dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ^1415
+dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1416
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-397. Anārammaṇehi [anupādiṇṇehi (sī. ka.)] dhammehi ye dhammā… cittavippayuttehi dhammehi ^1417
+397. Anārammaṇehi [anupādiṇṇehi (sī. ka.)] dhammehi ye dhammā… cittavippayuttehi dhammehi
 
-ye dhammā… cittavisaṃsaṭṭhehi dhammehi ye dhammā… upādādhammehi ye dhammā vippayuttā, tehi ^1418
+ye dhammā… cittavisaṃsaṭṭhehi dhammehi ye dhammā… upādādhammehi ye dhammā vippayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi ^1419
+dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ekenāyatanena sattahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1420
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-398. Anupādinnehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te ^1421
+398. Anupādinnehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te
 
-dhammā na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā. ^1422
+dhammā na kehici khandhehi na kehici āyatanehi pañcahi dhātūhi vippayuttā.
 
-399. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… saṃkiliṭṭhehi ^1423
+399. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… saṃkiliṭṭhehi
 
-dhammehi ye dhammā… kilesasampayuttehi dhammehi ye dhammā… kilesehi ceva saṃkilesikehi ca ^1424
+dhammehi ye dhammā… kilesasampayuttehi dhammehi ye dhammā… kilesehi ceva saṃkilesikehi ca
 
-dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… saṃkiliṭṭhehi ceva no ^1425
+dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… saṃkiliṭṭhehi ceva no
 
-ca kilesehi dhammehi ye dhammā… kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā… ^1426
+ca kilesehi dhammehi ye dhammā… kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā…
 
-kilesasampayuttehi ceva no ca kilesehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā ^1427
+kilesasampayuttehi ceva no ca kilesehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ^1428
+vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1429
+ekāya dhātuyā kehici vippayuttā.
 
-400. Asaṃkilesikehi dhammehi ye dhammā… kilesavippayuttehi asaṃkilesikehi dhammehi ye ^1430
+400. Asaṃkilesikehi dhammehi ye dhammā… kilesavippayuttehi asaṃkilesikehi dhammehi ye
 
-dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici ^1431
+dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici
 
-āyatanehi chahi dhātūhi vippayuttā. ^1432
+āyatanehi chahi dhātūhi vippayuttā.
 
-401. Dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi dhammehi ye ^1433
+401. Dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi dhammehi ye
 
-dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya pahātabbahetukehi ^1434
+dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya pahātabbahetukehi
 
-dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena ^1435
+dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā ekena
 
-khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1436
+khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-402. Savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye dhammā vippayuttā, tehi ^1437
+402. Savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye dhammā vippayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi pannarasahi dhātūhi ^1438
+dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi pannarasahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1439
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-403. Avitakkehi dhammehi ye dhammā… avicārehi dhammehi ye dhammā vippayuttā, tehi ^1440
+403. Avitakkehi dhammehi ye dhammā… avicārehi dhammehi ye dhammā vippayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi ekāya dhātuyā ^1441
+dhammehi ye dhammā vippayuttā… te dhammā na kehici khandhehi na kehici āyatanehi ekāya dhātuyā
 
-vippayuttā. ^1442
+vippayuttā.
 
-404. Sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā vippayuttā, tehi ^1443
+404. Sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā vippayuttā, tehi
 
-dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^1444
+dhammehi ye dhammā vippayuttā… te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1445
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-405. Sukhasahagatehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… ^1446
+405. Sukhasahagatehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā…
 
-te dhammā ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya ^1447
+te dhammā ekena khandhena dasahāyatanehi pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya
 
-dhātuyā kehici vippayuttā. ^1448
+dhātuyā kehici vippayuttā.
 
-406. Upekkhāsahagatehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā ^1449
+406. Upekkhāsahagatehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā
 
-vippayuttā… te dhammā ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā; ekenāyatanena ^1450
+vippayuttā… te dhammā ekena khandhena dasahāyatanehi ekādasahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1451
+ekāya dhātuyā kehici vippayuttā.
 
-407. Na kāmāvacarehi dhammehi ye dhammā… apariyāpannehi dhammehi ye dhammā… ^1452
+407. Na kāmāvacarehi dhammehi ye dhammā… apariyāpannehi dhammehi ye dhammā…
 
-anuttarehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na ^1453
+anuttarehi dhammehi ye dhammā vippayuttā, tehi dhammehi ye dhammā vippayuttā… te dhammā na
 
-kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā. ^1454
+kehici khandhehi na kehici āyatanehi chahi dhātūhi vippayuttā.
 
-408. Rūpāvacarehi dhammehi ye dhammā… arūpāvacarehi dhammehi ye dhammā… niyyānikehi ^1455
+408. Rūpāvacarehi dhammehi ye dhammā… arūpāvacarehi dhammehi ye dhammā… niyyānikehi
 
-dhammehi ye dhammā… niyatehi dhammehi ye dhammā… saraṇehi dhammehi ye dhammā vippayuttā, ^1456
+dhammehi ye dhammā… niyatehi dhammehi ye dhammā… saraṇehi dhammehi ye dhammā vippayuttā,
 
-tehi dhammehi ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi ^1457
+tehi dhammehi ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi
 
-vippayuttā? Te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena ^1458
+vippayuttā? Te dhammā ekena khandhena dasahāyatanehi soḷasahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1459
+ekāya dhātuyā kehici vippayuttā.
 
-Dhammāyatanaṃ dhammadhātu, dukkhasaccañca jīvitaṃ; ^1460
+Dhammāyatanaṃ dhammadhātu, dukkhasaccañca jīvitaṃ;
 
-Saḷāyatanaṃ nāmarūpaṃ, cattāro ca mahābhavā. ^1461
+Saḷāyatanaṃ nāmarūpaṃ, cattāro ca mahābhavā.
 
-Jāti jarā ca maraṇaṃ, tikesvekūnavīsati; ^1462
+Jāti jarā ca maraṇaṃ, tikesvekūnavīsati;
 
-Gocchakesu ca paññāsa, aṭṭha cūḷantare padā. ^1463
+Gocchakesu ca paññāsa, aṭṭha cūḷantare padā.
 
-Mahantare pannarasa, aṭṭhārasa tato pare; ^1464
+Mahantare pannarasa, aṭṭhārasa tato pare;
 
-Tevīsa padasataṃ etaṃ, sampayoge na labbhatīti. ^1465
+Tevīsa padasataṃ etaṃ, sampayoge na labbhatīti.
 
-Vippayuttenavippayuttapadaniddeso dasamo. ^1466
+Vippayuttenavippayuttapadaniddeso dasamo.
 
-11. Ekādasamanayo ^1467
+11. Ekādasamanayo
 
-11. Saṅgahitenasampayuttavippayuttapadaniddeso ^1468
+11. Saṅgahitenasampayuttavippayuttapadaniddeso
 
-409. Samudayasaccena ye dhammā… maggasaccena ye dhammā khandhasaṅgahena saṅgahitā ^1469
+409. Samudayasaccena ye dhammā… maggasaccena ye dhammā khandhasaṅgahena saṅgahitā
 
-āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi ^1470
+āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi
 
-katihi dhātūhi sampayuttā? Te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekena ^1471
+katihi dhātūhi sampayuttā? Te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekena
 
-khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena ^1472
+khandhena ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1473
+dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-410. Itthindriyena ye dhammā… purisindriyena ye dhammā khandhasaṅgahena saṅgahitā ^1474
+410. Itthindriyena ye dhammā… purisindriyena ye dhammā khandhasaṅgahena saṅgahitā
 
-āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi ^1475
+āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi
 
-katihi dhātūhi sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi ^1476
+katihi dhātūhi sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi
 
-vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1477
+vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-411. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā… ^1478
+411. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā…
 
-domanassindriyena ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā ^1479
+domanassindriyena ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā
 
-dhātusaṅgahena saṅgahitā…pe… te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ^1480
+dhātusaṅgahena saṅgahitā…pe… te dhammā tīhi khandhehi ekenāyatanena sattahi dhātūhi sampayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi ^1481
+ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi
 
-dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1482
+dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-412. Upekkhindriyena ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā ^1483
+412. Upekkhindriyena ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā
 
-dhātusaṅgahena saṅgahitā… te dhammā tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampayuttā; ^1484
+dhātusaṅgahena saṅgahitā… te dhammā tīhi khandhehi ekenāyatanena dvīhi dhātūhi sampayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi ^1485
+ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi
 
-pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1486
+pannarasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-413. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā… ^1487
+413. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā…
 
-samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye ^1488
+samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye
 
-dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā… ^1489
+dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā…
 
-avijjāpaccayā saṅkhārehi ye dhammā… saḷāyatanapaccayā phassena ye dhammā… vedanāpaccayā ^1490
+avijjāpaccayā saṅkhārehi ye dhammā… saḷāyatanapaccayā phassena ye dhammā… vedanāpaccayā
 
-taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā… kammabhavena ye dhammā ^1491
+taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā… kammabhavena ye dhammā
 
-khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā te dhammā tīhi ^1492
+khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā te dhammā tīhi
 
-khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā ^1493
+khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ^1494
+kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1495
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-414. Paridevena ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā ^1496
+414. Paridevena ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā
 
-dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttāti? ^1497
+dhātusaṅgahena saṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttāti?
 
-Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ^1498
+Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1499
+ekāya dhātuyā kehici vippayuttā.
 
-415. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā khandhasaṅgahena ^1500
+415. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā khandhasaṅgahena
 
-saṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā… te dhammā tīhi khandhehi ^1501
+saṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena saṅgahitā… te dhammā tīhi khandhehi
 
-ekenāyatanena sattahi dhātūhi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi ^1502
+ekenāyatanena sattahi dhātūhi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi
 
-vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^1503
+vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^1504
+kehici vippayuttā.
 
-416. Upāyāsena ye dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… ^1505
+416. Upāyāsena ye dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā…
 
-appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā… sattahi ^1506
+appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā… sattahi
 
-bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā… phassena ye dhammā… ^1507
+bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā… phassena ye dhammā…
 
-cetanāya ye dhammā… adhimokkhena ye dhammā… manasikārena ye dhammā… hetūhi dhammehi ye ^1508
+cetanāya ye dhammā… adhimokkhena ye dhammā… manasikārena ye dhammā… hetūhi dhammehi ye
 
-dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi ceva hetusampayuttehi ca ^1509
+dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi ceva hetusampayuttehi ca
 
-dhammehi ye dhammā… āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye ^1510
+dhammehi ye dhammā… āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye
 
-dhammā… āsavehi ceva āsavasampayuttehi ca dhammehi ye dhammā… saṃyojanehi dhammehi ye ^1511
+dhammā… āsavehi ceva āsavasampayuttehi ca dhammehi ye dhammā… saṃyojanehi dhammehi ye
 
-dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi ye dhammā… yogehi dhammehi ye ^1512
+dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi ye dhammā… yogehi dhammehi ye
 
-dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi dhammehi ye dhammā… upādānehi ^1513
+dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi dhammehi ye dhammā… upādānehi
 
-dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva saṃkilesikehi ca dhammehi ye ^1514
+dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva saṃkilesikehi ca dhammehi ye
 
-dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… kilesehi ceva kilesasampayuttehi ca ^1515
+dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… kilesehi ceva kilesasampayuttehi ca
 
-dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena ^1516
+dhammehi ye dhammā khandhasaṅgahena saṅgahitā āyatanasaṅgahena saṅgahitā dhātusaṅgahena
 
-saṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttā? Te dhammā tīhi ^1517
+saṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttā? Te dhammā tīhi
 
-khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā ^1518
+khandhehi ekenāyatanena sattahi dhātūhi sampayuttā; ekena khandhena ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ^1519
+kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1520
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-Dve saccā pannarasindriyā, ekādasa paṭiccapadā; ^1521
+Dve saccā pannarasindriyā, ekādasa paṭiccapadā;
 
-Uddhaṃ puna ekādasa, gocchakapadamettha tiṃsavidhāti. ^1522
+Uddhaṃ puna ekādasa, gocchakapadamettha tiṃsavidhāti.
 
-Saṅgahitenasampayuttavippayuttapadaniddeso ekādasamo. ^1523
+Saṅgahitenasampayuttavippayuttapadaniddeso ekādasamo.
 
-12. Dvādasamanayo ^1524
+12. Dvādasamanayo
 
-12. Sampayuttenasaṅgahitāsaṅgahitapadaniddeso ^1525
+12. Sampayuttenasaṅgahitāsaṅgahitapadaniddeso
 
-417. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye ^1526
+417. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye
 
-dhammā sampayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā ^1527
+dhammā sampayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā
 
-tīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ^1528
+tīhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi
 
-dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1529
+dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-418. Viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā… cakkhuviññāṇadhātuyā ye ^1530
+418. Viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā… cakkhuviññāṇadhātuyā ye
 
-dhammā…pe… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā sampayuttā…pe… te ^1531
+dhammā…pe… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā sampayuttā…pe… te
 
-dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ^1532
+dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^1533
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-419. Samudayasaccena ye dhammā… maggasaccena ye dhammā sampayuttā… te dhammā catūhi ^1534
+419. Samudayasaccena ye dhammā… maggasaccena ye dhammā sampayuttā… te dhammā catūhi
 
-khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi ^1535
+khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi
 
-soḷasahi dhātūhi asaṅgahitā. ^1536
+soḷasahi dhātūhi asaṅgahitā.
 
-420. Manindriyena ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya ^1537
+420. Manindriyena ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya
 
-dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^1538
+dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahitā. ^1539
+asaṅgahitā.
 
-421. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā… ^1540
+421. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā…
 
-domanassindriyena ye dhammā sampayuttā…, te dhammā tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi ^1541
+domanassindriyena ye dhammā sampayuttā…, te dhammā tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1542
+saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-422. Upekkhindriyena ye dhammā sampayuttā… te dhammā tīhi khandhehi dvīhāyatanehi sattahi ^1543
+422. Upekkhindriyena ye dhammā sampayuttā… te dhammā tīhi khandhehi dvīhāyatanehi sattahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi asaṅgahitā. ^1544
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi ekādasahi dhātūhi asaṅgahitā.
 
-423. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā… ^1545
+423. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā…
 
-samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye ^1546
+samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye
 
-dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā… ^1547
+dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā…
 
-avijjāpaccayā saṅkhārehi ye dhammā sampayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi ^1548
+avijjāpaccayā saṅkhārehi ye dhammā sampayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1549
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-424. Saṅkhārapaccayā viññāṇena ye dhammā sampayuttā… te dhammā tīhi khandhehi ^1550
+424. Saṅkhārapaccayā viññāṇena ye dhammā sampayuttā… te dhammā tīhi khandhehi
 
-ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi ^1551
+ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi asaṅgahitā. ^1552
+sattarasahi dhātūhi asaṅgahitā.
 
-425. Saḷāyatanapaccayā phassena ye dhammā sampayuttā… te dhammā catūhi khandhehi ^1553
+425. Saḷāyatanapaccayā phassena ye dhammā sampayuttā… te dhammā catūhi khandhehi
 
-dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi ^1554
+dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi
 
-dhātūhi asaṅgahitā. ^1555
+dhātūhi asaṅgahitā.
 
-426. Phassapaccayā vedanāya ye dhammā sampayuttā… te dhammā tīhi khandhehi dvīhāyatanehi ^1556
+426. Phassapaccayā vedanāya ye dhammā sampayuttā… te dhammā tīhi khandhehi dvīhāyatanehi
 
-aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1557
+aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-427. Vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā… ^1558
+427. Vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā…
 
-kammabhavena ye dhammā sampayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi ^1559
+kammabhavena ye dhammā sampayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1560
+saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-428. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā sampayuttā… te ^1561
+428. Sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā sampayuttā… te
 
-dhammā tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ^1562
+dhammā tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1563
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-429. Upāyāsena ye dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā ^1564
+429. Upāyāsena ye dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā
 
-sampayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? ^1565
+sampayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā?
 
-Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1566
+Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-430. Iddhipādena ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya ^1567
+430. Iddhipādena ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya
 
-dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^1568
+dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahitā. ^1569
+asaṅgahitā.
 
-431. Jhānena ye dhammā sampayuttā… te dhammā tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi ^1570
+431. Jhānena ye dhammā sampayuttā… te dhammā tīhi khandhehi dvīhāyatanehi dvīhi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1571
+saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-432. Appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā… ^1572
+432. Appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye dhammā…
 
-sattahi bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā sampayuttā… te dhammā ^1573
+sattahi bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā sampayuttā… te dhammā
 
-catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ^1574
+catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1575
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-433. Phassena ye dhammā… cetanāya ye dhammā… manasikārena ye dhammā sampayuttā… te ^1576
+433. Phassena ye dhammā… cetanāya ye dhammā… manasikārena ye dhammā sampayuttā… te
 
-dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ^1577
+dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena
 
-dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1578
+dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-434. Vedanāya ye dhammā… saññāya ye dhammā sampayuttā… te dhammā tīhi khandhehi ^1579
+434. Vedanāya ye dhammā… saññāya ye dhammā sampayuttā… te dhammā tīhi khandhehi
 
-dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi dasahi ^1580
+dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi dasahāyatanehi dasahi
 
-dhātūhi asaṅgahitā. ^1581
+dhātūhi asaṅgahitā.
 
-435. Cittena ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā ^1582
+435. Cittena ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya dhātuyā
 
-saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^1583
+saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-436. Adhimokkhena ye dhammā sampayuttā… te dhammā catūhi khandhehi dvīhāyatanehi tīhi ^1584
+436. Adhimokkhena ye dhammā sampayuttā… te dhammā catūhi khandhehi dvīhāyatanehi tīhi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi asaṅgahitā. ^1585
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi asaṅgahitā.
 
-437. Sukhāya vedanāya sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi ^1586
+437. Sukhāya vedanāya sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi
 
-dhammehi ye dhammā… adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā… ^1587
+dhammehi ye dhammā… adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā…
 
-savitakkasavicārehi dhammehi ye dhammā… avitakkavicāramattehi dhammehi ye dhammā… ^1588
+savitakkasavicārehi dhammehi ye dhammā… avitakkavicāramattehi dhammehi ye dhammā…
 
-pītisahagatehi dhammehi ye dhammā… sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi ^1589
+pītisahagatehi dhammehi ye dhammā… sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi
 
-dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā ^1590
+dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena ekāya dhātuyā
 
-saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^1591
+saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-438. Hetūhi dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi ^1592
+438. Hetūhi dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… hetūhi
 
-ceva hetusampayuttehi ca dhammehi ye dhammā sampayuttā… te dhammā catūhi khandhehi ^1593
+ceva hetusampayuttehi ca dhammehi ye dhammā sampayuttā… te dhammā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^1594
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^1595
+dhātūhi asaṅgahitā.
 
-439. Sahetukehi ceva na ca hetūhi dhammehi ye dhammā… hetusampayuttehi ceva na ca hetūhi ^1596
+439. Sahetukehi ceva na ca hetūhi dhammehi ye dhammā… hetusampayuttehi ceva na ca hetūhi
 
-dhammehi ye dhammā… na hetusahetukehi dhammehi ye dhammā sampayuttā… te dhammā ekena ^1597
+dhammehi ye dhammā… na hetusahetukehi dhammehi ye dhammā sampayuttā… te dhammā ekena
 
-khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ^1598
+khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^1599
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-440. Āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye dhammā… āsavehi ^1600
+440. Āsavehi dhammehi ye dhammā… āsavehi ceva sāsavehi ca dhammehi ye dhammā… āsavehi
 
-ceva āsavasampayuttehi ca dhammehi ye dhammā sampayuttā… te dhammā catūhi khandhehi ^1601
+ceva āsavasampayuttehi ca dhammehi ye dhammā sampayuttā… te dhammā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^1602
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^1603
+dhātūhi asaṅgahitā.
 
-441. Āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā sampayuttā… te dhammā ekena ^1604
+441. Āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā sampayuttā… te dhammā ekena
 
-khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ^1605
+khandhena ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi
 
-ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā. ^1606
+ekādasahāyatanehi sattarasahi dhātūhi asaṅgahitā.
 
-442. Saṃyojanehi dhammehi ye dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi ^1607
+442. Saṃyojanehi dhammehi ye dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi
 
-ye dhammā… yogehi dhammehi ye dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi ^1608
+ye dhammā… yogehi dhammehi ye dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi
 
-dhammehi ye dhammā… parāmāsehi ceva parāmaṭṭhehi ca dhammehi ye dhammā sampayuttā… te ^1609
+dhammehi ye dhammā… parāmāsehi ceva parāmaṭṭhehi ca dhammehi ye dhammā sampayuttā… te
 
-dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ^1610
+dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1611
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-443. Parāmāsasampayuttehi dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena ^1612
+443. Parāmāsasampayuttehi dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena
 
-ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi ^1613
+ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi asaṅgahitā. ^1614
+sattarasahi dhātūhi asaṅgahitā.
 
-444. Cittehi dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya ^1615
+444. Cittehi dhammehi ye dhammā sampayuttā… te dhammā tīhi khandhehi ekenāyatanena ekāya
 
-dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi ^1616
+dhātuyā saṅgahitā. Katihi asaṅgahitā? Dvīhi khandhehi ekādasahāyatanehi sattarasahi dhātūhi
 
-asaṅgahitā. ^1617
+asaṅgahitā.
 
-445. Cetasikehi dhammehi ye dhammā… cittasampayuttehi dhammehi ye dhammā… ^1618
+445. Cetasikehi dhammehi ye dhammā… cittasampayuttehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā… ^1619
+cittasaṃsaṭṭhehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi ^1620
+cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi
 
-dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena sattahi dhātūhi ^1621
+dhammehi ye dhammā sampayuttā… te dhammā ekena khandhena ekenāyatanena sattahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā. ^1622
+saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi ekādasahi dhātūhi asaṅgahitā.
 
-446. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva ^1623
+446. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… kilesehi ceva
 
-saṃkilesikehi ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… ^1624
+saṃkilesikehi ca dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā…
 
-kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā sampayuttā… te dhammā catūhi khandhehi ^1625
+kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā sampayuttā… te dhammā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^1626
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^1627
+dhātūhi asaṅgahitā.
 
-447. Saṃkiliṭṭhehi ceva no ca kilesehi dhammehi ye dhammā… kilesasampayuttehi ceva no ca ^1628
+447. Saṃkiliṭṭhehi ceva no ca kilesehi dhammehi ye dhammā… kilesasampayuttehi ceva no ca
 
-kilesehi dhammehi ye dhammā… savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye ^1629
+kilesehi dhammehi ye dhammā… savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye
 
-dhammā… sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā… ^1630
+dhammā… sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā…
 
-sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye dhammā sampayuttā, te ^1631
+sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye dhammā sampayuttā, te
 
-dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā ekena khandhena ^1632
+dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā ekena khandhena
 
-ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi ^1633
+ekenāyatanena ekāya dhātuyā saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ekādasahāyatanehi
 
-sattarasahi dhātūhi asaṅgahitā. ^1634
+sattarasahi dhātūhi asaṅgahitā.
 
-Rūpakkhandhā cattāro, manāyatanameva ca; ^1635
+Rūpakkhandhā cattāro, manāyatanameva ca;
 
-Viññāṇadhātuyo satta, dve saccā cuddasindriyā. ^1636
+Viññāṇadhātuyo satta, dve saccā cuddasindriyā.
 
-Paccaye dvādasa padā, tato upari soḷasa; ^1637
+Paccaye dvādasa padā, tato upari soḷasa;
 
-Tikesu aṭṭha gocchake, tecattālīsameva ca. ^1638
+Tikesu aṭṭha gocchake, tecattālīsameva ca.
 
-Mahantaraduke satta, padā piṭṭhidukesu cha; ^1639
+Mahantaraduke satta, padā piṭṭhidukesu cha;
 
-Navamassa padassete, niddese saṅgahaṃ gatāti. ^1640
+Navamassa padassete, niddese saṅgahaṃ gatāti.
 
-Sampayuttenasaṅgahitāsaṅgahitapadaniddeso dvādasamo. ^1641
+Sampayuttenasaṅgahitāsaṅgahitapadaniddeso dvādasamo.
 
-13. Terasamanayo ^1642
+13. Terasamanayo
 
-13. Asaṅgahitenasampayuttavippayuttapadaniddeso ^1643
+13. Asaṅgahitenasampayuttavippayuttapadaniddeso
 
-448. Rūpakkhandhena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^1644
+448. Rūpakkhandhena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttā? Te ^1645
+dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttā? Te
 
-dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi ^1646
+dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici sampayuttā. Katihi
 
-vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā ^1647
+vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici vippayuttā. ^1648
+kehici vippayuttā.
 
-449. Dhammāyatanena ye dhammā… dhammadhātuyā ye dhammā… itthindriyena ye dhammā… ^1649
+449. Dhammāyatanena ye dhammā… dhammadhātuyā ye dhammā… itthindriyena ye dhammā…
 
-purisindriyena ye dhammā… jīvitindriyena ye dhammā… viññāṇapaccayā nāmarūpena ye dhammā… ^1650
+purisindriyena ye dhammā… jīvitindriyena ye dhammā… viññāṇapaccayā nāmarūpena ye dhammā…
 
-asaññābhavena ye dhammā… ekavokārabhavena ye dhammā… jātiyā ye dhammā… jarāya ye ^1651
+asaññābhavena ye dhammā… ekavokārabhavena ye dhammā… jātiyā ye dhammā… jarāya ye
 
-dhammā… maraṇena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^1652
+dhammā… maraṇena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā…pe… te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā ^1653
+dhātusaṅgahena asaṅgahitā…pe… te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ^1654
+kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1655
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-450. Arūpabhavena ye dhammā… nevasaññānāsaññābhavena ye dhammā… catuvokārabhavena ye ^1656
+450. Arūpabhavena ye dhammā… nevasaññānāsaññābhavena ye dhammā… catuvokārabhavena ye
 
-dhammā… iddhipādena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^1657
+dhammā… iddhipādena ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi ^1658
+dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi
 
-sampayuttāti? Natthi? Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ^1659
+sampayuttāti? Natthi? Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1660
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-451. Kusalehi dhammehi ye dhammā… akusalehi dhammehi ye dhammā… sukhāya vedanāya ^1661
+451. Kusalehi dhammehi ye dhammā… akusalehi dhammehi ye dhammā… sukhāya vedanāya
 
-sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi dhammehi ye dhammā… ^1662
+sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi dhammehi ye dhammā…
 
-adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā… vipākehi dhammehi ye dhammā… ^1663
+adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā… vipākehi dhammehi ye dhammā…
 
-vipākadhammadhammehi ye dhammā… anupādinnaanupādāniyehi dhammehi ye dhammā… ^1664
+vipākadhammadhammehi ye dhammā… anupādinnaanupādāniyehi dhammehi ye dhammā…
 
-saṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā… asaṃkiliṭṭhaasaṃkilesikehi dhammehi ye dhammā… ^1665
+saṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā… asaṃkiliṭṭhaasaṃkilesikehi dhammehi ye dhammā…
 
-savitakkasavicārehi dhammehi ye dhammā… avitakkavicāramattehi dhammehi ye dhammā… ^1666
+savitakkasavicārehi dhammehi ye dhammā… avitakkavicāramattehi dhammehi ye dhammā…
 
-pītisahagatehi dhammehi ye dhammā… sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi ^1667
+pītisahagatehi dhammehi ye dhammā… sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi
 
-dhammehi ye dhammā… dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi ^1668
+dhammehi ye dhammā… dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi
 
-dhammehi ye dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya ^1669
+dhammehi ye dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya
 
-pahātabbahetukehi dhammehi ye dhammā… ācayagāmīhi dhammehi ye dhammā… apacayagāmīhi ^1670
+pahātabbahetukehi dhammehi ye dhammā… ācayagāmīhi dhammehi ye dhammā… apacayagāmīhi
 
-dhammehi ye dhammā… sekkhehi dhammehi ye dhammā… asekkhehi dhammehi ye dhammā… ^1671
+dhammehi ye dhammā… sekkhehi dhammehi ye dhammā… asekkhehi dhammehi ye dhammā…
 
-mahaggatehi dhammehi ye dhammā… appamāṇehi dhammehi ye dhammā… parittārammaṇehi ^1672
+mahaggatehi dhammehi ye dhammā… appamāṇehi dhammehi ye dhammā… parittārammaṇehi
 
-dhammehi ye dhammā… mahaggatārammaṇehi dhammehi ye dhammā… appamāṇārammaṇehi ^1673
+dhammehi ye dhammā… mahaggatārammaṇehi dhammehi ye dhammā… appamāṇārammaṇehi
 
-dhammehi ye dhammā… hīnehi dhammehi ye dhammā… paṇītehi dhammehi ye dhammā… ^1674
+dhammehi ye dhammā… hīnehi dhammehi ye dhammā… paṇītehi dhammehi ye dhammā…
 
-micchattaniyatehi dhammehi ye dhammā… sammattaniyatehi dhammehi ye dhammā… ^1675
+micchattaniyatehi dhammehi ye dhammā… sammattaniyatehi dhammehi ye dhammā…
 
-maggārammaṇehi dhammehi ye dhammā… maggahetukehi dhammehi ye dhammā… maggādhipatīhi ^1676
+maggārammaṇehi dhammehi ye dhammā… maggahetukehi dhammehi ye dhammā… maggādhipatīhi
 
-dhammehi ye dhammā… atītārammaṇehi dhammehi ye dhammā… anāgatārammaṇehi dhammehi ye ^1677
+dhammehi ye dhammā… atītārammaṇehi dhammehi ye dhammā… anāgatārammaṇehi dhammehi ye
 
-dhammā… paccuppannārammaṇehi dhammehi ye dhammā… ajjhattārammaṇehi dhammehi ye ^1678
+dhammā… paccuppannārammaṇehi dhammehi ye dhammā… ajjhattārammaṇehi dhammehi ye
 
-dhammā… bahiddhārammaṇehi dhammehi ye dhammā… ajjhattabahiddhārammaṇehi dhammehi ye ^1679
+dhammā… bahiddhārammaṇehi dhammehi ye dhammā… ajjhattabahiddhārammaṇehi dhammehi ye
 
-dhammā… sahetukehi dhammehi ye dhammā… hetusampayuttehi dhammehi ye dhammā… sahetukehi ^1680
+dhammā… sahetukehi dhammehi ye dhammā… hetusampayuttehi dhammehi ye dhammā… sahetukehi
 
-ceva na ca hetūhi dhammehi ye dhammā… hetusampayuttehi ceva na ca hetūhi dhammehi ye ^1681
+ceva na ca hetūhi dhammehi ye dhammā… hetusampayuttehi ceva na ca hetūhi dhammehi ye
 
-dhammā… na hetusahetukehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^1682
+dhammā… na hetusahetukehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi ^1683
+asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi
 
-sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ^1684
+sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1685
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-452. Rūpīhi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^1686
+452. Rūpīhi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā… te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā ^1687
+dhātusaṅgahena asaṅgahitā… te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā
 
-kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ^1688
+kehici sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1689
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-453. Arūpīhi dhammehi ye dhammā… lokuttarehi dhammehi ye dhammā… anāsavehi dhammehi ^1690
+453. Arūpīhi dhammehi ye dhammā… lokuttarehi dhammehi ye dhammā… anāsavehi dhammehi
 
-ye dhammā… āsavasampayuttehi dhammehi ye dhammā… āsavavippayuttehi ceva no ca āsavehi ^1691
+ye dhammā… āsavasampayuttehi dhammehi ye dhammā… āsavavippayuttehi ceva no ca āsavehi
 
-dhammehi ye dhammā… āsavavippayuttehi anāsavehi dhammehi ye dhammā… asaṃyojaniyehi ^1692
+dhammehi ye dhammā… āsavavippayuttehi anāsavehi dhammehi ye dhammā… asaṃyojaniyehi
 
-dhammehi ye dhammā… aganthaniyehi dhammehi ye dhammā… anoghaniyehi dhammehi ye ^1693
+dhammehi ye dhammā… aganthaniyehi dhammehi ye dhammā… anoghaniyehi dhammehi ye
 
-dhammā… ayoganiyehi dhammehi ye dhammā… anīvaraṇiyehi dhammehi ye dhammā… aparāmaṭṭhehi ^1694
+dhammā… ayoganiyehi dhammehi ye dhammā… anīvaraṇiyehi dhammehi ye dhammā… aparāmaṭṭhehi
 
-dhammehi ye dhammā… parāmāsasampayuttehi dhammehi ye dhammā… parāmāsavippayuttehi ^1695
+dhammehi ye dhammā… parāmāsasampayuttehi dhammehi ye dhammā… parāmāsavippayuttehi
 
-aparāmaṭṭhehi dhammehi ye dhammā… sārammaṇehi dhammehi ye dhammā khandhasaṅgahena ^1696
+aparāmaṭṭhehi dhammehi ye dhammā… sārammaṇehi dhammehi ye dhammā khandhasaṅgahena
 
-asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi ^1697
+asaṅgahitā āyatanasaṅgahena asaṅgahitā dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi
 
-katihāyatanehi katihi dhātūhi sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena ^1698
+katihāyatanehi katihi dhātūhi sampayuttāti? Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena
 
-sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1699
+sattahi dhātūhi vippayuttā; ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-454. Anārammaṇehi dhammehi ye dhammā… no cittehi dhammehi ye dhammā… cittavippayuttehi ^1700
+454. Anārammaṇehi dhammehi ye dhammā… no cittehi dhammehi ye dhammā… cittavippayuttehi
 
-dhammehi ye dhammā … cittavisaṃsaṭṭhehi dhammehi ye dhammā… cittasamuṭṭhānehi dhammehi ye ^1701
+dhammehi ye dhammā … cittavisaṃsaṭṭhehi dhammehi ye dhammā… cittasamuṭṭhānehi dhammehi ye
 
-dhammā… cittasahabhūhi dhammehi ye dhammā… cittānuparivattīhi dhammehi ye dhammā… bāhirehi ^1702
+dhammā… cittasahabhūhi dhammehi ye dhammā… cittānuparivattīhi dhammehi ye dhammā… bāhirehi
 
-dhammehi ye dhammā… upādādhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena ^1703
+dhammehi ye dhammā… upādādhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena
 
-asaṅgahitā dhātusaṅgena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi ^1704
+asaṅgahitā dhātusaṅgena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi
 
-sampayuttā? Te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici ^1705
+sampayuttā? Te dhammā tīhi khandhehi sampayuttā; ekenāyatanena ekāya dhātuyā kehici
 
-sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā; ^1706
+sampayuttā. Katihi vippayuttā? Ekena khandhena dasahāyatanehi dasahi dhātūhi vippayuttā;
 
-ekenāyatanena ekāya dhātuyā kehici vippayuttā. ^1707
+ekenāyatanena ekāya dhātuyā kehici vippayuttā.
 
-455. Anupādāniyehi dhammehi ye dhammā… upādānasampayuttehi dhammehi ye dhammā… ^1708
+455. Anupādāniyehi dhammehi ye dhammā… upādānasampayuttehi dhammehi ye dhammā…
 
-upādānasampayuttehi ceva no ca upādānehi dhammehi ye dhammā… upādānavippayuttehi ^1709
+upādānasampayuttehi ceva no ca upādānehi dhammehi ye dhammā… upādānavippayuttehi
 
-anupādāniyehi dhammehi ye dhammā… asaṃkilesikehi dhammehi ye dhammā… asaṃkiliṭṭhehi ^1710
+anupādāniyehi dhammehi ye dhammā… asaṃkilesikehi dhammehi ye dhammā… asaṃkiliṭṭhehi
 
-dhammehi ye dhammā… kilesasampayuttehi dhammehi ye dhammā… saṃkiliṭṭhehi ceva no ca kilesehi ^1711
+dhammehi ye dhammā… kilesasampayuttehi dhammehi ye dhammā… saṃkiliṭṭhehi ceva no ca kilesehi
 
-dhammehi ye dhammā… kilesasampayuttehi ceva no ca kilesehi dhammehi ye dhammā… ^1712
+dhammehi ye dhammā… kilesasampayuttehi ceva no ca kilesehi dhammehi ye dhammā…
 
-kilesavippayuttehi asaṃkilesikehi dhammehi ye dhammā… dassanena pahātabbehi dhammehi ye ^1713
+kilesavippayuttehi asaṃkilesikehi dhammehi ye dhammā… dassanena pahātabbehi dhammehi ye
 
-dhammā… bhāvanāya pahātabbehi dhammehi ye dhammā… dassanena pahātabbahetukehi dhammehi ^1714
+dhammā… bhāvanāya pahātabbehi dhammehi ye dhammā… dassanena pahātabbahetukehi dhammehi
 
-ye dhammā… bhāvanāya pahātabbahetukehi dhammehi ye dhammā… savitakkehi dhammehi ye ^1715
+ye dhammā… bhāvanāya pahātabbahetukehi dhammehi ye dhammā… savitakkehi dhammehi ye
 
-dhammā… savicārehi dhammehi ye dhammā… sappītikehi dhammehi ye dhammā… pītisahagatehi ^1716
+dhammā… savicārehi dhammehi ye dhammā… sappītikehi dhammehi ye dhammā… pītisahagatehi
 
-dhammehi ye dhammā… sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye ^1717
+dhammehi ye dhammā… sukhasahagatehi dhammehi ye dhammā… upekkhāsahagatehi dhammehi ye
 
-dhammā… na kāmāvacarehi dhammehi ye dhammā… rūpāvacarehi dhammehi ye dhammā… ^1718
+dhammā… na kāmāvacarehi dhammehi ye dhammā… rūpāvacarehi dhammehi ye dhammā…
 
-arūpāvacarehi dhammehi ye dhammā… apariyāpannehi dhammehi ye dhammā… niyyānikehi ^1719
+arūpāvacarehi dhammehi ye dhammā… apariyāpannehi dhammehi ye dhammā… niyyānikehi
 
-dhammehi ye dhammā … niyatehi dhammehi ye dhammā… anuttarehi dhammehi ye dhammā… ^1720
+dhammehi ye dhammā … niyatehi dhammehi ye dhammā… anuttarehi dhammehi ye dhammā…
 
-saraṇehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā ^1721
+saraṇehi dhammehi ye dhammā khandhasaṅgahena asaṅgahitā āyatanasaṅgahena asaṅgahitā
 
-dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttāti? ^1722
+dhātusaṅgahena asaṅgahitā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi sampayuttāti?
 
-Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena ^1723
+Natthi. Katihi vippayuttā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi vippayuttā; ekenāyatanena
 
-ekāya dhātuyā kehici vippayuttā. ^1724
+ekāya dhātuyā kehici vippayuttā.
 
-Rūpañca dhammāyatanaṃ dhammadhātu, itthipumaṃ jīvitaṃ nāmarūpaṃ; ^1725
+Rūpañca dhammāyatanaṃ dhammadhātu, itthipumaṃ jīvitaṃ nāmarūpaṃ;
 
-Dve bhavā jātijarā maccurūpaṃ, anārammaṇaṃ no cittaṃ cittena vippayuttaṃ. ^1726
+Dve bhavā jātijarā maccurūpaṃ, anārammaṇaṃ no cittaṃ cittena vippayuttaṃ.
 
-Visaṃsaṭṭhaṃ samuṭṭhānasahabhu, anuparivatti bāhiraṃ upādā; ^1727
+Visaṃsaṭṭhaṃ samuṭṭhānasahabhu, anuparivatti bāhiraṃ upādā;
 
-Dve visayo esanayo subuddhoti. ^1728
+Dve visayo esanayo subuddhoti.
 
-Asaṅgahitenasampayuttavippayuttapadaniddeso terasamo. ^1729
+Asaṅgahitenasampayuttavippayuttapadaniddeso terasamo.
 
-14. Cuddasamanayo ^1730
+14. Cuddasamanayo
 
-14. Vippayuttenasaṅgahitāsaṅgahitapadaniddeso ^1731
+14. Vippayuttenasaṅgahitāsaṅgahitapadaniddeso
 
-1. Khandhādi ^1732
+1. Khandhādi
 
-456. Rūpakkhandhena ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi ^1733
+456. Rūpakkhandhena ye dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi
 
-dhātūhi saṅgahitā? Te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi ^1734
+dhātūhi saṅgahitā? Te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1735
+asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-457. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye ^1736
+457. Vedanākkhandhena ye dhammā… saññākkhandhena ye dhammā… saṅkhārakkhandhena ye
 
-dhammā… viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā… manindriyena ye dhammā ^1737
+dhammā… viññāṇakkhandhena ye dhammā… manāyatanena ye dhammā… manindriyena ye dhammā
 
-vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā ^1738
+vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā
 
-asaṅkhataṃ khandhato ṭhapetvā ekena khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. ^1739
+asaṅkhataṃ khandhato ṭhapetvā ekena khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā. ^1740
+Katihi asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-458. Cakkhāyatanena ye dhammā…pe… phoṭṭhabbāyatanena ye dhammā… cakkhudhātuyā ye ^1741
+458. Cakkhāyatanena ye dhammā…pe… phoṭṭhabbāyatanena ye dhammā… cakkhudhātuyā ye
 
-dhammā…pe… phoṭṭhabbadhātuyā ye dhammā vippayuttā…pe… te dhammā catūhi khandhehi ^1742
+dhammā…pe… phoṭṭhabbadhātuyā ye dhammā vippayuttā…pe… te dhammā catūhi khandhehi
 
-dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi ^1743
+dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi
 
-dhātūhi asaṅgahitā. ^1744
+dhātūhi asaṅgahitā.
 
-459. Cakkhuviññāṇadhātuyā ye dhammā… sotaviññāṇadhātuyā ye dhammā… ^1745
+459. Cakkhuviññāṇadhātuyā ye dhammā… sotaviññāṇadhātuyā ye dhammā…
 
-ghānaviññāṇadhātuyā ye dhammā… jivhāviññāṇadhātuyā ye dhammā… kāyaviññāṇadhātuyā ye ^1746
+ghānaviññāṇadhātuyā ye dhammā… jivhāviññāṇadhātuyā ye dhammā… kāyaviññāṇadhātuyā ye
 
-dhammā… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā vippayuttā… te dhammā ^1747
+dhammā… manodhātuyā ye dhammā… manoviññāṇadhātuyā ye dhammā vippayuttā… te dhammā
 
-asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā. ^1748
+asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi, ekāya dhātuyā asaṅgahitā. ^1749
+Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi, ekāya dhātuyā asaṅgahitā.
 
-2. Saccādi ^1750
+2. Saccādi
 
-460. Dukkhasaccena ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi ^1751
+460. Dukkhasaccena ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1752
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-461. Samudayasaccena ye dhammā… maggasaccena ye dhammā vippayuttā… te dhammā ^1753
+461. Samudayasaccena ye dhammā… maggasaccena ye dhammā vippayuttā… te dhammā
 
-asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. ^1754
+asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1755
+Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-462. Nirodhasaccena ye dhammā… cakkhundriyena ye dhammā … kāyindriyena ye dhammā… ^1756
+462. Nirodhasaccena ye dhammā… cakkhundriyena ye dhammā … kāyindriyena ye dhammā…
 
-itthindriyena ye dhammā… purisindriyena ye dhammā vippayuttā… te dhammā catūhi khandhehi ^1757
+itthindriyena ye dhammā… purisindriyena ye dhammā vippayuttā… te dhammā catūhi khandhehi
 
-dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi ^1758
+dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi
 
-dhātūhi asaṅgahitā. ^1759
+dhātūhi asaṅgahitā.
 
-463. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā… ^1760
+463. Sukhindriyena ye dhammā… dukkhindriyena ye dhammā… somanassindriyena ye dhammā…
 
-domanassindriyena ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi ^1761
+domanassindriyena ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi
 
-khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na ^1762
+khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na
 
-kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1763
+kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-464. Upekkhindriyena ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā ^1764
+464. Upekkhindriyena ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā
 
-pañcahi khandhehi dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^1765
+pañcahi khandhehi dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi pañcahi dhātūhi asaṅgahitā. ^1766
+khandhehi na kehici āyatanehi pañcahi dhātūhi asaṅgahitā.
 
-465. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā… ^1767
+465. Saddhindriyena ye dhammā… vīriyindriyena ye dhammā… satindriyena ye dhammā…
 
-samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye ^1768
+samādhindriyena ye dhammā… paññindriyena ye dhammā… anaññātaññassāmītindriyena ye
 
-dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā… ^1769
+dhammā… aññindriyena ye dhammā… aññātāvindriyena ye dhammā… avijjāya ye dhammā…
 
-avijjāpaccayā saṅkhārehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi ^1770
+avijjāpaccayā saṅkhārehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi
 
-khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na ^1771
+khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na
 
-kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1772
+kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-466. Saṅkhārapaccayā viññāṇena ye dhammā… saḷāyatanapaccayā phassena ye dhammā… ^1773
+466. Saṅkhārapaccayā viññāṇena ye dhammā… saḷāyatanapaccayā phassena ye dhammā…
 
-phassapaccayā vedanāya ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā ekena ^1774
+phassapaccayā vedanāya ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā ekena
 
-khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi ^1775
+khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Catūhi khandhehi
 
-ekenāyatanena sattahi dhātūhi asaṅgahitā. ^1776
+ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-467. Vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā… ^1777
+467. Vedanāpaccayā taṇhāya ye dhammā… taṇhāpaccayā upādānena ye dhammā…
 
-kammabhavena ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi ^1778
+kammabhavena ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi
 
-khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na ^1779
+khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na
 
-kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1780
+kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-468. Upapattibhavena ye dhammā… saññābhavena ye dhammā… pañcavokārabhavena ye dhammā ^1781
+468. Upapattibhavena ye dhammā… saññābhavena ye dhammā… pañcavokārabhavena ye dhammā
 
-vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? ^1782
+vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā?
 
-Ekena khandhena dasahāyatanehi pannarasahi dhātūhi asaṅgahitā. ^1783
+Ekena khandhena dasahāyatanehi pannarasahi dhātūhi asaṅgahitā.
 
-469. Kāmabhavena ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi pañcahi ^1784
+469. Kāmabhavena ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi pañcahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi terasahi dhātūhi asaṅgahitā. ^1785
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi terasahi dhātūhi asaṅgahitā.
 
-470. Rūpabhavena ye dhammā… asaññābhavena ye dhammā… ekavokārabhavena ye dhammā… ^1786
+470. Rūpabhavena ye dhammā… asaññābhavena ye dhammā… ekavokārabhavena ye dhammā…
 
-paridevena ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi ^1787
+paridevena ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1788
+saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-471. Arūpabhavena ye dhammā… nevasaññānāsaññābhavena ye dhammā… catuvokārabhavena ye ^1789
+471. Arūpabhavena ye dhammā… nevasaññānāsaññābhavena ye dhammā… catuvokārabhavena ye
 
-dhammā… sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā… upāyāsena ye ^1790
+dhammā… sokena ye dhammā… dukkhena ye dhammā… domanassena ye dhammā… upāyāsena ye
 
-dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… iddhipādena ye dhammā… ^1791
+dhammā… satipaṭṭhānena ye dhammā… sammappadhānena ye dhammā… iddhipādena ye dhammā…
 
-jhānena ye dhammā… appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye ^1792
+jhānena ye dhammā… appamaññāya ye dhammā… pañcahi indriyehi ye dhammā… pañcahi balehi ye
 
-dhammā … sattahi bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā vippayuttā… ^1793
+dhammā … sattahi bojjhaṅgehi ye dhammā… ariyena aṭṭhaṅgikena maggena ye dhammā vippayuttā…
 
-te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi ^1794
+te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1795
+saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-3. Phassādisattakaṃ ^1796
+3. Phassādisattakaṃ
 
-472. Phassena ye dhammā… vedanāya ye dhammā… saññāya ye dhammā… cetanāya ye ^1797
+472. Phassena ye dhammā… vedanāya ye dhammā… saññāya ye dhammā… cetanāya ye
 
-dhammā… cittena ye dhammā… manasikārena ye dhammā vippayuttā… te dhammā asaṅkhataṃ ^1798
+dhammā… cittena ye dhammā… manasikārena ye dhammā vippayuttā… te dhammā asaṅkhataṃ
 
-khandhato ṭhapetvā ekena khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi ^1799
+khandhato ṭhapetvā ekena khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā. ^1800
+asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-473. Adhimokkhena ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi ^1801
+473. Adhimokkhena ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi
 
-khandhehi dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na ^1802
+khandhehi dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na
 
-kehici āyatanehi ekāya dhātuyā asaṅgahitā. ^1803
+kehici āyatanehi ekāya dhātuyā asaṅgahitā.
 
-4. Tikaṃ ^1804
+4. Tikaṃ
 
-474. Kusalehi dhammehi ye dhammā… akusalehi dhammehi ye dhammā… sukhāya vedanāya ^1805
+474. Kusalehi dhammehi ye dhammā… akusalehi dhammehi ye dhammā… sukhāya vedanāya
 
-sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi dhammehi ye dhammā ^1806
+sampayuttehi dhammehi ye dhammā… dukkhāya vedanāya sampayuttehi dhammehi ye dhammā
 
-vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi ^1807
+vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi
 
-aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici ^1808
+aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici
 
-dhātūhi asaṅgahitā. ^1809
+dhātūhi asaṅgahitā.
 
-475. Abyākatehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi ^1810
+475. Abyākatehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi
 
-dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^1811
+dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-asaṅgahitā. ^1812
+asaṅgahitā.
 
-476. Adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā… vipākehi dhammehi ye ^1813
+476. Adukkhamasukhāya vedanāya sampayuttehi dhammehi ye dhammā… vipākehi dhammehi ye
 
-dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^1814
+dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^1815
+dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi pañcahi dhātūhi asaṅgahitā. ^1816
+āyatanehi pañcahi dhātūhi asaṅgahitā.
 
-477. Vipākadhammadhammehi ye dhammā… saṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā ^1817
+477. Vipākadhammadhammehi ye dhammā… saṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā
 
-vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi ^1818
+vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi
 
-aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici ^1819
+aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici
 
-dhātūhi asaṅgahitā. ^1820
+dhātūhi asaṅgahitā.
 
-478. Nevavipākanavipākadhammadhammehi ye dhammā… anupādinnupādāniyehi dhammehi ye ^1821
+478. Nevavipākanavipākadhammadhammehi ye dhammā… anupādinnupādāniyehi dhammehi ye
 
-dhammā… anupādinnaanupādāniyehi dhammehi ye dhammā… asaṃkiliṭṭhaasaṃkilesikehi dhammehi ^1822
+dhammā… anupādinnaanupādāniyehi dhammehi ye dhammā… asaṃkiliṭṭhaasaṃkilesikehi dhammehi
 
-ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi ^1823
+ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1824
+asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-479. Upādinnupādāniyehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ^1825
+479. Upādinnupādāniyehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi
 
-dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi ^1826
+dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi
 
-dhātūhi asaṅgahitā. ^1827
+dhātūhi asaṅgahitā.
 
-480. Asaṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ^1828
+480. Asaṃkiliṭṭhasaṃkilesikehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^1829
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^1830
+dhātūhi asaṅgahitā.
 
-481. Savitakkasavicārehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ^1831
+481. Savitakkasavicārehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato
 
-ṭhapetvā pañcahi khandhehi dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na ^1832
+ṭhapetvā pañcahi khandhehi dvādasahāyatanehi sattarasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na
 
-kehici khandhehi na kehici āyatanehi ekāya dhātuyā asaṅgahitā. ^1833
+kehici khandhehi na kehici āyatanehi ekāya dhātuyā asaṅgahitā.
 
-482. Avitakkavicāramattehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā… ^1834
+482. Avitakkavicāramattehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā…
 
-sukhasahagatehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā ^1835
+sukhasahagatehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā
 
-pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^1836
+pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1837
+khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-483. Avitakkaavicārehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ^1838
+483. Avitakkaavicārehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi
 
-dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi ^1839
+dvīhāyatanehi tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi
 
-dhātūhi asaṅgahitā. ^1840
+dhātūhi asaṅgahitā.
 
-484. Upekkhāsahagatehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ^1841
+484. Upekkhāsahagatehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato
 
-ṭhapetvā pañcahi khandhehi dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^1842
+ṭhapetvā pañcahi khandhehi dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi pañcahi dhātūhi asaṅgahitā. ^1843
+khandhehi na kehici āyatanehi pañcahi dhātūhi asaṅgahitā.
 
-485. Dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi dhammehi ye ^1844
+485. Dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi dhammehi ye
 
-dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya pahātabbahetukehi ^1845
+dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya pahātabbahetukehi
 
-dhammehi ye dhammā… ācayagāmīhi dhammehi ye dhammā… apacayagāmīhi dhammehi ye ^1846
+dhammehi ye dhammā… ācayagāmīhi dhammehi ye dhammā… apacayagāmīhi dhammehi ye
 
-dhammā… sekkhehi dhammehi ye dhammā… asekkhehi dhammehi ye dhammā… mahaggatehi ^1847
+dhammā… sekkhehi dhammehi ye dhammā… asekkhehi dhammehi ye dhammā… mahaggatehi
 
-dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^1848
+dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^1849
+dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi na kāhici dhātūhi asaṅgahitā. ^1850
+āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-486. Neva dassanena na bhāvanāya pahātabbehi dhammehi ye dhammā… neva dassanena na ^1851
+486. Neva dassanena na bhāvanāya pahātabbehi dhammehi ye dhammā… neva dassanena na
 
-bhāvanāya pahātabbahetukehi dhammehi ye dhammā… nevācayagāmināpacayagāmīhi dhammehi ye ^1852
+bhāvanāya pahātabbahetukehi dhammehi ye dhammā… nevācayagāmināpacayagāmīhi dhammehi ye
 
-dhammā… nevasekkhanāsekkhehi dhammehi ye dhammā… parittehi dhammehi ye dhammā ^1853
+dhammā… nevasekkhanāsekkhehi dhammehi ye dhammā… parittehi dhammehi ye dhammā
 
-vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? ^1854
+vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā?
 
-Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1855
+Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-487. Appamāṇehi dhammehi ye dhammā… paṇītehi dhammehi ye vippayuttā… te dhammā catūhi ^1856
+487. Appamāṇehi dhammehi ye dhammā… paṇītehi dhammehi ye vippayuttā… te dhammā catūhi
 
-khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi ^1857
+khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi
 
-dasahi dhātūhi asaṅgahitā. ^1858
+dasahi dhātūhi asaṅgahitā.
 
-488. Parittārammaṇehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ^1859
+488. Parittārammaṇehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato
 
-ṭhapetvā pañcahi khandhehi dvādasahāyatanehi dvādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na ^1860
+ṭhapetvā pañcahi khandhehi dvādasahāyatanehi dvādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na
 
-kehici khandhehi na kehici āyatanehi chahi dhātūhi asaṅgahitā. ^1861
+kehici khandhehi na kehici āyatanehi chahi dhātūhi asaṅgahitā.
 
-489. Mahaggatārammaṇehi dhammehi ye dhammā… appamāṇārammaṇehi dhammehi ye ^1862
+489. Mahaggatārammaṇehi dhammehi ye dhammā… appamāṇārammaṇehi dhammehi ye
 
-dhammā… hīnehi dhammehi ye dhammā… micchattaniyatehi dhammehi ye dhammā… ^1863
+dhammā… hīnehi dhammehi ye dhammā… micchattaniyatehi dhammehi ye dhammā…
 
-sammattaniyatehi dhammehi ye dhammā… maggārammaṇehi dhammehi ye dhammā… maggahetukehi ^1864
+sammattaniyatehi dhammehi ye dhammā… maggārammaṇehi dhammehi ye dhammā… maggahetukehi
 
-dhammehi ye dhammā… maggādhipatīhi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ ^1865
+dhammehi ye dhammā… maggādhipatīhi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ
 
-khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^1866
+khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1867
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-490. Majjhimehi dhammehi ye dhammā… aniyatehi dhammehi ye dhammā vippayuttā… te ^1868
+490. Majjhimehi dhammehi ye dhammā… aniyatehi dhammehi ye dhammā vippayuttā… te
 
-dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ^1869
+dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1870
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-491. Uppannehi dhammehi ye dhammā… anuppannehi dhammehi ye dhammā… uppādīhi ^1871
+491. Uppannehi dhammehi ye dhammā… anuppannehi dhammehi ye dhammā… uppādīhi
 
-dhammehi ye dhammā… atītehi dhammehi ye dhammā… anāgatehi dhammehi ye dhammā… ^1872
+dhammehi ye dhammā… atītehi dhammehi ye dhammā… anāgatehi dhammehi ye dhammā…
 
-paccuppannehi dhammehi ye dhammā… ajjhattehi dhammehi ye dhammā… bahiddhāhi dhammehi ye ^1873
+paccuppannehi dhammehi ye dhammā… ajjhattehi dhammehi ye dhammā… bahiddhāhi dhammehi ye
 
-dhammā… sanidassanasappaṭighehi dhammehi ye dhammā… anidassanasappaṭighehi dhammehi ye ^1874
+dhammā… sanidassanasappaṭighehi dhammehi ye dhammā… anidassanasappaṭighehi dhammehi ye
 
-dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi ^1875
+dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1876
+asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-492. Atītārammaṇehi dhammehi ye dhammā… anāgatārammaṇehi dhammehi ye dhammā… ^1877
+492. Atītārammaṇehi dhammehi ye dhammā… anāgatārammaṇehi dhammehi ye dhammā…
 
-ajjhattārammaṇehi dhammehi ye dhammā… bahiddhārammaṇehi dhammehi ye dhammā vippayuttā… ^1878
+ajjhattārammaṇehi dhammehi ye dhammā… bahiddhārammaṇehi dhammehi ye dhammā vippayuttā…
 
-te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi ^1879
+te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1880
+saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-493. Paccuppannārammaṇehi dhammehi ye dhammā… ajjhattabahiddhārammaṇehi dhammehi ye ^1881
+493. Paccuppannārammaṇehi dhammehi ye dhammā… ajjhattabahiddhārammaṇehi dhammehi ye
 
-dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^1882
+dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi dvādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^1883
+dvādasahāyatanehi dvādasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi chahi dhātūhi asaṅgahitā. ^1884
+āyatanehi chahi dhātūhi asaṅgahitā.
 
-5. Dukaṃ ^1885
+5. Dukaṃ
 
-494. Hetūhi dhammehi ye dhammā… sahetukehi dhammehi ye dhammā… hetusampayuttehi ^1886
+494. Hetūhi dhammehi ye dhammā… sahetukehi dhammehi ye dhammā… hetusampayuttehi
 
-dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… sahetukehi ceva na ca ^1887
+dhammehi ye dhammā… hetūhi ceva sahetukehi ca dhammehi ye dhammā… sahetukehi ceva na ca
 
-hetūhi dhammehi ye dhammā… hetūhi ceva hetusampayuttehi ca dhammehi ye dhammā… ^1888
+hetūhi dhammehi ye dhammā… hetūhi ceva hetusampayuttehi ca dhammehi ye dhammā…
 
-hetusampayuttehi ceva na ca hetūhi dhammehi ye dhammā… na hetusahetukehi dhammehi ye dhammā ^1889
+hetusampayuttehi ceva na ca hetūhi dhammehi ye dhammā… na hetusahetukehi dhammehi ye dhammā
 
-vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi ^1890
+vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi
 
-aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici ^1891
+aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici
 
-dhātūhi asaṅgahitā. ^1892
+dhātūhi asaṅgahitā.
 
-495. Ahetukehi dhammehi ye dhammā… hetuvippayuttehi dhammehi ye dhammā… na ^1893
+495. Ahetukehi dhammehi ye dhammā… hetuvippayuttehi dhammehi ye dhammā… na
 
-hetuahetukehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi ^1894
+hetuahetukehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1895
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-496. Appaccayehi dhammehi ye dhammā… asaṅkhatehi dhammehi ye dhammā… sanidassanehi ^1896
+496. Appaccayehi dhammehi ye dhammā… asaṅkhatehi dhammehi ye dhammā… sanidassanehi
 
-dhammehi ye dhammā… sappaṭighehi dhammehi ye dhammā… rūpīhi dhammehi ye dhammā… ^1897
+dhammehi ye dhammā… sappaṭighehi dhammehi ye dhammā… rūpīhi dhammehi ye dhammā…
 
-lokuttarehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi ^1898
+lokuttarehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1899
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-497. Lokiyehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi ^1900
+497. Lokiyehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi
 
-dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi ^1901
+dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi
 
-asaṅgahitā. ^1902
+asaṅgahitā.
 
-498. Āsavehi dhammehi ye dhammā… āsavasampayuttehi dhammehi ye dhammā… āsavehi ceva ^1903
+498. Āsavehi dhammehi ye dhammā… āsavasampayuttehi dhammehi ye dhammā… āsavehi ceva
 
-sāsavehi ca dhammehi ye dhammā… āsavehi ceva āsavasampayuttehi ca dhammehi ye dhammā… ^1904
+sāsavehi ca dhammehi ye dhammā… āsavehi ceva āsavasampayuttehi ca dhammehi ye dhammā…
 
-āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ ^1905
+āsavasampayuttehi ceva no ca āsavehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ
 
-khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^1906
+khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1907
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-499. Sāsavehi dhammehi ye dhammā… āsavavippayuttehi dhammehi ye dhammā… sāsavehi ceva ^1908
+499. Sāsavehi dhammehi ye dhammā… āsavavippayuttehi dhammehi ye dhammā… sāsavehi ceva
 
-no ca āsavehi dhammehi ye dhammā… āsavavippayuttehi sāsavehi dhammehi ye dhammā vippayuttā… ^1909
+no ca āsavehi dhammehi ye dhammā… āsavavippayuttehi sāsavehi dhammehi ye dhammā vippayuttā…
 
-te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena ^1910
+te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena
 
-khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1911
+khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-500. Anāsavehi dhammehi ye dhammā… āsavavippayuttehi anāsavehi dhammehi ye dhammā ^1912
+500. Anāsavehi dhammehi ye dhammā… āsavavippayuttehi anāsavehi dhammehi ye dhammā
 
-vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā? ^1913
+vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi asaṅgahitā?
 
-Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1914
+Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-501. Saṃyojanehi dhammehi ye dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi ^1915
+501. Saṃyojanehi dhammehi ye dhammā… ganthehi dhammehi ye dhammā… oghehi dhammehi
 
-ye dhammā… yogehi dhammehi ye dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi ^1916
+ye dhammā… yogehi dhammehi ye dhammā… nīvaraṇehi dhammehi ye dhammā… parāmāsehi
 
-dhammehi ye dhammā… parāmāsasampayuttehi dhammehi ye dhammā… parāmāsehi ceva ^1917
+dhammehi ye dhammā… parāmāsasampayuttehi dhammehi ye dhammā… parāmāsehi ceva
 
-parāmaṭṭhehi ca dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā ^1918
+parāmaṭṭhehi ca dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā
 
-pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^1919
+pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1920
+khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-502. Parāmaṭṭhehi dhammehi ye dhammā… parāmāsavippayuttehi dhammehi ye dhammā… ^1921
+502. Parāmaṭṭhehi dhammehi ye dhammā… parāmāsavippayuttehi dhammehi ye dhammā…
 
-parāmaṭṭhehi ceva no ca parāmāsehi dhammehi ye dhammā… parāmāsavippayuttehi parāmaṭṭhehi ^1922
+parāmaṭṭhehi ceva no ca parāmāsehi dhammehi ye dhammā… parāmāsavippayuttehi parāmaṭṭhehi
 
-dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi ^1923
+dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1924
+saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-503. Aparāmaṭṭhehi dhammehi ye dhammā… parāmāsavippayuttehi aparāmaṭṭhehi dhammehi ye ^1925
+503. Aparāmaṭṭhehi dhammehi ye dhammā… parāmāsavippayuttehi aparāmaṭṭhehi dhammehi ye
 
-dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi ^1926
+dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1927
+asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-504. Sārammaṇehi dhammehi ye dhammā… cittehi dhammehi ye dhammā… cetasikehi dhammehi ^1928
+504. Sārammaṇehi dhammehi ye dhammā… cittehi dhammehi ye dhammā… cetasikehi dhammehi
 
-ye dhammā… cittasampayuttehi dhammehi ye dhammā… cittasaṃsaṭṭhehi dhammehi ye dhammā… ^1929
+ye dhammā… cittasampayuttehi dhammehi ye dhammā… cittasaṃsaṭṭhehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye ^1930
+cittasaṃsaṭṭhasamuṭṭhānehi dhammehi ye dhammā… cittasaṃsaṭṭhasamuṭṭhānasahabhūhi dhammehi ye
 
-dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā vippayuttā… te dhammā ^1931
+dhammā… cittasaṃsaṭṭhasamuṭṭhānānuparivattīhi dhammehi ye dhammā vippayuttā… te dhammā
 
-asaṅkhataṃ khandhato ṭhapetvā ekena khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā. ^1932
+asaṅkhataṃ khandhato ṭhapetvā ekena khandhena ekādasahāyatanehi ekādasahi dhātūhi saṅgahitā.
 
-Katihi asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā. ^1933
+Katihi asaṅgahitā? Catūhi khandhehi ekenāyatanena sattahi dhātūhi asaṅgahitā.
 
-505. Anārammaṇehi dhammehi ye dhammā… cittavippayuttehi dhammehi ye dhammā… ^1934
+505. Anārammaṇehi dhammehi ye dhammā… cittavippayuttehi dhammehi ye dhammā…
 
-cittasaṃsaṭṭhehi dhammehi ye dhammā… upādādhammehi ye dhammā… anupādinnehi dhammehi ye ^1935
+cittasaṃsaṭṭhehi dhammehi ye dhammā… upādādhammehi ye dhammā… anupādinnehi dhammehi ye
 
-dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi ^1936
+dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1937
+asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-506. Upādinnehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi ^1938
+506. Upādinnehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi
 
-tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi ^1939
+tīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi pannarasahi dhātūhi
 
-asaṅgahitā. ^1940
+asaṅgahitā.
 
-507. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… saṃkiliṭṭhehi ^1941
+507. Upādānehi dhammehi ye dhammā… kilesehi dhammehi ye dhammā… saṃkiliṭṭhehi
 
-dhammehi ye dhammā… kilesasampayuttehi dhammehi ye dhammā… kilesehi ceva saṃkilesikehi ca ^1942
+dhammehi ye dhammā… kilesasampayuttehi dhammehi ye dhammā… kilesehi ceva saṃkilesikehi ca
 
-dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… saṃkiliṭṭhehi ceva no ^1943
+dhammehi ye dhammā… kilesehi ceva saṃkiliṭṭhehi ca dhammehi ye dhammā… saṃkiliṭṭhehi ceva no
 
-ca kilesehi dhammehi ye dhammā… kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā… ^1944
+ca kilesehi dhammehi ye dhammā… kilesehi ceva kilesasampayuttehi ca dhammehi ye dhammā…
 
-kilesasampayuttehi ceva no ca kilesehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ ^1945
+kilesasampayuttehi ceva no ca kilesehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ
 
-khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi ^1946
+khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā. ^1947
+asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-508. Saṃkilesikehi dhammehi ye dhammā… asaṃkiliṭṭhehi dhammehi ye dhammā… ^1948
+508. Saṃkilesikehi dhammehi ye dhammā… asaṃkiliṭṭhehi dhammehi ye dhammā…
 
-kilesavippayuttehi dhammehi ye dhammā… saṃkilesikehi ceva no ca kilesehi dhammehi ye dhammā… ^1949
+kilesavippayuttehi dhammehi ye dhammā… saṃkilesikehi ceva no ca kilesehi dhammehi ye dhammā…
 
-kilesavippayuttehi saṃkilesikehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi ^1950
+kilesavippayuttehi saṃkilesikehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi
 
-dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi ^1951
+dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi
 
-dhātūhi asaṅgahitā. ^1952
+dhātūhi asaṅgahitā.
 
-509. Asaṃkilesikehi dhammehi ye dhammā… kilesavippayuttehi asaṃkilesikehi dhammehi ye ^1953
+509. Asaṃkilesikehi dhammehi ye dhammā… kilesavippayuttehi asaṃkilesikehi dhammehi ye
 
-dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi ^1954
+dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi dhātūhi saṅgahitā. Katihi
 
-asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1955
+asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-510. Dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi dhammehi ye ^1956
+510. Dassanena pahātabbehi dhammehi ye dhammā… bhāvanāya pahātabbehi dhammehi ye
 
-dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya pahātabbahetukehi ^1957
+dhammā… dassanena pahātabbahetukehi dhammehi ye dhammā… bhāvanāya pahātabbahetukehi
 
-dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^1958
+dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^1959
+dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi na kāhici dhātūhi asaṅgahitā. ^1960
+āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-511. Na dassanena pahātabbehi dhammehi ye dhammā… na bhāvanāya pahātabbehi dhammehi ye ^1961
+511. Na dassanena pahātabbehi dhammehi ye dhammā… na bhāvanāya pahātabbehi dhammehi ye
 
-dhammā… na dassanena pahātabbahetukehi dhammehi ye dhammā… na bhāvanāya pahātabbahetukehi ^1962
+dhammā… na dassanena pahātabbahetukehi dhammehi ye dhammā… na bhāvanāya pahātabbahetukehi
 
-dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi ^1963
+dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1964
+saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-512. Savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye dhammā vippayuttā… te ^1965
+512. Savitakkehi dhammehi ye dhammā… savicārehi dhammehi ye dhammā vippayuttā… te
 
-dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi sattarasahi dhātūhi ^1966
+dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi sattarasahi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā asaṅgahitā. ^1967
+saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi ekāya dhātuyā asaṅgahitā.
 
-513. Sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā… sukhasahagatehi ^1968
+513. Sappītikehi dhammehi ye dhammā… pītisahagatehi dhammehi ye dhammā… sukhasahagatehi
 
-dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi ^1969
+dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi
 
-dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici ^1970
+dvādasahāyatanehi aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici
 
-āyatanehi na kāhici dhātūhi asaṅgahitā. ^1971
+āyatanehi na kāhici dhātūhi asaṅgahitā.
 
-514. Upekkhāsahagatehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato ^1972
+514. Upekkhāsahagatehi dhammehi ye dhammā vippayuttā… te dhammā asaṅkhataṃ khandhato
 
-ṭhapetvā pañcahi khandhehi dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici ^1973
+ṭhapetvā pañcahi khandhehi dvādasahāyatanehi terasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici
 
-khandhehi na kehici āyatanehi pañcahi dhātūhi asaṅgahitā. ^1974
+khandhehi na kehici āyatanehi pañcahi dhātūhi asaṅgahitā.
 
-515. Kāmāvacarehi dhammehi ye dhammā… pariyāpannehi dhammehi ye dhammā… sauttarehi ^1975
+515. Kāmāvacarehi dhammehi ye dhammā… pariyāpannehi dhammehi ye dhammā… sauttarehi
 
-dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi ^1976
+dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi
 
-saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1977
+saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-516. Na kāmāvacarehi dhammehi ye dhammā… apariyāpannehi dhammehi ye dhammā… ^1978
+516. Na kāmāvacarehi dhammehi ye dhammā… apariyāpannehi dhammehi ye dhammā…
 
-anuttarehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi ^1979
+anuttarehi dhammehi ye dhammā vippayuttā… te dhammā catūhi khandhehi dvīhāyatanehi aṭṭhahi
 
-dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā. ^1980
+dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena dasahāyatanehi dasahi dhātūhi asaṅgahitā.
 
-517. Rūpāvacarehi dhammehi ye dhammā… arūpāvacarehi dhammehi ye dhammā… niyyānikehi ^1981
+517. Rūpāvacarehi dhammehi ye dhammā… arūpāvacarehi dhammehi ye dhammā… niyyānikehi
 
-dhammehi ye dhammā… niyatehi dhammehi ye dhammā … saraṇehi dhammehi ye dhammā ^1982
+dhammehi ye dhammā… niyatehi dhammehi ye dhammā … saraṇehi dhammehi ye dhammā
 
-vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi ^1983
+vippayuttā… te dhammā asaṅkhataṃ khandhato ṭhapetvā pañcahi khandhehi dvādasahāyatanehi
 
-aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici ^1984
+aṭṭhārasahi dhātūhi saṅgahitā. Katihi asaṅgahitā? Na kehici khandhehi na kehici āyatanehi na kāhici
 
-dhātūhi asaṅgahitā. ^1985
+dhātūhi asaṅgahitā.
 
-518. Na rūpāvacarehi dhammehi ye dhammā… na arūpāvacarehi dhammehi ye dhammā… ^1986
+518. Na rūpāvacarehi dhammehi ye dhammā… na arūpāvacarehi dhammehi ye dhammā…
 
-aniyyānikehi dhammehi ye dhammā… aniyatehi dhammehi ye dhammā… araṇehi dhammehi ye ^1987
+aniyyānikehi dhammehi ye dhammā… aniyatehi dhammehi ye dhammā… araṇehi dhammehi ye
 
-dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā ^1988
+dhammā vippayuttā, te dhammā katihi khandhehi katihāyatanehi katihi dhātūhi saṅgahitā? Te dhammā
 
-catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena ^1989
+catūhi khandhehi dvīhāyatanehi dvīhi dhātūhi saṅgahitā. Katihi asaṅgahitā? Ekena khandhena
 
-dasahāyatanehi soḷasahi dhātūhi asaṅgahitā. ^1990
+dasahāyatanehi soḷasahi dhātūhi asaṅgahitā.
 
-Dhammāyatanaṃ dhammadhātu, atha jīvitaṃ nāmarūpaṃ; ^1991
+Dhammāyatanaṃ dhammadhātu, atha jīvitaṃ nāmarūpaṃ;
 
-Saḷāyatanaṃ jātijarāmataṃ, dve ca tike na labbhare. ^1992
+Saḷāyatanaṃ jātijarāmataṃ, dve ca tike na labbhare.
 
-Paṭhamantare satta ca, gocchake dasa aparante; ^1993
+Paṭhamantare satta ca, gocchake dasa aparante;
 
-Cuddasa cha ca matthake, iccete sattacattālīsa dhammā; ^1994
+Cuddasa cha ca matthake, iccete sattacattālīsa dhammā;
 
-Samucchede na labbhanti, moghapucchakena cāti. ^1995
+Samucchede na labbhanti, moghapucchakena cāti.
 
-Vippayuttenasaṅgahitāsaṅgahitapadaniddeso cuddasamo. ^1996
+Vippayuttenasaṅgahitāsaṅgahitapadaniddeso cuddasamo.
 
-Dhātukathāpakaraṇaṃ niṭṭhitaṃ. ^1997
+Dhātukathāpakaraṇaṃ niṭṭhitaṃ.

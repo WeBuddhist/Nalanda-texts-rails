@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 6
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation Urin9XLWWoySGIg0Qfanf — one block per segment, in span order"
+verse_id_format:
+segments: 6
+segmentation_source: "openpecha-v2 segmentation annotation Urin9XLWWoySGIg0Qfanf — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,20 +26,21 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: mvZP5HaJpjBNLRmKIDMjK
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: AjgySj0UTkYcxDyulh38R"
   - "segmentation: Urin9XLWWoySGIg0Qfanf"
 status: ingested
 ---
 
-# Ekādaśānanadhāraṇī ^0
+# Ekādaśānanadhāraṇī
 
-Namo ratnatrayāya ^1
+Namo ratnatrayāya
 
-Nama Aryajñānasāgaravairocanavyūharājāya tathāgataya ^2
+Nama Aryajñānasāgaravairocanavyūharājāya tathāgataya
 
-Namaḥ sarvatathagatebhyaḥ arhadbhyaḥ samyaksambuddhebhyaḥ ^3
+Namaḥ sarvatathagatebhyaḥ arhadbhyaḥ samyaksambuddhebhyaḥ
 
-Nama āryāvalokitesvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya ^4
+Nama āryāvalokitesvarāya bodhisattvāya mahāsattvāya mahākāruṇikāya
 
-Tadyathā - oṃ dhara dhara dhiri dhiri dhuru dhuru eṭṭe vaṭṭe cale cale ^5
+Tadyathā - oṃ dhara dhara dhiri dhiri dhuru dhuru eṭṭe vaṭṭe cale cale
 
-Pracale pracale kusume kusumavare ili mili citijvalamapanaye svāhā ^6
+Pracale pracale kusume kusumavare ili mili citijvalamapanaye svāhā

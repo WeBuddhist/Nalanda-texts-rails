@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 43
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation Ag3WAHzwuN2P6144EVHv3 — one block per segment, in span order"
+verse_id_format:
+segments: 43
+segmentation_source: "openpecha-v2 segmentation annotation Ag3WAHzwuN2P6144EVHv3 — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,90 +28,90 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Mettā Sutta ^0
+# Mettā Sutta
 
-Khuddakapāṭha 9 ^1
+Khuddakapāṭha 9
 
-Mettasutta ^2
+Mettasutta
 
-Karaṇīyamatthakusalena, ^3
+Karaṇīyamatthakusalena,
 
-Yanta santaṁ padaṁ abhisamecca; ^4
+Yanta santaṁ padaṁ abhisamecca;
 
-Sakko ujū ca suhujū ca, ^5
+Sakko ujū ca suhujū ca,
 
-Sūvaco cassa mudu anatimānī. ^6
+Sūvaco cassa mudu anatimānī.
 
-Santussako ca subharo ca, ^7
+Santussako ca subharo ca,
 
-Appakicco ca sallahukavutti; ^8
+Appakicco ca sallahukavutti;
 
-Santindriyo ca nipako ca, ^9
+Santindriyo ca nipako ca,
 
-Appagabbho kulesvananugiddho. ^10
+Appagabbho kulesvananugiddho.
 
-Na ca khuddamācare kiñci, ^11
+Na ca khuddamācare kiñci,
 
-Yena viññū pare upavadeyyuṁ; ^12
+Yena viññū pare upavadeyyuṁ;
 
-Sukhino va khemino hontu, ^13
+Sukhino va khemino hontu,
 
-Sabbasattā bhavantu sukhitattā. ^14
+Sabbasattā bhavantu sukhitattā.
 
-Ye keci pāṇabhūtatthi, ^15
+Ye keci pāṇabhūtatthi,
 
-Tasā vā thāvarā vanavasesā; ^16
+Tasā vā thāvarā vanavasesā;
 
-Dīghā vā ye va mahantā, ^17
+Dīghā vā ye va mahantā,
 
-Majjhimā rassakā aṇukathūlā. ^18
+Majjhimā rassakā aṇukathūlā.
 
-Diṭṭhā vā ye va adiṭṭhā, ^19
+Diṭṭhā vā ye va adiṭṭhā,
 
-Ye va dūre vasanti avidūre; ^20
+Ye va dūre vasanti avidūre;
 
-Bhūtā va sambhavesī va, ^21
+Bhūtā va sambhavesī va,
 
-Sabbasattā bhavantu sukhitattā. ^22
+Sabbasattā bhavantu sukhitattā.
 
-Na paro paraṁ nikubbetha, ^23
+Na paro paraṁ nikubbetha,
 
-Nātimaññetha katthaci na kañci; ^24
+Nātimaññetha katthaci na kañci;
 
-Byārosanā paṭighasañña, ^25
+Byārosanā paṭighasañña,
 
-Nāññamaññassa dukkhamiccheyya. ^26
+Nāññamaññassa dukkhamiccheyya.
 
-Mātā yathā niyaṁ puttam ^27
+Mātā yathā niyaṁ puttam
 
-Āyusā ekaputtamanurakkhe; ^28
+Āyusā ekaputtamanurakkhe;
 
-Evampi sabbabhūtesu, ^29
+Evampi sabbabhūtesu,
 
-Mānasaṁ bhāvaye aparimāṇaṁ. ^30
+Mānasaṁ bhāvaye aparimāṇaṁ.
 
-Mettañca sabbalokasmi, ^31
+Mettañca sabbalokasmi,
 
-Mānasaṁ bhāvaye aparimāṇaṁ; ^32
+Mānasaṁ bhāvaye aparimāṇaṁ;
 
-Uddhaṁ adho ca tiriyañca, ^33
+Uddhaṁ adho ca tiriyañca,
 
-Asambādhaṁ averamasapattaṁ. ^34
+Asambādhaṁ averamasapattaṁ.
 
-Tiṭṭhaṁ caraṁ nisinno va, ^35
+Tiṭṭhaṁ caraṁ nisinno va,
 
-Sayāno yāvatāssa vitamiddho; ^36
+Sayāno yāvatāssa vitamiddho;
 
-Etaṁ satiṁ adhiṭṭheyya, ^37
+Etaṁ satiṁ adhiṭṭheyya,
 
-Brahmametaṁ vihāramidhamāhu. ^38
+Brahmametaṁ vihāramidhamāhu.
 
-Diṭṭhiñca anupaggamma, ^39
+Diṭṭhiñca anupaggamma,
 
-Sīlavā dassanena sampanno; ^40
+Sīlavā dassanena sampanno;
 
-Kāmesu vinaya gedhaṁ, ^41
+Kāmesu vinaya gedhaṁ,
 
-Na hi jātuggabbhaseyya punaretīti. ^42
+Na hi jātuggabbhaseyya punaretīti.
 
-Mettasuttaṁ. ^43
+Mettasuttaṁ.

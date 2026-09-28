@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 2
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation tpBopht4drddMp1lOpuXr — one block per segment, in span order"
+verse_id_format:
+segments: 2
+segmentation_source: "openpecha-v2 segmentation annotation tpBopht4drddMp1lOpuXr — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,12 +26,13 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: kj8dljKGdBUuL4GkkVXbB
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: ATT8xb5g1siDcNO3n4llB"
   - "segmentation: tpBopht4drddMp1lOpuXr"
 status: ingested
 ---
 
-# Dedication - Bodhicharyāvatāra 10:55 ^0
+# Dedication - Bodhicharyāvatāra 10:55
 
-Akāśasya sthitiḥ yāvat, yāvacca jagataḥ sthitiḥ ^1
+Akāśasya sthitiḥ yāvat, yāvacca jagataḥ sthitiḥ
 
-Tāvan mama sthitiḥ bhūyāt jagat dukhāni nighnatah ।। 10:55 ^2
+Tāvan mama sthitiḥ bhūyāt jagat dukhāni nighnatah ।। 10:55

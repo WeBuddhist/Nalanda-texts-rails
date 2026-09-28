@@ -8,9 +8,11 @@ language: Tibetan
 script: Unicode Tibetan
 file_type: root-text
 lang_tag: bo
-total_verses: 8
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation 66dK51SKWQbtgE5CLdsoS — one block per segment, in span order"
+verse_id_format:
+segments: 8
+segmentation_source: "openpecha-v2 segmentation annotation 66dK51SKWQbtgE5CLdsoS — one paragraph per segment, in span order"
+durchen_notes: 1
+durchen_source: "openpecha-v2 durchen annotation Vk4V2n8Hcnzz3UeP3hxN9 — variant readings as footnotes placed right after each annotated span; each note reads 'lemma] ༼edition sigla༽ variant'"
 edition_type: critical
 license: Public Domain Mark
 copyright: Public domain
@@ -31,20 +33,22 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# ཡན་ལག་གི་ཉེས་པ་བདུན་པ། ^0
+# ཡན་ལག་གི་ཉེས་པ་བདུན་པ།
 
-༄༅། །བླ་མ་རྣམས་ལ་ཕྱག་འཚལ་ལོ། །དམ་པ་ཉེར་བསྟན་ཅིག་ཤོས་མིན། ། ^1
+༄༅། །བླ་མ་རྣམས་ལ་ཕྱག་འཚལ་ལོ། །དམ་པ་ཉེར་བསྟན་[^1]ཅིག་ཤོས་མིན། །
 
-སྣོད་དང་ལྡན་པ་རྣམ་པར་བརྟག ། ^2
+སྣོད་དང་ལྡན་པ་རྣམ་པར་བརྟག །
 
-འདོད་ཕྱིར་གཞན་ལ་གནོད་པ་སྤོང་། ། ^3
+འདོད་ཕྱིར་གཞན་ལ་གནོད་པ་སྤོང་། །
 
-དཀོན་མཆོག་ལ་སོགས་ནོར་ལ་མིན། ། ^4
+དཀོན་མཆོག་ལ་སོགས་ནོར་ལ་མིན། །
 
-གཞན་དོན་སྐད་ཅིག་ཡལ་མི་དོར། །བྱང་ཆུབ་མིན་པར་དགེ་མི་འཇུག ། ^5
+གཞན་དོན་སྐད་ཅིག་ཡལ་མི་དོར། །བྱང་ཆུབ་མིན་པར་དགེ་མི་འཇུག །
 
-རྣམ་ཤེས་འཕོ་བའི་དེ་ཉིད་མཁས། ། ^6
+རྣམ་ཤེས་འཕོ་བའི་དེ་ཉིད་མཁས། །
 
-གཞན་དུ་ཡན་ལག་ཉེས་པའོ། ། ^7
+གཞན་དུ་ཡན་ལག་ཉེས་པའོ། །
 
-ཡན་ལག་གི་ཉེས་པ་བདུན་པ་རྫོགས་སོ། ། ^8
+ཡན་ལག་གི་ཉེས་པ་བདུན་པ་རྫོགས་སོ། །
+
+[^1]: བསྟན་] ༼སྣར་༽༼པེ་༽བསྟེན་

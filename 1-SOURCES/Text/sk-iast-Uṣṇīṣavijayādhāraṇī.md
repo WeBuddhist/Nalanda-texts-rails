@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 40
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation Div4YV4obZnmJhrbuGPGk — one block per segment, in span order"
+verse_id_format:
+segments: 40
+segmentation_source: "openpecha-v2 segmentation annotation Div4YV4obZnmJhrbuGPGk — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,88 +26,89 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: mvZP5HaJpjBNLRmKIDMjK
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: WPE0frrQYRcvYGlfxSMow"
   - "segmentation: Div4YV4obZnmJhrbuGPGk"
 status: ingested
 ---
 
-# Uṣṇīṣavijayādhāraṇī ^0
+# Uṣṇīṣavijayādhāraṇī
 
-Oṃ namo bhagavate sarvatrailokyaprativiśiṣṭāya ׀ buddhaya te namaḥ ׀ ^1
+Oṃ namo bhagavate sarvatrailokyaprativiśiṣṭāya ׀ buddhaya te namaḥ ׀
 
-Tadyathā - oṃ bhruṃ bhruṃ bhrūṃ śodhaya śodhaya viśodhaya viśodhaya ^2
+Tadyathā - oṃ bhruṃ bhruṃ bhrūṃ śodhaya śodhaya viśodhaya viśodhaya
 
-Asamasamantāvabhāsaspharaṇagatigaganasvabhāvaviśuddhe; (Usņīsavijayapariśuddhe) ^3
+Asamasamantāvabhāsaspharaṇagatigaganasvabhāvaviśuddhe; (Usņīsavijayapariśuddhe)
 
-Abhiṣiñcantu mām; sarvatathāgatāḥ ^4
+Abhiṣiñcantu mām; sarvatathāgatāḥ
 
-Sugatapravacana Amṛta - abhisekaiḥ ^5
+Sugatapravacana Amṛta - abhisekaiḥ
 
-mahāmudrāmantrapadaiḥ; oṃ āhara āhara ^6
+mahāmudrāmantrapadaiḥ; oṃ āhara āhara
 
-mama ayussamdharani; śodhaya śodhaya ^7
+mama ayussamdharani; śodhaya śodhaya
 
-viśodhaya viśodhaya gaganasvabhāvaviśuddhe ^8
+viśodhaya viśodhaya gaganasvabhāvaviśuddhe
 
-Uṣṇīṣavijayapariśuddhe sahasraraśmisañchodite ^9
+Uṣṇīṣavijayapariśuddhe sahasraraśmisañchodite
 
-Sarvatathāgata - avalokini; ṣatpāramitāparipūriņi ^10
+Sarvatathāgata - avalokini; ṣatpāramitāparipūriņi
 
-Sarvatathāgatamāte; daśabhūmipratisthite ^11
+Sarvatathāgatamāte; daśabhūmipratisthite
 
-Sarvatathāgatahṛadaya adhiṣṭhāna-adhisthite om mudre mudre mahāmudre ^12
+Sarvatathāgatahṛadaya adhiṣṭhāna-adhisthite om mudre mudre mahāmudre
 
-vajrakayāsamhatanapariśuddhe; sarvakarma - āvaraṇaviśuddhe ^13
+vajrakayāsamhatanapariśuddhe; sarvakarma - āvaraṇaviśuddhe
 
-pratinivartaya mama ayurviśuddhe; Sarvatathāgatasamaya ^14
+pratinivartaya mama ayurviśuddhe; Sarvatathāgatasamaya
 
-adhisthāna-adhisthite ^15
+adhisthāna-adhisthite
 
-oṃ muni muni mahāmuni; vimuni vimuni mahāvimuni ^16
+oṃ muni muni mahāmuni; vimuni vimuni mahāvimuni
 
-mati mati mahāmati; mamati sumati tathatā ^17
+mati mati mahāmati; mamati sumati tathatā
 
-bhūtakotipariśuddhe; visphuṭabuddhi śuddhe ^18
+bhūtakotipariśuddhe; visphuṭabuddhi śuddhe
 
-he he jaya jaya; vijaya vijaya ^19
+he he jaya jaya; vijaya vijaya
 
-smara smara; sphara sphara ^20
+smara smara; sphara sphara
 
-sphāraya sphāraya; sarva buddha adhisthāna-adhisthite ^21
+sphāraya sphāraya; sarva buddha adhisthāna-adhisthite
 
-oṃ suddhe śuddhe; buddhe buddhe vajre vajre ^22
+oṃ suddhe śuddhe; buddhe buddhe vajre vajre
 
-mahāvajre suvajre; vajragarbhe jayagarbhe ^23
+mahāvajre suvajre; vajragarbhe jayagarbhe
 
-vijayagarbhe; vajrajvālāgarbhe ^24
+vijayagarbhe; vajrajvālāgarbhe
 
-vajrodbhave; vajrasambhave ^25
+vajrodbhave; vajrasambhave
 
-vajre vajrini; vajram bhavatu mama śarīram | ^26
+vajre vajrini; vajram bhavatu mama śarīram |
 
-sarvasattvānāñcakāyapariśuddhirbhavatu; me sadā sarvagatipariśuddhiśca ^27
+sarvasattvānāñcakāyapariśuddhirbhavatu; me sadā sarvagatipariśuddhiśca
 
-sarvatathāgatāśca mām; samāśvāsayantu ^28
+sarvatathāgatāśca mām; samāśvāsayantu
 
-oṃ buddhe buddhe; siddhe siddhe ^29
+oṃ buddhe buddhe; siddhe siddhe
 
-bodhaya bodhaya; vibodhaya vibodhaya ^30
+bodhaya bodhaya; vibodhaya vibodhaya
 
-mocaya mocaya; vimocaya vimocaya ^31
+mocaya mocaya; vimocaya vimocaya
 
-sodhaya śodhaya; viśodhaya viśodhaya ^32
+sodhaya śodhaya; viśodhaya viśodhaya
 
-samantan mocaya mocaya; samantaraśmipariśuddhe ^33
+samantan mocaya mocaya; samantaraśmipariśuddhe
 
-sarvatathāgatahṛdaya adhisthāna-adhisthite; ^34
+sarvatathāgatahṛdaya adhisthāna-adhisthite;
 
-oṃ mudre mudre mahāmudre mahāmudrāmantrapadaiḥ svāhā | ^35
+oṃ mudre mudre mahāmudre mahāmudrāmantrapadaiḥ svāhā |
 
-oṃ bhrūṃ svāhā | ^36
+oṃ bhrūṃ svāhā |
 
-Hrdayamantraḥ ^37
+Hrdayamantraḥ
 
-Om amṛta ayurdade svāhā | ^38
+Om amṛta ayurdade svāhā |
 
-Upahṛdayamantraḥ ^39
+Upahṛdayamantraḥ
 
-Oṃ Āh hūm hrām hriḥ aṃ aḥ rakṣa rakṣa māṃ sarvasattvāṃśca svāhā | ^40
+Oṃ Āh hūm hrām hriḥ aṃ aḥ rakṣa rakṣa māṃ sarvasattvāṃśca svāhā |

@@ -1,0 +1,27 @@
+{
+ "id": "kU6bh2wQQcIHEXqKoOlGo",
+ "type": "search_segmentation",
+ "data": [
+  {
+   "id": "QqCilCckWnlfoYWaNsNE2",
+   "span": {
+    "start": 0,
+    "end": 56151
+   }
+  },
+  {
+   "id": "wLpwEkKEryDAfVVaqYNkB",
+   "span": {
+    "start": 56151,
+    "end": 114510
+   }
+  },
+  {
+   "id": "jofIC1YfkuKGIWpJldVHg",
+   "span": {
+    "start": 114510,
+    "end": 148483
+   }
+  }
+ ]
+}

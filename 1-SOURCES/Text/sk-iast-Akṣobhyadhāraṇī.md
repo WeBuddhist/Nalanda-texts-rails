@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 2
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation rUSmSLbJJbyYfGMrgCG0U — one block per segment, in span order"
+verse_id_format:
+segments: 2
+segmentation_source: "openpecha-v2 segmentation annotation rUSmSLbJJbyYfGMrgCG0U — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,12 +26,13 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: mvZP5HaJpjBNLRmKIDMjK
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: zcqBKc41FGVLzovqqacwV"
   - "segmentation: rUSmSLbJJbyYfGMrgCG0U"
 status: ingested
 ---
 
-# Akṣobhyadhāraṇī ^0
+# Akṣobhyadhāraṇī
 
-Namo ratnatrayāya; Oṃ namo bhagavate akṣobhyāya tathāgatāyārhate samyaksambuddhāya ׀ ^1
+Namo ratnatrayāya; Oṃ namo bhagavate akṣobhyāya tathāgatāyārhate samyaksambuddhāya ׀
 
-Tadyathā - Oṃ kaṃkani kaṃkani rocani rocani troṭani troṭani Trāsani trāsani pratihana pratihana Sarvakarmaparamparāni me sarvasattvānāñca svāhā ׀׀ ^2
+Tadyathā - Oṃ kaṃkani kaṃkani rocani rocani troṭani troṭani Trāsani trāsani pratihana pratihana Sarvakarmaparamparāni me sarvasattvānāñca svāhā ׀׀

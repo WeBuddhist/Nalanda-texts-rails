@@ -6,9 +6,9 @@ language: Tibetan
 script: Unicode Tibetan
 file_type: root-text
 lang_tag: bo
-total_verses: 4
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation nfViEVE15wxlkVvqMWqkp — one block per segment, in span order"
+verse_id_format:
+segments: 4
+segmentation_source: "openpecha-v2 segmentation annotation nfViEVE15wxlkVvqMWqkp — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -24,16 +24,17 @@ openpecha_v2_language: bo
 openpecha_v2_category_id: dJpr4gMF72E4UpCnJ84sh
 openpecha_v2_date: "2025-11-25"
 openpecha_v2_annotations:
+  - "search_segmentation: YHHv7jN8pCBYbkRugzh0i"
   - "segmentation: nfViEVE15wxlkVvqMWqkp"
 status: ingested
 ---
 
-# སྤྱན་འདྲེན། ^0
+# སྤྱན་འདྲེན།
 
-སྤྱན་འདྲེན། ^1
+སྤྱན་འདྲེན།
 
-མ་ལུས་སེམས་ཅན་ཀུན་གྱི་མགོན་གྱུར་ཅིང༌། །བདུད་སྡེ་དཔུང་བཅས་མི་བཟད་འཇོམས་མཛད་ལྷ། །དངོས་རྣམས་མ་ལུས་ཇི་བཞིན་མཁྱེན་གྱུར་པའི། །བཅོམ་ལྡན་འཁོར་བཅས་གནས་འདིར་གཤེགས་སུ་གསོལ། ^2
+མ་ལུས་སེམས་ཅན་ཀུན་གྱི་མགོན་གྱུར་ཅིང༌། །བདུད་སྡེ་དཔུང་བཅས་མི་བཟད་འཇོམས་མཛད་ལྷ། །དངོས་རྣམས་མ་ལུས་ཇི་བཞིན་མཁྱེན་གྱུར་པའི། །བཅོམ་ལྡན་འཁོར་བཅས་གནས་འདིར་གཤེགས་སུ་གསོལ།
 
-བཅོམ་ལྡན་བསྐལ་པ་གྲངས་མེད་དུ་མ་རུ། །འགྲོ་ལ་བརྩེ་ཕྱིར་ཐུགས་རྗེས་རྣམ་སྦྱངས་ཤིང༌། །སྨོན་ལམ་རྒྱ་ཆེན་དགོངས་པ་ཡོངས་རྫོགས་པ། །ཁྱེད་བཞེད་འགྲོ་དོན་མཛད་དུས་འདི་ལགས་ན། ། ^3
+བཅོམ་ལྡན་བསྐལ་པ་གྲངས་མེད་དུ་མ་རུ། །འགྲོ་ལ་བརྩེ་ཕྱིར་ཐུགས་རྗེས་རྣམ་སྦྱངས་ཤིང༌། །སྨོན་ལམ་རྒྱ་ཆེན་དགོངས་པ་ཡོངས་རྫོགས་པ། །ཁྱེད་བཞེད་འགྲོ་དོན་མཛད་དུས་འདི་ལགས་ན། །
 
-དེ་ཕྱིར་ཆོས་དབྱིངས་ཕོ་བྲང་ལྷུན་གྲུབ་ནས། །རྫུ་འཕྲུལ་བྱིན་རླབས་སྣ་ཚོགས་སྟོན་མཛད་ཅིང་། །མཐའ་ཡས་སེམས་ཅན་ཚོགས་རྣམས་བསྒྲལ་བའི་ཕྱིར། །ཡོངས་དག་འཁོར་དང་བཅས་ཏེ་གཤེགས་སུ་གསོལ། ། ^4
+དེ་ཕྱིར་ཆོས་དབྱིངས་ཕོ་བྲང་ལྷུན་གྲུབ་ནས། །རྫུ་འཕྲུལ་བྱིན་རླབས་སྣ་ཚོགས་སྟོན་མཛད་ཅིང་། །མཐའ་ཡས་སེམས་ཅན་ཚོགས་རྣམས་བསྒྲལ་བའི་ཕྱིར། །ཡོངས་དག་འཁོར་དང་བཅས་ཏེ་གཤེགས་སུ་གསོལ། །

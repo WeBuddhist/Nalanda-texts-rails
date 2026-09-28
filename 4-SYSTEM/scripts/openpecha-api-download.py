@@ -37,10 +37,11 @@ from datetime import datetime, timezone
 VAULT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 DEFAULT_BASE = "https://api-aq25662yyq-uc.a.run.app"   # prod, pecha-backend project
 DEFAULT_OUT = os.path.join(VAULT, "0-INBOX", "raw-data", "openpecha-api")
-# Annotation types fetched per instance. The instance endpoint never lists
-# alignment annotations; search_segmentation is a search index, not the text's
-# own segmentation, so it is left out.
-DEFAULT_ANNOTATIONS = "segmentation,table_of_contents,pagination,bibliography,version,durchen"
+# Annotation types fetched per instance: "all" fetches every type the instance
+# endpoint lists (segmentation, search_segmentation, durchen, bibliography,
+# pagination, table_of_contents, …). The endpoint never lists alignment
+# annotations — those belong to translation pairs, not to a root text.
+DEFAULT_ANNOTATIONS = "all"
 
 _print_lock = threading.Lock()
 
@@ -99,7 +100,7 @@ def download_text(base, out, text, ann_types, force):
         detail = get_or_load(base, f"/v2/instances/{q(iid)}?content=true&annotation=true",
                              os.path.join(tdir, "instances", f"{iid}.json"), force)
         for ann in detail.get("annotations") or []:
-            if ann.get("type") not in ann_types:
+            if "all" not in ann_types and ann.get("type") not in ann_types:
                 continue
             aid = ann["annotation_id"]
             get_or_load(base, f"/v2/annotations/{q(aid)}",
@@ -161,17 +162,26 @@ def main():
             if done % 25 == 0 or done == len(selected):
                 log(f"{done}/{len(selected)} texts ({len(failures)} failed)")
 
-    save(os.path.join(a.out, "manifest.json"), {
+    # A resumed run only adds files, so keep the first run's dates at the top
+    # level (they date the content) and append this run to the history.
+    mpath = os.path.join(a.out, "manifest.json")
+    old = json.load(open(mpath, encoding="utf-8")) if os.path.exists(mpath) else {}
+    finished = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    runs = old.get("runs") or ([{k: old[k] for k in ("started", "finished", "annotation_types") if k in old}] if old else [])
+    runs.append({"started": started, "finished": finished, "annotation_types": sorted(ann_types),
+                 "force": a.force, "failures": len(failures)})
+    save(mpath, {
         "api_base": a.base,
         "api_version": version,
         "backend": "openpecha-backend main branch (Firebase project pecha-backend, prod)",
-        "started": started,
-        "finished": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "started": started if a.force or not old else old.get("started", started),
+        "finished": finished if a.force or not old else old.get("finished", finished),
         "types": sorted(types),
         "annotation_types": sorted(ann_types),
         "texts_listed": len(texts),
         "texts_selected": len(selected),
         "failures": failures,
+        "runs": runs,
     })
     if failures:
         sys.exit(f"{len(failures)} text(s) failed — re-run to resume")

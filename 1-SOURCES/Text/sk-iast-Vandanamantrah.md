@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 1
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation gfFZCYWKdEK8VHbNXLZkp — one block per segment, in span order"
+verse_id_format:
+segments: 1
+segmentation_source: "openpecha-v2 segmentation annotation gfFZCYWKdEK8VHbNXLZkp — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,10 +26,11 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: XXCrnI8aQlq3VyKctz0Bu
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: HICgxd9QCTTCc2RBR3p5W"
   - "segmentation: gfFZCYWKdEK8VHbNXLZkp"
 status: ingested
 ---
 
-# Vandanamantrah ^0
+# Vandanamantrah
 
-Oṃ namo mañjuśriye ׀ Namaḥ suśriye ׀ Nama uttamaśriye svāhā ׀׀ ^1
+Oṃ namo mañjuśriye ׀ Namaḥ suśriye ׀ Nama uttamaśriye svāhā ׀׀

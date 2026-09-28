@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 5
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation p7lEmBgtQU9JYrfy2syno — one block per segment, in span order"
+verse_id_format:
+segments: 5
+segmentation_source: "openpecha-v2 segmentation annotation p7lEmBgtQU9JYrfy2syno — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,14 +28,14 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Pañca‧Sīla ^0
+# Pañca‧Sīla
 
-Pāṇātipātā veramaṇī‧sikkhāpadaṃ samādiyāmi. ^1
+Pāṇātipātā veramaṇī‧sikkhāpadaṃ samādiyāmi.
 
-Adinnādānā veramaṇī‧sikkhāpadaṃ samādiyāmi. ^2
+Adinnādānā veramaṇī‧sikkhāpadaṃ samādiyāmi.
 
-Kāmesu micchācārā veramaṇī‧sikkhāpadaṃ samādiyāmi. ^3
+Kāmesu micchācārā veramaṇī‧sikkhāpadaṃ samādiyāmi.
 
-Musā‧vādā veramaṇī‧sikkhāpadaṃ samādiyāmi. ^4
+Musā‧vādā veramaṇī‧sikkhāpadaṃ samādiyāmi.
 
-Surā‧meraya‧majja‧pamādaṭṭhānā veramaṇī‧sikkhāpadaṃ samādiyāmi. ^5
+Surā‧meraya‧majja‧pamādaṭṭhānā veramaṇī‧sikkhāpadaṃ samādiyāmi.

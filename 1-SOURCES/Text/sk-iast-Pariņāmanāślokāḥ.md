@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 2
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation ToGDA8TF3ArzkCpEsT1FG — one block per segment, in span order"
+verse_id_format:
+segments: 2
+segmentation_source: "openpecha-v2 segmentation annotation ToGDA8TF3ArzkCpEsT1FG — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,12 +26,13 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: dJpr4gMF72E4UpCnJ84sh
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: DqtzUJyQnLon9X0z6UmMN"
   - "segmentation: ToGDA8TF3ArzkCpEsT1FG"
 status: ingested
 ---
 
-# Pariņāmanāślokāḥ ^0
+# Pariņāmanāślokāḥ
 
-Yānīḥa bhūtāni samāgatāni sthitāni bhūmāvathāntarīkṣe ^1
+Yānīḥa bhūtāni samāgatāni sthitāni bhūmāvathāntarīkṣe
 
-Kurvantu maitrīṃ satataṃ prajāsu divā ca ratrau ca carantu dharmaṃ ^2
+Kurvantu maitrīṃ satataṃ prajāsu divā ca ratrau ca carantu dharmaṃ

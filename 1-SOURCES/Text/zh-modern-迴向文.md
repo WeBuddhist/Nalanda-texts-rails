@@ -6,9 +6,9 @@ language: Modern Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh-modern
-total_verses: 18
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation PEKmiKQGurkxUVAzkzP4D — one block per segment, in span order"
+verse_id_format:
+segments: 18
+segmentation_source: "openpecha-v2 segmentation annotation PEKmiKQGurkxUVAzkzP4D — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,40 +28,40 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# 迴向文 ^0
+# 迴向文
 
-迴向文 ^1
+迴向文
 
-願以此福證得遍知果 ^2
+願以此福證得遍知果
 
-復能勝伏諸過之敵眾 ^3
+復能勝伏諸過之敵眾
 
-生老病死大海翻湧間 ^4
+生老病死大海翻湧間
 
-一切眾生皆能得解脫 ^5
+一切眾生皆能得解脫
 
-文殊師利勇猛智 ^6
+文殊師利勇猛智
 
-普賢慧行亦復然 ^7
+普賢慧行亦復然
 
-我今迴向諸善根 ^8
+我今迴向諸善根
 
-隨彼一切常修學 ^9
+隨彼一切常修學
 
-三世諸佛所稱歎 ^10
+三世諸佛所稱歎
 
-如是最勝諸大願 ^11
+如是最勝諸大願
 
-我今迴向諸善根 ^12
+我今迴向諸善根
 
-為得普賢殊勝行 ^13
+為得普賢殊勝行
 
-生生世世不離真實師 ^14
+生生世世不離真實師
 
-復能受用正法之妙財 ^15
+復能受用正法之妙財
 
-圓滿五道十地諸功德 ^16
+圓滿五道十地諸功德
 
-速疾證得金剛持果位 ^17
+速疾證得金剛持果位
 
-。 ^18
+。

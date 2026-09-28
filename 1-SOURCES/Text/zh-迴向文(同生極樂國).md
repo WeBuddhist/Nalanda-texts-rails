@@ -6,9 +6,9 @@ language: Literary Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh
-total_verses: 4
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation JLvlhfJilE0a4xSbBonDh — one block per segment, in span order"
+verse_id_format:
+segments: 4
+segmentation_source: "openpecha-v2 segmentation annotation JLvlhfJilE0a4xSbBonDh — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,12 +28,12 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# 迴向文(同生極樂國) ^0
+# 迴向文(同生極樂國)
 
-願以此功德。莊嚴佛淨土。 ^1
+願以此功德。莊嚴佛淨土。
 
-上報四重恩。下濟三途苦。 ^2
+上報四重恩。下濟三途苦。
 
-若有見聞者。悉發菩提心。 ^3
+若有見聞者。悉發菩提心。
 
-盡此一報身。同生極樂國。 ^4
+盡此一報身。同生極樂國。

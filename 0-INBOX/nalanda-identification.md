@@ -10,7 +10,7 @@ source_description: "Scratch triage by parallel review agents over 1-SOURCES/Tex
 
 **Nalanda-17 authorship:** no 360 · yes 356 · unknown 37 · maitreya 5
 
-`evidence` names where the attribution comes from: `metadata` (backend contribution), `colophon ^N` / `title ^N` (the text's own words at that block), or `knowledge` (the agent recognised the work).
+`evidence` names where the attribution comes from: `metadata` (backend contribution), `colophon ^N` / `title ^N` (the text's own words in its Nth segment paragraph — the source files carry no block IDs, so count paragraphs after the title, or look N up in `0-INBOX/raw-data/openpecha-api/block-maps/<text_id>.json`), or `knowledge` (the agent recognised the work).
 
 ## Summary by master
 

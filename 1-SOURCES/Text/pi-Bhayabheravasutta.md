@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 163
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation lZwgDv912kvjSIGRTSqLW — one block per segment, in span order"
+verse_id_format:
+segments: 163
+segmentation_source: "openpecha-v2 segmentation annotation lZwgDv912kvjSIGRTSqLW — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -24,334 +24,335 @@ openpecha_v2_language: pi
 openpecha_v2_category_id: rw8oWUd1WtwqeD2x0ZMSm
 openpecha_v2_date: "2026-04-08"
 openpecha_v2_annotations:
+  - "search_segmentation: 0J4zDs1K2FmeBPvuMpR5W"
   - "segmentation: lZwgDv912kvjSIGRTSqLW"
 status: ingested
 ---
 
-# Bhayabheravasutta ^0
+# Bhayabheravasutta
 
-Evaṁ me sutaṁ— ^1
+Evaṁ me sutaṁ—
 
-ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ^2
+ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
-Atha kho jāṇussoṇi brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. ^3
+Atha kho jāṇussoṇi brāhmaṇo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi.
 
-Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho jāṇussoṇi brāhmaṇo bhagavantaṁ etadavoca: Variant: sāraṇīyaṁ → sārāṇīyaṁ (bj, sya-all, pts1ed) ^4
+Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho jāṇussoṇi brāhmaṇo bhagavantaṁ etadavoca: Variant: sāraṇīyaṁ → sārāṇīyaṁ (bj, sya-all, pts1ed)
 
-“yeme, bho gotama, kulaputtā bhavantaṁ gotamaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā, bhavaṁ tesaṁ gotamo pubbaṅgamo, bhavaṁ tesaṁ gotamo bahukāro, bhavaṁ tesaṁ gotamo samādapetā; Variant: samādapetā → samādāpetā (?) ^5
+“yeme, bho gotama, kulaputtā bhavantaṁ gotamaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā, bhavaṁ tesaṁ gotamo pubbaṅgamo, bhavaṁ tesaṁ gotamo bahukāro, bhavaṁ tesaṁ gotamo samādapetā; Variant: samādapetā → samādāpetā (?)
 
-bhoto ca pana gotamassa sā janatā diṭṭhānugatiṁ āpajjatī”ti. ^6
+bhoto ca pana gotamassa sā janatā diṭṭhānugatiṁ āpajjatī”ti.
 
-“Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa. ^7
+“Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa.
 
-Ye te, brāhmaṇa, kulaputtā mamaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā, ahaṁ tesaṁ pubbaṅgamo, ahaṁ tesaṁ bahukāro, ahaṁ tesaṁ samādapetā; ^8
+Ye te, brāhmaṇa, kulaputtā mamaṁ uddissa saddhā agārasmā anagāriyaṁ pabbajitā, ahaṁ tesaṁ pubbaṅgamo, ahaṁ tesaṁ bahukāro, ahaṁ tesaṁ samādapetā;
 
-mama ca pana sā janatā diṭṭhānugatiṁ āpajjatī”ti. ^9
+mama ca pana sā janatā diṭṭhānugatiṁ āpajjatī”ti.
 
-“Durabhisambhavāni hi kho, bho gotama, araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ekatte, ^10
+“Durabhisambhavāni hi kho, bho gotama, araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ekatte,
 
-haranti maññe mano vanāni samādhiṁ alabhamānassa bhikkhuno”ti. ^11
+haranti maññe mano vanāni samādhiṁ alabhamānassa bhikkhuno”ti.
 
-“Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa. ^12
+“Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa.
 
-Durabhisambhavāni hi kho, brāhmaṇa, araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ekatte, ^13
+Durabhisambhavāni hi kho, brāhmaṇa, araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ekatte,
 
-haranti maññe mano vanāni samādhiṁ alabhamānassa bhikkhuno. ^14
+haranti maññe mano vanāni samādhiṁ alabhamānassa bhikkhuno.
 
-Mayhampi kho, brāhmaṇa, pubbeva sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi: ^15
+Mayhampi kho, brāhmaṇa, pubbeva sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi:
 
-‘durabhisambhavāni hi kho araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ekatte, ^16
+‘durabhisambhavāni hi kho araññavanapatthāni pantāni senāsanāni, dukkaraṁ pavivekaṁ, durabhiramaṁ ekatte,
 
-haranti maññe mano vanāni samādhiṁ alabhamānassa bhikkhuno’ti. ^17
+haranti maññe mano vanāni samādhiṁ alabhamānassa bhikkhuno’ti.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^18
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā aparisuddhakāyakammantā araññavanapatthāni pantāni senāsanāni paṭisevanti, aparisuddhakāyakammantasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^19
+‘ye kho keci samaṇā vā brāhmaṇā vā aparisuddhakāyakammantā araññavanapatthāni pantāni senāsanāni paṭisevanti, aparisuddhakāyakammantasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ aparisuddhakāyakammanto araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^20
+Na kho panāhaṁ aparisuddhakāyakammanto araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-parisuddhakāyakammantohamasmi. ^21
+parisuddhakāyakammantohamasmi.
 
-Ye hi vo ariyā parisuddhakāyakammantā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^22
+Ye hi vo ariyā parisuddhakāyakammantā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, parisuddhakāyakammataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^23
+Etamahaṁ, brāhmaṇa, parisuddhakāyakammataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^24
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā aparisuddhavacīkammantā …pe… ^25
+‘ye kho keci samaṇā vā brāhmaṇā vā aparisuddhavacīkammantā …pe…
 
-aparisuddhamanokammantā …pe… ^26
+aparisuddhamanokammantā …pe…
 
-aparisuddhājīvā araññavanapatthāni pantāni senāsanāni paṭisevanti, aparisuddhājīvasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^27
+aparisuddhājīvā araññavanapatthāni pantāni senāsanāni paṭisevanti, aparisuddhājīvasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ aparisuddhājīvo araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^28
+Na kho panāhaṁ aparisuddhājīvo araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-parisuddhājīvohamasmi. ^29
+parisuddhājīvohamasmi.
 
-Ye hi vo ariyā parisuddhājīvā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^30
+Ye hi vo ariyā parisuddhājīvā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, parisuddhājīvataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^31
+Etamahaṁ, brāhmaṇa, parisuddhājīvataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^32
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā abhijjhālū kāmesu tibbasārāgā araññavanapatthāni pantāni senāsanāni paṭisevanti, abhijjhālukāmesutibbasārāgasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^33
+‘ye kho keci samaṇā vā brāhmaṇā vā abhijjhālū kāmesu tibbasārāgā araññavanapatthāni pantāni senāsanāni paṭisevanti, abhijjhālukāmesutibbasārāgasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ abhijjhālu kāmesu tibbasārāgo araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^34
+Na kho panāhaṁ abhijjhālu kāmesu tibbasārāgo araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-anabhijjhālūhamasmi. ^35
+anabhijjhālūhamasmi.
 
-Ye hi vo ariyā anabhijjhālū araññavanapatthāni pantāni senāsanāni paṭisevanti, tesamahaṁ aññataro’ti. ^36
+Ye hi vo ariyā anabhijjhālū araññavanapatthāni pantāni senāsanāni paṭisevanti, tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, anabhijjhālutaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^37
+Etamahaṁ, brāhmaṇa, anabhijjhālutaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^38
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā byāpannacittā paduṭṭhamanasaṅkappā araññavanapatthāni pantāni senāsanāni paṭisevanti, byāpannacittapaduṭṭhamanasaṅkappasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^39
+‘ye kho keci samaṇā vā brāhmaṇā vā byāpannacittā paduṭṭhamanasaṅkappā araññavanapatthāni pantāni senāsanāni paṭisevanti, byāpannacittapaduṭṭhamanasaṅkappasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ byāpannacitto paduṭṭhamanasaṅkappo araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^40
+Na kho panāhaṁ byāpannacitto paduṭṭhamanasaṅkappo araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-mettacittohamasmi. ^41
+mettacittohamasmi.
 
-Ye hi vo ariyā mettacittā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^42
+Ye hi vo ariyā mettacittā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, mettacittataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^43
+Etamahaṁ, brāhmaṇa, mettacittataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^44
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā thinamiddhapariyuṭṭhitā araññavanapatthāni pantāni senāsanāni paṭisevanti, thinamiddhapariyuṭṭhānasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^45
+‘ye kho keci samaṇā vā brāhmaṇā vā thinamiddhapariyuṭṭhitā araññavanapatthāni pantāni senāsanāni paṭisevanti, thinamiddhapariyuṭṭhānasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ thinamiddhapariyuṭṭhito araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^46
+Na kho panāhaṁ thinamiddhapariyuṭṭhito araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-vigatathinamiddhohamasmi. ^47
+vigatathinamiddhohamasmi.
 
-Ye hi vo ariyā vigatathinamiddhā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^48
+Ye hi vo ariyā vigatathinamiddhā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, vigatathinamiddhataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^49
+Etamahaṁ, brāhmaṇa, vigatathinamiddhataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^50
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā uddhatā avūpasantacittā araññavanapatthāni pantāni senāsanāni paṭisevanti, uddhataavūpasantacittasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^51
+‘ye kho keci samaṇā vā brāhmaṇā vā uddhatā avūpasantacittā araññavanapatthāni pantāni senāsanāni paṭisevanti, uddhataavūpasantacittasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ uddhato avūpasantacitto araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^52
+Na kho panāhaṁ uddhato avūpasantacitto araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-vūpasantacittohamasmi. ^53
+vūpasantacittohamasmi.
 
-Ye hi vo ariyā vūpasantacittā araññavanapatthāni pantāni senāsanāni paṭisevanti, tesamahaṁ aññataro’ti. ^54
+Ye hi vo ariyā vūpasantacittā araññavanapatthāni pantāni senāsanāni paṭisevanti, tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, vūpasantacittataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^55
+Etamahaṁ, brāhmaṇa, vūpasantacittataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^56
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā kaṅkhī vicikicchī araññavanapatthāni pantāni senāsanāni paṭisevanti, kaṅkhivicikicchisandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^57
+‘ye kho keci samaṇā vā brāhmaṇā vā kaṅkhī vicikicchī araññavanapatthāni pantāni senāsanāni paṭisevanti, kaṅkhivicikicchisandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ kaṅkhī vicikicchī araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^58
+Na kho panāhaṁ kaṅkhī vicikicchī araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-tiṇṇavicikicchohamasmi. ^59
+tiṇṇavicikicchohamasmi.
 
-Ye hi vo ariyā tiṇṇavicikicchā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^60
+Ye hi vo ariyā tiṇṇavicikicchā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, tiṇṇavicikicchataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^61
+Etamahaṁ, brāhmaṇa, tiṇṇavicikicchataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^62
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā attukkaṁsakā paravambhī araññavanapatthāni pantāni senāsanāni paṭisevanti, attukkaṁsanaparavambhanasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^63
+‘ye kho keci samaṇā vā brāhmaṇā vā attukkaṁsakā paravambhī araññavanapatthāni pantāni senāsanāni paṭisevanti, attukkaṁsanaparavambhanasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ attukkaṁsako paravambhī araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^64
+Na kho panāhaṁ attukkaṁsako paravambhī araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-anattukkaṁsako aparavambhīhamasmi. ^65
+anattukkaṁsako aparavambhīhamasmi.
 
-Ye hi vo ariyā anattukkaṁsakā aparavambhī araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^66
+Ye hi vo ariyā anattukkaṁsakā aparavambhī araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, anattukkaṁsakataṁ aparavambhitaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^67
+Etamahaṁ, brāhmaṇa, anattukkaṁsakataṁ aparavambhitaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^68
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā chambhī bhīrukajātikā araññavanapatthāni pantāni senāsanāni paṭisevanti, chambhibhīrukajātikasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^69
+‘ye kho keci samaṇā vā brāhmaṇā vā chambhī bhīrukajātikā araññavanapatthāni pantāni senāsanāni paṭisevanti, chambhibhīrukajātikasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ chambhī bhīrukajātiko araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^70
+Na kho panāhaṁ chambhī bhīrukajātiko araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-vigatalomahaṁsohamasmi. ^71
+vigatalomahaṁsohamasmi.
 
-Ye hi vo ariyā vigatalomahaṁsā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^72
+Ye hi vo ariyā vigatalomahaṁsā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, vigatalomahaṁsataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^73
+Etamahaṁ, brāhmaṇa, vigatalomahaṁsataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^74
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā lābhasakkārasilokaṁ nikāmayamānā araññavanapatthāni pantāni senāsanāni paṭisevanti, lābhasakkārasilokanikāmanasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^75
+‘ye kho keci samaṇā vā brāhmaṇā vā lābhasakkārasilokaṁ nikāmayamānā araññavanapatthāni pantāni senāsanāni paṭisevanti, lābhasakkārasilokanikāmanasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ lābhasakkārasilokaṁ nikāmayamāno araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^76
+Na kho panāhaṁ lābhasakkārasilokaṁ nikāmayamāno araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-appicchohamasmi. ^77
+appicchohamasmi.
 
-Ye hi vo ariyā appicchā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^78
+Ye hi vo ariyā appicchā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, appicchataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^79
+Etamahaṁ, brāhmaṇa, appicchataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^80
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā kusītā hīnavīriyā araññavanapatthāni pantāni senāsanāni paṭisevanti, kusītahīnavīriyasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^81
+‘ye kho keci samaṇā vā brāhmaṇā vā kusītā hīnavīriyā araññavanapatthāni pantāni senāsanāni paṭisevanti, kusītahīnavīriyasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ kusīto hīnavīriyo araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^82
+Na kho panāhaṁ kusīto hīnavīriyo araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-āraddhavīriyohamasmi. ^83
+āraddhavīriyohamasmi.
 
-Ye hi vo ariyā āraddhavīriyā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^84
+Ye hi vo ariyā āraddhavīriyā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, āraddhavīriyataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^85
+Etamahaṁ, brāhmaṇa, āraddhavīriyataṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^86
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā muṭṭhassatī asampajānā araññavanapatthāni pantāni senāsanāni paṭisevanti, muṭṭhassatiasampajānasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^87
+‘ye kho keci samaṇā vā brāhmaṇā vā muṭṭhassatī asampajānā araññavanapatthāni pantāni senāsanāni paṭisevanti, muṭṭhassatiasampajānasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ muṭṭhassati asampajāno araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^88
+Na kho panāhaṁ muṭṭhassati asampajāno araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-upaṭṭhitassatihamasmi. ^89
+upaṭṭhitassatihamasmi.
 
-Ye hi vo ariyā upaṭṭhitassatī araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^90
+Ye hi vo ariyā upaṭṭhitassatī araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, upaṭṭhitassatitaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^91
+Etamahaṁ, brāhmaṇa, upaṭṭhitassatitaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^92
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā asamāhitā vibbhantacittā araññavanapatthāni pantāni senāsanāni paṭisevanti, asamāhitavibbhantacittasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^93
+‘ye kho keci samaṇā vā brāhmaṇā vā asamāhitā vibbhantacittā araññavanapatthāni pantāni senāsanāni paṭisevanti, asamāhitavibbhantacittasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ asamāhito vibbhantacitto araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^94
+Na kho panāhaṁ asamāhito vibbhantacitto araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-samādhisampannohamasmi. ^95
+samādhisampannohamasmi.
 
-Ye hi vo ariyā samādhisampannā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^96
+Ye hi vo ariyā samādhisampannā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, samādhisampadaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^97
+Etamahaṁ, brāhmaṇa, samādhisampadaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^98
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘ye kho keci samaṇā vā brāhmaṇā vā duppaññā eḷamūgā araññavanapatthāni pantāni senāsanāni paṭisevanti, duppaññaeḷamūgasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti. ^99
+‘ye kho keci samaṇā vā brāhmaṇā vā duppaññā eḷamūgā araññavanapatthāni pantāni senāsanāni paṭisevanti, duppaññaeḷamūgasandosahetu have te bhonto samaṇabrāhmaṇā akusalaṁ bhayabheravaṁ avhāyanti.
 
-Na kho panāhaṁ duppañño eḷamūgo araññavanapatthāni pantāni senāsanāni paṭisevāmi; ^100
+Na kho panāhaṁ duppañño eḷamūgo araññavanapatthāni pantāni senāsanāni paṭisevāmi;
 
-paññāsampannohamasmi. ^101
+paññāsampannohamasmi.
 
-Ye hi vo ariyā paññāsampannā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti. ^102
+Ye hi vo ariyā paññāsampannā araññavanapatthāni pantāni senāsanāni paṭisevanti tesamahaṁ aññataro’ti.
 
-Etamahaṁ, brāhmaṇa, paññāsampadaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya. ^103
+Etamahaṁ, brāhmaṇa, paññāsampadaṁ attani sampassamāno bhiyyo pallomamāpādiṁ araññe vihārāya.
 
-Soḷasapariyāyaṁ niṭṭhitaṁ. ^104
+Soḷasapariyāyaṁ niṭṭhitaṁ.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^105
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘yannūnāhaṁ yā tā rattiyo abhiññātā abhilakkhitā— ^106
+‘yannūnāhaṁ yā tā rattiyo abhiññātā abhilakkhitā—
 
-cātuddasī pañcadasī aṭṭhamī ca pakkhassa— ^107
+cātuddasī pañcadasī aṭṭhamī ca pakkhassa—
 
-tathārūpāsu rattīsu yāni tāni ārāmacetiyāni vanacetiyāni rukkhacetiyāni bhiṁsanakāni salomahaṁsāni tathārūpesu senāsanesu vihareyyaṁ appeva nāmāhaṁ bhayabheravaṁ passeyyan’ti. ^108
+tathārūpāsu rattīsu yāni tāni ārāmacetiyāni vanacetiyāni rukkhacetiyāni bhiṁsanakāni salomahaṁsāni tathārūpesu senāsanesu vihareyyaṁ appeva nāmāhaṁ bhayabheravaṁ passeyyan’ti.
 
-So kho ahaṁ, brāhmaṇa, aparena samayena yā tā rattiyo abhiññātā abhilakkhitā— ^109
+So kho ahaṁ, brāhmaṇa, aparena samayena yā tā rattiyo abhiññātā abhilakkhitā—
 
-cātuddasī pañcadasī aṭṭhamī ca pakkhassa— ^110
+cātuddasī pañcadasī aṭṭhamī ca pakkhassa—
 
-tathārūpāsu rattīsu yāni tāni ārāmacetiyāni vanacetiyāni rukkhacetiyāni bhiṁsanakāni salomahaṁsāni tathārūpesu senāsanesu viharāmi. ^111
+tathārūpāsu rattīsu yāni tāni ārāmacetiyāni vanacetiyāni rukkhacetiyāni bhiṁsanakāni salomahaṁsāni tathārūpesu senāsanesu viharāmi.
 
-Tattha ca me, brāhmaṇa, viharato mago vā āgacchati, moro vā kaṭṭhaṁ pāteti, vāto vā paṇṇakasaṭaṁ ereti; Variant: paṇṇakasaṭaṁ → paṇṇasaṭaṁ (bj, pts1ed) ^112
+Tattha ca me, brāhmaṇa, viharato mago vā āgacchati, moro vā kaṭṭhaṁ pāteti, vāto vā paṇṇakasaṭaṁ ereti; Variant: paṇṇakasaṭaṁ → paṇṇasaṭaṁ (bj, pts1ed)
 
-tassa mayhaṁ brāhmaṇa etadahosi: Variant: tassa mayhaṁ brāhmaṇa etadahosi → tassa mayhaṁ evaṁ hoti (bj, pts1ed); tassa mayhaṁ brāhmaṇa evaṁ hoti (sya-all) ^113
+tassa mayhaṁ brāhmaṇa etadahosi: Variant: tassa mayhaṁ brāhmaṇa etadahosi → tassa mayhaṁ evaṁ hoti (bj, pts1ed); tassa mayhaṁ brāhmaṇa evaṁ hoti (sya-all)
 
-‘etaṁ nūna taṁ bhayabheravaṁ āgacchatī’ti. ^114
+‘etaṁ nūna taṁ bhayabheravaṁ āgacchatī’ti.
 
-Tassa mayhaṁ, brāhmaṇa, etadahosi: ^115
+Tassa mayhaṁ, brāhmaṇa, etadahosi:
 
-‘kiṁ nu kho ahaṁ aññadatthu bhayapaṭikaṅkhī viharāmi? ^116
+‘kiṁ nu kho ahaṁ aññadatthu bhayapaṭikaṅkhī viharāmi?
 
-Yannūnāhaṁ yathābhūtaṁ yathābhūtassa me taṁ bhayabheravaṁ āgacchati, tathābhūtaṁ tathābhūtova taṁ bhayabheravaṁ paṭivineyyan’ti. Variant: tathābhūtaṁ tathābhūtova → tathābhūtatathābhūto va (bj); tathābhūto tathābhūtova (sya-all) | yathābhūtaṁ yathābhūtassa → yathābhūtayathābhūtassa (bj); yathābhūtassa yathābhūtassa (sya-all) ^117
+Yannūnāhaṁ yathābhūtaṁ yathābhūtassa me taṁ bhayabheravaṁ āgacchati, tathābhūtaṁ tathābhūtova taṁ bhayabheravaṁ paṭivineyyan’ti. Variant: tathābhūtaṁ tathābhūtova → tathābhūtatathābhūto va (bj); tathābhūto tathābhūtova (sya-all) | yathābhūtaṁ yathābhūtassa → yathābhūtayathābhūtassa (bj); yathābhūtassa yathābhūtassa (sya-all)
 
-Tassa mayhaṁ, brāhmaṇa, caṅkamantassa taṁ bhayabheravaṁ āgacchati. ^118
+Tassa mayhaṁ, brāhmaṇa, caṅkamantassa taṁ bhayabheravaṁ āgacchati.
 
-So kho ahaṁ, brāhmaṇa, neva tāva tiṭṭhāmi na nisīdāmi na nipajjāmi, yāva caṅkamantova taṁ bhayabheravaṁ paṭivinemi. ^119
+So kho ahaṁ, brāhmaṇa, neva tāva tiṭṭhāmi na nisīdāmi na nipajjāmi, yāva caṅkamantova taṁ bhayabheravaṁ paṭivinemi.
 
-Tassa mayhaṁ, brāhmaṇa, ṭhitassa taṁ bhayabheravaṁ āgacchati. ^120
+Tassa mayhaṁ, brāhmaṇa, ṭhitassa taṁ bhayabheravaṁ āgacchati.
 
-So kho ahaṁ, brāhmaṇa, neva tāva caṅkamāmi na nisīdāmi na nipajjāmi. Yāva ṭhitova taṁ bhayabheravaṁ paṭivinemi. ^121
+So kho ahaṁ, brāhmaṇa, neva tāva caṅkamāmi na nisīdāmi na nipajjāmi. Yāva ṭhitova taṁ bhayabheravaṁ paṭivinemi.
 
-Tassa mayhaṁ, brāhmaṇa, nisinnassa taṁ bhayabheravaṁ āgacchati. ^122
+Tassa mayhaṁ, brāhmaṇa, nisinnassa taṁ bhayabheravaṁ āgacchati.
 
-So kho ahaṁ, brāhmaṇa, neva tāva nipajjāmi na tiṭṭhāmi na caṅkamāmi, yāva nisinnova taṁ bhayabheravaṁ paṭivinemi. ^123
+So kho ahaṁ, brāhmaṇa, neva tāva nipajjāmi na tiṭṭhāmi na caṅkamāmi, yāva nisinnova taṁ bhayabheravaṁ paṭivinemi.
 
-Tassa mayhaṁ, brāhmaṇa, nipannassa taṁ bhayabheravaṁ āgacchati. ^124
+Tassa mayhaṁ, brāhmaṇa, nipannassa taṁ bhayabheravaṁ āgacchati.
 
-So kho ahaṁ, brāhmaṇa, neva tāva nisīdāmi na tiṭṭhāmi na caṅkamāmi, yāva nipannova taṁ bhayabheravaṁ paṭivinemi. ^125
+So kho ahaṁ, brāhmaṇa, neva tāva nisīdāmi na tiṭṭhāmi na caṅkamāmi, yāva nipannova taṁ bhayabheravaṁ paṭivinemi.
 
-Santi kho pana, brāhmaṇa, eke samaṇabrāhmaṇā rattiṁyeva samānaṁ divāti sañjānanti, divāyeva samānaṁ rattīti sañjānanti. ^126
+Santi kho pana, brāhmaṇa, eke samaṇabrāhmaṇā rattiṁyeva samānaṁ divāti sañjānanti, divāyeva samānaṁ rattīti sañjānanti.
 
-Idamahaṁ tesaṁ samaṇabrāhmaṇānaṁ sammohavihārasmiṁ vadāmi. ^127
+Idamahaṁ tesaṁ samaṇabrāhmaṇānaṁ sammohavihārasmiṁ vadāmi.
 
-Ahaṁ kho pana, brāhmaṇa, rattiṁyeva samānaṁ rattīti sañjānāmi, divāyeva samānaṁ divāti sañjānāmi. ^128
+Ahaṁ kho pana, brāhmaṇa, rattiṁyeva samānaṁ rattīti sañjānāmi, divāyeva samānaṁ divāti sañjānāmi.
 
-Yaṁ kho taṁ, brāhmaṇa, sammā vadamāno vadeyya: ^129
+Yaṁ kho taṁ, brāhmaṇa, sammā vadamāno vadeyya:
 
-‘asammohadhammo satto loke uppanno bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānan’ti, mameva taṁ sammā vadamāno vadeyya: ^130
+‘asammohadhammo satto loke uppanno bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānan’ti, mameva taṁ sammā vadamāno vadeyya:
 
-‘asammohadhammo satto loke uppanno bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānan’ti. ^131
+‘asammohadhammo satto loke uppanno bahujanahitāya bahujanasukhāya lokānukampāya atthāya hitāya sukhāya devamanussānan’ti.
 
-Āraddhaṁ kho pana me, brāhmaṇa, vīriyaṁ ahosi asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṁ cittaṁ ekaggaṁ. Variant: asammuṭṭhā → appamuṭṭhā (cck); appammuṭṭhā (sya1ed, sya2ed) ^132
+Āraddhaṁ kho pana me, brāhmaṇa, vīriyaṁ ahosi asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṁ cittaṁ ekaggaṁ. Variant: asammuṭṭhā → appamuṭṭhā (cck); appammuṭṭhā (sya1ed, sya2ed)
 
-So kho ahaṁ, brāhmaṇa, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja vihāsiṁ. ^133
+So kho ahaṁ, brāhmaṇa, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja vihāsiṁ.
 
-Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja vihāsiṁ. ^134
+Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja vihāsiṁ.
 
-Pītiyā ca virāgā upekkhako ca vihāsiṁ, sato ca sampajāno sukhañca kāyena paṭisaṁvedesiṁ; yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja vihāsiṁ. ^135
+Pītiyā ca virāgā upekkhako ca vihāsiṁ, sato ca sampajāno sukhañca kāyena paṭisaṁvedesiṁ; yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja vihāsiṁ.
 
-Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja vihāsiṁ. ^136
+Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja vihāsiṁ.
 
-So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmesiṁ. So anekavihitaṁ pubbenivāsaṁ anussarāmi, ^137
+So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte pubbenivāsānussatiñāṇāya cittaṁ abhininnāmesiṁ. So anekavihitaṁ pubbenivāsaṁ anussarāmi,
 
-seyyathidaṁ—ekampi jātiṁ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṁsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṁvaṭṭakappe anekepi vivaṭṭakappe anekepi saṁvaṭṭavivaṭṭakappe: ‘amutrāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto amutra udapādiṁ; tatrāpāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarāmi. ^138
+seyyathidaṁ—ekampi jātiṁ dvepi jātiyo tissopi jātiyo catassopi jātiyo pañcapi jātiyo dasapi jātiyo vīsampi jātiyo tiṁsampi jātiyo cattālīsampi jātiyo paññāsampi jātiyo jātisatampi jātisahassampi jātisatasahassampi anekepi saṁvaṭṭakappe anekepi vivaṭṭakappe anekepi saṁvaṭṭavivaṭṭakappe: ‘amutrāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto amutra udapādiṁ; tatrāpāsiṁ evaṁnāmo evaṅgotto evaṁvaṇṇo evamāhāro evaṁsukhadukkhappaṭisaṁvedī evamāyupariyanto, so tato cuto idhūpapanno’ti. Iti sākāraṁ sauddesaṁ anekavihitaṁ pubbenivāsaṁ anussarāmi.
 
-Ayaṁ kho me, brāhmaṇa, rattiyā paṭhame yāme paṭhamā vijjā adhigatā, ^139
+Ayaṁ kho me, brāhmaṇa, rattiyā paṭhame yāme paṭhamā vijjā adhigatā,
 
-avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato. ^140
+avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato.
 
-So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmesiṁ. ^141
+So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte sattānaṁ cutūpapātañāṇāya cittaṁ abhininnāmesiṁ.
 
-So dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannā. Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṁ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā’ti. Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi. ^142
+So dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi: ‘ime vata bhonto sattā kāyaduccaritena samannāgatā vacīduccaritena samannāgatā manoduccaritena samannāgatā ariyānaṁ upavādakā micchādiṭṭhikā micchādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapannā. Ime vā pana bhonto sattā kāyasucaritena samannāgatā vacīsucaritena samannāgatā manosucaritena samannāgatā ariyānaṁ anupavādakā sammādiṭṭhikā sammādiṭṭhikammasamādānā; te kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapannā’ti. Iti dibbena cakkhunā visuddhena atikkantamānusakena satte passāmi cavamāne upapajjamāne hīne paṇīte suvaṇṇe dubbaṇṇe sugate duggate yathākammūpage satte pajānāmi.
 
-Ayaṁ kho me, brāhmaṇa, rattiyā majjhime yāme dutiyā vijjā adhigatā, ^143
+Ayaṁ kho me, brāhmaṇa, rattiyā majjhime yāme dutiyā vijjā adhigatā,
 
-avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato. ^144
+avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato.
 
-So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmesiṁ. ^145
+So evaṁ samāhite citte parisuddhe pariyodāte anaṅgaṇe vigatūpakkilese mudubhūte kammaniye ṭhite āneñjappatte āsavānaṁ khayañāṇāya cittaṁ abhininnāmesiṁ.
 
-So ‘idaṁ dukkhan’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ. ^146
+So ‘idaṁ dukkhan’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ.
 
-‘Ime āsavā’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ āsavasamudayo’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ āsavanirodho’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ āsavanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ. ^147
+‘Ime āsavā’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ āsavasamudayo’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ āsavanirodho’ti yathābhūtaṁ abbhaññāsiṁ, ‘ayaṁ āsavanirodhagāminī paṭipadā’ti yathābhūtaṁ abbhaññāsiṁ.
 
-Tassa me evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccittha, bhavāsavāpi cittaṁ vimuccittha, avijjāsavāpi cittaṁ vimuccittha. ^148
+Tassa me evaṁ jānato evaṁ passato kāmāsavāpi cittaṁ vimuccittha, bhavāsavāpi cittaṁ vimuccittha, avijjāsavāpi cittaṁ vimuccittha.
 
-Vimuttasmiṁ vimuttamiti ñāṇaṁ ahosi. ^149
+Vimuttasmiṁ vimuttamiti ñāṇaṁ ahosi.
 
-‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti abbhaññāsiṁ. ^150
+‘Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā’ti abbhaññāsiṁ.
 
-Ayaṁ kho me, brāhmaṇa, rattiyā pacchime yāme tatiyā vijjā adhigatā, ^151
+Ayaṁ kho me, brāhmaṇa, rattiyā pacchime yāme tatiyā vijjā adhigatā,
 
-avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato. ^152
+avijjā vihatā vijjā uppannā, tamo vihato āloko uppanno, yathā taṁ appamattassa ātāpino pahitattassa viharato.
 
-Siyā kho pana te, brāhmaṇa, evamassa: ^153
+Siyā kho pana te, brāhmaṇa, evamassa:
 
-‘ajjāpi nūna samaṇo gotamo avītarāgo avītadoso avītamoho, tasmā araññavanapatthāni pantāni senāsanāni paṭisevatī’ti. ^154
+‘ajjāpi nūna samaṇo gotamo avītarāgo avītadoso avītamoho, tasmā araññavanapatthāni pantāni senāsanāni paṭisevatī’ti.
 
-Na kho panetaṁ, brāhmaṇa, evaṁ daṭṭhabbaṁ. ^155
+Na kho panetaṁ, brāhmaṇa, evaṁ daṭṭhabbaṁ.
 
-Dve kho ahaṁ, brāhmaṇa, atthavase sampassamāno araññavanapatthāni pantāni senāsanāni paṭisevāmi— ^156
+Dve kho ahaṁ, brāhmaṇa, atthavase sampassamāno araññavanapatthāni pantāni senāsanāni paṭisevāmi—
 
-attano ca diṭṭhadhammasukhavihāraṁ sampassamāno, pacchimañca janataṁ anukampamāno”ti. ^157
+attano ca diṭṭhadhammasukhavihāraṁ sampassamāno, pacchimañca janataṁ anukampamāno”ti.
 
-“Anukampitarūpā vatāyaṁ bhotā gotamena pacchimā janatā, yathā taṁ arahatā sammāsambuddhena. ^158
+“Anukampitarūpā vatāyaṁ bhotā gotamena pacchimā janatā, yathā taṁ arahatā sammāsambuddhena.
 
-Abhikkantaṁ, bho gotama. Abhikkantaṁ, bho gotama. ^159
+Abhikkantaṁ, bho gotama. Abhikkantaṁ, bho gotama.
 
-Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito. ^160
+Seyyathāpi, bho gotama, nikkujjitaṁ vā ukkujjeyya, paṭicchannaṁ vā vivareyya, mūḷhassa vā maggaṁ ācikkheyya, andhakāre vā telapajjotaṁ dhāreyya: ‘cakkhumanto rūpāni dakkhantī’ti; evamevaṁ bhotā gotamena anekapariyāyena dhammo pakāsito.
 
-Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca. ^161
+Esāhaṁ bhavantaṁ gotamaṁ saraṇaṁ gacchāmi dhammañca bhikkhusaṅghañca.
 
-Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti. ^162
+Upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ gatan”ti.
 
-Bhayabheravasuttaṁ niṭṭhitaṁ catutthaṁ. ^163
+Bhayabheravasuttaṁ niṭṭhitaṁ catutthaṁ.

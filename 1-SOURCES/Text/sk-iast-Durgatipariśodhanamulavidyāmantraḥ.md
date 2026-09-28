@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 2
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation MpBzkAZhIKWi77gGkkp8a — one block per segment, in span order"
+verse_id_format:
+segments: 2
+segmentation_source: "openpecha-v2 segmentation annotation MpBzkAZhIKWi77gGkkp8a — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,12 +26,13 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: mvZP5HaJpjBNLRmKIDMjK
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: o6R4uZgJW20RTXk4TjMPi"
   - "segmentation: MpBzkAZhIKWi77gGkkp8a"
 status: ingested
 ---
 
-# Durgatipariśodhanamulavidyāmantraḥ ^0
+# Durgatipariśodhanamulavidyāmantraḥ
 
-Oṃ namo bhagavate sarvadurgati pariśodhanarājāya tathāgataya arhate samyaksambuddhāya ^1
+Oṃ namo bhagavate sarvadurgati pariśodhanarājāya tathāgataya arhate samyaksambuddhāya
 
-Tadyathā - oṃ śodhane śodhane sarvapāpaviśodhane śuddhe viśuddhe sarvakarmāvaraṇaviśuddhe svāhā ^2
+Tadyathā - oṃ śodhane śodhane sarvapāpaviśodhane śuddhe viśuddhe sarvakarmāvaraṇaviśuddhe svāhā

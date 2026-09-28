@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 2439
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation vtJJ6leDuTtX60Cse8bkU — one block per segment, in span order"
+verse_id_format:
+segments: 2439
+segmentation_source: "openpecha-v2 segmentation annotation vtJJ6leDuTtX60Cse8bkU — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -24,4886 +24,4887 @@ openpecha_v2_language: pi
 openpecha_v2_category_id: iGzbJ0D6zdyccIv2gnXeI
 openpecha_v2_date: "2026-04-30"
 openpecha_v2_annotations:
+  - "search_segmentation: LR6nLX408eI2LDVmXZO7F"
   - "segmentation: vtJJ6leDuTtX60Cse8bkU"
 status: ingested
 ---
 
-# Dhammasaṅgaṇīpāḷi(incorrect) ^0
+# Dhammasaṅgaṇīpāḷi(incorrect)
 
-Namo tassa bhagavato arahato sammāsambuddhassa ^1
+Namo tassa bhagavato arahato sammāsambuddhassa
 
-Abhidhammapiṭake ^2
+Abhidhammapiṭake
 
-Dhammasaṅgaṇīpāḷi ^3
+Dhammasaṅgaṇīpāḷi
 
-Mātikā ^4
+Mātikā
 
-1. Tikamātikā ^5
+1. Tikamātikā
 
-1. (Ka) kusalā dhammā. ^6
+1. (Ka) kusalā dhammā.
 
-(Kha) akusalā dhammā. ^7
+(Kha) akusalā dhammā.
 
-(Ga) abyākatā dhammā. ^8
+(Ga) abyākatā dhammā.
 
-2. (Ka) sukhāya vedanāya sampayuttā dhammā. ^9
+2. (Ka) sukhāya vedanāya sampayuttā dhammā.
 
-(Kha) dukkhāya vedanāya sampayuttā dhammā. ^10
+(Kha) dukkhāya vedanāya sampayuttā dhammā.
 
-(Ga) adukkhamasukhāya vedanāya sampayuttā dhammā. ^11
+(Ga) adukkhamasukhāya vedanāya sampayuttā dhammā.
 
-3. (Ka) vipākā dhammā. ^12
+3. (Ka) vipākā dhammā.
 
-(Kha) vipākadhammadhammā. ^13
+(Kha) vipākadhammadhammā.
 
-(Ga) nevavipākanavipākadhammadhammā. ^14
+(Ga) nevavipākanavipākadhammadhammā.
 
-4. (Ka) upādiṇṇupādāniyā dhammā. ^15
+4. (Ka) upādiṇṇupādāniyā dhammā.
 
-(Kha) anupādiṇṇupādāniyā dhammā. ^16
+(Kha) anupādiṇṇupādāniyā dhammā.
 
-(Ga) anupādiṇṇaanupādāniyā dhammā. ^17
+(Ga) anupādiṇṇaanupādāniyā dhammā.
 
-5. (Ka) saṃkiliṭṭhasaṃkilesikā dhammā. ^18
+5. (Ka) saṃkiliṭṭhasaṃkilesikā dhammā.
 
-(Kha) asaṃkiliṭṭhasaṃkilesikā dhammā. ^19
+(Kha) asaṃkiliṭṭhasaṃkilesikā dhammā.
 
-(Ga) asaṃkiliṭṭhaasaṃkilesikā dhammā. ^20
+(Ga) asaṃkiliṭṭhaasaṃkilesikā dhammā.
 
-6. (Ka) savitakkasavicārā dhammā. ^21
+6. (Ka) savitakkasavicārā dhammā.
 
-(Kha) avitakkavicāramattā dhammā. ^22
+(Kha) avitakkavicāramattā dhammā.
 
-(Ga) avitakkaavicārā dhammā. ^23
+(Ga) avitakkaavicārā dhammā.
 
-7. (Ka) pītisahagatā dhammā. ^24
+7. (Ka) pītisahagatā dhammā.
 
-(Kha) sukhasahagatā dhammā. ^25
+(Kha) sukhasahagatā dhammā.
 
-(Ga) upekkhāsahagatā dhammā. ^26
+(Ga) upekkhāsahagatā dhammā.
 
-8. (Ka) dassanena pahātabbā dhammā. ^27
+8. (Ka) dassanena pahātabbā dhammā.
 
-(Kha) bhāvanāya pahātabbā dhammā. ^28
+(Kha) bhāvanāya pahātabbā dhammā.
 
-(Ga) neva dassanena na bhāvanāya pahātabbā dhammā. ^29
+(Ga) neva dassanena na bhāvanāya pahātabbā dhammā.
 
-9. (Ka) dassanena pahātabbahetukā dhammā. ^30
+9. (Ka) dassanena pahātabbahetukā dhammā.
 
-(Kha) bhāvanāya pahātabbahetukā dhammā. ^31
+(Kha) bhāvanāya pahātabbahetukā dhammā.
 
-(Ga) neva dassanena na bhāvanāya pahātabbahetukā dhammā. ^32
+(Ga) neva dassanena na bhāvanāya pahātabbahetukā dhammā.
 
-10. (Ka) ācayagāmino dhammā. ^33
+10. (Ka) ācayagāmino dhammā.
 
-(Kha) apacayagāmino dhammā. ^34
+(Kha) apacayagāmino dhammā.
 
-(Ga) nevācayagāmināpacayagāmino dhammā. ^35
+(Ga) nevācayagāmināpacayagāmino dhammā.
 
-11. (Ka) sekkhā dhammā. ^36
+11. (Ka) sekkhā dhammā.
 
-(Kha) asekkhā dhammā. ^37
+(Kha) asekkhā dhammā.
 
-(Ga) nevasekkhanāsekkhā dhammā. ^38
+(Ga) nevasekkhanāsekkhā dhammā.
 
-12. (Ka) parittā dhammā. ^39
+12. (Ka) parittā dhammā.
 
-(Kha) mahaggatā dhammā. ^40
+(Kha) mahaggatā dhammā.
 
-(Ga) appamāṇā dhammā. ^41
+(Ga) appamāṇā dhammā.
 
-13. (Ka) parittārammaṇā dhammā. ^42
+13. (Ka) parittārammaṇā dhammā.
 
-(Kha) mahaggatārammaṇā dhammā. ^43
+(Kha) mahaggatārammaṇā dhammā.
 
-(Ga) appamāṇārammaṇā dhammā. ^44
+(Ga) appamāṇārammaṇā dhammā.
 
-14. (Ka) hīnā dhammā. ^45
+14. (Ka) hīnā dhammā.
 
-(Kha) majjhimā dhammā. ^46
+(Kha) majjhimā dhammā.
 
-(Ga) paṇītā dhammā. ^47
+(Ga) paṇītā dhammā.
 
-15. (Ka) micchattaniyatā dhammā. ^48
+15. (Ka) micchattaniyatā dhammā.
 
-(Kha) sammattaniyatā dhammā. ^49
+(Kha) sammattaniyatā dhammā.
 
-(Ga) aniyatā dhammā. ^50
+(Ga) aniyatā dhammā.
 
-16. (Ka) maggārammaṇā dhammā. ^51
+16. (Ka) maggārammaṇā dhammā.
 
-(Kha) maggahetukā dhammā. ^52
+(Kha) maggahetukā dhammā.
 
-(Ga) maggādhipatino dhammā. ^53
+(Ga) maggādhipatino dhammā.
 
-17. (Ka) uppannā dhammā. ^54
+17. (Ka) uppannā dhammā.
 
-(Kha) anuppannā dhammā. ^55
+(Kha) anuppannā dhammā.
 
-(Ga) uppādino dhammā. ^56
+(Ga) uppādino dhammā.
 
-18. (Ka) atītā dhammā. ^57
+18. (Ka) atītā dhammā.
 
-(Kha) anāgatā dhammā. ^58
+(Kha) anāgatā dhammā.
 
-(Ga) paccuppannā dhammā. ^59
+(Ga) paccuppannā dhammā.
 
-19. (Ka) atītārammaṇā dhammā. ^60
+19. (Ka) atītārammaṇā dhammā.
 
-(Kha) anāgatārammaṇā dhammā. ^61
+(Kha) anāgatārammaṇā dhammā.
 
-(Ga) paccuppannārammaṇā dhammā. ^62
+(Ga) paccuppannārammaṇā dhammā.
 
-20. (Ka) ajjhattā dhammā. ^63
+20. (Ka) ajjhattā dhammā.
 
-(Kha) bahiddhā dhammā. ^64
+(Kha) bahiddhā dhammā.
 
-(Ga) ajjhattabahiddhā dhammā. ^65
+(Ga) ajjhattabahiddhā dhammā.
 
-21. (Ka) ajjhattārammaṇā dhammā. ^66
+21. (Ka) ajjhattārammaṇā dhammā.
 
-(Kha) bahiddhārammaṇā dhammā. ^67
+(Kha) bahiddhārammaṇā dhammā.
 
-(Ga) ajjhattabahiddhārammaṇā dhammā. ^68
+(Ga) ajjhattabahiddhārammaṇā dhammā.
 
-22. (Ka) sanidassanasappaṭighā dhammā. ^69
+22. (Ka) sanidassanasappaṭighā dhammā.
 
-(Kha) anidassanasappaṭighā dhammā. ^70
+(Kha) anidassanasappaṭighā dhammā.
 
-(Ga) anidassanaappaṭighā dhammā. ^71
+(Ga) anidassanaappaṭighā dhammā.
 
-Tikamātikā. ^72
+Tikamātikā.
 
-2. Dukamātikā ^73
+2. Dukamātikā
 
-Hetugocchakaṃ ^74
+Hetugocchakaṃ
 
-1. (Ka) hetū dhammā. ^75
+1. (Ka) hetū dhammā.
 
-(Kha) na hetū dhammā. ^76
+(Kha) na hetū dhammā.
 
-2. (Ka) sahetukā dhammā. ^77
+2. (Ka) sahetukā dhammā.
 
-(Kha) ahetukā dhammā. ^78
+(Kha) ahetukā dhammā.
 
-3. (Ka) hetusampayuttā dhammā. ^79
+3. (Ka) hetusampayuttā dhammā.
 
-(Kha) hetuvippayuttā dhammā. ^80
+(Kha) hetuvippayuttā dhammā.
 
-4. (Ka) hetū ceva dhammā sahetukā ca. ^81
+4. (Ka) hetū ceva dhammā sahetukā ca.
 
-(Kha) sahetukā ceva dhammā na ca hetū. ^82
+(Kha) sahetukā ceva dhammā na ca hetū.
 
-5. (Ka) hetū ceva dhammā hetusampayuttā ca. ^83
+5. (Ka) hetū ceva dhammā hetusampayuttā ca.
 
-(Kha) hetusampayuttā ceva dhammā na ca hetū. ^84
+(Kha) hetusampayuttā ceva dhammā na ca hetū.
 
-6. (Ka) na hetū kho pana dhammā sahetukāpi. ^85
+6. (Ka) na hetū kho pana dhammā sahetukāpi.
 
-(Kha) ahetukāpi. ^86
+(Kha) ahetukāpi.
 
-Hetugocchakaṃ. ^87
+Hetugocchakaṃ.
 
-Cūḷantaradukaṃ ^88
+Cūḷantaradukaṃ
 
-7. (Ka) sappaccayā dhammā. ^89
+7. (Ka) sappaccayā dhammā.
 
-(Kha) appaccayā dhammā. ^90
+(Kha) appaccayā dhammā.
 
-8. (Ka) saṅkhatā dhammā. ^91
+8. (Ka) saṅkhatā dhammā.
 
-(Kha) asaṅkhatā dhammā. ^92
+(Kha) asaṅkhatā dhammā.
 
-9. (Ka) sanidassanā dhammā. ^93
+9. (Ka) sanidassanā dhammā.
 
-(Kha) anidassanā dhammā. ^94
+(Kha) anidassanā dhammā.
 
-10. (Ka) sappaṭighā dhammā. ^95
+10. (Ka) sappaṭighā dhammā.
 
-(Kha) appaṭighā dhammā. ^96
+(Kha) appaṭighā dhammā.
 
-11. (Ka) rūpino dhammā. ^97
+11. (Ka) rūpino dhammā.
 
-(Kha) arūpino dhammā. ^98
+(Kha) arūpino dhammā.
 
-12. (Ka) lokiyā dhammā. ^99
+12. (Ka) lokiyā dhammā.
 
-(Kha) lokuttarā dhammā. ^100
+(Kha) lokuttarā dhammā.
 
-13. (Ka) kenaci viññeyyā dhammā. ^101
+13. (Ka) kenaci viññeyyā dhammā.
 
-(Kha) kenaci na viññeyyā dhammā. ^102
+(Kha) kenaci na viññeyyā dhammā.
 
-Cūḷantaradukaṃ. ^103
+Cūḷantaradukaṃ.
 
-Āsavagocchakaṃ ^104
+Āsavagocchakaṃ
 
-14. (Ka) āsavā dhammā. ^105
+14. (Ka) āsavā dhammā.
 
-(Kha) no āsavā dhammā. ^106
+(Kha) no āsavā dhammā.
 
-15. (Ka) sāsavā dhammā. ^107
+15. (Ka) sāsavā dhammā.
 
-(Kha) anāsavā dhammā. ^108
+(Kha) anāsavā dhammā.
 
-16. (Ka) āsavasampayuttā dhammā. ^109
+16. (Ka) āsavasampayuttā dhammā.
 
-(Kha) āsavavippayuttā dhammā. ^110
+(Kha) āsavavippayuttā dhammā.
 
-17. (Ka) āsavā ceva dhammā sāsavā ca. ^111
+17. (Ka) āsavā ceva dhammā sāsavā ca.
 
-(Kha) sāsavā ceva dhammā no ca āsavā. ^112
+(Kha) sāsavā ceva dhammā no ca āsavā.
 
-18. (Ka) āsavā ceva dhammā āsavasampayuttā ca. ^113
+18. (Ka) āsavā ceva dhammā āsavasampayuttā ca.
 
-(Kha) āsavasampayuttā ceva dhammā no ca āsavā. ^114
+(Kha) āsavasampayuttā ceva dhammā no ca āsavā.
 
-19. (Ka) āsavavippayuttā kho pana dhammā sāsavāpi. ^115
+19. (Ka) āsavavippayuttā kho pana dhammā sāsavāpi.
 
-(Kha) anāsavāpi. ^116
+(Kha) anāsavāpi.
 
-Āsavagocchakaṃ. ^117
+Āsavagocchakaṃ.
 
-Saṃyojanagocchakaṃ ^118
+Saṃyojanagocchakaṃ
 
-20. (Ka) saṃyojanā dhammā. ^119
+20. (Ka) saṃyojanā dhammā.
 
-(Kha) no saṃyojanā dhammā. ^120
+(Kha) no saṃyojanā dhammā.
 
-21. (Ka) saṃyojaniyā dhammā. ^121
+21. (Ka) saṃyojaniyā dhammā.
 
-(Kha) asaṃyojaniyā dhammā. ^122
+(Kha) asaṃyojaniyā dhammā.
 
-22. (Ka) saṃyojanasampayuttā dhammā. ^123
+22. (Ka) saṃyojanasampayuttā dhammā.
 
-(Kha) saṃyojanavippayuttā dhammā. ^124
+(Kha) saṃyojanavippayuttā dhammā.
 
-23. (Ka) saṃyojanā ceva dhammā saṃyojaniyā ca. ^125
+23. (Ka) saṃyojanā ceva dhammā saṃyojaniyā ca.
 
-(Kha) saṃyojaniyā ceva dhammā no ca saṃyojanā. ^126
+(Kha) saṃyojaniyā ceva dhammā no ca saṃyojanā.
 
-24. (Ka) saṃyojanā ceva dhammā saṃyojanasampayuttā ca. ^127
+24. (Ka) saṃyojanā ceva dhammā saṃyojanasampayuttā ca.
 
-(Kha) saṃyojanasampayuttā ceva dhammā no ca saṃyojanā. ^128
+(Kha) saṃyojanasampayuttā ceva dhammā no ca saṃyojanā.
 
-25. (Ka) saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi. ^129
+25. (Ka) saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi.
 
-(Kha) asaṃyojaniyāpi. ^130
+(Kha) asaṃyojaniyāpi.
 
-Saṃyojanagocchakaṃ. ^131
+Saṃyojanagocchakaṃ.
 
-Ganthagocchakaṃ ^132
+Ganthagocchakaṃ
 
-26. (Ka) ganthā dhammā. ^133
+26. (Ka) ganthā dhammā.
 
-(Kha) no ganthā dhammā. ^134
+(Kha) no ganthā dhammā.
 
-27. (Ka) ganthaniyā dhammā. ^135
+27. (Ka) ganthaniyā dhammā.
 
-(Kha) aganthaniyā dhammā. ^136
+(Kha) aganthaniyā dhammā.
 
-28. (Ka) ganthasampayuttā dhammā. ^137
+28. (Ka) ganthasampayuttā dhammā.
 
-(Kha) ganthavippayuttā dhammā. ^138
+(Kha) ganthavippayuttā dhammā.
 
-29. (Ka) ganthā ceva dhammā ganthaniyā ca. ^139
+29. (Ka) ganthā ceva dhammā ganthaniyā ca.
 
-(Kha) ganthaniyā ceva dhammā no ca ganthā. ^140
+(Kha) ganthaniyā ceva dhammā no ca ganthā.
 
-30. (Ka) ganthā ceva dhammā ganthasampayuttā ca. ^141
+30. (Ka) ganthā ceva dhammā ganthasampayuttā ca.
 
-(Kha) ganthasampayuttā ceva dhammā no ca ganthā. ^142
+(Kha) ganthasampayuttā ceva dhammā no ca ganthā.
 
-31. (Ka) ganthavippayuttā kho pana dhammā ganthaniyāpi. ^143
+31. (Ka) ganthavippayuttā kho pana dhammā ganthaniyāpi.
 
-(Kha) aganthaniyāpi. ^144
+(Kha) aganthaniyāpi.
 
-Ganthagocchakaṃ. ^145
+Ganthagocchakaṃ.
 
-Oghagocchakaṃ ^146
+Oghagocchakaṃ
 
-32. (Ka) oghā dhammā. ^147
+32. (Ka) oghā dhammā.
 
-(Kha) no oghā dhammā. ^148
+(Kha) no oghā dhammā.
 
-33. (Ka) oghaniyā dhammā. ^149
+33. (Ka) oghaniyā dhammā.
 
-(Kha) anoghaniyā dhammā. ^150
+(Kha) anoghaniyā dhammā.
 
-34. (Ka) oghasampayuttā dhammā. ^151
+34. (Ka) oghasampayuttā dhammā.
 
-(Kha) oghavippayuttā dhammā. ^152
+(Kha) oghavippayuttā dhammā.
 
-35. (Ka) oghā ceva dhammā oghaniyā ca. ^153
+35. (Ka) oghā ceva dhammā oghaniyā ca.
 
-(Kha) oghaniyā ceva dhammā no ca oghā. ^154
+(Kha) oghaniyā ceva dhammā no ca oghā.
 
-36. (Ka) oghā ceva dhammā oghasampayuttā ca. ^155
+36. (Ka) oghā ceva dhammā oghasampayuttā ca.
 
-(Kha) oghasampayuttā ceva dhammā no ca oghā. ^156
+(Kha) oghasampayuttā ceva dhammā no ca oghā.
 
-37. (Ka) oghavippayuttā kho pana dhammā oghaniyāpi. ^157
+37. (Ka) oghavippayuttā kho pana dhammā oghaniyāpi.
 
-(Kha) anoghaniyāpi. ^158
+(Kha) anoghaniyāpi.
 
-Oghagocchakaṃ. ^159
+Oghagocchakaṃ.
 
-Yogagocchakaṃ ^160
+Yogagocchakaṃ
 
-38. (Ka) yogā dhammā. ^161
+38. (Ka) yogā dhammā.
 
-(Kha) no yogā dhammā. ^162
+(Kha) no yogā dhammā.
 
-39. (Ka) yoganiyā dhammā. ^163
+39. (Ka) yoganiyā dhammā.
 
-(Kha) ayoganiyā dhammā. ^164
+(Kha) ayoganiyā dhammā.
 
-40. (Ka) yogasampayuttā dhammā. ^165
+40. (Ka) yogasampayuttā dhammā.
 
-(Kha) yogavippayuttā dhammā. ^166
+(Kha) yogavippayuttā dhammā.
 
-41. (Ka) yogā ceva dhammā yoganiyā ca. ^167
+41. (Ka) yogā ceva dhammā yoganiyā ca.
 
-(Kha) yoganiyā ceva dhammā no ca yogā. ^168
+(Kha) yoganiyā ceva dhammā no ca yogā.
 
-42. (Ka) yogā ceva dhammā yogasampayuttā ca. ^169
+42. (Ka) yogā ceva dhammā yogasampayuttā ca.
 
-(Kha) yogasampayuttā ceva dhammā no ca yogā. ^170
+(Kha) yogasampayuttā ceva dhammā no ca yogā.
 
-43. (Ka) yogavippayuttā kho pana dhammā yoganiyāpi. ^171
+43. (Ka) yogavippayuttā kho pana dhammā yoganiyāpi.
 
-(Kha) ayoganiyāpi. ^172
+(Kha) ayoganiyāpi.
 
-Yogagocchakaṃ. ^173
+Yogagocchakaṃ.
 
-Nīvaraṇagocchakaṃ ^174
+Nīvaraṇagocchakaṃ
 
-44. (Ka) nīvaraṇā dhammā. ^175
+44. (Ka) nīvaraṇā dhammā.
 
-(Kha) no nīvaraṇā dhammā. ^176
+(Kha) no nīvaraṇā dhammā.
 
-45. (Ka) nīvaraṇiyā dhammā. ^177
+45. (Ka) nīvaraṇiyā dhammā.
 
-(Kha) anīvaraṇiyā dhammā. ^178
+(Kha) anīvaraṇiyā dhammā.
 
-46. (Ka) nīvaraṇasampayuttā dhammā. ^179
+46. (Ka) nīvaraṇasampayuttā dhammā.
 
-(Kha) nīvaraṇavippayuttā dhammā. ^180
+(Kha) nīvaraṇavippayuttā dhammā.
 
-47. (Ka) nīvaraṇā ceva dhammā nīvaraṇiyā ca. ^181
+47. (Ka) nīvaraṇā ceva dhammā nīvaraṇiyā ca.
 
-(Kha) nīvaraṇiyā ceva dhammā no ca nīvaraṇā. ^182
+(Kha) nīvaraṇiyā ceva dhammā no ca nīvaraṇā.
 
-48. (Ka) nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca. ^183
+48. (Ka) nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca.
 
-(Kha) nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā. ^184
+(Kha) nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā.
 
-49. (Ka) nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi. ^185
+49. (Ka) nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi.
 
-(Kha) anīvaraṇiyāpi. ^186
+(Kha) anīvaraṇiyāpi.
 
-Nīvaraṇagocchakaṃ. ^187
+Nīvaraṇagocchakaṃ.
 
-Parāmāsagocchakaṃ ^188
+Parāmāsagocchakaṃ
 
-50. (Ka) parāmāsā dhammā. ^189
+50. (Ka) parāmāsā dhammā.
 
-(Kha) no parāmāsā dhammā. ^190
+(Kha) no parāmāsā dhammā.
 
-51. (Ka) parāmaṭṭhā dhammā. ^191
+51. (Ka) parāmaṭṭhā dhammā.
 
-(Kha) aparāmaṭṭhā dhammā. ^192
+(Kha) aparāmaṭṭhā dhammā.
 
-52. (Ka) parāmāsasampayuttā dhammā. ^193
+52. (Ka) parāmāsasampayuttā dhammā.
 
-(Kha) parāmāsavippayuttā dhammā. ^194
+(Kha) parāmāsavippayuttā dhammā.
 
-53. (Ka) parāmāsā ceva dhammā parāmaṭṭhā ca. ^195
+53. (Ka) parāmāsā ceva dhammā parāmaṭṭhā ca.
 
-(Kha) parāmaṭṭhā ceva dhammā no ca parāmāsā. ^196
+(Kha) parāmaṭṭhā ceva dhammā no ca parāmāsā.
 
-54. (Ka) parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi. ^197
+54. (Ka) parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi.
 
-(Kha) aparāmaṭṭhāpi. ^198
+(Kha) aparāmaṭṭhāpi.
 
-Parāmāsagocchakaṃ. ^199
+Parāmāsagocchakaṃ.
 
-Mahantaradukaṃ ^200
+Mahantaradukaṃ
 
-55. (Ka) sārammaṇā dhammā. ^201
+55. (Ka) sārammaṇā dhammā.
 
-(Kha) anārammaṇā dhammā. ^202
+(Kha) anārammaṇā dhammā.
 
-56. (Ka) cittā dhammā. ^203
+56. (Ka) cittā dhammā.
 
-(Kha) no cittā dhammā. ^204
+(Kha) no cittā dhammā.
 
-57. (Ka) cetasikā dhammā. ^205
+57. (Ka) cetasikā dhammā.
 
-(Kha) acetasikā dhammā. ^206
+(Kha) acetasikā dhammā.
 
-58. (Ka) cittasampayuttā dhammā. ^207
+58. (Ka) cittasampayuttā dhammā.
 
-(Kha) cittavippayuttā dhammā. ^208
+(Kha) cittavippayuttā dhammā.
 
-59. (Ka) cittasaṃsaṭṭhā dhammā. ^209
+59. (Ka) cittasaṃsaṭṭhā dhammā.
 
-(Kha) cittavisaṃsaṭṭhā dhammā. ^210
+(Kha) cittavisaṃsaṭṭhā dhammā.
 
-60. (Ka) cittasamuṭṭhānā dhammā. ^211
+60. (Ka) cittasamuṭṭhānā dhammā.
 
-(Kha) no cittasamuṭṭhānā dhammā. ^212
+(Kha) no cittasamuṭṭhānā dhammā.
 
-61. (Ka) cittasahabhuno dhammā. ^213
+61. (Ka) cittasahabhuno dhammā.
 
-(Kha) no cittasahabhuno dhammā. ^214
+(Kha) no cittasahabhuno dhammā.
 
-62. (Ka) cittānuparivattino dhammā. ^215
+62. (Ka) cittānuparivattino dhammā.
 
-(Kha) no cittānuparivattino dhammā. ^216
+(Kha) no cittānuparivattino dhammā.
 
-63. (Ka) cittasaṃsaṭṭhasamuṭṭhānā dhammā. ^217
+63. (Ka) cittasaṃsaṭṭhasamuṭṭhānā dhammā.
 
-(Kha) no cittasaṃsaṭṭhasamuṭṭhānā dhammā. ^218
+(Kha) no cittasaṃsaṭṭhasamuṭṭhānā dhammā.
 
-64. (Ka) cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā. ^219
+64. (Ka) cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā.
 
-(Kha) no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā. ^220
+(Kha) no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā.
 
-65. (Ka) cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā. ^221
+65. (Ka) cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā.
 
-(Kha) no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā. ^222
+(Kha) no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā.
 
-66. (Ka) ajjhattikā dhammā. ^223
+66. (Ka) ajjhattikā dhammā.
 
-(Kha) bāhirā dhammā. ^224
+(Kha) bāhirā dhammā.
 
-67. (Ka) upādā dhammā. ^225
+67. (Ka) upādā dhammā.
 
-(Kha) no upādā dhammā. ^226
+(Kha) no upādā dhammā.
 
-68. (Ka) upādiṇṇā dhammā. ^227
+68. (Ka) upādiṇṇā dhammā.
 
-(Kha) anupādiṇṇā dhammā. ^228
+(Kha) anupādiṇṇā dhammā.
 
-Mahantaradukaṃ. ^229
+Mahantaradukaṃ.
 
-Upādānagocchakaṃ ^230
+Upādānagocchakaṃ
 
-69. (Ka) upādānā dhammā. ^231
+69. (Ka) upādānā dhammā.
 
-(Kha) no upādānā dhammā. ^232
+(Kha) no upādānā dhammā.
 
-70. (Ka) upādāniyā dhammā. ^233
+70. (Ka) upādāniyā dhammā.
 
-(Kha) anupādāniyā dhammā. ^234
+(Kha) anupādāniyā dhammā.
 
-71. (Ka) upādānasampayuttā dhammā. ^235
+71. (Ka) upādānasampayuttā dhammā.
 
-(Kha) upādānavippayuttā dhammā. ^236
+(Kha) upādānavippayuttā dhammā.
 
-72. (Ka) upādānā ceva dhammā upādāniyā ca. ^237
+72. (Ka) upādānā ceva dhammā upādāniyā ca.
 
-(Kha) upādāniyā ceva dhammā no ca upādānā. ^238
+(Kha) upādāniyā ceva dhammā no ca upādānā.
 
-73. (Ka) upādānā ceva dhammā upādānasampayuttā ca. ^239
+73. (Ka) upādānā ceva dhammā upādānasampayuttā ca.
 
-(Kha) upādānasampayuttā ceva dhammā no ca upādānā. ^240
+(Kha) upādānasampayuttā ceva dhammā no ca upādānā.
 
-74. (Ka) upādānavippayuttā kho pana dhammā upādāniyāpi. ^241
+74. (Ka) upādānavippayuttā kho pana dhammā upādāniyāpi.
 
-(Kha) anupādāniyāpi. ^242
+(Kha) anupādāniyāpi.
 
-Upādānagocchakaṃ. ^243
+Upādānagocchakaṃ.
 
-Kilesagocchakaṃ ^244
+Kilesagocchakaṃ
 
-75. (Ka) kilesā dhammā. ^245
+75. (Ka) kilesā dhammā.
 
-(Kha) no kilesā dhammā. ^246
+(Kha) no kilesā dhammā.
 
-76. (Ka) saṃkilesikā dhammā. ^247
+76. (Ka) saṃkilesikā dhammā.
 
-(Kha) asaṃkilesikā dhammā. ^248
+(Kha) asaṃkilesikā dhammā.
 
-77. (Ka) saṃkiliṭṭhā dhammā. ^249
+77. (Ka) saṃkiliṭṭhā dhammā.
 
-(Kha) asaṃkiliṭṭhā dhammā. ^250
+(Kha) asaṃkiliṭṭhā dhammā.
 
-78. (Ka) kilesasampayuttā dhammā. ^251
+78. (Ka) kilesasampayuttā dhammā.
 
-(Kha) kilesavippayuttā dhammā. ^252
+(Kha) kilesavippayuttā dhammā.
 
-79. (Ka) kilesā ceva dhammā saṃkilesikā ca. ^253
+79. (Ka) kilesā ceva dhammā saṃkilesikā ca.
 
-(Kha) saṃkilesikā ceva dhammā no ca kilesā. ^254
+(Kha) saṃkilesikā ceva dhammā no ca kilesā.
 
-80. (Ka) kilesā ceva dhammā saṃkiliṭṭhā ca. ^255
+80. (Ka) kilesā ceva dhammā saṃkiliṭṭhā ca.
 
-(Kha) saṃkiliṭṭhā ceva dhammā no ca kilesā. ^256
+(Kha) saṃkiliṭṭhā ceva dhammā no ca kilesā.
 
-81. (Ka) kilesā ceva dhammā kilesasampayuttā ca. ^257
+81. (Ka) kilesā ceva dhammā kilesasampayuttā ca.
 
-(Kha) kilesasampayuttā ceva dhammā no ca kilesā. ^258
+(Kha) kilesasampayuttā ceva dhammā no ca kilesā.
 
-82. (Ka) kilesavippayuttā kho pana dhammā saṃkilesikāpi. ^259
+82. (Ka) kilesavippayuttā kho pana dhammā saṃkilesikāpi.
 
-(Kha) asaṃkilesikāpi. ^260
+(Kha) asaṃkilesikāpi.
 
-Kilesagocchakaṃ. ^261
+Kilesagocchakaṃ.
 
-Piṭṭhidukaṃ ^262
+Piṭṭhidukaṃ
 
-83. (Ka) dassanena pahātabbā dhammā. ^263
+83. (Ka) dassanena pahātabbā dhammā.
 
-(Kha) na dassanena pahātabbā dhammā. ^264
+(Kha) na dassanena pahātabbā dhammā.
 
-84. (Ka) bhāvanāya pahātabbā dhammā. ^265
+84. (Ka) bhāvanāya pahātabbā dhammā.
 
-(Kha) na bhāvanāya pahātabbā dhammā. ^266
+(Kha) na bhāvanāya pahātabbā dhammā.
 
-85. (Ka) dassanena pahātabbahetukā dhammā. ^267
+85. (Ka) dassanena pahātabbahetukā dhammā.
 
-(Kha) na dassanena pahātabbahetukā dhammā. ^268
+(Kha) na dassanena pahātabbahetukā dhammā.
 
-86. (Ka) bhāvanāya pahātabbahetukā dhammā. ^269
+86. (Ka) bhāvanāya pahātabbahetukā dhammā.
 
-(Kha) na bhāvanāya pahātabbahetukā dhammā. ^270
+(Kha) na bhāvanāya pahātabbahetukā dhammā.
 
-87. (Ka) savitakkā dhammā. ^271
+87. (Ka) savitakkā dhammā.
 
-(Kha) avitakkā dhammā. ^272
+(Kha) avitakkā dhammā.
 
-88. (Ka) savicārā dhammā. ^273
+88. (Ka) savicārā dhammā.
 
-(Kha) avicārā dhammā. ^274
+(Kha) avicārā dhammā.
 
-89. (Ka) sappītikā dhammā. ^275
+89. (Ka) sappītikā dhammā.
 
-(Kha) appītikā dhammā. ^276
+(Kha) appītikā dhammā.
 
-90. (Ka) pītisahagatā dhammā. ^277
+90. (Ka) pītisahagatā dhammā.
 
-(Kha) na pītisahagatā dhammā. ^278
+(Kha) na pītisahagatā dhammā.
 
-91. (Ka) sukhasahagatā dhammā. ^279
+91. (Ka) sukhasahagatā dhammā.
 
-(Kha) na sukhasahagatā dhammā. ^280
+(Kha) na sukhasahagatā dhammā.
 
-92. (Ka) upekkhāsahagatā dhammā. ^281
+92. (Ka) upekkhāsahagatā dhammā.
 
-(Kha) na upekkhāsahagatā dhammā. ^282
+(Kha) na upekkhāsahagatā dhammā.
 
-93. (Ka) kāmāvacarā dhammā. ^283
+93. (Ka) kāmāvacarā dhammā.
 
-(Kha) na kāmāvacarā dhammā. ^284
+(Kha) na kāmāvacarā dhammā.
 
-94. (Ka) rūpāvacarā dhammā. ^285
+94. (Ka) rūpāvacarā dhammā.
 
-(Kha) na rūpāvacarā dhammā. ^286
+(Kha) na rūpāvacarā dhammā.
 
-95. (Ka) arūpāvacarā dhammā. ^287
+95. (Ka) arūpāvacarā dhammā.
 
-(Kha) na arūpāvacarā dhammā. ^288
+(Kha) na arūpāvacarā dhammā.
 
-96. (Ka) pariyāpannā dhammā. ^289
+96. (Ka) pariyāpannā dhammā.
 
-(Kha) apariyāpannā dhammā. ^290
+(Kha) apariyāpannā dhammā.
 
-97. (Ka) niyyānikā dhammā. ^291
+97. (Ka) niyyānikā dhammā.
 
-(Kha) aniyyānikā dhammā. ^292
+(Kha) aniyyānikā dhammā.
 
-98. (Ka) niyatā dhammā. ^293
+98. (Ka) niyatā dhammā.
 
-(Kha) aniyatā dhammā. ^294
+(Kha) aniyatā dhammā.
 
-99. (Ka) sauttarā dhammā. ^295
+99. (Ka) sauttarā dhammā.
 
-(Kha) anuttarā dhammā. ^296
+(Kha) anuttarā dhammā.
 
-100. (Ka) saraṇā dhammā. ^297
+100. (Ka) saraṇā dhammā.
 
-(Kha) araṇā dhammā. ^298
+(Kha) araṇā dhammā.
 
-Piṭṭhidukaṃ. ^299
+Piṭṭhidukaṃ.
 
-Abhidhammadukamātikā. ^300
+Abhidhammadukamātikā.
 
-Suttantikadukamātikā ^301
+Suttantikadukamātikā
 
-101. (Ka) vijjābhāgino dhammā. ^302
+101. (Ka) vijjābhāgino dhammā.
 
-(Kha) avijjābhāgino dhammā. ^303
+(Kha) avijjābhāgino dhammā.
 
-102. (Ka) vijjūpamā dhammā. ^304
+102. (Ka) vijjūpamā dhammā.
 
-(Kha) vajirūpamā dhammā. ^305
+(Kha) vajirūpamā dhammā.
 
-103. (Ka) bālā dhammā. ^306
+103. (Ka) bālā dhammā.
 
-(Kha) paṇḍitā dhammā. ^307
+(Kha) paṇḍitā dhammā.
 
-104. (Ka) kaṇhā dhammā. ^308
+104. (Ka) kaṇhā dhammā.
 
-(Kha) sukkā dhammā. ^309
+(Kha) sukkā dhammā.
 
-105. (Ka) tapanīyā dhammā. ^310
+105. (Ka) tapanīyā dhammā.
 
-(Kha) atapanīyā dhammā. ^311
+(Kha) atapanīyā dhammā.
 
-106. (Ka) adhivacanā dhammā. ^312
+106. (Ka) adhivacanā dhammā.
 
-(Kha) adhivacanapathā dhammā. ^313
+(Kha) adhivacanapathā dhammā.
 
-107. (Ka) nirutti dhammā. ^314
+107. (Ka) nirutti dhammā.
 
-(Kha) niruttipathā dhammā. ^315
+(Kha) niruttipathā dhammā.
 
-108. (Ka) paññatti dhammā. ^316
+108. (Ka) paññatti dhammā.
 
-(Kha) paññattipathā dhammā. ^317
+(Kha) paññattipathā dhammā.
 
-109. (Ka) nāmañca. ^318
+109. (Ka) nāmañca.
 
-(Kha) rūpañca. ^319
+(Kha) rūpañca.
 
-110. (Ka) avijjā ca. ^320
+110. (Ka) avijjā ca.
 
-(Kha) bhavataṇhā ca. ^321
+(Kha) bhavataṇhā ca.
 
-111. (Ka) bhavadiṭṭhi ca. ^322
+111. (Ka) bhavadiṭṭhi ca.
 
-(Kha) vibhavadiṭṭhi ca. ^323
+(Kha) vibhavadiṭṭhi ca.
 
-112. (Ka) sassatadiṭṭhi ca. ^324
+112. (Ka) sassatadiṭṭhi ca.
 
-(Kha) ucchedadiṭṭhi ca. ^325
+(Kha) ucchedadiṭṭhi ca.
 
-113. (Ka) antavā diṭṭhi ca. ^326
+113. (Ka) antavā diṭṭhi ca.
 
-(Kha) anantavā diṭṭhi ca. ^327
+(Kha) anantavā diṭṭhi ca.
 
-114. (Ka) pubbantānudiṭṭhi ca. ^328
+114. (Ka) pubbantānudiṭṭhi ca.
 
-(Kha) aparantānudiṭṭhi ca. ^329
+(Kha) aparantānudiṭṭhi ca.
 
-115. (Ka) ahirikañca. ^330
+115. (Ka) ahirikañca.
 
-(Kha) anottappañca. ^331
+(Kha) anottappañca.
 
-116. (Ka) hirī ca. ^332
+116. (Ka) hirī ca.
 
-(Kha) ottappañca. ^333
+(Kha) ottappañca.
 
-117. (Ka) dovacassatā ca. ^334
+117. (Ka) dovacassatā ca.
 
-(Kha) pāpamittatā ca. ^335
+(Kha) pāpamittatā ca.
 
-118. (Ka) sovacassatā ca. ^336
+118. (Ka) sovacassatā ca.
 
-(Kha) kalyāṇamittatā ca. ^337
+(Kha) kalyāṇamittatā ca.
 
-119. (Ka) āpattikusalatā ca. ^338
+119. (Ka) āpattikusalatā ca.
 
-(Kha) āpattivuṭṭhānakusalatā ca. ^339
+(Kha) āpattivuṭṭhānakusalatā ca.
 
-120. (Ka) samāpattikusalatā ca. ^340
+120. (Ka) samāpattikusalatā ca.
 
-(Kha) samāpattivuṭṭhānakusalatā ca. ^341
+(Kha) samāpattivuṭṭhānakusalatā ca.
 
-121. (Ka) dhātukusalatā ca. ^342
+121. (Ka) dhātukusalatā ca.
 
-(Kha) manasikārakusalatā ca. ^343
+(Kha) manasikārakusalatā ca.
 
-122. (Ka) āyatanakusalatā ca. ^344
+122. (Ka) āyatanakusalatā ca.
 
-(Kha) paṭiccasamuppādakusalatā ca. ^345
+(Kha) paṭiccasamuppādakusalatā ca.
 
-123. (Ka) ṭhānakusalatā ca. ^346
+123. (Ka) ṭhānakusalatā ca.
 
-(Kha) aṭṭhānakusalatā ca. ^347
+(Kha) aṭṭhānakusalatā ca.
 
-124. (Ka) ajjavo ca. ^348
+124. (Ka) ajjavo ca.
 
-(Kha) maddavo ca. ^349
+(Kha) maddavo ca.
 
-125. (Ka) khanti ca. ^350
+125. (Ka) khanti ca.
 
-(Kha) soraccañca. ^351
+(Kha) soraccañca.
 
-126. (Ka) sākhalyañca. ^352
+126. (Ka) sākhalyañca.
 
-(Kha) paṭisanthāro ca . ^353
+(Kha) paṭisanthāro ca .
 
-127. (Ka) indriyesu aguttadvāratā ca. ^354
+127. (Ka) indriyesu aguttadvāratā ca.
 
-(Kha) bhojane amattaññutā ca. ^355
+(Kha) bhojane amattaññutā ca.
 
-128. (Ka) indriyesu guttadvāratā ca. ^356
+128. (Ka) indriyesu guttadvāratā ca.
 
-(Kha) bhojane mattaññutā ca. ^357
+(Kha) bhojane mattaññutā ca.
 
-129. (Ka) muṭṭhasaccañca. ^358
+129. (Ka) muṭṭhasaccañca.
 
-(Kha) asampajaññañca. ^359
+(Kha) asampajaññañca.
 
-130. (Ka) sati ca. ^360
+130. (Ka) sati ca.
 
-(Kha) sampajaññañca. ^361
+(Kha) sampajaññañca.
 
-131. (Ka) paṭisaṅkhānabalañca. ^362
+131. (Ka) paṭisaṅkhānabalañca.
 
-(Kha) bhāvanābalañca. ^363
+(Kha) bhāvanābalañca.
 
-132. (Ka) samatho ca. ^364
+132. (Ka) samatho ca.
 
-(Kha) vipassanā ca. ^365
+(Kha) vipassanā ca.
 
-133. (Ka) samathanimittañca. ^366
+133. (Ka) samathanimittañca.
 
-(Kha) paggāhanimittañca. ^367
+(Kha) paggāhanimittañca.
 
-134. (Ka) paggāho ca. ^368
+134. (Ka) paggāho ca.
 
-(Kha) avikkhepo ca. ^369
+(Kha) avikkhepo ca.
 
-135. (Ka) sīlavipatti ca. ^370
+135. (Ka) sīlavipatti ca.
 
-(Kha) diṭṭhivipatti ca. ^371
+(Kha) diṭṭhivipatti ca.
 
-136. (Ka) sīlasampadā ca. ^372
+136. (Ka) sīlasampadā ca.
 
-(Kha) diṭṭhisampadā ca. ^373
+(Kha) diṭṭhisampadā ca.
 
-137. (Ka) sīlavisuddhi ca. ^374
+137. (Ka) sīlavisuddhi ca.
 
-(Kha) diṭṭhivisuddhi ca. ^375
+(Kha) diṭṭhivisuddhi ca.
 
-138. (Ka) diṭṭhivisuddhi kho pana. ^376
+138. (Ka) diṭṭhivisuddhi kho pana.
 
-(Kha) yathādiṭṭhissa ca padhānaṃ. ^377
+(Kha) yathādiṭṭhissa ca padhānaṃ.
 
-139. (Ka) saṃvego ca saṃvejaniyesu ṭhānesu. ^378
+139. (Ka) saṃvego ca saṃvejaniyesu ṭhānesu.
 
-(Kha) saṃviggassa ca yoniso padhānaṃ. ^379
+(Kha) saṃviggassa ca yoniso padhānaṃ.
 
-140. (Ka) asantuṭṭhitā ca kusalesu dhammesu. ^380
+140. (Ka) asantuṭṭhitā ca kusalesu dhammesu.
 
-(Kha) appaṭivānitā ca padhānasmiṃ. ^381
+(Kha) appaṭivānitā ca padhānasmiṃ.
 
-141. (Ka) vijjā ca. ^382
+141. (Ka) vijjā ca.
 
-(Kha) vimutti ca. ^383
+(Kha) vimutti ca.
 
-142. (Ka) khaye ñāṇaṃ. ^384
+142. (Ka) khaye ñāṇaṃ.
 
-(Kha) anuppāde ñāṇanti. ^385
+(Kha) anuppāde ñāṇanti.
 
-Suttantikadukamātikā . ^386
+Suttantikadukamātikā .
 
-Mātikā niṭṭhitā. ^387
+Mātikā niṭṭhitā.
 
-1. Cittuppādakaṇḍaṃ ^388
+1. Cittuppādakaṇḍaṃ
 
-Kāmāvacarakusalaṃ ^389
+Kāmāvacarakusalaṃ
 
-Padabhājanī ^390
+Padabhājanī
 
-1. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāsaṅkappo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, paññābalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, amoho hoti, anabhijjhā hoti, abyāpādo hoti, sammādiṭṭhi hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti, kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, sampajaññaṃ hoti, samatho hoti, vipassanā hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^391
+1. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāsaṅkappo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, paññābalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, amoho hoti, anabhijjhā hoti, abyāpādo hoti, sammādiṭṭhi hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti, kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, sampajaññaṃ hoti, samatho hoti, vipassanā hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-2. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^392
+2. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-3. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti. ^393
+3. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti.
 
-4. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti. ^394
+4. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti.
 
-5. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti. ^395
+5. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti.
 
-6. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti. ^396
+6. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti.
 
-7. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo – ayaṃ tasmiṃ samaye vitakko hoti. ^397
+7. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo – ayaṃ tasmiṃ samaye vitakko hoti.
 
-8. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti. ^398
+8. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti.
 
-9. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa – ayaṃ tasmiṃ samaye pīti hoti. ^399
+9. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa – ayaṃ tasmiṃ samaye pīti hoti.
 
-10. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti. ^400
+10. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti.
 
-11. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^401
+11. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-12. Katamaṃ tasmiṃ samaye saddhindriyaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhindriyaṃ hoti. ^402
+12. Katamaṃ tasmiṃ samaye saddhindriyaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhindriyaṃ hoti.
 
-13. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti. ^403
+13. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti.
 
-14. Katamaṃ tasmiṃ samaye satindriyaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – idaṃ tasmiṃ samaye satindriyaṃ hoti. ^404
+14. Katamaṃ tasmiṃ samaye satindriyaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – idaṃ tasmiṃ samaye satindriyaṃ hoti.
 
-15. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – idaṃ tasmiṃ samaye samādhindriyaṃ hoti. ^405
+15. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – idaṃ tasmiṃ samaye samādhindriyaṃ hoti.
 
-16. Katamaṃ tasmiṃ samaye paññindriyaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye paññindriyaṃ hoti. ^406
+16. Katamaṃ tasmiṃ samaye paññindriyaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye paññindriyaṃ hoti.
 
-17. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti. ^407
+17. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-18. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti. ^408
+18. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti.
 
-19. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti. ^409
+19. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti.
 
-20. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti. ^410
+20. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti.
 
-21. Katamo tasmiṃ samaye sammāsaṅkappo hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo – ayaṃ tasmiṃ samaye sammāsaṅkappo hoti. ^411
+21. Katamo tasmiṃ samaye sammāsaṅkappo hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo – ayaṃ tasmiṃ samaye sammāsaṅkappo hoti.
 
-22. Katamo tasmiṃ samaye sammāvāyāmo hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – ayaṃ tasmiṃ samaye sammāvāyāmo hoti. ^412
+22. Katamo tasmiṃ samaye sammāvāyāmo hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – ayaṃ tasmiṃ samaye sammāvāyāmo hoti.
 
-23. Katamā tasmiṃ samaye sammāsati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – ayaṃ tasmiṃ samaye sammāsati hoti. ^413
+23. Katamā tasmiṃ samaye sammāsati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – ayaṃ tasmiṃ samaye sammāsati hoti.
 
-24. Katamo tasmiṃ samaye sammāsamādhi hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye sammāsamādhi hoti. ^414
+24. Katamo tasmiṃ samaye sammāsamādhi hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye sammāsamādhi hoti.
 
-25. Katamaṃ tasmiṃ samaye saddhābalaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhābalaṃ hoti. ^415
+25. Katamaṃ tasmiṃ samaye saddhābalaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhābalaṃ hoti.
 
-26. Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – idaṃ tasmiṃ samaye vīriyabalaṃ hoti. ^416
+26. Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – idaṃ tasmiṃ samaye vīriyabalaṃ hoti.
 
-27. Katamaṃ tasmiṃ samaye satibalaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – idaṃ tasmiṃ samaye satibalaṃ hoti. ^417
+27. Katamaṃ tasmiṃ samaye satibalaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – idaṃ tasmiṃ samaye satibalaṃ hoti.
 
-28. Katamaṃ tasmiṃ samaye samādhibalaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – idaṃ tasmiṃ samaye samādhibalaṃ hoti. ^418
+28. Katamaṃ tasmiṃ samaye samādhibalaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – idaṃ tasmiṃ samaye samādhibalaṃ hoti.
 
-29. Katamaṃ tasmiṃ samaye paññābalaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye paññābalaṃ hoti. ^419
+29. Katamaṃ tasmiṃ samaye paññābalaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye paññābalaṃ hoti.
 
-30. Katamaṃ tasmiṃ samaye hiribalaṃ hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye hiribalaṃ hoti. ^420
+30. Katamaṃ tasmiṃ samaye hiribalaṃ hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye hiribalaṃ hoti.
 
-31. Katamaṃ tasmiṃ samaye ottappabalaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappabalaṃ hoti. ^421
+31. Katamaṃ tasmiṃ samaye ottappabalaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappabalaṃ hoti.
 
-32. Katamo tasmiṃ samaye alobho hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye alobho hoti. ^422
+32. Katamo tasmiṃ samaye alobho hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye alobho hoti.
 
-33. Katamo tasmiṃ samaye adoso hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye adoso hoti? ^423
+33. Katamo tasmiṃ samaye adoso hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye adoso hoti?
 
-34. Katamo tasmiṃ samaye amoho hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi amoho kusalamūlaṃ – ayaṃ tasmiṃ samaye amoho hoti. ^424
+34. Katamo tasmiṃ samaye amoho hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi amoho kusalamūlaṃ – ayaṃ tasmiṃ samaye amoho hoti.
 
-35. Katamā tasmiṃ samaye anabhijjhā hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye anabhijjhā hoti. ^425
+35. Katamā tasmiṃ samaye anabhijjhā hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye anabhijjhā hoti.
 
-36. Katamo tasmiṃ samaye abyāpādo hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye abyāpādo hoti. ^426
+36. Katamo tasmiṃ samaye abyāpādo hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye abyāpādo hoti.
 
-37. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti. ^427
+37. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti.
 
-38. Katamā tasmiṃ samaye hirī hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – ayaṃ tasmiṃ samaye hirī hoti. ^428
+38. Katamā tasmiṃ samaye hirī hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – ayaṃ tasmiṃ samaye hirī hoti.
 
-39. Katamaṃ tasmiṃ samaye ottappaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappaṃ hoti. ^429
+39. Katamaṃ tasmiṃ samaye ottappaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappaṃ hoti.
 
-40. Katamā tasmiṃ samaye kāyapassaddhi hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ – ayaṃ tasmiṃ samaye kāyapassaddhi hoti. ^430
+40. Katamā tasmiṃ samaye kāyapassaddhi hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ – ayaṃ tasmiṃ samaye kāyapassaddhi hoti.
 
-41. Katamā tasmiṃ samaye cittapassaddhi hoti? Yā tasmiṃ samaye viññāṇakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ – ayaṃ tasmiṃ samaye cittapassaddhi hoti. ^431
+41. Katamā tasmiṃ samaye cittapassaddhi hoti? Yā tasmiṃ samaye viññāṇakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ – ayaṃ tasmiṃ samaye cittapassaddhi hoti.
 
-42. Katamā tasmiṃ samaye kāyalahutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye kāyalahutā hoti. ^432
+42. Katamā tasmiṃ samaye kāyalahutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye kāyalahutā hoti.
 
-43. Katamā tasmiṃ samaye cittalahutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye cittalahutā hoti. ^433
+43. Katamā tasmiṃ samaye cittalahutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye cittalahutā hoti.
 
-44. Katamā tasmiṃ samaye kāyamudutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye kāyamudutā hoti. ^434
+44. Katamā tasmiṃ samaye kāyamudutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye kāyamudutā hoti.
 
-45. Katamā tasmiṃ samaye cittamudutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye cittamudutā hoti. ^435
+45. Katamā tasmiṃ samaye cittamudutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye cittamudutā hoti.
 
-46. Katamā tasmiṃ samaye kāyakammaññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye kāyakammaññatā hoti. ^436
+46. Katamā tasmiṃ samaye kāyakammaññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye kāyakammaññatā hoti.
 
-47. Katamā tasmiṃ samaye cittakammaññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye cittakammaññatā hoti. ^437
+47. Katamā tasmiṃ samaye cittakammaññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye cittakammaññatā hoti.
 
-48. Katamā tasmiṃ samaye kāyapāguññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye kāyapāguññatā hoti. ^438
+48. Katamā tasmiṃ samaye kāyapāguññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye kāyapāguññatā hoti.
 
-49. Katamā tasmiṃ samaye cittapāguññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye cittapāguññatā hoti. ^439
+49. Katamā tasmiṃ samaye cittapāguññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye cittapāguññatā hoti.
 
-50. Katamā tasmiṃ samaye kāyujukatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye kāyujukatā hoti. ^440
+50. Katamā tasmiṃ samaye kāyujukatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye kāyujukatā hoti.
 
-51. Katamā tasmiṃ samaye cittujukatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye cittujukatā hoti. ^441
+51. Katamā tasmiṃ samaye cittujukatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye cittujukatā hoti.
 
-52. Katamā tasmiṃ samaye sati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – ayaṃ tasmiṃ samaye sati hoti. ^442
+52. Katamā tasmiṃ samaye sati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – ayaṃ tasmiṃ samaye sati hoti.
 
-53. Katamaṃ tasmiṃ samaye sampajaññaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye sampajaññaṃ hoti. ^443
+53. Katamaṃ tasmiṃ samaye sampajaññaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye sampajaññaṃ hoti.
 
-54. Katamo tasmiṃ samaye samatho hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye samatho hoti. ^444
+54. Katamo tasmiṃ samaye samatho hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye samatho hoti.
 
-55. Katamā tasmiṃ samaye vipassanā hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye vipassanā hoti. ^445
+55. Katamā tasmiṃ samaye vipassanā hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye vipassanā hoti.
 
-56. Katamo tasmiṃ samaye paggāho hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – ayaṃ tasmiṃ samaye paggāho hoti. ^446
+56. Katamo tasmiṃ samaye paggāho hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – ayaṃ tasmiṃ samaye paggāho hoti.
 
-57. Katamo tasmiṃ samaye avikkhepo hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye avikkhepo hoti. ^447
+57. Katamo tasmiṃ samaye avikkhepo hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye avikkhepo hoti.
 
-Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^448
+Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-Padabhājanīyaṃ. ^449
+Padabhājanīyaṃ.
 
-Paṭhamabhāṇavāro. ^450
+Paṭhamabhāṇavāro.
 
-Koṭṭhāsavāro ^451
+Koṭṭhāsavāro
 
-58. Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, pañcaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti, ekā vedanā hoti, ekā saññā hoti, ekā cetanā hoti, ekaṃ cittaṃ hoti, eko vedanākkhandho hoti, eko saññākkhandho hoti, eko saṅkhārakkhandho hoti, eko viññāṇakkhandho hoti, ekaṃ manāyatanaṃ hoti, ekaṃ manindriyaṃ hoti, ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^452
+58. Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, pañcaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti, ekā vedanā hoti, ekā saññā hoti, ekā cetanā hoti, ekaṃ cittaṃ hoti, eko vedanākkhandho hoti, eko saññākkhandho hoti, eko saṅkhārakkhandho hoti, eko viññāṇakkhandho hoti, ekaṃ manāyatanaṃ hoti, ekaṃ manindriyaṃ hoti, ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-59. Katame tasmiṃ samaye cattāro khandhā honti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho. ^453
+59. Katame tasmiṃ samaye cattāro khandhā honti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho.
 
-60. Katamo tasmiṃ samaye vedanākkhandho hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanākkhandho hoti. ^454
+60. Katamo tasmiṃ samaye vedanākkhandho hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanākkhandho hoti.
 
-61. Katamo tasmiṃ samaye saññākkhandho hoti? Yā tasmiṃ samaye saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññākkhandho hoti. ^455
+61. Katamo tasmiṃ samaye saññākkhandho hoti? Yā tasmiṃ samaye saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññākkhandho hoti.
 
-62. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ alobho adoso amoho anabhijjhā abyāpādo sammādiṭṭhi hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati sampajaññaṃ samatho vipassanā paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti. ^456
+62. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ alobho adoso amoho anabhijjhā abyāpādo sammādiṭṭhi hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati sampajaññaṃ samatho vipassanā paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti.
 
-63. Katamo tasmiṃ samaye viññāṇakkhandho hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye viññāṇakkhandho hoti. ^457
+63. Katamo tasmiṃ samaye viññāṇakkhandho hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye viññāṇakkhandho hoti.
 
-Ime tasmiṃ samaye cattāro khandhā honti. ^458
+Ime tasmiṃ samaye cattāro khandhā honti.
 
-64. Katamāni tasmiṃ samaye dvāyatanāni honti? Manāyatanaṃ dhammāyatanaṃ. ^459
+64. Katamāni tasmiṃ samaye dvāyatanāni honti? Manāyatanaṃ dhammāyatanaṃ.
 
-65. Katamaṃ tasmiṃ samaye manāyatanaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manāyatanaṃ hoti. ^460
+65. Katamaṃ tasmiṃ samaye manāyatanaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manāyatanaṃ hoti.
 
-66. Katamaṃ tasmiṃ samaye dhammāyatanaṃ hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – idaṃ tasmiṃ samaye dhammāyatanaṃ hoti. ^461
+66. Katamaṃ tasmiṃ samaye dhammāyatanaṃ hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – idaṃ tasmiṃ samaye dhammāyatanaṃ hoti.
 
-Imāni tasmiṃ samaye dvāyatanāni honti. ^462
+Imāni tasmiṃ samaye dvāyatanāni honti.
 
-67. Katamā tasmiṃ samaye dve dhātuyo honti? Manoviññāṇadhātu, dhammadhātu. ^463
+67. Katamā tasmiṃ samaye dve dhātuyo honti? Manoviññāṇadhātu, dhammadhātu.
 
-68. Katamā tasmiṃ samaye manoviññāṇadhātu hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye manoviññāṇadhātu hoti. ^464
+68. Katamā tasmiṃ samaye manoviññāṇadhātu hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye manoviññāṇadhātu hoti.
 
-69. Katamā tasmiṃ samaye dhammadhātu hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ayaṃ tasmiṃ samaye dhammadhātu hoti. ^465
+69. Katamā tasmiṃ samaye dhammadhātu hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ayaṃ tasmiṃ samaye dhammadhātu hoti.
 
-Imā tasmiṃ samaye dve dhātuyo honti. ^466
+Imā tasmiṃ samaye dve dhātuyo honti.
 
-70. Katame tasmiṃ samaye tayo āhārā honti? Phassāhāro, manosañcetanāhāro, viññāṇāhāro. ^467
+70. Katame tasmiṃ samaye tayo āhārā honti? Phassāhāro, manosañcetanāhāro, viññāṇāhāro.
 
-71. Katamo tasmiṃ samaye phassāhāro hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phassāhāro hoti. ^468
+71. Katamo tasmiṃ samaye phassāhāro hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phassāhāro hoti.
 
-72. Katamo tasmiṃ samaye manosañcetanāhāro hoti? Yā tasmiṃ samaye cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye manosañcetanāhāro hoti. ^469
+72. Katamo tasmiṃ samaye manosañcetanāhāro hoti? Yā tasmiṃ samaye cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye manosañcetanāhāro hoti.
 
-73. Katamo tasmiṃ samaye viññāṇāhāro hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye viññāṇāhāro hoti. ^470
+73. Katamo tasmiṃ samaye viññāṇāhāro hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye viññāṇāhāro hoti.
 
-Ime tasmiṃ samaye tayo āhārā honti. ^471
+Ime tasmiṃ samaye tayo āhārā honti.
 
-74. Katamāni tasmiṃ samaye aṭṭhindriyāni honti? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, manindriyaṃ, somanassindriyaṃ, jīvitindriyaṃ. ^472
+74. Katamāni tasmiṃ samaye aṭṭhindriyāni honti? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, manindriyaṃ, somanassindriyaṃ, jīvitindriyaṃ.
 
-75. Katamaṃ tasmiṃ samaye saddhindriyaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhindriyaṃ hoti. ^473
+75. Katamaṃ tasmiṃ samaye saddhindriyaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhindriyaṃ hoti.
 
-76. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti. ^474
+76. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti.
 
-77. Katamaṃ tasmiṃ samaye satindriyaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – idaṃ tasmiṃ samaye satindriyaṃ hoti. ^475
+77. Katamaṃ tasmiṃ samaye satindriyaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – idaṃ tasmiṃ samaye satindriyaṃ hoti.
 
-78. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – idaṃ tasmiṃ samaye samādhindriyaṃ hoti. ^476
+78. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – idaṃ tasmiṃ samaye samādhindriyaṃ hoti.
 
-79. Katamaṃ tasmiṃ samaye paññindriyaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye paññindriyaṃ hoti. ^477
+79. Katamaṃ tasmiṃ samaye paññindriyaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye paññindriyaṃ hoti.
 
-80. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti. ^478
+80. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-81. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti. ^479
+81. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti.
 
-82. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti. ^480
+82. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti.
 
-Imāni tasmiṃ samaye aṭṭhindriyāni honti. ^481
+Imāni tasmiṃ samaye aṭṭhindriyāni honti.
 
-83. Katamaṃ tasmiṃ samaye pañcaṅgikaṃ jhānaṃ hoti? Vitakko, vicāro, pīti, sukhaṃ, cittassekaggatā. ^482
+83. Katamaṃ tasmiṃ samaye pañcaṅgikaṃ jhānaṃ hoti? Vitakko, vicāro, pīti, sukhaṃ, cittassekaggatā.
 
-84. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo – ayaṃ tasmiṃ samaye vitakko hoti. ^483
+84. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo – ayaṃ tasmiṃ samaye vitakko hoti.
 
-85. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti. ^484
+85. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti.
 
-86. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa – ayaṃ tasmiṃ samaye pīti hoti. ^485
+86. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa – ayaṃ tasmiṃ samaye pīti hoti.
 
-87. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti. ^486
+87. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti.
 
-88. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^487
+88. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-Idaṃ tasmiṃ samaye pañcaṅgikaṃ jhānaṃ hoti. ^488
+Idaṃ tasmiṃ samaye pañcaṅgikaṃ jhānaṃ hoti.
 
-89. Katamo tasmiṃ samaye pañcaṅgiko maggo hoti? Sammādiṭṭhi, sammāsaṅkappo, sammāvāyāmo, sammāsati, sammāsamādhi. ^489
+89. Katamo tasmiṃ samaye pañcaṅgiko maggo hoti? Sammādiṭṭhi, sammāsaṅkappo, sammāvāyāmo, sammāsati, sammāsamādhi.
 
-90. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti. ^490
+90. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti.
 
-91. Katamo tasmiṃ samaye sammāsaṅkappo hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo – ayaṃ tasmiṃ samaye sammāsaṅkappo hoti. ^491
+91. Katamo tasmiṃ samaye sammāsaṅkappo hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo – ayaṃ tasmiṃ samaye sammāsaṅkappo hoti.
 
-92. Katamo tasmiṃ samaye sammāvāyāmo hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – ayaṃ tasmiṃ samaye sammāvāyāmo hoti. ^492
+92. Katamo tasmiṃ samaye sammāvāyāmo hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – ayaṃ tasmiṃ samaye sammāvāyāmo hoti.
 
-93. Katamā tasmiṃ samaye sammāsati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – ayaṃ tasmiṃ samaye sammāsati hoti. ^493
+93. Katamā tasmiṃ samaye sammāsati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – ayaṃ tasmiṃ samaye sammāsati hoti.
 
-94. Katamo tasmiṃ samaye sammāsamādhi hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye sammāsamādhi hoti. ^494
+94. Katamo tasmiṃ samaye sammāsamādhi hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – ayaṃ tasmiṃ samaye sammāsamādhi hoti.
 
-Ayaṃ tasmiṃ samaye pañcaṅgiko maggo hoti. ^495
+Ayaṃ tasmiṃ samaye pañcaṅgiko maggo hoti.
 
-95. Katamāni tasmiṃ samaye satta balāni honti? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ, hiribalaṃ, ottappabalaṃ. ^496
+95. Katamāni tasmiṃ samaye satta balāni honti? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ, hiribalaṃ, ottappabalaṃ.
 
-96. Katamaṃ tasmiṃ samaye saddhābalaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhābalaṃ hoti. ^497
+96. Katamaṃ tasmiṃ samaye saddhābalaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhābalaṃ hoti.
 
-97. Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – idaṃ tasmiṃ samaye vīriyabalaṃ hoti. ^498
+97. Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo – idaṃ tasmiṃ samaye vīriyabalaṃ hoti.
 
-98. Katamaṃ tasmiṃ samaye satibalaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – idaṃ tasmiṃ samaye satibalaṃ hoti. ^499
+98. Katamaṃ tasmiṃ samaye satibalaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati – idaṃ tasmiṃ samaye satibalaṃ hoti.
 
-99. Katamaṃ tasmiṃ samaye samādhibalaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – idaṃ tasmiṃ samaye samādhibalaṃ hoti. ^500
+99. Katamaṃ tasmiṃ samaye samādhibalaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi – idaṃ tasmiṃ samaye samādhibalaṃ hoti.
 
-100. Katamaṃ tasmiṃ samaye paññābalaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye paññābalaṃ hoti. ^501
+100. Katamaṃ tasmiṃ samaye paññābalaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – idaṃ tasmiṃ samaye paññābalaṃ hoti.
 
-101. Katamaṃ tasmiṃ samaye hiribalaṃ hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye hiribalaṃ hoti. ^502
+101. Katamaṃ tasmiṃ samaye hiribalaṃ hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye hiribalaṃ hoti.
 
-102. Katamaṃ tasmiṃ samaye ottappabalaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappabalaṃ hoti. ^503
+102. Katamaṃ tasmiṃ samaye ottappabalaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappabalaṃ hoti.
 
-Imāni tasmiṃ samaye satta balāni honti. ^504
+Imāni tasmiṃ samaye satta balāni honti.
 
-103. Katame tasmiṃ samaye tayo hetū honti? Alobho, adoso, amoho. ^505
+103. Katame tasmiṃ samaye tayo hetū honti? Alobho, adoso, amoho.
 
-104. Katamo tasmiṃ samaye alobho hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye alobho hoti. ^506
+104. Katamo tasmiṃ samaye alobho hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye alobho hoti.
 
-105. Katamo tasmiṃ samaye adoso hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye adoso hoti. ^507
+105. Katamo tasmiṃ samaye adoso hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye adoso hoti.
 
-106. Katamo tasmiṃ samaye amoho hoti? Yā tasmiṃ samaye paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye amoho hoti. ^508
+106. Katamo tasmiṃ samaye amoho hoti? Yā tasmiṃ samaye paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ tasmiṃ samaye amoho hoti.
 
-Ime tasmiṃ samaye tayo hetū honti. ^509
+Ime tasmiṃ samaye tayo hetū honti.
 
-107. Katamo tasmiṃ samaye eko phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye eko phasso hoti. ^510
+107. Katamo tasmiṃ samaye eko phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye eko phasso hoti.
 
-108. Katamā tasmiṃ samaye ekā vedanā hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye ekā vedanā hoti. ^511
+108. Katamā tasmiṃ samaye ekā vedanā hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye ekā vedanā hoti.
 
-109. Katamā tasmiṃ samaye ekā saññā hoti? Yā tasmiṃ samaye saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye ekā saññā hoti. ^512
+109. Katamā tasmiṃ samaye ekā saññā hoti? Yā tasmiṃ samaye saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye ekā saññā hoti.
 
-110. Katamā tasmiṃ samaye ekā cetanā hoti? Yā tasmiṃ samaye cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye ekā cetanā hoti. ^513
+110. Katamā tasmiṃ samaye ekā cetanā hoti? Yā tasmiṃ samaye cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye ekā cetanā hoti.
 
-111. Katamaṃ tasmiṃ samaye ekaṃ cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye ekaṃ cittaṃ hoti. ^514
+111. Katamaṃ tasmiṃ samaye ekaṃ cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye ekaṃ cittaṃ hoti.
 
-112. Katamo tasmiṃ samaye eko vedanākkhandho hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye eko vedanākkhandho hoti. ^515
+112. Katamo tasmiṃ samaye eko vedanākkhandho hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye eko vedanākkhandho hoti.
 
-113. Katamo tasmiṃ samaye eko saññākkhandho hoti? Yā tasmiṃ samaye saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye eko saññākkhandho hoti. ^516
+113. Katamo tasmiṃ samaye eko saññākkhandho hoti? Yā tasmiṃ samaye saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye eko saññākkhandho hoti.
 
-114. Katamo tasmiṃ samaye eko saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ alobho adoso amoho anabhijjhā abyāpādo sammādiṭṭhi hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati sampajaññaṃ samatho vipassanā paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye eko saṅkhārakkhandho hoti. ^517
+114. Katamo tasmiṃ samaye eko saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ alobho adoso amoho anabhijjhā abyāpādo sammādiṭṭhi hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati sampajaññaṃ samatho vipassanā paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye eko saṅkhārakkhandho hoti.
 
-115. Katamo tasmiṃ samaye eko viññāṇakkhandho hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye eko viññāṇakkhandho hoti. ^518
+115. Katamo tasmiṃ samaye eko viññāṇakkhandho hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye eko viññāṇakkhandho hoti.
 
-116. Katamaṃ tasmiṃ samaye ekaṃ manāyatanaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye ekaṃ manāyatanaṃ hoti. ^519
+116. Katamaṃ tasmiṃ samaye ekaṃ manāyatanaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye ekaṃ manāyatanaṃ hoti.
 
-117. Katamaṃ tasmiṃ samaye ekaṃ manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye ekaṃ manindriyaṃ hoti. ^520
+117. Katamaṃ tasmiṃ samaye ekaṃ manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye ekaṃ manindriyaṃ hoti.
 
-118. Katamā tasmiṃ samaye ekā manoviññāṇadhātu hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye ekā manoviññāṇadhātu hoti. ^521
+118. Katamā tasmiṃ samaye ekā manoviññāṇadhātu hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – ayaṃ tasmiṃ samaye ekā manoviññāṇadhātu hoti.
 
-119. Katamaṃ tasmiṃ samaye ekaṃ dhammāyatanaṃ hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – idaṃ tasmiṃ samaye ekaṃ dhammāyatanaṃ hoti. ^522
+119. Katamaṃ tasmiṃ samaye ekaṃ dhammāyatanaṃ hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – idaṃ tasmiṃ samaye ekaṃ dhammāyatanaṃ hoti.
 
-120. Katamā tasmiṃ samaye ekā dhammadhātu hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ayaṃ tasmiṃ samaye ekā dhammadhātu hoti. ^523
+120. Katamā tasmiṃ samaye ekā dhammadhātu hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ayaṃ tasmiṃ samaye ekā dhammadhātu hoti.
 
-Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^524
+Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-Koṭṭhāsavāro. ^525
+Koṭṭhāsavāro.
 
-Suññatavāro ^526
+Suññatavāro
 
-121. Tasmiṃ kho pana samaye dhammā honti, khandhā honti, āyatanāni honti, dhātuyo honti, āhārā honti, indriyāni honti, jhānaṃ hoti, maggo hoti, balāni honti, hetū honti, phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vedanākkhandho hoti, saññākkhandho hoti, saṅkhārakkhandho hoti, viññāṇakkhandho hoti, manāyatanaṃ hoti, manindriyaṃ hoti, manoviññāṇadhātu hoti, dhammāyatanaṃ hoti, dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^527
+121. Tasmiṃ kho pana samaye dhammā honti, khandhā honti, āyatanāni honti, dhātuyo honti, āhārā honti, indriyāni honti, jhānaṃ hoti, maggo hoti, balāni honti, hetū honti, phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vedanākkhandho hoti, saññākkhandho hoti, saṅkhārakkhandho hoti, viññāṇakkhandho hoti, manāyatanaṃ hoti, manindriyaṃ hoti, manoviññāṇadhātu hoti, dhammāyatanaṃ hoti, dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-122. Katame tasmiṃ samaye dhammā honti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime tasmiṃ samaye dhammā honti. ^528
+122. Katame tasmiṃ samaye dhammā honti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime tasmiṃ samaye dhammā honti.
 
-123. Katame tasmiṃ samaye khandhā honti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime tasmiṃ samaye khandhā honti. ^529
+123. Katame tasmiṃ samaye khandhā honti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime tasmiṃ samaye khandhā honti.
 
-124. Katamāni tasmiṃ samaye āyatanāni honti? Manāyatanaṃ, dhammāyatanaṃ – imāni tasmiṃ samaye āyatanāni honti. ^530
+124. Katamāni tasmiṃ samaye āyatanāni honti? Manāyatanaṃ, dhammāyatanaṃ – imāni tasmiṃ samaye āyatanāni honti.
 
-125. Katamā tasmiṃ samaye dhātuyo honti? Manoviññāṇadhātu, dhammadhātu – imā tasmiṃ samaye dhātuyo honti. ^531
+125. Katamā tasmiṃ samaye dhātuyo honti? Manoviññāṇadhātu, dhammadhātu – imā tasmiṃ samaye dhātuyo honti.
 
-126. Katame tasmiṃ samaye āhārā honti? Phassāhāro, manosañcetanāhāro, viññāṇāhāro – ime tasmiṃ samaye āhārā honti. ^532
+126. Katame tasmiṃ samaye āhārā honti? Phassāhāro, manosañcetanāhāro, viññāṇāhāro – ime tasmiṃ samaye āhārā honti.
 
-127. Katamāni tasmiṃ samaye indriyāni honti? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, manindriyaṃ, somanassindriyaṃ, jīvitindriyaṃ – imāni tasmiṃ samaye indriyāni honti. ^533
+127. Katamāni tasmiṃ samaye indriyāni honti? Saddhindriyaṃ, vīriyindriyaṃ, satindriyaṃ, samādhindriyaṃ, paññindriyaṃ, manindriyaṃ, somanassindriyaṃ, jīvitindriyaṃ – imāni tasmiṃ samaye indriyāni honti.
 
-128. Katamaṃ tasmiṃ samaye jhānaṃ hoti? Vitakko, vicāro, pīti, sukhaṃ, cittassekaggatā – idaṃ tasmiṃ samaye jhānaṃ hoti. ^534
+128. Katamaṃ tasmiṃ samaye jhānaṃ hoti? Vitakko, vicāro, pīti, sukhaṃ, cittassekaggatā – idaṃ tasmiṃ samaye jhānaṃ hoti.
 
-129. Katamo tasmiṃ samaye maggo hoti? Sammādiṭṭhi, sammāsaṅkappo, sammāvāyāmo, sammāsati, sammāsamādhi – ayaṃ tasmiṃ samaye maggo hoti. ^535
+129. Katamo tasmiṃ samaye maggo hoti? Sammādiṭṭhi, sammāsaṅkappo, sammāvāyāmo, sammāsati, sammāsamādhi – ayaṃ tasmiṃ samaye maggo hoti.
 
-130. Katamāni tasmiṃ samaye balāni honti? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ, hiribalaṃ, ottappabalaṃ – imāni tasmiṃ samaye balāni honti. ^536
+130. Katamāni tasmiṃ samaye balāni honti? Saddhābalaṃ, vīriyabalaṃ, satibalaṃ, samādhibalaṃ, paññābalaṃ, hiribalaṃ, ottappabalaṃ – imāni tasmiṃ samaye balāni honti.
 
-131. Katame tasmiṃ samaye hetū honti? Alobho, adoso, amoho – ime tasmiṃ samaye hetū honti. ^537
+131. Katame tasmiṃ samaye hetū honti? Alobho, adoso, amoho – ime tasmiṃ samaye hetū honti.
 
-132. Katamo tasmiṃ samaye phasso hoti…pe… ayaṃ tasmiṃ samaye phasso hoti. ^538
+132. Katamo tasmiṃ samaye phasso hoti…pe… ayaṃ tasmiṃ samaye phasso hoti.
 
-133. Katamā tasmiṃ samaye vedanā hoti…pe… ayaṃ tasmiṃ samaye vedanā hoti. ^539
+133. Katamā tasmiṃ samaye vedanā hoti…pe… ayaṃ tasmiṃ samaye vedanā hoti.
 
-134. Katamā tasmiṃ samaye saññā hoti…pe… ayaṃ tasmiṃ samaye saññā hoti. ^540
+134. Katamā tasmiṃ samaye saññā hoti…pe… ayaṃ tasmiṃ samaye saññā hoti.
 
-135. Katamā tasmiṃ samaye cetanā hoti…pe… ayaṃ tasmiṃ samaye cetanā hoti? ^541
+135. Katamā tasmiṃ samaye cetanā hoti…pe… ayaṃ tasmiṃ samaye cetanā hoti?
 
-136. Katamaṃ tasmiṃ samaye cittaṃ hoti…pe… idaṃ tasmiṃ samaye cittaṃ hoti. ^542
+136. Katamaṃ tasmiṃ samaye cittaṃ hoti…pe… idaṃ tasmiṃ samaye cittaṃ hoti.
 
-137. Katamo tasmiṃ samaye vedanākkhandho hoti…pe… ayaṃ tasmiṃ samaye vedanākkhandho hoti. ^543
+137. Katamo tasmiṃ samaye vedanākkhandho hoti…pe… ayaṃ tasmiṃ samaye vedanākkhandho hoti.
 
-138. Katamo tasmiṃ samaye saññākkhandho hoti…pe… ayaṃ tasmiṃ samaye saññākkhandho hoti. ^544
+138. Katamo tasmiṃ samaye saññākkhandho hoti…pe… ayaṃ tasmiṃ samaye saññākkhandho hoti.
 
-139. Katamo tasmiṃ samaye saṅkhārakkhandho hoti…pe… ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti. ^545
+139. Katamo tasmiṃ samaye saṅkhārakkhandho hoti…pe… ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti.
 
-140. Katamo tasmiṃ samaye viññāṇakkhandho hoti…pe… ayaṃ tasmiṃ samaye viññāṇakkhandho hoti. ^546
+140. Katamo tasmiṃ samaye viññāṇakkhandho hoti…pe… ayaṃ tasmiṃ samaye viññāṇakkhandho hoti.
 
-141. Katamaṃ tasmiṃ samaye manāyatanaṃ hoti…pe… idaṃ tasmiṃ samaye manāyatanaṃ hoti. ^547
+141. Katamaṃ tasmiṃ samaye manāyatanaṃ hoti…pe… idaṃ tasmiṃ samaye manāyatanaṃ hoti.
 
-142. Katamaṃ tasmiṃ samaye manindriyaṃ hoti…pe… idaṃ tasmiṃ samaye manindriyaṃ hoti. ^548
+142. Katamaṃ tasmiṃ samaye manindriyaṃ hoti…pe… idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-143. Katamā tasmiṃ samaye manoviññāṇadhātu hoti…pe… ayaṃ tasmiṃ samaye manoviññāṇadhātu hoti. ^549
+143. Katamā tasmiṃ samaye manoviññāṇadhātu hoti…pe… ayaṃ tasmiṃ samaye manoviññāṇadhātu hoti.
 
-144. Katamaṃ tasmiṃ samaye dhammāyatanaṃ hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – idaṃ tasmiṃ samaye dhammāyatanaṃ hoti. ^550
+144. Katamaṃ tasmiṃ samaye dhammāyatanaṃ hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – idaṃ tasmiṃ samaye dhammāyatanaṃ hoti.
 
-145. Katamā tasmiṃ samaye dhammadhātu hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ayaṃ tasmiṃ samaye dhammadhātu hoti. ^551
+145. Katamā tasmiṃ samaye dhammadhātu hoti? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ayaṃ tasmiṃ samaye dhammadhātu hoti.
 
-Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^552
+Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-Suññatavāro. ^553
+Suññatavāro.
 
-Paṭhamaṃ cittaṃ. ^554
+Paṭhamaṃ cittaṃ.
 
-146. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^555
+146. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Dutiyaṃ cittaṃ. ^556
+Dutiyaṃ cittaṃ.
 
-147. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇavippayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammāsaṅkappo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, anabhijjhā hoti, abyāpādo hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti, kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^557
+147. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇavippayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammāsaṅkappo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, anabhijjhā hoti, abyāpādo hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti, kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, sattindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, cha balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^558
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, sattindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, cha balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-148. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ jīvitindriyaṃ sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ hiribalaṃ ottappabalaṃ alobho adoso anabhijjhā abyāpādo hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^559
+148. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ jīvitindriyaṃ sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ hiribalaṃ ottappabalaṃ alobho adoso anabhijjhā abyāpādo hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-Tatiyaṃ cittaṃ. ^560
+Tatiyaṃ cittaṃ.
 
-149. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^561
+149. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Catutthaṃ cittaṃ. ^562
+Catutthaṃ cittaṃ.
 
-150. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāsaṅkappo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, paññābalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, amoho hoti, anabhijjhā hoti, abyāpādo hoti, sammādiṭṭhi hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, sampajaññaṃ hoti, samatho hoti, vipassanā hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^563
+150. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāsaṅkappo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, paññābalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, amoho hoti, anabhijjhā hoti, abyāpādo hoti, sammādiṭṭhi hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, sampajaññaṃ hoti, samatho hoti, vipassanā hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-151. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^564
+151. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-152. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti…pe…. ^565
+152. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti…pe….
 
-153. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti…pe…. ^566
+153. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti…pe….
 
-154. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^567
+154. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, pañcaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^568
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, pañcaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-155. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ alobho adoso amoho anabhijjhā abyāpādo sammādiṭṭhi hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati sampajaññaṃ samatho vipassanā paggāho avikkhepo. ^569
+155. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ alobho adoso amoho anabhijjhā abyāpādo sammādiṭṭhi hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati sampajaññaṃ samatho vipassanā paggāho avikkhepo.
 
-Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^570
+Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-Pañcamaṃ cittaṃ. ^571
+Pañcamaṃ cittaṃ.
 
-156. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^572
+156. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Chaṭṭhaṃ cittaṃ. ^573
+Chaṭṭhaṃ cittaṃ.
 
-157. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇavippayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, sammāsaṅkappo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, anabhijjhā hoti, abyāpādo hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti, kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^574
+157. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇavippayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, sammāsaṅkappo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, anabhijjhā hoti, abyāpādo hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti, kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, sattindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, cha balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^575
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, sattindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, cha balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-158. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ jīvitindriyaṃ sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ hiribalaṃ ottappabalaṃ alobho adoso anabhijjhā abyāpādo hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati samatho paggāho avikkhepo. ^576
+158. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ jīvitindriyaṃ sammāsaṅkappo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ hiribalaṃ ottappabalaṃ alobho adoso anabhijjhā abyāpādo hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati samatho paggāho avikkhepo.
 
-Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^577
+Ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-Sattamaṃ cittaṃ. ^578
+Sattamaṃ cittaṃ.
 
-159. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^579
+159. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ ñāṇavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Aṭṭhamaṃ cittaṃ. ^580
+Aṭṭhamaṃ cittaṃ.
 
-Aṭṭha kāmāvacaramahākusalacittāni. ^581
+Aṭṭha kāmāvacaramahākusalacittāni.
 
-Dutiyabhāṇavāro. ^582
+Dutiyabhāṇavāro.
 
-Rūpāvacarakusalaṃ ^583
+Rūpāvacarakusalaṃ
 
-Catukkanayo ^584
+Catukkanayo
 
-160. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^585
+160. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-161. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^586
+161. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ cetaso ekodibhāvaṃ avitakkaṃ avicāraṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, tivaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^587
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, tivaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-162. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^588
+162. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-163. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti – ‘‘upekkhako satimā sukhavihārī’’ti tatiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^589
+163. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno sukhañca kāyena paṭisaṃvedeti, yaṃ taṃ ariyā ācikkhanti – ‘‘upekkhako satimā sukhavihārī’’ti tatiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, duvaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^590
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, duvaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-164. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^591
+164. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-165. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, upekkhā hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti… pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^592
+165. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṃ atthaṅgamā adukkhamasukhaṃ upekkhāsatipārisuddhiṃ catutthaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, upekkhā hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti… pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, duvaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^593
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, duvaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-166. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^594
+166. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-Catukkanayo. ^595
+Catukkanayo.
 
-Pañcakanayo ^596
+Pañcakanayo
 
-167. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ – tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^597
+167. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ – tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-168. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti avitakkaṃ vicāramattaṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^598
+168. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti avitakkaṃ vicāramattaṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^599
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-169. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^600
+169. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-170. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… tatiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^601
+170. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… tatiyaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, tivaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^602
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, tivaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-171. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^603
+171. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-172. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti pītiyā ca virāgā…pe… catutthaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^604
+172. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti pītiyā ca virāgā…pe… catutthaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, duvaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^605
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, duvaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-173. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^606
+173. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-174. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti sukhassa ca pahānā…pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, upekkhā hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^607
+174. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti sukhassa ca pahānā…pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, upekkhā hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, sammādiṭṭhi hoti, sammāvāyāmo hoti…pe… paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, duvaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^608
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, aṭṭhindriyāni honti, duvaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-175. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^609
+175. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ sammādiṭṭhi sammāvāyāmo…pe… paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-Pañcakanayo. ^610
+Pañcakanayo.
 
-Catasso paṭipadā ^611
+Catasso paṭipadā
 
-176. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^612
+176. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-177. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^613
+177. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-178. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^614
+178. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-179. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā…pe…. ^615
+179. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā…pe….
 
-180. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ pathavīkasiṇaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ pathavīkasiṇaṃ – tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^616
+180. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ pathavīkasiṇaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ pathavīkasiṇaṃ – tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Catasso paṭipadā. ^617
+Catasso paṭipadā.
 
-Cattāri ārammaṇāni ^618
+Cattāri ārammaṇāni
 
-181. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. ^619
+181. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-182. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ – tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^620
+182. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ – tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-183. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^621
+183. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-184. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^622
+184. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-185. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ… pe… appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^623
+185. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ… pe… appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Cattāri ārammaṇāni. ^624
+Cattāri ārammaṇāni.
 
-Soḷasakkhattukaṃ ^625
+Soḷasakkhattukaṃ
 
-186. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^626
+186. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-187. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^627
+187. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-188. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^628
+188. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-189. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^629
+189. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-190. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^630
+190. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-191. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi …pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^631
+191. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi …pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-192. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^632
+192. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-193. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^633
+193. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-194. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^634
+194. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-195. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^635
+195. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-196. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^636
+196. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-197. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^637
+197. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-198. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^638
+198. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-199. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^639
+199. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-200. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^640
+200. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-201. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^641
+201. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-202. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ… pe… dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ… pe… dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ… pe… sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ – tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^642
+202. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ… pe… dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ… pe… dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ… pe… sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ pathavīkasiṇaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ pathavīkasiṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ pathavīkasiṇaṃ – tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Soḷasakkhattukaṃ. ^643
+Soḷasakkhattukaṃ.
 
-Aṭṭhakasiṇaṃ soḷasakkhattukaṃ ^644
+Aṭṭhakasiṇaṃ soḷasakkhattukaṃ
 
-203. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati āpokasiṇaṃ…pe… tejokasiṇaṃ…pe… vāyokasiṇaṃ…pe… nīlakasiṇaṃ… pe… pītakasiṇaṃ…pe… lohitakasiṇaṃ…pe… odātakasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^645
+203. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati āpokasiṇaṃ…pe… tejokasiṇaṃ…pe… vāyokasiṇaṃ…pe… nīlakasiṇaṃ… pe… pītakasiṇaṃ…pe… lohitakasiṇaṃ…pe… odātakasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Aṭṭhakasiṇaṃ soḷasakkhattukaṃ. ^646
+Aṭṭhakasiṇaṃ soḷasakkhattukaṃ.
 
-Abhibhāyatanāni parittāni ^647
+Abhibhāyatanāni parittāni
 
-204. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^648
+204. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-205. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ …pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^649
+205. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ …pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Catasso paṭipadā ^650
+Catasso paṭipadā
 
-206. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^651
+206. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-207. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^652
+207. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-208. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^653
+208. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-209. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^654
+209. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-210. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ …pe… sukhapaṭipadaṃ dandhābhiññaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^655
+210. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ …pe… sukhapaṭipadaṃ dandhābhiññaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Catasso paṭipadā. ^656
+Catasso paṭipadā.
 
-Dve ārammaṇāni ^657
+Dve ārammaṇāni
 
-211. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^658
+211. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-212. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^659
+212. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-213. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati parittaṃ parittārammaṇaṃ…pe… appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^660
+213. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati parittaṃ parittārammaṇaṃ…pe… appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Dve ārammaṇāni. ^661
+Dve ārammaṇāni.
 
-Aṭṭhakkhattukaṃ ^662
+Aṭṭhakkhattukaṃ
 
-214. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^663
+214. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-215. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^664
+215. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-216. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^665
+216. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-217. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^666
+217. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-218. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^667
+218. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-219. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^668
+219. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-220. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^669
+220. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-221. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^670
+221. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-222. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. ^671
+222. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ parittārammaṇaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ parittārammaṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ parittaṃ parittārammaṇaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ parittārammaṇaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Aṭṭhakkhattukaṃ. ^672
+Aṭṭhakkhattukaṃ.
 
-Idampi aṭṭhakkhattukaṃ ^673
+Idampi aṭṭhakkhattukaṃ
 
-223. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^674
+223. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-224. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā… pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ… pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^675
+224. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati parittāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā… pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ… pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Idampi aṭṭhakkhattukaṃ. ^676
+Idampi aṭṭhakkhattukaṃ.
 
-Appamāṇāni ^677
+Appamāṇāni
 
-225. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^678
+225. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-226. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^679
+226. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Catasso paṭipadā ^680
+Catasso paṭipadā
 
-227. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^681
+227. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-228. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^682
+228. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-229. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^683
+229. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-230. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^684
+230. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-231. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^685
+231. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Catasso paṭipadā. ^686
+Catasso paṭipadā.
 
-Dve ārammaṇāni ^687
+Dve ārammaṇāni
 
-232. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^688
+232. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-233. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^689
+233. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-234. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati parittaṃ appamāṇārammaṇaṃ…pe… appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^690
+234. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati parittaṃ appamāṇārammaṇaṃ…pe… appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Dve ārammaṇāni. ^691
+Dve ārammaṇāni.
 
-Aparampi aṭṭhakkhattukaṃ ^692
+Aparampi aṭṭhakkhattukaṃ
 
-235. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^693
+235. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-236. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^694
+236. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-237. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^695
+237. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-238. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^696
+238. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-239. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^697
+239. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-240. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^698
+240. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-241. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^699
+241. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-242. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^700
+242. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-243. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ… pe… sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ… pe… sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^701
+243. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ… pe… sukhapaṭipadaṃ dandhābhiññaṃ parittaṃ appamāṇārammaṇaṃ… pe… sukhapaṭipadaṃ dandhābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ parittaṃ appamāṇārammaṇaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ appamāṇaṃ appamāṇārammaṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Aparampi aṭṭhakkhattukaṃ. ^702
+Aparampi aṭṭhakkhattukaṃ.
 
-Idampi aṭṭhakkhattukaṃ ^703
+Idampi aṭṭhakkhattukaṃ
 
-244. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^704
+244. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-245. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^705
+245. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati appamāṇāni suvaṇṇadubbaṇṇāni, tāni abhibhuyya jānāmi passāmīti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Idampi aṭṭhakkhattukaṃ. ^706
+Idampi aṭṭhakkhattukaṃ.
 
-246. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati nīlāni nīlavaṇṇāni nīlanidassanāni nīlanibhāsāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^707
+246. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati nīlāni nīlavaṇṇāni nīlanidassanāni nīlanibhāsāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-247. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati pītāni pītavaṇṇāni pītanidassanāni pītanibhāsāni…pe… lohitakāni lohitakavaṇṇāni lohitakanidassanāni lohitakanibhāsāni…pe… odātāni odātavaṇṇāni odātanidassanāni odātanibhāsāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^708
+247. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati pītāni pītavaṇṇāni pītanidassanāni pītanibhāsāni…pe… lohitakāni lohitakavaṇṇāni lohitakanidassanāni lohitakanibhāsāni…pe… odātāni odātavaṇṇāni odātanidassanāni odātanibhāsāni, tāni abhibhuyya jānāmi passāmīti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Imānipi abhibhāyatanāni soḷasakkhattukāni. ^709
+Imānipi abhibhāyatanāni soḷasakkhattukāni.
 
-Tīṇi vimokkhāni soḷasakkhattukāni ^710
+Tīṇi vimokkhāni soḷasakkhattukāni
 
-248. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti rūpī rūpāni passati vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^711
+248. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti rūpī rūpāni passati vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-249. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^712
+249. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti ajjhattaṃ arūpasaññī bahiddhā rūpāni passati vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-250. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti subhanti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^713
+250. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti subhanti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Imānipi tīṇi vimokkhāni soḷasakkhattukāni. ^714
+Imānipi tīṇi vimokkhāni soḷasakkhattukāni.
 
-Cattāri brahmavihārajhānāni soḷasakkhattukāni ^715
+Cattāri brahmavihārajhānāni soḷasakkhattukāni
 
-251. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^716
+251. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-252. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^717
+252. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-253. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti pītiyā ca virāgā…pe… tatiyaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^718
+253. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti pītiyā ca virāgā…pe… tatiyaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-254. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^719
+254. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-255. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti avitakkaṃ vicāramattaṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^720
+255. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti avitakkaṃ vicāramattaṃ samādhijaṃ pītisukhaṃ dutiyaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-256. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… tatiyaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^721
+256. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… tatiyaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-257. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti pītiyā ca virāgā…pe… catutthaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^722
+257. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti pītiyā ca virāgā…pe… catutthaṃ jhānaṃ upasampajja viharati mettāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-258. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati karuṇāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^723
+258. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati karuṇāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-259. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati karuṇāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^724
+259. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati karuṇāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-260. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati muditāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^725
+260. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati muditāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-261. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati muditāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^726
+261. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… catutthaṃ jhānaṃ upasampajja viharati muditāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-262. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^727
+262. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-Cattāri brahmavihārajhānāni soḷasakkhattukāni. ^728
+Cattāri brahmavihārajhānāni soḷasakkhattukāni.
 
-Asubhajhānaṃ soḷasakkhattukaṃ ^729
+Asubhajhānaṃ soḷasakkhattukaṃ
 
-263. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati uddhumātakasaññāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^730
+263. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati uddhumātakasaññāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-264. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati vinīlakasaññāsahagataṃ…pe… vipubbakasaññāsahagataṃ…pe… vicchiddakasaññāsahagataṃ…pe… vikkhāyitakasaññāsahagataṃ…pe… vikkhittakasaññāsahagataṃ…pe… hatavikkhittakasaññāsahagataṃ…pe… lohitakasaññāsahagataṃ…pe… puḷavakasaññāsahagataṃ …pe… aṭṭhikasaññāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^731
+264. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati vinīlakasaññāsahagataṃ…pe… vipubbakasaññāsahagataṃ…pe… vicchiddakasaññāsahagataṃ…pe… vikkhāyitakasaññāsahagataṃ…pe… vikkhittakasaññāsahagataṃ…pe… hatavikkhittakasaññāsahagataṃ…pe… lohitakasaññāsahagataṃ…pe… puḷavakasaññāsahagataṃ …pe… aṭṭhikasaññāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-Asubhajhānaṃ soḷasakkhattukaṃ. ^732
+Asubhajhānaṃ soḷasakkhattukaṃ.
 
-Rūpāvacarakusalaṃ. ^733
+Rūpāvacarakusalaṃ.
 
-Arūpāvacarakusalaṃ ^734
+Arūpāvacarakusalaṃ
 
-Cattāri arūpajhānāni soḷasakkhattukāni ^735
+Cattāri arūpajhānāni soḷasakkhattukāni
 
-265. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^736
+265. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-266. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^737
+266. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-267. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^738
+267. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-268. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^739
+268. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati upekkhāsahagataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Cattāri arūpajhānāni soḷasakkhattukāni. ^740
+Cattāri arūpajhānāni soḷasakkhattukāni.
 
-Arūpāvacarakusalaṃ. ^741
+Arūpāvacarakusalaṃ.
 
-Tebhūmakakusalaṃ ^742
+Tebhūmakakusalaṃ
 
-Kāmāvacarakusalaṃ ^743
+Kāmāvacarakusalaṃ
 
-269. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ hīnaṃ… pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ… pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ… pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ… pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^744
+269. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ hīnaṃ… pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ… pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ… pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ… pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-270. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ sasaṅkhārena…pe… somanassasahagataṃ ñāṇavippayuttaṃ…pe… somanassasahagataṃ ñāṇavippayuttaṃ sasaṅkhārena…pe… upekkhāsahagataṃ ñāṇasampayuttaṃ…pe… upekkhāsahagataṃ ñāṇasampayuttaṃ sasaṅkhārena…pe… upekkhāsahagataṃ ñāṇavippayuttaṃ…pe… upekkhāsahagataṃ ñāṇavippayuttaṃ sasaṅkhārena hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ… pe… cittādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^745
+270. Katame dhammā kusalā? Yasmiṃ samaye kāmāvacaraṃ kusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ ñāṇasampayuttaṃ sasaṅkhārena…pe… somanassasahagataṃ ñāṇavippayuttaṃ…pe… somanassasahagataṃ ñāṇavippayuttaṃ sasaṅkhārena…pe… upekkhāsahagataṃ ñāṇasampayuttaṃ…pe… upekkhāsahagataṃ ñāṇasampayuttaṃ sasaṅkhārena…pe… upekkhāsahagataṃ ñāṇavippayuttaṃ…pe… upekkhāsahagataṃ ñāṇavippayuttaṃ sasaṅkhārena hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ… pe… cittādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Kāmāvacarakusalaṃ. ^746
+Kāmāvacarakusalaṃ.
 
-Rūpāvacarakusalaṃ ^747
+Rūpāvacarakusalaṃ
 
-271. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^748
+271. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-272. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^749
+272. Katame dhammā kusalā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Rūpāvacarakusalaṃ. ^750
+Rūpāvacarakusalaṃ.
 
-Arūpāvacarakusalaṃ ^751
+Arūpāvacarakusalaṃ
 
-273. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^752
+273. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-274. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^753
+274. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-275. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^754
+275. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-276. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^755
+276. Katame dhammā kusalā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ…pe… chandādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… vīriyādhipateyyaṃ hīnaṃ…pe… majjhimaṃ…pe… paṇītaṃ…pe… cittādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ…pe… vīmaṃsādhipateyyaṃ hīnaṃ…pe… majjhimaṃ… pe… paṇītaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Arūpāvacarakusalaṃ. ^756
+Arūpāvacarakusalaṃ.
 
-Lokuttarakusalaṃ ^757
+Lokuttarakusalaṃ
 
-Suddhikapaṭipadā ^758
+Suddhikapaṭipadā
 
-277. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, anaññātaññassāmītindriyaṃ hoti, sammādiṭṭhi hoti, sammāsaṅkappo hoti, sammāvācā hoti, sammākammanto hoti, sammāājīvo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, paññābalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, amoho hoti, anabhijjhā hoti, abyāpādo hoti, sammādiṭṭhi hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti, kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, sampajaññaṃ hoti, samatho hoti, vipassanā hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^759
+277. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, saddhindriyaṃ hoti, vīriyindriyaṃ hoti, satindriyaṃ hoti, samādhindriyaṃ hoti, paññindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, anaññātaññassāmītindriyaṃ hoti, sammādiṭṭhi hoti, sammāsaṅkappo hoti, sammāvācā hoti, sammākammanto hoti, sammāājīvo hoti, sammāvāyāmo hoti, sammāsati hoti, sammāsamādhi hoti, saddhābalaṃ hoti, vīriyabalaṃ hoti, satibalaṃ hoti, samādhibalaṃ hoti, paññābalaṃ hoti, hiribalaṃ hoti, ottappabalaṃ hoti, alobho hoti, adoso hoti, amoho hoti, anabhijjhā hoti, abyāpādo hoti, sammādiṭṭhi hoti, hirī hoti, ottappaṃ hoti, kāyapassaddhi hoti, cittapassaddhi hoti, kāyalahutā hoti, cittalahutā hoti, kāyamudutā hoti, cittamudutā hoti, kāyakammaññatā hoti, cittakammaññatā hoti, kāyapāguññatā hoti, cittapāguññatā hoti, kāyujukatā hoti, cittujukatā hoti, sati hoti, sampajaññaṃ hoti, samatho hoti, vipassanā hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-278. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^760
+278. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-279. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti. ^761
+279. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti.
 
-280. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti. ^762
+280. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti.
 
-281. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti. ^763
+281. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti.
 
-282. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti. ^764
+282. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti.
 
-283. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye vitakko hoti. ^765
+283. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye vitakko hoti.
 
-284. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti. ^766
+284. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti.
 
-285. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa pītisambojjhaṅgo – ayaṃ tasmiṃ samaye pīti hoti. ^767
+285. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa pītisambojjhaṅgo – ayaṃ tasmiṃ samaye pīti hoti.
 
-286. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti. ^768
+286. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti.
 
-287. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^769
+287. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-288. Katamaṃ tasmiṃ samaye saddhindriyaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhindriyaṃ hoti. ^770
+288. Katamaṃ tasmiṃ samaye saddhindriyaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhindriyaṃ hoti.
 
-289. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti. ^771
+289. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti.
 
-290. Katamaṃ tasmiṃ samaye satindriyaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye satindriyaṃ hoti. ^772
+290. Katamaṃ tasmiṃ samaye satindriyaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye satindriyaṃ hoti.
 
-291. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye samādhindriyaṃ hoti. ^773
+291. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye samādhindriyaṃ hoti.
 
-292. Katamaṃ tasmiṃ samaye paññindriyaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye paññindriyaṃ hoti. ^774
+292. Katamaṃ tasmiṃ samaye paññindriyaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye paññindriyaṃ hoti.
 
-293. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti. ^775
+293. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-294. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti. ^776
+294. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti.
 
-295. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti. ^777
+295. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti.
 
-296. Katamaṃ tasmiṃ samaye anaññātaññassāmītindriyaṃ hoti? Yā tesaṃ dhammānaṃ anaññātānaṃ adiṭṭhānaṃ appattānaṃ aviditānaṃ asacchikatānaṃ sacchikiriyāya paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye anaññātaññassāmītindriyaṃ hoti. ^778
+296. Katamaṃ tasmiṃ samaye anaññātaññassāmītindriyaṃ hoti? Yā tesaṃ dhammānaṃ anaññātānaṃ adiṭṭhānaṃ appattānaṃ aviditānaṃ asacchikatānaṃ sacchikiriyāya paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye anaññātaññassāmītindriyaṃ hoti.
 
-297. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti. ^779
+297. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti.
 
-298. Katamo tasmiṃ samaye sammāsaṅkappo hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāsaṅkappo hoti. ^780
+298. Katamo tasmiṃ samaye sammāsaṅkappo hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā sammāsaṅkappo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāsaṅkappo hoti.
 
-299. Katamā tasmiṃ samaye sammāvācā hoti? Yā tasmiṃ samaye catūhi vacīduccaritehi ārati virati paṭivirati veramaṇī akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammāvācā maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāvācā hoti. ^781
+299. Katamā tasmiṃ samaye sammāvācā hoti? Yā tasmiṃ samaye catūhi vacīduccaritehi ārati virati paṭivirati veramaṇī akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammāvācā maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāvācā hoti.
 
-300. Katamo tasmiṃ samaye sammākammanto hoti? Yā tasmiṃ samaye tīhi kāyaduccaritehi ārati virati paṭivirati veramaṇī akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammākammanto maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammākammanto hoti. ^782
+300. Katamo tasmiṃ samaye sammākammanto hoti? Yā tasmiṃ samaye tīhi kāyaduccaritehi ārati virati paṭivirati veramaṇī akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammākammanto maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammākammanto hoti.
 
-301. Katamo tasmiṃ samaye sammāājīvo hoti? Yā tasmiṃ samaye micchāājīvā ārati virati paṭivirati veramaṇī akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammāājīvo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāājīvo hoti. ^783
+301. Katamo tasmiṃ samaye sammāājīvo hoti? Yā tasmiṃ samaye micchāājīvā ārati virati paṭivirati veramaṇī akiriyā akaraṇaṃ anajjhāpatti velāanatikkamo setughāto sammāājīvo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāājīvo hoti.
 
-302. Katamo tasmiṃ samaye sammāvāyāmo hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāvāyāmo hoti. ^784
+302. Katamo tasmiṃ samaye sammāvāyāmo hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāvāyāmo hoti.
 
-303. Katamā tasmiṃ samaye sammāsati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāsati hoti. ^785
+303. Katamā tasmiṃ samaye sammāsati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāsati hoti.
 
-304. Katamo tasmiṃ samaye sammāsamādhi hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāsamādhi hoti. ^786
+304. Katamo tasmiṃ samaye sammāsamādhi hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammāsamādhi hoti.
 
-305. Katamaṃ tasmiṃ samaye saddhābalaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhābalaṃ hoti. ^787
+305. Katamaṃ tasmiṃ samaye saddhābalaṃ hoti? Yā tasmiṃ samaye saddhā saddahanā okappanā abhippasādo saddhā saddhindriyaṃ saddhābalaṃ – idaṃ tasmiṃ samaye saddhābalaṃ hoti.
 
-306. Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye vīriyabalaṃ hoti. ^788
+306. Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye vīriyabalaṃ hoti.
 
-307. Katamaṃ tasmiṃ samaye satibalaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye satibalaṃ hoti. ^789
+307. Katamaṃ tasmiṃ samaye satibalaṃ hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye satibalaṃ hoti.
 
-308. Katamaṃ tasmiṃ samaye samādhibalaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye samādhibalaṃ hoti. ^790
+308. Katamaṃ tasmiṃ samaye samādhibalaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye samādhibalaṃ hoti.
 
-309. Katamaṃ tasmiṃ samaye paññābalaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye paññābalaṃ hoti. ^791
+309. Katamaṃ tasmiṃ samaye paññābalaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye paññābalaṃ hoti.
 
-310. Katamaṃ tasmiṃ samaye hiribalaṃ hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye hiribalaṃ hoti. ^792
+310. Katamaṃ tasmiṃ samaye hiribalaṃ hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye hiribalaṃ hoti.
 
-311. Katamaṃ tasmiṃ samaye ottappabalaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappabalaṃ hoti. ^793
+311. Katamaṃ tasmiṃ samaye ottappabalaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappabalaṃ hoti.
 
-312. Katamo tasmiṃ samaye alobho hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye alobho hoti. ^794
+312. Katamo tasmiṃ samaye alobho hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye alobho hoti.
 
-313. Katamo tasmiṃ samaye adoso hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye adoso hoti. ^795
+313. Katamo tasmiṃ samaye adoso hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye adoso hoti.
 
-314. Katamo tasmiṃ samaye amoho hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye amoho hoti. ^796
+314. Katamo tasmiṃ samaye amoho hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye amoho hoti.
 
-315. Katamā tasmiṃ samaye anabhijjhā hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye anabhijjhā hoti. ^797
+315. Katamā tasmiṃ samaye anabhijjhā hoti? Yo tasmiṃ samaye alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ tasmiṃ samaye anabhijjhā hoti.
 
-316. Katamo tasmiṃ samaye abyāpādo hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye abyāpādo hoti. ^798
+316. Katamo tasmiṃ samaye abyāpādo hoti? Yo tasmiṃ samaye adoso adussanā adussitattaṃ abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ tasmiṃ samaye abyāpādo hoti.
 
-317. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti. ^799
+317. Katamā tasmiṃ samaye sammādiṭṭhi hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sammādiṭṭhi hoti.
 
-318. Katamā tasmiṃ samaye hirī hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – ayaṃ tasmiṃ samaye hirī hoti. ^800
+318. Katamā tasmiṃ samaye hirī hoti? Yaṃ tasmiṃ samaye hirīyati hiriyitabbena hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – ayaṃ tasmiṃ samaye hirī hoti.
 
-319. Katamaṃ tasmiṃ samaye ottappaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappaṃ hoti. ^801
+319. Katamaṃ tasmiṃ samaye ottappaṃ hoti? Yaṃ tasmiṃ samaye ottappati ottappitabbena ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ottappaṃ hoti.
 
-320. Katamā tasmiṃ samaye kāyapassaddhi hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ passaddhisambojjhaṅgo – ayaṃ tasmiṃ samaye kāyapassaddhi hoti. ^802
+320. Katamā tasmiṃ samaye kāyapassaddhi hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ passaddhisambojjhaṅgo – ayaṃ tasmiṃ samaye kāyapassaddhi hoti.
 
-321. Katamā tasmiṃ samaye cittapassaddhi hoti? Yā tasmiṃ samaye viññāṇakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ passaddhisambojjhaṅgo – ayaṃ tasmiṃ samaye cittapassaddhi hoti. ^803
+321. Katamā tasmiṃ samaye cittapassaddhi hoti? Yā tasmiṃ samaye viññāṇakkhandhassa passaddhi paṭipassaddhi passambhanā paṭipassambhanā paṭipassambhitattaṃ passaddhisambojjhaṅgo – ayaṃ tasmiṃ samaye cittapassaddhi hoti.
 
-322. Katamā tasmiṃ samaye kāyalahutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye kāyalahutā hoti. ^804
+322. Katamā tasmiṃ samaye kāyalahutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye kāyalahutā hoti.
 
-323. Katamā tasmiṃ samaye cittalahutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye cittalahutā hoti. ^805
+323. Katamā tasmiṃ samaye cittalahutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa lahutā lahupariṇāmatā adandhanatā avitthanatā – ayaṃ tasmiṃ samaye cittalahutā hoti.
 
-324. Katamā tasmiṃ samaye kāyamudutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye kāyamudutā hoti. ^806
+324. Katamā tasmiṃ samaye kāyamudutā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye kāyamudutā hoti.
 
-325. Katamā tasmiṃ samaye cittamudutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye cittamudutā hoti. ^807
+325. Katamā tasmiṃ samaye cittamudutā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa mudutā maddavatā akakkhaḷatā akathinatā – ayaṃ tasmiṃ samaye cittamudutā hoti.
 
-326. Katamā tasmiṃ samaye kāyakammaññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye kāyakammaññatā hoti. ^808
+326. Katamā tasmiṃ samaye kāyakammaññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye kāyakammaññatā hoti.
 
-327. Katamā tasmiṃ samaye cittakammaññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye cittakammaññatā hoti. ^809
+327. Katamā tasmiṃ samaye cittakammaññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa kammaññatā kammaññattaṃ kammaññabhāvo – ayaṃ tasmiṃ samaye cittakammaññatā hoti.
 
-328. Katamā tasmiṃ samaye kāyapāguññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye kāyapāguññatā hoti. ^810
+328. Katamā tasmiṃ samaye kāyapāguññatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye kāyapāguññatā hoti.
 
-329. Katamā tasmiṃ samaye cittapāguññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye cittapāguññatā hoti. ^811
+329. Katamā tasmiṃ samaye cittapāguññatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa paguṇatā paguṇattaṃ paguṇabhāvo – ayaṃ tasmiṃ samaye cittapāguññatā hoti.
 
-330. Katamā tasmiṃ samaye kāyujukatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye kāyujukatā hoti. ^812
+330. Katamā tasmiṃ samaye kāyujukatā hoti? Yā tasmiṃ samaye vedanākkhandhassa saññākkhandhassa saṅkhārakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye kāyujukatā hoti.
 
-331. Katamā tasmiṃ samaye cittujukatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye cittujukatā hoti. ^813
+331. Katamā tasmiṃ samaye cittujukatā hoti? Yā tasmiṃ samaye viññāṇakkhandhassa ujutā ujukatā ajimhatā avaṅkatā akuṭilatā – ayaṃ tasmiṃ samaye cittujukatā hoti.
 
-332. Katamā tasmiṃ samaye sati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sati hoti. ^814
+332. Katamā tasmiṃ samaye sati hoti? Yā tasmiṃ samaye sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammussanatā sati satindriyaṃ satibalaṃ sammāsati satisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye sati hoti.
 
-333. Katamaṃ tasmiṃ samaye sampajaññaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye sampajaññaṃ hoti. ^815
+333. Katamaṃ tasmiṃ samaye sampajaññaṃ hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye sampajaññaṃ hoti.
 
-334. Katamo tasmiṃ samaye samatho hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye samatho hoti. ^816
+334. Katamo tasmiṃ samaye samatho hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye samatho hoti.
 
-335. Katamā tasmiṃ samaye vipassanā hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye vipassanā hoti. ^817
+335. Katamā tasmiṃ samaye vipassanā hoti? Yā tasmiṃ samaye paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye vipassanā hoti.
 
-336. Katamo tasmiṃ samaye paggāho hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye paggāho hoti. ^818
+336. Katamo tasmiṃ samaye paggāho hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ sammāvāyāmo vīriyasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye paggāho hoti.
 
-337. Katamo tasmiṃ samaye avikkhepo hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^819
+337. Katamo tasmiṃ samaye avikkhepo hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ sammāsamādhi samādhisambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ tasmiṃ samaye avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, navindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, aṭṭhaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti, ekā vedanā hoti, ekā saññā hoti, ekā cetanā hoti, ekaṃ cittaṃ hoti, eko vedanākkhandho hoti, eko saññākkhandho hoti, eko saṅkhārakkhandho hoti, eko viññāṇakkhandho hoti, ekaṃ manāyatanaṃ hoti, ekaṃ manindriyaṃ hoti, ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe…. ^820
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, navindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, aṭṭhaṅgiko maggo hoti, satta balāni honti, tayo hetū honti, eko phasso hoti, ekā vedanā hoti, ekā saññā hoti, ekā cetanā hoti, ekaṃ cittaṃ hoti, eko vedanākkhandho hoti, eko saññākkhandho hoti, eko saṅkhārakkhandho hoti, eko viññāṇakkhandho hoti, ekaṃ manāyatanaṃ hoti, ekaṃ manindriyaṃ hoti, ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā…pe….
 
-338. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ anaññātaññassāmītindriyaṃ sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ alobho adoso amoho anabhijjhā abyāpādo sammādiṭṭhi hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati sampajaññaṃ samatho vipassanā paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā. ^821
+338. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā saddhindriyaṃ vīriyindriyaṃ satindriyaṃ samādhindriyaṃ paññindriyaṃ jīvitindriyaṃ anaññātaññassāmītindriyaṃ sammādiṭṭhi sammāsaṅkappo sammāvācā sammākammanto sammāājīvo sammāvāyāmo sammāsati sammāsamādhi saddhābalaṃ vīriyabalaṃ satibalaṃ samādhibalaṃ paññābalaṃ hiribalaṃ ottappabalaṃ alobho adoso amoho anabhijjhā abyāpādo sammādiṭṭhi hirī ottappaṃ kāyapassaddhi cittapassaddhi kāyalahutā cittalahutā kāyamudutā cittamudutā kāyakammaññatā cittakammaññatā kāyapāguññatā cittapāguññatā kāyujukatā cittujukatā sati sampajaññaṃ samatho vipassanā paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā kusalā.
 
-339. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. ^822
+339. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-340. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. ^823
+340. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-341. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. ^824
+341. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-342. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā …pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^825
+342. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā …pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Suddhikapaṭipadā. ^826
+Suddhikapaṭipadā.
 
-Suññataṃ ^827
+Suññataṃ
 
-343. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^828
+343. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-344. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^829
+344. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Suññataṃ. ^830
+Suññataṃ.
 
-Suññatamūlakapaṭipadā ^831
+Suññatamūlakapaṭipadā
 
-345. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^832
+345. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-346. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^833
+346. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-347. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^834
+347. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-348. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^835
+348. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-349. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ suññataṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^836
+349. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ suññataṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-Suññatamūlakapaṭipadā. ^837
+Suññatamūlakapaṭipadā.
 
-Appaṇihitaṃ ^838
+Appaṇihitaṃ
 
-350. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. ^839
+350. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā.
 
-351. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^840
+351. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Appaṇihitaṃ. ^841
+Appaṇihitaṃ.
 
-Appaṇihitamūlakapaṭipadā ^842
+Appaṇihitamūlakapaṭipadā
 
-352. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^843
+352. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-353. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^844
+353. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-354. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^845
+354. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-355. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^846
+355. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-356. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^847
+356. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ…pe… dukkhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Appaṇihitamūlakapaṭipadā. ^848
+Appaṇihitamūlakapaṭipadā.
 
-Vīsati mahānayā ^849
+Vīsati mahānayā
 
-357. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ maggaṃ bhāveti…pe… lokuttaraṃ satipaṭṭhānaṃ bhāveti…pe… lokuttaraṃ sammappadhānaṃ bhāveti…pe… lokuttaraṃ iddhipādaṃ bhāveti…pe… lokuttaraṃ indriyaṃ bhāveti…pe… lokuttaraṃ balaṃ bhāveti…pe… lokuttaraṃ bojjhaṅgaṃ bhāveti…pe… lokuttaraṃ saccaṃ bhāveti…pe… lokuttaraṃ samathaṃ bhāveti…pe… lokuttaraṃ dhammaṃ bhāveti…pe… lokuttaraṃ khandhaṃ bhāveti…pe… lokuttaraṃ āyatanaṃ bhāveti…pe… lokuttaraṃ dhātuṃ bhāveti…pe… lokuttaraṃ āhāraṃ bhāveti…pe… lokuttaraṃ phassaṃ bhāveti…pe… lokuttaraṃ vedanaṃ bhāveti…pe… lokuttaraṃ saññaṃ bhāveti…pe… lokuttaraṃ cetanaṃ bhāveti…pe… lokuttaraṃ cittaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. ^850
+357. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ maggaṃ bhāveti…pe… lokuttaraṃ satipaṭṭhānaṃ bhāveti…pe… lokuttaraṃ sammappadhānaṃ bhāveti…pe… lokuttaraṃ iddhipādaṃ bhāveti…pe… lokuttaraṃ indriyaṃ bhāveti…pe… lokuttaraṃ balaṃ bhāveti…pe… lokuttaraṃ bojjhaṅgaṃ bhāveti…pe… lokuttaraṃ saccaṃ bhāveti…pe… lokuttaraṃ samathaṃ bhāveti…pe… lokuttaraṃ dhammaṃ bhāveti…pe… lokuttaraṃ khandhaṃ bhāveti…pe… lokuttaraṃ āyatanaṃ bhāveti…pe… lokuttaraṃ dhātuṃ bhāveti…pe… lokuttaraṃ āhāraṃ bhāveti…pe… lokuttaraṃ phassaṃ bhāveti…pe… lokuttaraṃ vedanaṃ bhāveti…pe… lokuttaraṃ saññaṃ bhāveti…pe… lokuttaraṃ cetanaṃ bhāveti…pe… lokuttaraṃ cittaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Vīsati mahānayā. ^851
+Vīsati mahānayā.
 
-Adhipati ^852
+Adhipati
 
-358. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^853
+358. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-359. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ …pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ… pe… vīmaṃsādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^854
+359. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ …pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ… pe… vīmaṃsādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-360. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ maggaṃ bhāveti…pe… lokuttaraṃ satipaṭṭhānaṃ bhāveti…pe… lokuttaraṃ sammappadhānaṃ bhāveti…pe… lokuttaraṃ iddhipādaṃ bhāveti…pe… lokuttaraṃ indriyaṃ bhāveti…pe… lokuttaraṃ balaṃ bhāveti…pe… lokuttaraṃ bojjhaṅgaṃ bhāveti…pe… lokuttaraṃ saccaṃ bhāveti…pe… lokuttaraṃ samathaṃ bhāveti…pe… lokuttaraṃ dhammaṃ bhāveti…pe… lokuttaraṃ khandhaṃ bhāveti…pe… lokuttaraṃ āyatanaṃ bhāveti…pe… lokuttaraṃ dhātuṃ bhāveti…pe… lokuttaraṃ āhāraṃ bhāveti…pe… lokuttaraṃ phassaṃ bhāveti…pe… lokuttaraṃ vedanaṃ bhāveti…pe… lokuttaraṃ saññaṃ bhāveti…pe… lokuttaraṃ cetanaṃ bhāveti…pe… lokuttaraṃ cittaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^855
+360. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ maggaṃ bhāveti…pe… lokuttaraṃ satipaṭṭhānaṃ bhāveti…pe… lokuttaraṃ sammappadhānaṃ bhāveti…pe… lokuttaraṃ iddhipādaṃ bhāveti…pe… lokuttaraṃ indriyaṃ bhāveti…pe… lokuttaraṃ balaṃ bhāveti…pe… lokuttaraṃ bojjhaṅgaṃ bhāveti…pe… lokuttaraṃ saccaṃ bhāveti…pe… lokuttaraṃ samathaṃ bhāveti…pe… lokuttaraṃ dhammaṃ bhāveti…pe… lokuttaraṃ khandhaṃ bhāveti…pe… lokuttaraṃ āyatanaṃ bhāveti…pe… lokuttaraṃ dhātuṃ bhāveti…pe… lokuttaraṃ āhāraṃ bhāveti…pe… lokuttaraṃ phassaṃ bhāveti…pe… lokuttaraṃ vedanaṃ bhāveti…pe… lokuttaraṃ saññaṃ bhāveti…pe… lokuttaraṃ cetanaṃ bhāveti…pe… lokuttaraṃ cittaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Adhipati. ^856
+Adhipati.
 
-Paṭhamo maggo. ^857
+Paṭhamo maggo.
 
-361. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ kāmarāgabyāpādānaṃ tanubhāvāya dutiyāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^858
+361. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ kāmarāgabyāpādānaṃ tanubhāvāya dutiyāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Dutiyo maggo. ^859
+Dutiyo maggo.
 
-362. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ kāmarāgabyāpādānaṃ anavasesappahānāya tatiyāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. ^860
+362. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ kāmarāgabyāpādānaṃ anavasesappahānāya tatiyāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā.
 
-Tatiyo maggo. ^861
+Tatiyo maggo.
 
-363. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ rūparāgaarūparāgamānauddhaccaavijjāya anavasesappahānāya catutthāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā…pe…. ^862
+363. Katame dhammā kusalā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ rūparāgaarūparāgamānauddhaccaavijjāya anavasesappahānāya catutthāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā…pe….
 
-364. Katamaṃ tasmiṃ samaye aññindriyaṃ hoti? Yā tesaṃ dhammānaṃ ñātānaṃ diṭṭhānaṃ pattānaṃ viditānaṃ sacchikatānaṃ sacchikiriyāya paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ, idaṃ tasmiṃ samaye aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā. ^863
+364. Katamaṃ tasmiṃ samaye aññindriyaṃ hoti? Yā tesaṃ dhammānaṃ ñātānaṃ diṭṭhānaṃ pattānaṃ viditānaṃ sacchikatānaṃ sacchikiriyāya paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ, idaṃ tasmiṃ samaye aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā kusalā.
 
-Catuttho maggo. ^864
+Catuttho maggo.
 
-Lokuttaraṃ cittaṃ. ^865
+Lokuttaraṃ cittaṃ.
 
-Dvādasa akusalāni ^866
+Dvādasa akusalāni
 
-365. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, micchādiṭṭhi hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, lobho hoti, moho hoti, abhijjhā hoti, micchādiṭṭhi hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^867
+365. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, micchādiṭṭhi hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, lobho hoti, moho hoti, abhijjhā hoti, micchādiṭṭhi hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-366. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^868
+366. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-367. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti. ^869
+367. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti.
 
-368. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti. ^870
+368. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti.
 
-369. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti. ^871
+369. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti.
 
-370. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti. ^872
+370. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti.
 
-371. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā micchāsaṅkappo – ayaṃ tasmiṃ samaye vitakko hoti. ^873
+371. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā micchāsaṅkappo – ayaṃ tasmiṃ samaye vitakko hoti.
 
-372. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti. ^874
+372. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti.
 
-373. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa – ayaṃ tasmiṃ samaye pīti hoti. ^875
+373. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa – ayaṃ tasmiṃ samaye pīti hoti.
 
-374. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti. ^876
+374. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti.
 
-375. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^877
+375. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-376. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ micchāvāyāmo – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti. ^878
+376. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ micchāvāyāmo – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti.
 
-377. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – idaṃ tasmiṃ samaye samādhindriyaṃ hoti? ^879
+377. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – idaṃ tasmiṃ samaye samādhindriyaṃ hoti?
 
-378. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti. ^880
+378. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-379. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti. ^881
+379. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti.
 
-380. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti. ^882
+380. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti.
 
-381. Katamā tasmiṃ samaye micchādiṭṭhi hoti? Yā tasmiṃ samaye diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ tasmiṃ samaye micchādiṭṭhi hoti. ^883
+381. Katamā tasmiṃ samaye micchādiṭṭhi hoti? Yā tasmiṃ samaye diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ tasmiṃ samaye micchādiṭṭhi hoti.
 
-382. Katamo tasmiṃ samaye micchāsaṅkappo hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā micchāsaṅkappo – ayaṃ tasmiṃ samaye micchāsaṅkappo hoti. ^884
+382. Katamo tasmiṃ samaye micchāsaṅkappo hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā micchāsaṅkappo – ayaṃ tasmiṃ samaye micchāsaṅkappo hoti.
 
-383. Katamo tasmiṃ samaye micchāvāyāmo hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ micchāvāyāmo – ayaṃ tasmiṃ samaye micchāvāyāmo hoti. ^885
+383. Katamo tasmiṃ samaye micchāvāyāmo hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ micchāvāyāmo – ayaṃ tasmiṃ samaye micchāvāyāmo hoti.
 
-384. Katamo tasmiṃ samaye micchāsamādhi hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – ayaṃ tasmiṃ samaye micchāsamādhi hoti. ^886
+384. Katamo tasmiṃ samaye micchāsamādhi hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – ayaṃ tasmiṃ samaye micchāsamādhi hoti.
 
-385. Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ micchāvāyāmo – idaṃ tasmiṃ samaye vīriyabalaṃ hoti. ^887
+385. Katamaṃ tasmiṃ samaye vīriyabalaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ micchāvāyāmo – idaṃ tasmiṃ samaye vīriyabalaṃ hoti.
 
-386. Katamaṃ tasmiṃ samaye samādhibalaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – idaṃ tasmiṃ samaye samādhibalaṃ hoti. ^888
+386. Katamaṃ tasmiṃ samaye samādhibalaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – idaṃ tasmiṃ samaye samādhibalaṃ hoti.
 
-387. Katamaṃ tasmiṃ samaye ahirikabalaṃ hoti? Yaṃ tasmiṃ samaye na hirīyati hiriyitabbena na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ahirikabalaṃ hoti. ^889
+387. Katamaṃ tasmiṃ samaye ahirikabalaṃ hoti? Yaṃ tasmiṃ samaye na hirīyati hiriyitabbena na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ahirikabalaṃ hoti.
 
-388. Katamaṃ tasmiṃ samaye anottappabalaṃ hoti? Yaṃ tasmiṃ samaye na ottappati ottappitabbena na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye anottappabalaṃ hoti. ^890
+388. Katamaṃ tasmiṃ samaye anottappabalaṃ hoti? Yaṃ tasmiṃ samaye na ottappati ottappitabbena na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye anottappabalaṃ hoti.
 
-389. Katamo tasmiṃ samaye lobho hoti? Yo tasmiṃ samaye lobho lubbhanā lubbhitattaṃ sārāgo sārajjanā sārajjitattaṃ abhijjhā lobho akusalamūlaṃ – ayaṃ tasmiṃ samaye lobho hoti. ^891
+389. Katamo tasmiṃ samaye lobho hoti? Yo tasmiṃ samaye lobho lubbhanā lubbhitattaṃ sārāgo sārajjanā sārajjitattaṃ abhijjhā lobho akusalamūlaṃ – ayaṃ tasmiṃ samaye lobho hoti.
 
-390. Katamo tasmiṃ samaye moho hoti? Yaṃ tasmiṃ samaye aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhanā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – ayaṃ tasmiṃ samaye moho hoti. ^892
+390. Katamo tasmiṃ samaye moho hoti? Yaṃ tasmiṃ samaye aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhanā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – ayaṃ tasmiṃ samaye moho hoti.
 
-391. Katamā tasmiṃ samaye abhijjhā hoti? Yo tasmiṃ samaye lobho lubbhanā lubbhitattaṃ sārāgo sārajjanā sārajjitattaṃ abhijjhā lobho akusalamūlaṃ – ayaṃ tasmiṃ samaye abhijjhā hoti. ^893
+391. Katamā tasmiṃ samaye abhijjhā hoti? Yo tasmiṃ samaye lobho lubbhanā lubbhitattaṃ sārāgo sārajjanā sārajjitattaṃ abhijjhā lobho akusalamūlaṃ – ayaṃ tasmiṃ samaye abhijjhā hoti.
 
-392. Katamā tasmiṃ samaye micchādiṭṭhi hoti? Yā tasmiṃ samaye diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ tasmiṃ samaye micchādiṭṭhi hoti. ^894
+392. Katamā tasmiṃ samaye micchādiṭṭhi hoti? Yā tasmiṃ samaye diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ tasmiṃ samaye micchādiṭṭhi hoti.
 
-393. Katamaṃ tasmiṃ samaye ahirikaṃ hoti? Yaṃ tasmiṃ samaye na hirīyati hiriyitabbena na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ahirikaṃ hoti. ^895
+393. Katamaṃ tasmiṃ samaye ahirikaṃ hoti? Yaṃ tasmiṃ samaye na hirīyati hiriyitabbena na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye ahirikaṃ hoti.
 
-394. Katamaṃ tasmiṃ samaye anottappaṃ hoti? Yaṃ tasmiṃ samaye na ottappati ottappitabbena na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye anottappaṃ hoti. ^896
+394. Katamaṃ tasmiṃ samaye anottappaṃ hoti? Yaṃ tasmiṃ samaye na ottappati ottappitabbena na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ tasmiṃ samaye anottappaṃ hoti.
 
-395. Katamo tasmiṃ samaye samatho hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – ayaṃ tasmiṃ samaye samatho hoti. ^897
+395. Katamo tasmiṃ samaye samatho hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – ayaṃ tasmiṃ samaye samatho hoti.
 
-396. Katamo tasmiṃ samaye paggāho hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ micchāvāyāmo – ayaṃ tasmiṃ samaye paggāho hoti. ^898
+396. Katamo tasmiṃ samaye paggāho hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ micchāvāyāmo – ayaṃ tasmiṃ samaye paggāho hoti.
 
-397. Katamo tasmiṃ samaye avikkhepo hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – ayaṃ tasmiṃ samaye avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^899
+397. Katamo tasmiṃ samaye avikkhepo hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ micchāsamādhi – ayaṃ tasmiṃ samaye avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe…. ^900
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe….
 
-398. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchādiṭṭhi micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ lobho moho abhijjhā micchādiṭṭhi ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā. ^901
+398. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchādiṭṭhi micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ lobho moho abhijjhā micchādiṭṭhi ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā.
 
-399. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā. ^902
+399. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā.
 
-400. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatavippayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, lobho hoti, moho hoti, abhijjhā hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe…. ^903
+400. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatavippayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, lobho hoti, moho hoti, abhijjhā hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, tivaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe…. ^904
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, pañcaṅgikaṃ jhānaṃ hoti, tivaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe….
 
-401. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ lobho moho abhijjhā ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā. ^905
+401. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ lobho moho abhijjhā ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā.
 
-402. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā. ^906
+402. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti somanassasahagataṃ diṭṭhigatavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā.
 
-403. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ diṭṭhigatasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, micchādiṭṭhi hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, lobho hoti, moho hoti, abhijjhā hoti, micchādiṭṭhi hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^907
+403. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ diṭṭhigatasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, micchādiṭṭhi hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, lobho hoti, moho hoti, abhijjhā hoti, micchādiṭṭhi hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-404. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^908
+404. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-405. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti…pe…. ^909
+405. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti…pe….
 
-406. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti…pe…. ^910
+406. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti…pe….
 
-407. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^911
+407. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe…. ^912
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, caturaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe….
 
-408. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchādiṭṭhi micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ lobho moho abhijjhā micchādiṭṭhi ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā. ^913
+408. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchādiṭṭhi micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ lobho moho abhijjhā micchādiṭṭhi ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā.
 
-409. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ diṭṭhigatasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā. ^914
+409. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ diṭṭhigatasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā.
 
-410. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ diṭṭhigatavippayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, lobho hoti, moho hoti, abhijjhā hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā… pe…. ^915
+410. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ diṭṭhigatavippayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, lobho hoti, moho hoti, abhijjhā hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā… pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, tivaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe…. ^916
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, tivaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe….
 
-411. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ lobho moho abhijjhā ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā. ^917
+411. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ lobho moho abhijjhā ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā.
 
-412. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ diṭṭhigatavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā. ^918
+412. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ diṭṭhigatavippayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā.
 
-413. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti domanassasahagataṃ paṭighasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, dukkhaṃ hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, domanassindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, doso hoti, moho hoti, byāpādo hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^919
+413. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti domanassasahagataṃ paṭighasampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, dukkhaṃ hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, domanassindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, doso hoti, moho hoti, byāpādo hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-414. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^920
+414. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-415. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti…pe…. ^921
+415. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti…pe….
 
-416. Katamaṃ tasmiṃ samaye dukkhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – idaṃ tasmiṃ samaye dukkhaṃ hoti…pe…. ^922
+416. Katamaṃ tasmiṃ samaye dukkhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – idaṃ tasmiṃ samaye dukkhaṃ hoti…pe….
 
-417. Katamaṃ tasmiṃ samaye domanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – idaṃ tasmiṃ samaye domanassindriyaṃ hoti…pe…. ^923
+417. Katamaṃ tasmiṃ samaye domanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ asātaṃ cetasikaṃ dukkhaṃ cetosamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ cetosamphassajā asātā dukkhā vedanā – idaṃ tasmiṃ samaye domanassindriyaṃ hoti…pe….
 
-418. Katamo tasmiṃ samaye doso hoti? Yo tasmiṃ samaye doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ tasmiṃ samaye doso hoti…pe…. ^924
+418. Katamo tasmiṃ samaye doso hoti? Yo tasmiṃ samaye doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ tasmiṃ samaye doso hoti…pe….
 
-419. Katamo tasmiṃ samaye byāpādo hoti? Yo tasmiṃ samaye doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ tasmiṃ samaye byāpādo hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^925
+419. Katamo tasmiṃ samaye byāpādo hoti? Yo tasmiṃ samaye doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ tasmiṃ samaye byāpādo hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, tivaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe…. ^926
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, tivaṅgiko maggo hoti, cattāri balāni honti, dve hetū honti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe….
 
-420. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ doso moho byāpādo ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā. ^927
+420. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ doso moho byāpādo ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā.
 
-421. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti domanassasahagataṃ paṭighasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā. ^928
+421. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti domanassasahagataṃ paṭighasampayuttaṃ sasaṅkhārena rūpārammaṇaṃ vā…pe… dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā akusalā.
 
-422. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ vicikicchāsampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, vīriyabalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, vicikicchā hoti, moho hoti, ahirikaṃ hoti, anottappaṃ hoti, paggāho hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^929
+422. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ vicikicchāsampayuttaṃ rūpārammaṇaṃ vā saddārammaṇaṃ vā gandhārammaṇaṃ vā rasārammaṇaṃ vā phoṭṭhabbārammaṇaṃ vā dhammārammaṇaṃ vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, vīriyabalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, vicikicchā hoti, moho hoti, ahirikaṃ hoti, anottappaṃ hoti, paggāho hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-423. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti… pe…. ^930
+423. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti… pe….
 
-424. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti…pe…. ^931
+424. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti…pe….
 
-425. Katamā tasmiṃ samaye vicikicchā hoti? Yā tasmiṃ samaye kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – ayaṃ tasmiṃ samaye vicikicchā hoti… pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^932
+425. Katamā tasmiṃ samaye vicikicchā hoti? Yā tasmiṃ samaye kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – ayaṃ tasmiṃ samaye vicikicchā hoti… pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, cattāri indriyāni honti, caturaṅgikaṃ jhānaṃ hoti, duvaṅgiko maggo hoti, tīṇi balāni honti, eko hetu hoti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe…. ^933
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, cattāri indriyāni honti, caturaṅgikaṃ jhānaṃ hoti, duvaṅgiko maggo hoti, tīṇi balāni honti, eko hetu hoti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe….
 
-426. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo vīriyabalaṃ ahirikabalaṃ anottappabalaṃ vicikicchā moho ahirikaṃ anottappaṃ paggāho; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā. ^934
+426. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo vīriyabalaṃ ahirikabalaṃ anottappabalaṃ vicikicchā moho ahirikaṃ anottappaṃ paggāho; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā.
 
-427. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ uddhaccasampayuttaṃ rūpārammaṇaṃ vā…pe… yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, uddhaccaṃ hoti, moho hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^935
+427. Katame dhammā akusalā? Yasmiṃ samaye akusalaṃ cittaṃ uppannaṃ hoti upekkhāsahagataṃ uddhaccasampayuttaṃ rūpārammaṇaṃ vā…pe… yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti, micchāsaṅkappo hoti, micchāvāyāmo hoti, micchāsamādhi hoti, vīriyabalaṃ hoti, samādhibalaṃ hoti, ahirikabalaṃ hoti, anottappabalaṃ hoti, uddhaccaṃ hoti, moho hoti, ahirikaṃ hoti, anottappaṃ hoti, samatho hoti, paggāho hoti, avikkhepo hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-428. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti… pe…. ^936
+428. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti… pe….
 
-429. Katamaṃ tasmiṃ samaye uddhaccaṃ hoti? Yaṃ tasmiṃ samaye cittassa uddhaccaṃ avūpasamo cetaso vikkhepo bhantattaṃ cittassa – idaṃ tasmiṃ samaye uddhaccaṃ hoti …pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā. ^937
+429. Katamaṃ tasmiṃ samaye uddhaccaṃ hoti? Yaṃ tasmiṃ samaye cittassa uddhaccaṃ avūpasamo cetaso vikkhepo bhantattaṃ cittassa – idaṃ tasmiṃ samaye uddhaccaṃ hoti …pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, tivaṅgiko maggo hoti, cattāri balāni honti, eko hetu hoti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe…. ^938
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, caturaṅgikaṃ jhānaṃ hoti, tivaṅgiko maggo hoti, cattāri balāni honti, eko hetu hoti, eko phasso hoti…pe… ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā akusalā…pe….
 
-430. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ uddhaccaṃ moho ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā. ^939
+430. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ micchāsaṅkappo micchāvāyāmo micchāsamādhi vīriyabalaṃ samādhibalaṃ ahirikabalaṃ anottappabalaṃ uddhaccaṃ moho ahirikaṃ anottappaṃ samatho paggāho avikkhepo; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā akusalā.
 
-Dvādasa akusalacittāni. ^940
+Dvādasa akusalacittāni.
 
-Abyākatavipāko ^941
+Abyākatavipāko
 
-Kusalavipākapañcaviññāṇāni ^942
+Kusalavipākapañcaviññāṇāni
 
-431. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ cakkhuviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rūpārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^943
+431. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ cakkhuviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rūpārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-432. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^944
+432. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-433. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjācakkhuviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti. ^945
+433. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjācakkhuviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti.
 
-434. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjācakkhuviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti. ^946
+434. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjācakkhuviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti.
 
-435. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjācakkhuviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti. ^947
+435. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjācakkhuviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti.
 
-436. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjācakkhuviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti. ^948
+436. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjācakkhuviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti.
 
-437. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti. ^949
+437. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti.
 
-438. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^950
+438. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-439. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjācakkhuviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti. ^951
+439. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjācakkhuviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-440. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti. ^952
+440. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti.
 
-441. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^953
+441. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā cakkhuviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^954
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā cakkhuviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-442. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^955
+442. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-443. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sotaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ saddārammaṇaṃ…pe… ghānaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ gandhārammaṇaṃ…pe… jivhāviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rasārammaṇaṃ…pe… kāyaviññāṇaṃ uppannaṃ hoti sukhasahagataṃ phoṭṭhabbārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, sukhaṃ hoti, cittassekaggatā hoti, manindriyaṃ hoti, sukhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^956
+443. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sotaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ saddārammaṇaṃ…pe… ghānaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ gandhārammaṇaṃ…pe… jivhāviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rasārammaṇaṃ…pe… kāyaviññāṇaṃ uppannaṃ hoti sukhasahagataṃ phoṭṭhabbārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, sukhaṃ hoti, cittassekaggatā hoti, manindriyaṃ hoti, sukhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-444. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^957
+444. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-445. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ sātaṃ kāyikaṃ sukhaṃ kāyasamphassajaṃ sātaṃ sukhaṃ vedayitaṃ kāyasamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti. ^958
+445. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ sātaṃ kāyikaṃ sukhaṃ kāyasamphassajaṃ sātaṃ sukhaṃ vedayitaṃ kāyasamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti.
 
-446. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti. ^959
+446. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti.
 
-447. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti. ^960
+447. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti.
 
-448. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjākāyaviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti. ^961
+448. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjākāyaviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti.
 
-449. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye kāyikaṃ sātaṃ kāyikaṃ sukhaṃ kāyasamphassajaṃ sātaṃ sukhaṃ vedayitaṃ kāyasamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti. ^962
+449. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye kāyikaṃ sātaṃ kāyikaṃ sukhaṃ kāyasamphassajaṃ sātaṃ sukhaṃ vedayitaṃ kāyasamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti.
 
-450. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^963
+450. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-451. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjākāyaviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti. ^964
+451. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjākāyaviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-452. Katamaṃ tasmiṃ samaye sukhindriyaṃ hoti? Yaṃ tasmiṃ samaye kāyikaṃ sātaṃ kāyikaṃ sukhaṃ kāyasamphassajaṃ sātaṃ sukhaṃ vedayitaṃ kāyasamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhindriyaṃ hoti. ^965
+452. Katamaṃ tasmiṃ samaye sukhindriyaṃ hoti? Yaṃ tasmiṃ samaye kāyikaṃ sātaṃ kāyikaṃ sukhaṃ kāyasamphassajaṃ sātaṃ sukhaṃ vedayitaṃ kāyasamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhindriyaṃ hoti.
 
-453. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^966
+453. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā kāyaviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^967
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā kāyaviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-454. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^968
+454. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Kusalavipākāni pañcaviññāṇāni. ^969
+Kusalavipākāni pañcaviññāṇāni.
 
-Kusalavipākamanodhātu ^970
+Kusalavipākamanodhātu
 
-455. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manodhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^971
+455. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manodhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-456. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^972
+456. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-457. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanodhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti. ^973
+457. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanodhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti.
 
-458. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanodhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti. ^974
+458. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanodhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti.
 
-459. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanodhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti. ^975
+459. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanodhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti.
 
-460. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanodhātu – idaṃ tasmiṃ samaye cittaṃ hoti. ^976
+460. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanodhātu – idaṃ tasmiṃ samaye cittaṃ hoti.
 
-461. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā – ayaṃ tasmiṃ samaye vitakko hoti. ^977
+461. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā – ayaṃ tasmiṃ samaye vitakko hoti.
 
-462. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti. ^978
+462. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti.
 
-463. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti. ^979
+463. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti.
 
-464. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^980
+464. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-465. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanodhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti. ^981
+465. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanodhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-466. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti. ^982
+466. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti.
 
-467. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^983
+467. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manodhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^984
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manodhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-468. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^985
+468. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Kusalavipākā manodhātu. ^986
+Kusalavipākā manodhātu.
 
-Kusalavipākamanoviññāṇadhātusomanassasahagatā ^987
+Kusalavipākamanoviññāṇadhātusomanassasahagatā
 
-469. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti somanassasahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^988
+469. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti somanassasahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-470. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^989
+470. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-471. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti. ^990
+471. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti.
 
-472. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti. ^991
+472. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti.
 
-473. Katamā tasmiṃ samaye cetanā hoti. Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti. ^992
+473. Katamā tasmiṃ samaye cetanā hoti. Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti.
 
-474. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti. ^993
+474. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti.
 
-475. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā – ayaṃ tasmiṃ samaye vitakko hoti. ^994
+475. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā – ayaṃ tasmiṃ samaye vitakko hoti.
 
-476. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti. ^995
+476. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti.
 
-477. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa – ayaṃ tasmiṃ samaye pīti hoti. ^996
+477. Katamā tasmiṃ samaye pīti hoti? Yā tasmiṃ samaye pīti pāmojjaṃ āmodanā pamodanā hāso pahāso vitti odagyaṃ attamanatā cittassa – ayaṃ tasmiṃ samaye pīti hoti.
 
-478. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti. ^997
+478. Katamaṃ tasmiṃ samaye sukhaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye sukhaṃ hoti.
 
-479. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^998
+479. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-480. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti. ^999
+480. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-481. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti. ^1000
+481. Katamaṃ tasmiṃ samaye somanassindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ sātaṃ cetasikaṃ sukhaṃ cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ cetosamphassajā sātā sukhā vedanā – idaṃ tasmiṃ samaye somanassindriyaṃ hoti.
 
-482. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^1001
+482. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1002
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-483. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^1003
+483. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Kusalavipākā manoviññāṇadhātu somanassasahagatā. ^1004
+Kusalavipākā manoviññāṇadhātu somanassasahagatā.
 
-Kusalavipākamanoviññāṇadhātuupekkhāsahagatā ^1005
+Kusalavipākamanoviññāṇadhātuupekkhāsahagatā
 
-484. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^1006
+484. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-485. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^1007
+485. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-486. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti. ^1008
+486. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajaṃ cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti.
 
-487. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti. ^1009
+487. Katamā tasmiṃ samaye saññā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā saññā sañjānanā sañjānitattaṃ – ayaṃ tasmiṃ samaye saññā hoti.
 
-488. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti. ^1010
+488. Katamā tasmiṃ samaye cetanā hoti? Yā tasmiṃ samaye tajjāmanoviññāṇadhātusamphassajā cetanā sañcetanā cetayitattaṃ – ayaṃ tasmiṃ samaye cetanā hoti.
 
-489. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti. ^1011
+489. Katamaṃ tasmiṃ samaye cittaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye cittaṃ hoti.
 
-490. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā – ayaṃ tasmiṃ samaye vitakko hoti. ^1012
+490. Katamo tasmiṃ samaye vitakko hoti? Yo tasmiṃ samaye takko vitakko saṅkappo appanā byappanā cetaso abhiniropanā – ayaṃ tasmiṃ samaye vitakko hoti.
 
-491. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti. ^1013
+491. Katamo tasmiṃ samaye vicāro hoti? Yo tasmiṃ samaye cāro vicāro anuvicāro upavicāro cittassa anusandhānatā anupekkhanatā – ayaṃ tasmiṃ samaye vicāro hoti.
 
-492. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti. ^1014
+492. Katamā tasmiṃ samaye upekkhā hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – ayaṃ tasmiṃ samaye upekkhā hoti.
 
-493. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^1015
+493. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-494. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti. ^1016
+494. Katamaṃ tasmiṃ samaye manindriyaṃ hoti? Yaṃ tasmiṃ samaye cittaṃ mano mānasaṃ hadayaṃ paṇḍaraṃ mano manāyatanaṃ manindriyaṃ viññāṇaṃ viññāṇakkhandho tajjāmanoviññāṇadhātu – idaṃ tasmiṃ samaye manindriyaṃ hoti.
 
-495. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti. ^1017
+495. Katamaṃ tasmiṃ samaye upekkhindriyaṃ hoti? Yaṃ tasmiṃ samaye cetasikaṃ neva sātaṃ nāsātaṃ cetosamphassajaṃ adukkhamasukhaṃ vedayitaṃ cetosamphassajā adukkhamasukhā vedanā – idaṃ tasmiṃ samaye upekkhindriyaṃ hoti.
 
-496. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^1018
+496. Katamaṃ tasmiṃ samaye jīvitindriyaṃ hoti? Yo tesaṃ arūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ tasmiṃ samaye jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1019
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-497. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^1020
+497. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Kusalavipākā upekkhāsahagatā manoviññāṇadhātu. ^1021
+Kusalavipākā upekkhāsahagatā manoviññāṇadhātu.
 
-Aṭṭhamahāvipākā ^1022
+Aṭṭhamahāvipākā
 
-498. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti somanassasahagatā ñāṇasampayuttā…pe… somanassasahagatā ñāṇasampayuttā sasaṅkhārena…pe… somanassasahagatā ñāṇavippayuttā…pe… somanassasahagatā ñāṇavippayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇasampayuttā…pe… upekkhāsahagatā ñāṇasampayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇavippayuttā…pe… upekkhāsahagatā ñāṇavippayuttā sasaṅkhārena rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti …pe… ime dhammā abyākatā…pe… alobho abyākatamūlaṃ… pe… adoso abyākatamūlaṃ…pe… ime dhammā abyākatā. ^1023
+498. Katame dhammā abyākatā? Yasmiṃ samaye kāmāvacarassa kusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti somanassasahagatā ñāṇasampayuttā…pe… somanassasahagatā ñāṇasampayuttā sasaṅkhārena…pe… somanassasahagatā ñāṇavippayuttā…pe… somanassasahagatā ñāṇavippayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇasampayuttā…pe… upekkhāsahagatā ñāṇasampayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇavippayuttā…pe… upekkhāsahagatā ñāṇavippayuttā sasaṅkhārena rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti …pe… ime dhammā abyākatā…pe… alobho abyākatamūlaṃ… pe… adoso abyākatamūlaṃ…pe… ime dhammā abyākatā.
 
-Aṭṭhamahāvipākā. ^1024
+Aṭṭhamahāvipākā.
 
-Rūpāvacaravipākā ^1025
+Rūpāvacaravipākā
 
-499. Katame dhammā abyākatā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva rūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1026
+499. Katame dhammā abyākatā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva rūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-500. Katame dhammā abyākatā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva rūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sukhassa ca pahānā…pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1027
+500. Katame dhammā abyākatā? Yasmiṃ samaye rūpūpapattiyā maggaṃ bhāveti vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva rūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sukhassa ca pahānā…pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Rūpāvacaravipākā. ^1028
+Rūpāvacaravipākā.
 
-Arūpāvacaravipākā ^1029
+Arūpāvacaravipākā
 
-501. Katame dhammā abyākatā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva arūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1030
+501. Katame dhammā abyākatā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva arūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-502. Katame dhammā abyākatā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva arūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1031
+502. Katame dhammā abyākatā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva arūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-503. Katame dhammā abyākatā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva arūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1032
+503. Katame dhammā abyākatā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva arūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-504. Katame dhammā abyākatā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva arūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā… pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1033
+504. Katame dhammā abyākatā? Yasmiṃ samaye arūpūpapattiyā maggaṃ bhāveti sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva arūpāvacarassa kusalassa kammassa katattā upacitattā vipākaṃ sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā… pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Arūpāvacaravipākā. ^1034
+Arūpāvacaravipākā.
 
-Lokuttaravipāka-paṭhamamaggavipākā ^1035
+Lokuttaravipāka-paṭhamamaggavipākā
 
-Suddhikapaṭipadā ^1036
+Suddhikapaṭipadā
 
-505. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1037
+505. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-506. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1038
+506. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-507. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1039
+507. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-508. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti vipāko… pe… dukkhapaṭipadaṃ dandhābhiññanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā abyākatā. ^1040
+508. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti vipāko… pe… dukkhapaṭipadaṃ dandhābhiññanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā abyākatā.
 
-509. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti vipāko…pe… sukhapaṭipadaṃ khippābhiññanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittanti vipāko…pe… sukhapaṭipadaṃ khippābhiññanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1041
+509. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti vipāko…pe… sukhapaṭipadaṃ khippābhiññanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittanti vipāko…pe… sukhapaṭipadaṃ khippābhiññanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Suddhikapaṭipadā. ^1042
+Suddhikapaṭipadā.
 
-Suddhikasuññataṃ ^1043
+Suddhikasuññataṃ
 
-510. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1044
+510. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-511. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati animittaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1045
+511. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati animittaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-512. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1046
+512. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-513. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati suññatanti kusalaṃ…pe… suññatanti vipāko…pe… suññatanti kusalaṃ…pe… animittanti vipāko… pe… suññatanti kusalaṃ…pe… appaṇihitanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1047
+513. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati suññatanti kusalaṃ…pe… suññatanti vipāko…pe… suññatanti kusalaṃ…pe… animittanti vipāko… pe… suññatanti kusalaṃ…pe… appaṇihitanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Suddhikasuññataṃ. ^1048
+Suddhikasuññataṃ.
 
-Suññatapaṭipadā ^1049
+Suññatapaṭipadā
 
-514. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1050
+514. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-515. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti …pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1051
+515. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti …pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-516. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1052
+516. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-517. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti kusalaṃ… pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti vipāko, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1053
+517. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti kusalaṃ… pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti vipāko, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-518. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ suññataṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ …pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ suññatanti kusalaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1054
+518. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ suññataṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ …pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ suññatanti kusalaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Suññatapaṭipadā. ^1055
+Suññatapaṭipadā.
 
-Suddhikaappaṇihitaṃ ^1056
+Suddhikaappaṇihitaṃ
 
-519. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1057
+519. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-520. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati animittaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1058
+520. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati animittaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-521. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1059
+521. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-522. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati appaṇihitanti kusalaṃ… pe… appaṇihitanti vipāko…pe… appaṇihitanti kusalaṃ…pe… animittanti vipāko…pe… appaṇihitanti kusalaṃ…pe… suññatanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1060
+522. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati appaṇihitanti kusalaṃ… pe… appaṇihitanti vipāko…pe… appaṇihitanti kusalaṃ…pe… animittanti vipāko…pe… appaṇihitanti kusalaṃ…pe… suññatanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Suddhikaappaṇihitaṃ. ^1061
+Suddhikaappaṇihitaṃ.
 
-Appaṇihitapaṭipadā ^1062
+Appaṇihitapaṭipadā
 
-523. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1063
+523. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-524. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1064
+524. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-525. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1065
+525. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-526. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittanti vipāko… pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1066
+526. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittanti vipāko… pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññatanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-527. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti kusalaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ animittanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1067
+527. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti kusalaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ animittanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññatanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Appaṇihitapaṭipadā. ^1068
+Appaṇihitapaṭipadā.
 
-Vīsati mahānayā ^1069
+Vīsati mahānayā
 
-528. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ maggaṃ bhāveti…pe… lokuttaraṃ satipaṭṭhānaṃ bhāveti…pe… lokuttaraṃ sammappadhānaṃ bhāveti…pe… lokuttaraṃ iddhipādaṃ bhāveti…pe… lokuttaraṃ indriyaṃ bhāveti…pe… lokuttaraṃ balaṃ bhāveti…pe… lokuttaraṃ bojjhaṅgaṃ bhāveti…pe… lokuttaraṃ saccaṃ bhāveti…pe… lokuttaraṃ samathaṃ bhāveti…pe… lokuttaraṃ dhammaṃ bhāveti… pe… lokuttaraṃ khandhaṃ bhāveti…pe… lokuttaraṃ āyatanaṃ bhāveti…pe… lokuttaraṃ dhātuṃ bhāveti…pe… lokuttaraṃ āhāraṃ bhāveti… pe… lokuttaraṃ phassaṃ bhāveti…pe… lokuttaraṃ vedanaṃ bhāveti… pe… lokuttaraṃ saññaṃ bhāveti…pe… lokuttaraṃ cetanaṃ bhāveti… pe… lokuttaraṃ cittaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti …pe… avikkhepo hoti…pe… ime dhammā kusalā tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… animittaṃ …pe… appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1070
+528. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ maggaṃ bhāveti…pe… lokuttaraṃ satipaṭṭhānaṃ bhāveti…pe… lokuttaraṃ sammappadhānaṃ bhāveti…pe… lokuttaraṃ iddhipādaṃ bhāveti…pe… lokuttaraṃ indriyaṃ bhāveti…pe… lokuttaraṃ balaṃ bhāveti…pe… lokuttaraṃ bojjhaṅgaṃ bhāveti…pe… lokuttaraṃ saccaṃ bhāveti…pe… lokuttaraṃ samathaṃ bhāveti…pe… lokuttaraṃ dhammaṃ bhāveti… pe… lokuttaraṃ khandhaṃ bhāveti…pe… lokuttaraṃ āyatanaṃ bhāveti…pe… lokuttaraṃ dhātuṃ bhāveti…pe… lokuttaraṃ āhāraṃ bhāveti… pe… lokuttaraṃ phassaṃ bhāveti…pe… lokuttaraṃ vedanaṃ bhāveti… pe… lokuttaraṃ saññaṃ bhāveti…pe… lokuttaraṃ cetanaṃ bhāveti… pe… lokuttaraṃ cittaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti …pe… avikkhepo hoti…pe… ime dhammā kusalā tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… animittaṃ …pe… appaṇihitaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Vīsati mahānayā. ^1071
+Vīsati mahānayā.
 
-Chandādhipateyyasuddhikapaṭipadā ^1072
+Chandādhipateyyasuddhikapaṭipadā
 
-529. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1073
+529. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-530. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1074
+530. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-531. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1075
+531. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-532. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1076
+532. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-533. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ chandādhipateyyaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ chandādhipateyyaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1077
+533. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ chandādhipateyyaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ chandādhipateyyaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Chandādhipateyyasuddhikapaṭipadā. ^1078
+Chandādhipateyyasuddhikapaṭipadā.
 
-Chandādhipateyyasuddhikasuññatā ^1079
+Chandādhipateyyasuddhikasuññatā
 
-534. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1080
+534. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-535. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1081
+535. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-536. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1082
+536. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-537. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyanti kusalaṃ…pe… suññataṃ chandādhipateyyanti vipāko…pe… suññataṃ chandādhipateyyanti kusalaṃ…pe… animittaṃ chandādhipateyyanti vipāko…pe… suññataṃ chandādhipateyyanti kusalaṃ…pe… appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1083
+537. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyanti kusalaṃ…pe… suññataṃ chandādhipateyyanti vipāko…pe… suññataṃ chandādhipateyyanti kusalaṃ…pe… animittaṃ chandādhipateyyanti vipāko…pe… suññataṃ chandādhipateyyanti kusalaṃ…pe… appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Chandādhipateyyasuddhikasuññatā. ^1084
+Chandādhipateyyasuddhikasuññatā.
 
-538. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1085
+538. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-539. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1086
+539. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-540. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1087
+540. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-541. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti vipāko… pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1088
+541. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti vipāko… pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-542. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyaṃ… pe… sukhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyaṃ… pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ… pe… paṭhamaṃ jhānaṃ …pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1089
+542. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyaṃ… pe… sukhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyaṃ… pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ… pe… paṭhamaṃ jhānaṃ …pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ… pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-543. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1090
+543. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-544. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1091
+544. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati, animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-545. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1092
+545. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-546. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… appaṇihitaṃ chandādhipateyyanti vipāko…pe… appaṇihitaṃ chandādhipateyyanti kusalaṃ …pe… animittaṃ chandādhipateyyanti vipāko…pe… appaṇihitaṃ chandādhipateyyanti kusalaṃ… pe… suññataṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1093
+546. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… appaṇihitaṃ chandādhipateyyanti vipāko…pe… appaṇihitaṃ chandādhipateyyanti kusalaṃ …pe… animittaṃ chandādhipateyyanti vipāko…pe… appaṇihitaṃ chandādhipateyyanti kusalaṃ… pe… suññataṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-547. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1094
+547. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-548. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1095
+548. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-549. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1096
+549. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-550. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko… pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1097
+550. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko… pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… dukkhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-551. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1098
+551. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ…pe… sukhapaṭipadaṃ dandhābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyaṃ…pe… dutiyaṃ jhānaṃ…pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ…pe… pañcamaṃ jhānaṃ upasampajja viharati sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ animittaṃ chandādhipateyyanti vipāko…pe… sukhapaṭipadaṃ khippābhiññaṃ appaṇihitaṃ chandādhipateyyanti kusalaṃ…pe… sukhapaṭipadaṃ khippābhiññaṃ suññataṃ chandādhipateyyanti vipāko, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-552. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ maggaṃ bhāveti…pe… lokuttaraṃ satipaṭṭhānaṃ bhāveti…pe… lokuttaraṃ sammappadhānaṃ bhāveti…pe… lokuttaraṃ iddhipādaṃ bhāveti…pe… lokuttaraṃ indriyaṃ bhāveti…pe… lokuttaraṃ balaṃ bhāveti…pe… lokuttaraṃ bojjhaṅgaṃ bhāveti…pe… lokuttaraṃ saccaṃ bhāveti…pe… lokuttaraṃ samathaṃ bhāveti…pe… lokuttaraṃ dhammaṃ bhāveti… pe… lokuttaraṃ khandhaṃ bhāveti…pe… lokuttaraṃ āyatanaṃ bhāveti…pe… lokuttaraṃ dhātuṃ bhāveti…pe… lokuttaraṃ āhāraṃ bhāveti… pe… lokuttaraṃ phassaṃ bhāveti…pe… lokuttaraṃ vedanaṃ bhāveti… pe… lokuttaraṃ saññaṃ bhāveti…pe… lokuttaraṃ cetanaṃ bhāveti… pe… lokuttaraṃ cittaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… animittaṃ…pe… appaṇihitaṃ chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1099
+552. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ maggaṃ bhāveti…pe… lokuttaraṃ satipaṭṭhānaṃ bhāveti…pe… lokuttaraṃ sammappadhānaṃ bhāveti…pe… lokuttaraṃ iddhipādaṃ bhāveti…pe… lokuttaraṃ indriyaṃ bhāveti…pe… lokuttaraṃ balaṃ bhāveti…pe… lokuttaraṃ bojjhaṅgaṃ bhāveti…pe… lokuttaraṃ saccaṃ bhāveti…pe… lokuttaraṃ samathaṃ bhāveti…pe… lokuttaraṃ dhammaṃ bhāveti… pe… lokuttaraṃ khandhaṃ bhāveti…pe… lokuttaraṃ āyatanaṃ bhāveti…pe… lokuttaraṃ dhātuṃ bhāveti…pe… lokuttaraṃ āhāraṃ bhāveti… pe… lokuttaraṃ phassaṃ bhāveti…pe… lokuttaraṃ vedanaṃ bhāveti… pe… lokuttaraṃ saññaṃ bhāveti…pe… lokuttaraṃ cetanaṃ bhāveti… pe… lokuttaraṃ cittaṃ bhāveti niyyānikaṃ apacayagāmiṃ diṭṭhigatānaṃ pahānāya paṭhamāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ chandādhipateyyaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ…pe… animittaṃ…pe… appaṇihitaṃ chandādhipateyyaṃ…pe… vīriyādhipateyyaṃ…pe… cittādhipateyyaṃ…pe… vīmaṃsādhipateyyaṃ, tasmiṃ samaye phasso hoti… pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Paṭhamamaggavipāko. ^1100
+Paṭhamamaggavipāko.
 
-Dutiyādimaggavipāko ^1101
+Dutiyādimaggavipāko
 
-553. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ kāmarāgabyāpādānaṃ tanubhāvāya dutiyāya bhūmiyā pattiyā…pe… kāmarā gabyāpādānaṃ anavasesappahānāya tatiyāya bhūmiyā pattiyā…pe… rūparāgaarūparāgamānauddhaccaavijjāya anavasesappahānāya catutthāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… aññātāvindriyaṃ hoti…pe… avikkhepo hoti… pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^1102
+553. Katame dhammā abyākatā? Yasmiṃ samaye lokuttaraṃ jhānaṃ bhāveti niyyānikaṃ apacayagāmiṃ kāmarāgabyāpādānaṃ tanubhāvāya dutiyāya bhūmiyā pattiyā…pe… kāmarā gabyāpādānaṃ anavasesappahānāya tatiyāya bhūmiyā pattiyā…pe… rūparāgaarūparāgamānauddhaccaavijjāya anavasesappahānāya catutthāya bhūmiyā pattiyā vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ, tasmiṃ samaye phasso hoti…pe… aññindriyaṃ hoti…pe… avikkhepo hoti…pe… ime dhammā kusalā. Tasseva lokuttarassa kusalassa jhānassa katattā bhāvitattā vipākaṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati dukkhapaṭipadaṃ dandhābhiññaṃ suññataṃ, tasmiṃ samaye phasso hoti…pe… aññātāvindriyaṃ hoti…pe… avikkhepo hoti… pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-554. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti… pe…. ^1103
+554. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti… pe….
 
-555. Katamaṃ tasmiṃ samaye aññātāvindriyaṃ hoti? Yā tesaṃ aññātāvīnaṃ dhammānaṃ aññā paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye aññātāvindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^1104
+555. Katamaṃ tasmiṃ samaye aññātāvindriyaṃ hoti? Yā tesaṃ aññātāvīnaṃ dhammānaṃ aññā paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – idaṃ tasmiṃ samaye aññātāvindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-Dutiyādimaggavipāko. ^1105
+Dutiyādimaggavipāko.
 
-Lokuttaravipāko. ^1106
+Lokuttaravipāko.
 
-Akusalavipākaabyākataṃ ^1107
+Akusalavipākaabyākataṃ
 
-Akusalavipākapañcaviññāṇāni ^1108
+Akusalavipākapañcaviññāṇāni
 
-556. Katame dhammā abyākatā? Yasmiṃ samaye akusalassa kammassa katattā upacitattā vipākaṃ cakkhuviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rūpārammaṇaṃ…pe… sotaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ saddārammaṇaṃ…pe… ghānaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ gandhārammaṇaṃ …pe… jivhāviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rasārammaṇaṃ…pe… kāyaviññāṇaṃ uppannaṃ hoti dukkhasahagataṃ phoṭṭhabbārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, dukkhaṃ hoti, cittassekaggatā hoti, manindriyaṃ hoti, dukkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^1109
+556. Katame dhammā abyākatā? Yasmiṃ samaye akusalassa kammassa katattā upacitattā vipākaṃ cakkhuviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rūpārammaṇaṃ…pe… sotaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ saddārammaṇaṃ…pe… ghānaviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ gandhārammaṇaṃ …pe… jivhāviññāṇaṃ uppannaṃ hoti upekkhāsahagataṃ rasārammaṇaṃ…pe… kāyaviññāṇaṃ uppannaṃ hoti dukkhasahagataṃ phoṭṭhabbārammaṇaṃ, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, dukkhaṃ hoti, cittassekaggatā hoti, manindriyaṃ hoti, dukkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-557. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti. ^1110
+557. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti.
 
-558. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti…pe…. ^1111
+558. Katamā tasmiṃ samaye vedanā hoti? Yaṃ tasmiṃ samaye tajjākāyaviññāṇadhātusamphassajaṃ kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā – ayaṃ tasmiṃ samaye vedanā hoti…pe….
 
-559. Katamaṃ tasmiṃ samaye dukkhaṃ hoti? Yaṃ tasmiṃ samaye kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā – idaṃ tasmiṃ samaye dukkhaṃ hoti…pe…. ^1112
+559. Katamaṃ tasmiṃ samaye dukkhaṃ hoti? Yaṃ tasmiṃ samaye kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā – idaṃ tasmiṃ samaye dukkhaṃ hoti…pe….
 
-560. Katamaṃ tasmiṃ samaye dukkhindriyaṃ hoti? Yaṃ tasmiṃ samaye kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā – idaṃ tasmiṃ samaye dukkhindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^1113
+560. Katamaṃ tasmiṃ samaye dukkhindriyaṃ hoti? Yaṃ tasmiṃ samaye kāyikaṃ asātaṃ kāyikaṃ dukkhaṃ kāyasamphassajaṃ asātaṃ dukkhaṃ vedayitaṃ kāyasamphassajā asātā dukkhā vedanā – idaṃ tasmiṃ samaye dukkhindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā kāyaviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1114
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā kāyaviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-561. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^1115
+561. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Akusalavipākapañcaviññāṇāni. ^1116
+Akusalavipākapañcaviññāṇāni.
 
-Akusalavipākamanodhātu ^1117
+Akusalavipākamanodhātu
 
-562. Katame dhammā abyākatā? Yasmiṃ samaye akusalassa kammassa katattā upacitattā vipākā manodhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1118
+562. Katame dhammā abyākatā? Yasmiṃ samaye akusalassa kammassa katattā upacitattā vipākā manodhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manodhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1119
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manodhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-563. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^1120
+563. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Akusalavipākā manodhātu. ^1121
+Akusalavipākā manodhātu.
 
-Akusalavipākamanoviññāṇadhātu ^1122
+Akusalavipākamanoviññāṇadhātu
 
-564. Katame dhammā abyākatā? Yasmiṃ samaye akusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1123
+564. Katame dhammā abyākatā? Yasmiṃ samaye akusalassa kammassa katattā upacitattā vipākā manoviññāṇadhātu uppannā hoti upekkhāsahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1124
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-565. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^1125
+565. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Akusalavipākā manoviññāṇadhātu. ^1126
+Akusalavipākā manoviññāṇadhātu.
 
-Vipākā abyākatā. ^1127
+Vipākā abyākatā.
 
-Ahetukakiriyāabyākataṃ ^1128
+Ahetukakiriyāabyākataṃ
 
-Kiriyāmanodhātu ^1129
+Kiriyāmanodhātu
 
-566. Katame dhammā abyākatā? Yasmiṃ samaye manodhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1130
+566. Katame dhammā abyākatā? Yasmiṃ samaye manodhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā upekkhāsahagatā rūpārammaṇā vā…pe… phoṭṭhabbārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manodhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1131
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, tīṇindriyāni honti, eko phasso hoti… pe… ekā manodhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-567. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^1132
+567. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Kiriyā manodhātu. ^1133
+Kiriyā manodhātu.
 
-Kiriyāmanoviññāṇadhātusomanassasahagatā ^1134
+Kiriyāmanoviññāṇadhātusomanassasahagatā
 
-568. Katame dhammā abyākatā? Yasmiṃ samaye manoviññāṇadhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā somanassasahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^1135
+568. Katame dhammā abyākatā? Yasmiṃ samaye manoviññāṇadhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā somanassasahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, pīti hoti, sukhaṃ hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti, manindriyaṃ hoti, somanassindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-569. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti… pe…. ^1136
+569. Katamo tasmiṃ samaye phasso hoti? Yo tasmiṃ samaye phasso phusanā saṃphusanā saṃphusitattaṃ – ayaṃ tasmiṃ samaye phasso hoti… pe….
 
-570. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ – ayaṃ tasmiṃ samaye cittassekaggatā hoti. ^1137
+570. Katamā tasmiṃ samaye cittassekaggatā hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ – ayaṃ tasmiṃ samaye cittassekaggatā hoti.
 
-571. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti. ^1138
+571. Katamaṃ tasmiṃ samaye vīriyindriyaṃ hoti? Yo tasmiṃ samaye cetasiko vīriyārambho nikkamo parakkamo uyyāmo vāyāmo ussāho ussoḷhī thāmo dhiti asithilaparakkamatā anikkhittachandatā anikkhittadhuratā dhurasampaggāho vīriyaṃ vīriyindriyaṃ vīriyabalaṃ – idaṃ tasmiṃ samaye vīriyindriyaṃ hoti.
 
-572. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ – idaṃ tasmiṃ samaye samādhindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā. ^1139
+572. Katamaṃ tasmiṃ samaye samādhindriyaṃ hoti? Yā tasmiṃ samaye cittassa ṭhiti saṇṭhiti avaṭṭhiti avisāhāro avikkhepo avisāhaṭamānasatā samatho samādhindriyaṃ samādhibalaṃ – idaṃ tasmiṃ samaye samādhindriyaṃ hoti…pe… ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā.
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1140
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-573. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^1141
+573. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro pīti cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Kiriyā manoviññāṇadhātu somanassasahagatā. ^1142
+Kiriyā manoviññāṇadhātu somanassasahagatā.
 
-Kiriyāmanoviññāṇadhātuupekkhāsahagatā ^1143
+Kiriyāmanoviññāṇadhātuupekkhāsahagatā
 
-574. Katame dhammā abyākatā? Yasmiṃ samaye manoviññāṇadhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā upekkhāsahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1144
+574. Katame dhammā abyākatā? Yasmiṃ samaye manoviññāṇadhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā upekkhāsahagatā rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti, vedanā hoti, saññā hoti, cetanā hoti, cittaṃ hoti, vitakko hoti, vicāro hoti, upekkhā hoti, cittassekaggatā hoti, vīriyindriyaṃ hoti, samādhindriyaṃ hoti manindriyaṃ hoti, upekkhindriyaṃ hoti, jīvitindriyaṃ hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe…. ^1145
+Tasmiṃ kho pana samaye cattāro khandhā honti, dvāyatanāni honti, dve dhātuyo honti, tayo āhārā honti, pañcindriyāni honti, eko phasso hoti… pe… ekā manoviññāṇadhātu hoti, ekaṃ dhammāyatanaṃ hoti, ekā dhammadhātu hoti; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā – ime dhammā abyākatā…pe….
 
-575. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā. ^1146
+575. Katamo tasmiṃ samaye saṅkhārakkhandho hoti? Phasso cetanā vitakko vicāro cittassekaggatā vīriyindriyaṃ samādhindriyaṃ jīvitindriyaṃ; ye vā pana tasmiṃ samaye aññepi atthi paṭiccasamuppannā arūpino dhammā ṭhapetvā vedanākkhandhaṃ ṭhapetvā saññākkhandhaṃ ṭhapetvā viññāṇakkhandhaṃ – ayaṃ tasmiṃ samaye saṅkhārakkhandho hoti…pe… ime dhammā abyākatā.
 
-Kiriyā manoviññāṇadhātu upekkhāsahagatā. ^1147
+Kiriyā manoviññāṇadhātu upekkhāsahagatā.
 
-Ahetukā kiriyā abyākatā. ^1148
+Ahetukā kiriyā abyākatā.
 
-Sahetukakāmāvacarakiriyā ^1149
+Sahetukakāmāvacarakiriyā
 
-576. Katame dhammā abyākatā? Yasmiṃ samaye manoviññāṇadhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā somanassasahagatā ñāṇasampayuttā…pe… somanassasahagatā ñāṇasampayuttā sasaṅkhārena…pe… somanassasahagatā ñāṇavippayuttā…pe… somanassasahagatā ñāṇavippayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇasampayuttā…pe… upekkhāsahagatā ñāṇasampayuttā sasaṅkhārena… pe… upekkhāsahagatā ñāṇavippayuttā…pe… upekkhāsahagatā ñāṇavippayuttā sasaṅkhārena rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti … pe… ime dhammā abyākatā…pe… alobho abyākatamūlaṃ…pe… adoso abyākatamūlaṃ…pe… ime dhammā abyākatā. ^1150
+576. Katame dhammā abyākatā? Yasmiṃ samaye manoviññāṇadhātu uppannā hoti kiriyā neva kusalā nākusalā na ca kammavipākā somanassasahagatā ñāṇasampayuttā…pe… somanassasahagatā ñāṇasampayuttā sasaṅkhārena…pe… somanassasahagatā ñāṇavippayuttā…pe… somanassasahagatā ñāṇavippayuttā sasaṅkhārena…pe… upekkhāsahagatā ñāṇasampayuttā…pe… upekkhāsahagatā ñāṇasampayuttā sasaṅkhārena… pe… upekkhāsahagatā ñāṇavippayuttā…pe… upekkhāsahagatā ñāṇavippayuttā sasaṅkhārena rūpārammaṇā vā…pe… dhammārammaṇā vā yaṃ yaṃ vā panārabbha, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti … pe… ime dhammā abyākatā…pe… alobho abyākatamūlaṃ…pe… adoso abyākatamūlaṃ…pe… ime dhammā abyākatā.
 
-Sahetukā kāmāvacarakiriyā. ^1151
+Sahetukā kāmāvacarakiriyā.
 
-Rūpāvacarakiriyā ^1152
+Rūpāvacarakiriyā
 
-577. Katame dhammā abyākatā? Yasmiṃ samaye rūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1153
+577. Katame dhammā abyākatā? Yasmiṃ samaye rūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ vivicceva kāmehi…pe… paṭhamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-578. Katame dhammā abyākatā? Yasmiṃ samaye rūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1154
+578. Katame dhammā abyākatā? Yasmiṃ samaye rūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ vitakkavicārānaṃ vūpasamā…pe… dutiyaṃ jhānaṃ… pe… tatiyaṃ jhānaṃ…pe… catutthaṃ jhānaṃ…pe… paṭhamaṃ jhānaṃ… pe… pañcamaṃ jhānaṃ upasampajja viharati pathavīkasiṇaṃ, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-Rūpāvacarakiriyā. ^1155
+Rūpāvacarakiriyā.
 
-Arūpāvacarakiriyā ^1156
+Arūpāvacarakiriyā
 
-579. Katame dhammā abyākatā? Yasmiṃ samaye arūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1157
+579. Katame dhammā abyākatā? Yasmiṃ samaye arūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ sabbaso rūpasaññānaṃ samatikkamā paṭighasaññānaṃ atthaṅgamā nānattasaññānaṃ amanasikārā ākāsānañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-580. Katame dhammā abyākatā? Yasmiṃ samaye arūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā. ^1158
+580. Katame dhammā abyākatā? Yasmiṃ samaye arūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ sabbaso ākāsānañcāyatanaṃ samatikkamma viññāṇañcāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā.
 
-581. Katame dhammā abyākatā? Yasmiṃ samaye arūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā abyākatā. ^1159
+581. Katame dhammā abyākatā? Yasmiṃ samaye arūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ sabbaso viññāṇañcāyatanaṃ samatikkamma ākiñcaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti… pe… ime dhammā abyākatā.
 
-582. Katame dhammā abyākatā? Yasmiṃ samaye arūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā…pe… alobho abyākatamūlaṃ… pe… adoso abyākatamūlaṃ…pe… amoho abyākatamūlaṃ…pe… ime dhammā abyākatā. ^1160
+582. Katame dhammā abyākatā? Yasmiṃ samaye arūpāvacaraṃ jhānaṃ bhāveti kiriyaṃ neva kusalaṃ nākusalaṃ na ca kammavipākaṃ diṭṭhadhammasukhavihāraṃ sabbaso ākiñcaññāyatanaṃ samatikkamma nevasaññānāsaññāyatanasaññāsahagataṃ sukhassa ca pahānā…pe… catutthaṃ jhānaṃ upasampajja viharati, tasmiṃ samaye phasso hoti…pe… avikkhepo hoti…pe… ime dhammā abyākatā…pe… alobho abyākatamūlaṃ… pe… adoso abyākatamūlaṃ…pe… amoho abyākatamūlaṃ…pe… ime dhammā abyākatā.
 
-Arūpāvacarakiriyā. ^1161
+Arūpāvacarakiriyā.
 
-Kiriyā abyākatā. ^1162
+Kiriyā abyākatā.
 
-Cittuppādakaṇḍaṃ niṭṭhitaṃ. ^1163
+Cittuppādakaṇḍaṃ niṭṭhitaṃ.
 
-2. Rūpakaṇḍaṃ ^1164
+2. Rūpakaṇḍaṃ
 
-Uddeso ^1165
+Uddeso
 
-583. Katame dhammā abyākatā? Kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā rūpāvacarā arūpāvacarā apariyāpannā vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā abyākatā. ^1166
+583. Katame dhammā abyākatā? Kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā rūpāvacarā arūpāvacarā apariyāpannā vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho, ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā abyākatā.
 
-Mātikā ^1167
+Mātikā
 
-Ekakaṃ ^1168
+Ekakaṃ
 
-584. Tattha katamaṃ sabbaṃ rūpaṃ? Cattāro ca mahābhūtā, catunnañca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati sabbaṃ rūpaṃ. Sabbaṃ rūpaṃ na hetu, ahetukaṃ, hetuvippayuttaṃ, sappaccayaṃ, saṅkhataṃ, rūpaṃ , lokiyaṃ, sāsavaṃ, saṃyojaniyaṃ, ganthaniyaṃ, oghaniyaṃ, yoganiyaṃ, nīvaraṇiyaṃ, parāmaṭṭhaṃ, upādāniyaṃ, saṃkilesikaṃ, abyākataṃ, anārammaṇaṃ, acetasikaṃ, cittavippayuttaṃ, nevavipākanavipākadhammadhammaṃ, asaṃkiliṭṭhasaṃkilesikaṃ, na savitakkasavicāraṃ, na avitakkavicāramattaṃ, avitakkaavicāraṃ, na pītisahagataṃ, na sukhasahagataṃ, na upekkhāsahagataṃ, neva dassanena na bhāvanāya pahātabbaṃ, neva dassanena na bhāvanāya pahātabbahetukaṃ, neva ācayagāmi na apacayagāmi, nevasekkhanāsekkhaṃ, parittaṃ, kāmāvacaraṃ, na rūpāvacaraṃ, na arūpāvacaraṃ, pariyāpannaṃ, no apariyāpannaṃ, aniyataṃ, aniyyānikaṃ, uppannaṃ, chahi viññāṇehi viññeyyaṃ, aniccaṃ, jarābhibhūtaṃ. ^1169
+584. Tattha katamaṃ sabbaṃ rūpaṃ? Cattāro ca mahābhūtā, catunnañca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati sabbaṃ rūpaṃ. Sabbaṃ rūpaṃ na hetu, ahetukaṃ, hetuvippayuttaṃ, sappaccayaṃ, saṅkhataṃ, rūpaṃ , lokiyaṃ, sāsavaṃ, saṃyojaniyaṃ, ganthaniyaṃ, oghaniyaṃ, yoganiyaṃ, nīvaraṇiyaṃ, parāmaṭṭhaṃ, upādāniyaṃ, saṃkilesikaṃ, abyākataṃ, anārammaṇaṃ, acetasikaṃ, cittavippayuttaṃ, nevavipākanavipākadhammadhammaṃ, asaṃkiliṭṭhasaṃkilesikaṃ, na savitakkasavicāraṃ, na avitakkavicāramattaṃ, avitakkaavicāraṃ, na pītisahagataṃ, na sukhasahagataṃ, na upekkhāsahagataṃ, neva dassanena na bhāvanāya pahātabbaṃ, neva dassanena na bhāvanāya pahātabbahetukaṃ, neva ācayagāmi na apacayagāmi, nevasekkhanāsekkhaṃ, parittaṃ, kāmāvacaraṃ, na rūpāvacaraṃ, na arūpāvacaraṃ, pariyāpannaṃ, no apariyāpannaṃ, aniyataṃ, aniyyānikaṃ, uppannaṃ, chahi viññāṇehi viññeyyaṃ, aniccaṃ, jarābhibhūtaṃ.
 
-Evaṃ ekavidhena rūpasaṅgaho. ^1170
+Evaṃ ekavidhena rūpasaṅgaho.
 
-Ekakaṃ. ^1171
+Ekakaṃ.
 
-Dukaṃ ^1172
+Dukaṃ
 
-Duvidhena rūpasaṅgaho – ^1173
+Duvidhena rūpasaṅgaho –
 
-Atthi rūpaṃ upādā, atthi rūpaṃ no upādā. ^1174
+Atthi rūpaṃ upādā, atthi rūpaṃ no upādā.
 
-Atthi rūpaṃ upādiṇṇaṃ, atthi rūpaṃ anupādiṇṇaṃ. ^1175
+Atthi rūpaṃ upādiṇṇaṃ, atthi rūpaṃ anupādiṇṇaṃ.
 
-Atthi rūpaṃ upādiṇṇupādāniyaṃ, atthi rūpaṃ anupādiṇṇupādāniyaṃ. ^1176
+Atthi rūpaṃ upādiṇṇupādāniyaṃ, atthi rūpaṃ anupādiṇṇupādāniyaṃ.
 
-Atthi rūpaṃ sanidassanaṃ, atthi rūpaṃ anidassanaṃ. ^1177
+Atthi rūpaṃ sanidassanaṃ, atthi rūpaṃ anidassanaṃ.
 
-Atthi rūpaṃ sappaṭighaṃ, atthi rūpaṃ appaṭighaṃ. ^1178
+Atthi rūpaṃ sappaṭighaṃ, atthi rūpaṃ appaṭighaṃ.
 
-Atthi rūpaṃ indriyaṃ, atthi rūpaṃ na indriyaṃ. ^1179
+Atthi rūpaṃ indriyaṃ, atthi rūpaṃ na indriyaṃ.
 
-Atthi rūpaṃ mahābhūtaṃ, atthi rūpaṃ na mahābhūtaṃ. ^1180
+Atthi rūpaṃ mahābhūtaṃ, atthi rūpaṃ na mahābhūtaṃ.
 
-Atthi rūpaṃ viññatti, atthi rūpaṃ na viññatti. ^1181
+Atthi rūpaṃ viññatti, atthi rūpaṃ na viññatti.
 
-Atthi rūpaṃ cittasamuṭṭhānaṃ, atthi rūpaṃ na cittasamuṭṭhānaṃ. ^1182
+Atthi rūpaṃ cittasamuṭṭhānaṃ, atthi rūpaṃ na cittasamuṭṭhānaṃ.
 
-Atthi rūpaṃ cittasahabhu, atthi rūpaṃ na cittasahabhu. ^1183
+Atthi rūpaṃ cittasahabhu, atthi rūpaṃ na cittasahabhu.
 
-Atthi rūpaṃ cittānuparivatti, atthi rūpaṃ na cittānuparivatti. ^1184
+Atthi rūpaṃ cittānuparivatti, atthi rūpaṃ na cittānuparivatti.
 
-Atthi rūpaṃ ajjhattikaṃ, atthi rūpaṃ bāhiraṃ. ^1185
+Atthi rūpaṃ ajjhattikaṃ, atthi rūpaṃ bāhiraṃ.
 
-Atthi rūpaṃ oḷārikaṃ, atthi rūpaṃ sukhumaṃ. ^1186
+Atthi rūpaṃ oḷārikaṃ, atthi rūpaṃ sukhumaṃ.
 
-Atthi rūpaṃ dūre, atthi rūpaṃ santike. ^1187
+Atthi rūpaṃ dūre, atthi rūpaṃ santike.
 
-Atthi rūpaṃ cakkhusamphassassa vatthu, atthi rūpaṃ cakkhusamphassassa na vatthu. Atthi rūpaṃ cakkhusamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa vatthu, atthi rūpaṃ cakkhuviññāṇassa na vatthu. ^1188
+Atthi rūpaṃ cakkhusamphassassa vatthu, atthi rūpaṃ cakkhusamphassassa na vatthu. Atthi rūpaṃ cakkhusamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa vatthu, atthi rūpaṃ cakkhuviññāṇassa na vatthu.
 
-Atthi rūpaṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa vatthu, atthi rūpaṃ kāyasamphassassa na vatthu. Atthi rūpaṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya …pe… kāyaviññāṇassa vatthu, atthi rūpaṃ kāyaviññāṇassa na vatthu. ^1189
+Atthi rūpaṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa vatthu, atthi rūpaṃ kāyasamphassassa na vatthu. Atthi rūpaṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya …pe… kāyaviññāṇassa vatthu, atthi rūpaṃ kāyaviññāṇassa na vatthu.
 
-Atthi rūpaṃ cakkhusamphassassa ārammaṇaṃ, atthi rūpaṃ cakkhusamphassassa nārammaṇaṃ. Atthi rūpaṃ cakkhusamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa ārammaṇaṃ, atthi rūpaṃ cakkhuviññāṇassa nārammaṇaṃ. ^1190
+Atthi rūpaṃ cakkhusamphassassa ārammaṇaṃ, atthi rūpaṃ cakkhusamphassassa nārammaṇaṃ. Atthi rūpaṃ cakkhusamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa ārammaṇaṃ, atthi rūpaṃ cakkhuviññāṇassa nārammaṇaṃ.
 
-Atthi rūpaṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa ārammaṇaṃ, atthi rūpaṃ kāyasamphassassa nārammaṇaṃ. Atthi rūpaṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa ārammaṇaṃ, atthi rūpaṃ kāyaviññāṇassa nārammaṇaṃ. ^1191
+Atthi rūpaṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa ārammaṇaṃ, atthi rūpaṃ kāyasamphassassa nārammaṇaṃ. Atthi rūpaṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa ārammaṇaṃ, atthi rūpaṃ kāyaviññāṇassa nārammaṇaṃ.
 
-Atthi rūpaṃ cakkhāyatanaṃ, atthi rūpaṃ na cakkhāyatanaṃ. Atthi rūpaṃ sotāyatanaṃ…pe… ghānāyatanaṃ…pe… jivhāyatanaṃ…pe… kāyāyatanaṃ, atthi rūpaṃ na kāyāyatanaṃ. ^1192
+Atthi rūpaṃ cakkhāyatanaṃ, atthi rūpaṃ na cakkhāyatanaṃ. Atthi rūpaṃ sotāyatanaṃ…pe… ghānāyatanaṃ…pe… jivhāyatanaṃ…pe… kāyāyatanaṃ, atthi rūpaṃ na kāyāyatanaṃ.
 
-Atthi rūpaṃ rūpāyatanaṃ, atthi rūpaṃ na rūpāyatanaṃ. Atthi rūpaṃ saddāyatanaṃ…pe… gandhāyatanaṃ…pe… rasāyatanaṃ…pe… phoṭṭhabbāyatanaṃ, atthi rūpaṃ na phoṭṭhabbāyatanaṃ. ^1193
+Atthi rūpaṃ rūpāyatanaṃ, atthi rūpaṃ na rūpāyatanaṃ. Atthi rūpaṃ saddāyatanaṃ…pe… gandhāyatanaṃ…pe… rasāyatanaṃ…pe… phoṭṭhabbāyatanaṃ, atthi rūpaṃ na phoṭṭhabbāyatanaṃ.
 
-Atthi rūpaṃ cakkhudhātu, atthi rūpaṃ na cakkhudhātu. Atthi rūpaṃ sotadhātu…pe… ghānadhātu…pe… jivhādhātu…pe… kāyadhātu, atthi rūpaṃ na kāyadhātu. ^1194
+Atthi rūpaṃ cakkhudhātu, atthi rūpaṃ na cakkhudhātu. Atthi rūpaṃ sotadhātu…pe… ghānadhātu…pe… jivhādhātu…pe… kāyadhātu, atthi rūpaṃ na kāyadhātu.
 
-Atthi rūpaṃ rūpadhātu, atthi rūpaṃ na rūpadhātu. Atthi rūpaṃ saddadhātu…pe… gandhadhātu…pe… rasadhātu…pe… phoṭṭhabbadhātu, atthi rūpaṃ na phoṭṭhabbadhātu. ^1195
+Atthi rūpaṃ rūpadhātu, atthi rūpaṃ na rūpadhātu. Atthi rūpaṃ saddadhātu…pe… gandhadhātu…pe… rasadhātu…pe… phoṭṭhabbadhātu, atthi rūpaṃ na phoṭṭhabbadhātu.
 
-Atthi rūpaṃ cakkhundriyaṃ, atthi rūpaṃ na cakkhundriyaṃ. Atthi rūpaṃ sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ, atthi rūpaṃ na kāyindriyaṃ. ^1196
+Atthi rūpaṃ cakkhundriyaṃ, atthi rūpaṃ na cakkhundriyaṃ. Atthi rūpaṃ sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ, atthi rūpaṃ na kāyindriyaṃ.
 
-Atthi rūpaṃ itthindriyaṃ, atthi rūpaṃ na itthindriyaṃ. ^1197
+Atthi rūpaṃ itthindriyaṃ, atthi rūpaṃ na itthindriyaṃ.
 
-Atthi rūpaṃ purisindriyaṃ, atthi rūpaṃ na purisindriyaṃ. ^1198
+Atthi rūpaṃ purisindriyaṃ, atthi rūpaṃ na purisindriyaṃ.
 
-Atthi rūpaṃ jīvitindriyaṃ, atthi rūpaṃ na jīvitindriyaṃ. ^1199
+Atthi rūpaṃ jīvitindriyaṃ, atthi rūpaṃ na jīvitindriyaṃ.
 
-Atthi rūpaṃ kāyaviññatti, atthi rūpaṃ na kāyaviññatti. ^1200
+Atthi rūpaṃ kāyaviññatti, atthi rūpaṃ na kāyaviññatti.
 
-Atthi rūpaṃ vacīviññatti, atthi rūpaṃ na vacīviññatti. ^1201
+Atthi rūpaṃ vacīviññatti, atthi rūpaṃ na vacīviññatti.
 
-Atthi rūpaṃ ākāsadhātu, atthi rūpaṃ na ākāsadhātu. ^1202
+Atthi rūpaṃ ākāsadhātu, atthi rūpaṃ na ākāsadhātu.
 
-Atthi rūpaṃ āpodhātu, atthi rūpaṃ na āpodhātu. ^1203
+Atthi rūpaṃ āpodhātu, atthi rūpaṃ na āpodhātu.
 
-Atthi rūpaṃ rūpassa lahutā, atthi rūpaṃ rūpassa na lahutā. ^1204
+Atthi rūpaṃ rūpassa lahutā, atthi rūpaṃ rūpassa na lahutā.
 
-Atthi rūpaṃ rūpassa mudutā, atthi rūpaṃ rūpassa na mudutā. ^1205
+Atthi rūpaṃ rūpassa mudutā, atthi rūpaṃ rūpassa na mudutā.
 
-Atthi rūpaṃ rūpassa kammaññatā, atthi rūpaṃ rūpassa na kammaññatā. ^1206
+Atthi rūpaṃ rūpassa kammaññatā, atthi rūpaṃ rūpassa na kammaññatā.
 
-Atthi rūpaṃ rūpassa upacayo, atthi rūpaṃ rūpassa na upacayo. ^1207
+Atthi rūpaṃ rūpassa upacayo, atthi rūpaṃ rūpassa na upacayo.
 
-Atthi rūpaṃ rūpassa santati, atthi rūpaṃ rūpassa na santati. ^1208
+Atthi rūpaṃ rūpassa santati, atthi rūpaṃ rūpassa na santati.
 
-Atthi rūpaṃ rūpassa jaratā, atthi rūpaṃ rūpassa na jaratā. ^1209
+Atthi rūpaṃ rūpassa jaratā, atthi rūpaṃ rūpassa na jaratā.
 
-Atthi rūpaṃ rūpassa aniccatā, atthi rūpaṃ rūpassa na aniccatā. ^1210
+Atthi rūpaṃ rūpassa aniccatā, atthi rūpaṃ rūpassa na aniccatā.
 
-Atthi rūpaṃ kabaḷīkāro āhāro, atthi rūpaṃ na kabaḷīkāro āhāro. ^1211
+Atthi rūpaṃ kabaḷīkāro āhāro, atthi rūpaṃ na kabaḷīkāro āhāro.
 
-Evaṃ duvidhena rūpasaṅgaho. ^1212
+Evaṃ duvidhena rūpasaṅgaho.
 
-Dukaṃ. ^1213
+Dukaṃ.
 
-Tikaṃ ^1214
+Tikaṃ
 
-Tividhena rūpasaṅgaho – ^1215
+Tividhena rūpasaṅgaho –
 
-585. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ upādā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi upādā, atthi no upādā. ^1216
+585. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ upādā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi upādā, atthi no upādā.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ upādiṇṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi upādiṇṇaṃ, atthi anupādiṇṇaṃ. ^1217
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ upādiṇṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi upādiṇṇaṃ, atthi anupādiṇṇaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ upādiṇṇupādāniyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi upādiṇṇupādāniyaṃ, atthi anupādiṇṇupādāniyaṃ. ^1218
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ upādiṇṇupādāniyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi upādiṇṇupādāniyaṃ, atthi anupādiṇṇupādāniyaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ anidassanaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ. ^1219
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ anidassanaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ sappaṭighaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. ^1220
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ sappaṭighaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ indriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi indriyaṃ, atthi na indriyaṃ. ^1221
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ indriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi indriyaṃ, atthi na indriyaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na mahābhūtaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. ^1222
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na mahābhūtaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na viññatti. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi viññatti, atthi na viññatti. ^1223
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na viññatti. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi viññatti, atthi na viññatti.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na cittasamuṭṭhānaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cittasamuṭṭhānaṃ, atthi na cittasamuṭṭhānaṃ. ^1224
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na cittasamuṭṭhānaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cittasamuṭṭhānaṃ, atthi na cittasamuṭṭhānaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na cittasahabhu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cittasahabhu, atthi na cittasahabhu. ^1225
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na cittasahabhu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cittasahabhu, atthi na cittasahabhu.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na cittānuparivatti. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cittānuparivatti, atthi na cittānuparivatti. ^1226
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na cittānuparivatti. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cittānuparivatti, atthi na cittānuparivatti.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ oḷārikaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. ^1227
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ oḷārikaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ santike. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi dūre, atthi santike. ^1228
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ santike. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi dūre, atthi santike.
 
-Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ cakkhusamphassassa na vatthu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhusamphassassa vatthu, atthi cakkhusamphassassa na vatthu. ^1229
+Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ cakkhusamphassassa na vatthu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhusamphassassa vatthu, atthi cakkhusamphassassa na vatthu.
 
-Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ cakkhusamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa na vatthu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhuviññāṇassa vatthu, atthi cakkhuviññāṇassa na vatthu. ^1230
+Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ cakkhusamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa na vatthu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhuviññāṇassa vatthu, atthi cakkhuviññāṇassa na vatthu.
 
-Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa na vatthu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyasamphassassa vatthu, atthi kāyasamphassassa na vatthu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa na vatthu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyaviññāṇassa vatthu, atthi kāyaviññāṇassa na vatthu. ^1231
+Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa na vatthu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyasamphassassa vatthu, atthi kāyasamphassassa na vatthu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa na vatthu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyaviññāṇassa vatthu, atthi kāyaviññāṇassa na vatthu.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ cakkhusamphassassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cakkhusamphassassa ārammaṇaṃ, atthi cakkhusamphassassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ cakkhusamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cakkhuviññāṇassa ārammaṇaṃ, atthi cakkhuviññāṇassa nārammaṇaṃ. ^1232
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ cakkhusamphassassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cakkhusamphassassa ārammaṇaṃ, atthi cakkhusamphassassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ cakkhusamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi cakkhuviññāṇassa ārammaṇaṃ, atthi cakkhuviññāṇassa nārammaṇaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi kāyasamphassassa ārammaṇaṃ, atthi kāyasamphassassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya… pe… kāyaviññāṇassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi kāyaviññāṇassa ārammaṇaṃ, atthi kāyaviññāṇassa nārammaṇaṃ. ^1233
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi kāyasamphassassa ārammaṇaṃ, atthi kāyasamphassassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya… pe… kāyaviññāṇassa nārammaṇaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi kāyaviññāṇassa ārammaṇaṃ, atthi kāyaviññāṇassa nārammaṇaṃ.
 
-Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na cakkhāyatanaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhāyatanaṃ, atthi na cakkhāyatanaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na sotāyatanaṃ…pe… na ghānāyatanaṃ…pe… na jivhāyatanaṃ…pe… na kāyāyatanaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyāyatanaṃ, atthi na kāyāyatanaṃ. ^1234
+Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na cakkhāyatanaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhāyatanaṃ, atthi na cakkhāyatanaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na sotāyatanaṃ…pe… na ghānāyatanaṃ…pe… na jivhāyatanaṃ…pe… na kāyāyatanaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyāyatanaṃ, atthi na kāyāyatanaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na rūpāyatanaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpāyatanaṃ, atthi na rūpāyatanaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na saddāyatanaṃ…pe… na gandhāyatanaṃ…pe… na rasāyatanaṃ…pe… na phoṭṭhabbāyatanaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi phoṭṭhabbāyatanaṃ, atthi na phoṭṭhabbāyatanaṃ. ^1235
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na rūpāyatanaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpāyatanaṃ, atthi na rūpāyatanaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na saddāyatanaṃ…pe… na gandhāyatanaṃ…pe… na rasāyatanaṃ…pe… na phoṭṭhabbāyatanaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi phoṭṭhabbāyatanaṃ, atthi na phoṭṭhabbāyatanaṃ.
 
-Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na cakkhudhātu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhudhātu, atthi na cakkhudhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na sotadhātu…pe… na ghānadhātu…pe… na jivhādhātu…pe… na kāyadhātu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyadhātu, atthi na kāyadhātu. ^1236
+Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na cakkhudhātu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhudhātu, atthi na cakkhudhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na sotadhātu…pe… na ghānadhātu…pe… na jivhādhātu…pe… na kāyadhātu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyadhātu, atthi na kāyadhātu.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na rūpadhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpadhātu, atthi na rūpadhātu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na saddadhātu…pe… na gandhadhātu…pe… na rasadhātu…pe… na phoṭṭhabbadhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi phoṭṭhabbadhātu, atthi na phoṭṭhabbadhātu. ^1237
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na rūpadhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpadhātu, atthi na rūpadhātu. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na saddadhātu…pe… na gandhadhātu…pe… na rasadhātu…pe… na phoṭṭhabbadhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi phoṭṭhabbadhātu, atthi na phoṭṭhabbadhātu.
 
-Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na cakkhundriyaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhundriyaṃ, atthi na cakkhundriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na sotindriyaṃ…pe… na ghānindriyaṃ…pe… na jivhindriyaṃ…pe… na kāyindriyaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyindriyaṃ, atthi na kāyindriyaṃ. ^1238
+Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na cakkhundriyaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi cakkhundriyaṃ, atthi na cakkhundriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ na sotindriyaṃ…pe… na ghānindriyaṃ…pe… na jivhindriyaṃ…pe… na kāyindriyaṃ. Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ atthi kāyindriyaṃ, atthi na kāyindriyaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na itthindriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi itthindriyaṃ, atthi na itthindriyaṃ. ^1239
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na itthindriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi itthindriyaṃ, atthi na itthindriyaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na purisindriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi purisindriyaṃ, atthi na purisindriyaṃ. ^1240
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na purisindriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi purisindriyaṃ, atthi na purisindriyaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na jīvitindriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi jīvitindriyaṃ, atthi na jīvitindriyaṃ. ^1241
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na jīvitindriyaṃ. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi jīvitindriyaṃ, atthi na jīvitindriyaṃ.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na kāyaviññatti. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi kāyaviññatti, atthi na kāyaviññatti. ^1242
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na kāyaviññatti. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi kāyaviññatti, atthi na kāyaviññatti.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na vacīviññatti. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi vacīviññatti, atthi na vacīviññatti. ^1243
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na vacīviññatti. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi vacīviññatti, atthi na vacīviññatti.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na ākāsadhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi ākāsadhātu, atthi na ākāsadhātu. ^1244
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na ākāsadhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi ākāsadhātu, atthi na ākāsadhātu.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na āpodhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi āpodhātu, atthi na āpodhātu. ^1245
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na āpodhātu. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi āpodhātu, atthi na āpodhātu.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na lahutā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa lahutā, atthi rūpassa na lahutā. ^1246
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na lahutā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa lahutā, atthi rūpassa na lahutā.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na mudutā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa mudutā, atthi rūpassa na mudutā. ^1247
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na mudutā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa mudutā, atthi rūpassa na mudutā.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na kammaññatā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa kammaññatā, atthi rūpassa na kammaññatā. ^1248
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na kammaññatā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa kammaññatā, atthi rūpassa na kammaññatā.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na upacayo. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa upacayo, atthi rūpassa na upacayo. ^1249
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na upacayo. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa upacayo, atthi rūpassa na upacayo.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na santati. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa santati, atthi rūpassa na santati. ^1250
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na santati. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa santati, atthi rūpassa na santati.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na jaratā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa jaratā, atthi rūpassa na jaratā. ^1251
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na jaratā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa jaratā, atthi rūpassa na jaratā.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na aniccatā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa aniccatā, atthi rūpassa na aniccatā. ^1252
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ rūpassa na aniccatā. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi rūpassa aniccatā, atthi rūpassa na aniccatā.
 
-Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na kabaḷīkāro āhāro. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi kabaḷīkāro āhāro, atthi na kabaḷīkāro āhāro. ^1253
+Yaṃ taṃ rūpaṃ ajjhattikaṃ, taṃ na kabaḷīkāro āhāro. Yaṃ taṃ rūpaṃ bāhiraṃ, taṃ atthi kabaḷīkāro āhāro, atthi na kabaḷīkāro āhāro.
 
-Evaṃ tividhena rūpasaṅgaho. ^1254
+Evaṃ tividhena rūpasaṅgaho.
 
-Tikaṃ. ^1255
+Tikaṃ.
 
-Catukkaṃ ^1256
+Catukkaṃ
 
-Catubbidhena rūpasaṅgaho – ^1257
+Catubbidhena rūpasaṅgaho –
 
-586. Yaṃ taṃ rūpaṃ upādā, taṃ atthi upādiṇṇaṃ, atthi anupādiṇṇaṃ. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi upādiṇṇaṃ, atthi anupādiṇṇaṃ. ^1258
+586. Yaṃ taṃ rūpaṃ upādā, taṃ atthi upādiṇṇaṃ, atthi anupādiṇṇaṃ. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi upādiṇṇaṃ, atthi anupādiṇṇaṃ.
 
-Yaṃ taṃ rūpaṃ upādā, taṃ atthi upādiṇṇupādāniyaṃ, atthi anupādiṇṇupādāniyaṃ. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi upādiṇṇupādāniyaṃ, atthi anupādiṇṇupādāniyaṃ. ^1259
+Yaṃ taṃ rūpaṃ upādā, taṃ atthi upādiṇṇupādāniyaṃ, atthi anupādiṇṇupādāniyaṃ. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi upādiṇṇupādāniyaṃ, atthi anupādiṇṇupādāniyaṃ.
 
-Yaṃ taṃ rūpaṃ upādā, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. ^1260
+Yaṃ taṃ rūpaṃ upādā, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ.
 
-Yaṃ taṃ rūpaṃ upādā, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. ^1261
+Yaṃ taṃ rūpaṃ upādā, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi oḷārikaṃ, atthi sukhumaṃ.
 
-Yaṃ taṃ rūpaṃ upādā, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi dūre, atthi santike. ^1262
+Yaṃ taṃ rūpaṃ upādā, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ no upādā, taṃ atthi dūre, atthi santike.
 
-Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ. ^1263
+Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ.
 
-Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi sappaṭighaṃ atthi appaṭighaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. ^1264
+Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi sappaṭighaṃ atthi appaṭighaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ.
 
-Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. ^1265
+Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ.
 
-Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. ^1266
+Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ.
 
-Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi dūre, atthi santike. ^1267
+Yaṃ taṃ rūpaṃ upādiṇṇaṃ, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ anupādiṇṇaṃ, taṃ atthi dūre, atthi santike.
 
-Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ. ^1268
+Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi sanidassanaṃ, atthi anidassanaṃ.
 
-Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. ^1269
+Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi sappaṭighaṃ, atthi appaṭighaṃ.
 
-Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. ^1270
+Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ.
 
-Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. ^1271
+Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ.
 
-Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi dūre, atthi santike. ^1272
+Yaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ, taṃ atthi dūre, atthi santike.
 
-Yaṃ taṃ rūpaṃ sappaṭighaṃ, taṃ atthi indriyaṃ, atthi na indriyaṃ. Yaṃ taṃ rūpaṃ appaṭighaṃ, taṃ atthi indriyaṃ, atthi na indriyaṃ. ^1273
+Yaṃ taṃ rūpaṃ sappaṭighaṃ, taṃ atthi indriyaṃ, atthi na indriyaṃ. Yaṃ taṃ rūpaṃ appaṭighaṃ, taṃ atthi indriyaṃ, atthi na indriyaṃ.
 
-Yaṃ taṃ rūpaṃ sappaṭighaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. Yaṃ taṃ rūpaṃ appaṭighaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. ^1274
+Yaṃ taṃ rūpaṃ sappaṭighaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ. Yaṃ taṃ rūpaṃ appaṭighaṃ, taṃ atthi mahābhūtaṃ, atthi na mahābhūtaṃ.
 
-Yaṃ taṃ rūpaṃ indriyaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ na indriyaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. ^1275
+Yaṃ taṃ rūpaṃ indriyaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ na indriyaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ.
 
-Yaṃ taṃ rūpaṃ indriyaṃ, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ na indriyaṃ, taṃ atthi dūre, atthi santike. ^1276
+Yaṃ taṃ rūpaṃ indriyaṃ, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ na indriyaṃ, taṃ atthi dūre, atthi santike.
 
-Yaṃ taṃ rūpaṃ mahābhūtaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ na mahābhūtaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. ^1277
+Yaṃ taṃ rūpaṃ mahābhūtaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ. Yaṃ taṃ rūpaṃ na mahābhūtaṃ, taṃ atthi oḷārikaṃ, atthi sukhumaṃ.
 
-Yaṃ taṃ rūpaṃ mahābhūtaṃ, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ na mahābhūtaṃ, taṃ atthi dūre, atthi santike. ^1278
+Yaṃ taṃ rūpaṃ mahābhūtaṃ, taṃ atthi dūre, atthi santike. Yaṃ taṃ rūpaṃ na mahābhūtaṃ, taṃ atthi dūre, atthi santike.
 
-Diṭṭhaṃ sutaṃ mutaṃ viññātaṃ rūpaṃ. ^1279
+Diṭṭhaṃ sutaṃ mutaṃ viññātaṃ rūpaṃ.
 
-Evaṃ catubbidhena rūpasaṅgaho. ^1280
+Evaṃ catubbidhena rūpasaṅgaho.
 
-Catukkaṃ. ^1281
+Catukkaṃ.
 
-Pañcakaṃ ^1282
+Pañcakaṃ
 
-Pañcavidhena rūpasaṅgaho – ^1283
+Pañcavidhena rūpasaṅgaho –
 
-587. Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, yañca rūpaṃ upādā. ^1284
+587. Pathavīdhātu, āpodhātu, tejodhātu, vāyodhātu, yañca rūpaṃ upādā.
 
-Evaṃ pañcavidhena rūpasaṅgaho. ^1285
+Evaṃ pañcavidhena rūpasaṅgaho.
 
-Pañcakaṃ. ^1286
+Pañcakaṃ.
 
-Chakkaṃ ^1287
+Chakkaṃ
 
-Chabbidhena rūpasaṅgaho – ^1288
+Chabbidhena rūpasaṅgaho –
 
-588. Cakkhuviññeyyaṃ rūpaṃ, sotaviññeyyaṃ rūpaṃ, ghānaviññeyyaṃ rūpaṃ, jivhāviññeyyaṃ rūpaṃ, kāyaviññeyyaṃ rūpaṃ, manoviññeyyaṃ rūpaṃ. ^1289
+588. Cakkhuviññeyyaṃ rūpaṃ, sotaviññeyyaṃ rūpaṃ, ghānaviññeyyaṃ rūpaṃ, jivhāviññeyyaṃ rūpaṃ, kāyaviññeyyaṃ rūpaṃ, manoviññeyyaṃ rūpaṃ.
 
-Evaṃ chabbidhena rūpasaṅgaho. ^1290
+Evaṃ chabbidhena rūpasaṅgaho.
 
-Chakkaṃ. ^1291
+Chakkaṃ.
 
-Sattakaṃ ^1292
+Sattakaṃ
 
-Sattavidhena rūpasaṅgaho – ^1293
+Sattavidhena rūpasaṅgaho –
 
-589. Cakkhuviññeyyaṃ rūpaṃ, sotaviññeyyaṃ rūpaṃ, ghānaviññeyyaṃ rūpaṃ, jivhāviññeyyaṃ rūpaṃ, kāyaviññeyyaṃ rūpaṃ, manodhātuviññeyyaṃ rūpaṃ, manoviññāṇadhātuviññeyyaṃ rūpaṃ. ^1294
+589. Cakkhuviññeyyaṃ rūpaṃ, sotaviññeyyaṃ rūpaṃ, ghānaviññeyyaṃ rūpaṃ, jivhāviññeyyaṃ rūpaṃ, kāyaviññeyyaṃ rūpaṃ, manodhātuviññeyyaṃ rūpaṃ, manoviññāṇadhātuviññeyyaṃ rūpaṃ.
 
-Evaṃ sattavidhena rūpasaṅgaho. ^1295
+Evaṃ sattavidhena rūpasaṅgaho.
 
-Sattakaṃ. ^1296
+Sattakaṃ.
 
-Aṭṭhakaṃ ^1297
+Aṭṭhakaṃ
 
-Aṭṭhavidhena rūpasaṅgaho – ^1298
+Aṭṭhavidhena rūpasaṅgaho –
 
-590. Cakkhuviññeyyaṃ rūpaṃ, sotaviññeyyaṃ rūpaṃ, ghānaviññeyyaṃ rūpaṃ, jivhāviññeyyaṃ rūpaṃ, kāyaviññeyyaṃ rūpaṃ, atthi sukhasamphassaṃ, atthi dukkhasamphassaṃ, manodhātuviññeyyaṃ rūpaṃ, manoviññāṇadhātuviññeyyaṃ rūpaṃ. ^1299
+590. Cakkhuviññeyyaṃ rūpaṃ, sotaviññeyyaṃ rūpaṃ, ghānaviññeyyaṃ rūpaṃ, jivhāviññeyyaṃ rūpaṃ, kāyaviññeyyaṃ rūpaṃ, atthi sukhasamphassaṃ, atthi dukkhasamphassaṃ, manodhātuviññeyyaṃ rūpaṃ, manoviññāṇadhātuviññeyyaṃ rūpaṃ.
 
-Evaṃ aṭṭhavidhena rūpasaṅgaho. ^1300
+Evaṃ aṭṭhavidhena rūpasaṅgaho.
 
-Aṭṭhakaṃ. ^1301
+Aṭṭhakaṃ.
 
-Navakaṃ ^1302
+Navakaṃ
 
-Navavidhena rūpasaṅgaho – ^1303
+Navavidhena rūpasaṅgaho –
 
-591. Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ kāyindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, yañca rūpaṃ na indriyaṃ. ^1304
+591. Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ kāyindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, yañca rūpaṃ na indriyaṃ.
 
-Evaṃ navavidhena rūpasaṅgaho. ^1305
+Evaṃ navavidhena rūpasaṅgaho.
 
-Navakaṃ. ^1306
+Navakaṃ.
 
-Dasakaṃ ^1307
+Dasakaṃ
 
-Dasavidhena rūpasaṅgaho – ^1308
+Dasavidhena rūpasaṅgaho –
 
-592. Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ kāyindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, na indriyaṃ rūpaṃ atthi sappaṭighaṃ, atthi appaṭighaṃ. ^1309
+592. Cakkhundriyaṃ, sotindriyaṃ, ghānindriyaṃ, jivhindriyaṃ kāyindriyaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, na indriyaṃ rūpaṃ atthi sappaṭighaṃ, atthi appaṭighaṃ.
 
-Evaṃ dasavidhena rūpasaṅgaho. ^1310
+Evaṃ dasavidhena rūpasaṅgaho.
 
-Dasakaṃ. ^1311
+Dasakaṃ.
 
-Ekādasakaṃ ^1312
+Ekādasakaṃ
 
-Ekādasavidhena rūpasaṅgaho – ^1313
+Ekādasavidhena rūpasaṅgaho –
 
-593. Cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, rūpāyatanaṃ, saddāyatanaṃ, gandhāyatanaṃ, rasāyatanaṃ, phoṭṭhabbāyatanaṃ, yañca rūpaṃ anidassanaappaṭighaṃ dhammāyatanapariyāpannaṃ. ^1314
+593. Cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, rūpāyatanaṃ, saddāyatanaṃ, gandhāyatanaṃ, rasāyatanaṃ, phoṭṭhabbāyatanaṃ, yañca rūpaṃ anidassanaappaṭighaṃ dhammāyatanapariyāpannaṃ.
 
-Evaṃ ekādasavidhena rūpasaṅgaho. ^1315
+Evaṃ ekādasavidhena rūpasaṅgaho.
 
-Ekādasakaṃ. ^1316
+Ekādasakaṃ.
 
-Mātikā. ^1317
+Mātikā.
 
-Rūpavibhatti ^1318
+Rūpavibhatti
 
-Ekakaniddeso ^1319
+Ekakaniddeso
 
-594. Sabbaṃ rūpaṃ na hetumeva, ahetukameva, hetuvippayuttameva, sappaccayameva, saṅkhatameva, rūpameva, lokiyameva, sāsavameva, saṃyojaniyameva, ganthaniyameva, oghaniyameva, yoganiyameva, nīvaraṇiyameva, parāmaṭṭhameva, upādāniyameva, saṃkilesikameva, abyākatameva, anārammaṇameva, acetasikameva, cittavippayuttameva, nevavipākanavipākadhammadhammameva, asaṃkiliṭṭhasaṃkilesikameva, na savitakkasavicārameva, na avitakkavicāramattameva, avitakkaavicārameva, na pītisahagatameva, na sukhasahagatameva, na upekkhāsahagatameva, neva dassanena na bhāvanāya pahātabbameva, neva dassanena na bhāvanāya pahātabbahetukameva, neva ācayagāmi na apacayagāmimeva, nevasekkhanāsekkhameva, parittameva, kāmāvacarameva, na rūpāvacarameva, na arūpāvacarameva, pariyāpannameva, no apariyāpannameva, aniyatameva, aniyyānikameva, uppannaṃ chahi viññāṇehi viññeyyameva, aniccameva, jarābhibhūtameva. ^1320
+594. Sabbaṃ rūpaṃ na hetumeva, ahetukameva, hetuvippayuttameva, sappaccayameva, saṅkhatameva, rūpameva, lokiyameva, sāsavameva, saṃyojaniyameva, ganthaniyameva, oghaniyameva, yoganiyameva, nīvaraṇiyameva, parāmaṭṭhameva, upādāniyameva, saṃkilesikameva, abyākatameva, anārammaṇameva, acetasikameva, cittavippayuttameva, nevavipākanavipākadhammadhammameva, asaṃkiliṭṭhasaṃkilesikameva, na savitakkasavicārameva, na avitakkavicāramattameva, avitakkaavicārameva, na pītisahagatameva, na sukhasahagatameva, na upekkhāsahagatameva, neva dassanena na bhāvanāya pahātabbameva, neva dassanena na bhāvanāya pahātabbahetukameva, neva ācayagāmi na apacayagāmimeva, nevasekkhanāsekkhameva, parittameva, kāmāvacarameva, na rūpāvacarameva, na arūpāvacarameva, pariyāpannameva, no apariyāpannameva, aniyatameva, aniyyānikameva, uppannaṃ chahi viññāṇehi viññeyyameva, aniccameva, jarābhibhūtameva.
 
-Evaṃ ekavidhena rūpasaṅgaho. ^1321
+Evaṃ ekavidhena rūpasaṅgaho.
 
-Ekakaniddeso. ^1322
+Ekakaniddeso.
 
-Dukaniddeso ^1323
+Dukaniddeso
 
-Upādābhājanīyaṃ ^1324
+Upādābhājanīyaṃ
 
-595. Katamaṃ taṃ rūpaṃ upādā? Cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, rūpāyatanaṃ, saddāyatanaṃ, gandhāyatanaṃ, rasāyatanaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, kāyaviññatti, vacīviññatti, ākāsadhātu, rūpassa lahutā, rūpassa mudutā, rūpassa kammaññatā, rūpassa upacayo, rūpassa santati, rūpassa jaratā, rūpassa aniccatā, kabaḷīkāro āhāro. ^1325
+595. Katamaṃ taṃ rūpaṃ upādā? Cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, rūpāyatanaṃ, saddāyatanaṃ, gandhāyatanaṃ, rasāyatanaṃ, itthindriyaṃ, purisindriyaṃ, jīvitindriyaṃ, kāyaviññatti, vacīviññatti, ākāsadhātu, rūpassa lahutā, rūpassa mudutā, rūpassa kammaññatā, rūpassa upacayo, rūpassa santati, rūpassa jaratā, rūpassa aniccatā, kabaḷīkāro āhāro.
 
-596. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yena cakkhunā anidassanena sappaṭighena rūpaṃ sanidassanaṃ sappaṭighaṃ passi vā passati vā passissati vā passe vā, cakkhuṃ petaṃ cakkhāyatanaṃ petaṃ cakkhudhātu pesā cakkhundriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ nettaṃ petaṃ nayanaṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmopeso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ. ^1326
+596. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yena cakkhunā anidassanena sappaṭighena rūpaṃ sanidassanaṃ sappaṭighaṃ passi vā passati vā passissati vā passe vā, cakkhuṃ petaṃ cakkhāyatanaṃ petaṃ cakkhudhātu pesā cakkhundriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ nettaṃ petaṃ nayanaṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmopeso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ.
 
-597. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yamhi cakkhumhi anidassanamhi sappaṭighamhi rūpaṃ sanidassanaṃ sappaṭighaṃ paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, cakkhuṃ petaṃ cakkhāyatanaṃ petaṃ cakkhudhātu pesā cakkhundriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ nettaṃ petaṃ nayanaṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ. ^1327
+597. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yamhi cakkhumhi anidassanamhi sappaṭighamhi rūpaṃ sanidassanaṃ sappaṭighaṃ paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, cakkhuṃ petaṃ cakkhāyatanaṃ petaṃ cakkhudhātu pesā cakkhundriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ nettaṃ petaṃ nayanaṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ.
 
-598. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ cakkhu anidassanaṃ sappaṭighaṃ rūpamhi sanidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, cakkhuṃ petaṃ cakkhāyatanaṃ petaṃ cakkhudhātu pesā cakkhundriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ nettaṃ petaṃ nayanaṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ. ^1328
+598. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ cakkhu anidassanaṃ sappaṭighaṃ rūpamhi sanidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, cakkhuṃ petaṃ cakkhāyatanaṃ petaṃ cakkhudhātu pesā cakkhundriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ nettaṃ petaṃ nayanaṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ.
 
-599. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ cakkhuṃ nissāya rūpaṃ ārabbha cakkhusamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ cakkhuṃ nissāya rūpaṃ ārabbha cakkhusamphassajā vedanā…pe… saññā…pe… cetanā…pe… cakkhuviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ cakkhuṃ nissāya rūpārammaṇo cakkhusamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ cakkhuṃ nissāya rūpārammaṇā cakkhusamphassajā vedanā…pe… saññā…pe… cetanā…pe… cakkhuviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, cakkhuṃ petaṃ cakkhāyatanaṃ petaṃ cakkhudhātu pesā cakkhundriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ nettaṃ petaṃ nayanaṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ. ^1329
+599. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ cakkhuṃ nissāya rūpaṃ ārabbha cakkhusamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ cakkhuṃ nissāya rūpaṃ ārabbha cakkhusamphassajā vedanā…pe… saññā…pe… cetanā…pe… cakkhuviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ cakkhuṃ nissāya rūpārammaṇo cakkhusamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ cakkhuṃ nissāya rūpārammaṇā cakkhusamphassajā vedanā…pe… saññā…pe… cetanā…pe… cakkhuviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, cakkhuṃ petaṃ cakkhāyatanaṃ petaṃ cakkhudhātu pesā cakkhundriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ nettaṃ petaṃ nayanaṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ.
 
-600. Katamaṃ taṃ rūpaṃ sotāyatanaṃ? Yaṃ sotaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yena sotena anidassanena sappaṭighena saddaṃ anidassanaṃ sappaṭighaṃ suṇi vā suṇāti vā suṇissati vā suṇe vā, sotaṃ petaṃ sotāyatanaṃ petaṃ sotadhātu pesā sotindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ sotāyatanaṃ. ^1330
+600. Katamaṃ taṃ rūpaṃ sotāyatanaṃ? Yaṃ sotaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yena sotena anidassanena sappaṭighena saddaṃ anidassanaṃ sappaṭighaṃ suṇi vā suṇāti vā suṇissati vā suṇe vā, sotaṃ petaṃ sotāyatanaṃ petaṃ sotadhātu pesā sotindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ sotāyatanaṃ.
 
-601. Katamaṃ taṃ rūpaṃ sotāyatanaṃ? Yaṃ sotaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yamhi sotamhi anidassanamhi sappaṭighamhi saddo anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, sotaṃ petaṃ sotāyatanaṃ petaṃ sotadhātu pesā sotindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ sotāyatanaṃ. ^1331
+601. Katamaṃ taṃ rūpaṃ sotāyatanaṃ? Yaṃ sotaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yamhi sotamhi anidassanamhi sappaṭighamhi saddo anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, sotaṃ petaṃ sotāyatanaṃ petaṃ sotadhātu pesā sotindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ sotāyatanaṃ.
 
-602. Katamaṃ taṃ rūpaṃ sotāyatanaṃ? Yaṃ sotaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ sotaṃ anidassanaṃ sappaṭighaṃ saddamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, sotaṃ petaṃ sotāyatanaṃ petaṃ sotadhātu pesā sotindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ sotāyatanaṃ. ^1332
+602. Katamaṃ taṃ rūpaṃ sotāyatanaṃ? Yaṃ sotaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ sotaṃ anidassanaṃ sappaṭighaṃ saddamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, sotaṃ petaṃ sotāyatanaṃ petaṃ sotadhātu pesā sotindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ sotāyatanaṃ.
 
-603. Katamaṃ taṃ rūpaṃ sotāyatanaṃ? Yaṃ sotaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ sotaṃ nissāya saddaṃ ārabbha sotasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ sotaṃ nissāya saddaṃ ārabbha sotasamphassajā vedanā…pe… saññā…pe… cetanā…pe… sotaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ sotaṃ nissāya saddārammaṇo sotasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ sotaṃ nissāya saddārammaṇā sotasamphassajā vedanā…pe… saññā…pe… cetanā…pe… sotaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, sotaṃ petaṃ sotāyatanaṃ petaṃ sotadhātu pesā sotindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ sotāyatanaṃ. ^1333
+603. Katamaṃ taṃ rūpaṃ sotāyatanaṃ? Yaṃ sotaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ sotaṃ nissāya saddaṃ ārabbha sotasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ sotaṃ nissāya saddaṃ ārabbha sotasamphassajā vedanā…pe… saññā…pe… cetanā…pe… sotaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ sotaṃ nissāya saddārammaṇo sotasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ sotaṃ nissāya saddārammaṇā sotasamphassajā vedanā…pe… saññā…pe… cetanā…pe… sotaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, sotaṃ petaṃ sotāyatanaṃ petaṃ sotadhātu pesā sotindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ sotāyatanaṃ.
 
-604. Katamaṃ taṃ rūpaṃ ghānāyatanaṃ? Yaṃ ghānaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yena ghānena anidassanena sappaṭighena gandhaṃ anidassanaṃ sappaṭighaṃ ghāyi vā ghāyati vā ghāyissati vā ghāye vā, ghānaṃ petaṃ ghānāyatanaṃ petaṃ ghānadhātu pesā ghānindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ ghānāyatanaṃ. ^1334
+604. Katamaṃ taṃ rūpaṃ ghānāyatanaṃ? Yaṃ ghānaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yena ghānena anidassanena sappaṭighena gandhaṃ anidassanaṃ sappaṭighaṃ ghāyi vā ghāyati vā ghāyissati vā ghāye vā, ghānaṃ petaṃ ghānāyatanaṃ petaṃ ghānadhātu pesā ghānindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ ghānāyatanaṃ.
 
-605. Katamaṃ taṃ rūpaṃ ghānāyatanaṃ? Yaṃ ghānaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yamhi ghānamhi anidassanamhi sappaṭighamhi gandho anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, ghānaṃ petaṃ ghānāyatanaṃ petaṃ ghānadhātu pesā ghānindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ ghānāyatanaṃ. ^1335
+605. Katamaṃ taṃ rūpaṃ ghānāyatanaṃ? Yaṃ ghānaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yamhi ghānamhi anidassanamhi sappaṭighamhi gandho anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, ghānaṃ petaṃ ghānāyatanaṃ petaṃ ghānadhātu pesā ghānindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ ghānāyatanaṃ.
 
-606. Katamaṃ taṃ rūpaṃ ghānāyatanaṃ? Yaṃ ghānaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ ghānaṃ anidassanaṃ sappaṭighaṃ gandhamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, ghānaṃ petaṃ ghānāyatanaṃ petaṃ ghānadhātu pesā ghānindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmopeso – idaṃ taṃ rūpaṃ ghānāyatanaṃ. ^1336
+606. Katamaṃ taṃ rūpaṃ ghānāyatanaṃ? Yaṃ ghānaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ ghānaṃ anidassanaṃ sappaṭighaṃ gandhamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, ghānaṃ petaṃ ghānāyatanaṃ petaṃ ghānadhātu pesā ghānindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmopeso – idaṃ taṃ rūpaṃ ghānāyatanaṃ.
 
-607. Katamaṃ taṃ rūpaṃ ghānāyatanaṃ? Yaṃ ghānaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ ghānaṃ nissāya gandhaṃ ārabbha ghānasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ ghānaṃ nissāya gandhaṃ ārabbha ghānasamphassajā vedanā…pe… saññā…pe… cetanā…pe… ghānaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ ghānaṃ nissāya gandhārammaṇo ghānasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ ghānaṃ nissāya gandhārammaṇā ghānasamphassajā vedanā…pe… saññā…pe… cetanā…pe… ghānaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, ghānaṃ petaṃ ghānāyatanaṃ petaṃ ghānadhātu pesā ghānindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ ghānāyatanaṃ. ^1337
+607. Katamaṃ taṃ rūpaṃ ghānāyatanaṃ? Yaṃ ghānaṃ catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ ghānaṃ nissāya gandhaṃ ārabbha ghānasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ ghānaṃ nissāya gandhaṃ ārabbha ghānasamphassajā vedanā…pe… saññā…pe… cetanā…pe… ghānaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ ghānaṃ nissāya gandhārammaṇo ghānasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ ghānaṃ nissāya gandhārammaṇā ghānasamphassajā vedanā…pe… saññā…pe… cetanā…pe… ghānaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, ghānaṃ petaṃ ghānāyatanaṃ petaṃ ghānadhātu pesā ghānindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ ghānāyatanaṃ.
 
-608. Katamaṃ taṃ rūpaṃ jivhāyatanaṃ? Yā jivhā catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yāya jivhāya anidassanāya sappaṭighāya rasaṃ anidassanaṃ sappaṭighaṃ sāyi vā sāyati vā sāyissati vā sāye vā, jivhā pesā jivhāyatanaṃ petaṃ jivhādhātu pesā jivhindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ jivhāyatanaṃ. ^1338
+608. Katamaṃ taṃ rūpaṃ jivhāyatanaṃ? Yā jivhā catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yāya jivhāya anidassanāya sappaṭighāya rasaṃ anidassanaṃ sappaṭighaṃ sāyi vā sāyati vā sāyissati vā sāye vā, jivhā pesā jivhāyatanaṃ petaṃ jivhādhātu pesā jivhindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ jivhāyatanaṃ.
 
-609. Katamaṃ taṃ rūpaṃ jivhāyatanaṃ? Yā jivhā catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yāya jivhāya anidassanāya sappaṭighāya raso anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, jivhā pesā jivhāyatanaṃ petaṃ jivhādhātu pesā jivhindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ jivhāyatanaṃ. ^1339
+609. Katamaṃ taṃ rūpaṃ jivhāyatanaṃ? Yā jivhā catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yāya jivhāya anidassanāya sappaṭighāya raso anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, jivhā pesā jivhāyatanaṃ petaṃ jivhādhātu pesā jivhindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ jivhāyatanaṃ.
 
-610. Katamaṃ taṃ rūpaṃ jivhāyatanaṃ? Yā jivhā catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yā jivhā anidassanā sappaṭighā rasamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, jivhā pesā jivhāyatanaṃ petaṃ jivhādhātu pesā jivhindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ jivhāyatanaṃ. ^1340
+610. Katamaṃ taṃ rūpaṃ jivhāyatanaṃ? Yā jivhā catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yā jivhā anidassanā sappaṭighā rasamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, jivhā pesā jivhāyatanaṃ petaṃ jivhādhātu pesā jivhindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ jivhāyatanaṃ.
 
-611. Katamaṃ taṃ rūpaṃ jivhāyatanaṃ? Yā jivhā catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ jivhaṃ nissāya rasaṃ ārabbha jivhāsamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ jivhaṃ nissāya rasaṃ ārabbha jivhāsamphassajā vedanā…pe… saññā…pe… cetanā…pe… jivhāviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ jivhaṃ nissāya rasārammaṇo jivhāsamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ jivhaṃ nissāya rasārammaṇā jivhāsamphassajā vedanā…pe… saññā…pe… cetanā…pe… jivhāviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, jivhā pesā jivhāyatanaṃ petaṃ jivhādhātu pesā jivhindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ jivhāyatanaṃ. ^1341
+611. Katamaṃ taṃ rūpaṃ jivhāyatanaṃ? Yā jivhā catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ jivhaṃ nissāya rasaṃ ārabbha jivhāsamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ jivhaṃ nissāya rasaṃ ārabbha jivhāsamphassajā vedanā…pe… saññā…pe… cetanā…pe… jivhāviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ jivhaṃ nissāya rasārammaṇo jivhāsamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ jivhaṃ nissāya rasārammaṇā jivhāsamphassajā vedanā…pe… saññā…pe… cetanā…pe… jivhāviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, jivhā pesā jivhāyatanaṃ petaṃ jivhādhātu pesā jivhindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ jivhāyatanaṃ.
 
-612. Katamaṃ taṃ rūpaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yena kāyena anidassanena sappaṭighena phoṭṭhabbaṃ anidassanasappaṭighaṃ phusi vā phusati vā phusissati vā phuse vā, kāyo peso kāyāyatanaṃ petaṃ kāyadhātu pesā kāyindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ. ^1342
+612. Katamaṃ taṃ rūpaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yena kāyena anidassanena sappaṭighena phoṭṭhabbaṃ anidassanasappaṭighaṃ phusi vā phusati vā phusissati vā phuse vā, kāyo peso kāyāyatanaṃ petaṃ kāyadhātu pesā kāyindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ.
 
-613. Katamaṃ taṃ rūpaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yamhi kāyamhi anidassanamhi sappaṭighamhi phoṭṭhabbo anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, kāyo peso kāyāyatanaṃ petaṃ kāyadhātu pesā kāyindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ. ^1343
+613. Katamaṃ taṃ rūpaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yamhi kāyamhi anidassanamhi sappaṭighamhi phoṭṭhabbo anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, kāyo peso kāyāyatanaṃ petaṃ kāyadhātu pesā kāyindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ.
 
-614. Katamaṃ taṃ rūpaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yo kāyo anidassano sappaṭigho phoṭṭhabbamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, kāyo peso kāyāyatanaṃ petaṃ kāyadhātu pesā kāyindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ. ^1344
+614. Katamaṃ taṃ rūpaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yo kāyo anidassano sappaṭigho phoṭṭhabbamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, kāyo peso kāyāyatanaṃ petaṃ kāyadhātu pesā kāyindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ.
 
-615. Katamaṃ taṃ rūpaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ kāyaṃ nissāya phoṭṭhabbaṃ ārabbha kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ kāyaṃ nissāya phoṭṭhabbaṃ ārabbha kāyasamphassajā vedanā…pe… saññā…pe… cetanā…pe… kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ kāyaṃ nissāya phoṭṭhabbārammaṇo kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ kāyaṃ nissāya phoṭṭhabbārammaṇā kāyasamphassajā vedanā…pe… saññā…pe… cetanā…pe… kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, kāyo peso kāyāyatanaṃ petaṃ kāyadhātu pesā kāyindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ. ^1345
+615. Katamaṃ taṃ rūpaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo attabhāvapariyāpanno anidassano sappaṭigho, yaṃ kāyaṃ nissāya phoṭṭhabbaṃ ārabbha kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ kāyaṃ nissāya phoṭṭhabbaṃ ārabbha kāyasamphassajā vedanā…pe… saññā…pe… cetanā…pe… kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ kāyaṃ nissāya phoṭṭhabbārammaṇo kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ kāyaṃ nissāya phoṭṭhabbārammaṇā kāyasamphassajā vedanā…pe… saññā…pe… cetanā…pe… kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, kāyo peso kāyāyatanaṃ petaṃ kāyadhātu pesā kāyindriyaṃ petaṃ loko peso dvārā pesā samuddo peso paṇḍaraṃ petaṃ khettaṃ petaṃ vatthuṃ petaṃ orimaṃ tīraṃ petaṃ suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ.
 
-616. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ nīlaṃ pītakaṃ lohitakaṃ odātaṃ kāḷakaṃ mañjiṭṭhakaṃ hari harivaṇṇaṃ ambaṅkuravaṇṇaṃ dīghaṃ rassaṃ aṇuṃ thūlaṃ vaṭṭaṃ parimaṇḍalaṃ caturaṃsaṃ chaḷaṃsaṃ aṭṭhaṃsaṃ soḷasaṃsaṃ ninnaṃ thalaṃ chāyā ātapo āloko andhakāro abbhā mahikā dhūmo rajo candamaṇḍalassa vaṇṇanibhā sūriyamaṇḍalassa vaṇṇanibhā tārakarūpānaṃ vaṇṇanibhā ādāsamaṇḍalassa vaṇṇanibhā maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā jātarūparajatassa vaṇṇanibhā, yaṃ vā panaññampi atthi rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ, yaṃ rūpaṃ sanidassanaṃ sappaṭighaṃ cakkhunā anidassanena sappaṭighena passi vā passati vā passissati vā passe vā, rūpaṃ petaṃ rūpāyatanaṃ petaṃ rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ. ^1346
+616. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ nīlaṃ pītakaṃ lohitakaṃ odātaṃ kāḷakaṃ mañjiṭṭhakaṃ hari harivaṇṇaṃ ambaṅkuravaṇṇaṃ dīghaṃ rassaṃ aṇuṃ thūlaṃ vaṭṭaṃ parimaṇḍalaṃ caturaṃsaṃ chaḷaṃsaṃ aṭṭhaṃsaṃ soḷasaṃsaṃ ninnaṃ thalaṃ chāyā ātapo āloko andhakāro abbhā mahikā dhūmo rajo candamaṇḍalassa vaṇṇanibhā sūriyamaṇḍalassa vaṇṇanibhā tārakarūpānaṃ vaṇṇanibhā ādāsamaṇḍalassa vaṇṇanibhā maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā jātarūparajatassa vaṇṇanibhā, yaṃ vā panaññampi atthi rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ, yaṃ rūpaṃ sanidassanaṃ sappaṭighaṃ cakkhunā anidassanena sappaṭighena passi vā passati vā passissati vā passe vā, rūpaṃ petaṃ rūpāyatanaṃ petaṃ rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ.
 
-617. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ nīlaṃ pītakaṃ lohitakaṃ odātaṃ kāḷakaṃ mañjiṭṭhakaṃ hari harivaṇṇaṃ ambaṅkuravaṇṇaṃ dīghaṃ rassaṃ aṇuṃ thūlaṃ vaṭṭaṃ parimaṇḍalaṃ caturaṃsaṃ chaḷaṃsaṃ aṭṭhaṃsaṃ soḷasaṃsaṃ ninnaṃ thalaṃ chāyā ātapo āloko andhakāro abbhā mahikā dhūmo rajo candamaṇḍalassa vaṇṇanibhā sūriyamaṇḍalassa vaṇṇanibhā tārakarūpānaṃ vaṇṇanibhā ādāsamaṇḍalassa vaṇṇanibhā maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā jātarūparajatassa vaṇṇanibhā, yaṃ vā panaññampi atthi rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ, yamhi rūpamhi sanidassanamhi sappaṭighamhi cakkhuṃ anidassanaṃ sappaṭighaṃ paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, rūpaṃ petaṃ rūpāyatanaṃ petaṃ rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ. ^1347
+617. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ nīlaṃ pītakaṃ lohitakaṃ odātaṃ kāḷakaṃ mañjiṭṭhakaṃ hari harivaṇṇaṃ ambaṅkuravaṇṇaṃ dīghaṃ rassaṃ aṇuṃ thūlaṃ vaṭṭaṃ parimaṇḍalaṃ caturaṃsaṃ chaḷaṃsaṃ aṭṭhaṃsaṃ soḷasaṃsaṃ ninnaṃ thalaṃ chāyā ātapo āloko andhakāro abbhā mahikā dhūmo rajo candamaṇḍalassa vaṇṇanibhā sūriyamaṇḍalassa vaṇṇanibhā tārakarūpānaṃ vaṇṇanibhā ādāsamaṇḍalassa vaṇṇanibhā maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā jātarūparajatassa vaṇṇanibhā, yaṃ vā panaññampi atthi rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ, yamhi rūpamhi sanidassanamhi sappaṭighamhi cakkhuṃ anidassanaṃ sappaṭighaṃ paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, rūpaṃ petaṃ rūpāyatanaṃ petaṃ rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ.
 
-618. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ nīlaṃ pītakaṃ lohitakaṃ odātaṃ kāḷakaṃ mañjiṭṭhakaṃ hari harivaṇṇaṃ ambaṅkuravaṇṇaṃ dīghaṃ rassaṃ aṇuṃ thūlaṃ vaṭṭaṃ parimaṇḍalaṃ caturaṃsaṃ chaḷaṃsaṃ aṭṭhaṃsaṃ soḷasaṃsaṃ ninnaṃ thalaṃ chāyā ātapo āloko andhakāro abbhā mahikā dhūmo rajo candamaṇḍalassa vaṇṇanibhā sūriyamaṇḍalassa vaṇṇanibhā tārakarūpānaṃ vaṇṇanibhā ādāsamaṇḍalassa vaṇṇanibhā maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā jātarūparajatassa vaṇṇanibhā, yaṃ vā panaññampi atthi rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ, yaṃ rūpaṃ sanidassanaṃ sappaṭighaṃ cakkhumhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, rūpaṃ petaṃ rūpāyatanaṃ petaṃ rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ. ^1348
+618. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ nīlaṃ pītakaṃ lohitakaṃ odātaṃ kāḷakaṃ mañjiṭṭhakaṃ hari harivaṇṇaṃ ambaṅkuravaṇṇaṃ dīghaṃ rassaṃ aṇuṃ thūlaṃ vaṭṭaṃ parimaṇḍalaṃ caturaṃsaṃ chaḷaṃsaṃ aṭṭhaṃsaṃ soḷasaṃsaṃ ninnaṃ thalaṃ chāyā ātapo āloko andhakāro abbhā mahikā dhūmo rajo candamaṇḍalassa vaṇṇanibhā sūriyamaṇḍalassa vaṇṇanibhā tārakarūpānaṃ vaṇṇanibhā ādāsamaṇḍalassa vaṇṇanibhā maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā jātarūparajatassa vaṇṇanibhā, yaṃ vā panaññampi atthi rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ, yaṃ rūpaṃ sanidassanaṃ sappaṭighaṃ cakkhumhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, rūpaṃ petaṃ rūpāyatanaṃ petaṃ rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ.
 
-619. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ nīlaṃ pītakaṃ lohitakaṃ odātaṃ kāḷakaṃ mañjiṭṭhakaṃ hari harivaṇṇaṃ ambaṅkuravaṇṇaṃ dīghaṃ rassaṃ aṇuṃ thūlaṃ vaṭṭaṃ parimaṇḍalaṃ caturaṃsaṃ chaḷaṃsaṃ aṭṭhaṃsaṃ soḷasaṃsaṃ ninnaṃ thalaṃ chāyā ātapo āloko andhakāro abbhā mahikā dhūmo rajo candamaṇḍalassa vaṇṇanibhā sūriyamaṇḍalassa vaṇṇanibhā tārakarūpānaṃ vaṇṇanibhā ādāsamaṇḍalassa vaṇṇanibhā maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā jātarūparajatassa vaṇṇanibhā, yaṃ vā panaññampi atthi rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ, yaṃ rūpaṃ ārabbha cakkhuṃ nissāya cakkhusamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rūpaṃ ārabbha cakkhuṃ nissāya cakkhusamphassajā vedanā…pe… saññā…pe… cetanā…pe… cakkhuviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rūpārammaṇo cakkhuṃ nissāya cakkhusamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rūpārammaṇā cakkhuṃ nissāya cakkhusamphassajā vedanā…pe… saññā…pe… cetanā…pe… cakkhuviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, rūpaṃ petaṃ rūpāyatanaṃ petaṃ rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ. ^1349
+619. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ nīlaṃ pītakaṃ lohitakaṃ odātaṃ kāḷakaṃ mañjiṭṭhakaṃ hari harivaṇṇaṃ ambaṅkuravaṇṇaṃ dīghaṃ rassaṃ aṇuṃ thūlaṃ vaṭṭaṃ parimaṇḍalaṃ caturaṃsaṃ chaḷaṃsaṃ aṭṭhaṃsaṃ soḷasaṃsaṃ ninnaṃ thalaṃ chāyā ātapo āloko andhakāro abbhā mahikā dhūmo rajo candamaṇḍalassa vaṇṇanibhā sūriyamaṇḍalassa vaṇṇanibhā tārakarūpānaṃ vaṇṇanibhā ādāsamaṇḍalassa vaṇṇanibhā maṇisaṅkhamuttāveḷuriyassa vaṇṇanibhā jātarūparajatassa vaṇṇanibhā, yaṃ vā panaññampi atthi rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā sanidassanaṃ sappaṭighaṃ, yaṃ rūpaṃ ārabbha cakkhuṃ nissāya cakkhusamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rūpaṃ ārabbha cakkhuṃ nissāya cakkhusamphassajā vedanā…pe… saññā…pe… cetanā…pe… cakkhuviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rūpārammaṇo cakkhuṃ nissāya cakkhusamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rūpārammaṇā cakkhuṃ nissāya cakkhusamphassajā vedanā…pe… saññā…pe… cetanā…pe… cakkhuviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, rūpaṃ petaṃ rūpāyatanaṃ petaṃ rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ.
 
-620. Katamaṃ taṃ rūpaṃ saddāyatanaṃ? Yo saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho bherisaddo mudiṅgasaddo saṅkhasaddo paṇavasaddo gītasaddo vāditasaddo sammasaddo pāṇisaddo sattānaṃ nigghosasaddo dhātūnaṃ sannighātasaddo vātasaddo udakasaddo manussasaddo amanussasaddo, yo vā panaññopi atthi saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ saddaṃ anidassanaṃ sappaṭighaṃ sotena anidassanena sappaṭighena suṇi vā suṇāti vā suṇissati vā suṇe vā, saddo peso saddāyatanaṃ petaṃ saddadhātu pesā – idaṃ taṃ rūpaṃ saddāyatanaṃ. ^1350
+620. Katamaṃ taṃ rūpaṃ saddāyatanaṃ? Yo saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho bherisaddo mudiṅgasaddo saṅkhasaddo paṇavasaddo gītasaddo vāditasaddo sammasaddo pāṇisaddo sattānaṃ nigghosasaddo dhātūnaṃ sannighātasaddo vātasaddo udakasaddo manussasaddo amanussasaddo, yo vā panaññopi atthi saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ saddaṃ anidassanaṃ sappaṭighaṃ sotena anidassanena sappaṭighena suṇi vā suṇāti vā suṇissati vā suṇe vā, saddo peso saddāyatanaṃ petaṃ saddadhātu pesā – idaṃ taṃ rūpaṃ saddāyatanaṃ.
 
-621. Katamaṃ taṃ rūpaṃ saddāyatanaṃ? Yo saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho bherisaddo mudiṅgasaddo saṅkhasaddo paṇavasaddo gītasaddo vāditasaddo sammasaddo pāṇisaddo sattānaṃ nigghosasaddo dhātūnaṃ sannighātasaddo vātasaddo udakasaddo manussasaddo amanussasaddo, yo vā panaññopi atthi saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yamhi saddamhi anidassanamhi sappaṭighamhi sotaṃ anidassanaṃ sappaṭighaṃ paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, saddo peso saddāyatanaṃ petaṃ saddadhātu pesā – idaṃ taṃ rūpaṃ saddāyatanaṃ. ^1351
+621. Katamaṃ taṃ rūpaṃ saddāyatanaṃ? Yo saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho bherisaddo mudiṅgasaddo saṅkhasaddo paṇavasaddo gītasaddo vāditasaddo sammasaddo pāṇisaddo sattānaṃ nigghosasaddo dhātūnaṃ sannighātasaddo vātasaddo udakasaddo manussasaddo amanussasaddo, yo vā panaññopi atthi saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yamhi saddamhi anidassanamhi sappaṭighamhi sotaṃ anidassanaṃ sappaṭighaṃ paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, saddo peso saddāyatanaṃ petaṃ saddadhātu pesā – idaṃ taṃ rūpaṃ saddāyatanaṃ.
 
-622. Katamaṃ taṃ rūpaṃ saddāyatanaṃ? Yo saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho bherisaddo mudiṅgasaddo saṅkhasaddo paṇavasaddo gītasaddo vāditasaddo sammasaddo pāṇisaddo sattānaṃ nigghosasaddo dhātūnaṃ sannighātasaddo vātasaddo udakasaddo manussasaddo amanussasaddo, yo vā panaññopi atthi saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yo saddo anidassano sappaṭigho sotamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, saddo peso saddāyatanaṃ petaṃ saddadhātu pesā – idaṃ taṃ rūpaṃ saddāyatanaṃ. ^1352
+622. Katamaṃ taṃ rūpaṃ saddāyatanaṃ? Yo saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho bherisaddo mudiṅgasaddo saṅkhasaddo paṇavasaddo gītasaddo vāditasaddo sammasaddo pāṇisaddo sattānaṃ nigghosasaddo dhātūnaṃ sannighātasaddo vātasaddo udakasaddo manussasaddo amanussasaddo, yo vā panaññopi atthi saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yo saddo anidassano sappaṭigho sotamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, saddo peso saddāyatanaṃ petaṃ saddadhātu pesā – idaṃ taṃ rūpaṃ saddāyatanaṃ.
 
-623. Katamaṃ taṃ rūpaṃ saddāyatanaṃ? Yo saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho bherisaddo mudiṅgasaddo saṅkhasaddo paṇavasaddo gītasaddo vāditasaddo sammasaddo pāṇisaddo sattānaṃ nigghosasaddo dhātūnaṃ sannighātasaddo vātasaddo udakasaddo manussasaddo amanussasaddo, yo vā panaññopi atthi saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ saddaṃ ārabbha sotaṃ nissāya sotasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā… pe… yaṃ saddaṃ ārabbha sotaṃ nissāya sotasamphassajā vedanā…pe… saññā…pe… cetanā…pe… sotaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ saddārammaṇo sotaṃ nissāya sotasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ saddārammaṇā sotaṃ nissāya sotasamphassajā vedanā…pe… saññā…pe… cetanā…pe… sotaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, saddo peso saddāyatanaṃ petaṃ saddadhātu pesā – idaṃ taṃ rūpaṃ saddāyatanaṃ. ^1353
+623. Katamaṃ taṃ rūpaṃ saddāyatanaṃ? Yo saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho bherisaddo mudiṅgasaddo saṅkhasaddo paṇavasaddo gītasaddo vāditasaddo sammasaddo pāṇisaddo sattānaṃ nigghosasaddo dhātūnaṃ sannighātasaddo vātasaddo udakasaddo manussasaddo amanussasaddo, yo vā panaññopi atthi saddo catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ saddaṃ ārabbha sotaṃ nissāya sotasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā… pe… yaṃ saddaṃ ārabbha sotaṃ nissāya sotasamphassajā vedanā…pe… saññā…pe… cetanā…pe… sotaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ saddārammaṇo sotaṃ nissāya sotasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ saddārammaṇā sotaṃ nissāya sotasamphassajā vedanā…pe… saññā…pe… cetanā…pe… sotaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, saddo peso saddāyatanaṃ petaṃ saddadhātu pesā – idaṃ taṃ rūpaṃ saddāyatanaṃ.
 
-624. Katamaṃ taṃ rūpaṃ gandhāyatanaṃ? Yo gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlagandho sāragandho tacagandho pattagandho pupphagandho phalagandho āmakagandho vissagandho sugandho duggandho, yo vā panaññopi atthi gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ gandhaṃ anidassanaṃ sappaṭighaṃ ghānena anidassanena sappaṭighena ghāyi vā ghāyati vā ghāyissati vā ghāye vā, gandho peso gandhāyatanaṃ petaṃ gandhadhātu pesā – idaṃ taṃ rūpaṃ gandhāyatanaṃ. ^1354
+624. Katamaṃ taṃ rūpaṃ gandhāyatanaṃ? Yo gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlagandho sāragandho tacagandho pattagandho pupphagandho phalagandho āmakagandho vissagandho sugandho duggandho, yo vā panaññopi atthi gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ gandhaṃ anidassanaṃ sappaṭighaṃ ghānena anidassanena sappaṭighena ghāyi vā ghāyati vā ghāyissati vā ghāye vā, gandho peso gandhāyatanaṃ petaṃ gandhadhātu pesā – idaṃ taṃ rūpaṃ gandhāyatanaṃ.
 
-625. Katamaṃ taṃ rūpaṃ gandhāyatanaṃ? Yo gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlagandho sāragandho tacagandho pattagandho pupphagandho phalagandho āmakagandho vissagandho sugandho duggandho, yo vā panaññopi atthi gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yamhi gandhamhi anidassanamhi sappaṭighamhi ghānaṃ anidassanaṃ sappaṭighaṃ paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, gandho peso gandhāyatanaṃ petaṃ gandhadhātu pesā – idaṃ taṃ rūpaṃ gandhāyatanaṃ. ^1355
+625. Katamaṃ taṃ rūpaṃ gandhāyatanaṃ? Yo gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlagandho sāragandho tacagandho pattagandho pupphagandho phalagandho āmakagandho vissagandho sugandho duggandho, yo vā panaññopi atthi gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yamhi gandhamhi anidassanamhi sappaṭighamhi ghānaṃ anidassanaṃ sappaṭighaṃ paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, gandho peso gandhāyatanaṃ petaṃ gandhadhātu pesā – idaṃ taṃ rūpaṃ gandhāyatanaṃ.
 
-626. Katamaṃ taṃ rūpaṃ gandhāyatanaṃ? Yo gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlagandho sāragandho tacagandho pattagandho pupphagandho phalagandho āmakagandho vissagandho sugandho duggandho, yo vā panaññopi atthi gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yo gandho anidassano sappaṭigho ghānamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, gandho peso gandhāyatanaṃ petaṃ gandhadhātu pesā – idaṃ taṃ rūpaṃ gandhāyatanaṃ. ^1356
+626. Katamaṃ taṃ rūpaṃ gandhāyatanaṃ? Yo gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlagandho sāragandho tacagandho pattagandho pupphagandho phalagandho āmakagandho vissagandho sugandho duggandho, yo vā panaññopi atthi gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yo gandho anidassano sappaṭigho ghānamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, gandho peso gandhāyatanaṃ petaṃ gandhadhātu pesā – idaṃ taṃ rūpaṃ gandhāyatanaṃ.
 
-627. Katamaṃ taṃ rūpaṃ gandhāyatanaṃ? Yo gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlagandho sāragandho tacagandho pattagandho pupphagandho phalagandho āmakagandho vissagandho sugandho duggandho, yo vā panaññopi atthi gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ gandhaṃ ārabbha ghānaṃ nissāya ghānasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ gandhaṃ ārabbha ghānaṃ nissāya ghānasamphassajā vedanā…pe… saññā…pe… cetanā…pe… ghānaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ gandhārammaṇo ghānaṃ nissāya ghānasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā… pe… yaṃ gandhārammaṇā ghānaṃ nissāya ghānasamphassajā vedanā… pe… saññā…pe… cetanā…pe… ghānaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, gandho peso gandhāyatanaṃ petaṃ gandhadhātu pesā – idaṃ taṃ rūpaṃ gandhāyatanaṃ. ^1357
+627. Katamaṃ taṃ rūpaṃ gandhāyatanaṃ? Yo gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlagandho sāragandho tacagandho pattagandho pupphagandho phalagandho āmakagandho vissagandho sugandho duggandho, yo vā panaññopi atthi gandho catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ gandhaṃ ārabbha ghānaṃ nissāya ghānasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ gandhaṃ ārabbha ghānaṃ nissāya ghānasamphassajā vedanā…pe… saññā…pe… cetanā…pe… ghānaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ gandhārammaṇo ghānaṃ nissāya ghānasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā… pe… yaṃ gandhārammaṇā ghānaṃ nissāya ghānasamphassajā vedanā… pe… saññā…pe… cetanā…pe… ghānaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, gandho peso gandhāyatanaṃ petaṃ gandhadhātu pesā – idaṃ taṃ rūpaṃ gandhāyatanaṃ.
 
-628. Katamaṃ taṃ rūpaṃ rasāyatanaṃ? Yo raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlaraso khandharaso tacaraso pattaraso puppharaso phalaraso ambilaṃ madhuraṃ tittakaṃ kaṭukaṃ loṇikaṃ khārikaṃ lambilaṃ kasāvo sādu asādu, yo vā panaññopi atthi raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ rasaṃ anidassanaṃ sappaṭighaṃ jivhāya anidassanāya sappaṭighāya sāyi vā sāyati vā sāyissati vā sāye vā, raso peso rasāyatanaṃ petaṃ rasadhātu pesā – idaṃ taṃ rūpaṃ rasāyatanaṃ. ^1358
+628. Katamaṃ taṃ rūpaṃ rasāyatanaṃ? Yo raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlaraso khandharaso tacaraso pattaraso puppharaso phalaraso ambilaṃ madhuraṃ tittakaṃ kaṭukaṃ loṇikaṃ khārikaṃ lambilaṃ kasāvo sādu asādu, yo vā panaññopi atthi raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ rasaṃ anidassanaṃ sappaṭighaṃ jivhāya anidassanāya sappaṭighāya sāyi vā sāyati vā sāyissati vā sāye vā, raso peso rasāyatanaṃ petaṃ rasadhātu pesā – idaṃ taṃ rūpaṃ rasāyatanaṃ.
 
-629. Katamaṃ taṃ rūpaṃ rasāyatanaṃ? Yo raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlaraso khandharaso tacaraso pattaraso puppharaso phalaraso ambilaṃ madhuraṃ tittakaṃ kaṭukaṃ loṇikaṃ khārikaṃ lambilaṃ kasāvo sādu asādu, yo vā panaññopi atthi raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yamhi rasamhi anidassanamhi sappaṭighamhi jivhā anidassanā sappaṭighā paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, raso peso rasāyatanaṃ petaṃ rasadhātu pesā – idaṃ taṃ rūpaṃ rasāyatanaṃ. ^1359
+629. Katamaṃ taṃ rūpaṃ rasāyatanaṃ? Yo raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlaraso khandharaso tacaraso pattaraso puppharaso phalaraso ambilaṃ madhuraṃ tittakaṃ kaṭukaṃ loṇikaṃ khārikaṃ lambilaṃ kasāvo sādu asādu, yo vā panaññopi atthi raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yamhi rasamhi anidassanamhi sappaṭighamhi jivhā anidassanā sappaṭighā paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, raso peso rasāyatanaṃ petaṃ rasadhātu pesā – idaṃ taṃ rūpaṃ rasāyatanaṃ.
 
-630. Katamaṃ taṃ rūpaṃ rasāyatanaṃ? Yo raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlaraso khandharaso tacaraso pattaraso puppharaso phalaraso ambilaṃ madhuraṃ tittakaṃ kaṭukaṃ loṇikaṃ khārikaṃ lambilaṃ kasāvo sādu asādu, yo vā panaññopi atthi raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yo raso anidassano sappaṭigho jivhāya anidassanāya sappaṭighāya paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, raso peso rasāyatanaṃ petaṃ rasadhātu pesā – idaṃ taṃ rūpaṃ rasāyatanaṃ. ^1360
+630. Katamaṃ taṃ rūpaṃ rasāyatanaṃ? Yo raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlaraso khandharaso tacaraso pattaraso puppharaso phalaraso ambilaṃ madhuraṃ tittakaṃ kaṭukaṃ loṇikaṃ khārikaṃ lambilaṃ kasāvo sādu asādu, yo vā panaññopi atthi raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yo raso anidassano sappaṭigho jivhāya anidassanāya sappaṭighāya paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, raso peso rasāyatanaṃ petaṃ rasadhātu pesā – idaṃ taṃ rūpaṃ rasāyatanaṃ.
 
-631. Katamaṃ taṃ rūpaṃ rasāyatanaṃ? Yo raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlaraso khandharaso tacaraso pattaraso puppharaso phalaraso ambilaṃ madhuraṃ tittakaṃ kaṭukaṃ loṇikaṃ khārikaṃ lambilaṃ kasāvo sādu asādu, yo vā panaññopi atthi raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ rasaṃ ārabbha jivhaṃ nissāya jivhāsamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rasaṃ ārabbha jivhaṃ nissāya jivhāsamphassajā vedanā…pe… saññā…pe… cetanā…pe… jivhāviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rasārammaṇo jivhaṃ nissāya jivhāsamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā… pe… yaṃ rasārammaṇā jivhaṃ nissāya jivhāsamphassajā vedanā…pe… saññā…pe… cetanā…pe… jivhāviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, raso peso rasāyatanaṃ petaṃ rasadhātu pesā – idaṃ taṃ rūpaṃ rasāyatanaṃ. ^1361
+631. Katamaṃ taṃ rūpaṃ rasāyatanaṃ? Yo raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho mūlaraso khandharaso tacaraso pattaraso puppharaso phalaraso ambilaṃ madhuraṃ tittakaṃ kaṭukaṃ loṇikaṃ khārikaṃ lambilaṃ kasāvo sādu asādu, yo vā panaññopi atthi raso catunnaṃ mahābhūtānaṃ upādāya anidassano sappaṭigho, yaṃ rasaṃ ārabbha jivhaṃ nissāya jivhāsamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rasaṃ ārabbha jivhaṃ nissāya jivhāsamphassajā vedanā…pe… saññā…pe… cetanā…pe… jivhāviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ rasārammaṇo jivhaṃ nissāya jivhāsamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā… pe… yaṃ rasārammaṇā jivhaṃ nissāya jivhāsamphassajā vedanā…pe… saññā…pe… cetanā…pe… jivhāviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, raso peso rasāyatanaṃ petaṃ rasadhātu pesā – idaṃ taṃ rūpaṃ rasāyatanaṃ.
 
-632. Katamaṃ taṃ rūpaṃ itthindriyaṃ? Yaṃ itthiyā itthiliṅgaṃ itthinimittaṃ itthikuttaṃ itthākappo itthattaṃ itthibhāvo – idaṃ taṃ rūpaṃ itthindriyaṃ. ^1362
+632. Katamaṃ taṃ rūpaṃ itthindriyaṃ? Yaṃ itthiyā itthiliṅgaṃ itthinimittaṃ itthikuttaṃ itthākappo itthattaṃ itthibhāvo – idaṃ taṃ rūpaṃ itthindriyaṃ.
 
-633. Katamaṃ taṃ rūpaṃ purisindriyaṃ? Yaṃ purisassa purisaliṅgaṃ purisanimittaṃ purisakuttaṃ purisākappo purisattaṃ purisabhāvo – idaṃ taṃ rūpaṃ purisindriyaṃ. ^1363
+633. Katamaṃ taṃ rūpaṃ purisindriyaṃ? Yaṃ purisassa purisaliṅgaṃ purisanimittaṃ purisakuttaṃ purisākappo purisattaṃ purisabhāvo – idaṃ taṃ rūpaṃ purisindriyaṃ.
 
-634. Katamaṃ taṃ rūpaṃ jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ jīvitindriyaṃ. ^1364
+634. Katamaṃ taṃ rūpaṃ jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ jīvitindriyaṃ.
 
-635. Katamaṃ taṃ rūpaṃ kāyaviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā abhikkamantassa vā paṭikkamantassa vā ālokentassa vā vilokentassa vā samiñjentassa vā pasārentassa vā kāyassa thambhanā santhambhanā santhambhitattaṃ viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ kāyaviññatti. ^1365
+635. Katamaṃ taṃ rūpaṃ kāyaviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā abhikkamantassa vā paṭikkamantassa vā ālokentassa vā vilokentassa vā samiñjentassa vā pasārentassa vā kāyassa thambhanā santhambhanā santhambhitattaṃ viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ kāyaviññatti.
 
-636. Katamaṃ taṃ rūpaṃ vacīviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā vācā girā byappatho udīraṇaṃ ghoso ghosakammaṃ vācā vacībhedo – ayaṃ vuccati vācā. Yā tāya vācāya viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ vacīviññatti. ^1366
+636. Katamaṃ taṃ rūpaṃ vacīviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā vācā girā byappatho udīraṇaṃ ghoso ghosakammaṃ vācā vacībhedo – ayaṃ vuccati vācā. Yā tāya vācāya viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ vacīviññatti.
 
-637. Katamaṃ taṃ rūpaṃ ākāsadhātu? Yo ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro vivaragataṃ asamphuṭṭhaṃ catūhi mahābhūtehi – idaṃ taṃ rūpaṃ ākāsadhātu. ^1367
+637. Katamaṃ taṃ rūpaṃ ākāsadhātu? Yo ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro vivaragataṃ asamphuṭṭhaṃ catūhi mahābhūtehi – idaṃ taṃ rūpaṃ ākāsadhātu.
 
-638. Katamaṃ taṃ rūpaṃ rūpassa lahutā? Yā rūpassa lahutā lahupariṇāmatā adandhanatā avitthanatā – idaṃ taṃ rūpaṃ rūpassa lahutā. ^1368
+638. Katamaṃ taṃ rūpaṃ rūpassa lahutā? Yā rūpassa lahutā lahupariṇāmatā adandhanatā avitthanatā – idaṃ taṃ rūpaṃ rūpassa lahutā.
 
-639. Katamaṃ taṃ rūpaṃ rūpassa mudutā? Yā rūpassa mudutā maddavatā akakkhaḷatā akathinatā – idaṃ taṃ rūpaṃ rūpassa mudutā. ^1369
+639. Katamaṃ taṃ rūpaṃ rūpassa mudutā? Yā rūpassa mudutā maddavatā akakkhaḷatā akathinatā – idaṃ taṃ rūpaṃ rūpassa mudutā.
 
-640. Katamaṃ taṃ rūpaṃ rūpassa kammaññatā? Yā rūpassa kammaññatā kammaññattaṃ kammaññabhāvo – idaṃ taṃ rūpaṃ rūpassa kammaññatā. ^1370
+640. Katamaṃ taṃ rūpaṃ rūpassa kammaññatā? Yā rūpassa kammaññatā kammaññattaṃ kammaññabhāvo – idaṃ taṃ rūpaṃ rūpassa kammaññatā.
 
-641. Katamaṃ taṃ rūpaṃ rūpassa upacayo? Yo āyatanānaṃ ācayo, so rūpassa upacayo – idaṃ taṃ rūpaṃ rūpassa upacayo. ^1371
+641. Katamaṃ taṃ rūpaṃ rūpassa upacayo? Yo āyatanānaṃ ācayo, so rūpassa upacayo – idaṃ taṃ rūpaṃ rūpassa upacayo.
 
-642. Katamaṃ taṃ rūpaṃ rūpassa santati? Yo rūpassa upacayo, sā rūpassa santati – idaṃ taṃ rūpaṃ rūpassa santati. ^1372
+642. Katamaṃ taṃ rūpaṃ rūpassa santati? Yo rūpassa upacayo, sā rūpassa santati – idaṃ taṃ rūpaṃ rūpassa santati.
 
-643. Katamaṃ taṃ rūpaṃ rūpassa jaratā? Yā rūpassa jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko – idaṃ taṃ rūpaṃ rūpassa jaratā. ^1373
+643. Katamaṃ taṃ rūpaṃ rūpassa jaratā? Yā rūpassa jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko – idaṃ taṃ rūpaṃ rūpassa jaratā.
 
-644. Katamaṃ taṃ rūpaṃ rūpassa aniccatā? Yo rūpassa khayo vayo bhedo paribhedo aniccatā antaradhānaṃ – idaṃ taṃ rūpaṃ rūpassa aniccatā. ^1374
+644. Katamaṃ taṃ rūpaṃ rūpassa aniccatā? Yo rūpassa khayo vayo bhedo paribhedo aniccatā antaradhānaṃ – idaṃ taṃ rūpaṃ rūpassa aniccatā.
 
-645. Katamaṃ taṃ rūpaṃ kabaḷīkāro āhāro? Odano kummāso sattu maccho maṃsaṃ khīraṃ dadhi sappi navanītaṃ telaṃ madhu phāṇitaṃ, yaṃ vā panaññampi atthi rūpaṃ yamhi yamhi janapade tesaṃ tesaṃ sattānaṃ mukhāsiyaṃ dantavikhādanaṃ galajjhoharaṇīyaṃ kucchivitthambhanaṃ, yāya ojāya sattā yāpenti – idaṃ taṃ rūpaṃ kabaḷīkāro āhāro. ^1375
+645. Katamaṃ taṃ rūpaṃ kabaḷīkāro āhāro? Odano kummāso sattu maccho maṃsaṃ khīraṃ dadhi sappi navanītaṃ telaṃ madhu phāṇitaṃ, yaṃ vā panaññampi atthi rūpaṃ yamhi yamhi janapade tesaṃ tesaṃ sattānaṃ mukhāsiyaṃ dantavikhādanaṃ galajjhoharaṇīyaṃ kucchivitthambhanaṃ, yāya ojāya sattā yāpenti – idaṃ taṃ rūpaṃ kabaḷīkāro āhāro.
 
-Idaṃ taṃ rūpaṃ upādā. ^1376
+Idaṃ taṃ rūpaṃ upādā.
 
-Upādābhājanīyaṃ. ^1377
+Upādābhājanīyaṃ.
 
-Rūpakaṇḍe paṭhamabhāṇavāro. ^1378
+Rūpakaṇḍe paṭhamabhāṇavāro.
 
-646. Katamaṃ taṃ rūpaṃ no upādā? Phoṭṭhabbāyatanaṃ, āpodhātu. ^1379
+646. Katamaṃ taṃ rūpaṃ no upādā? Phoṭṭhabbāyatanaṃ, āpodhātu.
 
-647. Katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ, yaṃ phoṭṭhabbaṃ anidassanaṃ sappaṭighaṃ kāyena anidassanena sappaṭighena phusi vā phusati vā phusissati vā phuse vā phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ. ^1380
+647. Katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ, yaṃ phoṭṭhabbaṃ anidassanaṃ sappaṭighaṃ kāyena anidassanena sappaṭighena phusi vā phusati vā phusissati vā phuse vā phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ.
 
-648. Katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ, yamhi phoṭṭhabbamhi anidassanamhi sappaṭighamhi kāyo anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ. ^1381
+648. Katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ, yamhi phoṭṭhabbamhi anidassanamhi sappaṭighamhi kāyo anidassano sappaṭigho paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ.
 
-649. Katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ, yo phoṭṭhabbo anidassano sappaṭigho kāyamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ. ^1382
+649. Katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ, yo phoṭṭhabbo anidassano sappaṭigho kāyamhi anidassanamhi sappaṭighamhi paṭihaññi vā paṭihaññati vā paṭihaññissati vā paṭihaññe vā, phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ.
 
-650. Katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ, yaṃ phoṭṭhabbaṃ ārabbha kāyaṃ nissāya kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā… pe… yaṃ phoṭṭhabbaṃ ārabbha kāyaṃ nissāya kāyasamphassajā vedanā… pe… saññā…pe… cetanā…pe… kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ phoṭṭhabbārammaṇo kāyaṃ nissāya kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ phoṭṭhabbārammaṇā kāyaṃ nissāya kāyasamphassajā vedanā…pe… saññā…pe… cetanā…pe… kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ. ^1383
+650. Katamaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu tejodhātu vāyodhātu kakkhaḷaṃ mudukaṃ saṇhaṃ pharusaṃ sukhasamphassaṃ dukkhasamphassaṃ garukaṃ lahukaṃ, yaṃ phoṭṭhabbaṃ ārabbha kāyaṃ nissāya kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā… pe… yaṃ phoṭṭhabbaṃ ārabbha kāyaṃ nissāya kāyasamphassajā vedanā… pe… saññā…pe… cetanā…pe… kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ phoṭṭhabbārammaṇo kāyaṃ nissāya kāyasamphasso uppajji vā uppajjati vā uppajjissati vā uppajje vā…pe… yaṃ phoṭṭhabbārammaṇā kāyaṃ nissāya kāyasamphassajā vedanā…pe… saññā…pe… cetanā…pe… kāyaviññāṇaṃ uppajji vā uppajjati vā uppajjissati vā uppajje vā, phoṭṭhabbo peso phoṭṭhabbāyatanaṃ petaṃ phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ.
 
-651. Katamaṃ taṃ rūpaṃ āpodhātu? Yaṃ āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa – idaṃ taṃ rūpaṃ āpodhātu. ^1384
+651. Katamaṃ taṃ rūpaṃ āpodhātu? Yaṃ āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa – idaṃ taṃ rūpaṃ āpodhātu.
 
-Idaṃ taṃ rūpaṃ no upādā. ^1385
+Idaṃ taṃ rūpaṃ no upādā.
 
-652. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ? Cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ. ^1386
+652. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ? Cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ.
 
-653. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ. ^1387
+653. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ.
 
-654. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ. ^1388
+654. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ.
 
-655. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā, rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ. ^1389
+655. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā, rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ.
 
-656. Katamaṃ taṃ rūpaṃ sanidassanaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ sanidassanaṃ. ^1390
+656. Katamaṃ taṃ rūpaṃ sanidassanaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ sanidassanaṃ.
 
-657. Katamaṃ taṃ rūpaṃ anidassanaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anidassanaṃ. ^1391
+657. Katamaṃ taṃ rūpaṃ anidassanaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anidassanaṃ.
 
-658. Katamaṃ taṃ rūpaṃ sappaṭighaṃ? Cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ. ^1392
+658. Katamaṃ taṃ rūpaṃ sappaṭighaṃ? Cakkhāyatanaṃ sotāyatanaṃ ghānāyatanaṃ jivhāyatanaṃ kāyāyatanaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ.
 
-659. Katamaṃ taṃ rūpaṃ appaṭighaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ appaṭighaṃ. ^1393
+659. Katamaṃ taṃ rūpaṃ appaṭighaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ appaṭighaṃ.
 
-660. Katamaṃ taṃ rūpaṃ indriyaṃ? Cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ. ^1394
+660. Katamaṃ taṃ rūpaṃ indriyaṃ? Cakkhundriyaṃ sotindriyaṃ ghānindriyaṃ jivhindriyaṃ kāyindriyaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ.
 
-661. Katamaṃ taṃ rūpaṃ na indriyaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ. ^1395
+661. Katamaṃ taṃ rūpaṃ na indriyaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ.
 
-662. Katamaṃ taṃ rūpaṃ mahābhūtaṃ? Phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ mahābhūtaṃ. ^1396
+662. Katamaṃ taṃ rūpaṃ mahābhūtaṃ? Phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ mahābhūtaṃ.
 
-663. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na mahābhūtaṃ. ^1397
+663. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na mahābhūtaṃ.
 
-664. Katamaṃ taṃ rūpaṃ viññatti? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ viññatti. ^1398
+664. Katamaṃ taṃ rūpaṃ viññatti? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ viññatti.
 
-665. Katamaṃ taṃ rūpaṃ na viññatti? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na viññatti. ^1399
+665. Katamaṃ taṃ rūpaṃ na viññatti? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na viññatti.
 
-666. Katamaṃ taṃ rūpaṃ cittasamuṭṭhānaṃ? Kāyaviññatti vacīviññatti yaṃ vā panaññampi atthi rūpaṃ cittajaṃ cittahetukaṃ cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cittasamuṭṭhānaṃ. ^1400
+666. Katamaṃ taṃ rūpaṃ cittasamuṭṭhānaṃ? Kāyaviññatti vacīviññatti yaṃ vā panaññampi atthi rūpaṃ cittajaṃ cittahetukaṃ cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cittasamuṭṭhānaṃ.
 
-667. Katamaṃ taṃ rūpaṃ na cittasamuṭṭhānaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na cittajaṃ na cittahetukaṃ na cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cittasamuṭṭhānaṃ. ^1401
+667. Katamaṃ taṃ rūpaṃ na cittasamuṭṭhānaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na cittajaṃ na cittahetukaṃ na cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cittasamuṭṭhānaṃ.
 
-668. Katamaṃ taṃ rūpaṃ cittasahabhu? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ cittasahabhu. ^1402
+668. Katamaṃ taṃ rūpaṃ cittasahabhu? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ cittasahabhu.
 
-669. Katamaṃ taṃ rūpaṃ na cittasahabhu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cittasahabhu. ^1403
+669. Katamaṃ taṃ rūpaṃ na cittasahabhu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cittasahabhu.
 
-670. Katamaṃ taṃ rūpaṃ cittānuparivatti? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ cittānuparivatti. ^1404
+670. Katamaṃ taṃ rūpaṃ cittānuparivatti? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ cittānuparivatti.
 
-671. Katamaṃ taṃ rūpaṃ na cittānuparivatti? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cittānuparivatti. ^1405
+671. Katamaṃ taṃ rūpaṃ na cittānuparivatti? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cittānuparivatti.
 
-672. Katamaṃ taṃ rūpaṃ ajjhattikaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ. ^1406
+672. Katamaṃ taṃ rūpaṃ ajjhattikaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ.
 
-673. Katamaṃ taṃ rūpaṃ bāhiraṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ. ^1407
+673. Katamaṃ taṃ rūpaṃ bāhiraṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ.
 
-674. Katamaṃ taṃ rūpaṃ oḷārikaṃ? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ oḷārikaṃ. ^1408
+674. Katamaṃ taṃ rūpaṃ oḷārikaṃ? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ oḷārikaṃ.
 
-675. Katamaṃ taṃ rūpaṃ sukhumaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ sukhumaṃ. ^1409
+675. Katamaṃ taṃ rūpaṃ sukhumaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ sukhumaṃ.
 
-676. Katamaṃ taṃ rūpaṃ dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ dūre. ^1410
+676. Katamaṃ taṃ rūpaṃ dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ dūre.
 
-677. Katamaṃ taṃ rūpaṃ santike? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ santike. ^1411
+677. Katamaṃ taṃ rūpaṃ santike? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ santike.
 
-678. Katamaṃ taṃ rūpaṃ cakkhusamphassassa vatthu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ cakkhusamphassassa vatthu. ^1412
+678. Katamaṃ taṃ rūpaṃ cakkhusamphassassa vatthu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ cakkhusamphassassa vatthu.
 
-679. Katamaṃ taṃ rūpaṃ cakkhusamphassassa na vatthu? Sotāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cakkhusamphassassa na vatthu. ^1413
+679. Katamaṃ taṃ rūpaṃ cakkhusamphassassa na vatthu? Sotāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cakkhusamphassassa na vatthu.
 
-680. Katamaṃ taṃ rūpaṃ cakkhusamphassajāya vedanāya…pe… saññāya…pe… cetanāya …pe… cakkhuviññāṇassa vatthu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ cakkhuviññāṇassa vatthu. ^1414
+680. Katamaṃ taṃ rūpaṃ cakkhusamphassajāya vedanāya…pe… saññāya…pe… cetanāya …pe… cakkhuviññāṇassa vatthu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ cakkhuviññāṇassa vatthu.
 
-681. Katamaṃ taṃ rūpaṃ cakkhuviññāṇassa na vatthu? Sotāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cakkhuviññāṇassa na vatthu. ^1415
+681. Katamaṃ taṃ rūpaṃ cakkhuviññāṇassa na vatthu? Sotāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cakkhuviññāṇassa na vatthu.
 
-682. Katamaṃ taṃ rūpaṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa vatthu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ kāyasamphassassa vatthu. ^1416
+682. Katamaṃ taṃ rūpaṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa vatthu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ kāyasamphassassa vatthu.
 
-683. Katamaṃ taṃ rūpaṃ kāyasamphassassa na vatthu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ kāyasamphassassa na vatthu. ^1417
+683. Katamaṃ taṃ rūpaṃ kāyasamphassassa na vatthu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ kāyasamphassassa na vatthu.
 
-684. Katamaṃ taṃ rūpaṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa vatthu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ kāyaviññāṇassa vatthu. ^1418
+684. Katamaṃ taṃ rūpaṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa vatthu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ kāyaviññāṇassa vatthu.
 
-685. Katamaṃ taṃ rūpaṃ kāyaviññāṇassa na vatthu? Cakkhāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ kāyaviññāṇassa na vatthu. ^1419
+685. Katamaṃ taṃ rūpaṃ kāyaviññāṇassa na vatthu? Cakkhāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ kāyaviññāṇassa na vatthu.
 
-686. Katamaṃ taṃ rūpaṃ cakkhusamphassassa ārammaṇaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ cakkhusamphassassa ārammaṇaṃ. ^1420
+686. Katamaṃ taṃ rūpaṃ cakkhusamphassassa ārammaṇaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ cakkhusamphassassa ārammaṇaṃ.
 
-687. Katamaṃ taṃ rūpaṃ cakkhusamphassassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cakkhusamphassassa na ārammaṇaṃ. ^1421
+687. Katamaṃ taṃ rūpaṃ cakkhusamphassassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cakkhusamphassassa na ārammaṇaṃ.
 
-688. Katamaṃ taṃ rūpaṃ cakkhusamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa ārammaṇaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ cakkhuviññāṇassa ārammaṇaṃ. ^1422
+688. Katamaṃ taṃ rūpaṃ cakkhusamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa ārammaṇaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ cakkhuviññāṇassa ārammaṇaṃ.
 
-689. Katamaṃ taṃ rūpaṃ cakkhuviññāṇassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cakkhuviññāṇassa na ārammaṇaṃ. ^1423
+689. Katamaṃ taṃ rūpaṃ cakkhuviññāṇassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ cakkhuviññāṇassa na ārammaṇaṃ.
 
-690. Katamaṃ taṃ rūpaṃ sotasamphassassa…pe… ghānasamphassassa …pe… jivhāsamphassassa…pe… kāyasamphassassa ārammaṇaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ kāyasamphassassa ārammaṇaṃ. ^1424
+690. Katamaṃ taṃ rūpaṃ sotasamphassassa…pe… ghānasamphassassa …pe… jivhāsamphassassa…pe… kāyasamphassassa ārammaṇaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ kāyasamphassassa ārammaṇaṃ.
 
-691. Katamaṃ taṃ rūpaṃ kāyasamphassassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ kāyasamphassassa na ārammaṇaṃ. ^1425
+691. Katamaṃ taṃ rūpaṃ kāyasamphassassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ kāyasamphassassa na ārammaṇaṃ.
 
-692. Katamaṃ taṃ rūpaṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa ārammaṇaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ kāyaviññāṇassa ārammaṇaṃ. ^1426
+692. Katamaṃ taṃ rūpaṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa ārammaṇaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ kāyaviññāṇassa ārammaṇaṃ.
 
-693. Katamaṃ taṃ rūpaṃ kāyaviññāṇassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ kāyaviññāṇassa na ārammaṇaṃ. ^1427
+693. Katamaṃ taṃ rūpaṃ kāyaviññāṇassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ kāyaviññāṇassa na ārammaṇaṃ.
 
-694. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ. ^1428
+694. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ.
 
-695. Katamaṃ taṃ rūpaṃ na cakkhāyatanaṃ? Sotāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cakkhāyatanaṃ. ^1429
+695. Katamaṃ taṃ rūpaṃ na cakkhāyatanaṃ? Sotāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cakkhāyatanaṃ.
 
-696. Katamaṃ taṃ rūpaṃ sotāyatanaṃ…pe… ghānāyatanaṃ…pe… jivhāyatanaṃ…pe… kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ. ^1430
+696. Katamaṃ taṃ rūpaṃ sotāyatanaṃ…pe… ghānāyatanaṃ…pe… jivhāyatanaṃ…pe… kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ kāyāyatanaṃ.
 
-697. Katamaṃ taṃ rūpaṃ na kāyāyatanaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na kāyāyatanaṃ. ^1431
+697. Katamaṃ taṃ rūpaṃ na kāyāyatanaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na kāyāyatanaṃ.
 
-698. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā…pe… rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ. ^1432
+698. Katamaṃ taṃ rūpaṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā…pe… rūpadhātu pesā – idaṃ taṃ rūpaṃ rūpāyatanaṃ.
 
-699. Katamaṃ taṃ rūpaṃ na rūpāyatanaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na rūpāyatanaṃ. ^1433
+699. Katamaṃ taṃ rūpaṃ na rūpāyatanaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na rūpāyatanaṃ.
 
-700. Katamaṃ taṃ rūpaṃ saddāyatanaṃ…pe… gandhāyatanaṃ …pe… rasāyatanaṃ…pe… phoṭṭhabbāyatanaṃ? Pathavīdhātu…pe… phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ. ^1434
+700. Katamaṃ taṃ rūpaṃ saddāyatanaṃ…pe… gandhāyatanaṃ …pe… rasāyatanaṃ…pe… phoṭṭhabbāyatanaṃ? Pathavīdhātu…pe… phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ.
 
-701. Katamaṃ taṃ rūpaṃ na phoṭṭhabbāyatanaṃ? Cakkhāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na phoṭṭhabbāyatanaṃ. ^1435
+701. Katamaṃ taṃ rūpaṃ na phoṭṭhabbāyatanaṃ? Cakkhāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na phoṭṭhabbāyatanaṃ.
 
-702. Katamaṃ taṃ rūpaṃ cakkhudhātu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ cakkhudhātu. ^1436
+702. Katamaṃ taṃ rūpaṃ cakkhudhātu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ cakkhudhātu.
 
-703. Katamaṃ taṃ rūpaṃ na cakkhudhātu? Sotāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cakkhudhātu. ^1437
+703. Katamaṃ taṃ rūpaṃ na cakkhudhātu? Sotāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cakkhudhātu.
 
-704. Katamaṃ taṃ rūpaṃ sotadhātu…pe… ghānadhātu…pe… jivhādhātu…pe… kāyadhātu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ kāyadhātu. ^1438
+704. Katamaṃ taṃ rūpaṃ sotadhātu…pe… ghānadhātu…pe… jivhādhātu…pe… kāyadhātu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ kāyadhātu.
 
-705. Katamaṃ taṃ rūpaṃ na kāyadhātu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na kāyadhātu. ^1439
+705. Katamaṃ taṃ rūpaṃ na kāyadhātu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na kāyadhātu.
 
-706. Katamaṃ taṃ rūpaṃ rūpadhātu? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ rūpadhātu. ^1440
+706. Katamaṃ taṃ rūpaṃ rūpadhātu? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ rūpadhātu.
 
-707. Katamaṃ taṃ rūpaṃ na rūpadhātu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na rūpadhātu. ^1441
+707. Katamaṃ taṃ rūpaṃ na rūpadhātu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na rūpadhātu.
 
-708. Katamaṃ taṃ rūpaṃ saddadhātu…pe… gandhadhātu…pe… rasadhātu…pe… phoṭṭhabbadhātu? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ phoṭṭhabbadhātu. ^1442
+708. Katamaṃ taṃ rūpaṃ saddadhātu…pe… gandhadhātu…pe… rasadhātu…pe… phoṭṭhabbadhātu? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ phoṭṭhabbadhātu.
 
-709. Katamaṃ taṃ rūpaṃ na phoṭṭhabbadhātu? Cakkhāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na phoṭṭhabbadhātu. ^1443
+709. Katamaṃ taṃ rūpaṃ na phoṭṭhabbadhātu? Cakkhāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na phoṭṭhabbadhātu.
 
-710. Katamaṃ taṃ rūpaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhundriyaṃ. ^1444
+710. Katamaṃ taṃ rūpaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhundriyaṃ.
 
-711. Katamaṃ taṃ rūpaṃ na cakkhundriyaṃ? Sotāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cakkhundriyaṃ. ^1445
+711. Katamaṃ taṃ rūpaṃ na cakkhundriyaṃ? Sotāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na cakkhundriyaṃ.
 
-712. Katamaṃ taṃ rūpaṃ sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ kāyindriyaṃ. ^1446
+712. Katamaṃ taṃ rūpaṃ sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ kāyindriyaṃ.
 
-713. Katamaṃ taṃ rūpaṃ na kāyindriyaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na kāyindriyaṃ. ^1447
+713. Katamaṃ taṃ rūpaṃ na kāyindriyaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na kāyindriyaṃ.
 
-714. Katamaṃ taṃ rūpaṃ itthindriyaṃ? Yaṃ itthiyā itthiliṅgaṃ itthinimittaṃ itthikuttaṃ itthākappo itthattaṃ itthibhāvo – idaṃ taṃ rūpaṃ itthindriyaṃ. ^1448
+714. Katamaṃ taṃ rūpaṃ itthindriyaṃ? Yaṃ itthiyā itthiliṅgaṃ itthinimittaṃ itthikuttaṃ itthākappo itthattaṃ itthibhāvo – idaṃ taṃ rūpaṃ itthindriyaṃ.
 
-715. Katamaṃ taṃ rūpaṃ na itthindriyaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na itthindriyaṃ. ^1449
+715. Katamaṃ taṃ rūpaṃ na itthindriyaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na itthindriyaṃ.
 
-716. Katamaṃ taṃ rūpaṃ purisindriyaṃ? Yaṃ purisassa purisaliṅgaṃ purisanimittaṃ purisakuttaṃ purisākappo purisattaṃ purisabhāvo – idaṃ taṃ rūpaṃ purisindriyaṃ. ^1450
+716. Katamaṃ taṃ rūpaṃ purisindriyaṃ? Yaṃ purisassa purisaliṅgaṃ purisanimittaṃ purisakuttaṃ purisākappo purisattaṃ purisabhāvo – idaṃ taṃ rūpaṃ purisindriyaṃ.
 
-717. Katamaṃ taṃ rūpaṃ na purisindriyaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na purisindriyaṃ. ^1451
+717. Katamaṃ taṃ rūpaṃ na purisindriyaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na purisindriyaṃ.
 
-718. Katamaṃ taṃ rūpaṃ jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ jīvitindriyaṃ. ^1452
+718. Katamaṃ taṃ rūpaṃ jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ jīvitindriyaṃ.
 
-719. Katamaṃ taṃ rūpaṃ na jīvitindriyaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na jīvitindriyaṃ. ^1453
+719. Katamaṃ taṃ rūpaṃ na jīvitindriyaṃ? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na jīvitindriyaṃ.
 
-720. Katamaṃ taṃ rūpaṃ kāyaviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā abhikkamantassa vā paṭikkamantassa vā ālokentassa vā vilokentassa vā samiñjentassa vā pasārentassa vā kāyassa thambhanā santhambhanā santhambhitattaṃ viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ kāyaviññatti. ^1454
+720. Katamaṃ taṃ rūpaṃ kāyaviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā abhikkamantassa vā paṭikkamantassa vā ālokentassa vā vilokentassa vā samiñjentassa vā pasārentassa vā kāyassa thambhanā santhambhanā santhambhitattaṃ viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ kāyaviññatti.
 
-721. Katamaṃ taṃ rūpaṃ na kāyaviññatti? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na kāyaviññatti. ^1455
+721. Katamaṃ taṃ rūpaṃ na kāyaviññatti? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na kāyaviññatti.
 
-722. Katamaṃ taṃ rūpaṃ vacīviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā vācā girā byappatho udīraṇaṃ ghoso ghosakammaṃ vācā vacībhedo, ayaṃ vuccati vācā. Yā tāya vācāya viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ vacīviññatti. ^1456
+722. Katamaṃ taṃ rūpaṃ vacīviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā vācā girā byappatho udīraṇaṃ ghoso ghosakammaṃ vācā vacībhedo, ayaṃ vuccati vācā. Yā tāya vācāya viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ vacīviññatti.
 
-723. Katamaṃ taṃ rūpaṃ na vacīviññatti? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na vacīviññatti. ^1457
+723. Katamaṃ taṃ rūpaṃ na vacīviññatti? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na vacīviññatti.
 
-724. Katamaṃ taṃ rūpaṃ ākāsadhātu? Yo ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro vivaragataṃ asamphuṭṭhaṃ catūhi mahābhūtehi – idaṃ taṃ rūpaṃ ākāsadhātu. ^1458
+724. Katamaṃ taṃ rūpaṃ ākāsadhātu? Yo ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro vivaragataṃ asamphuṭṭhaṃ catūhi mahābhūtehi – idaṃ taṃ rūpaṃ ākāsadhātu.
 
-725. Katamaṃ taṃ rūpaṃ na ākāsadhātu? Cakkhāyatanaṃ …pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na ākāsadhātu. ^1459
+725. Katamaṃ taṃ rūpaṃ na ākāsadhātu? Cakkhāyatanaṃ …pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na ākāsadhātu.
 
-726. Katamaṃ taṃ rūpaṃ āpodhātu? Yaṃ āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa – idaṃ taṃ rūpaṃ āpodhātu. ^1460
+726. Katamaṃ taṃ rūpaṃ āpodhātu? Yaṃ āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa – idaṃ taṃ rūpaṃ āpodhātu.
 
-727. Katamaṃ taṃ rūpaṃ na āpodhātu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na āpodhātu. ^1461
+727. Katamaṃ taṃ rūpaṃ na āpodhātu? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na āpodhātu.
 
-728. Katamaṃ taṃ rūpaṃ rūpassa lahutā? Yā rūpassa lahutā lahupariṇāmatā adandhanatā avitthanatā – idaṃ taṃ rūpaṃ rūpassa lahutā. ^1462
+728. Katamaṃ taṃ rūpaṃ rūpassa lahutā? Yā rūpassa lahutā lahupariṇāmatā adandhanatā avitthanatā – idaṃ taṃ rūpaṃ rūpassa lahutā.
 
-729. Katamaṃ taṃ rūpaṃ rūpassa na lahutā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na lahutā. ^1463
+729. Katamaṃ taṃ rūpaṃ rūpassa na lahutā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na lahutā.
 
-730. Katamaṃ taṃ rūpaṃ rūpassa mudutā? Yā rūpassa mudutā maddavatā akakkhaḷatā akathinatā – idaṃ taṃ rūpaṃ rūpassa mudutā. ^1464
+730. Katamaṃ taṃ rūpaṃ rūpassa mudutā? Yā rūpassa mudutā maddavatā akakkhaḷatā akathinatā – idaṃ taṃ rūpaṃ rūpassa mudutā.
 
-731. Katamaṃ taṃ rūpaṃ rūpassa na mudutā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na mudutā. ^1465
+731. Katamaṃ taṃ rūpaṃ rūpassa na mudutā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na mudutā.
 
-732. Katamaṃ taṃ rūpaṃ rūpassa kammaññatā? Yā rūpassa kammaññatā kammaññattaṃ kammaññabhāvo – idaṃ taṃ rūpaṃ rūpassa kammaññatā. ^1466
+732. Katamaṃ taṃ rūpaṃ rūpassa kammaññatā? Yā rūpassa kammaññatā kammaññattaṃ kammaññabhāvo – idaṃ taṃ rūpaṃ rūpassa kammaññatā.
 
-733. Katamaṃ taṃ rūpaṃ rūpassa na kammaññatā? Cakkhāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na kammaññatā. ^1467
+733. Katamaṃ taṃ rūpaṃ rūpassa na kammaññatā? Cakkhāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na kammaññatā.
 
-734. Katamaṃ taṃ rūpaṃ rūpassa upacayo? Yo āyatanānaṃ ācayo, so rūpassa upacayo – idaṃ taṃ rūpaṃ rūpassa upacayo. ^1468
+734. Katamaṃ taṃ rūpaṃ rūpassa upacayo? Yo āyatanānaṃ ācayo, so rūpassa upacayo – idaṃ taṃ rūpaṃ rūpassa upacayo.
 
-735. Katamaṃ taṃ rūpaṃ rūpassa na upacayo? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na upacayo. ^1469
+735. Katamaṃ taṃ rūpaṃ rūpassa na upacayo? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na upacayo.
 
-736. Katamaṃ taṃ rūpaṃ rūpassa santati? Yo rūpassa upacayo, sā rūpassa santati – idaṃ taṃ rūpaṃ rūpassa santati. ^1470
+736. Katamaṃ taṃ rūpaṃ rūpassa santati? Yo rūpassa upacayo, sā rūpassa santati – idaṃ taṃ rūpaṃ rūpassa santati.
 
-737. Katamaṃ taṃ rūpaṃ rūpassa na santati? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na santati. ^1471
+737. Katamaṃ taṃ rūpaṃ rūpassa na santati? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na santati.
 
-738. Katamaṃ taṃ rūpaṃ rūpassa jaratā? Yā rūpassa jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko – idaṃ taṃ rūpaṃ rūpassa jaratā. ^1472
+738. Katamaṃ taṃ rūpaṃ rūpassa jaratā? Yā rūpassa jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko – idaṃ taṃ rūpaṃ rūpassa jaratā.
 
-739. Katamaṃ taṃ rūpaṃ rūpassa na jaratā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na jaratā. ^1473
+739. Katamaṃ taṃ rūpaṃ rūpassa na jaratā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na jaratā.
 
-740. Katamaṃ taṃ rūpaṃ rūpassa aniccatā? Yo rūpassa khayo vayo bhedo paribhedo aniccatā antaradhānaṃ – idaṃ taṃ rūpaṃ rūpassa aniccatā. ^1474
+740. Katamaṃ taṃ rūpaṃ rūpassa aniccatā? Yo rūpassa khayo vayo bhedo paribhedo aniccatā antaradhānaṃ – idaṃ taṃ rūpaṃ rūpassa aniccatā.
 
-741. Katamaṃ taṃ rūpaṃ rūpassa na aniccatā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na aniccatā. ^1475
+741. Katamaṃ taṃ rūpaṃ rūpassa na aniccatā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ rūpassa na aniccatā.
 
-742. Katamaṃ taṃ rūpaṃ kabaḷīkāro āhāro? Odano kummāso sattu maccho maṃsaṃ khīraṃ dadhi sappi navanītaṃ telaṃ madhu phāṇitaṃ, yaṃ vā panaññampi atthi rūpaṃ yamhi yamhi janapade tesaṃ tesaṃ sattānaṃ mukhāsiyaṃ dantavikhādanaṃ galajjhoharaṇīyaṃ kucchivitthambhanaṃ, yāya ojāya sattā yāpenti – idaṃ taṃ rūpaṃ kabaḷīkāro āhāro. ^1476
+742. Katamaṃ taṃ rūpaṃ kabaḷīkāro āhāro? Odano kummāso sattu maccho maṃsaṃ khīraṃ dadhi sappi navanītaṃ telaṃ madhu phāṇitaṃ, yaṃ vā panaññampi atthi rūpaṃ yamhi yamhi janapade tesaṃ tesaṃ sattānaṃ mukhāsiyaṃ dantavikhādanaṃ galajjhoharaṇīyaṃ kucchivitthambhanaṃ, yāya ojāya sattā yāpenti – idaṃ taṃ rūpaṃ kabaḷīkāro āhāro.
 
-743. Katamaṃ taṃ rūpaṃ na kabaḷīkāro āhāro? Cakkhāyatanaṃ… pe… rūpassa aniccatā – idaṃ taṃ rūpaṃ na kabaḷīkāro āhāro. ^1477
+743. Katamaṃ taṃ rūpaṃ na kabaḷīkāro āhāro? Cakkhāyatanaṃ… pe… rūpassa aniccatā – idaṃ taṃ rūpaṃ na kabaḷīkāro āhāro.
 
-Evaṃ duvidhena rūpasaṅgaho. ^1478
+Evaṃ duvidhena rūpasaṅgaho.
 
-Dukaniddeso. ^1479
+Dukaniddeso.
 
-Tikaniddeso ^1480
+Tikaniddeso
 
-744. Katamaṃ taṃ rūpaṃ ajjhattikaṃ upādā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ upādā. ^1481
+744. Katamaṃ taṃ rūpaṃ ajjhattikaṃ upādā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ upādā.
 
-745. Katamaṃ taṃ rūpaṃ bāhiraṃ upādā? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ upādā. ^1482
+745. Katamaṃ taṃ rūpaṃ bāhiraṃ upādā? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ upādā.
 
-746. Katamaṃ taṃ rūpaṃ bāhiraṃ no upādā? Phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ bāhiraṃ no upādā. ^1483
+746. Katamaṃ taṃ rūpaṃ bāhiraṃ no upādā? Phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ bāhiraṃ no upādā.
 
-747. Katamaṃ taṃ rūpaṃ ajjhattikaṃ upādiṇṇaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ upādiṇṇaṃ. ^1484
+747. Katamaṃ taṃ rūpaṃ ajjhattikaṃ upādiṇṇaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ upādiṇṇaṃ.
 
-748. Katamaṃ taṃ rūpaṃ bāhiraṃ upādiṇṇaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ upādiṇṇaṃ. ^1485
+748. Katamaṃ taṃ rūpaṃ bāhiraṃ upādiṇṇaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ upādiṇṇaṃ.
 
-749. Katamaṃ taṃ rūpaṃ bāhiraṃ anupādiṇṇaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ anupādiṇṇaṃ. ^1486
+749. Katamaṃ taṃ rūpaṃ bāhiraṃ anupādiṇṇaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ anupādiṇṇaṃ.
 
-750. Katamaṃ taṃ rūpaṃ ajjhattikaṃ upādiṇṇupādāniyaṃ. Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ upādiṇṇupādāniyaṃ. ^1487
+750. Katamaṃ taṃ rūpaṃ ajjhattikaṃ upādiṇṇupādāniyaṃ. Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ upādiṇṇupādāniyaṃ.
 
-751. Katamaṃ taṃ rūpaṃ bāhiraṃ upādiṇṇupādāniyaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ upādiṇṇupādāniyaṃ. ^1488
+751. Katamaṃ taṃ rūpaṃ bāhiraṃ upādiṇṇupādāniyaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ upādiṇṇupādāniyaṃ.
 
-752. Katamaṃ taṃ rūpaṃ bāhiraṃ anupādiṇṇupādāniyaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ anupādiṇṇupādāniyaṃ. ^1489
+752. Katamaṃ taṃ rūpaṃ bāhiraṃ anupādiṇṇupādāniyaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ anupādiṇṇupādāniyaṃ.
 
-753. Katamaṃ taṃ rūpaṃ ajjhattikaṃ anidassanaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ anidassanaṃ. ^1490
+753. Katamaṃ taṃ rūpaṃ ajjhattikaṃ anidassanaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ anidassanaṃ.
 
-754. Katamaṃ taṃ rūpaṃ bāhiraṃ sanidassanaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ sanidassanaṃ. ^1491
+754. Katamaṃ taṃ rūpaṃ bāhiraṃ sanidassanaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ sanidassanaṃ.
 
-755. Katamaṃ taṃ rūpaṃ bāhiraṃ anidassanaṃ? Saddāyatanaṃ … pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ anidassanaṃ. ^1492
+755. Katamaṃ taṃ rūpaṃ bāhiraṃ anidassanaṃ? Saddāyatanaṃ … pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ anidassanaṃ.
 
-756. Katamaṃ taṃ rūpaṃ ajjhattikaṃ sappaṭighaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ sappaṭighaṃ. ^1493
+756. Katamaṃ taṃ rūpaṃ ajjhattikaṃ sappaṭighaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ sappaṭighaṃ.
 
-757. Katamaṃ taṃ rūpaṃ bāhiraṃ sappaṭighaṃ? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ sappaṭighaṃ. ^1494
+757. Katamaṃ taṃ rūpaṃ bāhiraṃ sappaṭighaṃ? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ sappaṭighaṃ.
 
-758. Katamaṃ taṃ rūpaṃ bāhiraṃ appaṭighaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ appaṭighaṃ. ^1495
+758. Katamaṃ taṃ rūpaṃ bāhiraṃ appaṭighaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ appaṭighaṃ.
 
-759. Katamaṃ taṃ rūpaṃ ajjhattikaṃ indriyaṃ? Cakkhundriyaṃ… pe… kāyindriyaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ indriyaṃ. ^1496
+759. Katamaṃ taṃ rūpaṃ ajjhattikaṃ indriyaṃ? Cakkhundriyaṃ… pe… kāyindriyaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ indriyaṃ.
 
-760. Katamaṃ taṃ rūpaṃ bāhiraṃ indriyaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ bāhiraṃ indriyaṃ. ^1497
+760. Katamaṃ taṃ rūpaṃ bāhiraṃ indriyaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ bāhiraṃ indriyaṃ.
 
-761. Katamaṃ taṃ rūpaṃ bāhiraṃ na indriyaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na indriyaṃ. ^1498
+761. Katamaṃ taṃ rūpaṃ bāhiraṃ na indriyaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na indriyaṃ.
 
-762. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na mahābhūtaṃ. ^1499
+762. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na mahābhūtaṃ.
 
-763. Katamaṃ taṃ rūpaṃ bāhiraṃ mahābhūtaṃ? Phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ bāhiraṃ mahābhūtaṃ. ^1500
+763. Katamaṃ taṃ rūpaṃ bāhiraṃ mahābhūtaṃ? Phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ bāhiraṃ mahābhūtaṃ.
 
-764. Katamaṃ taṃ rūpaṃ bāhiraṃ na mahābhūtaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na mahābhūtaṃ. ^1501
+764. Katamaṃ taṃ rūpaṃ bāhiraṃ na mahābhūtaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na mahābhūtaṃ.
 
-765. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na viññatti? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na viññatti? ^1502
+765. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na viññatti? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na viññatti?
 
-766. Katamaṃ taṃ rūpaṃ bāhiraṃ viññatti? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ bāhiraṃ viññatti. ^1503
+766. Katamaṃ taṃ rūpaṃ bāhiraṃ viññatti? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ bāhiraṃ viññatti.
 
-767. Katamaṃ taṃ rūpaṃ bāhiraṃ na viññatti? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na viññatti. ^1504
+767. Katamaṃ taṃ rūpaṃ bāhiraṃ na viññatti? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na viññatti.
 
-768. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cittasamuṭṭhānaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cittasamuṭṭhānaṃ. ^1505
+768. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cittasamuṭṭhānaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cittasamuṭṭhānaṃ.
 
-769. Katamaṃ taṃ rūpaṃ bāhiraṃ cittasamuṭṭhānaṃ? Kāyaviññatti vacīviññatti, yaṃ vā panaññampi atthi rūpaṃ cittajaṃ cittahetukaṃ cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cittasamuṭṭhānaṃ. ^1506
+769. Katamaṃ taṃ rūpaṃ bāhiraṃ cittasamuṭṭhānaṃ? Kāyaviññatti vacīviññatti, yaṃ vā panaññampi atthi rūpaṃ cittajaṃ cittahetukaṃ cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cittasamuṭṭhānaṃ.
 
-770. Katamaṃ taṃ rūpaṃ bāhiraṃ na cittasamuṭṭhānaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na cittajaṃ na cittahetukaṃ na cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cittasamuṭṭhānaṃ. ^1507
+770. Katamaṃ taṃ rūpaṃ bāhiraṃ na cittasamuṭṭhānaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na cittajaṃ na cittahetukaṃ na cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cittasamuṭṭhānaṃ.
 
-771. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cittasahabhu? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cittasahabhu. ^1508
+771. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cittasahabhu? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cittasahabhu.
 
-772. Katamaṃ taṃ rūpaṃ bāhiraṃ cittasahabhu? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ bāhiraṃ cittasahabhu. ^1509
+772. Katamaṃ taṃ rūpaṃ bāhiraṃ cittasahabhu? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ bāhiraṃ cittasahabhu.
 
-773. Katamaṃ taṃ rūpaṃ bāhiraṃ na cittasahabhu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cittasahabhu? ^1510
+773. Katamaṃ taṃ rūpaṃ bāhiraṃ na cittasahabhu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cittasahabhu?
 
-774. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cittānuparivatti? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cittānuparivatti. ^1511
+774. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cittānuparivatti? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cittānuparivatti.
 
-775. Katamaṃ taṃ rūpaṃ bāhiraṃ cittānuparivatti? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ bāhiraṃ cittānuparivatti. ^1512
+775. Katamaṃ taṃ rūpaṃ bāhiraṃ cittānuparivatti? Kāyaviññatti vacīviññatti – idaṃ taṃ rūpaṃ bāhiraṃ cittānuparivatti.
 
-776. Katamaṃ taṃ rūpaṃ bāhiraṃ na cittānuparivatti? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cittānuparivatti. ^1513
+776. Katamaṃ taṃ rūpaṃ bāhiraṃ na cittānuparivatti? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cittānuparivatti.
 
-777. Katamaṃ taṃ rūpaṃ ajjhattikaṃ oḷārikaṃ? Cakkhāyatanaṃ … pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ oḷārikaṃ. ^1514
+777. Katamaṃ taṃ rūpaṃ ajjhattikaṃ oḷārikaṃ? Cakkhāyatanaṃ … pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ oḷārikaṃ.
 
-778. Katamaṃ taṃ rūpaṃ bāhiraṃ oḷārikaṃ? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ oḷārikaṃ. ^1515
+778. Katamaṃ taṃ rūpaṃ bāhiraṃ oḷārikaṃ? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ oḷārikaṃ.
 
-779. Katamaṃ taṃ rūpaṃ bāhiraṃ sukhumaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ sukhumaṃ. ^1516
+779. Katamaṃ taṃ rūpaṃ bāhiraṃ sukhumaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ sukhumaṃ.
 
-780. Katamaṃ taṃ rūpaṃ ajjhattikaṃ santike? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ santike. ^1517
+780. Katamaṃ taṃ rūpaṃ ajjhattikaṃ santike? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ santike.
 
-781. Katamaṃ taṃ rūpaṃ bāhiraṃ dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ dūre. ^1518
+781. Katamaṃ taṃ rūpaṃ bāhiraṃ dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ dūre.
 
-782. Katamaṃ taṃ rūpaṃ bāhiraṃ santike? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ santike. ^1519
+782. Katamaṃ taṃ rūpaṃ bāhiraṃ santike? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ santike.
 
-783. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa na vatthu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa na vatthu. ^1520
+783. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa na vatthu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa na vatthu.
 
-784. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa vatthu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa vatthu. ^1521
+784. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa vatthu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa vatthu.
 
-785. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa na vatthu? Sotāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa na vatthu. ^1522
+785. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa na vatthu? Sotāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa na vatthu.
 
-786. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa na vatthu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa na vatthu. ^1523
+786. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa na vatthu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa na vatthu.
 
-787. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa vatthu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa vatthu. ^1524
+787. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa vatthu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa vatthu.
 
-788. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa na vatthu? Sotāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa na vatthu? ^1525
+788. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa na vatthu? Sotāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa na vatthu?
 
-789. Katamaṃ taṃ rūpaṃ bāhiraṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa na vatthu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa na vatthu. ^1526
+789. Katamaṃ taṃ rūpaṃ bāhiraṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa na vatthu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa na vatthu.
 
-790. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa vatthu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa vatthu. ^1527
+790. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa vatthu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa vatthu.
 
-791. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa na vatthu? Cakkhāyatanaṃ…pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa na vatthu. ^1528
+791. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa na vatthu? Cakkhāyatanaṃ…pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa na vatthu.
 
-792. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa na vatthu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa na vatthu. ^1529
+792. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa na vatthu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa na vatthu.
 
-793. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa vatthu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa vatthu. ^1530
+793. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa vatthu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa vatthu.
 
-794. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa na vatthu? Cakkhāyatanaṃ…pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa na vatthu. ^1531
+794. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa na vatthu? Cakkhāyatanaṃ…pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa na vatthu.
 
-795. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa na ārammaṇaṃ. ^1532
+795. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassassa na ārammaṇaṃ.
 
-796. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa ārammaṇaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa ārammaṇaṃ. ^1533
+796. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa ārammaṇaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa ārammaṇaṃ.
 
-797. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa na ārammaṇaṃ? Saddāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa na ārammaṇaṃ. ^1534
+797. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa na ārammaṇaṃ? Saddāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cakkhusamphassassa na ārammaṇaṃ.
 
-798. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa na ārammaṇaṃ. ^1535
+798. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhusamphassajāya vedanāya…pe… saññāya…pe… cetanāya…pe… cakkhuviññāṇassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhuviññāṇassa na ārammaṇaṃ.
 
-799. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa ārammaṇaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa ārammaṇaṃ. ^1536
+799. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa ārammaṇaṃ? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa ārammaṇaṃ.
 
-800. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa na ārammaṇaṃ? Saddāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa na ārammaṇaṃ. ^1537
+800. Katamaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa na ārammaṇaṃ? Saddāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ cakkhuviññāṇassa na ārammaṇaṃ.
 
-801. Katamaṃ taṃ rūpaṃ ajjhattikaṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa na ārammaṇaṃ. ^1538
+801. Katamaṃ taṃ rūpaṃ ajjhattikaṃ sotasamphassassa…pe… ghānasamphassassa…pe… jivhāsamphassassa…pe… kāyasamphassassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassassa na ārammaṇaṃ.
 
-802. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa ārammaṇaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa ārammaṇaṃ. ^1539
+802. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa ārammaṇaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa ārammaṇaṃ.
 
-803. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa na ārammaṇaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa na ārammaṇaṃ. ^1540
+803. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa na ārammaṇaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ kāyasamphassassa na ārammaṇaṃ.
 
-804. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa na ārammaṇaṃ. ^1541
+804. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyasamphassajāya vedanāya… pe… saññāya…pe… cetanāya…pe… kāyaviññāṇassa na ārammaṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyaviññāṇassa na ārammaṇaṃ.
 
-805. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa ārammaṇaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa ārammaṇaṃ. ^1542
+805. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa ārammaṇaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa ārammaṇaṃ.
 
-806. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa na ārammaṇaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa na ārammaṇaṃ. ^1543
+806. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa na ārammaṇaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ kāyaviññāṇassa na ārammaṇaṃ.
 
-807. Katamaṃ taṃ rūpaṃ bāhiraṃ na cakkhāyatanaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cakkhāyatanaṃ. ^1544
+807. Katamaṃ taṃ rūpaṃ bāhiraṃ na cakkhāyatanaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cakkhāyatanaṃ.
 
-808. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhāyatanaṃ. ^1545
+808. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhāyatanaṃ.
 
-809. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhāyatanaṃ? Sotāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhāyatanaṃ. ^1546
+809. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhāyatanaṃ? Sotāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhāyatanaṃ.
 
-810. Katamaṃ taṃ rūpaṃ bāhiraṃ na sotāyatanaṃ…pe… na ghānāyatanaṃ…pe… na jivhāyatanaṃ…pe… na kāyāyatanaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na kāyāyatanaṃ. ^1547
+810. Katamaṃ taṃ rūpaṃ bāhiraṃ na sotāyatanaṃ…pe… na ghānāyatanaṃ…pe… na jivhāyatanaṃ…pe… na kāyāyatanaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na kāyāyatanaṃ.
 
-811. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyāyatanaṃ. ^1548
+811. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyāyatanaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyāyatanaṃ.
 
-812. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kāyāyatanaṃ? Cakkhāyatanaṃ…pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kāyāyatanaṃ. ^1549
+812. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kāyāyatanaṃ? Cakkhāyatanaṃ…pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kāyāyatanaṃ.
 
-813. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na rūpāyatanaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na rūpāyatanaṃ. ^1550
+813. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na rūpāyatanaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na rūpāyatanaṃ.
 
-814. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā…pe… rūpadhātu pesā – idaṃ taṃ rūpaṃ bāhiraṃ rūpāyatanaṃ. ^1551
+814. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpāyatanaṃ? Yaṃ rūpaṃ catunnaṃ mahābhūtānaṃ upādāya vaṇṇanibhā…pe… rūpadhātu pesā – idaṃ taṃ rūpaṃ bāhiraṃ rūpāyatanaṃ.
 
-815. Katamaṃ taṃ rūpaṃ bāhiraṃ na rūpāyatanaṃ? Saddāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na rūpāyatanaṃ. ^1552
+815. Katamaṃ taṃ rūpaṃ bāhiraṃ na rūpāyatanaṃ? Saddāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na rūpāyatanaṃ.
 
-816. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na saddāyatanaṃ…pe… na gandhāyatanaṃ…pe… na rasāyatanaṃ…pe… na phoṭṭhabbāyatanaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na phoṭṭhabbāyatanaṃ. ^1553
+816. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na saddāyatanaṃ…pe… na gandhāyatanaṃ…pe… na rasāyatanaṃ…pe… na phoṭṭhabbāyatanaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na phoṭṭhabbāyatanaṃ.
 
-817. Katamaṃ taṃ rūpaṃ bāhiraṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu… pe… phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ bāhiraṃ phoṭṭhabbāyatanaṃ. ^1554
+817. Katamaṃ taṃ rūpaṃ bāhiraṃ phoṭṭhabbāyatanaṃ? Pathavīdhātu… pe… phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ bāhiraṃ phoṭṭhabbāyatanaṃ.
 
-818. Katamaṃ taṃ rūpaṃ bāhiraṃ na phoṭṭhabbāyatanaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na phoṭṭhabbāyatanaṃ. ^1555
+818. Katamaṃ taṃ rūpaṃ bāhiraṃ na phoṭṭhabbāyatanaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na phoṭṭhabbāyatanaṃ.
 
-819. Katamaṃ taṃ rūpaṃ bāhiraṃ na cakkhudhātu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cakkhudhātu. ^1556
+819. Katamaṃ taṃ rūpaṃ bāhiraṃ na cakkhudhātu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cakkhudhātu.
 
-820. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhudhātu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhudhātu. ^1557
+820. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhudhātu? Cakkhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhudhātu.
 
-821. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhudhātu? Sotāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhudhātu. ^1558
+821. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhudhātu? Sotāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhudhātu.
 
-822. Katamaṃ taṃ rūpaṃ bāhiraṃ na sotadhātu…pe… na ghānadhātu…pe… na jivhādhātu…pe… na kāyadhātu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na kāyadhātu. ^1559
+822. Katamaṃ taṃ rūpaṃ bāhiraṃ na sotadhātu…pe… na ghānadhātu…pe… na jivhādhātu…pe… na kāyadhātu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na kāyadhātu.
 
-823. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyadhātu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyadhātu. ^1560
+823. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyadhātu? Kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyadhātu.
 
-824. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kāyadhātu? Cakkhāyatanaṃ… pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kāyadhātu. ^1561
+824. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kāyadhātu? Cakkhāyatanaṃ… pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kāyadhātu.
 
-825. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na rūpadhātu? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na rūpadhātu. ^1562
+825. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na rūpadhātu? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na rūpadhātu.
 
-826. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpadhātu? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ rūpadhātu. ^1563
+826. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpadhātu? Rūpāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ rūpadhātu.
 
-827. Katamaṃ taṃ rūpaṃ bāhiraṃ na rūpadhātu? Saddāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na rūpadhātu. ^1564
+827. Katamaṃ taṃ rūpaṃ bāhiraṃ na rūpadhātu? Saddāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na rūpadhātu.
 
-828. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na saddadhātu…pe… na gandhadhātu…pe… na rasadhātu …pe… na phoṭṭhabbadhātu? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na phoṭṭhabbadhātu. ^1565
+828. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na saddadhātu…pe… na gandhadhātu…pe… na rasadhātu …pe… na phoṭṭhabbadhātu? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na phoṭṭhabbadhātu.
 
-829. Katamaṃ taṃ rūpaṃ bāhiraṃ phoṭṭhabbadhātu? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ phoṭṭhabbadhātu. ^1566
+829. Katamaṃ taṃ rūpaṃ bāhiraṃ phoṭṭhabbadhātu? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ bāhiraṃ phoṭṭhabbadhātu.
 
-830. Katamaṃ taṃ rūpaṃ bāhiraṃ na phoṭṭhabbadhātu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na phoṭṭhabbadhātu. ^1567
+830. Katamaṃ taṃ rūpaṃ bāhiraṃ na phoṭṭhabbadhātu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na phoṭṭhabbadhātu.
 
-831. Katamaṃ taṃ rūpaṃ bāhiraṃ na cakkhundriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cakkhundriyaṃ. ^1568
+831. Katamaṃ taṃ rūpaṃ bāhiraṃ na cakkhundriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na cakkhundriyaṃ.
 
-832. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhundriyaṃ. ^1569
+832. Katamaṃ taṃ rūpaṃ ajjhattikaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ ajjhattikaṃ cakkhundriyaṃ.
 
-833. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhundriyaṃ? Sotāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhundriyaṃ. ^1570
+833. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhundriyaṃ? Sotāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na cakkhundriyaṃ.
 
-834. Katamaṃ taṃ rūpaṃ bāhiraṃ na sotindriyaṃ…pe… na ghānindriyaṃ…pe… na jivhindriyaṃ…pe… na kāyindriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na kāyindriyaṃ. ^1571
+834. Katamaṃ taṃ rūpaṃ bāhiraṃ na sotindriyaṃ…pe… na ghānindriyaṃ…pe… na jivhindriyaṃ…pe… na kāyindriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na kāyindriyaṃ.
 
-835. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyindriyaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyindriyaṃ. ^1572
+835. Katamaṃ taṃ rūpaṃ ajjhattikaṃ kāyindriyaṃ? Yo kāyo catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ ajjhattikaṃ kāyindriyaṃ.
 
-836. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kāyindriyaṃ? Cakkhāyatanaṃ…pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kāyindriyaṃ. ^1573
+836. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kāyindriyaṃ? Cakkhāyatanaṃ…pe… jivhāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kāyindriyaṃ.
 
-837. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na itthindriyaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na itthindriyaṃ. ^1574
+837. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na itthindriyaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na itthindriyaṃ.
 
-838. Katamaṃ taṃ rūpaṃ bāhiraṃ itthindriyaṃ? Yaṃ itthiyā itthiliṅgaṃ itthinimittaṃ itthikuttaṃ itthākappo itthattaṃ itthibhāvo – idaṃ taṃ rūpaṃ bāhiraṃ itthindriyaṃ. ^1575
+838. Katamaṃ taṃ rūpaṃ bāhiraṃ itthindriyaṃ? Yaṃ itthiyā itthiliṅgaṃ itthinimittaṃ itthikuttaṃ itthākappo itthattaṃ itthibhāvo – idaṃ taṃ rūpaṃ bāhiraṃ itthindriyaṃ.
 
-839. Katamaṃ taṃ rūpaṃ bāhiraṃ na itthindriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na itthindriyaṃ. ^1576
+839. Katamaṃ taṃ rūpaṃ bāhiraṃ na itthindriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na itthindriyaṃ.
 
-840. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na purisindriyaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na purisindriyaṃ. ^1577
+840. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na purisindriyaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na purisindriyaṃ.
 
-841. Katamaṃ taṃ rūpaṃ bāhiraṃ purisindriyaṃ? Yaṃ purisassa purisaliṅgaṃ purisanimittaṃ purisakuttaṃ purisākappo purisattaṃ purisabhāvo – idaṃ taṃ rūpaṃ bāhiraṃ purisindriyaṃ. ^1578
+841. Katamaṃ taṃ rūpaṃ bāhiraṃ purisindriyaṃ? Yaṃ purisassa purisaliṅgaṃ purisanimittaṃ purisakuttaṃ purisākappo purisattaṃ purisabhāvo – idaṃ taṃ rūpaṃ bāhiraṃ purisindriyaṃ.
 
-842. Katamaṃ taṃ rūpaṃ bāhiraṃ na purisindriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na purisindriyaṃ. ^1579
+842. Katamaṃ taṃ rūpaṃ bāhiraṃ na purisindriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na purisindriyaṃ.
 
-843. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na jīvitindriyaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na jīvitindriyaṃ. ^1580
+843. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na jīvitindriyaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na jīvitindriyaṃ.
 
-844. Katamaṃ taṃ rūpaṃ bāhiraṃ jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ bāhiraṃ jīvitindriyaṃ. ^1581
+844. Katamaṃ taṃ rūpaṃ bāhiraṃ jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ bāhiraṃ jīvitindriyaṃ.
 
-845. Katamaṃ taṃ rūpaṃ bāhiraṃ na jīvitindriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na jīvitindriyaṃ. ^1582
+845. Katamaṃ taṃ rūpaṃ bāhiraṃ na jīvitindriyaṃ? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na jīvitindriyaṃ.
 
-846. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kāyaviññatti? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kāyaviññatti. ^1583
+846. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kāyaviññatti? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kāyaviññatti.
 
-847. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyaviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā abhikkamantassa vā paṭikkamantassa vā ālokentassa vā vilokentassa vā samiñjentassa vā pasārentassa vā kāyassa thambhanā santhambhanā santhambhitattaṃ viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ bāhiraṃ kāyaviññatti. ^1584
+847. Katamaṃ taṃ rūpaṃ bāhiraṃ kāyaviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā abhikkamantassa vā paṭikkamantassa vā ālokentassa vā vilokentassa vā samiñjentassa vā pasārentassa vā kāyassa thambhanā santhambhanā santhambhitattaṃ viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ bāhiraṃ kāyaviññatti.
 
-848. Katamaṃ taṃ rūpaṃ bāhiraṃ na kāyaviññatti? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na kāyaviññatti. ^1585
+848. Katamaṃ taṃ rūpaṃ bāhiraṃ na kāyaviññatti? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na kāyaviññatti.
 
-849. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na vacīviññatti? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na vacīviññatti. ^1586
+849. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na vacīviññatti? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na vacīviññatti.
 
-850. Katamaṃ taṃ rūpaṃ bāhiraṃ vacīviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā vācā girā byappatho udīraṇaṃ dhoso ghosakammaṃ vācā vacībhedo, ayaṃ vuccati vācā. Yā tāya vācāya viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ bāhiraṃ vacīviññatti. ^1587
+850. Katamaṃ taṃ rūpaṃ bāhiraṃ vacīviññatti? Yā kusalacittassa vā akusalacittassa vā abyākatacittassa vā vācā girā byappatho udīraṇaṃ dhoso ghosakammaṃ vācā vacībhedo, ayaṃ vuccati vācā. Yā tāya vācāya viññatti viññāpanā viññāpitattaṃ – idaṃ taṃ rūpaṃ bāhiraṃ vacīviññatti.
 
-851. Katamaṃ taṃ rūpaṃ bāhiraṃ na vacīviññatti? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na vacīviññatti. ^1588
+851. Katamaṃ taṃ rūpaṃ bāhiraṃ na vacīviññatti? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na vacīviññatti.
 
-852. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na ākāsadhātu? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na ākāsadhātu. ^1589
+852. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na ākāsadhātu? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na ākāsadhātu.
 
-853. Katamaṃ taṃ rūpaṃ bāhiraṃ ākāsadhātu? Yo ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro vivaragataṃ asamphuṭṭhaṃ catūhi mahābhūtehi – idaṃ taṃ rūpaṃ bāhiraṃ ākāsadhātu. ^1590
+853. Katamaṃ taṃ rūpaṃ bāhiraṃ ākāsadhātu? Yo ākāso ākāsagataṃ aghaṃ aghagataṃ vivaro vivaragataṃ asamphuṭṭhaṃ catūhi mahābhūtehi – idaṃ taṃ rūpaṃ bāhiraṃ ākāsadhātu.
 
-854. Katamaṃ taṃ rūpaṃ bāhiraṃ na ākāsadhātu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na ākāsadhātu. ^1591
+854. Katamaṃ taṃ rūpaṃ bāhiraṃ na ākāsadhātu? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na ākāsadhātu.
 
-855. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na āpodhātu? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na āpodhātu. ^1592
+855. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na āpodhātu? Cakkhāyatanaṃ… pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na āpodhātu.
 
-856. Katamaṃ taṃ rūpaṃ bāhiraṃ āpodhātu? Yaṃ āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa – idaṃ taṃ rūpaṃ bāhiraṃ āpodhātu. ^1593
+856. Katamaṃ taṃ rūpaṃ bāhiraṃ āpodhātu? Yaṃ āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa – idaṃ taṃ rūpaṃ bāhiraṃ āpodhātu.
 
-857. Katamaṃ taṃ rūpaṃ bāhiraṃ na āpodhātu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na āpodhātu. ^1594
+857. Katamaṃ taṃ rūpaṃ bāhiraṃ na āpodhātu? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ na āpodhātu.
 
-858. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na lahutā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na lahutā. ^1595
+858. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na lahutā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na lahutā.
 
-859. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa lahutā? Yā rūpassa lahutā lahupariṇāmatā adandhanatā avitthanatā – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa lahutā. ^1596
+859. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa lahutā? Yā rūpassa lahutā lahupariṇāmatā adandhanatā avitthanatā – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa lahutā.
 
-860. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na lahutā? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na lahutā. ^1597
+860. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na lahutā? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na lahutā.
 
-861. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na mudutā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na mudutā. ^1598
+861. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na mudutā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na mudutā.
 
-862. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa mudutā? Yā rūpassa mudutā maddavatā akakkhaḷatā akathinatā – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa mudutā. ^1599
+862. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa mudutā? Yā rūpassa mudutā maddavatā akakkhaḷatā akathinatā – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa mudutā.
 
-863. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na mudutā? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na mudutā. ^1600
+863. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na mudutā? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na mudutā.
 
-864. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na kammaññatā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na kammaññatā. ^1601
+864. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na kammaññatā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na kammaññatā.
 
-865. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa kammaññatā? Yā rūpassa kammaññatā kammaññattaṃ kammaññabhāvo – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa kammaññatā. ^1602
+865. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa kammaññatā? Yā rūpassa kammaññatā kammaññattaṃ kammaññabhāvo – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa kammaññatā.
 
-866. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na kammaññatā? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na kammaññatā. ^1603
+866. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na kammaññatā? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na kammaññatā.
 
-867. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na upacayo? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na upacayo. ^1604
+867. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na upacayo? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na upacayo.
 
-868. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa upacayo? Yo āyatanānaṃ ācayo, so rūpassa upacayo – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa upacayo. ^1605
+868. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa upacayo? Yo āyatanānaṃ ācayo, so rūpassa upacayo – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa upacayo.
 
-869. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na upacayo? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na upacayo. ^1606
+869. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na upacayo? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na upacayo.
 
-870. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na santati? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na santati. ^1607
+870. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na santati? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na santati.
 
-871. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa santati? Yo rūpassa upacayo, sā rūpassa santati – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa santati. ^1608
+871. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa santati? Yo rūpassa upacayo, sā rūpassa santati – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa santati.
 
-872. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na santati? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na santati. ^1609
+872. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na santati? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na santati.
 
-873. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na jaratā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na jaratā. ^1610
+873. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na jaratā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na jaratā.
 
-874. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa jaratā? Yā rūpassa jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa jaratā. ^1611
+874. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa jaratā? Yā rūpassa jarā jīraṇatā khaṇḍiccaṃ pāliccaṃ valittacatā āyuno saṃhāni indriyānaṃ paripāko – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa jaratā.
 
-875. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na jaratā? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na jaratā. ^1612
+875. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na jaratā? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na jaratā.
 
-876. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na aniccatā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na aniccatā. ^1613
+876. Katamaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na aniccatā? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ rūpassa na aniccatā.
 
-877. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa aniccatā? Yo rūpassa khayo vayo bhedo paribhedo aniccatā antaradhānaṃ – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa aniccatā. ^1614
+877. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa aniccatā? Yo rūpassa khayo vayo bhedo paribhedo aniccatā antaradhānaṃ – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa aniccatā.
 
-878. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na aniccatā? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na aniccatā. ^1615
+878. Katamaṃ taṃ rūpaṃ bāhiraṃ rūpassa na aniccatā? Rūpāyatanaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ bāhiraṃ rūpassa na aniccatā.
 
-879. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kabaḷīkāro āhāro? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kabaḷīkāro āhāro. ^1616
+879. Katamaṃ taṃ rūpaṃ ajjhattikaṃ na kabaḷīkāro āhāro? Cakkhāyatanaṃ…pe… kāyāyatanaṃ – idaṃ taṃ rūpaṃ ajjhattikaṃ na kabaḷīkāro āhāro.
 
-880. Katamaṃ taṃ rūpaṃ bāhiraṃ kabaḷīkāro āhāro? Odano kummāso sattu maccho maṃsaṃ khīraṃ dadhi sappi navanītaṃ telaṃ madhu phāṇitaṃ, yaṃ vā panaññampi atthi rūpaṃ yamhi yamhi janapade tesaṃ tesaṃ sattānaṃ mukhāsiyaṃ dantavikhādanaṃ galajjhoharaṇīyaṃ kucchivitthambhanaṃ yāya ojāya sattā yāpenti – idaṃ taṃ rūpaṃ bāhiraṃ kabaḷīkāro āhāro. ^1617
+880. Katamaṃ taṃ rūpaṃ bāhiraṃ kabaḷīkāro āhāro? Odano kummāso sattu maccho maṃsaṃ khīraṃ dadhi sappi navanītaṃ telaṃ madhu phāṇitaṃ, yaṃ vā panaññampi atthi rūpaṃ yamhi yamhi janapade tesaṃ tesaṃ sattānaṃ mukhāsiyaṃ dantavikhādanaṃ galajjhoharaṇīyaṃ kucchivitthambhanaṃ yāya ojāya sattā yāpenti – idaṃ taṃ rūpaṃ bāhiraṃ kabaḷīkāro āhāro.
 
-881. Katamaṃ taṃ rūpaṃ bāhiraṃ na kabaḷīkāro āhāro? Rūpāyatanaṃ… pe… rūpassa aniccatā – idaṃ taṃ rūpaṃ bāhiraṃ na kabaḷīkāro āhāro. ^1618
+881. Katamaṃ taṃ rūpaṃ bāhiraṃ na kabaḷīkāro āhāro? Rūpāyatanaṃ… pe… rūpassa aniccatā – idaṃ taṃ rūpaṃ bāhiraṃ na kabaḷīkāro āhāro.
 
-Evaṃ tividhena rūpasaṅgaho. ^1619
+Evaṃ tividhena rūpasaṅgaho.
 
-Tikaniddeso. ^1620
+Tikaniddeso.
 
-Catukkaṃ ^1621
+Catukkaṃ
 
-882. Katamaṃ taṃ rūpaṃ upādā upādiṇṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā upādiṇṇaṃ. ^1622
+882. Katamaṃ taṃ rūpaṃ upādā upādiṇṇaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā upādiṇṇaṃ.
 
-883. Katamaṃ taṃ rūpaṃ upādā anupādiṇṇaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā anupādiṇṇaṃ. ^1623
+883. Katamaṃ taṃ rūpaṃ upādā anupādiṇṇaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā anupādiṇṇaṃ.
 
-884. Katamaṃ taṃ rūpaṃ no upādā upādiṇṇaṃ? Kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ no upādā upādiṇṇaṃ. ^1624
+884. Katamaṃ taṃ rūpaṃ no upādā upādiṇṇaṃ? Kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ no upādā upādiṇṇaṃ.
 
-885. Katamaṃ taṃ rūpaṃ no upādā anupādiṇṇaṃ? Na kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ no upādā anupādiṇṇaṃ. ^1625
+885. Katamaṃ taṃ rūpaṃ no upādā anupādiṇṇaṃ? Na kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ no upādā anupādiṇṇaṃ.
 
-886. Katamaṃ taṃ rūpaṃ upādā upādiṇṇupādāniyaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā upādiṇṇupādāniyaṃ. ^1626
+886. Katamaṃ taṃ rūpaṃ upādā upādiṇṇupādāniyaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā upādiṇṇupādāniyaṃ.
 
-887. Katamaṃ taṃ rūpaṃ upādā anupādiṇṇupādāniyaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā anupādiṇṇupādāniyaṃ. ^1627
+887. Katamaṃ taṃ rūpaṃ upādā anupādiṇṇupādāniyaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā anupādiṇṇupādāniyaṃ.
 
-888. Katamaṃ taṃ rūpaṃ no upādā upādiṇṇupādāniyaṃ? Kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ no upādā upādiṇṇupādāniyaṃ. ^1628
+888. Katamaṃ taṃ rūpaṃ no upādā upādiṇṇupādāniyaṃ? Kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ no upādā upādiṇṇupādāniyaṃ.
 
-889. Katamaṃ taṃ rūpaṃ no upādā anupādiṇṇupādāniyaṃ? Na kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ no upādā anupādiṇṇupādāniyaṃ. ^1629
+889. Katamaṃ taṃ rūpaṃ no upādā anupādiṇṇupādāniyaṃ? Na kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ no upādā anupādiṇṇupādāniyaṃ.
 
-890. Katamaṃ taṃ rūpaṃ upādā sappaṭighaṃ? Cakkhāyatanaṃ…pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ upādā sappaṭighaṃ. ^1630
+890. Katamaṃ taṃ rūpaṃ upādā sappaṭighaṃ? Cakkhāyatanaṃ…pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ upādā sappaṭighaṃ.
 
-891. Katamaṃ taṃ rūpaṃ upādā appaṭighaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā appaṭighaṃ. ^1631
+891. Katamaṃ taṃ rūpaṃ upādā appaṭighaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā appaṭighaṃ.
 
-892. Katamaṃ taṃ rūpaṃ no upādā sappaṭighaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ no upādā sappaṭighaṃ. ^1632
+892. Katamaṃ taṃ rūpaṃ no upādā sappaṭighaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ no upādā sappaṭighaṃ.
 
-893. Katamaṃ taṃ rūpaṃ no upādā appaṭighaṃ? Āpodhātu – idaṃ taṃ rūpaṃ no upādā appaṭighaṃ. ^1633
+893. Katamaṃ taṃ rūpaṃ no upādā appaṭighaṃ? Āpodhātu – idaṃ taṃ rūpaṃ no upādā appaṭighaṃ.
 
-894. Katamaṃ taṃ rūpaṃ upādā oḷārikaṃ? Cakkhāyatanaṃ…pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ upādā oḷārikaṃ. ^1634
+894. Katamaṃ taṃ rūpaṃ upādā oḷārikaṃ? Cakkhāyatanaṃ…pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ upādā oḷārikaṃ.
 
-895. Katamaṃ taṃ rūpaṃ upādā sukhumaṃ itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā sukhumaṃ. ^1635
+895. Katamaṃ taṃ rūpaṃ upādā sukhumaṃ itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā sukhumaṃ.
 
-896. Katamaṃ taṃ rūpaṃ no upādā oḷārikaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ no upādā oḷārikaṃ. ^1636
+896. Katamaṃ taṃ rūpaṃ no upādā oḷārikaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ no upādā oḷārikaṃ.
 
-897. Katamaṃ taṃ rūpaṃ no upādā sukhumaṃ? Āpodhātu – idaṃ taṃ rūpaṃ no upādā sukhumaṃ. ^1637
+897. Katamaṃ taṃ rūpaṃ no upādā sukhumaṃ? Āpodhātu – idaṃ taṃ rūpaṃ no upādā sukhumaṃ.
 
-898. Katamaṃ taṃ rūpaṃ upādā dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā dūre. ^1638
+898. Katamaṃ taṃ rūpaṃ upādā dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā dūre.
 
-899. Katamaṃ taṃ rūpaṃ upādā santike? Cakkhāyatanaṃ…pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ upādā santike. ^1639
+899. Katamaṃ taṃ rūpaṃ upādā santike? Cakkhāyatanaṃ…pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ upādā santike.
 
-900. Katamaṃ taṃ rūpaṃ no upādā dūre? Āpodhātu – idaṃ taṃ rūpaṃ no upādā dūre. ^1640
+900. Katamaṃ taṃ rūpaṃ no upādā dūre? Āpodhātu – idaṃ taṃ rūpaṃ no upādā dūre.
 
-901. Katamaṃ taṃ rūpaṃ no upādā santike? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ no upādā santike. ^1641
+901. Katamaṃ taṃ rūpaṃ no upādā santike? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ no upādā santike.
 
-902. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ sanidassanaṃ? Kammassa katattā rūpāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇaṃ sanidassanaṃ. ^1642
+902. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ sanidassanaṃ? Kammassa katattā rūpāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇaṃ sanidassanaṃ.
 
-903. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ anidassanaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ, itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ anidassanaṃ. ^1643
+903. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ anidassanaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ, itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ anidassanaṃ.
 
-904. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ sanidassanaṃ? Na kammassa katattā rūpāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇaṃ sanidassanaṃ. ^1644
+904. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ sanidassanaṃ? Na kammassa katattā rūpāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇaṃ sanidassanaṃ.
 
-905. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ anidassanaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ anidassanaṃ. ^1645
+905. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ anidassanaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ anidassanaṃ.
 
-906. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ sappaṭighaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇaṃ sappaṭighaṃ. ^1646
+906. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ sappaṭighaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇaṃ sappaṭighaṃ.
 
-907. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ appaṭighaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ appaṭighaṃ. ^1647
+907. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ appaṭighaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ appaṭighaṃ.
 
-908. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ sappaṭighaṃ? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇaṃ sappaṭighaṃ. ^1648
+908. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ sappaṭighaṃ? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇaṃ sappaṭighaṃ.
 
-909. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ appaṭighaṃ? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ appaṭighaṃ. ^1649
+909. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ appaṭighaṃ? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ appaṭighaṃ.
 
-910. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ mahābhūtaṃ? Kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ upādiṇṇaṃ mahābhūtaṃ. ^1650
+910. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ mahābhūtaṃ? Kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ upādiṇṇaṃ mahābhūtaṃ.
 
-911. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ na mahābhūtaṃ. ^1651
+911. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ na mahābhūtaṃ.
 
-912. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ mahābhūtaṃ? Na kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ anupādiṇṇaṃ mahābhūtaṃ. ^1652
+912. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ mahābhūtaṃ? Na kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ anupādiṇṇaṃ mahābhūtaṃ.
 
-913. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ na mahābhūtaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ na mahābhūtaṃ. ^1653
+913. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ na mahābhūtaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ na mahābhūtaṃ.
 
-914. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ oḷārikaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇaṃ oḷārikaṃ. ^1654
+914. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ oḷārikaṃ? Cakkhāyatanaṃ… pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇaṃ oḷārikaṃ.
 
-915. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ sukhumaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ sukhumaṃ. ^1655
+915. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ sukhumaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ sukhumaṃ.
 
-916. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ oḷārikaṃ? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇaṃ oḷārikaṃ. ^1656
+916. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ oḷārikaṃ? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇaṃ oḷārikaṃ.
 
-917. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ sukhumaṃ? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ sukhumaṃ. ^1657
+917. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ sukhumaṃ? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ sukhumaṃ.
 
-918. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ dūre? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ dūre. ^1658
+918. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ dūre? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇaṃ dūre.
 
-919. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ santike? Cakkhāyatanaṃ… pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇaṃ santike. ^1659
+919. Katamaṃ taṃ rūpaṃ upādiṇṇaṃ santike? Cakkhāyatanaṃ… pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇaṃ santike.
 
-920. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ dūre? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ dūre. ^1660
+920. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ dūre? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇaṃ dūre.
 
-921. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ santike? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇaṃ santike. ^1661
+921. Katamaṃ taṃ rūpaṃ anupādiṇṇaṃ santike? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇaṃ santike.
 
-922. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sanidassanaṃ? Kammassa katattā rūpāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sanidassanaṃ. ^1662
+922. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sanidassanaṃ? Kammassa katattā rūpāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sanidassanaṃ.
 
-923. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ anidassanaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ anidassanaṃ. ^1663
+923. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ anidassanaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ anidassanaṃ.
 
-924. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sanidassanaṃ? Na kammassa katattā rūpāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sanidassanaṃ. ^1664
+924. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sanidassanaṃ? Na kammassa katattā rūpāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sanidassanaṃ.
 
-925. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ anidassanaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ anidassanaṃ. ^1665
+925. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ anidassanaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ anidassanaṃ.
 
-926. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sappaṭighaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sappaṭighaṃ. ^1666
+926. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sappaṭighaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sappaṭighaṃ.
 
-927. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ appaṭighaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ appaṭighaṃ. ^1667
+927. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ appaṭighaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ appaṭighaṃ.
 
-928. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sappaṭighaṃ? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sappaṭighaṃ. ^1668
+928. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sappaṭighaṃ? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sappaṭighaṃ.
 
-929. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ appaṭighaṃ? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ appaṭighaṃ. ^1669
+929. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ appaṭighaṃ? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ appaṭighaṃ.
 
-930. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ mahābhūtaṃ? Kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ mahābhūtaṃ. ^1670
+930. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ mahābhūtaṃ? Kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ mahābhūtaṃ.
 
-931. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ na mahābhūtaṃ. ^1671
+931. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ na mahābhūtaṃ.
 
-932. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ mahābhūtaṃ? Na kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ mahābhūtaṃ. ^1672
+932. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ mahābhūtaṃ? Na kammassa katattā phoṭṭhabbāyatanaṃ āpodhātu – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ mahābhūtaṃ.
 
-933. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ na mahābhūtaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ na mahābhūtaṃ. ^1673
+933. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ na mahābhūtaṃ? Saddāyatanaṃ kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ ākāsadhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ na mahābhūtaṃ.
 
-934. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ oḷārikaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ oḷārikaṃ. ^1674
+934. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ oḷārikaṃ? Cakkhāyatanaṃ…pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ oḷārikaṃ.
 
-935. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sukhumaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sukhumaṃ. ^1675
+935. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sukhumaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ sukhumaṃ.
 
-936. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ oḷārikaṃ? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ oḷārikaṃ. ^1676
+936. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ oḷārikaṃ? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ oḷārikaṃ.
 
-937. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sukhumaṃ? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sukhumaṃ. ^1677
+937. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sukhumaṃ? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ sukhumaṃ.
 
-938. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ dūre? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ dūre. ^1678
+938. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ dūre? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ dūre.
 
-939. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ santike cakkhāyatanaṃ…pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ santike. ^1679
+939. Katamaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ santike cakkhāyatanaṃ…pe… kāyāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ upādiṇṇupādāniyaṃ santike.
 
-940. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ dūre? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ dūre. ^1680
+940. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ dūre? Kāyaviññatti vacīviññatti rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa jaratā rūpassa aniccatā, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā ākāsadhātu āpodhātu rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ dūre.
 
-941. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ santike? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ santike. ^1681
+941. Katamaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ santike? Saddāyatanaṃ, yaṃ vā panaññampi atthi rūpaṃ na kammassa katattā rūpāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ anupādiṇṇupādāniyaṃ santike.
 
-942. Katamaṃ taṃ rūpaṃ sappaṭighaṃ indriyaṃ? Cakkhundriyaṃ… pe… kāyindriyaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ indriyaṃ. ^1682
+942. Katamaṃ taṃ rūpaṃ sappaṭighaṃ indriyaṃ? Cakkhundriyaṃ… pe… kāyindriyaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ indriyaṃ.
 
-943. Katamaṃ taṃ rūpaṃ sappaṭighaṃ na indriyaṃ? Rūpāyatanaṃ… pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ na indriyaṃ. ^1683
+943. Katamaṃ taṃ rūpaṃ sappaṭighaṃ na indriyaṃ? Rūpāyatanaṃ… pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ na indriyaṃ.
 
-944. Katamaṃ taṃ rūpaṃ appaṭighaṃ indriyaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ appaṭighaṃ indriyaṃ. ^1684
+944. Katamaṃ taṃ rūpaṃ appaṭighaṃ indriyaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ appaṭighaṃ indriyaṃ.
 
-945. Katamaṃ taṃ rūpaṃ appaṭighaṃ na indriyaṃ? Kāyaviññatti vacīviññatti…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ appaṭighaṃ na indriyaṃ. ^1685
+945. Katamaṃ taṃ rūpaṃ appaṭighaṃ na indriyaṃ? Kāyaviññatti vacīviññatti…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ appaṭighaṃ na indriyaṃ.
 
-946. Katamaṃ taṃ rūpaṃ sappaṭighaṃ mahābhūtaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ mahābhūtaṃ. ^1686
+946. Katamaṃ taṃ rūpaṃ sappaṭighaṃ mahābhūtaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ mahābhūtaṃ.
 
-947. Katamaṃ taṃ rūpaṃ sappaṭighaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ na mahābhūtaṃ. ^1687
+947. Katamaṃ taṃ rūpaṃ sappaṭighaṃ na mahābhūtaṃ? Cakkhāyatanaṃ…pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ sappaṭighaṃ na mahābhūtaṃ.
 
-948. Katamaṃ taṃ rūpaṃ appaṭighaṃ mahābhūtaṃ? Āpodhātu – idaṃ taṃ rūpaṃ appaṭighaṃ mahābhūtaṃ. ^1688
+948. Katamaṃ taṃ rūpaṃ appaṭighaṃ mahābhūtaṃ? Āpodhātu – idaṃ taṃ rūpaṃ appaṭighaṃ mahābhūtaṃ.
 
-949. Katamaṃ taṃ rūpaṃ appaṭighaṃ na mahābhūtaṃ? Itthindriyaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ appaṭighaṃ na mahābhūtaṃ. ^1689
+949. Katamaṃ taṃ rūpaṃ appaṭighaṃ na mahābhūtaṃ? Itthindriyaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ appaṭighaṃ na mahābhūtaṃ.
 
-950. Katamaṃ taṃ rūpaṃ indriyaṃ oḷārikaṃ? Cakkhundriyaṃ…pe… kāyindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ oḷārikaṃ. ^1690
+950. Katamaṃ taṃ rūpaṃ indriyaṃ oḷārikaṃ? Cakkhundriyaṃ…pe… kāyindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ oḷārikaṃ.
 
-951. Katamaṃ taṃ rūpaṃ indriyaṃ sukhumaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ sukhumaṃ. ^1691
+951. Katamaṃ taṃ rūpaṃ indriyaṃ sukhumaṃ? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ sukhumaṃ.
 
-952. Katamaṃ taṃ rūpaṃ na indriyaṃ oḷārikaṃ? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ na indriyaṃ oḷārikaṃ. ^1692
+952. Katamaṃ taṃ rūpaṃ na indriyaṃ oḷārikaṃ? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ na indriyaṃ oḷārikaṃ.
 
-953. Katamaṃ taṃ rūpaṃ na indriyaṃ sukhumaṃ? Kāyaviññatti vacīviññatti…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ sukhumaṃ. ^1693
+953. Katamaṃ taṃ rūpaṃ na indriyaṃ sukhumaṃ? Kāyaviññatti vacīviññatti…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ sukhumaṃ.
 
-954. Katamaṃ taṃ rūpaṃ indriyaṃ dūre? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ dūre. ^1694
+954. Katamaṃ taṃ rūpaṃ indriyaṃ dūre? Itthindriyaṃ purisindriyaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ dūre.
 
-955. Katamaṃ taṃ rūpaṃ indriyaṃ santike? Cakkhundriyaṃ…pe… kāyindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ santike. ^1695
+955. Katamaṃ taṃ rūpaṃ indriyaṃ santike? Cakkhundriyaṃ…pe… kāyindriyaṃ – idaṃ taṃ rūpaṃ indriyaṃ santike.
 
-956. Katamaṃ taṃ rūpaṃ na indriyaṃ dūre? Kāyaviññatti vacīviññatti…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ dūre. ^1696
+956. Katamaṃ taṃ rūpaṃ na indriyaṃ dūre? Kāyaviññatti vacīviññatti…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ dūre.
 
-957. Katamaṃ taṃ rūpaṃ na indriyaṃ santike? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ na indriyaṃ santike. ^1697
+957. Katamaṃ taṃ rūpaṃ na indriyaṃ santike? Rūpāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ na indriyaṃ santike.
 
-958. Katamaṃ taṃ rūpaṃ mahābhūtaṃ oḷārikaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ mahābhūtaṃ oḷārikaṃ. ^1698
+958. Katamaṃ taṃ rūpaṃ mahābhūtaṃ oḷārikaṃ? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ mahābhūtaṃ oḷārikaṃ.
 
-959. Katamaṃ taṃ rūpaṃ mahābhūtaṃ sukhumaṃ? Āpodhātu – idaṃ taṃ rūpaṃ mahābhūtaṃ sukhumaṃ. ^1699
+959. Katamaṃ taṃ rūpaṃ mahābhūtaṃ sukhumaṃ? Āpodhātu – idaṃ taṃ rūpaṃ mahābhūtaṃ sukhumaṃ.
 
-960. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ oḷārikaṃ? Cakkhāyatanaṃ… pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ na mahābhūtaṃ oḷārikaṃ. ^1700
+960. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ oḷārikaṃ? Cakkhāyatanaṃ… pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ na mahābhūtaṃ oḷārikaṃ.
 
-961. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ sukhumaṃ? Itthindriyaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na mahābhūtaṃ sukhumaṃ. ^1701
+961. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ sukhumaṃ? Itthindriyaṃ… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na mahābhūtaṃ sukhumaṃ.
 
-962. Katamaṃ taṃ rūpaṃ mahābhūtaṃ dūre? Āpodhātu – idaṃ taṃ rūpaṃ mahābhūtaṃ dūre. ^1702
+962. Katamaṃ taṃ rūpaṃ mahābhūtaṃ dūre? Āpodhātu – idaṃ taṃ rūpaṃ mahābhūtaṃ dūre.
 
-963. Katamaṃ taṃ rūpaṃ mahābhūtaṃ santike? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ mahābhūtaṃ santike. ^1703
+963. Katamaṃ taṃ rūpaṃ mahābhūtaṃ santike? Phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ mahābhūtaṃ santike.
 
-964. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na mahābhūtaṃ dūre. ^1704
+964. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ dūre? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na mahābhūtaṃ dūre.
 
-965. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ santike? Cakkhāyatanaṃ… pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ na mahābhūtaṃ santike. ^1705
+965. Katamaṃ taṃ rūpaṃ na mahābhūtaṃ santike? Cakkhāyatanaṃ… pe… rasāyatanaṃ – idaṃ taṃ rūpaṃ na mahābhūtaṃ santike.
 
-966. Rūpāyatanaṃ diṭṭhaṃ, saddāyatanaṃ sutaṃ, gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ mutaṃ, sabbaṃ rūpaṃ manasā viññātaṃ rūpaṃ. ^1706
+966. Rūpāyatanaṃ diṭṭhaṃ, saddāyatanaṃ sutaṃ, gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ mutaṃ, sabbaṃ rūpaṃ manasā viññātaṃ rūpaṃ.
 
-Evaṃ catubbidhena rūpasaṅgaho. ^1707
+Evaṃ catubbidhena rūpasaṅgaho.
 
-Catukkaṃ. ^1708
+Catukkaṃ.
 
-Pañcakaṃ ^1709
+Pañcakaṃ
 
-967. Katamaṃ taṃ rūpaṃ pathavīdhātu? Yaṃ kakkhaḷaṃ kharagataṃ kakkhaḷattaṃ kakkhaḷabhāvo ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā – idaṃ taṃ rūpaṃ pathavīdhātu. ^1710
+967. Katamaṃ taṃ rūpaṃ pathavīdhātu? Yaṃ kakkhaḷaṃ kharagataṃ kakkhaḷattaṃ kakkhaḷabhāvo ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā – idaṃ taṃ rūpaṃ pathavīdhātu.
 
-968. Katamaṃ taṃ rūpaṃ āpodhātu? Yaṃ āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā – idaṃ taṃ rūpaṃ āpodhātu. ^1711
+968. Katamaṃ taṃ rūpaṃ āpodhātu? Yaṃ āpo āpogataṃ sineho sinehagataṃ bandhanattaṃ rūpassa ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā – idaṃ taṃ rūpaṃ āpodhātu.
 
-969. Katamaṃ taṃ rūpaṃ tejodhātu? Yaṃ tejo tejogataṃ usmā usmāgataṃ usumaṃ usumagataṃ ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā – idaṃ taṃ rūpaṃ tejodhātu. ^1712
+969. Katamaṃ taṃ rūpaṃ tejodhātu? Yaṃ tejo tejogataṃ usmā usmāgataṃ usumaṃ usumagataṃ ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā – idaṃ taṃ rūpaṃ tejodhātu.
 
-970. Katamaṃ taṃ rūpaṃ vāyodhātu? Yaṃ vāyo vāyogataṃ thambhitattaṃ rūpassa ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā – idaṃ taṃ rūpaṃ vāyodhātu. ^1713
+970. Katamaṃ taṃ rūpaṃ vāyodhātu? Yaṃ vāyo vāyogataṃ thambhitattaṃ rūpassa ajjhattaṃ vā bahiddhā vā upādiṇṇaṃ vā anupādiṇṇaṃ vā – idaṃ taṃ rūpaṃ vāyodhātu.
 
-971. Katamaṃ taṃ rūpaṃ upādā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā. ^1714
+971. Katamaṃ taṃ rūpaṃ upādā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ upādā.
 
-Evaṃ pañcavidhena rūpasaṅgaho. ^1715
+Evaṃ pañcavidhena rūpasaṅgaho.
 
-Pañcakaṃ. ^1716
+Pañcakaṃ.
 
-Chakkaṃ ^1717
+Chakkaṃ
 
-972. Rūpāyatanaṃ cakkhuviññeyyaṃ rūpaṃ, saddāyatanaṃ sotaviññeyyaṃ rūpaṃ, gandhāyatanaṃ ghānaviññeyyaṃ rūpaṃ, rasāyatanaṃ jivhāviññeyyaṃ rūpaṃ, phoṭṭhabbāyatanaṃ kāyaviññeyyaṃ rūpaṃ, sabbaṃ rūpaṃ manoviññeyyaṃ rūpaṃ. ^1718
+972. Rūpāyatanaṃ cakkhuviññeyyaṃ rūpaṃ, saddāyatanaṃ sotaviññeyyaṃ rūpaṃ, gandhāyatanaṃ ghānaviññeyyaṃ rūpaṃ, rasāyatanaṃ jivhāviññeyyaṃ rūpaṃ, phoṭṭhabbāyatanaṃ kāyaviññeyyaṃ rūpaṃ, sabbaṃ rūpaṃ manoviññeyyaṃ rūpaṃ.
 
-Evaṃ chabbidhena rūpasaṅgaho. ^1719
+Evaṃ chabbidhena rūpasaṅgaho.
 
-Chakkaṃ. ^1720
+Chakkaṃ.
 
-Sattakaṃ ^1721
+Sattakaṃ
 
-973. Rūpāyatanaṃ cakkhuviññeyyaṃ rūpaṃ, saddāyatanaṃ sotaviññeyyaṃ rūpaṃ, gandhāyatanaṃ ghānaviññeyyaṃ rūpaṃ, rasāyatanaṃ jivhāviññeyyaṃ rūpaṃ, phoṭṭhabbāyatanaṃ kāyaviññeyyaṃ rūpaṃ, rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manodhātuviññeyyaṃ rūpaṃ, sabbaṃ rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ. ^1722
+973. Rūpāyatanaṃ cakkhuviññeyyaṃ rūpaṃ, saddāyatanaṃ sotaviññeyyaṃ rūpaṃ, gandhāyatanaṃ ghānaviññeyyaṃ rūpaṃ, rasāyatanaṃ jivhāviññeyyaṃ rūpaṃ, phoṭṭhabbāyatanaṃ kāyaviññeyyaṃ rūpaṃ, rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manodhātuviññeyyaṃ rūpaṃ, sabbaṃ rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ.
 
-Evaṃ sattavidhena rūpasaṅgaho. ^1723
+Evaṃ sattavidhena rūpasaṅgaho.
 
-Sattakaṃ. ^1724
+Sattakaṃ.
 
-Aṭṭhakaṃ ^1725
+Aṭṭhakaṃ
 
-974. Rūpāyatanaṃ cakkhuviññeyyaṃ rūpaṃ, saddāyatanaṃ sotaviññeyyaṃ rūpaṃ, gandhāyatanaṃ ghānaviññeyyaṃ rūpaṃ, rasāyatanaṃ jivhāviññeyyaṃ rūpaṃ, manāpiyo phoṭṭhabbo sukhasamphasso kāyaviññeyyaṃ rūpaṃ, amanāpiyo phoṭṭhabbo dukkhasamphasso kāyaviññeyyaṃ rūpaṃ, rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manodhātuviññeyyaṃ rūpaṃ, sabbaṃ rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ. ^1726
+974. Rūpāyatanaṃ cakkhuviññeyyaṃ rūpaṃ, saddāyatanaṃ sotaviññeyyaṃ rūpaṃ, gandhāyatanaṃ ghānaviññeyyaṃ rūpaṃ, rasāyatanaṃ jivhāviññeyyaṃ rūpaṃ, manāpiyo phoṭṭhabbo sukhasamphasso kāyaviññeyyaṃ rūpaṃ, amanāpiyo phoṭṭhabbo dukkhasamphasso kāyaviññeyyaṃ rūpaṃ, rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ manodhātuviññeyyaṃ rūpaṃ, sabbaṃ rūpaṃ manoviññāṇadhātuviññeyyaṃ rūpaṃ.
 
-Evaṃ aṭṭhavidhena rūpasaṅgaho. ^1727
+Evaṃ aṭṭhavidhena rūpasaṅgaho.
 
-Aṭṭhakaṃ. ^1728
+Aṭṭhakaṃ.
 
-Navakaṃ ^1729
+Navakaṃ
 
-975. Katamaṃ taṃ rūpaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhundriyaṃ. ^1730
+975. Katamaṃ taṃ rūpaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhundriyaṃ.
 
-976. Katamaṃ taṃ rūpaṃ sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ …pe… itthindriyaṃ…pe… purisindriyaṃ…pe… jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ jīvitindriyaṃ. ^1731
+976. Katamaṃ taṃ rūpaṃ sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ …pe… itthindriyaṃ…pe… purisindriyaṃ…pe… jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ jīvitindriyaṃ.
 
-977. Katamaṃ taṃ rūpaṃ na indriyaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ. ^1732
+977. Katamaṃ taṃ rūpaṃ na indriyaṃ? Rūpāyatanaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ.
 
-Evaṃ navavidhena rūpasaṅgaho. ^1733
+Evaṃ navavidhena rūpasaṅgaho.
 
-Navakaṃ. ^1734
+Navakaṃ.
 
-Dasakaṃ ^1735
+Dasakaṃ
 
-978. Katamaṃ taṃ rūpaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhundriyaṃ. ^1736
+978. Katamaṃ taṃ rūpaṃ cakkhundriyaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhundriyaṃ.
 
-979. Katamaṃ taṃ rūpaṃ sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ…pe… itthindriyaṃ…pe… purisindriyaṃ…pe… jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ jīvitindriyaṃ. ^1737
+979. Katamaṃ taṃ rūpaṃ sotindriyaṃ…pe… ghānindriyaṃ…pe… jivhindriyaṃ…pe… kāyindriyaṃ…pe… itthindriyaṃ…pe… purisindriyaṃ…pe… jīvitindriyaṃ? Yo tesaṃ rūpīnaṃ dhammānaṃ āyu ṭhiti yapanā yāpanā iriyanā vattanā pālanā jīvitaṃ jīvitindriyaṃ – idaṃ taṃ rūpaṃ jīvitindriyaṃ.
 
-980. Katamaṃ taṃ rūpaṃ na indriyaṃ sappaṭighaṃ? Rūpāyatanaṃ… pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ na indriyaṃ sappaṭighaṃ. ^1738
+980. Katamaṃ taṃ rūpaṃ na indriyaṃ sappaṭighaṃ? Rūpāyatanaṃ… pe… phoṭṭhabbāyatanaṃ – idaṃ taṃ rūpaṃ na indriyaṃ sappaṭighaṃ.
 
-981. Katamaṃ taṃ rūpaṃ na indriyaṃ appaṭighaṃ? Kāyaviññatti… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ appaṭighaṃ. ^1739
+981. Katamaṃ taṃ rūpaṃ na indriyaṃ appaṭighaṃ? Kāyaviññatti… pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ na indriyaṃ appaṭighaṃ.
 
-Evaṃ dasavidhena rūpasaṅgaho. ^1740
+Evaṃ dasavidhena rūpasaṅgaho.
 
-Dasakaṃ. ^1741
+Dasakaṃ.
 
-Ekādasakaṃ ^1742
+Ekādasakaṃ
 
-982. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ. ^1743
+982. Katamaṃ taṃ rūpaṃ cakkhāyatanaṃ? Yaṃ cakkhu catunnaṃ mahābhūtānaṃ upādāya pasādo…pe… suñño gāmo peso – idaṃ taṃ rūpaṃ cakkhāyatanaṃ.
 
-983. Katamaṃ taṃ rūpaṃ sotāyatanaṃ…pe… ghānāyatanaṃ… pe… jivhāyatanaṃ…pe… kāyāyatanaṃ…pe… rūpāyatanaṃ…pe… saddāyatanaṃ…pe… gandhāyatanaṃ…pe… rasāyatanaṃ…pe… phoṭṭhabbāyatanaṃ? Pathavīdhātu…pe… phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ. ^1744
+983. Katamaṃ taṃ rūpaṃ sotāyatanaṃ…pe… ghānāyatanaṃ… pe… jivhāyatanaṃ…pe… kāyāyatanaṃ…pe… rūpāyatanaṃ…pe… saddāyatanaṃ…pe… gandhāyatanaṃ…pe… rasāyatanaṃ…pe… phoṭṭhabbāyatanaṃ? Pathavīdhātu…pe… phoṭṭhabbadhātu pesā – idaṃ taṃ rūpaṃ phoṭṭhabbāyatanaṃ.
 
-984. Katamaṃ taṃ rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ. ^1745
+984. Katamaṃ taṃ rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ? Itthindriyaṃ…pe… kabaḷīkāro āhāro – idaṃ taṃ rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ.
 
-Evaṃ ekādasavidhena rūpasaṅgaho. ^1746
+Evaṃ ekādasavidhena rūpasaṅgaho.
 
-Ekādasakaṃ. ^1747
+Ekādasakaṃ.
 
-Aṭṭhamabhāṇavāro. ^1748
+Aṭṭhamabhāṇavāro.
 
-Rūpavibhatti. ^1749
+Rūpavibhatti.
 
-Rūpakaṇḍaṃ niṭṭhitaṃ. ^1750
+Rūpakaṇḍaṃ niṭṭhitaṃ.
 
-3. Nikkhepakaṇḍaṃ ^1751
+3. Nikkhepakaṇḍaṃ
 
-Tikanikkhepaṃ ^1752
+Tikanikkhepaṃ
 
-985. Katame dhammā kusalā? Tīṇi kusalamūlāni – alobho, adoso, amoho; taṃsampayutto vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā kusalā. ^1753
+985. Katame dhammā kusalā? Tīṇi kusalamūlāni – alobho, adoso, amoho; taṃsampayutto vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā kusalā.
 
-986. Katame dhammā akusalā? Tīṇi akusalamūlāni – lobho, doso, moho; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā akusalā. ^1754
+986. Katame dhammā akusalā? Tīṇi akusalamūlāni – lobho, doso, moho; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā akusalā.
 
-987. Katame dhammā abyākatā? Kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā abyākatā. ^1755
+987. Katame dhammā abyākatā? Kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā abyākatā.
 
-988. Katame dhammā sukhāya vedanāya sampayuttā? Sukhabhūmiyaṃ kāmāvacare, rūpāvacare, apariyāpanne, sukhaṃ vedanaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sukhāya vedanāya sampayuttā. ^1756
+988. Katame dhammā sukhāya vedanāya sampayuttā? Sukhabhūmiyaṃ kāmāvacare, rūpāvacare, apariyāpanne, sukhaṃ vedanaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sukhāya vedanāya sampayuttā.
 
-989. Katame dhammā dukkhāya vedanāya sampayuttā? Dukkhabhūmiyaṃ kāmāvacare, dukkhaṃ vedanaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā dukkhāya vedanāya sampayuttā. ^1757
+989. Katame dhammā dukkhāya vedanāya sampayuttā? Dukkhabhūmiyaṃ kāmāvacare, dukkhaṃ vedanaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā dukkhāya vedanāya sampayuttā.
 
-990. Katame dhammā adukkhamasukhāya vedanāya sampayuttā? Adukkhamasukhabhūmiyaṃ kāmāvacare, rūpāvacare, arūpāvacare, apariyāpanne, adukkhamasukhaṃ vedanaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā adukkhamasukhāya vedanāya sampayuttā. ^1758
+990. Katame dhammā adukkhamasukhāya vedanāya sampayuttā? Adukkhamasukhabhūmiyaṃ kāmāvacare, rūpāvacare, arūpāvacare, apariyāpanne, adukkhamasukhaṃ vedanaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā adukkhamasukhāya vedanāya sampayuttā.
 
-991. Katame dhammā vipākā? Kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho… pe… viññāṇakkhandho – ime dhammā vipākā. ^1759
+991. Katame dhammā vipākā? Kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho… pe… viññāṇakkhandho – ime dhammā vipākā.
 
-992. Katame dhammā vipākadhammadhammā? Kusalākusalā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho… pe… viññāṇakkhandho – ime dhammā vipākadhammadhammā. ^1760
+992. Katame dhammā vipākadhammadhammā? Kusalākusalā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho… pe… viññāṇakkhandho – ime dhammā vipākadhammadhammā.
 
-993. Katame dhammā nevavipākanavipākadhammadhammā? Ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā nevavipākanavipākadhammadhammā. ^1761
+993. Katame dhammā nevavipākanavipākadhammadhammā? Ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā nevavipākanavipākadhammadhammā.
 
-994. Katame dhammā upādiṇṇupādāniyā? Sāsavā kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho…pe… viññāṇakkhandho; yañca rūpaṃ kammassa katattā – ime dhammā upādiṇṇupādāniyā. ^1762
+994. Katame dhammā upādiṇṇupādāniyā? Sāsavā kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho…pe… viññāṇakkhandho; yañca rūpaṃ kammassa katattā – ime dhammā upādiṇṇupādāniyā.
 
-995. Katame dhammā anupādiṇṇupādāniyā? Sāsavā kusalākusalā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho… pe… viññāṇakkhandho; ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā; yañca rūpaṃ na kammassa katattā – ime dhammā anupādiṇṇupādāniyā. ^1763
+995. Katame dhammā anupādiṇṇupādāniyā? Sāsavā kusalākusalā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho… pe… viññāṇakkhandho; ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā; yañca rūpaṃ na kammassa katattā – ime dhammā anupādiṇṇupādāniyā.
 
-996. Katame dhammā anupādiṇṇaanupādāniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anupādiṇṇaanupādāniyā. ^1764
+996. Katame dhammā anupādiṇṇaanupādāniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anupādiṇṇaanupādāniyā.
 
-997. Katame dhammā saṃkiliṭṭhasaṃkilesikā? Tīṇi akusalamūlāni – lobho, doso, moho; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā saṃkiliṭṭhasaṃkilesikā. ^1765
+997. Katame dhammā saṃkiliṭṭhasaṃkilesikā? Tīṇi akusalamūlāni – lobho, doso, moho; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā saṃkiliṭṭhasaṃkilesikā.
 
-998. Katame dhammā asaṃkiliṭṭhasaṃkilesikā? Sāsavā kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā asaṃkiliṭṭhasaṃkilesikā. ^1766
+998. Katame dhammā asaṃkiliṭṭhasaṃkilesikā? Sāsavā kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā asaṃkiliṭṭhasaṃkilesikā.
 
-999. Katame dhammā asaṃkiliṭṭhaasaṃkilesikā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā asaṃkiliṭṭhaasaṃkilesikā. ^1767
+999. Katame dhammā asaṃkiliṭṭhaasaṃkilesikā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā asaṃkiliṭṭhaasaṃkilesikā.
 
-1000. Katame dhammā savitakkasavicārā? Savitakkasavicārabhūmiyaṃ kāmāvacare, rūpāvacare, apariyāpanne, vitakkavicāre ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā savitakkasavicārā. ^1768
+1000. Katame dhammā savitakkasavicārā? Savitakkasavicārabhūmiyaṃ kāmāvacare, rūpāvacare, apariyāpanne, vitakkavicāre ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā savitakkasavicārā.
 
-1001. Katame dhammā avitakkavicāramattā? Avitakkavicāramattabhūmiyaṃ rūpāvacare, apariyāpanne, vicāraṃ ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā avitakkavicāramattā. ^1769
+1001. Katame dhammā avitakkavicāramattā? Avitakkavicāramattabhūmiyaṃ rūpāvacare, apariyāpanne, vicāraṃ ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā avitakkavicāramattā.
 
-1002. Katame dhammā avitakkaavicārā? Avitakkaavicārabhūmiyaṃ kāmāvacare, rūpāvacare, arūpāvacare, apariyāpanne; vedanākkhandho… pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā avitakkaavicārā. ^1770
+1002. Katame dhammā avitakkaavicārā? Avitakkaavicārabhūmiyaṃ kāmāvacare, rūpāvacare, arūpāvacare, apariyāpanne; vedanākkhandho… pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā avitakkaavicārā.
 
-1003. Katame dhammā pītisahagatā? Pītibhūmiyaṃ kāmāvacare, rūpāvacare, apariyāpanne, pītiṃ ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā pītisahagatā. ^1771
+1003. Katame dhammā pītisahagatā? Pītibhūmiyaṃ kāmāvacare, rūpāvacare, apariyāpanne, pītiṃ ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā pītisahagatā.
 
-1004. Katame dhammā sukhasahagatā? Sukhabhūmiyaṃ kāmāvacare, rūpāvacare, apariyāpanne, sukhaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sukhasahagatā. ^1772
+1004. Katame dhammā sukhasahagatā? Sukhabhūmiyaṃ kāmāvacare, rūpāvacare, apariyāpanne, sukhaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sukhasahagatā.
 
-1005. Katame dhammā upekkhāsahagatā? Upekkhābhūmiyaṃ kāmāvacare, rūpāvacare, arūpāvacare, apariyāpanne, upekkhaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā upekkhāsahagatā. ^1773
+1005. Katame dhammā upekkhāsahagatā? Upekkhābhūmiyaṃ kāmāvacare, rūpāvacare, arūpāvacare, apariyāpanne, upekkhaṃ ṭhapetvā; taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā upekkhāsahagatā.
 
-1006. Katame dhammā dassanena pahātabbā? Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso. ^1774
+1006. Katame dhammā dassanena pahātabbā? Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso.
 
-1007. Tattha katamā sakkāyadiṭṭhi? Idha assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ. Vedanaṃ attato samanupassati, vedanāvantaṃ vā attānaṃ, attani vā vedanaṃ, vedanāya vā attānaṃ. Saññaṃ attato samanupassati, saññāvantaṃ vā attānaṃ, attani vā saññaṃ, saññāya vā attānaṃ. Saṅkhāre attato samanupassati, saṅkhāravantaṃ vā attānaṃ, attani vā saṅkhāre, saṅkhāresu vā attānaṃ. Viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ, attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ. Yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho paṭiggāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati sakkāyadiṭṭhi. ^1775
+1007. Tattha katamā sakkāyadiṭṭhi? Idha assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ. Vedanaṃ attato samanupassati, vedanāvantaṃ vā attānaṃ, attani vā vedanaṃ, vedanāya vā attānaṃ. Saññaṃ attato samanupassati, saññāvantaṃ vā attānaṃ, attani vā saññaṃ, saññāya vā attānaṃ. Saṅkhāre attato samanupassati, saṅkhāravantaṃ vā attānaṃ, attani vā saṅkhāre, saṅkhāresu vā attānaṃ. Viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ, attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ. Yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho paṭiggāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati sakkāyadiṭṭhi.
 
-1008. Tattha katamā vicikicchā? Satthari kaṅkhati vicikicchati, dhamme kaṅkhati vicikicchati, saṅghe kaṅkhati vicikicchati, sikkhāya kaṅkhati vicikicchati, pubbante kaṅkhati vicikicchati, aparante kaṅkhati vicikicchati, pubbantāparante kaṅkhati vicikicchati, idappaccayatā paṭiccasamuppannesu dhammesu kaṅkhati vicikicchati. Yā evarūpā kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – ayaṃ vuccati vicikicchā. ^1776
+1008. Tattha katamā vicikicchā? Satthari kaṅkhati vicikicchati, dhamme kaṅkhati vicikicchati, saṅghe kaṅkhati vicikicchati, sikkhāya kaṅkhati vicikicchati, pubbante kaṅkhati vicikicchati, aparante kaṅkhati vicikicchati, pubbantāparante kaṅkhati vicikicchati, idappaccayatā paṭiccasamuppannesu dhammesu kaṅkhati vicikicchati. Yā evarūpā kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – ayaṃ vuccati vicikicchā.
 
-1009. Tattha katamo sīlabbataparāmāso? Ito bahiddhā samaṇabrāhmaṇānaṃ ‘sīlena suddhi, vatena suddhi, sīlabbatena suddhī’ti yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho paṭiggāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati sīlabbataparāmāso. ^1777
+1009. Tattha katamo sīlabbataparāmāso? Ito bahiddhā samaṇabrāhmaṇānaṃ ‘sīlena suddhi, vatena suddhi, sīlabbatena suddhī’ti yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho paṭiggāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati sīlabbataparāmāso.
 
-1010. Imāni tīṇi saṃyojanāni; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ vacīkammaṃ manokammaṃ – ime dhammā dassanena pahātabbā. ^1778
+1010. Imāni tīṇi saṃyojanāni; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ vacīkammaṃ manokammaṃ – ime dhammā dassanena pahātabbā.
 
-1011. Katame dhammā bhāvanāya pahātabbā? Avaseso lobho, doso, moho; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā bhāvanāya pahātabbā. ^1779
+1011. Katame dhammā bhāvanāya pahātabbā? Avaseso lobho, doso, moho; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā bhāvanāya pahātabbā.
 
-1012. Katame dhammā neva dassanena na bhāvanāya pahātabbā? Kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā neva dassanena na bhāvanāya pahātabbā. ^1780
+1012. Katame dhammā neva dassanena na bhāvanāya pahātabbā? Kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā neva dassanena na bhāvanāya pahātabbā.
 
-1013. Katame dhammā dassanena pahātabbahetukā? Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso. ^1781
+1013. Katame dhammā dassanena pahātabbahetukā? Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso.
 
-1014. Tattha katamā sakkāyadiṭṭhi…pe… ayaṃ vuccati sakkāyadiṭṭhi. ^1782
+1014. Tattha katamā sakkāyadiṭṭhi…pe… ayaṃ vuccati sakkāyadiṭṭhi.
 
-1015. Tattha katamā vicikicchā…pe… ayaṃ vuccati vicikicchā. ^1783
+1015. Tattha katamā vicikicchā…pe… ayaṃ vuccati vicikicchā.
 
-1016. Tattha katamo sīlabbataparāmāso…pe… ayaṃ vuccati sīlabbataparāmāso. ^1784
+1016. Tattha katamo sīlabbataparāmāso…pe… ayaṃ vuccati sīlabbataparāmāso.
 
-1017. Imāni tīṇi saṃyojanāni; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā dassanena pahātabbahetukā. Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso – ime dhammā dassanena pahātabbā. Tadekaṭṭho lobho, doso, moho – ime dhammā dassanena pahātabbahetū. Tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā dassanena pahātabbahetukā. ^1785
+1017. Imāni tīṇi saṃyojanāni; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā dassanena pahātabbahetukā. Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso – ime dhammā dassanena pahātabbā. Tadekaṭṭho lobho, doso, moho – ime dhammā dassanena pahātabbahetū. Tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā dassanena pahātabbahetukā.
 
-1018. Katame dhammā bhāvanāya pahātabbahetukā? Avaseso lobho, doso, moho – ime dhammā bhāvanāya pahātabbahetū. Tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā bhāvanāya pahātabbahetukā. ^1786
+1018. Katame dhammā bhāvanāya pahātabbahetukā? Avaseso lobho, doso, moho – ime dhammā bhāvanāya pahātabbahetū. Tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā bhāvanāya pahātabbahetukā.
 
-1019. Katame dhammā neva dassanena na bhāvanāya pahātabbahetukā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā neva dassanena na bhāvanāya pahātabbahetukā. ^1787
+1019. Katame dhammā neva dassanena na bhāvanāya pahātabbahetukā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā neva dassanena na bhāvanāya pahātabbahetukā.
 
-1020. Katame dhammā ācayagāmino? Sāsavā kusalākusalā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho…pe… viññāṇakkhandho – ime dhammā ācayagāmino. ^1788
+1020. Katame dhammā ācayagāmino? Sāsavā kusalākusalā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho…pe… viññāṇakkhandho – ime dhammā ācayagāmino.
 
-1021. Katame dhammā apacayagāmino? Cattāro maggā apariyāpannā – ime dhammā apacayagāmino. ^1789
+1021. Katame dhammā apacayagāmino? Cattāro maggā apariyāpannā – ime dhammā apacayagāmino.
 
-1022. Katame dhammā neva ācayagāmi na apacayagāmino? Kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā neva ācayagāmi na apacayagāmino. ^1790
+1022. Katame dhammā neva ācayagāmi na apacayagāmino? Kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā neva ācayagāmi na apacayagāmino.
 
-1023. Katame dhammā sekkhā? Cattāro maggā apariyāpannā, heṭṭhimāni ca tīṇi sāmaññaphalāni – ime dhammā sekkhā. ^1791
+1023. Katame dhammā sekkhā? Cattāro maggā apariyāpannā, heṭṭhimāni ca tīṇi sāmaññaphalāni – ime dhammā sekkhā.
 
-1024. Katame dhammā asekkhā? Upariṭṭhimaṃ arahattaphalaṃ – ime dhammā asekkhā. ^1792
+1024. Katame dhammā asekkhā? Upariṭṭhimaṃ arahattaphalaṃ – ime dhammā asekkhā.
 
-1025. Katame dhammā nevasekkhanāsekkhā? Te dhamme ṭhapetvā, avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā nevasekkhanāsekkhā. ^1793
+1025. Katame dhammā nevasekkhanāsekkhā? Te dhamme ṭhapetvā, avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā nevasekkhanāsekkhā.
 
-1026. Katame dhammā parittā? Sabbeva kāmāvacarā kusalākusalābyākatā dhammā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā parittā. ^1794
+1026. Katame dhammā parittā? Sabbeva kāmāvacarā kusalākusalābyākatā dhammā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā parittā.
 
-1027. Katame dhammā mahaggatā? Rūpāvacarā, arūpāvacarā, kusalābyākatā dhammā; vedanākkhandho…pe… viññāṇakkhandho – ime dhammā mahaggatā. ^1795
+1027. Katame dhammā mahaggatā? Rūpāvacarā, arūpāvacarā, kusalābyākatā dhammā; vedanākkhandho…pe… viññāṇakkhandho – ime dhammā mahaggatā.
 
-1028. Katame dhammā appamāṇā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā appamāṇā. ^1796
+1028. Katame dhammā appamāṇā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā appamāṇā.
 
-1029. Katame dhammā parittārammaṇā? Paritte dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā parittārammaṇā. ^1797
+1029. Katame dhammā parittārammaṇā? Paritte dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā parittārammaṇā.
 
-1030. Katame dhammā mahaggatārammaṇā? Mahaggate dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā mahaggatārammaṇā. ^1798
+1030. Katame dhammā mahaggatārammaṇā? Mahaggate dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā mahaggatārammaṇā.
 
-1031. Katame dhammā appamāṇārammaṇā? Appamāṇe dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā appamāṇārammaṇā. ^1799
+1031. Katame dhammā appamāṇārammaṇā? Appamāṇe dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā appamāṇārammaṇā.
 
-1032. Katame dhammā hīnā? Tīṇi akusalamūlāni – lobho, doso, moho; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā hīnā. ^1800
+1032. Katame dhammā hīnā? Tīṇi akusalamūlāni – lobho, doso, moho; tadekaṭṭhā ca kilesā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho; taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā hīnā.
 
-1033. Katame dhammā majjhimā? Sāsavā kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, rūpakkhandho…pe… viññāṇakkhandho – ime dhammā majjhimā. ^1801
+1033. Katame dhammā majjhimā? Sāsavā kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, rūpakkhandho…pe… viññāṇakkhandho – ime dhammā majjhimā.
 
-1034. Katame dhammā paṇītā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā paṇītā. ^1802
+1034. Katame dhammā paṇītā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā paṇītā.
 
-1035. Katame dhammā micchattaniyatā? Pañca kammāni ānantarikāni, yā ca micchādiṭṭhiniyatā – ime dhammā micchattaniyatā. ^1803
+1035. Katame dhammā micchattaniyatā? Pañca kammāni ānantarikāni, yā ca micchādiṭṭhiniyatā – ime dhammā micchattaniyatā.
 
-1036. Katame dhammā sammattaniyatā? Cattāro maggā apariyāpannā – ime dhammā sammattaniyatā. ^1804
+1036. Katame dhammā sammattaniyatā? Cattāro maggā apariyāpannā – ime dhammā sammattaniyatā.
 
-1037. Katame dhammā aniyatā? Te dhamme ṭhapetvā, avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā aniyatā. ^1805
+1037. Katame dhammā aniyatā? Te dhamme ṭhapetvā, avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā aniyatā.
 
-1038. Katame dhammā maggārammaṇā? Ariyamaggaṃ ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā maggārammaṇā. ^1806
+1038. Katame dhammā maggārammaṇā? Ariyamaggaṃ ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā maggārammaṇā.
 
-1039. Katame dhammā maggahetukā? Ariyamaggasamaṅgissa maggaṅgāni ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā maggahetukā. Ariyamaggasamaṅgissa sammādiṭṭhi maggo ceva hetu ca, sammādiṭṭhiṃ ṭhapetvā, taṃsampayutto vedanākkhandho… pe… viññāṇakkhandho – ime dhammā maggahetukā. Ariyamaggasamaṅgissa alobho, adoso, amoho – ime dhammā maggahetū. Taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā maggahetukā. ^1807
+1039. Katame dhammā maggahetukā? Ariyamaggasamaṅgissa maggaṅgāni ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā maggahetukā. Ariyamaggasamaṅgissa sammādiṭṭhi maggo ceva hetu ca, sammādiṭṭhiṃ ṭhapetvā, taṃsampayutto vedanākkhandho… pe… viññāṇakkhandho – ime dhammā maggahetukā. Ariyamaggasamaṅgissa alobho, adoso, amoho – ime dhammā maggahetū. Taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā maggahetukā.
 
-1040. Katame dhammā maggādhipatino? Ariyamaggaṃ adhipatiṃ karitvā ye uppajjanti cittacetasikā dhammā – ime dhammā maggādhipatino. Ariyamaggasamaṅgissa vīmaṃsādhipateyyaṃ maggaṃ bhāvayantassa vīmaṃsaṃ ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā maggādhipatino. ^1808
+1040. Katame dhammā maggādhipatino? Ariyamaggaṃ adhipatiṃ karitvā ye uppajjanti cittacetasikā dhammā – ime dhammā maggādhipatino. Ariyamaggasamaṅgissa vīmaṃsādhipateyyaṃ maggaṃ bhāvayantassa vīmaṃsaṃ ṭhapetvā; taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā maggādhipatino.
 
-1041. Katame dhammā uppannā? Ye dhammā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā uppannā samuppannā uṭṭhitā samuṭṭhitā uppannā uppannaṃsena saṅgahitā, rūpaṃ , vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā uppannā. ^1809
+1041. Katame dhammā uppannā? Ye dhammā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā uppannā samuppannā uṭṭhitā samuṭṭhitā uppannā uppannaṃsena saṅgahitā, rūpaṃ , vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā uppannā.
 
-1042. Katame dhammā anuppannā? Ye dhammā ajātā abhūtā asañjātā anibbattā anabhinibbattā apātubhūtā anuppannā asamuppannā anuṭṭhitā asamuṭṭhitā anuppannā anuppannaṃsena saṅgahitā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā anuppannā. ^1810
+1042. Katame dhammā anuppannā? Ye dhammā ajātā abhūtā asañjātā anibbattā anabhinibbattā apātubhūtā anuppannā asamuppannā anuṭṭhitā asamuṭṭhitā anuppannā anuppannaṃsena saṅgahitā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā anuppannā.
 
-1043. Katame dhammā uppādino? Kusalākusalānaṃ dhammānaṃ avipakkavipākānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; yañca rūpaṃ kammassa katattā uppajjissati – ime dhammā uppādino. ^1811
+1043. Katame dhammā uppādino? Kusalākusalānaṃ dhammānaṃ avipakkavipākānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; yañca rūpaṃ kammassa katattā uppajjissati – ime dhammā uppādino.
 
-1044. Katame dhammā atītā? Ye dhammā atītā niruddhā vigatā vipariṇatā atthaṅgatā abbhatthaṅgatā uppajjitvā vigatā atītā atītaṃsena saṅgahitā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā atītā. ^1812
+1044. Katame dhammā atītā? Ye dhammā atītā niruddhā vigatā vipariṇatā atthaṅgatā abbhatthaṅgatā uppajjitvā vigatā atītā atītaṃsena saṅgahitā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā atītā.
 
-1045. Katame dhammā anāgatā? Ye dhammā ajātā abhūtā asañjātā anibbattā anabhinibbattā apātubhūtā anuppannā asamuppannā anuṭṭhitā asamuṭṭhitā anāgatā anāgataṃsena saṅgahitā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā anāgatā. ^1813
+1045. Katame dhammā anāgatā? Ye dhammā ajātā abhūtā asañjātā anibbattā anabhinibbattā apātubhūtā anuppannā asamuppannā anuṭṭhitā asamuṭṭhitā anāgatā anāgataṃsena saṅgahitā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā anāgatā.
 
-1046. Katame dhammā paccuppannā? Ye dhammā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā uppannā samuppannā uṭṭhitā samuṭṭhitā paccuppannā paccuppannaṃsena saṅgahitā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā paccuppannā. ^1814
+1046. Katame dhammā paccuppannā? Ye dhammā jātā bhūtā sañjātā nibbattā abhinibbattā pātubhūtā uppannā samuppannā uṭṭhitā samuṭṭhitā paccuppannā paccuppannaṃsena saṅgahitā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā paccuppannā.
 
-1047. Katame dhammā atītārammaṇā? Atīte dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā atītārammaṇā. ^1815
+1047. Katame dhammā atītārammaṇā? Atīte dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā atītārammaṇā.
 
-1048. Katame dhammā anāgatārammaṇā? Anāgate dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā anāgatārammaṇā. ^1816
+1048. Katame dhammā anāgatārammaṇā? Anāgate dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā anāgatārammaṇā.
 
-1049. Katame dhammā paccuppannārammaṇā? Paccuppanne dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā paccuppannārammaṇā. ^1817
+1049. Katame dhammā paccuppannārammaṇā? Paccuppanne dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā paccuppannārammaṇā.
 
-1050. Katame dhammā ajjhattā? Ye dhammā tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyatā pāṭipuggalikā upādiṇṇā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā ajjhattā. ^1818
+1050. Katame dhammā ajjhattā? Ye dhammā tesaṃ tesaṃ sattānaṃ ajjhattaṃ paccattaṃ niyatā pāṭipuggalikā upādiṇṇā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā ajjhattā.
 
-1051. Katame dhammā bahiddhā? Ye dhammā tesaṃ tesaṃ parasattānaṃ parapuggalānaṃ ajjhattaṃ paccattaṃ niyatā pāṭipuggalikā upādiṇṇā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā bahiddhā. ^1819
+1051. Katame dhammā bahiddhā? Ye dhammā tesaṃ tesaṃ parasattānaṃ parapuggalānaṃ ajjhattaṃ paccattaṃ niyatā pāṭipuggalikā upādiṇṇā, rūpaṃ, vedanā, saññā, saṅkhārā, viññāṇaṃ – ime dhammā bahiddhā.
 
-1052. Katame dhammā ajjhattabahiddhā? Tadubhayaṃ – ime dhammā ajjhattabahiddhā. ^1820
+1052. Katame dhammā ajjhattabahiddhā? Tadubhayaṃ – ime dhammā ajjhattabahiddhā.
 
-1053. Katame dhammā ajjhattārammaṇā? Ajjhatte dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā ajjhattārammaṇā. ^1821
+1053. Katame dhammā ajjhattārammaṇā? Ajjhatte dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā ajjhattārammaṇā.
 
-1054. Katame dhammā bahiddhārammaṇā? Bahiddhā dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā bahiddhārammaṇā. ^1822
+1054. Katame dhammā bahiddhārammaṇā? Bahiddhā dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā bahiddhārammaṇā.
 
-1055. Katame dhammā ajjhattabahiddhārammaṇā? Ajjhattabahiddhā dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā ajjhattabahiddhārammaṇā. ^1823
+1055. Katame dhammā ajjhattabahiddhārammaṇā? Ajjhattabahiddhā dhamme ārabbha ye uppajjanti cittacetasikā dhammā – ime dhammā ajjhattabahiddhārammaṇā.
 
-1056. Katame dhammā sanidassanasappaṭighā? Rūpāyatanaṃ – ime dhammā sanidassanasappaṭighā. ^1824
+1056. Katame dhammā sanidassanasappaṭighā? Rūpāyatanaṃ – ime dhammā sanidassanasappaṭighā.
 
-1057. Katame dhammā anidassanasappaṭighā? Cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, saddāyatanaṃ, gandhāyatanaṃ, rasāyatanaṃ, phoṭṭhabbāyatanaṃ – ime dhammā anidassanasappaṭighā. ^1825
+1057. Katame dhammā anidassanasappaṭighā? Cakkhāyatanaṃ, sotāyatanaṃ, ghānāyatanaṃ, jivhāyatanaṃ, kāyāyatanaṃ, saddāyatanaṃ, gandhāyatanaṃ, rasāyatanaṃ, phoṭṭhabbāyatanaṃ – ime dhammā anidassanasappaṭighā.
 
-1058. Katame dhammā anidassanaappaṭighā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ; asaṅkhatā ca dhātu – ime dhammā anidassanaappaṭighā. ^1826
+1058. Katame dhammā anidassanaappaṭighā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho; yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ; asaṅkhatā ca dhātu – ime dhammā anidassanaappaṭighā.
 
-Tikaṃ. ^1827
+Tikaṃ.
 
-Dukanikkhepaṃ ^1828
+Dukanikkhepaṃ
 
-Hetugocchakaṃ ^1829
+Hetugocchakaṃ
 
-1059. Katame dhammā hetū? Tayo kusalahetū, tayo akusalahetū, tayo abyākatahetū, nava kāmāvacarahetū cha rūpāvacarahetū, cha arūpāvacarahetū, cha apariyāpannahetū. ^1830
+1059. Katame dhammā hetū? Tayo kusalahetū, tayo akusalahetū, tayo abyākatahetū, nava kāmāvacarahetū cha rūpāvacarahetū, cha arūpāvacarahetū, cha apariyāpannahetū.
 
-1060. Tattha katame tayo kusalahetū? Alobho, adoso, amoho. ^1831
+1060. Tattha katame tayo kusalahetū? Alobho, adoso, amoho.
 
-1061. Tattha katamo alobho? Yo alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ vuccati alobho. ^1832
+1061. Tattha katamo alobho? Yo alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ vuccati alobho.
 
-1062. Tattha katamo adoso? Yo adoso adussanā adussitattaṃ metti mettāyanā mettāyitattaṃ anuddā anuddāyanā anudāyitattaṃ hitesitā anukampā abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ vuccati adoso. ^1833
+1062. Tattha katamo adoso? Yo adoso adussanā adussitattaṃ metti mettāyanā mettāyitattaṃ anuddā anuddāyanā anudāyitattaṃ hitesitā anukampā abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ vuccati adoso.
 
-1063. Tattha katamo amoho? Dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ, pubbante ñāṇaṃ, aparante ñāṇaṃ, pubbantāparante ñāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu ñāṇaṃ, yā evarūpā paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati amoho. ^1834
+1063. Tattha katamo amoho? Dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ, pubbante ñāṇaṃ, aparante ñāṇaṃ, pubbantāparante ñāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu ñāṇaṃ, yā evarūpā paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati amoho.
 
-Ime tayo kusalahetū. ^1835
+Ime tayo kusalahetū.
 
-1064. Tattha katame tayo akusalahetū? Lobho, doso, moho. ^1836
+1064. Tattha katame tayo akusalahetū? Lobho, doso, moho.
 
-1065. Tattha katamo lobho? Yo rāgo sārāgo anunayo anurodho nandī nandīrāgo cittassa sārāgo icchā mucchā ajjhosānaṃ gedho paligedho saṅgo paṅko ejā māyā janikā sañjananī sibbinī jālinī saritā visattikā suttaṃ visaṭā āyūhinī dutiyā paṇidhi bhavanetti vanaṃ vanatho santhavo sineho apekkhā paṭibandhu āsā āsisanā āsisitattaṃ rūpāsā saddāsā gandhāsā rasāsā phoṭṭhabbāsā lābhāsā dhanāsā puttāsā jīvitāsā jappā pajappā abhijappā jappā jappanā jappitattaṃ loluppaṃ loluppāyanā loluppāyitattaṃ pucchañjikatā sādhukamyatā adhammarāgo visamalobho nikanti nikāmanā patthanā pihanā sampatthanā kāmataṇhā bhavataṇhā vibhavataṇhā rūpataṇhā arūpataṇhā nirodhataṇhā rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā ogho yogo gantho upādānaṃ āvaraṇaṃ nīvaraṇaṃ chādanaṃ bandhanaṃ upakkileso anusayo pariyuṭṭhānaṃ latā vevicchaṃ dukkhamūlaṃ dukkhanidānaṃ dukkhappabhavo mārapāso mārabaḷisaṃ māravisayo taṇhānadī taṇhājālaṃ taṇhāgaddulaṃ taṇhāsamuddo abhijjhā lobho akusalamūlaṃ – ayaṃ vuccati lobho. ^1837
+1065. Tattha katamo lobho? Yo rāgo sārāgo anunayo anurodho nandī nandīrāgo cittassa sārāgo icchā mucchā ajjhosānaṃ gedho paligedho saṅgo paṅko ejā māyā janikā sañjananī sibbinī jālinī saritā visattikā suttaṃ visaṭā āyūhinī dutiyā paṇidhi bhavanetti vanaṃ vanatho santhavo sineho apekkhā paṭibandhu āsā āsisanā āsisitattaṃ rūpāsā saddāsā gandhāsā rasāsā phoṭṭhabbāsā lābhāsā dhanāsā puttāsā jīvitāsā jappā pajappā abhijappā jappā jappanā jappitattaṃ loluppaṃ loluppāyanā loluppāyitattaṃ pucchañjikatā sādhukamyatā adhammarāgo visamalobho nikanti nikāmanā patthanā pihanā sampatthanā kāmataṇhā bhavataṇhā vibhavataṇhā rūpataṇhā arūpataṇhā nirodhataṇhā rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā ogho yogo gantho upādānaṃ āvaraṇaṃ nīvaraṇaṃ chādanaṃ bandhanaṃ upakkileso anusayo pariyuṭṭhānaṃ latā vevicchaṃ dukkhamūlaṃ dukkhanidānaṃ dukkhappabhavo mārapāso mārabaḷisaṃ māravisayo taṇhānadī taṇhājālaṃ taṇhāgaddulaṃ taṇhāsamuddo abhijjhā lobho akusalamūlaṃ – ayaṃ vuccati lobho.
 
-1066. Tattha katamo doso? Anatthaṃ me acarīti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati, anatthaṃ me carissatīti āghāto jāyati, piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati…pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ vuccati doso. ^1838
+1066. Tattha katamo doso? Anatthaṃ me acarīti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati, anatthaṃ me carissatīti āghāto jāyati, piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati…pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ vuccati doso.
 
-1067. Tattha katamo moho? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃ, yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – ayaṃ vuccati moho. ^1839
+1067. Tattha katamo moho? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃ, yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – ayaṃ vuccati moho.
 
-Ime tayo akusalahetū. ^1840
+Ime tayo akusalahetū.
 
-1068. Tattha katame tayo abyākatahetū? Kusalānaṃ vā dhammānaṃ vipākato kiriyābyākatesu vā dhammesu alobho adoso amoho – ime tayo abyākatahetū. ^1841
+1068. Tattha katame tayo abyākatahetū? Kusalānaṃ vā dhammānaṃ vipākato kiriyābyākatesu vā dhammesu alobho adoso amoho – ime tayo abyākatahetū.
 
-1069. Tattha katame nava kāmāvacarahetū? Tayo kusalahetū, tayo akusalahetū, tayo abyākatahetū – ime nava kāmāvacarahetū. ^1842
+1069. Tattha katame nava kāmāvacarahetū? Tayo kusalahetū, tayo akusalahetū, tayo abyākatahetū – ime nava kāmāvacarahetū.
 
-1070. Tattha katame cha rūpāvacarahetū? Tayo kusalahetū, tayo abyākatahetū – ime cha rūpāvacarahetū. ^1843
+1070. Tattha katame cha rūpāvacarahetū? Tayo kusalahetū, tayo abyākatahetū – ime cha rūpāvacarahetū.
 
-1071. Tattha katame cha arūpāvacarahetū? Tayo kusalahetū, tayo abyākatahetū – ime cha arūpāvacarahetū. ^1844
+1071. Tattha katame cha arūpāvacarahetū? Tayo kusalahetū, tayo abyākatahetū – ime cha arūpāvacarahetū.
 
-1072. Tattha katame cha apariyāpannahetū? Tayo kusalahetū, tayo abyākatahetū – ime cha apariyāpannahetū. ^1845
+1072. Tattha katame cha apariyāpannahetū? Tayo kusalahetū, tayo abyākatahetū – ime cha apariyāpannahetū.
 
-1073. Tattha katame tayo kusalahetū? Alobho, adoso, amoho. ^1846
+1073. Tattha katame tayo kusalahetū? Alobho, adoso, amoho.
 
-1074. Tattha katamo alobho? Yo alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ vuccati alobho. ^1847
+1074. Tattha katamo alobho? Yo alobho alubbhanā alubbhitattaṃ asārāgo asārajjanā asārajjitattaṃ anabhijjhā alobho kusalamūlaṃ – ayaṃ vuccati alobho.
 
-1075. Tattha katamo adoso? Yo adoso adussanā adussitattaṃ…pe… abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ vuccati adoso. ^1848
+1075. Tattha katamo adoso? Yo adoso adussanā adussitattaṃ…pe… abyāpādo abyāpajjo adoso kusalamūlaṃ – ayaṃ vuccati adoso.
 
-1076. Tattha katamo amoho? Dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ, pubbante ñāṇaṃ, aparante ñāṇaṃ, pubbantāparante ñāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu ñāṇaṃ, yā evarūpā paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati amoho. ^1849
+1076. Tattha katamo amoho? Dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ, pubbante ñāṇaṃ, aparante ñāṇaṃ, pubbantāparante ñāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu ñāṇaṃ, yā evarūpā paññā pajānanā vicayo pavicayo dhammavicayo sallakkhaṇā upalakkhaṇā paccupalakkhaṇā paṇḍiccaṃ kosallaṃ nepuññaṃ vebhabyā cintā upaparikkhā bhūrī medhā pariṇāyikā vipassanā sampajaññaṃ patodo paññā paññindriyaṃ paññābalaṃ paññāsatthaṃ paññāpāsādo paññāāloko paññāobhāso paññāpajjoto paññāratanaṃ amoho dhammavicayo sammādiṭṭhi dhammavicayasambojjhaṅgo maggaṅgaṃ maggapariyāpannaṃ – ayaṃ vuccati amoho.
 
-Ime tayo kusalahetū. ^1850
+Ime tayo kusalahetū.
 
-1077. Tattha katame tayo abyākatahetū? Kusalānaṃ dhammānaṃ vipākato alobho adoso amoho – ime tayo abyākatahetū. Ime cha apariyāpannahetū – ime dhammā hetū. ^1851
+1077. Tattha katame tayo abyākatahetū? Kusalānaṃ dhammānaṃ vipākato alobho adoso amoho – ime tayo abyākatahetū. Ime cha apariyāpannahetū – ime dhammā hetū.
 
-1078. Katame dhammā na hetū? Te dhamme ṭhapetvā, avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na hetū. ^1852
+1078. Katame dhammā na hetū? Te dhamme ṭhapetvā, avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na hetū.
 
-1079. Katame dhammā sahetukā? Tehi dhammehi ye dhammā sahetukā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā sahetukā. ^1853
+1079. Katame dhammā sahetukā? Tehi dhammehi ye dhammā sahetukā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā sahetukā.
 
-1080. Katame dhammā ahetukā? Tehi dhammehi ye dhammā ahetukā vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā ahetukā. ^1854
+1080. Katame dhammā ahetukā? Tehi dhammehi ye dhammā ahetukā vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā ahetukā.
 
-1081. Katame dhammā hetusampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā hetusampayuttā. ^1855
+1081. Katame dhammā hetusampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā hetusampayuttā.
 
-1082. Katame dhammā hetuvippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā hetuvippayuttā. ^1856
+1082. Katame dhammā hetuvippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā hetuvippayuttā.
 
-1083. Katame dhammā hetū ceva sahetukā ca? Lobho mohena hetu ceva sahetuko ca, moho lobhena hetu ceva sahetuko ca, doso mohena hetu ceva sahetuko ca, moho dosena hetu ceva sahetuko ca; alobho adoso amoho, te aññamaññaṃ hetū ceva sahetukā ca – ime dhammā hetū ceva sahetukā ca. ^1857
+1083. Katame dhammā hetū ceva sahetukā ca? Lobho mohena hetu ceva sahetuko ca, moho lobhena hetu ceva sahetuko ca, doso mohena hetu ceva sahetuko ca, moho dosena hetu ceva sahetuko ca; alobho adoso amoho, te aññamaññaṃ hetū ceva sahetukā ca – ime dhammā hetū ceva sahetukā ca.
 
-1084. Katame dhammā sahetukā ceva na ca hetū? Tehi dhammehi ye dhammā sahetukā te dhamme ṭhapetvā, vedanākkhandho…pe… viññāṇakkhandho – ime dhammā sahetukā ceva na ca hetū. ^1858
+1084. Katame dhammā sahetukā ceva na ca hetū? Tehi dhammehi ye dhammā sahetukā te dhamme ṭhapetvā, vedanākkhandho…pe… viññāṇakkhandho – ime dhammā sahetukā ceva na ca hetū.
 
-1085. Katame dhammā hetū ceva hetusampayuttā ca? Lobho mohena hetu ceva hetusampayutto ca, moho lobhena hetu ceva hetusampayutto ca, doso mohena hetu ceva hetusampayutto ca, moho dosena hetu ceva hetusampayutto ca; alobho adoso amoho, te aññamaññaṃ hetū ceva hetusampayuttā ca – ime dhammā hetū ceva hetusampayuttā ca. ^1859
+1085. Katame dhammā hetū ceva hetusampayuttā ca? Lobho mohena hetu ceva hetusampayutto ca, moho lobhena hetu ceva hetusampayutto ca, doso mohena hetu ceva hetusampayutto ca, moho dosena hetu ceva hetusampayutto ca; alobho adoso amoho, te aññamaññaṃ hetū ceva hetusampayuttā ca – ime dhammā hetū ceva hetusampayuttā ca.
 
-1086. Katame dhammā hetusampayuttā ceva na ca hetū? Tehi dhammehi ye dhammā sampayuttā te dhamme ṭhapetvā, vedanākkhandho…pe… viññāṇakkhandho – ime dhammā hetusampayuttā ceva na ca hetū. ^1860
+1086. Katame dhammā hetusampayuttā ceva na ca hetū? Tehi dhammehi ye dhammā sampayuttā te dhamme ṭhapetvā, vedanākkhandho…pe… viññāṇakkhandho – ime dhammā hetusampayuttā ceva na ca hetū.
 
-1087. Katame dhammā na hetū sahetukā? Tehi dhammehi ye dhammā na hetū sahetukā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā na hetū sahetukā. ^1861
+1087. Katame dhammā na hetū sahetukā? Tehi dhammehi ye dhammā na hetū sahetukā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā na hetū sahetukā.
 
-1088. Katame dhammā na hetū ahetukā? Tehi dhammehi ye dhammā na hetū ahetukā vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na hetū ahetukā. ^1862
+1088. Katame dhammā na hetū ahetukā? Tehi dhammehi ye dhammā na hetū ahetukā vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na hetū ahetukā.
 
-Cūḷantaradukaṃ ^1863
+Cūḷantaradukaṃ
 
-1089. Katame dhammā sappaccayā? Pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sappaccayā. ^1864
+1089. Katame dhammā sappaccayā? Pañcakkhandhā – rūpakkhandho, vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sappaccayā.
 
-1090. Katame dhammā appaccayā? Asaṅkhatā dhātu – ime dhammā appaccayā. ^1865
+1090. Katame dhammā appaccayā? Asaṅkhatā dhātu – ime dhammā appaccayā.
 
-1091. Katame dhammā saṅkhatā? Yeva te dhammā sappaccayā, teva te dhammā saṅkhatā. ^1866
+1091. Katame dhammā saṅkhatā? Yeva te dhammā sappaccayā, teva te dhammā saṅkhatā.
 
-1092. Katame dhammā asaṅkhatā? Yo eva so dhammo appaccayo, so eva so dhammo asaṅkhato. ^1867
+1092. Katame dhammā asaṅkhatā? Yo eva so dhammo appaccayo, so eva so dhammo asaṅkhato.
 
-1093. Katame dhammā sanidassanā? Rūpāyatanaṃ – ime dhammā sanidassanā. ^1868
+1093. Katame dhammā sanidassanā? Rūpāyatanaṃ – ime dhammā sanidassanā.
 
-1094. Katame dhammā anidassanā? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ, vedanākkhandho…pe… viññāṇakkhandho, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, asaṅkhatā ca dhātu – ime dhammā anidassanā. ^1869
+1094. Katame dhammā anidassanā? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ, vedanākkhandho…pe… viññāṇakkhandho, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, asaṅkhatā ca dhātu – ime dhammā anidassanā.
 
-1095. Katame dhammā sappaṭighā? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – ime dhammā sappaṭighā. ^1870
+1095. Katame dhammā sappaṭighā? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – ime dhammā sappaṭighā.
 
-1096. Katame dhammā appaṭighā? Vedanākkhandho…pe… viññāṇakkhandho, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, asaṅkhatā ca dhātu – ime dhammā appaṭighā. ^1871
+1096. Katame dhammā appaṭighā? Vedanākkhandho…pe… viññāṇakkhandho, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, asaṅkhatā ca dhātu – ime dhammā appaṭighā.
 
-1097. Katame dhammā rūpino? Cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāya rūpaṃ – ime dhammā rūpino. ^1872
+1097. Katame dhammā rūpino? Cattāro ca mahābhūtā catunnañca mahābhūtānaṃ upādāya rūpaṃ – ime dhammā rūpino.
 
-1098. Katame dhammā arūpino? Vedanākkhandho…pe… viññāṇakkhandho, asaṅkhatā ca dhātu – ime dhammā arūpino. ^1873
+1098. Katame dhammā arūpino? Vedanākkhandho…pe… viññāṇakkhandho, asaṅkhatā ca dhātu – ime dhammā arūpino.
 
-1099. Katame dhammā lokiyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, rūpakkhandho…pe… viññāṇakkhandho – ime dhammā lokiyā. ^1874
+1099. Katame dhammā lokiyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, rūpakkhandho…pe… viññāṇakkhandho – ime dhammā lokiyā.
 
-1100. Katame dhammā lokuttarā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā lokuttarā. ^1875
+1100. Katame dhammā lokuttarā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā lokuttarā.
 
-1101. Katame dhammā kenaci viññeyyā, kenaci na viññeyyā? Ye te dhammā cakkhuviññeyyā, na te dhammā sotaviññeyyā; ye vā pana te dhammā sotaviññeyyā, na te dhammā cakkhuviññeyyā. Ye te dhammā cakkhuviññeyyā, na te dhammā ghānaviññeyyā; ye vā pana te dhammā ghānaviññeyyā, na te dhammā cakkhuviññeyyā. Ye te dhammā cakkhuviññeyyā, na te dhammā jivhāviññeyyā; ye vā pana te dhammā jivhāviññeyyā, na te dhammā cakkhuviññeyyā. Ye te dhammā cakkhuviññeyyā, na te dhammā kāyaviññeyyā; ye vā pana te dhammā kāyaviññeyyā, na te dhammā cakkhuviññeyyā. Ye te dhammā sotaviññeyyā, na te dhammā ghānaviññeyyā; ye vā pana te dhammā ghānaviññeyyā, na te dhammā sotaviññeyyā. Ye te dhammā sotaviññeyyā, na te dhammā jivhāviññeyyā; ye vā pana te dhammā jivhāviññeyyā, na te dhammā sotaviññeyyā. Ye te dhammā sotaviññeyyā, na te dhammā kāyaviññeyyā; ye vā pana te dhammā kāyaviññeyyā na te dhammā sotaviññeyyā. Ye te dhammā sotaviññeyyā, na te dhammā cakkhuviññeyyā; ye vā pana te dhammā cakkhuviññeyyā, na te dhammā sotaviññeyyā. ^1876
+1101. Katame dhammā kenaci viññeyyā, kenaci na viññeyyā? Ye te dhammā cakkhuviññeyyā, na te dhammā sotaviññeyyā; ye vā pana te dhammā sotaviññeyyā, na te dhammā cakkhuviññeyyā. Ye te dhammā cakkhuviññeyyā, na te dhammā ghānaviññeyyā; ye vā pana te dhammā ghānaviññeyyā, na te dhammā cakkhuviññeyyā. Ye te dhammā cakkhuviññeyyā, na te dhammā jivhāviññeyyā; ye vā pana te dhammā jivhāviññeyyā, na te dhammā cakkhuviññeyyā. Ye te dhammā cakkhuviññeyyā, na te dhammā kāyaviññeyyā; ye vā pana te dhammā kāyaviññeyyā, na te dhammā cakkhuviññeyyā. Ye te dhammā sotaviññeyyā, na te dhammā ghānaviññeyyā; ye vā pana te dhammā ghānaviññeyyā, na te dhammā sotaviññeyyā. Ye te dhammā sotaviññeyyā, na te dhammā jivhāviññeyyā; ye vā pana te dhammā jivhāviññeyyā, na te dhammā sotaviññeyyā. Ye te dhammā sotaviññeyyā, na te dhammā kāyaviññeyyā; ye vā pana te dhammā kāyaviññeyyā na te dhammā sotaviññeyyā. Ye te dhammā sotaviññeyyā, na te dhammā cakkhuviññeyyā; ye vā pana te dhammā cakkhuviññeyyā, na te dhammā sotaviññeyyā.
 
-Ye te dhammā ghānaviññeyyā, na te dhammā jivhāviññeyyā; ye vā pana te dhammā jivhāviññeyyā, na te dhammā ghānaviññeyyā. Ye te dhammā ghānaviññeyyā, na te dhammā kāyaviññeyyā; ye vā pana te dhammā kāyaviññeyyā, na te dhammā ghānaviññeyyā. Ye te dhammā ghānaviññeyyā, na te dhammā cakkhuviññeyyā; ye vā pana te dhammā cakkhuviññeyyā, na te dhammā ghānaviññeyyā. Ye te dhammā ghānaviññeyyā, na te dhammā sotaviññeyyā; ye vā pana te dhammā sotaviññeyyā, na te dhammā ghānaviññeyyā. Ye te dhammā jivhāviññeyyā, na te dhammā kāyaviññeyyā; ye vā pana te dhammā kāyaviññeyyā, na te dhammā jivhāviññeyyā. Ye te dhammā jivhāviññeyyā, na te dhammā cakkhuviññeyyā; ye vā pana te dhammā cakkhuviññeyyā, na te dhammā jivhāviññeyyā. Ye te dhammā jivhāviññeyyā, na te dhammā sotaviññeyyā; ye vā pana te dhammā sotaviññeyyā, na te dhammā jivhāviññeyyā. Ye te dhammā jivhāviññeyyā, na te dhammā ghānaviññeyyā; ye vā pana te dhammā ghānaviññeyyā, na te dhammā jivhāviññeyyā. Ye te dhammā kāyaviññeyyā, na te dhammā cakkhuviññeyyā; ye vā pana te dhammā cakkhuviññeyyā, na te dhammā kāyaviññeyyā. Ye te dhammā kāyaviññeyyā, na te dhammā sotaviññeyyā; ye vā pana te dhammā sotaviññeyyā, na te dhammā kāyaviññeyyā. Ye te dhammā kāyaviññeyyā, na te dhammā ghānaviññeyyā; ye vā pana te dhammā ghānaviññeyyā, na te dhammā kāyaviññeyyā. Ye te dhammā kāyaviññeyyā, na te dhammā jivhāviññeyyā; ye vā pana te dhammā jivhāviññeyyā, na te dhammā kāyaviññeyyā. Ime dhammā kenaci viññeyyā kenaci na viññeyyā. ^1877
+Ye te dhammā ghānaviññeyyā, na te dhammā jivhāviññeyyā; ye vā pana te dhammā jivhāviññeyyā, na te dhammā ghānaviññeyyā. Ye te dhammā ghānaviññeyyā, na te dhammā kāyaviññeyyā; ye vā pana te dhammā kāyaviññeyyā, na te dhammā ghānaviññeyyā. Ye te dhammā ghānaviññeyyā, na te dhammā cakkhuviññeyyā; ye vā pana te dhammā cakkhuviññeyyā, na te dhammā ghānaviññeyyā. Ye te dhammā ghānaviññeyyā, na te dhammā sotaviññeyyā; ye vā pana te dhammā sotaviññeyyā, na te dhammā ghānaviññeyyā. Ye te dhammā jivhāviññeyyā, na te dhammā kāyaviññeyyā; ye vā pana te dhammā kāyaviññeyyā, na te dhammā jivhāviññeyyā. Ye te dhammā jivhāviññeyyā, na te dhammā cakkhuviññeyyā; ye vā pana te dhammā cakkhuviññeyyā, na te dhammā jivhāviññeyyā. Ye te dhammā jivhāviññeyyā, na te dhammā sotaviññeyyā; ye vā pana te dhammā sotaviññeyyā, na te dhammā jivhāviññeyyā. Ye te dhammā jivhāviññeyyā, na te dhammā ghānaviññeyyā; ye vā pana te dhammā ghānaviññeyyā, na te dhammā jivhāviññeyyā. Ye te dhammā kāyaviññeyyā, na te dhammā cakkhuviññeyyā; ye vā pana te dhammā cakkhuviññeyyā, na te dhammā kāyaviññeyyā. Ye te dhammā kāyaviññeyyā, na te dhammā sotaviññeyyā; ye vā pana te dhammā sotaviññeyyā, na te dhammā kāyaviññeyyā. Ye te dhammā kāyaviññeyyā, na te dhammā ghānaviññeyyā; ye vā pana te dhammā ghānaviññeyyā, na te dhammā kāyaviññeyyā. Ye te dhammā kāyaviññeyyā, na te dhammā jivhāviññeyyā; ye vā pana te dhammā jivhāviññeyyā, na te dhammā kāyaviññeyyā. Ime dhammā kenaci viññeyyā kenaci na viññeyyā.
 
-Āsavagocchakaṃ ^1878
+Āsavagocchakaṃ
 
-1102. Katame dhammā āsavā? Cattāro āsavā – kāmāsavo, bhavāsavo, diṭṭhāsavo, avijjāsavo. ^1879
+1102. Katame dhammā āsavā? Cattāro āsavā – kāmāsavo, bhavāsavo, diṭṭhāsavo, avijjāsavo.
 
-1103. Tattha katamo kāmāsavo? Yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – ayaṃ vuccati kāmāsavo. ^1880
+1103. Tattha katamo kāmāsavo? Yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – ayaṃ vuccati kāmāsavo.
 
-1104. Tattha katamo bhavāsavo? Yo bhavesu bhavachando bhavarāgo bhavanandī bhavataṇhā bhavasineho bhavapariḷāho bhavamucchā bhavajjhosānaṃ – ayaṃ vuccati bhavāsavo. ^1881
+1104. Tattha katamo bhavāsavo? Yo bhavesu bhavachando bhavarāgo bhavanandī bhavataṇhā bhavasineho bhavapariḷāho bhavamucchā bhavajjhosānaṃ – ayaṃ vuccati bhavāsavo.
 
-1105. Tattha katamo diṭṭhāsavo? Sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vā; yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho paṭiggāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati diṭṭhāsavo. Sabbāpi micchādiṭṭhi diṭṭhāsavo. ^1882
+1105. Tattha katamo diṭṭhāsavo? Sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vā; yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho paṭiggāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati diṭṭhāsavo. Sabbāpi micchādiṭṭhi diṭṭhāsavo.
 
-1106. Tattha katamo avijjāsavo? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃः yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – ayaṃ vuccati avijjāsavo. ^1883
+1106. Tattha katamo avijjāsavo? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃः yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – ayaṃ vuccati avijjāsavo.
 
-Ime dhammā āsavā. ^1884
+Ime dhammā āsavā.
 
-1107. Katame dhammā no āsavā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ asaṅkhatā ca dhātu – ime dhammā no āsavā. ^1885
+1107. Katame dhammā no āsavā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ asaṅkhatā ca dhātu – ime dhammā no āsavā.
 
-1108. Katame dhammā sāsavā? Kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā sāsavā. ^1886
+1108. Katame dhammā sāsavā? Kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā sāsavā.
 
-1109. Katame dhammā anāsavā? Apariyāpannā maggā ca maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anāsavā. ^1887
+1109. Katame dhammā anāsavā? Apariyāpannā maggā ca maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anāsavā.
 
-1110. Katame dhammā āsavasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā āsavasampayuttā. ^1888
+1110. Katame dhammā āsavasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā āsavasampayuttā.
 
-1111. Katame dhammā āsavavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā āsavavippayuttā. ^1889
+1111. Katame dhammā āsavavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā āsavavippayuttā.
 
-1112. Katame dhammā āsavā ceva sāsavā ca? Teyeva āsavā āsavā ceva sāsavā ca. ^1890
+1112. Katame dhammā āsavā ceva sāsavā ca? Teyeva āsavā āsavā ceva sāsavā ca.
 
-1113. Katame dhammā sāsavā ceva no ca āsavā? Tehi dhammehi ye dhammā sāsavā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā sāsavā ceva no ca āsavā. ^1891
+1113. Katame dhammā sāsavā ceva no ca āsavā? Tehi dhammehi ye dhammā sāsavā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā sāsavā ceva no ca āsavā.
 
-1114. Katame dhammā āsavā ceva āsavasampayuttā ca? Kāmāsavo avijjāsavena āsavo ceva āsavasampayutto ca, avijjāsavo kāmāsavena āsavo ceva āsavasampayutto ca, bhavāsavo avijjāsavena āsavo ceva āsavasampayutto ca, avijjāsavo bhavāsavena āsavo ceva āsavasampayutto ca, diṭṭhāsavo avijjāsavena āsavo ceva āsavasampayutto ca, avijjāsavo diṭṭhāsavena āsavo ceva āsavasampayutto ca – ime dhammā āsavā ceva āsavasampayuttā ca. ^1892
+1114. Katame dhammā āsavā ceva āsavasampayuttā ca? Kāmāsavo avijjāsavena āsavo ceva āsavasampayutto ca, avijjāsavo kāmāsavena āsavo ceva āsavasampayutto ca, bhavāsavo avijjāsavena āsavo ceva āsavasampayutto ca, avijjāsavo bhavāsavena āsavo ceva āsavasampayutto ca, diṭṭhāsavo avijjāsavena āsavo ceva āsavasampayutto ca, avijjāsavo diṭṭhāsavena āsavo ceva āsavasampayutto ca – ime dhammā āsavā ceva āsavasampayuttā ca.
 
-1115. Katame dhammā āsavasampayuttā ceva no ca āsavā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā āsavasampayuttā ceva no ca āsavā. ^1893
+1115. Katame dhammā āsavasampayuttā ceva no ca āsavā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā āsavasampayuttā ceva no ca āsavā.
 
-1116. Katame dhammā āsavavippayuttā sāsavā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, rūpakkhandho…pe… viññāṇakkhandho – ime dhammā āsavavippayuttā sāsavā. ^1894
+1116. Katame dhammā āsavavippayuttā sāsavā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, rūpakkhandho…pe… viññāṇakkhandho – ime dhammā āsavavippayuttā sāsavā.
 
-1117. Katame dhammā āsavavippayuttā anāsavā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā āsavavippayuttā anāsavā. ^1895
+1117. Katame dhammā āsavavippayuttā anāsavā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā āsavavippayuttā anāsavā.
 
-Nikkhepakaṇḍe paṭhamabhāṇavāro. ^1896
+Nikkhepakaṇḍe paṭhamabhāṇavāro.
 
-Saṃyojanagocchakaṃ ^1897
+Saṃyojanagocchakaṃ
 
-1118. Katame dhammā saṃyojanā? Dasa saṃyojanāni – kāmarāgasaṃyojanaṃ, paṭighasaṃyojanaṃ, mānasaṃyojanaṃ, diṭṭhisaṃyojanaṃ, vicikicchāsaṃyojanaṃ, sīlabbataparāmāsasaṃyojanaṃ, bhavarāgasaṃyojanaṃ, issāsaṃyojanaṃ, macchariyasaṃyojanaṃ, avijjāsaṃyojanaṃ. ^1898
+1118. Katame dhammā saṃyojanā? Dasa saṃyojanāni – kāmarāgasaṃyojanaṃ, paṭighasaṃyojanaṃ, mānasaṃyojanaṃ, diṭṭhisaṃyojanaṃ, vicikicchāsaṃyojanaṃ, sīlabbataparāmāsasaṃyojanaṃ, bhavarāgasaṃyojanaṃ, issāsaṃyojanaṃ, macchariyasaṃyojanaṃ, avijjāsaṃyojanaṃ.
 
-1119. Tattha katamaṃ kāmarāgasaṃyojanaṃ? Yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – idaṃ vuccati kāmarāgasaṃyojanaṃ. ^1899
+1119. Tattha katamaṃ kāmarāgasaṃyojanaṃ? Yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – idaṃ vuccati kāmarāgasaṃyojanaṃ.
 
-1120. Tattha katamaṃ paṭighasaṃyojanaṃ? Anatthaṃ me acarīti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati, anatthaṃ me carissatīti āghāto jāyati, piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati… pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – idaṃ vuccati paṭighasaṃyojanaṃ. ^1900
+1120. Tattha katamaṃ paṭighasaṃyojanaṃ? Anatthaṃ me acarīti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati, anatthaṃ me carissatīti āghāto jāyati, piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati… pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – idaṃ vuccati paṭighasaṃyojanaṃ.
 
-1121. Tattha katamaṃ mānasaṃyojanaṃ? Seyyohamasmīti māno, sadisohamasmīti māno, hīnohamasmīti māno. Yo evarūpo māno maññanā maññitattaṃ unnati unnamo dhajo sampaggāho ketukamyatā cittassa – idaṃ vuccati mānasaṃyojanaṃ. ^1901
+1121. Tattha katamaṃ mānasaṃyojanaṃ? Seyyohamasmīti māno, sadisohamasmīti māno, hīnohamasmīti māno. Yo evarūpo māno maññanā maññitattaṃ unnati unnamo dhajo sampaggāho ketukamyatā cittassa – idaṃ vuccati mānasaṃyojanaṃ.
 
-1122. Tattha katamaṃ diṭṭhisaṃyojanaṃ? Sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vā; yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho paṭiggāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati diṭṭhisaṃyojanaṃ. Ṭhapetvā sīlabbataparāmāsasaṃyojanaṃ sabbāpi micchādiṭṭhi diṭṭhisaṃyojanaṃ. ^1902
+1122. Tattha katamaṃ diṭṭhisaṃyojanaṃ? Sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vā; yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho paṭiggāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati diṭṭhisaṃyojanaṃ. Ṭhapetvā sīlabbataparāmāsasaṃyojanaṃ sabbāpi micchādiṭṭhi diṭṭhisaṃyojanaṃ.
 
-1123. Tattha katamaṃ vicikicchāsaṃyojanaṃ? Satthari kaṅkhati vicikicchati, dhamme kaṅkhati vicikicchati, saṅghe kaṅkhati vicikicchati, sikkhāya kaṅkhati vicikicchati, pubbante kaṅkhati vicikicchati, aparante kaṅkhati vicikicchati, pubbantāparante kaṅkhati vicikicchati, idappaccayatā paṭiccasamuppannesu dhammesu kaṅkhati vicikicchatiः yā evarūpā kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – idaṃ vuccati vicikicchāsaṃyojanaṃ. ^1903
+1123. Tattha katamaṃ vicikicchāsaṃyojanaṃ? Satthari kaṅkhati vicikicchati, dhamme kaṅkhati vicikicchati, saṅghe kaṅkhati vicikicchati, sikkhāya kaṅkhati vicikicchati, pubbante kaṅkhati vicikicchati, aparante kaṅkhati vicikicchati, pubbantāparante kaṅkhati vicikicchati, idappaccayatā paṭiccasamuppannesu dhammesu kaṅkhati vicikicchatiः yā evarūpā kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – idaṃ vuccati vicikicchāsaṃyojanaṃ.
 
-1124. Tattha katamaṃ sīlabbataparāmāsasaṃyojanaṃ? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi vatena suddhi sīlabbatena suddhīti; yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati sīlabbataparāmāsasaṃyojanaṃ. ^1904
+1124. Tattha katamaṃ sīlabbataparāmāsasaṃyojanaṃ? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi vatena suddhi sīlabbatena suddhīti; yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati sīlabbataparāmāsasaṃyojanaṃ.
 
-1125. Tattha katamaṃ bhavarāgasaṃyojanaṃ? Yo bhavesu bhavachando bhavarāgo bhavanandī bhavataṇhā bhavasineho bhavapariḷāho bhavamucchā bhavajjhosānaṃ – idaṃ vuccati bhavarāgasaṃyojanaṃ. ^1905
+1125. Tattha katamaṃ bhavarāgasaṃyojanaṃ? Yo bhavesu bhavachando bhavarāgo bhavanandī bhavataṇhā bhavasineho bhavapariḷāho bhavamucchā bhavajjhosānaṃ – idaṃ vuccati bhavarāgasaṃyojanaṃ.
 
-1126. Tattha katamaṃ issāsaṃyojanaṃ? Yā paralābhasakkāragarukāramānanavandanapūjanāsu issā issāyanā issāyitattaṃ usūyā usūyanā usūyitattaṃ – idaṃ vuccati issāsaṃyojanaṃ. ^1906
+1126. Tattha katamaṃ issāsaṃyojanaṃ? Yā paralābhasakkāragarukāramānanavandanapūjanāsu issā issāyanā issāyitattaṃ usūyā usūyanā usūyitattaṃ – idaṃ vuccati issāsaṃyojanaṃ.
 
-1127. Tattha katamaṃ macchariyasaṃyojanaṃ? Pañca macchariyāni – āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ. Yaṃ evarūpaṃ maccheraṃ maccharāyanā maccharāyitattaṃ vevicchaṃ kadariyaṃ kaṭukañcukatā aggahitattaṃ cittassa – idaṃ vuccati macchariyasaṃyojanaṃ. ^1907
+1127. Tattha katamaṃ macchariyasaṃyojanaṃ? Pañca macchariyāni – āvāsamacchariyaṃ, kulamacchariyaṃ, lābhamacchariyaṃ, vaṇṇamacchariyaṃ, dhammamacchariyaṃ. Yaṃ evarūpaṃ maccheraṃ maccharāyanā maccharāyitattaṃ vevicchaṃ kadariyaṃ kaṭukañcukatā aggahitattaṃ cittassa – idaṃ vuccati macchariyasaṃyojanaṃ.
 
-1128. Tattha katamaṃ avijjāsaṃyojanaṃ? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃः yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – idaṃ vuccati avijjāsaṃyojanaṃ. ^1908
+1128. Tattha katamaṃ avijjāsaṃyojanaṃ? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃः yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – idaṃ vuccati avijjāsaṃyojanaṃ.
 
-Ime dhammā saṃyojanā. ^1909
+Ime dhammā saṃyojanā.
 
-1129. Katame dhammā no saṃyojanā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no saṃyojanā. ^1910
+1129. Katame dhammā no saṃyojanā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no saṃyojanā.
 
-1130. Katame dhammā saṃyojaniyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojaniyā. ^1911
+1130. Katame dhammā saṃyojaniyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojaniyā.
 
-1131. Katame dhammā asaṃyojaniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā asaṃyojaniyā. ^1912
+1131. Katame dhammā asaṃyojaniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā asaṃyojaniyā.
 
-1132. Katame dhammā saṃyojanasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojanasampayuttā. ^1913
+1132. Katame dhammā saṃyojanasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojanasampayuttā.
 
-1133. Katame dhammā saṃyojanavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā saṃyojanavippayuttā. ^1914
+1133. Katame dhammā saṃyojanavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā saṃyojanavippayuttā.
 
-1134. Katame dhammā saṃyojanā ceva saṃyojaniyā ca? Tāneva saṃyojanāni saṃyojanā ceva saṃyojaniyā ca. ^1915
+1134. Katame dhammā saṃyojanā ceva saṃyojaniyā ca? Tāneva saṃyojanāni saṃyojanā ceva saṃyojaniyā ca.
 
-1135. Katame dhammā saṃyojaniyā ceva no ca saṃyojanā? Tehi dhammehi ye dhammā saṃyojaniyā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojaniyā ceva no ca saṃyojanā. ^1916
+1135. Katame dhammā saṃyojaniyā ceva no ca saṃyojanā? Tehi dhammehi ye dhammā saṃyojaniyā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojaniyā ceva no ca saṃyojanā.
 
-1136. Katame dhammā saṃyojanā ceva saṃyojanasampayuttā ca? Kāmarāgasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ kāmarāgasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, paṭighasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ paṭighasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, mānasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ mānasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, diṭṭhisaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ diṭṭhisaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, vicikicchāsaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ vicikicchāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, sīlabbataparāmāsasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ sīlabbataparāmāsasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, bhavarāgasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ bhavarāgasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, issāsaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ issāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, macchariyasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ macchariyasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca – ime dhammā saṃyojanā ceva saṃyojanasampayuttā ca. ^1917
+1136. Katame dhammā saṃyojanā ceva saṃyojanasampayuttā ca? Kāmarāgasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ kāmarāgasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, paṭighasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ paṭighasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, mānasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ mānasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, diṭṭhisaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ diṭṭhisaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, vicikicchāsaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ vicikicchāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, sīlabbataparāmāsasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ sīlabbataparāmāsasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, bhavarāgasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ bhavarāgasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, issāsaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ issāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, macchariyasaṃyojanaṃ avijjāsaṃyojanena saṃyojanañceva saṃyojanasampayuttañca, avijjāsaṃyojanaṃ macchariyasaṃyojanena saṃyojanañceva saṃyojanasampayuttañca – ime dhammā saṃyojanā ceva saṃyojanasampayuttā ca.
 
-1137. Katame dhammā saṃyojanasampayuttā ceva no ca saṃyojanā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojanasampayuttā ceva no ca saṃyojanā. ^1918
+1137. Katame dhammā saṃyojanasampayuttā ceva no ca saṃyojanā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojanasampayuttā ceva no ca saṃyojanā.
 
-1138. Katame dhammā saṃyojanavippayuttā saṃyojaniyā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojanavippayuttā saṃyojaniyā. ^1919
+1138. Katame dhammā saṃyojanavippayuttā saṃyojaniyā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃyojanavippayuttā saṃyojaniyā.
 
-1139. Katame dhammā saṃyojanavippayuttā asaṃyojaniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā saṃyojanavippayuttā asaṃyojaniyā. ^1920
+1139. Katame dhammā saṃyojanavippayuttā asaṃyojaniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā saṃyojanavippayuttā asaṃyojaniyā.
 
-Ganthagocchakaṃ ^1921
+Ganthagocchakaṃ
 
-1140. Katame dhammā ganthā? Cattāro ganthā – abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃ saccābhiniveso kāyagantho. ^1922
+1140. Katame dhammā ganthā? Cattāro ganthā – abhijjhā kāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃ saccābhiniveso kāyagantho.
 
-1141. Tattha katamo abhijjhā kāyagantho? Yo rāgo sārāgo anunayo anurodho nandī nandīrāgo cittassa sārāgo icchā mucchā ajjhosānaṃ gedho paligedho saṅgo paṅko ejā māyā janikā sañjananī sibbinī jālinī saritā visattikā suttaṃ visaṭā āyūhinī dutiyā paṇidhi bhavanetti vanaṃ vanatho santhavo sineho apekkhā paṭibandhu āsā āsisanā āsisitattaṃ rūpāsā saddāsā gandhāsā rasāsā phoṭṭhabbāsā lābhāsā dhanāsā puttāsā jīvitāsā jappā pajappā abhijappā jappā jappanā jappitattaṃ loluppaṃ loluppāyanā loluppāyitattaṃ pucchañjikatā sādhukamyatā adhammarāgo visamalobho nikanti nikāmanā patthanā pihanā sampatthanā kāmataṇhā bhavataṇhā vibhavataṇhā rūpataṇhā arūpataṇhā nirodhataṇhā rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā ogho yogo gantho upādānaṃ āvaraṇaṃ nīvaraṇaṃ chādanaṃ bandhanaṃ upakkileso anusayo pariyuṭṭhānaṃ latā vevicchaṃ dukkhamūlaṃ dukkhanidānaṃ dukkhappabhavo mārapāso mārabaḷisaṃ māravisayo taṇhānadī taṇhājālaṃ taṇhāgaddulaṃ taṇhāsamuddo abhijjhā lobho akusalamūlaṃ – ayaṃ vuccati abhijjhā kāyagantho. ^1923
+1141. Tattha katamo abhijjhā kāyagantho? Yo rāgo sārāgo anunayo anurodho nandī nandīrāgo cittassa sārāgo icchā mucchā ajjhosānaṃ gedho paligedho saṅgo paṅko ejā māyā janikā sañjananī sibbinī jālinī saritā visattikā suttaṃ visaṭā āyūhinī dutiyā paṇidhi bhavanetti vanaṃ vanatho santhavo sineho apekkhā paṭibandhu āsā āsisanā āsisitattaṃ rūpāsā saddāsā gandhāsā rasāsā phoṭṭhabbāsā lābhāsā dhanāsā puttāsā jīvitāsā jappā pajappā abhijappā jappā jappanā jappitattaṃ loluppaṃ loluppāyanā loluppāyitattaṃ pucchañjikatā sādhukamyatā adhammarāgo visamalobho nikanti nikāmanā patthanā pihanā sampatthanā kāmataṇhā bhavataṇhā vibhavataṇhā rūpataṇhā arūpataṇhā nirodhataṇhā rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā ogho yogo gantho upādānaṃ āvaraṇaṃ nīvaraṇaṃ chādanaṃ bandhanaṃ upakkileso anusayo pariyuṭṭhānaṃ latā vevicchaṃ dukkhamūlaṃ dukkhanidānaṃ dukkhappabhavo mārapāso mārabaḷisaṃ māravisayo taṇhānadī taṇhājālaṃ taṇhāgaddulaṃ taṇhāsamuddo abhijjhā lobho akusalamūlaṃ – ayaṃ vuccati abhijjhā kāyagantho.
 
-1142. Tattha katamo byāpādo kāyagantho? Anatthaṃ me acarī ti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati, anatthaṃ me carissatīti āghāto jāyati, piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati… pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ vuccati byāpādo kāyagantho. ^1924
+1142. Tattha katamo byāpādo kāyagantho? Anatthaṃ me acarī ti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati, anatthaṃ me carissatīti āghāto jāyati, piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati… pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ vuccati byāpādo kāyagantho.
 
-1143. Tattha katamo sīlabbataparāmāso kāyagantho? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi, vatena suddhi, sīlabbatena suddhītiः yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati sīlabbataparāmāso kāyagantho. ^1925
+1143. Tattha katamo sīlabbataparāmāso kāyagantho? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi, vatena suddhi, sīlabbatena suddhītiः yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati sīlabbataparāmāso kāyagantho.
 
-1144. Tattha katamo idaṃsaccābhiniveso kāyagantho? Sassato loko, idameva saccaṃ moghamaññanti vā; asassato loko, idameva saccaṃ moghamaññanti vā; antavā loko, idameva saccaṃ moghamaññanti vā; anantavā loko, idameva saccaṃ moghamaññanti vā; taṃ jīvaṃ taṃ sarīraṃ, idameva saccaṃ moghamaññanti vā; aññaṃ jīvaṃ aññaṃ sarīraṃ, idameva saccaṃ moghamaññanti vā; hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti vā; na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti vā; hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti vā; neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti vāः yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati idaṃsaccābhiniveso kāyagantho. Ṭhapetvā sīlabbataparāmāsaṃ kāyaganthaṃ sabbāpi micchādiṭṭhi idaṃsaccābhiniveso kāyagantho. ^1926
+1144. Tattha katamo idaṃsaccābhiniveso kāyagantho? Sassato loko, idameva saccaṃ moghamaññanti vā; asassato loko, idameva saccaṃ moghamaññanti vā; antavā loko, idameva saccaṃ moghamaññanti vā; anantavā loko, idameva saccaṃ moghamaññanti vā; taṃ jīvaṃ taṃ sarīraṃ, idameva saccaṃ moghamaññanti vā; aññaṃ jīvaṃ aññaṃ sarīraṃ, idameva saccaṃ moghamaññanti vā; hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti vā; na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti vā; hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti vā; neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti vāः yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati idaṃsaccābhiniveso kāyagantho. Ṭhapetvā sīlabbataparāmāsaṃ kāyaganthaṃ sabbāpi micchādiṭṭhi idaṃsaccābhiniveso kāyagantho.
 
-Ime dhammā ganthā. ^1927
+Ime dhammā ganthā.
 
-1145. Katame dhammā no ganthā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no ganthā. ^1928
+1145. Katame dhammā no ganthā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no ganthā.
 
-1146. Katame dhammā ganthaniyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā ganthaniyā. ^1929
+1146. Katame dhammā ganthaniyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā ganthaniyā.
 
-1147. Katame dhammā aganthaniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā aganthaniyā. ^1930
+1147. Katame dhammā aganthaniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā aganthaniyā.
 
-1148. Katame dhammā ganthasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā ganthasampayuttā. ^1931
+1148. Katame dhammā ganthasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā ganthasampayuttā.
 
-1149. Katame dhammā ganthavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ asaṅkhatā ca dhātu – ime dhammā ganthavippayuttā. ^1932
+1149. Katame dhammā ganthavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ asaṅkhatā ca dhātu – ime dhammā ganthavippayuttā.
 
-1150. Katame dhammā ganthā ceva ganthaniyā ca? Teva ganthā ganthā ceva ganthaniyā ca. ^1933
+1150. Katame dhammā ganthā ceva ganthaniyā ca? Teva ganthā ganthā ceva ganthaniyā ca.
 
-1151. Katame dhammā ganthaniyā ceva no ca ganthā? Tehi dhammehi ye dhammā ganthaniyā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā ganthaniyā ceva no ca ganthā. ^1934
+1151. Katame dhammā ganthaniyā ceva no ca ganthā? Tehi dhammehi ye dhammā ganthaniyā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā ganthaniyā ceva no ca ganthā.
 
-1152. Katame dhammā ganthā ceva ganthasampayuttā ca? Sīlabbataparāmāso kāyagantho abhijjhākāyaganthena gantho ceva ganthasampayutto ca, abhijjhākāyagantho sīlabbataparāmāsena kāyaganthena gantho ceva ganthasampayutto ca, idaṃsaccābhiniveso kāyagantho abhijjhākāyaganthena gantho ceva ganthasampayutto ca, abhijjhākāyagantho idaṃsaccābhinivesena kāyaganthena gantho ceva ganthasampayutto ca – ime dhammā ganthā ceva ganthasampayuttā ca. ^1935
+1152. Katame dhammā ganthā ceva ganthasampayuttā ca? Sīlabbataparāmāso kāyagantho abhijjhākāyaganthena gantho ceva ganthasampayutto ca, abhijjhākāyagantho sīlabbataparāmāsena kāyaganthena gantho ceva ganthasampayutto ca, idaṃsaccābhiniveso kāyagantho abhijjhākāyaganthena gantho ceva ganthasampayutto ca, abhijjhākāyagantho idaṃsaccābhinivesena kāyaganthena gantho ceva ganthasampayutto ca – ime dhammā ganthā ceva ganthasampayuttā ca.
 
-1153. Katame dhammā ganthasampayuttā ceva no ca ganthā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā ganthasampayuttā ceva no ca ganthā. ^1936
+1153. Katame dhammā ganthasampayuttā ceva no ca ganthā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā ganthasampayuttā ceva no ca ganthā.
 
-1154. Katame dhammā ganthavippayuttā ganthaniyā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā ganthavippayuttā ganthaniyā. ^1937
+1154. Katame dhammā ganthavippayuttā ganthaniyā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā ganthavippayuttā ganthaniyā.
 
-1155. Katame dhammā ganthavippayuttā aganthaniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā ganthavippayuttā aganthaniyā. ^1938
+1155. Katame dhammā ganthavippayuttā aganthaniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā ganthavippayuttā aganthaniyā.
 
-Oghagocchakaṃ ^1939
+Oghagocchakaṃ
 
-1156. Katame dhammā oghā? Cattāro oghā…pe… ime dhammā oghavippayuttā oghaniyā. ^1940
+1156. Katame dhammā oghā? Cattāro oghā…pe… ime dhammā oghavippayuttā oghaniyā.
 
-Yogagocchakaṃ ^1941
+Yogagocchakaṃ
 
-1157. Katame dhammā yogā? Cattāro yogā…pe… ime dhammā yogavippayuttā yoganiyā. ^1942
+1157. Katame dhammā yogā? Cattāro yogā…pe… ime dhammā yogavippayuttā yoganiyā.
 
-Nīvaraṇagocchakaṃ ^1943
+Nīvaraṇagocchakaṃ
 
-1158. Katame dhammā nīvaraṇā? Cha nīvaraṇā – kāmacchandanīvaraṇaṃ, byāpādanīvaraṇaṃ, thinamiddhanīvaraṇaṃ, uddhaccakukkuccanīvaraṇaṃ, vicikicchānīvaraṇaṃ, avijjānīvaraṇaṃ. ^1944
+1158. Katame dhammā nīvaraṇā? Cha nīvaraṇā – kāmacchandanīvaraṇaṃ, byāpādanīvaraṇaṃ, thinamiddhanīvaraṇaṃ, uddhaccakukkuccanīvaraṇaṃ, vicikicchānīvaraṇaṃ, avijjānīvaraṇaṃ.
 
-1159. Tattha katamaṃ kāmacchandanīvaraṇaṃ? Yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – idaṃ vuccati kāmacchandanīvaraṇaṃ. ^1945
+1159. Tattha katamaṃ kāmacchandanīvaraṇaṃ? Yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – idaṃ vuccati kāmacchandanīvaraṇaṃ.
 
-1160. Tattha katamaṃ byāpādanīvaraṇaṃ? Anatthaṃ me acarīti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati; anatthaṃ me carissatīti āghāto jāyati; piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati… pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – idaṃ vuccati byāpādanīvaraṇaṃ. ^1946
+1160. Tattha katamaṃ byāpādanīvaraṇaṃ? Anatthaṃ me acarīti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati; anatthaṃ me carissatīti āghāto jāyati; piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati… pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – idaṃ vuccati byāpādanīvaraṇaṃ.
 
-1161. Tattha katamaṃ thinamiddhanīvaraṇaṃ? Atthi thinaṃ, atthi middhaṃ. ^1947
+1161. Tattha katamaṃ thinamiddhanīvaraṇaṃ? Atthi thinaṃ, atthi middhaṃ.
 
-1162. Tattha katamaṃ thinaṃ? Yā cittassa akallatā akammaññatā olīyanā sallīyanā līnaṃ līyanā līyitattaṃ thinaṃ thiyanā thiyitattaṃ cittassa – idaṃ vuccati thinaṃ. ^1948
+1162. Tattha katamaṃ thinaṃ? Yā cittassa akallatā akammaññatā olīyanā sallīyanā līnaṃ līyanā līyitattaṃ thinaṃ thiyanā thiyitattaṃ cittassa – idaṃ vuccati thinaṃ.
 
-1163. Tattha katamaṃ middhaṃ? Yā kāyassa akallatā akammaññatā onāho pariyonāho antosamorodho middhaṃ soppaṃ pacalāyikā soppaṃ supanā supitattaṃ – idaṃ vuccati middhaṃ. Iti idañca thinaṃ, idañca middhaṃ – idaṃ vuccati thinamiddhanīvaraṇaṃ. ^1949
+1163. Tattha katamaṃ middhaṃ? Yā kāyassa akallatā akammaññatā onāho pariyonāho antosamorodho middhaṃ soppaṃ pacalāyikā soppaṃ supanā supitattaṃ – idaṃ vuccati middhaṃ. Iti idañca thinaṃ, idañca middhaṃ – idaṃ vuccati thinamiddhanīvaraṇaṃ.
 
-1164. Tattha katamaṃ uddhaccakukkuccanīvaraṇaṃ? Atthi uddhaccaṃ, atthi kukkuccaṃ. ^1950
+1164. Tattha katamaṃ uddhaccakukkuccanīvaraṇaṃ? Atthi uddhaccaṃ, atthi kukkuccaṃ.
 
-1165. Tattha katamaṃ uddhaccaṃ? Yaṃ cittassa uddhaccaṃ avūpasamo cetaso vikkhepo bhantattaṃ cittassa – idaṃ vuccati uddhaccaṃ. ^1951
+1165. Tattha katamaṃ uddhaccaṃ? Yaṃ cittassa uddhaccaṃ avūpasamo cetaso vikkhepo bhantattaṃ cittassa – idaṃ vuccati uddhaccaṃ.
 
-1166. Tattha katamaṃ kukkuccaṃ? Akappiye kappiyasaññitā, kappiye akappiyasaññitā, avajje vajjasaññitā, vajje avajjasaññitā. Yaṃ evarūpaṃ kukkuccaṃ kukkuccāyanā kukkuccāyitattaṃ cetaso vippaṭisāro manovilekho – idaṃ vuccati kukkuccaṃ. Iti idañca uddhaccaṃ, idañca kukkuccaṃ – idaṃ vuccati uddhaccakukkuccanīvaraṇaṃ. ^1952
+1166. Tattha katamaṃ kukkuccaṃ? Akappiye kappiyasaññitā, kappiye akappiyasaññitā, avajje vajjasaññitā, vajje avajjasaññitā. Yaṃ evarūpaṃ kukkuccaṃ kukkuccāyanā kukkuccāyitattaṃ cetaso vippaṭisāro manovilekho – idaṃ vuccati kukkuccaṃ. Iti idañca uddhaccaṃ, idañca kukkuccaṃ – idaṃ vuccati uddhaccakukkuccanīvaraṇaṃ.
 
-1167. Tattha katamaṃ vicikicchānīvaraṇaṃ? Satthari kaṅkhati vicikicchati, dhamme kaṅkhati vicikicchati, saṅghe kaṅkhati vicikicchati, sikkhāya kaṅkhati vicikicchati, pubbante kaṅkhati vicikicchati, aparante kaṅkhati vicikicchati, pubbantāparante kaṅkhati vicikicchati, idappaccayatā paṭiccasamuppannesu dhammesu kaṅkhati vicikicchati. Yā evarūpā kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – idaṃ vuccati vicikicchānīvaraṇaṃ. ^1953
+1167. Tattha katamaṃ vicikicchānīvaraṇaṃ? Satthari kaṅkhati vicikicchati, dhamme kaṅkhati vicikicchati, saṅghe kaṅkhati vicikicchati, sikkhāya kaṅkhati vicikicchati, pubbante kaṅkhati vicikicchati, aparante kaṅkhati vicikicchati, pubbantāparante kaṅkhati vicikicchati, idappaccayatā paṭiccasamuppannesu dhammesu kaṅkhati vicikicchati. Yā evarūpā kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – idaṃ vuccati vicikicchānīvaraṇaṃ.
 
-1168. Tattha katamaṃ avijjānīvaraṇaṃ? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃः yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – idaṃ vuccati avijjānīvaraṇaṃ. ^1954
+1168. Tattha katamaṃ avijjānīvaraṇaṃ? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃः yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – idaṃ vuccati avijjānīvaraṇaṃ.
 
-Ime dhammā nīvaraṇā. ^1955
+Ime dhammā nīvaraṇā.
 
-1169. Katame dhammā no nīvaraṇā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no nīvaraṇā. ^1956
+1169. Katame dhammā no nīvaraṇā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no nīvaraṇā.
 
-1170. Katame dhammā nīvaraṇiyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇiyā. ^1957
+1170. Katame dhammā nīvaraṇiyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇiyā.
 
-1171. Katame dhammā anīvaraṇiyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anīvaraṇiyā. ^1958
+1171. Katame dhammā anīvaraṇiyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anīvaraṇiyā.
 
-1172. Katame dhammā nīvaraṇasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇasampayuttā. ^1959
+1172. Katame dhammā nīvaraṇasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇasampayuttā.
 
-1173. Katame dhammā nīvaraṇavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā nīvaraṇavippayuttā. ^1960
+1173. Katame dhammā nīvaraṇavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā nīvaraṇavippayuttā.
 
-1174. Katame dhammā nīvaraṇā ceva nīvaraṇiyā ca? Tāneva nīvaraṇāni nīvaraṇā ceva nīvaraṇiyā ca. ^1961
+1174. Katame dhammā nīvaraṇā ceva nīvaraṇiyā ca? Tāneva nīvaraṇāni nīvaraṇā ceva nīvaraṇiyā ca.
 
-1175. Katame dhammā nīvaraṇiyā ceva no ca nīvaraṇā? Tehi dhammehi ye dhammā nīvaraṇiyā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇiyā ceva no ca nīvaraṇā. ^1962
+1175. Katame dhammā nīvaraṇiyā ceva no ca nīvaraṇā? Tehi dhammehi ye dhammā nīvaraṇiyā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇiyā ceva no ca nīvaraṇā.
 
-1176. Katame dhammā nīvaraṇā ceva nīvaraṇasampayuttā ca? Kāmacchandanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ kāmacchandanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, byāpādanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ byāpādanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, thinamiddhanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ thinamiddhanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, kukkuccanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ kukkuccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, vicikicchānīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ vicikicchānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, kāmacchandanīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ kāmacchandanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, byāpādanīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ byāpādanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, thinamiddhanīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ thinamiddhanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, kukkuccanīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ kukkuccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, vicikicchānīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ vicikicchānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca – ime dhammā nīvaraṇā ceva nīvaraṇasampayuttā ca. ^1963
+1176. Katame dhammā nīvaraṇā ceva nīvaraṇasampayuttā ca? Kāmacchandanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ kāmacchandanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, byāpādanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ byāpādanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, thinamiddhanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ thinamiddhanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, kukkuccanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ kukkuccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, vicikicchānīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ vicikicchānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, kāmacchandanīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ kāmacchandanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, byāpādanīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ byāpādanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, thinamiddhanīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ thinamiddhanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, kukkuccanīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ kukkuccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, vicikicchānīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ vicikicchānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, avijjānīvaraṇaṃ uddhaccanīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca, uddhaccanīvaraṇaṃ avijjānīvaraṇena nīvaraṇañceva nīvaraṇasampayuttañca – ime dhammā nīvaraṇā ceva nīvaraṇasampayuttā ca.
 
-1177. Katame dhammā nīvaraṇasampayuttā ceva no ca nīvaraṇā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇasampayuttā ceva no ca nīvaraṇā. ^1964
+1177. Katame dhammā nīvaraṇasampayuttā ceva no ca nīvaraṇā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇasampayuttā ceva no ca nīvaraṇā.
 
-1178. Katame dhammā nīvaraṇavippayuttā nīvaraṇiyā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇavippayuttā nīvaraṇiyā. ^1965
+1178. Katame dhammā nīvaraṇavippayuttā nīvaraṇiyā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā nīvaraṇavippayuttā nīvaraṇiyā.
 
-1179. Katame dhammā nīvaraṇavippayuttā anīvaraṇiyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā nīvaraṇavippayuttā anīvaraṇiyā. ^1966
+1179. Katame dhammā nīvaraṇavippayuttā anīvaraṇiyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā nīvaraṇavippayuttā anīvaraṇiyā.
 
-Parāmāsagocchakaṃ ^1967
+Parāmāsagocchakaṃ
 
-1180. Katame dhammā parāmāsā? Diṭṭhiparāmāso. ^1968
+1180. Katame dhammā parāmāsā? Diṭṭhiparāmāso.
 
-1181. Tattha katamo diṭṭhiparāmāso? Sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vāः yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati diṭṭhiparāmāso. Sabbāpi micchādiṭṭhi diṭṭhiparāmāso. ^1969
+1181. Tattha katamo diṭṭhiparāmāso? Sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vāः yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati diṭṭhiparāmāso. Sabbāpi micchādiṭṭhi diṭṭhiparāmāso.
 
-Ime dhammā parāmāsā. ^1970
+Ime dhammā parāmāsā.
 
-1182. Katame dhammā no parāmāsā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no parāmāsā. ^1971
+1182. Katame dhammā no parāmāsā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no parāmāsā.
 
-1183. Katame dhammā parāmaṭṭhā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā parāmaṭṭhā. ^1972
+1183. Katame dhammā parāmaṭṭhā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā parāmaṭṭhā.
 
-1184. Katame dhammā aparāmaṭṭhā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā aparāmaṭṭhā. ^1973
+1184. Katame dhammā aparāmaṭṭhā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā aparāmaṭṭhā.
 
-1185. Katame dhammā parāmāsasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā parāmāsasampayuttā. ^1974
+1185. Katame dhammā parāmāsasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā parāmāsasampayuttā.
 
-1186. Katame dhammā parāmāsavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā parāmāsavippayuttā. ^1975
+1186. Katame dhammā parāmāsavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā parāmāsavippayuttā.
 
-1187. Katame dhammā parāmāsā ceva parāmaṭṭhā ca? Sveva parāmāso parāmāso ceva parāmaṭṭho ca. ^1976
+1187. Katame dhammā parāmāsā ceva parāmaṭṭhā ca? Sveva parāmāso parāmāso ceva parāmaṭṭho ca.
 
-1188. Katame dhammā parāmaṭṭhā ceva no ca parāmāsā? Tehi dhammehi ye dhammā parāmaṭṭhā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā parāmaṭṭhā ceva no ca parāmāsā. ^1977
+1188. Katame dhammā parāmaṭṭhā ceva no ca parāmāsā? Tehi dhammehi ye dhammā parāmaṭṭhā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā parāmaṭṭhā ceva no ca parāmāsā.
 
-1189. Katame dhammā parāmāsavippayuttā parāmaṭṭhā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā parāmāsavippayuttā parāmaṭṭhā. ^1978
+1189. Katame dhammā parāmāsavippayuttā parāmaṭṭhā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā parāmāsavippayuttā parāmaṭṭhā.
 
-1190. Katame dhammā parāmāsavippayuttā aparāmaṭṭhā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā parāmāsavippayuttā aparāmaṭṭhā. ^1979
+1190. Katame dhammā parāmāsavippayuttā aparāmaṭṭhā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā parāmāsavippayuttā aparāmaṭṭhā.
 
-Mahantaradukaṃ ^1980
+Mahantaradukaṃ
 
-1191. Katame dhammā sārammaṇā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sārammaṇā. ^1981
+1191. Katame dhammā sārammaṇā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sārammaṇā.
 
-1192. Katame dhammā anārammaṇā? Sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā anārammaṇā. ^1982
+1192. Katame dhammā anārammaṇā? Sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā anārammaṇā.
 
-1193. Katame dhammā cittā? Cakkhuviññāṇaṃ, sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, kāyaviññāṇaṃ, manodhātu, manoviññāṇadhātu – ime dhammā cittā. ^1983
+1193. Katame dhammā cittā? Cakkhuviññāṇaṃ, sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, kāyaviññāṇaṃ, manodhātu, manoviññāṇadhātu – ime dhammā cittā.
 
-1194. Katame dhammā no cittā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittā. ^1984
+1194. Katame dhammā no cittā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittā.
 
-1195. Katame dhammā cetasikā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cetasikā. ^1985
+1195. Katame dhammā cetasikā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cetasikā.
 
-1196. Katame dhammā acetasikā? Cittañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā acetasikā. ^1986
+1196. Katame dhammā acetasikā? Cittañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā acetasikā.
 
-1197. Katame dhammā cittasampayuttā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasampayuttā. ^1987
+1197. Katame dhammā cittasampayuttā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasampayuttā.
 
-1198. Katame dhammā cittavippayuttā? Sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā cittavippayuttā. Cittaṃ na vattabbaṃ – cittena sampayuttantipi, cittena vippayuttantipi. ^1988
+1198. Katame dhammā cittavippayuttā? Sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā cittavippayuttā. Cittaṃ na vattabbaṃ – cittena sampayuttantipi, cittena vippayuttantipi.
 
-1199. Katame dhammā cittasaṃsaṭṭhā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhā. ^1989
+1199. Katame dhammā cittasaṃsaṭṭhā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhā.
 
-1200. Katame dhammā cittavisaṃsaṭṭhā? Sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā cittavisaṃsaṭṭhā. Cittaṃ na vattabbaṃ – cittena saṃsaṭṭhantipi, cittena visaṃsaṭṭhantipi. ^1990
+1200. Katame dhammā cittavisaṃsaṭṭhā? Sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā cittavisaṃsaṭṭhā. Cittaṃ na vattabbaṃ – cittena saṃsaṭṭhantipi, cittena visaṃsaṭṭhantipi.
 
-1201. Katame dhammā cittasamuṭṭhānā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho; kāyaviññatti vacīviññatti; yaṃ vā panaññampi atthi rūpaṃ cittajaṃ cittahetukaṃ cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – ime dhammā cittasamuṭṭhānā. ^1991
+1201. Katame dhammā cittasamuṭṭhānā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho; kāyaviññatti vacīviññatti; yaṃ vā panaññampi atthi rūpaṃ cittajaṃ cittahetukaṃ cittasamuṭṭhānaṃ rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – ime dhammā cittasamuṭṭhānā.
 
-1202. Katame dhammā no cittasamuṭṭhānā? Cittañca, avasesañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasamuṭṭhānā. ^1992
+1202. Katame dhammā no cittasamuṭṭhānā? Cittañca, avasesañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasamuṭṭhānā.
 
-1203. Katame dhammā cittasahabhuno? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti – ime dhammā cittasahabhuno. ^1993
+1203. Katame dhammā cittasahabhuno? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti – ime dhammā cittasahabhuno.
 
-1204. Katame dhammā no cittasahabhuno? Cittañca, avasesañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasahabhuno. ^1994
+1204. Katame dhammā no cittasahabhuno? Cittañca, avasesañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasahabhuno.
 
-1205. Katame dhammā cittānuparivattino? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti – ime dhammā cittānuparivattino. ^1995
+1205. Katame dhammā cittānuparivattino? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti – ime dhammā cittānuparivattino.
 
-1206. Katame dhammā no cittānuparivattino? Cittañca, avasesañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittānuparivattino. ^1996
+1206. Katame dhammā no cittānuparivattino? Cittañca, avasesañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittānuparivattino.
 
-1207. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānā. ^1997
+1207. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānā.
 
-1208. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānā? Cittañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānā. ^1998
+1208. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānā? Cittañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānā.
 
-1209. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānasahabhuno? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānasahabhuno. ^1999
+1209. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānasahabhuno? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānasahabhuno.
 
-1210. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno? Cittañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno. ^2000
+1210. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno? Cittañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno.
 
-1211. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānānuparivattino? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānānuparivattino. ^2001
+1211. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānānuparivattino? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānānuparivattino.
 
-1212. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino? Cittañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino. ^2002
+1212. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino? Cittañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino.
 
-1213. Katame dhammā ajjhattikā? Cakkhāyatanaṃ…pe… manāyatanaṃ – ime dhammā ajjhattikā. ^2003
+1213. Katame dhammā ajjhattikā? Cakkhāyatanaṃ…pe… manāyatanaṃ – ime dhammā ajjhattikā.
 
-1214. Katame dhammā bāhirā? Rūpāyatanaṃ…pe… dhammāyatanaṃ – ime dhammā bāhirā. ^2004
+1214. Katame dhammā bāhirā? Rūpāyatanaṃ…pe… dhammāyatanaṃ – ime dhammā bāhirā.
 
-1215. Katame dhammā upādā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – ime dhammā upādā. ^2005
+1215. Katame dhammā upādā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – ime dhammā upādā.
 
-1216. Katame dhammā no upādā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho, cattāro ca mahābhūtā, asaṅkhatā ca dhātu – ime dhammā no upādā. ^2006
+1216. Katame dhammā no upādā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho, cattāro ca mahābhūtā, asaṅkhatā ca dhātu – ime dhammā no upādā.
 
-1217. Katame dhammā upādiṇṇā? Sāsavā kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho… pe… viññāṇakkhandho; yañca rūpaṃ kammassa katattā – ime dhammā upādiṇṇā. ^2007
+1217. Katame dhammā upādiṇṇā? Sāsavā kusalākusalānaṃ dhammānaṃ vipākā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho… pe… viññāṇakkhandho; yañca rūpaṃ kammassa katattā – ime dhammā upādiṇṇā.
 
-1218. Katame dhammā anupādiṇṇā? Sāsavā kusalākusalā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho…pe… viññāṇakkhandho; ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, yañca rūpaṃ na kammassa katattā, apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anupādiṇṇā. ^2008
+1218. Katame dhammā anupādiṇṇā? Sāsavā kusalākusalā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; vedanākkhandho…pe… viññāṇakkhandho; ye ca dhammā kiriyā neva kusalā nākusalā na ca kammavipākā, yañca rūpaṃ na kammassa katattā, apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anupādiṇṇā.
 
-Upādānagocchakaṃ ^2009
+Upādānagocchakaṃ
 
-1219. Katame dhammā upādānā? Cattāri upādānāni – kāmupādānaṃ, diṭṭhupādānaṃ, sīlabbatupādānaṃ, attavādupādānaṃ . ^2010
+1219. Katame dhammā upādānā? Cattāri upādānāni – kāmupādānaṃ, diṭṭhupādānaṃ, sīlabbatupādānaṃ, attavādupādānaṃ .
 
-1220. Tattha katamaṃ kāmupādānaṃ? Yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – idaṃ vuccati kāmupādānaṃ. ^2011
+1220. Tattha katamaṃ kāmupādānaṃ? Yo kāmesu kāmacchando kāmarāgo kāmanandī kāmataṇhā kāmasineho kāmapariḷāho kāmamucchā kāmajjhosānaṃ – idaṃ vuccati kāmupādānaṃ.
 
-1221. Tattha katamaṃ diṭṭhupādānaṃ? Natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā, ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentīti – yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati diṭṭhupādānaṃ. Ṭhapetvā sīlabbatupādānañca attavādupādānañca sabbāpi micchādiṭṭhi diṭṭhupādānaṃ. ^2012
+1221. Tattha katamaṃ diṭṭhupādānaṃ? Natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā, ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentīti – yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati diṭṭhupādānaṃ. Ṭhapetvā sīlabbatupādānañca attavādupādānañca sabbāpi micchādiṭṭhi diṭṭhupādānaṃ.
 
-1222. Tattha katamaṃ sīlabbatupādānaṃ? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi, vatena suddhi, sīlabbatena suddhīti – yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati sīlabbatupādānaṃ. ^2013
+1222. Tattha katamaṃ sīlabbatupādānaṃ? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi, vatena suddhi, sīlabbatena suddhīti – yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati sīlabbatupādānaṃ.
 
-1223. Tattha katamaṃ attavādupādānaṃ? Idha assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ. Vedanaṃ…pe… saññaṃ…pe… saṅkhāre…pe… viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ, attani vā viññāṇaṃ viññāṇasmiṃ vā attānaṃ. Yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati attavādupādānaṃ. ^2014
+1223. Tattha katamaṃ attavādupādānaṃ? Idha assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ. Vedanaṃ…pe… saññaṃ…pe… saṅkhāre…pe… viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ, attani vā viññāṇaṃ viññāṇasmiṃ vā attānaṃ. Yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – idaṃ vuccati attavādupādānaṃ.
 
-Ime dhammā upādānā. ^2015
+Ime dhammā upādānā.
 
-1224. Katame dhammā no upādānā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no upādānā. ^2016
+1224. Katame dhammā no upādānā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no upādānā.
 
-1225. Katame dhammā upādāniyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā upādāniyā. ^2017
+1225. Katame dhammā upādāniyā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā upādāniyā.
 
-1226. Katame dhammā anupādāniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anupādāniyā. ^2018
+1226. Katame dhammā anupādāniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anupādāniyā.
 
-1227. Katame dhammā upādānasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā upādānasampayuttā. ^2019
+1227. Katame dhammā upādānasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā upādānasampayuttā.
 
-1228. Katame dhammā upādānavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā upādānavippayuttā. ^2020
+1228. Katame dhammā upādānavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā upādānavippayuttā.
 
-1229. Katame dhammā upādānā ceva upādāniyā ca? Tāneva upādānāni upādānā ceva upādāniyā ca. ^2021
+1229. Katame dhammā upādānā ceva upādāniyā ca? Tāneva upādānāni upādānā ceva upādāniyā ca.
 
-1230. Katame dhammā upādāniyā ceva no ca upādānā? Tehi dhammehi ye dhammā upādāniyā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā upādāniyā ceva no ca upādānā. ^2022
+1230. Katame dhammā upādāniyā ceva no ca upādānā? Tehi dhammehi ye dhammā upādāniyā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā upādāniyā ceva no ca upādānā.
 
-1231. Katame dhammā upādānā ceva upādānasampayuttā ca? Diṭṭhupādānaṃ kāmupādānena upādānañceva upādānasampayuttañca, kāmupādānaṃ diṭṭhupādānena upādānañceva upādānasampayuttañca, sīlabbatupādānaṃ kāmupādānena upādānañceva upādānasampayuttañca, kāmupādānaṃ sīlabbatupādānena upādānañceva upādānasampayuttañca, attavādupādānaṃ kāmupādānena upādānañceva upādānasampayuttañca, kāmupādānaṃ attavādupādānena upādānañceva upādānasampayuttañca – ime dhammā upādānā ceva upādānasampayuttā ca. ^2023
+1231. Katame dhammā upādānā ceva upādānasampayuttā ca? Diṭṭhupādānaṃ kāmupādānena upādānañceva upādānasampayuttañca, kāmupādānaṃ diṭṭhupādānena upādānañceva upādānasampayuttañca, sīlabbatupādānaṃ kāmupādānena upādānañceva upādānasampayuttañca, kāmupādānaṃ sīlabbatupādānena upādānañceva upādānasampayuttañca, attavādupādānaṃ kāmupādānena upādānañceva upādānasampayuttañca, kāmupādānaṃ attavādupādānena upādānañceva upādānasampayuttañca – ime dhammā upādānā ceva upādānasampayuttā ca.
 
-1232. Katame dhammā upādānasampayuttā ceva no ca upādānā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā upādānasampayuttā ceva no ca upādānā. ^2024
+1232. Katame dhammā upādānasampayuttā ceva no ca upādānā? Tehi dhammehi ye dhammā sampayuttā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā upādānasampayuttā ceva no ca upādānā.
 
-1233. Katame dhammā upādānavippayuttā upādāniyā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā upādānavippayuttā upādāniyā. ^2025
+1233. Katame dhammā upādānavippayuttā upādāniyā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā upādānavippayuttā upādāniyā.
 
-1234. Katame dhammā upādānavippayuttā anupādāniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā upādānavippayuttā anupādāniyā. ^2026
+1234. Katame dhammā upādānavippayuttā anupādāniyā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā upādānavippayuttā anupādāniyā.
 
-Nikkhepakaṇḍe dutiyabhāṇavāro. ^2027
+Nikkhepakaṇḍe dutiyabhāṇavāro.
 
-Kilesagocchakaṃ ^2028
+Kilesagocchakaṃ
 
-1235. Katame dhammā kilesā? Dasa kilesavatthūni – lobho, doso, moho, māno, diṭṭhi, vicikicchā, thinaṃ, uddhaccaṃ, ahirīkaṃ, anottappaṃ. ^2029
+1235. Katame dhammā kilesā? Dasa kilesavatthūni – lobho, doso, moho, māno, diṭṭhi, vicikicchā, thinaṃ, uddhaccaṃ, ahirīkaṃ, anottappaṃ.
 
-1236. Tattha katamo lobho? Yo rāgo sārāgo anunayo anurodho nandī nandīrāgo cittassa sārāgo icchā mucchā ajjhosānaṃ gedho paligedho saṅgo paṅko ejā māyā janikā sañjananī sibbinī jālinī saritā visattikā suttaṃ visaṭā āyūhinī dutiyā paṇidhi bhavanetti vanaṃ vanatho santhavo sineho apekkhā paṭibandhu āsā āsisanā āsisitattaṃ rūpāsā saddāsā gandhāsā rasāsā phoṭṭhabbāsā lābhāsā dhanāsā puttāsā jīvitāsā jappā pajappā abhijappā jappā jappanā jappitattaṃ loluppaṃ loluppāyanā loluppāyitattaṃ pucchañjikatā sādhukamyatā adhammarāgo visamalobho nikanti nikāmanā patthanā pihanā sampatthanā kāmataṇhā bhavataṇhā vibhavataṇhā rūpataṇhā arūpataṇhā nirodhataṇhā rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā ogho yogo gantho upādānaṃ āvaraṇaṃ nīvaraṇaṃ chādanaṃ bandhanaṃ upakkileso anusayo pariyuṭṭhānaṃ latā vevicchaṃ dukkhamūlaṃ dukkhanidānaṃ dukkhappabhavo mārapāso mārabaḷisaṃ māravisayo taṇhānadī taṇhājālaṃ taṇhāgaddulaṃ taṇhāsamuddo abhijjhā lobho akusalamūlaṃ – ayaṃ vuccati lobho. ^2030
+1236. Tattha katamo lobho? Yo rāgo sārāgo anunayo anurodho nandī nandīrāgo cittassa sārāgo icchā mucchā ajjhosānaṃ gedho paligedho saṅgo paṅko ejā māyā janikā sañjananī sibbinī jālinī saritā visattikā suttaṃ visaṭā āyūhinī dutiyā paṇidhi bhavanetti vanaṃ vanatho santhavo sineho apekkhā paṭibandhu āsā āsisanā āsisitattaṃ rūpāsā saddāsā gandhāsā rasāsā phoṭṭhabbāsā lābhāsā dhanāsā puttāsā jīvitāsā jappā pajappā abhijappā jappā jappanā jappitattaṃ loluppaṃ loluppāyanā loluppāyitattaṃ pucchañjikatā sādhukamyatā adhammarāgo visamalobho nikanti nikāmanā patthanā pihanā sampatthanā kāmataṇhā bhavataṇhā vibhavataṇhā rūpataṇhā arūpataṇhā nirodhataṇhā rūpataṇhā saddataṇhā gandhataṇhā rasataṇhā phoṭṭhabbataṇhā dhammataṇhā ogho yogo gantho upādānaṃ āvaraṇaṃ nīvaraṇaṃ chādanaṃ bandhanaṃ upakkileso anusayo pariyuṭṭhānaṃ latā vevicchaṃ dukkhamūlaṃ dukkhanidānaṃ dukkhappabhavo mārapāso mārabaḷisaṃ māravisayo taṇhānadī taṇhājālaṃ taṇhāgaddulaṃ taṇhāsamuddo abhijjhā lobho akusalamūlaṃ – ayaṃ vuccati lobho.
 
-1237. Tattha katamo doso? Anatthaṃ me acarīti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati, anatthaṃ me carissatīti āghāto jāyati, piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati…pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ vuccati doso. ^2031
+1237. Tattha katamo doso? Anatthaṃ me acarīti āghāto jāyati, anatthaṃ me caratīti āghāto jāyati, anatthaṃ me carissatīti āghāto jāyati, piyassa me manāpassa anatthaṃ acari…pe… anatthaṃ carati…pe… anatthaṃ carissatīti āghāto jāyati, appiyassa me amanāpassa atthaṃ acari…pe… atthaṃ carati…pe… atthaṃ carissatīti āghāto jāyati, aṭṭhāne vā pana āghāto jāyati. Yo evarūpo cittassa āghāto paṭighāto paṭighaṃ paṭivirodho kopo pakopo sampakopo doso padoso sampadoso cittassa byāpatti manopadoso kodho kujjhanā kujjhitattaṃ doso dussanā dussitattaṃ byāpatti byāpajjanā byāpajjitattaṃ virodho paṭivirodho caṇḍikkaṃ asuropo anattamanatā cittassa – ayaṃ vuccati doso.
 
-1238. Tattha katamo moho? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃ. Yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – ayaṃ vuccati moho. ^2032
+1238. Tattha katamo moho? Dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ, pubbante aññāṇaṃ, aparante aññāṇaṃ, pubbantāparante aññāṇaṃ, idappaccayatā paṭiccasamuppannesu dhammesu aññāṇaṃ. Yaṃ evarūpaṃ aññāṇaṃ adassanaṃ anabhisamayo ananubodho asambodho appaṭivedho asaṃgāhanā apariyogāhanā asamapekkhanā apaccavekkhaṇā apaccakkhakammaṃ dummejjhaṃ bālyaṃ asampajaññaṃ moho pamoho sammoho avijjā avijjogho avijjāyogo avijjānusayo avijjāpariyuṭṭhānaṃ avijjālaṅgī moho akusalamūlaṃ – ayaṃ vuccati moho.
 
-1239. Tattha katamo māno? Seyyohamasmīti māno, sadisohamasmīti māno, hīnohamasmīti māno; yo evarūpo māno maññanā maññitattaṃ unnati unnamo dhajo sampaggāho ketukamyatā cittassa – ayaṃ vuccati māno. ^2033
+1239. Tattha katamo māno? Seyyohamasmīti māno, sadisohamasmīti māno, hīnohamasmīti māno; yo evarūpo māno maññanā maññitattaṃ unnati unnamo dhajo sampaggāho ketukamyatā cittassa – ayaṃ vuccati māno.
 
-1240. Tattha katamā diṭṭhi? Sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vāः yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati diṭṭhi. Sabbāpi micchādiṭṭhi diṭṭhi. ^2034
+1240. Tattha katamā diṭṭhi? Sassato lokoti vā, asassato lokoti vā, antavā lokoti vā, anantavā lokoti vā, taṃ jīvaṃ taṃ sarīranti vā, aññaṃ jīvaṃ aññaṃ sarīranti vā, hoti tathāgato paraṃ maraṇāti vā, na hoti tathāgato paraṃ maraṇāti vā, hoti ca na ca hoti tathāgato paraṃ maraṇāti vā, neva hoti na na hoti tathāgato paraṃ maraṇāti vāः yā evarūpā diṭṭhi diṭṭhigataṃ diṭṭhigahanaṃ diṭṭhikantāro diṭṭhivisūkāyikaṃ diṭṭhivipphanditaṃ diṭṭhisaṃyojanaṃ gāho patiṭṭhāho abhiniveso parāmāso kummaggo micchāpatho micchattaṃ titthāyatanaṃ vipariyāsaggāho – ayaṃ vuccati diṭṭhi. Sabbāpi micchādiṭṭhi diṭṭhi.
 
-1241. Tattha katamā vicikicchā? Satthari kaṅkhati vicikicchati, dhamme kaṅkhati vicikicchati, saṅghe kaṅkhati vicikicchati sikkhāya kaṅkhati vicikicchati, pubbante kaṅkhati vicikicchati, aparante kaṅkhati vicikicchati, pubbantāparante kaṅkhati vicikicchati, idappaccayatā paṭiccasamuppannesu dhammesu kaṅkhati vicikicchatiः yā evarūpā kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo, anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – ayaṃ vuccati vicikicchā. ^2035
+1241. Tattha katamā vicikicchā? Satthari kaṅkhati vicikicchati, dhamme kaṅkhati vicikicchati, saṅghe kaṅkhati vicikicchati sikkhāya kaṅkhati vicikicchati, pubbante kaṅkhati vicikicchati, aparante kaṅkhati vicikicchati, pubbantāparante kaṅkhati vicikicchati, idappaccayatā paṭiccasamuppannesu dhammesu kaṅkhati vicikicchatiः yā evarūpā kaṅkhā kaṅkhāyanā kaṅkhāyitattaṃ vimati vicikicchā dveḷhakaṃ dvedhāpatho saṃsayo, anekaṃsaggāho āsappanā parisappanā apariyogāhanā thambhitattaṃ cittassa manovilekho – ayaṃ vuccati vicikicchā.
 
-1242. Tattha katamaṃ thinaṃ? Yā cittassa akallatā akammaññatā olīyanā sallīyanā līnaṃ līyanā līyitattaṃ thinaṃ thiyanā thiyitattaṃ cittassa – idaṃ vuccati thinaṃ. ^2036
+1242. Tattha katamaṃ thinaṃ? Yā cittassa akallatā akammaññatā olīyanā sallīyanā līnaṃ līyanā līyitattaṃ thinaṃ thiyanā thiyitattaṃ cittassa – idaṃ vuccati thinaṃ.
 
-1243. Tattha katamaṃ uddhaccaṃ? Yaṃ cittassa uddhaccaṃ avūpasamo cetaso vikkhepo bhantattaṃ cittassa – idaṃ vuccati uddhaccaṃ. ^2037
+1243. Tattha katamaṃ uddhaccaṃ? Yaṃ cittassa uddhaccaṃ avūpasamo cetaso vikkhepo bhantattaṃ cittassa – idaṃ vuccati uddhaccaṃ.
 
-1244. Tattha katamaṃ ahirikaṃ? Yaṃ na hirīyati hiriyitabbena, na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati ahirikaṃ. ^2038
+1244. Tattha katamaṃ ahirikaṃ? Yaṃ na hirīyati hiriyitabbena, na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati ahirikaṃ.
 
-1245. Tattha katamaṃ anottappaṃ? Yaṃ na ottappati ottappitabbena, na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati anottappaṃ. ^2039
+1245. Tattha katamaṃ anottappaṃ? Yaṃ na ottappati ottappitabbena, na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati anottappaṃ.
 
-Ime dhammā kilesā. ^2040
+Ime dhammā kilesā.
 
-1246. Katame dhammā no kilesā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho …pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no kilesā. ^2041
+1246. Katame dhammā no kilesā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho …pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā no kilesā.
 
-1247. Katame dhammā saṃkilesikā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃkilesikā. ^2042
+1247. Katame dhammā saṃkilesikā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃkilesikā.
 
-1248. Katame dhammā asaṃkilesikā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā asaṃkilesikā. ^2043
+1248. Katame dhammā asaṃkilesikā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā asaṃkilesikā.
 
-1249. Katame dhammā saṃkiliṭṭhā? Tīṇi akusalamūlāni – lobho, doso, moho; tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā saṃkiliṭṭhā. ^2044
+1249. Katame dhammā saṃkiliṭṭhā? Tīṇi akusalamūlāni – lobho, doso, moho; tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā saṃkiliṭṭhā.
 
-1250. Katame dhammā asaṃkiliṭṭhā? Kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho… pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā asaṃkiliṭṭhā. ^2045
+1250. Katame dhammā asaṃkiliṭṭhā? Kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho… pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā asaṃkiliṭṭhā.
 
-1251. Katame dhammā kilesasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā kilesasampayuttā. ^2046
+1251. Katame dhammā kilesasampayuttā? Tehi dhammehi ye dhammā sampayuttā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā kilesasampayuttā.
 
-1252. Katame dhammā kilesavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā kilesavippayuttā. ^2047
+1252. Katame dhammā kilesavippayuttā? Tehi dhammehi ye dhammā vippayuttā vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā kilesavippayuttā.
 
-1253. Katame dhammā kilesā ceva saṃkilesikā ca? Teva kilesā kilesā ceva saṃkilesikā ca. ^2048
+1253. Katame dhammā kilesā ceva saṃkilesikā ca? Teva kilesā kilesā ceva saṃkilesikā ca.
 
-1254. Katame dhammā saṃkilesikā ceva no ca kilesā? Tehi dhammehi ye dhammā saṃkilesikā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃkilesikā ceva no ca kilesā. ^2049
+1254. Katame dhammā saṃkilesikā ceva no ca kilesā? Tehi dhammehi ye dhammā saṃkilesikā, te dhamme ṭhapetvā avasesā sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā saṃkilesikā ceva no ca kilesā.
 
-1255. Katame dhammā kilesā ceva saṃkiliṭṭhā ca? Teva kilesā kilesā ceva saṃkiliṭṭhā ca. ^2050
+1255. Katame dhammā kilesā ceva saṃkiliṭṭhā ca? Teva kilesā kilesā ceva saṃkiliṭṭhā ca.
 
-1256. Katame dhammā saṃkiliṭṭhā ceva no ca kilesā? Tehi dhammehi ye dhammā saṃkiliṭṭhā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā saṃkiliṭṭhā ceva no ca kilesā. ^2051
+1256. Katame dhammā saṃkiliṭṭhā ceva no ca kilesā? Tehi dhammehi ye dhammā saṃkiliṭṭhā, te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā saṃkiliṭṭhā ceva no ca kilesā.
 
-1257. Katame dhammā kilesā ceva kilesasampayuttā ca? Lobho mohena kileso ceva kilesasampayutto ca, moho lobhena kileso ceva kilesasampayutto ca, doso mohena kileso ceva kilesasampayutto ca, moho dosena kileso ceva kilesasampayutto ca, māno mohena kileso ceva kilesasampayutto ca, moho mānena kileso ceva kilesasampayutto ca, diṭṭhi mohena kileso ceva kilesasampayuttā ca, moho diṭṭhiyā kileso ceva kilesasampayutto ca, vicikicchā mohena kileso ceva kilesasampayuttā ca, moho vicikicchāya kileso ceva kilesasampayutto ca, thinaṃ mohena kileso ceva kilesasampayuttañca, moho thinena kileso ceva kilesasampayutto ca, uddhaccaṃ mohena kileso ceva kilesasampayuttañca, moho uddhaccena kileso ceva kilesasampayutto ca, ahirikaṃ mohena kileso ceva kilesasampayuttañca, moho ahirikena kileso ceva kilesasampayutto ca, anottappaṃ mohena kileso ceva kilesasampayuttañca, moho anottappena kileso ceva kilesasampayutto ca, ^2052
+1257. Katame dhammā kilesā ceva kilesasampayuttā ca? Lobho mohena kileso ceva kilesasampayutto ca, moho lobhena kileso ceva kilesasampayutto ca, doso mohena kileso ceva kilesasampayutto ca, moho dosena kileso ceva kilesasampayutto ca, māno mohena kileso ceva kilesasampayutto ca, moho mānena kileso ceva kilesasampayutto ca, diṭṭhi mohena kileso ceva kilesasampayuttā ca, moho diṭṭhiyā kileso ceva kilesasampayutto ca, vicikicchā mohena kileso ceva kilesasampayuttā ca, moho vicikicchāya kileso ceva kilesasampayutto ca, thinaṃ mohena kileso ceva kilesasampayuttañca, moho thinena kileso ceva kilesasampayutto ca, uddhaccaṃ mohena kileso ceva kilesasampayuttañca, moho uddhaccena kileso ceva kilesasampayutto ca, ahirikaṃ mohena kileso ceva kilesasampayuttañca, moho ahirikena kileso ceva kilesasampayutto ca, anottappaṃ mohena kileso ceva kilesasampayuttañca, moho anottappena kileso ceva kilesasampayutto ca,
 
-lobho uddhaccena kileso ceva kilesasampayutto ca, uddhaccaṃ lobhena kileso ceva kilesasampayuttañca, doso uddhaccena kileso ceva kilesasampayutto ca, uddhaccaṃ dosena kileso ceva kilesasampayuttañca, moho uddhaccena kileso ceva kilesasampayutto ca, uddhaccaṃ mohena kileso ceva kilesasampayuttañca, māno uddhaccena kileso ceva kilesasampayutto ca, uddhaccaṃ mānena kileso ceva kilesasampayuttañca, diṭṭhi uddhaccena kileso ceva kilesasampayuttā ca, uddhaccaṃ diṭṭhiyā kileso ceva kilesasampayuttañca, vicikicchā uddhaccena kileso ceva kilesasampayuttā ca, uddhaccaṃ vicikicchāya kileso ceva kilesasampayuttañca, thinaṃ uddhaccena kileso ceva kilesasampayuttañca, uddhaccaṃ thinena kileso ceva kilesasampayuttañca, ahirikaṃ uddhaccena kileso ceva kilesasampayuttañca, uddhaccaṃ ahirikena kileso ceva kilesasampayuttañca, anottappaṃ uddhaccena kileso ceva kilesasampayuttañca, uddhaccaṃ anottappena kileso ceva kilesasampayuttañca, lobho ahirikena kileso ceva kilesasampayutto ca, ahirikaṃ lobhena kileso ceva kilesasampayuttañca, doso ahirikena kileso ceva kilesasampayutto ca, ahirikaṃ dosena kileso ceva kilesasampayuttañca, moho ahirikena kileso ceva kilesasampayutto ca, ahirikaṃ mohena kileso ceva kilesasampayuttañca, māno ahirikena kileso ceva kilesasampayutto ca, ahirikaṃ mānena kileso ceva kilesasampayuttañca, diṭṭhi ahirikena kileso ceva kilesasampayuttā ca, ahirikaṃ diṭṭhiyā kileso ceva kilesasampayuttañca, vicikicchā ahirikena kileso ceva kilesasampayuttā ca, ahirikaṃ vicikicchāya kileso ceva kilesasampayuttañca, thinaṃ ahirikena kileso ceva kilesasampayuttañca, ahirikaṃ thinena kileso ceva kilesasampayuttañca, uddhaccaṃ ahirikena kileso ceva kilesasampayuttañca, ahirikaṃ uddhaccena kileso ceva kilesasampayuttañca, anottappaṃ ahirikena kileso ceva kilesasampayuttañca, ahirikaṃ anottappena kileso ceva kilesasampayuttañca, ^2053
+lobho uddhaccena kileso ceva kilesasampayutto ca, uddhaccaṃ lobhena kileso ceva kilesasampayuttañca, doso uddhaccena kileso ceva kilesasampayutto ca, uddhaccaṃ dosena kileso ceva kilesasampayuttañca, moho uddhaccena kileso ceva kilesasampayutto ca, uddhaccaṃ mohena kileso ceva kilesasampayuttañca, māno uddhaccena kileso ceva kilesasampayutto ca, uddhaccaṃ mānena kileso ceva kilesasampayuttañca, diṭṭhi uddhaccena kileso ceva kilesasampayuttā ca, uddhaccaṃ diṭṭhiyā kileso ceva kilesasampayuttañca, vicikicchā uddhaccena kileso ceva kilesasampayuttā ca, uddhaccaṃ vicikicchāya kileso ceva kilesasampayuttañca, thinaṃ uddhaccena kileso ceva kilesasampayuttañca, uddhaccaṃ thinena kileso ceva kilesasampayuttañca, ahirikaṃ uddhaccena kileso ceva kilesasampayuttañca, uddhaccaṃ ahirikena kileso ceva kilesasampayuttañca, anottappaṃ uddhaccena kileso ceva kilesasampayuttañca, uddhaccaṃ anottappena kileso ceva kilesasampayuttañca, lobho ahirikena kileso ceva kilesasampayutto ca, ahirikaṃ lobhena kileso ceva kilesasampayuttañca, doso ahirikena kileso ceva kilesasampayutto ca, ahirikaṃ dosena kileso ceva kilesasampayuttañca, moho ahirikena kileso ceva kilesasampayutto ca, ahirikaṃ mohena kileso ceva kilesasampayuttañca, māno ahirikena kileso ceva kilesasampayutto ca, ahirikaṃ mānena kileso ceva kilesasampayuttañca, diṭṭhi ahirikena kileso ceva kilesasampayuttā ca, ahirikaṃ diṭṭhiyā kileso ceva kilesasampayuttañca, vicikicchā ahirikena kileso ceva kilesasampayuttā ca, ahirikaṃ vicikicchāya kileso ceva kilesasampayuttañca, thinaṃ ahirikena kileso ceva kilesasampayuttañca, ahirikaṃ thinena kileso ceva kilesasampayuttañca, uddhaccaṃ ahirikena kileso ceva kilesasampayuttañca, ahirikaṃ uddhaccena kileso ceva kilesasampayuttañca, anottappaṃ ahirikena kileso ceva kilesasampayuttañca, ahirikaṃ anottappena kileso ceva kilesasampayuttañca,
 
-lobho anottappena kileso ceva kilesasampayutto ca, anottappaṃ lobhena kileso ceva kilesasampayuttañca, doso anottappena kileso ceva kilesasampayutto ca, anottappaṃ dosena kileso ceva kilesasampayuttañca, moho anottappena kileso ceva kilesasampayutto ca, anottappaṃ mohena kileso ceva kilesasampayuttañca, māno anottappena kileso ceva kilesasampayutto ca, anottappaṃ mānena kileso ceva kilesasampayuttañca, diṭṭhi anottappena kileso ceva kilesasampayuttā ca, anottappaṃ diṭṭhiyā kileso ceva kilesasampayuttañca, vicikicchā anottappena kileso ceva kilesasampayuttā ca, anottappaṃ vicikicchāya kileso ceva kilesasampayuttañca, thinaṃ anottappena kileso ceva kilesasampayuttañca, anottappaṃ thinena kileso ceva kilesasampayuttañca, uddhaccaṃ anottappena kileso ceva kilesasampayuttañca, anottappaṃ uddhaccena kileso ceva kilesasampayuttañca, ahirikaṃ anottappena kileso ceva kilesasampayuttañca, anottappaṃ ahirikena kileso ceva kilesasampayuttañca – ime dhammā kilesā ceva kilesasampayuttā ca. ^2054
+lobho anottappena kileso ceva kilesasampayutto ca, anottappaṃ lobhena kileso ceva kilesasampayuttañca, doso anottappena kileso ceva kilesasampayutto ca, anottappaṃ dosena kileso ceva kilesasampayuttañca, moho anottappena kileso ceva kilesasampayutto ca, anottappaṃ mohena kileso ceva kilesasampayuttañca, māno anottappena kileso ceva kilesasampayutto ca, anottappaṃ mānena kileso ceva kilesasampayuttañca, diṭṭhi anottappena kileso ceva kilesasampayuttā ca, anottappaṃ diṭṭhiyā kileso ceva kilesasampayuttañca, vicikicchā anottappena kileso ceva kilesasampayuttā ca, anottappaṃ vicikicchāya kileso ceva kilesasampayuttañca, thinaṃ anottappena kileso ceva kilesasampayuttañca, anottappaṃ thinena kileso ceva kilesasampayuttañca, uddhaccaṃ anottappena kileso ceva kilesasampayuttañca, anottappaṃ uddhaccena kileso ceva kilesasampayuttañca, ahirikaṃ anottappena kileso ceva kilesasampayuttañca, anottappaṃ ahirikena kileso ceva kilesasampayuttañca – ime dhammā kilesā ceva kilesasampayuttā ca.
 
-1258. Katame dhammā kilesasampayuttā ceva no ca kilesā? Tehi dhammehi ye dhammā sampayuttā te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā kilesasampayuttā ceva no ca kilesā. ^2055
+1258. Katame dhammā kilesasampayuttā ceva no ca kilesā? Tehi dhammehi ye dhammā sampayuttā te dhamme ṭhapetvā vedanākkhandho…pe… viññāṇakkhandho – ime dhammā kilesasampayuttā ceva no ca kilesā.
 
-1259. Katame dhammā kilesavippayuttā saṃkilesikā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā kilesavippayuttā saṃkilesikā. ^2056
+1259. Katame dhammā kilesavippayuttā saṃkilesikā? Tehi dhammehi ye dhammā vippayuttā sāsavā kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā kilesavippayuttā saṃkilesikā.
 
-1260. Katame dhammā kilesavippayuttā asaṃkilesikā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā kilesavippayuttā asaṃkilesikā. ^2057
+1260. Katame dhammā kilesavippayuttā asaṃkilesikā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā kilesavippayuttā asaṃkilesikā.
 
-Piṭṭhidukaṃ ^2058
+Piṭṭhidukaṃ
 
-1261. Katame dhammā dassanena pahātabbā? Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso. ^2059
+1261. Katame dhammā dassanena pahātabbā? Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso.
 
-1262. Tattha katamā sakkāyadiṭṭhi? Idha assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ. Vedanaṃ…pe… saññaṃ…pe… saṅkhāre…pe… viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ, attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ. Yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sakkāyadiṭṭhi. ^2060
+1262. Tattha katamā sakkāyadiṭṭhi? Idha assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ. Vedanaṃ…pe… saññaṃ…pe… saṅkhāre…pe… viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ, attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ. Yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sakkāyadiṭṭhi.
 
-1263. Tattha katamā vicikicchā? Satthari kaṅkhati vicikicchati…pe… thambhitattaṃ cittassa manovilekho – ayaṃ vuccati vicikicchā. ^2061
+1263. Tattha katamā vicikicchā? Satthari kaṅkhati vicikicchati…pe… thambhitattaṃ cittassa manovilekho – ayaṃ vuccati vicikicchā.
 
-1264. Tattha katamo sīlabbataparāmāso? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi vatena suddhi sīlabbatena suddhīti – yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sīlabbataparāmāso. Imāni tīṇi saṃyojanāni, tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ vacīkammaṃ manokammaṃ – ime dhammā dassanena pahātabbā. ^2062
+1264. Tattha katamo sīlabbataparāmāso? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi vatena suddhi sīlabbatena suddhīti – yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sīlabbataparāmāso. Imāni tīṇi saṃyojanāni, tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ vacīkammaṃ manokammaṃ – ime dhammā dassanena pahātabbā.
 
-1265. Katame dhammā na dassanena pahātabbā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na dassanena pahātabbā. ^2063
+1265. Katame dhammā na dassanena pahātabbā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na dassanena pahātabbā.
 
-1266. Katame dhammā bhāvanāya pahātabbā? Avaseso lobho doso moho, tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ manokammaṃ – ime dhammā bhāvanāya pahātabbā. ^2064
+1266. Katame dhammā bhāvanāya pahātabbā? Avaseso lobho doso moho, tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ manokammaṃ – ime dhammā bhāvanāya pahātabbā.
 
-1267. Katame dhammā na bhāvanāya pahātabbā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho …pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na bhāvanāya pahātabbā. ^2065
+1267. Katame dhammā na bhāvanāya pahātabbā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho …pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na bhāvanāya pahātabbā.
 
-1268. Katame dhammā dassanena pahātabbahetukā? Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso. ^2066
+1268. Katame dhammā dassanena pahātabbahetukā? Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso.
 
-1269. Tattha katamā sakkāyadiṭṭhi? Idha assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ. Vedanaṃ…pe… saññaṃ…pe… saṅkhāre…pe… viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ, attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ. Yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sakkāyadiṭṭhi. ^2067
+1269. Tattha katamā sakkāyadiṭṭhi? Idha assutavā puthujjano ariyānaṃ adassāvī ariyadhammassa akovido ariyadhamme avinīto sappurisānaṃ adassāvī sappurisadhammassa akovido sappurisadhamme avinīto rūpaṃ attato samanupassati, rūpavantaṃ vā attānaṃ, attani vā rūpaṃ, rūpasmiṃ vā attānaṃ. Vedanaṃ…pe… saññaṃ…pe… saṅkhāre…pe… viññāṇaṃ attato samanupassati, viññāṇavantaṃ vā attānaṃ, attani vā viññāṇaṃ, viññāṇasmiṃ vā attānaṃ. Yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sakkāyadiṭṭhi.
 
-1270. Tattha katamā vicikicchā? Satthari kaṅkhati vicikicchati…pe… thambhitattaṃ cittassa manovilekho – ayaṃ vuccati vicikicchā. ^2068
+1270. Tattha katamā vicikicchā? Satthari kaṅkhati vicikicchati…pe… thambhitattaṃ cittassa manovilekho – ayaṃ vuccati vicikicchā.
 
-1271. Tattha katamo sīlabbataparāmāso? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi vatena suddhi sīlabbatena suddhīti – yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sīlabbataparāmāso. Imāni tīṇi saṃyojanāni, tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā dassanena pahātabbahetukā. Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso – ime dhammā dassanena pahātabbā. Tadekaṭṭho lobho doso moho – ime dhammā dassanena pahātabbahetū. Tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā dassanena pahātabbahetukā. ^2069
+1271. Tattha katamo sīlabbataparāmāso? Ito bahiddhā samaṇabrāhmaṇānaṃ sīlena suddhi vatena suddhi sīlabbatena suddhīti – yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sīlabbataparāmāso. Imāni tīṇi saṃyojanāni, tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā dassanena pahātabbahetukā. Tīṇi saṃyojanāni – sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso – ime dhammā dassanena pahātabbā. Tadekaṭṭho lobho doso moho – ime dhammā dassanena pahātabbahetū. Tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā dassanena pahātabbahetukā.
 
-1272. Katame dhammā na dassanena pahātabbahetukā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na dassanena pahātabbahetukā. ^2070
+1272. Katame dhammā na dassanena pahātabbahetukā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na dassanena pahātabbahetukā.
 
-1273. Katame dhammā bhāvanāya pahātabbahetukā? Avaseso lobho doso moho – ime dhammā bhāvanāya pahātabbahetū. Tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā bhāvanāya pahātabbahetukā. ^2071
+1273. Katame dhammā bhāvanāya pahātabbahetukā? Avaseso lobho doso moho – ime dhammā bhāvanāya pahātabbahetū. Tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā bhāvanāya pahātabbahetukā.
 
-1274. Katame dhammā na bhāvanāya pahātabbahetukā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na bhāvanāya pahātabbahetukā. ^2072
+1274. Katame dhammā na bhāvanāya pahātabbahetukā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho; sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na bhāvanāya pahātabbahetukā.
 
-1275. Katame dhammā savitakkā? Savitakkabhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, vitakkaṃ ṭhapetvā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā savitakkā. ^2073
+1275. Katame dhammā savitakkā? Savitakkabhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, vitakkaṃ ṭhapetvā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā savitakkā.
 
-1276. Katame dhammā avitakkā? Avitakkabhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho…pe… viññāṇakkhandho; vitakko ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā avitakkā. ^2074
+1276. Katame dhammā avitakkā? Avitakkabhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho…pe… viññāṇakkhandho; vitakko ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā avitakkā.
 
-1277. Katame dhammā savicārā? Savicārabhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, vicāraṃ ṭhapetvā, taṃsampayutto vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā savicārā. ^2075
+1277. Katame dhammā savicārā? Savicārabhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, vicāraṃ ṭhapetvā, taṃsampayutto vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā savicārā.
 
-1278. Katame dhammā avicārā? Avicārabhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho…pe… viññāṇakkhandho; vicāro ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā avicārā. ^2076
+1278. Katame dhammā avicārā? Avicārabhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho…pe… viññāṇakkhandho; vicāro ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā avicārā.
 
-1279. Katame dhammā sappītikā? Sappītikabhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, pītiṃ ṭhapetvā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā sappītikā. ^2077
+1279. Katame dhammā sappītikā? Sappītikabhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, pītiṃ ṭhapetvā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā sappītikā.
 
-1280. Katame dhammā appītikā? Appītikabhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho…pe… viññāṇakkhandho; pīti ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā appītikā. ^2078
+1280. Katame dhammā appītikā? Appītikabhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho…pe… viññāṇakkhandho; pīti ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā appītikā.
 
-1281. Katame dhammā pītisahagatā? Pītibhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, pītiṃ ṭhapetvā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā pītisahagatā. ^2079
+1281. Katame dhammā pītisahagatā? Pītibhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, pītiṃ ṭhapetvā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho – ime dhammā pītisahagatā.
 
-1282. Katame dhammā na pītisahagatā? Na pītibhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho…pe… viññāṇakkhandho; pīti ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na pītisahagatā. ^2080
+1282. Katame dhammā na pītisahagatā? Na pītibhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho…pe… viññāṇakkhandho; pīti ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na pītisahagatā.
 
-1283. Katame dhammā sukhasahagatā? Sukhabhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, sukhaṃ ṭhapetvā, taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sukhasahagatā. ^2081
+1283. Katame dhammā sukhasahagatā? Sukhabhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, sukhaṃ ṭhapetvā, taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā sukhasahagatā.
 
-1284. Katame dhammā na sukhasahagatā? Na sukhabhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho… pe… viññāṇakkhandho; sukhañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na sukhasahagatā. ^2082
+1284. Katame dhammā na sukhasahagatā? Na sukhabhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne; vedanākkhandho… pe… viññāṇakkhandho; sukhañca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na sukhasahagatā.
 
-1285. Katame dhammā upekkhāsahagatā? Upekkhābhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne, upekkhaṃ ṭhapetvā, taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā upekkhāsahagatā. ^2083
+1285. Katame dhammā upekkhāsahagatā? Upekkhābhūmiyaṃ kāmāvacare rūpāvacare arūpāvacare apariyāpanne, upekkhaṃ ṭhapetvā, taṃsampayutto saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho – ime dhammā upekkhāsahagatā.
 
-1286. Katame dhammā na upekkhāsahagatā? Na upekkhābhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, vedanākkhandho…pe… viññāṇakkhandho, upekkhā ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na upekkhāsahagatā. ^2084
+1286. Katame dhammā na upekkhāsahagatā? Na upekkhābhūmiyaṃ kāmāvacare rūpāvacare apariyāpanne, vedanākkhandho…pe… viññāṇakkhandho, upekkhā ca, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā na upekkhāsahagatā.
 
-1287. Katame dhammā kāmāvacarā? Heṭṭhato avicinirayaṃ pariyantaṃ karitvā, uparito paranimmitavasavattī deve anto karitvā, yaṃ etasmiṃ antare etthāvacarā ettha pariyāpannā khandhadhātu āyatanā, rūpaṃ vedanā saññā saṅkhārā viññāṇaṃ – ime dhammā kāmāvacarā. ^2085
+1287. Katame dhammā kāmāvacarā? Heṭṭhato avicinirayaṃ pariyantaṃ karitvā, uparito paranimmitavasavattī deve anto karitvā, yaṃ etasmiṃ antare etthāvacarā ettha pariyāpannā khandhadhātu āyatanā, rūpaṃ vedanā saññā saṅkhārā viññāṇaṃ – ime dhammā kāmāvacarā.
 
-1288. Katame dhammā na kāmāvacarā? Rūpāvacarā, arūpāvacarā, apariyāpannā – ime dhammā na kāmāvacarā. ^2086
+1288. Katame dhammā na kāmāvacarā? Rūpāvacarā, arūpāvacarā, apariyāpannā – ime dhammā na kāmāvacarā.
 
-1289. Katame dhammā rūpāvacarā? Heṭṭhato brahmalokaṃ pariyantaṃ karitvā, uparito akaniṭṭhe deve anto karitvā, yaṃ etasmiṃ antare etthāvacarā ettha pariyāpannā samāpannassa vā upapannassa vā diṭṭhadhammasukhavihārissa vā cittacetasikā dhammā – ime dhammā rūpāvacarā. ^2087
+1289. Katame dhammā rūpāvacarā? Heṭṭhato brahmalokaṃ pariyantaṃ karitvā, uparito akaniṭṭhe deve anto karitvā, yaṃ etasmiṃ antare etthāvacarā ettha pariyāpannā samāpannassa vā upapannassa vā diṭṭhadhammasukhavihārissa vā cittacetasikā dhammā – ime dhammā rūpāvacarā.
 
-1290. Katame dhammā na rūpāvacarā? Kāmāvacarā, arūpāvacarā, apariyāpannā – ime dhammā na rūpāvacarā. ^2088
+1290. Katame dhammā na rūpāvacarā? Kāmāvacarā, arūpāvacarā, apariyāpannā – ime dhammā na rūpāvacarā.
 
-1291. Katame dhammā arūpāvacarā? Heṭṭhato ākāsānañcāyatanupage deve pariyantaṃ karitvā, uparito nevasaññānāsaññāyatanupage deve anto karitvā, yaṃ etasmiṃ antare etthāvacarā ettha pariyāpannā samāpannassa vā upapannassa vā diṭṭhadhammasukhavihārissa vā cittacetasikā dhammā – ime dhammā arūpāvacarā. ^2089
+1291. Katame dhammā arūpāvacarā? Heṭṭhato ākāsānañcāyatanupage deve pariyantaṃ karitvā, uparito nevasaññānāsaññāyatanupage deve anto karitvā, yaṃ etasmiṃ antare etthāvacarā ettha pariyāpannā samāpannassa vā upapannassa vā diṭṭhadhammasukhavihārissa vā cittacetasikā dhammā – ime dhammā arūpāvacarā.
 
-1292. Katame dhammā na arūpāvacarā? Kāmāvacarā, rūpāvacarā, apariyāpannā – ime dhammā na arūpāvacarā. ^2090
+1292. Katame dhammā na arūpāvacarā? Kāmāvacarā, rūpāvacarā, apariyāpannā – ime dhammā na arūpāvacarā.
 
-1293. Katame dhammā pariyāpannā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, rūpakkhandho…pe… viññāṇakkhandho – ime dhammā pariyāpannā. ^2091
+1293. Katame dhammā pariyāpannā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, rūpakkhandho…pe… viññāṇakkhandho – ime dhammā pariyāpannā.
 
-1294. Katame dhammā apariyāpannā? Maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā apariyāpannā. ^2092
+1294. Katame dhammā apariyāpannā? Maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā apariyāpannā.
 
-1295. Katame dhammā niyyānikā? Cattāro maggā apariyāpannā – ime dhammā niyyānikā. ^2093
+1295. Katame dhammā niyyānikā? Cattāro maggā apariyāpannā – ime dhammā niyyānikā.
 
-1296. Katame dhammā aniyyānikā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā aniyyānikā. ^2094
+1296. Katame dhammā aniyyānikā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā aniyyānikā.
 
-1297. Katame dhammā niyatā? Pañca kammāni ānantarikāni, yā ca micchādiṭṭhi niyatā, cattāro maggā apariyāpannā – ime dhammā niyatā. ^2095
+1297. Katame dhammā niyatā? Pañca kammāni ānantarikāni, yā ca micchādiṭṭhi niyatā, cattāro maggā apariyāpannā – ime dhammā niyatā.
 
-1298. Katame dhammā aniyatā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā aniyatā. ^2096
+1298. Katame dhammā aniyatā? Te dhamme ṭhapetvā avasesā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā aniyatā.
 
-1299. Katame dhammā sauttarā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā sauttarā. ^2097
+1299. Katame dhammā sauttarā? Sāsavā kusalākusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā; rūpakkhandho…pe… viññāṇakkhandho – ime dhammā sauttarā.
 
-1300. Katame dhammā anuttarā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anuttarā. ^2098
+1300. Katame dhammā anuttarā? Apariyāpannā maggā ca, maggaphalāni ca, asaṅkhatā ca dhātu – ime dhammā anuttarā.
 
-1301. Katame dhammā saraṇā? Tīṇi akusalamūlāni lobho, doso, moho; tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā saraṇā. ^2099
+1301. Katame dhammā saraṇā? Tīṇi akusalamūlāni lobho, doso, moho; tadekaṭṭhā ca kilesā, taṃsampayutto vedanākkhandho…pe… viññāṇakkhandho, taṃsamuṭṭhānaṃ kāyakammaṃ, vacīkammaṃ, manokammaṃ – ime dhammā saraṇā.
 
-1302. Katame dhammā araṇā? Kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā araṇā. ^2100
+1302. Katame dhammā araṇā? Kusalābyākatā dhammā kāmāvacarā, rūpāvacarā, arūpāvacarā, apariyāpannā; vedanākkhandho…pe… viññāṇakkhandho, sabbañca rūpaṃ, asaṅkhatā ca dhātu – ime dhammā araṇā.
 
-Abhidhammadukaṃ. ^2101
+Abhidhammadukaṃ.
 
-Suttantikadukanikkhepaṃ ^2102
+Suttantikadukanikkhepaṃ
 
-1303. Katame dhammā vijjābhāgino? Vijjāya sampayuttakā dhammā – ime dhammā vijjābhāgino. ^2103
+1303. Katame dhammā vijjābhāgino? Vijjāya sampayuttakā dhammā – ime dhammā vijjābhāgino.
 
-1304. Katame dhammā avijjābhāgino? Avijjāya sampayuttakā dhammā – ime dhammā avijjābhāgino. ^2104
+1304. Katame dhammā avijjābhāgino? Avijjāya sampayuttakā dhammā – ime dhammā avijjābhāgino.
 
-1305. Katame dhammā vijjūpamā? Heṭṭhimesu tīsu ariyamaggesu paññā – ime dhammā vijjūpamā. ^2105
+1305. Katame dhammā vijjūpamā? Heṭṭhimesu tīsu ariyamaggesu paññā – ime dhammā vijjūpamā.
 
-1306. Katame dhammā vajirūpamā? Upariṭṭhime arahattamagge paññā – ime dhammā vajirūpamā. ^2106
+1306. Katame dhammā vajirūpamā? Upariṭṭhime arahattamagge paññā – ime dhammā vajirūpamā.
 
-1307. Katame dhammā bālā? Ahirīkañca anottappañca – ime dhammā bālā. Sabbepi akusalā dhammā bālā. ^2107
+1307. Katame dhammā bālā? Ahirīkañca anottappañca – ime dhammā bālā. Sabbepi akusalā dhammā bālā.
 
-1308. Katame dhammā paṇḍitā? Hirī ca ottappañca – ime dhammā paṇḍitā. Sabbepi kusalā dhammā paṇḍitā. ^2108
+1308. Katame dhammā paṇḍitā? Hirī ca ottappañca – ime dhammā paṇḍitā. Sabbepi kusalā dhammā paṇḍitā.
 
-1309. Katame dhammā kaṇhā? Ahirīkañca anottappañca – ime dhammā kaṇhā. Sabbepi akusalā dhammā kaṇhā. ^2109
+1309. Katame dhammā kaṇhā? Ahirīkañca anottappañca – ime dhammā kaṇhā. Sabbepi akusalā dhammā kaṇhā.
 
-1310. Katame dhammā sukkā? Hirī ca ottappañca – ime dhammā sukkā? Sabbepi kusalā dhammā sukkā. ^2110
+1310. Katame dhammā sukkā? Hirī ca ottappañca – ime dhammā sukkā? Sabbepi kusalā dhammā sukkā.
 
-1311. Katame dhammā tapanīyā? Kāyaduccaritaṃ, vacīduccaritaṃ, manoduccaritaṃ – ime dhammā tapanīyā. Sabbepi akusalā dhammā tapanīyā. ^2111
+1311. Katame dhammā tapanīyā? Kāyaduccaritaṃ, vacīduccaritaṃ, manoduccaritaṃ – ime dhammā tapanīyā. Sabbepi akusalā dhammā tapanīyā.
 
-1312. Katame dhammā atapanīyā? Kāyasucaritaṃ, vacīsucaritaṃ, manosucaritaṃ – ime dhammā atapanīyā. Sabbepi kusalā dhammā atapanīyā. ^2112
+1312. Katame dhammā atapanīyā? Kāyasucaritaṃ, vacīsucaritaṃ, manosucaritaṃ – ime dhammā atapanīyā. Sabbepi kusalā dhammā atapanīyā.
 
-1313. Katame dhammā adhivacanā? Yā tesaṃ tesaṃ dhammānaṃ saṅkhā samaññā paññatti vohāro nāmaṃ nāmakammaṃ nāmadheyyaṃ nirutti byañjanaṃ abhilāpo – ime dhammā adhivacanā. Sabbeva dhammā adhivacanapathā. ^2113
+1313. Katame dhammā adhivacanā? Yā tesaṃ tesaṃ dhammānaṃ saṅkhā samaññā paññatti vohāro nāmaṃ nāmakammaṃ nāmadheyyaṃ nirutti byañjanaṃ abhilāpo – ime dhammā adhivacanā. Sabbeva dhammā adhivacanapathā.
 
-1314. Katame dhammā nirutti? Yā tesaṃ tesaṃ dhammānaṃ saṅkhā samaññā paññatti vohāro nāmaṃ nāmakammaṃ nāmadheyyaṃ nirutti byañjanaṃ abhilāpo – ime dhammā nirutti. Sabbeva dhammā niruttipathā. ^2114
+1314. Katame dhammā nirutti? Yā tesaṃ tesaṃ dhammānaṃ saṅkhā samaññā paññatti vohāro nāmaṃ nāmakammaṃ nāmadheyyaṃ nirutti byañjanaṃ abhilāpo – ime dhammā nirutti. Sabbeva dhammā niruttipathā.
 
-1315. Katame dhammā paññatti? Yā tesaṃ tesaṃ dhammānaṃ saṅkhā samaññā paññatti vohāro nāmaṃ nāmakammaṃ nāmadheyyaṃ nirutti byañjanaṃ abhilāpo – ime dhammā paññatti. Sabbeva dhammā paññattipathā. ^2115
+1315. Katame dhammā paññatti? Yā tesaṃ tesaṃ dhammānaṃ saṅkhā samaññā paññatti vohāro nāmaṃ nāmakammaṃ nāmadheyyaṃ nirutti byañjanaṃ abhilāpo – ime dhammā paññatti. Sabbeva dhammā paññattipathā.
 
-1316. Tattha katamaṃ nāmaṃ? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho, asaṅkhatā ca dhātu – idaṃ vuccati nāmaṃ. ^2116
+1316. Tattha katamaṃ nāmaṃ? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, viññāṇakkhandho, asaṅkhatā ca dhātu – idaṃ vuccati nāmaṃ.
 
-1317. Tattha katamaṃ rūpaṃ? Cattāro ca mahābhūtā, catunnañca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati rūpaṃ. ^2117
+1317. Tattha katamaṃ rūpaṃ? Cattāro ca mahābhūtā, catunnañca mahābhūtānaṃ upādāya rūpaṃ – idaṃ vuccati rūpaṃ.
 
-1318. Tattha katamā avijjā? Yaṃ aññāṇaṃ adassanaṃ…pe… avijjālaṅgī moho akusalamūlaṃ – ayaṃ vuccati avijjā. ^2118
+1318. Tattha katamā avijjā? Yaṃ aññāṇaṃ adassanaṃ…pe… avijjālaṅgī moho akusalamūlaṃ – ayaṃ vuccati avijjā.
 
-1319. Tattha katamā bhavataṇhā? Yo bhavesu bhavachando…pe… bhavajjhosānaṃ – ayaṃ vuccati bhavataṇhā. ^2119
+1319. Tattha katamā bhavataṇhā? Yo bhavesu bhavachando…pe… bhavajjhosānaṃ – ayaṃ vuccati bhavataṇhā.
 
-1320. Tattha katamā bhavadiṭṭhi? Bhavissati attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati bhavadiṭṭhi. ^2120
+1320. Tattha katamā bhavadiṭṭhi? Bhavissati attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati bhavadiṭṭhi.
 
-1321. Tattha katamā vibhavadiṭṭhi? Na bhavissati attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati vibhavadiṭṭhi. ^2121
+1321. Tattha katamā vibhavadiṭṭhi? Na bhavissati attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati vibhavadiṭṭhi.
 
-1322. Tattha katamā sassatadiṭṭhi? Sassato attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sassatadiṭṭhi. ^2122
+1322. Tattha katamā sassatadiṭṭhi? Sassato attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati sassatadiṭṭhi.
 
-1323. Tattha katamā ucchedadiṭṭhi? Ucchijjissati attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati ucchedadiṭṭhi. ^2123
+1323. Tattha katamā ucchedadiṭṭhi? Ucchijjissati attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati ucchedadiṭṭhi.
 
-1324. Tattha katamā antavā diṭṭhi? Antavā attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati antavā diṭṭhi. ^2124
+1324. Tattha katamā antavā diṭṭhi? Antavā attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati antavā diṭṭhi.
 
-1325. Tattha katamā anantavā diṭṭhi? Anantavā attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati anantavā diṭṭhi. ^2125
+1325. Tattha katamā anantavā diṭṭhi? Anantavā attā ca loko cāti, yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati anantavā diṭṭhi.
 
-1326. Tattha katamā pubbantānudiṭṭhi? Pubbantaṃ ārabbha yā uppajjati diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati pubbantānudiṭṭhi. ^2126
+1326. Tattha katamā pubbantānudiṭṭhi? Pubbantaṃ ārabbha yā uppajjati diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati pubbantānudiṭṭhi.
 
-1327. Tattha katamā aparantānudiṭṭhi? Aparantaṃ ārabbha yā uppajjati diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati aparantānudiṭṭhi. ^2127
+1327. Tattha katamā aparantānudiṭṭhi? Aparantaṃ ārabbha yā uppajjati diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati aparantānudiṭṭhi.
 
-1328. Tattha katamaṃ ahirikaṃ? Yaṃ na hirīyati hiriyitabbena, na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati ahirikaṃ. ^2128
+1328. Tattha katamaṃ ahirikaṃ? Yaṃ na hirīyati hiriyitabbena, na hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati ahirikaṃ.
 
-1329. Tattha katamaṃ anottappaṃ? Yaṃ na ottappati ottappitabbena, na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati anottappaṃ. ^2129
+1329. Tattha katamaṃ anottappaṃ? Yaṃ na ottappati ottappitabbena, na ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati anottappaṃ.
 
-1330. Tattha katamā hirī? Yaṃ hirīyati hiriyitabbena, hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – ayaṃ vuccati hirī. ^2130
+1330. Tattha katamā hirī? Yaṃ hirīyati hiriyitabbena, hirīyati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – ayaṃ vuccati hirī.
 
-1331. Tattha katamaṃ ottappaṃ? Yaṃ ottappati ottappitabbena, ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati ottappaṃ. ^2131
+1331. Tattha katamaṃ ottappaṃ? Yaṃ ottappati ottappitabbena, ottappati pāpakānaṃ akusalānaṃ dhammānaṃ samāpattiyā – idaṃ vuccati ottappaṃ.
 
-1332. Tattha katamā dovacassatā? Sahadhammike vuccamāne dovacassāyaṃ dovacassiyaṃ dovacassatā vippaṭikūlaggāhitā vipaccanīkasātatā anādariyaṃ anādaratā agāravatā appaṭissavatā – ayaṃ vuccati dovacassatā. ^2132
+1332. Tattha katamā dovacassatā? Sahadhammike vuccamāne dovacassāyaṃ dovacassiyaṃ dovacassatā vippaṭikūlaggāhitā vipaccanīkasātatā anādariyaṃ anādaratā agāravatā appaṭissavatā – ayaṃ vuccati dovacassatā.
 
-1333. Tattha katamā pāpamittatā? Ye te puggalā assaddhā dussīlā appassutā maccharino duppaññā, yā tesaṃ sevanā nisevanā saṃsevanā bhajanā sambhajanā bhatti sambhatti taṃsampavaṅkatā – ayaṃ vuccati pāpamittatā. ^2133
+1333. Tattha katamā pāpamittatā? Ye te puggalā assaddhā dussīlā appassutā maccharino duppaññā, yā tesaṃ sevanā nisevanā saṃsevanā bhajanā sambhajanā bhatti sambhatti taṃsampavaṅkatā – ayaṃ vuccati pāpamittatā.
 
-1334. Tattha katamā sovacassatā? Sahadhammike vuccamāne sovacassāyaṃ sovacassiyaṃ sovacassatā appaṭikūlaggāhitā avipaccanīkasātatā sagāravatā sādariyaṃ sādaratā sappaṭissavatā – ayaṃ vuccati sovacassatā. ^2134
+1334. Tattha katamā sovacassatā? Sahadhammike vuccamāne sovacassāyaṃ sovacassiyaṃ sovacassatā appaṭikūlaggāhitā avipaccanīkasātatā sagāravatā sādariyaṃ sādaratā sappaṭissavatā – ayaṃ vuccati sovacassatā.
 
-1335. Tattha katamā kalyāṇamittatā? Ye te puggalā saddhā sīlavanto bahussutā cāgavanto paññavanto, yā tesaṃ sevanā nisevanā saṃsevanā bhajanā sambhajanā bhatti sambhatti taṃsampavaṅkatā – ayaṃ vuccati kalyāṇamittatā. ^2135
+1335. Tattha katamā kalyāṇamittatā? Ye te puggalā saddhā sīlavanto bahussutā cāgavanto paññavanto, yā tesaṃ sevanā nisevanā saṃsevanā bhajanā sambhajanā bhatti sambhatti taṃsampavaṅkatā – ayaṃ vuccati kalyāṇamittatā.
 
-1336. Tattha katamā āpattikusalatā? Pañcapi āpattikkhandhā āpattiyo, sattapi āpattikkhandhā āpattiyo. Yā tāsaṃ āpattīnaṃ āpattikusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati āpattikusalatā. ^2136
+1336. Tattha katamā āpattikusalatā? Pañcapi āpattikkhandhā āpattiyo, sattapi āpattikkhandhā āpattiyo. Yā tāsaṃ āpattīnaṃ āpattikusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati āpattikusalatā.
 
-1337. Tattha katamā āpattivuṭṭhānakusalatā? Yā tāhi āpattīhi vuṭṭhānakusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati āpattivuṭṭhānakusalatā. ^2137
+1337. Tattha katamā āpattivuṭṭhānakusalatā? Yā tāhi āpattīhi vuṭṭhānakusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati āpattivuṭṭhānakusalatā.
 
-1338. Tattha katamā samāpattikusalatā? Atthi savitakkasavicārā samāpatti, atthi avitakkavicāramattā samāpatti, atthi avitakkaavicārā samāpatti. Yā tāsaṃ samāpattīnaṃ samāpattikusalatā paññā pajānanā… pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati samāpattikusalatā. ^2138
+1338. Tattha katamā samāpattikusalatā? Atthi savitakkasavicārā samāpatti, atthi avitakkavicāramattā samāpatti, atthi avitakkaavicārā samāpatti. Yā tāsaṃ samāpattīnaṃ samāpattikusalatā paññā pajānanā… pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati samāpattikusalatā.
 
-1339. Tattha katamā samāpattivuṭṭhānakusalatā? Yā tāhi samāpattīhi vuṭṭhānakusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati samāpattivuṭṭhānakusalatā. ^2139
+1339. Tattha katamā samāpattivuṭṭhānakusalatā? Yā tāhi samāpattīhi vuṭṭhānakusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati samāpattivuṭṭhānakusalatā.
 
-1340. Tattha katamā dhātukusalatā? Aṭṭhārasa dhātuyo cakkhudhātu rūpadhātu cakkhuviññāṇadhātu, sotadhātu saddadhātu sotaviññāṇadhātu, ghānadhātu gandhadhātu ghānaviññāṇadhātu, jivhādhātu rasadhātu jivhāviññāṇadhātu, kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu, manodhātu dhammadhātu manoviññāṇadhātu. Yā tāsaṃ dhātūnaṃ dhātukusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati dhātukusalatā. ^2140
+1340. Tattha katamā dhātukusalatā? Aṭṭhārasa dhātuyo cakkhudhātu rūpadhātu cakkhuviññāṇadhātu, sotadhātu saddadhātu sotaviññāṇadhātu, ghānadhātu gandhadhātu ghānaviññāṇadhātu, jivhādhātu rasadhātu jivhāviññāṇadhātu, kāyadhātu phoṭṭhabbadhātu kāyaviññāṇadhātu, manodhātu dhammadhātu manoviññāṇadhātu. Yā tāsaṃ dhātūnaṃ dhātukusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati dhātukusalatā.
 
-1341. Tattha katamā manasikārakusalatā? Yā tāsaṃ dhātūnaṃ manasikārakusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati manasikārakusalatā. ^2141
+1341. Tattha katamā manasikārakusalatā? Yā tāsaṃ dhātūnaṃ manasikārakusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati manasikārakusalatā.
 
-1342. Tattha katamā āyatanakusalatā? Dvādasāyatanāni – cakkhāyatanaṃ, rūpāyatanaṃ, sotāyatanaṃ, saddāyatanaṃ, ghānāyatanaṃ, gandhāyatanaṃ, jivhāyatanaṃ, rasāyatanaṃ, kāyāyatanaṃ, phoṭṭhabbāyatanaṃ, manāyatanaṃ, dhammāyatanaṃ. Yā tesaṃ āyatanānaṃ āyatanakusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati āyatanakusalatā. ^2142
+1342. Tattha katamā āyatanakusalatā? Dvādasāyatanāni – cakkhāyatanaṃ, rūpāyatanaṃ, sotāyatanaṃ, saddāyatanaṃ, ghānāyatanaṃ, gandhāyatanaṃ, jivhāyatanaṃ, rasāyatanaṃ, kāyāyatanaṃ, phoṭṭhabbāyatanaṃ, manāyatanaṃ, dhammāyatanaṃ. Yā tesaṃ āyatanānaṃ āyatanakusalatā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati āyatanakusalatā.
 
-1343. Tattha katamā paṭiccasamuppādakusalatā? Avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti; evametassa kevalassa dukkhakkhandhassa samudayo hotīti. Yā tattha paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati paṭiccasamuppādakusalatā. ^2143
+1343. Tattha katamā paṭiccasamuppādakusalatā? Avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti; evametassa kevalassa dukkhakkhandhassa samudayo hotīti. Yā tattha paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati paṭiccasamuppādakusalatā.
 
-1344. Tattha katamā ṭhānakusalatā? Ye ye dhammā yesaṃ yesaṃ dhammānaṃ hetū paccayā uppādāya taṃ taṃ ṭhānanti, yā tattha paññā pajānanā… pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati ṭhānakusalatā. ^2144
+1344. Tattha katamā ṭhānakusalatā? Ye ye dhammā yesaṃ yesaṃ dhammānaṃ hetū paccayā uppādāya taṃ taṃ ṭhānanti, yā tattha paññā pajānanā… pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati ṭhānakusalatā.
 
-1345. Tattha katamā aṭṭhānakusalatā? Ye ye dhammā yesaṃ yesaṃ dhammānaṃ na hetū na paccayā uppādāya taṃ taṃ aṭṭhānanti, yā tattha paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati aṭṭhānakusalatā. ^2145
+1345. Tattha katamā aṭṭhānakusalatā? Ye ye dhammā yesaṃ yesaṃ dhammānaṃ na hetū na paccayā uppādāya taṃ taṃ aṭṭhānanti, yā tattha paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati aṭṭhānakusalatā.
 
-1346. Tattha katamo ajjavo? Yā ajjavatā ajimhatā avaṅkatā akuṭilatā – ayaṃ vuccati ajjavo. ^2146
+1346. Tattha katamo ajjavo? Yā ajjavatā ajimhatā avaṅkatā akuṭilatā – ayaṃ vuccati ajjavo.
 
-1347. Tattha katamo maddavo? Yā mudutā maddavatā akakkhaḷatā akathinatā nīcacittatā – ayaṃ vuccati maddavo. ^2147
+1347. Tattha katamo maddavo? Yā mudutā maddavatā akakkhaḷatā akathinatā nīcacittatā – ayaṃ vuccati maddavo.
 
-1348. Tattha katamā khanti? Yā khanti khamanatā adhivāsanatā acaṇḍikkaṃ anasuropo attamanatā cittassa – ayaṃ vuccati khanti. ^2148
+1348. Tattha katamā khanti? Yā khanti khamanatā adhivāsanatā acaṇḍikkaṃ anasuropo attamanatā cittassa – ayaṃ vuccati khanti.
 
-1349. Tattha katamaṃ soraccaṃ? Yo kāyiko avītikkamo, vācasiko avītikkamo, kāyikavācasiko avītikkamo – idaṃ vuccati soraccaṃ. Sabbopi sīlasaṃvaro soraccaṃ. ^2149
+1349. Tattha katamaṃ soraccaṃ? Yo kāyiko avītikkamo, vācasiko avītikkamo, kāyikavācasiko avītikkamo – idaṃ vuccati soraccaṃ. Sabbopi sīlasaṃvaro soraccaṃ.
 
-1350. Tattha katamaṃ sākhalyaṃ? Yā sā vācā aṇḍakā kakkasā parakaṭukā parābhisajjanī kodhasāmantā asamādhisaṃvattanikā, tathārūpiṃ vācaṃ pahāya yā sā vācā neḷā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti; yā tattha saṇhavācatā sakhilavācatā apharusavācatā – idaṃ vuccati sākhalyaṃ. ^2150
+1350. Tattha katamaṃ sākhalyaṃ? Yā sā vācā aṇḍakā kakkasā parakaṭukā parābhisajjanī kodhasāmantā asamādhisaṃvattanikā, tathārūpiṃ vācaṃ pahāya yā sā vācā neḷā kaṇṇasukhā pemanīyā hadayaṅgamā porī bahujanakantā bahujanamanāpā tathārūpiṃ vācaṃ bhāsitā hoti; yā tattha saṇhavācatā sakhilavācatā apharusavācatā – idaṃ vuccati sākhalyaṃ.
 
-1351. Tattha katamo paṭisanthāro? Dve paṭisanthārā – āmisapaṭisanthāro ca dhammapaṭisanthāro ca. Idhekacco paṭisanthārako hoti āmisapaṭisanthārena vā dhammapaṭisanthārena vā – ayaṃ vuccati paṭisanthāro. ^2151
+1351. Tattha katamo paṭisanthāro? Dve paṭisanthārā – āmisapaṭisanthāro ca dhammapaṭisanthāro ca. Idhekacco paṭisanthārako hoti āmisapaṭisanthārena vā dhammapaṭisanthārena vā – ayaṃ vuccati paṭisanthāro.
 
-1352. Tattha katamā indriyesu aguttadvāratā? Idhekacco cakkhunā rūpaṃ disvā nimittaggāhī hoti anubyañjanaggāhī. Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya na paṭipajjati, na rakkhati cakkhundriyaṃ, cakkhundriye na saṃvaraṃ āpajjati. Sotena saddaṃ sutvā… pe… ghānena gandhaṃ ghāyitvā…pe… jivhāya rasaṃ sāyitvā…pe… kāyena phoṭṭhabbaṃ phusitvā…pe… manasā dhammaṃ viññāya nimittaggāhī hoti anubyañjanaggāhī. Yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya na paṭipajjati, na rakkhati manindriyaṃ, manindriye na saṃvaraṃ āpajjati. Yā imesaṃ channaṃ indriyānaṃ agutti agopanā anārakkho asaṃvaro – ayaṃ vuccati indriyesu aguttadvāratā. ^2152
+1352. Tattha katamā indriyesu aguttadvāratā? Idhekacco cakkhunā rūpaṃ disvā nimittaggāhī hoti anubyañjanaggāhī. Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya na paṭipajjati, na rakkhati cakkhundriyaṃ, cakkhundriye na saṃvaraṃ āpajjati. Sotena saddaṃ sutvā… pe… ghānena gandhaṃ ghāyitvā…pe… jivhāya rasaṃ sāyitvā…pe… kāyena phoṭṭhabbaṃ phusitvā…pe… manasā dhammaṃ viññāya nimittaggāhī hoti anubyañjanaggāhī. Yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya na paṭipajjati, na rakkhati manindriyaṃ, manindriye na saṃvaraṃ āpajjati. Yā imesaṃ channaṃ indriyānaṃ agutti agopanā anārakkho asaṃvaro – ayaṃ vuccati indriyesu aguttadvāratā.
 
-1353. Tattha katamā bhojane amattaññutā? Idhekacco appaṭisaṅkhā ayoniso āhāraṃ āhāreti davāya madāya maṇḍanāya vibhūsanāya. Yā tattha asantuṭṭhitā amattaññutā appaṭisaṅkhā bhojane – ayaṃ vuccati bhojane amattaññutā. ^2153
+1353. Tattha katamā bhojane amattaññutā? Idhekacco appaṭisaṅkhā ayoniso āhāraṃ āhāreti davāya madāya maṇḍanāya vibhūsanāya. Yā tattha asantuṭṭhitā amattaññutā appaṭisaṅkhā bhojane – ayaṃ vuccati bhojane amattaññutā.
 
-1354. Tattha katamā indriyesu guttadvāratā? Idhekacco cakkhunā rūpaṃ disvā na nimittaggāhī hoti na anubyañjanaggāhī. Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati. Sotena saddaṃ sutvā…pe… ghānena gandhaṃ ghāyitvā…pe… jivhāya rasaṃ sāyitvā…pe… kāyena phoṭṭhabbaṃ phusitvā…pe… manasā dhammaṃ viññāya na nimittaggāhī hoti nānubyañjanaggāhī. Yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati manindriyaṃ, manindriye saṃvaraṃ āpajjati. Yā imesaṃ channaṃ indriyānaṃ gutti gopanā ārakkho saṃvaro – ayaṃ vuccati indriyesu guttadvāratā. ^2154
+1354. Tattha katamā indriyesu guttadvāratā? Idhekacco cakkhunā rūpaṃ disvā na nimittaggāhī hoti na anubyañjanaggāhī. Yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjati. Sotena saddaṃ sutvā…pe… ghānena gandhaṃ ghāyitvā…pe… jivhāya rasaṃ sāyitvā…pe… kāyena phoṭṭhabbaṃ phusitvā…pe… manasā dhammaṃ viññāya na nimittaggāhī hoti nānubyañjanaggāhī. Yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ, tassa saṃvarāya paṭipajjati, rakkhati manindriyaṃ, manindriye saṃvaraṃ āpajjati. Yā imesaṃ channaṃ indriyānaṃ gutti gopanā ārakkho saṃvaro – ayaṃ vuccati indriyesu guttadvāratā.
 
-1355. Tattha katamā bhojane mattaññutā? Idhekacco paṭisaṅkhā yoniso āhāraṃ āhāreti – neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya, iti purāṇañca vedanaṃ paṭihaṅkhāmi, navañca vedanaṃ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cāti. Yā tattha santuṭṭhitā mattaññutā paṭisaṅkhā bhojane – ayaṃ vuccati bhojane mattaññutā. ^2155
+1355. Tattha katamā bhojane mattaññutā? Idhekacco paṭisaṅkhā yoniso āhāraṃ āhāreti – neva davāya na madāya na maṇḍanāya na vibhūsanāya yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya, iti purāṇañca vedanaṃ paṭihaṅkhāmi, navañca vedanaṃ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cāti. Yā tattha santuṭṭhitā mattaññutā paṭisaṅkhā bhojane – ayaṃ vuccati bhojane mattaññutā.
 
-1356. Tattha katamaṃ muṭṭhasaccaṃ? Yā asati ananussati appaṭissati asati asaraṇatā adhāraṇatā pilāpanatā sammusanatā – idaṃ vuccati muṭṭhasaccaṃ. ^2156
+1356. Tattha katamaṃ muṭṭhasaccaṃ? Yā asati ananussati appaṭissati asati asaraṇatā adhāraṇatā pilāpanatā sammusanatā – idaṃ vuccati muṭṭhasaccaṃ.
 
-1357. Tattha katamaṃ asampajaññaṃ? Yaṃ aññāṇaṃ adassanaṃ… pe… avijjālaṅgī moho akusalamūlaṃ – idaṃ vuccati asampajaññaṃ. ^2157
+1357. Tattha katamaṃ asampajaññaṃ? Yaṃ aññāṇaṃ adassanaṃ… pe… avijjālaṅgī moho akusalamūlaṃ – idaṃ vuccati asampajaññaṃ.
 
-1358. Tattha katamā sati? Yā sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammusanatā sati satindriyaṃ satibalaṃ sammāsati – ayaṃ vuccati sati. ^2158
+1358. Tattha katamā sati? Yā sati anussati paṭissati sati saraṇatā dhāraṇatā apilāpanatā asammusanatā sati satindriyaṃ satibalaṃ sammāsati – ayaṃ vuccati sati.
 
-1359. Tattha katamaṃ sampajaññaṃ? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – idaṃ vuccati sampajaññaṃ. ^2159
+1359. Tattha katamaṃ sampajaññaṃ? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – idaṃ vuccati sampajaññaṃ.
 
-1360. Tattha katamaṃ paṭisaṅkhānabalaṃ? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – idaṃ vuccati paṭisaṅkhānabalaṃ. ^2160
+1360. Tattha katamaṃ paṭisaṅkhānabalaṃ? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – idaṃ vuccati paṭisaṅkhānabalaṃ.
 
-1361. Tattha katamaṃ bhāvanābalaṃ? Yā kusalānaṃ dhammānaṃ āsevanā bhāvanā bahulīkammaṃ – idaṃ vuccati bhāvanābalaṃ. Sattapi bojjhaṅgā bhāvanābalaṃ. ^2161
+1361. Tattha katamaṃ bhāvanābalaṃ? Yā kusalānaṃ dhammānaṃ āsevanā bhāvanā bahulīkammaṃ – idaṃ vuccati bhāvanābalaṃ. Sattapi bojjhaṅgā bhāvanābalaṃ.
 
-1362. Tattha katamo samatho? Yā cittassa ṭhiti…pe… sammāsamādhi – ayaṃ vuccati samatho. ^2162
+1362. Tattha katamo samatho? Yā cittassa ṭhiti…pe… sammāsamādhi – ayaṃ vuccati samatho.
 
-1363. Tattha katamā vipassanā? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati vipassanā. ^2163
+1363. Tattha katamā vipassanā? Yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati vipassanā.
 
-1364. Tattha katamaṃ samathanimittaṃ? Yā cittassa ṭhiti…pe… sammāsamādhi – idaṃ vuccati samathanimittaṃ. ^2164
+1364. Tattha katamaṃ samathanimittaṃ? Yā cittassa ṭhiti…pe… sammāsamādhi – idaṃ vuccati samathanimittaṃ.
 
-1365. Tattha katamaṃ paggāhanimittaṃ? Yo cetasiko vīriyārambho… pe… sammāvāyāmo – idaṃ vuccati paggāhanimittaṃ. ^2165
+1365. Tattha katamaṃ paggāhanimittaṃ? Yo cetasiko vīriyārambho… pe… sammāvāyāmo – idaṃ vuccati paggāhanimittaṃ.
 
-1366. Tattha katamo paggāho? Yo cetasiko vīriyārambho…pe… sammāvāyāmo – ayaṃ vuccati paggāho. ^2166
+1366. Tattha katamo paggāho? Yo cetasiko vīriyārambho…pe… sammāvāyāmo – ayaṃ vuccati paggāho.
 
-1367. Tattha katamo avikkhepo? Yā cittassa ṭhiti…pe… sammāsamādhi – ayaṃ vuccati avikkhepo. ^2167
+1367. Tattha katamo avikkhepo? Yā cittassa ṭhiti…pe… sammāsamādhi – ayaṃ vuccati avikkhepo.
 
-1368. Tattha katamā sīlavipatti? Yo kāyiko vītikkamo, vācasiko vītikkamo, kāyikavācasiko vītikkamo – ayaṃ vuccati sīlavipatti. Sabbampi dussilyaṃ sīlavipatti. ^2168
+1368. Tattha katamā sīlavipatti? Yo kāyiko vītikkamo, vācasiko vītikkamo, kāyikavācasiko vītikkamo – ayaṃ vuccati sīlavipatti. Sabbampi dussilyaṃ sīlavipatti.
 
-1369. Tattha katamā diṭṭhivipatti? Natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentītiः yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati diṭṭhivipatti. Sabbāpi micchādiṭṭhi diṭṭhivipatti. ^2169
+1369. Tattha katamā diṭṭhivipatti? Natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, natthi ayaṃ loko, natthi paro loko, natthi mātā, natthi pitā, natthi sattā opapātikā, natthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentītiः yā evarūpā diṭṭhi diṭṭhigataṃ…pe… vipariyāsaggāho – ayaṃ vuccati diṭṭhivipatti. Sabbāpi micchādiṭṭhi diṭṭhivipatti.
 
-1370. Tattha katamā sīlasampadā? Yo kāyiko avītikkamo, vācasiko avītikkamo, kāyikavācasiko avītikkamo – ayaṃ vuccati sīlasampadā. Sabbopi sīlasaṃvaro sīlasampadā. ^2170
+1370. Tattha katamā sīlasampadā? Yo kāyiko avītikkamo, vācasiko avītikkamo, kāyikavācasiko avītikkamo – ayaṃ vuccati sīlasampadā. Sabbopi sīlasaṃvaro sīlasampadā.
 
-1371. Tattha katamā diṭṭhisampadā? Atthi dinnaṃ, atthi yiṭṭhaṃ, atthi hutaṃ, atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, atthi ayaṃ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentītiः yā evarūpā paññā pajānanā… pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati diṭṭhisampadā. Sabbāpi sammādiṭṭhi diṭṭhisampadā. ^2171
+1371. Tattha katamā diṭṭhisampadā? Atthi dinnaṃ, atthi yiṭṭhaṃ, atthi hutaṃ, atthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko, atthi ayaṃ loko, atthi paro loko, atthi mātā, atthi pitā, atthi sattā opapātikā, atthi loke samaṇabrāhmaṇā sammaggatā sammāpaṭipannā ye imañca lokaṃ parañca lokaṃ sayaṃ abhiññā sacchikatvā pavedentītiः yā evarūpā paññā pajānanā… pe… amoho dhammavicayo sammādiṭṭhi – ayaṃ vuccati diṭṭhisampadā. Sabbāpi sammādiṭṭhi diṭṭhisampadā.
 
-1372. Tattha katamā sīlavisuddhi? Yo kāyiko avītikkamo, vācasiko avītikkamo, kāyikavācasiko avītikkamo – ayaṃ vuccati sīlavisuddhi. Sabbopi sīlasaṃvaro sīlavisuddhi. ^2172
+1372. Tattha katamā sīlavisuddhi? Yo kāyiko avītikkamo, vācasiko avītikkamo, kāyikavācasiko avītikkamo – ayaṃ vuccati sīlavisuddhi. Sabbopi sīlasaṃvaro sīlavisuddhi.
 
-1373. Tattha katamā diṭṭhivisuddhi? Kammassakatañāṇaṃ saccānulomikañāṇaṃ maggasamaṅgissa ñāṇaṃ phalasamaṅgissa ñāṇaṃ. ^2173
+1373. Tattha katamā diṭṭhivisuddhi? Kammassakatañāṇaṃ saccānulomikañāṇaṃ maggasamaṅgissa ñāṇaṃ phalasamaṅgissa ñāṇaṃ.
 
-1374. Diṭṭhivisuddhi kho panāti – yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi. ^2174
+1374. Diṭṭhivisuddhi kho panāti – yā paññā pajānanā…pe… amoho dhammavicayo sammādiṭṭhi.
 
-1375. Yathādiṭṭhissa ca padhānanti – yo cetasiko vīriyārambho… pe… sammāvāyāmo. ^2175
+1375. Yathādiṭṭhissa ca padhānanti – yo cetasiko vīriyārambho… pe… sammāvāyāmo.
 
-1376. Saṃvegoti – jātibhayaṃ jarābhayaṃ byādhibhayaṃ maraṇabhayaṃ. Saṃvejaniyaṃ ṭhānanti – jāti jarā byādhi maraṇaṃ. ^2176
+1376. Saṃvegoti – jātibhayaṃ jarābhayaṃ byādhibhayaṃ maraṇabhayaṃ. Saṃvejaniyaṃ ṭhānanti – jāti jarā byādhi maraṇaṃ.
 
-1377. Saṃviggassa ca yoniso padhānanti – idha bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati. ^2177
+1377. Saṃviggassa ca yoniso padhānanti – idha bhikkhu anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ pahānāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, anuppannānaṃ kusalānaṃ dhammānaṃ uppādāya chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati, uppannānaṃ kusalānaṃ dhammānaṃ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṃ janeti vāyamati vīriyaṃ ārabhati cittaṃ paggaṇhāti padahati.
 
-1378. Asantuṭṭhitā ca kusalesu dhammesūti – yā kusalānaṃ dhammānaṃ bhāvanāya asantuṭṭhassa bhiyyokamyatā. ^2178
+1378. Asantuṭṭhitā ca kusalesu dhammesūti – yā kusalānaṃ dhammānaṃ bhāvanāya asantuṭṭhassa bhiyyokamyatā.
 
-1379. Appaṭivānitā ca padhānasminti – yā kusalānaṃ dhammānaṃ bhāvanāya sakkaccakiriyatā sātaccakiriyatā aṭṭhitakiriyatā anolīnavuttitā anikkhittachandatā anikkhittadhuratā āsevanā bhāvanā bahulīkammaṃ. ^2179
+1379. Appaṭivānitā ca padhānasminti – yā kusalānaṃ dhammānaṃ bhāvanāya sakkaccakiriyatā sātaccakiriyatā aṭṭhitakiriyatā anolīnavuttitā anikkhittachandatā anikkhittadhuratā āsevanā bhāvanā bahulīkammaṃ.
 
-1380. Vijjāti – tisso vijjā – pubbenivāsānussati ñāṇaṃ vijjā, sattānaṃ cutūpapāte ñāṇaṃ vijjā, āsavānaṃ khaye ñāṇaṃ vijjā. ^2180
+1380. Vijjāti – tisso vijjā – pubbenivāsānussati ñāṇaṃ vijjā, sattānaṃ cutūpapāte ñāṇaṃ vijjā, āsavānaṃ khaye ñāṇaṃ vijjā.
 
-1381. Vimuttīti – dve vimuttiyo – cittassa adhimutti, nibbānañca. ^2181
+1381. Vimuttīti – dve vimuttiyo – cittassa adhimutti, nibbānañca.
 
-1382. Khaye ñāṇanti – maggasamaṅgissa ñāṇaṃ. ^2182
+1382. Khaye ñāṇanti – maggasamaṅgissa ñāṇaṃ.
 
-1383. Anuppāde ñāṇanti – phalasamaṅgissa ñāṇaṃ. ^2183
+1383. Anuppāde ñāṇanti – phalasamaṅgissa ñāṇaṃ.
 
-Nikkhepakaṇḍaṃ niṭṭhitaṃ. ^2184
+Nikkhepakaṇḍaṃ niṭṭhitaṃ.
 
-4. Aṭṭhakathākaṇḍaṃ ^2185
+4. Aṭṭhakathākaṇḍaṃ
 
-Tikaatthuddhāro ^2186
+Tikaatthuddhāro
 
-1384. Katame dhammā kusalā? Catūsu bhūmīsu kusalaṃ – ime dhammā kusalā. ^2187
+1384. Katame dhammā kusalā? Catūsu bhūmīsu kusalaṃ – ime dhammā kusalā.
 
-1385. Katame dhammā akusalā? Dvādasa akusalacittuppādā – ime dhammā akusalā. ^2188
+1385. Katame dhammā akusalā? Dvādasa akusalacittuppādā – ime dhammā akusalā.
 
-1386. Katame dhammā abyākatā? Catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā abyākatā. ^2189
+1386. Katame dhammā abyākatā? Catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā abyākatā.
 
-1387. Katame dhammā sukhāya vedanāya sampayuttā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro kāmāvacarakusalassa vipākato ca kiriyato ca pañca, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaratikacatukkajjhānā kusalato ca vipākato ca, etthuppannaṃ sukhaṃ vedanaṃ ṭhapetvā – ime dhammā sukhāya vedanāya sampayuttā. ^2190
+1387. Katame dhammā sukhāya vedanāya sampayuttā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro kāmāvacarakusalassa vipākato ca kiriyato ca pañca, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaratikacatukkajjhānā kusalato ca vipākato ca, etthuppannaṃ sukhaṃ vedanaṃ ṭhapetvā – ime dhammā sukhāya vedanāya sampayuttā.
 
-1388. Katame dhammā dukkhāya vedanāya sampayuttā? Dve domanassasahagatacittuppādā, dukkhasahagataṃ kāyaviññāṇaṃ, etthuppannaṃ dukkhaṃ vedanaṃ ṭhapetvā – ime dhammā dukkhāya vedanāya sampayuttā. ^2191
+1388. Katame dhammā dukkhāya vedanāya sampayuttā? Dve domanassasahagatacittuppādā, dukkhasahagataṃ kāyaviññāṇaṃ, etthuppannaṃ dukkhaṃ vedanaṃ ṭhapetvā – ime dhammā dukkhāya vedanāya sampayuttā.
 
-1389. Katame dhammā adukkhamasukhāya vedanāya sampayuttā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato cha, kāmāvacarakusalassa vipākato dasa, akusalassa vipākato cha, kiriyato cha, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, cattāro arūpāvacarā kusalato ca vipākato ca kiriyato ca, lokuttaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ adukkhamasukhaṃ vedanaṃ ṭhapetvā – ime dhammā adukkhamasukhāya vedanāya sampayuttā. Tisso ca vedanā, rūpañca, nibbānañca – ime dhammā na vattabbā sukhāya vedanāya sampayuttātipi, dukkhāya vedanāya sampayuttātipi, ya vedanāya sampayuttātipi. ^2192
+1389. Katame dhammā adukkhamasukhāya vedanāya sampayuttā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato cha, kāmāvacarakusalassa vipākato dasa, akusalassa vipākato cha, kiriyato cha, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, cattāro arūpāvacarā kusalato ca vipākato ca kiriyato ca, lokuttaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ adukkhamasukhaṃ vedanaṃ ṭhapetvā – ime dhammā adukkhamasukhāya vedanāya sampayuttā. Tisso ca vedanā, rūpañca, nibbānañca – ime dhammā na vattabbā sukhāya vedanāya sampayuttātipi, dukkhāya vedanāya sampayuttātipi, ya vedanāya sampayuttātipi.
 
-1390. Katame dhammā vipākā? Catūsu bhūmīsu vipāko – ime dhammā vipākā. ^2193
+1390. Katame dhammā vipākā? Catūsu bhūmīsu vipāko – ime dhammā vipākā.
 
-1391. Katame dhammā vipākadhammadhammā? Catūsu bhūmīsu kusalaṃ akusalaṃ – ime dhammā vipākadhammadhammā. ^2194
+1391. Katame dhammā vipākadhammadhammā? Catūsu bhūmīsu kusalaṃ akusalaṃ – ime dhammā vipākadhammadhammā.
 
-1392. Katame dhammā nevavipākanavipākadhammadhammā? Tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā nevavipākanavipākadhammadhammā. ^2195
+1392. Katame dhammā nevavipākanavipākadhammadhammā? Tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā nevavipākanavipākadhammadhammā.
 
-1393. Katame dhammā upādiṇṇupādāniyā? Tīsu bhūmīsu vipāko, yañca rūpaṃ kammassa katattā – ime dhammā upādiṇṇupādāniyā. ^2196
+1393. Katame dhammā upādiṇṇupādāniyā? Tīsu bhūmīsu vipāko, yañca rūpaṃ kammassa katattā – ime dhammā upādiṇṇupādāniyā.
 
-1394. Katame dhammā anupādiṇṇupādāniyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ na kammassa katattā – ime dhammā anupādiṇṇupādāniyā. ^2197
+1394. Katame dhammā anupādiṇṇupādāniyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ na kammassa katattā – ime dhammā anupādiṇṇupādāniyā.
 
-1395. Katame dhammā anupādiṇṇaanupādāniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anupādiṇṇaanupādāniyā. ^2198
+1395. Katame dhammā anupādiṇṇaanupādāniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anupādiṇṇaanupādāniyā.
 
-1396. Katame dhammā saṃkiliṭṭhasaṃkilesikā? Dvādasākusalacittuppādā – ime dhammā saṃkiliṭṭhasaṃkilesikā. ^2199
+1396. Katame dhammā saṃkiliṭṭhasaṃkilesikā? Dvādasākusalacittuppādā – ime dhammā saṃkiliṭṭhasaṃkilesikā.
 
-1397. Katame dhammā asaṃkiliṭṭhasaṃkilesikā? Tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā asaṃkiliṭṭhasaṃkilesikā. ^2200
+1397. Katame dhammā asaṃkiliṭṭhasaṃkilesikā? Tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā asaṃkiliṭṭhasaṃkilesikā.
 
-1398. Katame dhammā asaṃkiliṭṭhaasaṃkilesikā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā asaṃkiliṭṭhaasaṃkilesikā. ^2201
+1398. Katame dhammā asaṃkiliṭṭhaasaṃkilesikā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā asaṃkiliṭṭhaasaṃkilesikā.
 
-1399. Katame dhammā savitakkasavicārā? Kāmāvacaraṃ kusalaṃ, akusalaṃ, kāmāvacarakusalassa vipākato ekādasa cittuppādā, akusalassa vipākato dve, kiriyato ekādasa, rūpāvacaraṃ paṭhamaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, lokuttaraṃ paṭhamaṃ jhānaṃ kusalato ca vipākato ca, etthuppanne vitakkavicāre ṭhapetvā – ime dhammā savitakkasavicārā. ^2202
+1399. Katame dhammā savitakkasavicārā? Kāmāvacaraṃ kusalaṃ, akusalaṃ, kāmāvacarakusalassa vipākato ekādasa cittuppādā, akusalassa vipākato dve, kiriyato ekādasa, rūpāvacaraṃ paṭhamaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, lokuttaraṃ paṭhamaṃ jhānaṃ kusalato ca vipākato ca, etthuppanne vitakkavicāre ṭhapetvā – ime dhammā savitakkasavicārā.
 
-1400. Katame dhammā avitakkavicāramattā? Rūpāvacarapañcakanaye dutiyaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, lokuttarapañcakanaye dutiyaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ vicāraṃ ṭhapetvā, vitakko ca – ime dhammā avitakkavicāramattā. ^2203
+1400. Katame dhammā avitakkavicāramattā? Rūpāvacarapañcakanaye dutiyaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, lokuttarapañcakanaye dutiyaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ vicāraṃ ṭhapetvā, vitakko ca – ime dhammā avitakkavicāramattā.
 
-1401. Katame dhammā avitakkaavicārā? Dvepañcaviññāṇāni, rūpāvacaratikatikajjhānā kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca lokuttaratikatikajjhānā kusalato ca vipākato ca pañcakanaye dutiye jhāne , uppanno ca vicāro rūpañca nibbānañca – ime dhammā avitakkaavicārā. Vitakkasahajāto vicāro na vattabbo savitakkasavicārotipi, avitakkavicāramattotipi, avitakkaavicārotipi. ^2204
+1401. Katame dhammā avitakkaavicārā? Dvepañcaviññāṇāni, rūpāvacaratikatikajjhānā kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca lokuttaratikatikajjhānā kusalato ca vipākato ca pañcakanaye dutiye jhāne , uppanno ca vicāro rūpañca nibbānañca – ime dhammā avitakkaavicārā. Vitakkasahajāto vicāro na vattabbo savitakkasavicārotipi, avitakkavicāramattotipi, avitakkaavicārotipi.
 
-1402. Katame dhammā pītisahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato pañca, kiriyato pañca, rūpāvacaradukatikajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaradukatikajjhānā kusalato ca vipākato ca, etthuppannaṃ pītiṃ ṭhapetvā – ime dhammā pītisahagatā. ^2205
+1402. Katame dhammā pītisahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato pañca, kiriyato pañca, rūpāvacaradukatikajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaradukatikajjhānā kusalato ca vipākato ca, etthuppannaṃ pītiṃ ṭhapetvā – ime dhammā pītisahagatā.
 
-1403. Katame dhammā sukhasahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato cha, kiriyato pañca, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaratikacatukkajjhānā kusalato ca vipākato ca, etthuppannaṃ sukhaṃ ṭhapetvā – ime dhammā sukhasahagatā. ^2206
+1403. Katame dhammā sukhasahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato cha, kiriyato pañca, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaratikacatukkajjhānā kusalato ca vipākato ca, etthuppannaṃ sukhaṃ ṭhapetvā – ime dhammā sukhasahagatā.
 
-1404. Katame dhammā upekkhāsahagatā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato cha, kāmāvacarakusalassa vipākato dasa, akusalassa vipākato cha, kiriyato cha, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ upekkhaṃ ṭhapetvā – ime dhammā upekkhāsahagatā. Pīti na pītisahagatā, sukhasahagatā, na upekkhāsahagatā. Sukhaṃ na sukhasahagataṃ, siyā pītisahagataṃ, na upekkhāsahagataṃ, siyā na vattabbaṃ pītisahagatanti. Dve domanassasahagatacittuppādā, dukkhasahagatakāyaviññāṇaṃ, yā ca vedanā upekkhā, rūpañca nibbānañca – ime dhammā na vattabbā pītisahagatātipi, sukhasahagatātipi, upekkhāsahagatātipi. ^2207
+1404. Katame dhammā upekkhāsahagatā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato cha, kāmāvacarakusalassa vipākato dasa, akusalassa vipākato cha, kiriyato cha, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ upekkhaṃ ṭhapetvā – ime dhammā upekkhāsahagatā. Pīti na pītisahagatā, sukhasahagatā, na upekkhāsahagatā. Sukhaṃ na sukhasahagataṃ, siyā pītisahagataṃ, na upekkhāsahagataṃ, siyā na vattabbaṃ pītisahagatanti. Dve domanassasahagatacittuppādā, dukkhasahagatakāyaviññāṇaṃ, yā ca vedanā upekkhā, rūpañca nibbānañca – ime dhammā na vattabbā pītisahagatātipi, sukhasahagatātipi, upekkhāsahagatātipi.
 
-1405. Katame dhammā dassanena pahātabbā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo – ime dhammā dassanena pahātabbā. ^2208
+1405. Katame dhammā dassanena pahātabbā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo – ime dhammā dassanena pahātabbā.
 
-1406. Katame dhammā bhāvanāya pahātabbā? Uddhaccasahagato cittuppādo – ime dhammā bhāvanāya pahātabbā. Cattāro diṭṭhigatavippayuttā lobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā dassanena pahātabbā siyā bhāvanāya pahātabbā. ^2209
+1406. Katame dhammā bhāvanāya pahātabbā? Uddhaccasahagato cittuppādo – ime dhammā bhāvanāya pahātabbā. Cattāro diṭṭhigatavippayuttā lobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā dassanena pahātabbā siyā bhāvanāya pahātabbā.
 
-1407. Katame dhammā neva dassanena na bhāvanāya pahātabbā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā neva dassanena na bhāvanāya pahātabbā. ^2210
+1407. Katame dhammā neva dassanena na bhāvanāya pahātabbā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā neva dassanena na bhāvanāya pahātabbā.
 
-1408. Katame dhammā dassanena pahātabbahetukā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo, etthuppannaṃ mohaṃ ṭhapetvā – ime dhammā dassanena pahātabbahetukā. ^2211
+1408. Katame dhammā dassanena pahātabbahetukā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo, etthuppannaṃ mohaṃ ṭhapetvā – ime dhammā dassanena pahātabbahetukā.
 
-1409. Katame dhammā bhāvanāya pahātabbahetukā? Uddhaccasahagato cittuppādo, etthuppannaṃ mohaṃ ṭhapetvā – ime dhammā bhāvanāya pahātabbahetukā. Cattāro diṭṭhigatavippayuttā lobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā dassanena pahātabbahetukā, siyā bhāvanāya pahātabbahetukā. ^2212
+1409. Katame dhammā bhāvanāya pahātabbahetukā? Uddhaccasahagato cittuppādo, etthuppannaṃ mohaṃ ṭhapetvā – ime dhammā bhāvanāya pahātabbahetukā. Cattāro diṭṭhigatavippayuttā lobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā dassanena pahātabbahetukā, siyā bhāvanāya pahātabbahetukā.
 
-1410. Katame dhammā neva dassanena na bhāvanāya pahātabbahetukā? Vicikicchāsahagato moho, uddhaccasahagato moho, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā neva dassanena na bhāvanāya pahātabbahetukā. ^2213
+1410. Katame dhammā neva dassanena na bhāvanāya pahātabbahetukā? Vicikicchāsahagato moho, uddhaccasahagato moho, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā neva dassanena na bhāvanāya pahātabbahetukā.
 
-1411. Katame dhammā ācayagāmino? Tīsu bhūmīsu kusalaṃ, akusalaṃ – ime dhammā ācayagāmino. ^2214
+1411. Katame dhammā ācayagāmino? Tīsu bhūmīsu kusalaṃ, akusalaṃ – ime dhammā ācayagāmino.
 
-1412. Katame dhammā apacayagāmino? Cattāro maggā apariyāpannā – ime dhammā apacayagāmino. ^2215
+1412. Katame dhammā apacayagāmino? Cattāro maggā apariyāpannā – ime dhammā apacayagāmino.
 
-1413. Katame dhammā nevācayagāmināpacayagāmino? Catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā nevācayagāmināpacayagāmino. ^2216
+1413. Katame dhammā nevācayagāmināpacayagāmino? Catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā nevācayagāmināpacayagāmino.
 
-1414. Katame dhammā sekkhā? Cattāro maggā apariyāpannā, heṭṭhimāni ca tīṇi sāmaññaphalāni – ime dhammā sekkhā. ^2217
+1414. Katame dhammā sekkhā? Cattāro maggā apariyāpannā, heṭṭhimāni ca tīṇi sāmaññaphalāni – ime dhammā sekkhā.
 
-1415. Katame dhammā asekkhā? Upariṭṭhimaṃ arahattaphalaṃ – ime dhammā asekkhā. ^2218
+1415. Katame dhammā asekkhā? Upariṭṭhimaṃ arahattaphalaṃ – ime dhammā asekkhā.
 
-1416. Katame dhammā nevasekkhanāsekkhā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā nevasekkhanāsekkhā. ^2219
+1416. Katame dhammā nevasekkhanāsekkhā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā nevasekkhanāsekkhā.
 
-1417. Katame dhammā parittā? Kāmāvacarakusalaṃ, akusalaṃ, sabbo kāmāvacarassa vipāko, kāmāvacarakiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā parittā. ^2220
+1417. Katame dhammā parittā? Kāmāvacarakusalaṃ, akusalaṃ, sabbo kāmāvacarassa vipāko, kāmāvacarakiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā parittā.
 
-1418. Katame dhammā mahaggatā? Rūpāvacarā, arūpāvacarā, kusalābyākatā – ime dhammā mahaggatā. ^2221
+1418. Katame dhammā mahaggatā? Rūpāvacarā, arūpāvacarā, kusalābyākatā – ime dhammā mahaggatā.
 
-1419. Katame dhammā appamāṇā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā appamāṇā. ^2222
+1419. Katame dhammā appamāṇā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā appamāṇā.
 
-1420. Katame dhammā parittārammaṇā? Sabbo kāmāvacarassa vipāko, kiriyāmanodhātu, kiriyāhetukamanoviññāṇadhātu somanassasahagatā – ime dhammā parittārammaṇā. ^2223
+1420. Katame dhammā parittārammaṇā? Sabbo kāmāvacarassa vipāko, kiriyāmanodhātu, kiriyāhetukamanoviññāṇadhātu somanassasahagatā – ime dhammā parittārammaṇā.
 
-1421. Katame dhammā mahaggatārammaṇā? Viññāṇañcāyatanaṃ, nevasaññānāsaññāyatanaṃ – ime dhammā mahaggatārammaṇā. ^2224
+1421. Katame dhammā mahaggatārammaṇā? Viññāṇañcāyatanaṃ, nevasaññānāsaññāyatanaṃ – ime dhammā mahaggatārammaṇā.
 
-1422. Katame dhammā appamāṇārammaṇā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni – ime dhammā appamāṇārammaṇā. Kāmāvacarakusalato cattāro ñāṇavippayuttacittuppādā, kiriyato cattāro ñāṇavippayuttacittuppādā, sabbaṃ akusalaṃ – ime dhammā siyā parittārammaṇā, siyā mahaggatārammaṇā, na appamāṇārammaṇā, siyā na vattabbā parittārammaṇātipi, mahaggatārammaṇātipi. Kāmāvacarakusalato cattāro ñāṇasampayuttacittuppādā, kiriyato cattāro ñāṇasampayuttacittuppādā, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca kiriyato ca, kiriyāhetukamanoviññāṇadhātu upekkhāsahagatā – ime dhammā siyā parittārammaṇā, siyā mahaggatārammaṇā, siyā appamāṇārammaṇā, siyā na vattabbā parittārammaṇātipi, mahaggatārammaṇātipi, appamāṇārammaṇātipi. Rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, catutthassa jhānassa vipāko, ākāsānañcāyatanaṃ, ākiñcaññāyatanaṃ – ime dhammā na vattabbā parittārammaṇātipi, mahaggatārammaṇātipi, appamāṇārammaṇātipi. Rūpañca nibbānañca anārammaṇā. ^2225
+1422. Katame dhammā appamāṇārammaṇā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni – ime dhammā appamāṇārammaṇā. Kāmāvacarakusalato cattāro ñāṇavippayuttacittuppādā, kiriyato cattāro ñāṇavippayuttacittuppādā, sabbaṃ akusalaṃ – ime dhammā siyā parittārammaṇā, siyā mahaggatārammaṇā, na appamāṇārammaṇā, siyā na vattabbā parittārammaṇātipi, mahaggatārammaṇātipi. Kāmāvacarakusalato cattāro ñāṇasampayuttacittuppādā, kiriyato cattāro ñāṇasampayuttacittuppādā, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca kiriyato ca, kiriyāhetukamanoviññāṇadhātu upekkhāsahagatā – ime dhammā siyā parittārammaṇā, siyā mahaggatārammaṇā, siyā appamāṇārammaṇā, siyā na vattabbā parittārammaṇātipi, mahaggatārammaṇātipi, appamāṇārammaṇātipi. Rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, catutthassa jhānassa vipāko, ākāsānañcāyatanaṃ, ākiñcaññāyatanaṃ – ime dhammā na vattabbā parittārammaṇātipi, mahaggatārammaṇātipi, appamāṇārammaṇātipi. Rūpañca nibbānañca anārammaṇā.
 
-1423. Katame dhammā hīnā? Dvādasa akusalacittuppādā – ime dhammā hīnā. ^2226
+1423. Katame dhammā hīnā? Dvādasa akusalacittuppādā – ime dhammā hīnā.
 
-1424. Katame dhammā majjhimā? Tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā majjhimā. ^2227
+1424. Katame dhammā majjhimā? Tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā majjhimā.
 
-1425. Katame dhammā paṇītā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā paṇītā. ^2228
+1425. Katame dhammā paṇītā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā paṇītā.
 
-1426. Katame dhammā micchattaniyatā? Cattāro diṭṭhigatasampayuttacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā micchattaniyatā, siyā aniyatā. ^2229
+1426. Katame dhammā micchattaniyatā? Cattāro diṭṭhigatasampayuttacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā micchattaniyatā, siyā aniyatā.
 
-1427. Katame dhammā sammattaniyatā? Cattāro maggā apariyāpannā – ime dhammā sammattaniyatā. ^2230
+1427. Katame dhammā sammattaniyatā? Cattāro maggā apariyāpannā – ime dhammā sammattaniyatā.
 
-1428. Katame dhammā aniyatā? Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā aniyatā. ^2231
+1428. Katame dhammā aniyatā? Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā aniyatā.
 
-1429. Katame dhammā maggārammaṇā? Kāmāvacarakusalato cattāro ñāṇasampayuttacittuppādā, kiriyato cattāro ñāṇasampayuttacittuppādā – ime dhammā siyā maggārammaṇā, na maggahetukā; siyā maggādhipatino, siyā na vattabbā maggārammaṇātipi, maggādhipatinotipi. Cattāro ariyamaggā na maggārammaṇā, maggahetukā; siyā maggādhipatino, siyā na vattabbā maggādhipatinoti. Rūpāvacaracatutthaṃ jhānaṃ kusalato ca kiriyato ca, kiriyāhetukamanoviññāṇadhātu upekkhāsahagatā – ime dhammā siyā maggārammaṇā; na maggahetukā, na maggādhipatino; siyā na vattabbā maggārammaṇāti. Kāmāvacarakusalato cattāro ñāṇavippayuttacittuppādā, sabbaṃ akusalaṃ, sabbo kāmāvacarassa vipāko, kiriyato cha cittuppādā, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, catutthassa jhānassa vipāko, cattāro āruppā kusalato ca vipākato ca kiriyato ca, cattāri ca sāmaññaphalāni – ime dhammā na vattabbā maggārammaṇātipi, maggahetukātipi, maggādhipatinotipi. Rūpañca nibbānañca anārammaṇā. ^2232
+1429. Katame dhammā maggārammaṇā? Kāmāvacarakusalato cattāro ñāṇasampayuttacittuppādā, kiriyato cattāro ñāṇasampayuttacittuppādā – ime dhammā siyā maggārammaṇā, na maggahetukā; siyā maggādhipatino, siyā na vattabbā maggārammaṇātipi, maggādhipatinotipi. Cattāro ariyamaggā na maggārammaṇā, maggahetukā; siyā maggādhipatino, siyā na vattabbā maggādhipatinoti. Rūpāvacaracatutthaṃ jhānaṃ kusalato ca kiriyato ca, kiriyāhetukamanoviññāṇadhātu upekkhāsahagatā – ime dhammā siyā maggārammaṇā; na maggahetukā, na maggādhipatino; siyā na vattabbā maggārammaṇāti. Kāmāvacarakusalato cattāro ñāṇavippayuttacittuppādā, sabbaṃ akusalaṃ, sabbo kāmāvacarassa vipāko, kiriyato cha cittuppādā, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, catutthassa jhānassa vipāko, cattāro āruppā kusalato ca vipākato ca kiriyato ca, cattāri ca sāmaññaphalāni – ime dhammā na vattabbā maggārammaṇātipi, maggahetukātipi, maggādhipatinotipi. Rūpañca nibbānañca anārammaṇā.
 
-1430. Katame dhammā uppannā? Catūsu bhūmīsu vipāko, yañca rūpaṃ kammassa katattā – ime dhammā siyā uppannā, siyā uppādino; na vattabbā anuppannāti. Catūsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ na kammassa katattā – ime dhammā siyā uppannā, siyā anuppannā, na vattabbā uppādinoti. Nibbānaṃ na vattabbaṃ uppannantipi, anuppannantipi, uppādinotipi. ^2233
+1430. Katame dhammā uppannā? Catūsu bhūmīsu vipāko, yañca rūpaṃ kammassa katattā – ime dhammā siyā uppannā, siyā uppādino; na vattabbā anuppannāti. Catūsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ na kammassa katattā – ime dhammā siyā uppannā, siyā anuppannā, na vattabbā uppādinoti. Nibbānaṃ na vattabbaṃ uppannantipi, anuppannantipi, uppādinotipi.
 
-1431. Nibbānaṃ ṭhapetvā sabbe dhammā siyā atītā, siyā anāgatā, siyā paccuppannā. Nibbānaṃ na vattabbaṃ atītantipi, anāgatantipi, paccuppannantipi. ^2234
+1431. Nibbānaṃ ṭhapetvā sabbe dhammā siyā atītā, siyā anāgatā, siyā paccuppannā. Nibbānaṃ na vattabbaṃ atītantipi, anāgatantipi, paccuppannantipi.
 
-1432. Katame dhammā atītārammaṇā? Viññāṇañcāyatanaṃ, nevasaññānāsaññāyatanaṃ – ime dhammā atītārammaṇā. ^2235
+1432. Katame dhammā atītārammaṇā? Viññāṇañcāyatanaṃ, nevasaññānāsaññāyatanaṃ – ime dhammā atītārammaṇā.
 
-1433. Niyogā anāgatārammaṇā natthi. ^2236
+1433. Niyogā anāgatārammaṇā natthi.
 
-1434. Katame dhammā paccuppannārammaṇā? Dvepañcaviññāṇāni, tisso ca manodhātuyo – ime dhammā paccuppannārammaṇā. Kāmāvacarakusalassa vipākato dasa cittuppādā, akusalassa vipākato manoviññāṇadhātu upekkhāsahagatā, kiriyāhetukamanoviññāṇadhātu somanassasahagatā – ime dhammā siyā atītārammaṇā, siyā anāgatārammaṇā, siyā paccuppannārammaṇā. Kāmāvacarakusalaṃ, akusalaṃ, kiriyato nava cittuppādā, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca kiriyato ca – ime dhammā siyā atītārammaṇā, siyā anāgatārammaṇā, siyā paccuppannārammaṇā; siyā na vattabbā atītārammaṇātipi, anāgatārammaṇātipi, paccuppannārammaṇātipi. Rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, catutthassa jhānassa vipāko, ākāsānañcāyatanaṃ, ākiñcaññāyatanaṃ, cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni – ime dhammā na vattabbā atītārammaṇātipi, anāgatārammaṇātipi, paccuppannārammaṇātipi. Rūpañca nibbānañca anārammaṇā. ^2237
+1434. Katame dhammā paccuppannārammaṇā? Dvepañcaviññāṇāni, tisso ca manodhātuyo – ime dhammā paccuppannārammaṇā. Kāmāvacarakusalassa vipākato dasa cittuppādā, akusalassa vipākato manoviññāṇadhātu upekkhāsahagatā, kiriyāhetukamanoviññāṇadhātu somanassasahagatā – ime dhammā siyā atītārammaṇā, siyā anāgatārammaṇā, siyā paccuppannārammaṇā. Kāmāvacarakusalaṃ, akusalaṃ, kiriyato nava cittuppādā, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca kiriyato ca – ime dhammā siyā atītārammaṇā, siyā anāgatārammaṇā, siyā paccuppannārammaṇā; siyā na vattabbā atītārammaṇātipi, anāgatārammaṇātipi, paccuppannārammaṇātipi. Rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, catutthassa jhānassa vipāko, ākāsānañcāyatanaṃ, ākiñcaññāyatanaṃ, cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni – ime dhammā na vattabbā atītārammaṇātipi, anāgatārammaṇātipi, paccuppannārammaṇātipi. Rūpañca nibbānañca anārammaṇā.
 
-1435. Anindriyabaddharūpañca nibbānañca ṭhapetvā, sabbe dhammā siyā ajjhattā, siyā bahiddhā, siyā ajjhattabahiddhā. Anindriyabaddharūpañca nibbānañca bahiddhā. ^2238
+1435. Anindriyabaddharūpañca nibbānañca ṭhapetvā, sabbe dhammā siyā ajjhattā, siyā bahiddhā, siyā ajjhattabahiddhā. Anindriyabaddharūpañca nibbānañca bahiddhā.
 
-1436. Katame dhammā ajjhattārammaṇā? Viññāṇañcāyatanaṃ, nevasaññānāsaññāyatanaṃ – ime dhammā ajjhattārammaṇā. ^2239
+1436. Katame dhammā ajjhattārammaṇā? Viññāṇañcāyatanaṃ, nevasaññānāsaññāyatanaṃ – ime dhammā ajjhattārammaṇā.
 
-1437. Katame dhammā bahiddhārammaṇā? Rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, catutthassa jhānassa vipāko, ākāsānañcāyatanaṃ, cattāro maggā apariyāpannā cattāri ca sāmaññaphalāni – ime dhammā bahiddhārammaṇā. Rūpaṃ ṭhapetvā, sabbeva kāmāvacarā kusalākusalābyākatā dhammā, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca kiriyato ca – ime dhammā siyā ajjhattārammaṇā, siyā bahiddhārammaṇā, siyā ajjhattabahiddhārammaṇā. Ākiñcaññāyatanaṃ na vattabbaṃ ajjhattārammaṇantipi, bahiddhārammaṇantipi, ajjhattabahiddhārammaṇantipi. Rūpañca nibbānañca anārammaṇā. ^2240
+1437. Katame dhammā bahiddhārammaṇā? Rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, catutthassa jhānassa vipāko, ākāsānañcāyatanaṃ, cattāro maggā apariyāpannā cattāri ca sāmaññaphalāni – ime dhammā bahiddhārammaṇā. Rūpaṃ ṭhapetvā, sabbeva kāmāvacarā kusalākusalābyākatā dhammā, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca kiriyato ca – ime dhammā siyā ajjhattārammaṇā, siyā bahiddhārammaṇā, siyā ajjhattabahiddhārammaṇā. Ākiñcaññāyatanaṃ na vattabbaṃ ajjhattārammaṇantipi, bahiddhārammaṇantipi, ajjhattabahiddhārammaṇantipi. Rūpañca nibbānañca anārammaṇā.
 
-1438. Katame dhammā sanidassanasappaṭighā? Rūpāyatanaṃ – ime dhammā sanidassanasappaṭighā. ^2241
+1438. Katame dhammā sanidassanasappaṭighā? Rūpāyatanaṃ – ime dhammā sanidassanasappaṭighā.
 
-1439. Katame dhammā anidassanasappaṭighā? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – ime dhammā anidassanasappaṭighā. ^2242
+1439. Katame dhammā anidassanasappaṭighā? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – ime dhammā anidassanasappaṭighā.
 
-1440. Katame dhammā anidassanaappaṭighā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, nibbānañca – ime dhammā anidassanaappaṭighā. ^2243
+1440. Katame dhammā anidassanaappaṭighā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, nibbānañca – ime dhammā anidassanaappaṭighā.
 
-Tikaṃ. ^2244
+Tikaṃ.
 
-Dukaatthuddhāro ^2245
+Dukaatthuddhāro
 
-Hetugocchakaṃ ^2246
+Hetugocchakaṃ
 
-1441. Katame dhammā hetū? Tayo kusalahetū, tayo akusalahetū, tayo abyākatahetū. Alobho kusalahetu, adoso kusalahetu, catūsu bhūmīsu kusalesu uppajjanti. Amoho kusalahetu, kāmāvacarakusalato cattāro ñāṇavippayutte cittuppāde ṭhapetvā, catūsu bhūmīsu kusalesu uppajjati. ^2247
+1441. Katame dhammā hetū? Tayo kusalahetū, tayo akusalahetū, tayo abyākatahetū. Alobho kusalahetu, adoso kusalahetu, catūsu bhūmīsu kusalesu uppajjanti. Amoho kusalahetu, kāmāvacarakusalato cattāro ñāṇavippayutte cittuppāde ṭhapetvā, catūsu bhūmīsu kusalesu uppajjati.
 
-Lobho aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Doso dvīsu domanassasahagatesu cittuppādesu uppajjati. Moho sabbākusalesu uppajjati. ^2248
+Lobho aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Doso dvīsu domanassasahagatesu cittuppādesu uppajjati. Moho sabbākusalesu uppajjati.
 
-Alobho vipākahetu adoso vipākahetu, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā, catūsu bhūmīsu vipākesu uppajjanti. Amoho vipākahetu, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā, cattāro ñāṇavippayutte cittuppāde ṭhapetvā, catūsu bhūmīsu vipākesu uppajjati. ^2249
+Alobho vipākahetu adoso vipākahetu, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā, catūsu bhūmīsu vipākesu uppajjanti. Amoho vipākahetu, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā, cattāro ñāṇavippayutte cittuppāde ṭhapetvā, catūsu bhūmīsu vipākesu uppajjati.
 
-Alobho kiriyahetu adoso kiriyahetu, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā, tīsu bhūmīsu kiriyesu uppajjanti. Amoho kiriyahetu, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā, cattāro ñāṇavippayutte cittuppāde ṭhapetvā, tīsu bhūmīsu kiriyesu uppajjati – ime dhammā hetū. ^2250
+Alobho kiriyahetu adoso kiriyahetu, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā, tīsu bhūmīsu kiriyesu uppajjanti. Amoho kiriyahetu, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā, cattāro ñāṇavippayutte cittuppāde ṭhapetvā, tīsu bhūmīsu kiriyesu uppajjati – ime dhammā hetū.
 
-1442. Katame dhammā na hetū? Ṭhapetvā hetū, catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na hetū. ^2251
+1442. Katame dhammā na hetū? Ṭhapetvā hetū, catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na hetū.
 
-1443. Katame dhammā sahetukā? Vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ ṭhapetvā avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ – ime dhammā sahetukā. ^2252
+1443. Katame dhammā sahetukā? Vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ ṭhapetvā avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ – ime dhammā sahetukā.
 
-1444. Katame dhammā ahetukā? Vicikicchāsahagato moho, uddhaccasahagato moho, dvepañcaviññāṇāni, tisso ca manodhātuyo, pañca ca ahetukamanoviññāṇadhātuyo, rūpañca, nibbānañca – ime dhammā ahetukā. ^2253
+1444. Katame dhammā ahetukā? Vicikicchāsahagato moho, uddhaccasahagato moho, dvepañcaviññāṇāni, tisso ca manodhātuyo, pañca ca ahetukamanoviññāṇadhātuyo, rūpañca, nibbānañca – ime dhammā ahetukā.
 
-1445. Katame dhammā hetusampayuttā? Vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ ṭhapetvā avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ – ime dhammā hetusampayuttā. ^2254
+1445. Katame dhammā hetusampayuttā? Vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ ṭhapetvā avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ – ime dhammā hetusampayuttā.
 
-1446. Katame dhammā hetuvippayuttā? Vicikicchāsahagato moho, uddhaccasahagato moho, dvepañcaviññāṇāni tisso ca manodhātuyo pañca ca ahetukamanoviññāṇadhātuyo, rūpañca, nibbānañca – ime dhammā hetuvippayuttā. ^2255
+1446. Katame dhammā hetuvippayuttā? Vicikicchāsahagato moho, uddhaccasahagato moho, dvepañcaviññāṇāni tisso ca manodhātuyo pañca ca ahetukamanoviññāṇadhātuyo, rūpañca, nibbānañca – ime dhammā hetuvippayuttā.
 
-1447. Katame dhammā hetū ceva sahetukā ca? Yattha dve tayo hetū ekato uppajjanti – ime dhammā hetū ceva sahetukā ca. ^2256
+1447. Katame dhammā hetū ceva sahetukā ca? Yattha dve tayo hetū ekato uppajjanti – ime dhammā hetū ceva sahetukā ca.
 
-1448. Katame dhammā sahetukā ceva na ca hetū? Catūsu bhūmīsu kusalaṃ, akusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ, etthuppanne hetū ṭhapetvā – ime dhammā sahetukā ceva na ca hetū. Ahetukā dhammā na vattabbā – hetū ceva sahetukā cātipi, sahetukā ceva na ca hetūtipi. ^2257
+1448. Katame dhammā sahetukā ceva na ca hetū? Catūsu bhūmīsu kusalaṃ, akusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ, etthuppanne hetū ṭhapetvā – ime dhammā sahetukā ceva na ca hetū. Ahetukā dhammā na vattabbā – hetū ceva sahetukā cātipi, sahetukā ceva na ca hetūtipi.
 
-1449. Katame dhammā hetū ceva hetusampayuttā ca? Yattha dve tayo hetū ekato uppajjanti – ime dhammā hetū ceva hetusampayuttā ca. ^2258
+1449. Katame dhammā hetū ceva hetusampayuttā ca? Yattha dve tayo hetū ekato uppajjanti – ime dhammā hetū ceva hetusampayuttā ca.
 
-1450. Katame dhammā hetusampayuttā ceva na ca hetū? Catūsu bhūmīsu kusalaṃ, akusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ, etthuppanne hetū ṭhapetvā – ime dhammā hetusampayuttā ceva na ca hetū. Hetuvippayuttā dhammā na vattabbā – hetū ceva hetusampayuttā cātipi, hetusampayuttā ceva na ca hetūtipi. ^2259
+1450. Katame dhammā hetusampayuttā ceva na ca hetū? Catūsu bhūmīsu kusalaṃ, akusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ, etthuppanne hetū ṭhapetvā – ime dhammā hetusampayuttā ceva na ca hetū. Hetuvippayuttā dhammā na vattabbā – hetū ceva hetusampayuttā cātipi, hetusampayuttā ceva na ca hetūtipi.
 
-1451. Katame dhammā na hetū sahetukā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ, etthuppanne hetū ṭhapetvā – ime dhammā na hetū sahetukā. ^2260
+1451. Katame dhammā na hetū sahetukā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, kāmāvacarassa vipākato ahetuke cittuppāde ṭhapetvā catūsu bhūmīsu vipāko, kāmāvacarakiriyato ahetuke cittuppāde ṭhapetvā tīsu bhūmīsu kiriyābyākataṃ, etthuppanne hetū ṭhapetvā – ime dhammā na hetū sahetukā.
 
-1452. Katame dhammā na hetū ahetukā? Dvepañcaviññāṇāni, tisso ca manodhātuyo, pañca ca ahetukamanoviññāṇadhātuyo, rūpañca, nibbānañca – ime dhammā na hetū ahetukā. Hetū dhammā na vattabbā – na hetū sahetukātipi, na hetū ahetukātipi. ^2261
+1452. Katame dhammā na hetū ahetukā? Dvepañcaviññāṇāni, tisso ca manodhātuyo, pañca ca ahetukamanoviññāṇadhātuyo, rūpañca, nibbānañca – ime dhammā na hetū ahetukā. Hetū dhammā na vattabbā – na hetū sahetukātipi, na hetū ahetukātipi.
 
-Cūḷantaradukaṃ ^2262
+Cūḷantaradukaṃ
 
-1453. Katame dhammā sappaccayā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā sappaccayā. ^2263
+1453. Katame dhammā sappaccayā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā sappaccayā.
 
-1454. Katame dhammā appaccayā? Nibbānaṃ – ime dhammā appaccayā. ^2264
+1454. Katame dhammā appaccayā? Nibbānaṃ – ime dhammā appaccayā.
 
-1455. Katame dhammā saṅkhatā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṅkhatā. ^2265
+1455. Katame dhammā saṅkhatā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṅkhatā.
 
-1456. Katame dhammā asaṅkhatā? Nibbānaṃ – ime dhammā asaṅkhatā. ^2266
+1456. Katame dhammā asaṅkhatā? Nibbānaṃ – ime dhammā asaṅkhatā.
 
-1457. Katame dhammā sanidassanā? Rūpāyatanaṃ – ime dhammā sanidassanā. ^2267
+1457. Katame dhammā sanidassanā? Rūpāyatanaṃ – ime dhammā sanidassanā.
 
-1458. Katame dhammā anidassanā? Cakkhāyatanaṃ …pe… phoṭṭhabbāyatanaṃ, catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, nibbānañca – ime dhammā anidassanā. ^2268
+1458. Katame dhammā anidassanā? Cakkhāyatanaṃ …pe… phoṭṭhabbāyatanaṃ, catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, nibbānañca – ime dhammā anidassanā.
 
-1459. Katame dhammā sappaṭighā? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – ime dhammā sappaṭighā. ^2269
+1459. Katame dhammā sappaṭighā? Cakkhāyatanaṃ…pe… phoṭṭhabbāyatanaṃ – ime dhammā sappaṭighā.
 
-1460. Katame dhammā appaṭighā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, nibbānañca – ime dhammā appaṭighā. ^2270
+1460. Katame dhammā appaṭighā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ anidassanaṃ appaṭighaṃ dhammāyatanapariyāpannaṃ, nibbānañca – ime dhammā appaṭighā.
 
-1461. Katame dhammā rūpino? Cattāro ca mahābhūtā, catunnañca mahābhūtānaṃ upādāya rūpaṃ – ime dhammā rūpino. ^2271
+1461. Katame dhammā rūpino? Cattāro ca mahābhūtā, catunnañca mahābhūtānaṃ upādāya rūpaṃ – ime dhammā rūpino.
 
-1462. Katame dhammā arūpino? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, nibbānañca – ime dhammā arūpino. ^2272
+1462. Katame dhammā arūpino? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, nibbānañca – ime dhammā arūpino.
 
-1463. Katame dhammā lokiyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā lokiyā. ^2273
+1463. Katame dhammā lokiyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā lokiyā.
 
-1464. Katame dhammā lokuttarā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā lokuttarā. Sabbe dhammā kenaci viññeyyā, kenaci na viññeyyā. ^2274
+1464. Katame dhammā lokuttarā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā lokuttarā. Sabbe dhammā kenaci viññeyyā, kenaci na viññeyyā.
 
-Āsavagocchakaṃ ^2275
+Āsavagocchakaṃ
 
-1465. Katame dhammā āsavā? Cattāro āsavā – kāmāsavo, bhavāsavo, diṭṭhāsavo, avijjāsavo. Kāmāsavo aṭṭhasu lobhasahagatesu cittuppādesu uppajjati bhavāsavo catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppajjati diṭṭhāsavo catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati. Avijjāsavo sabbākusalesu uppajjati – ime dhammā āsavā. ^2276
+1465. Katame dhammā āsavā? Cattāro āsavā – kāmāsavo, bhavāsavo, diṭṭhāsavo, avijjāsavo. Kāmāsavo aṭṭhasu lobhasahagatesu cittuppādesu uppajjati bhavāsavo catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppajjati diṭṭhāsavo catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati. Avijjāsavo sabbākusalesu uppajjati – ime dhammā āsavā.
 
-1466. Katame dhammā no āsavā? Ṭhapetvā āsave avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no āsavā. ^2277
+1466. Katame dhammā no āsavā? Ṭhapetvā āsave avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no āsavā.
 
-1467. Katame dhammā sāsavā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā sāsavā. ^2278
+1467. Katame dhammā sāsavā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā sāsavā.
 
-1468. Katame dhammā anāsavā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anāsavā. ^2279
+1468. Katame dhammā anāsavā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anāsavā.
 
-1469. Katame dhammā āsavasampayuttā? Dve domanassasahagatacittuppādā etthuppannaṃ mohaṃ ṭhapetvā, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ ṭhapetvā, avasesaṃ akusalaṃ – ime dhammā āsavasampayuttā. ^2280
+1469. Katame dhammā āsavasampayuttā? Dve domanassasahagatacittuppādā etthuppannaṃ mohaṃ ṭhapetvā, vicikicchāsahagataṃ uddhaccasahagataṃ mohaṃ ṭhapetvā, avasesaṃ akusalaṃ – ime dhammā āsavasampayuttā.
 
-1470. Katame dhammā āsavavippayuttā? Dvīsu domanassasahagatesu cittuppādesu uppanno moho, vicikicchāsahagato moho, uddhaccasahagato moho, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā āsavavippayuttā. ^2281
+1470. Katame dhammā āsavavippayuttā? Dvīsu domanassasahagatesu cittuppādesu uppanno moho, vicikicchāsahagato moho, uddhaccasahagato moho, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā āsavavippayuttā.
 
-1471. Katame dhammā āsavā ceva sāsavā ca? Teva āsavā āsavā ceva sāsavā ca. ^2282
+1471. Katame dhammā āsavā ceva sāsavā ca? Teva āsavā āsavā ceva sāsavā ca.
 
-1472. Katame dhammā sāsavā ceva no ca āsavā? Ṭhapetvā āsave, avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā sāsavā ceva no ca āsavā. Anāsavā dhammā na vattabbā – āsavā ceva sāsavā cātipi, sāsavā ceva no ca āsavātipi. ^2283
+1472. Katame dhammā sāsavā ceva no ca āsavā? Ṭhapetvā āsave, avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā sāsavā ceva no ca āsavā. Anāsavā dhammā na vattabbā – āsavā ceva sāsavā cātipi, sāsavā ceva no ca āsavātipi.
 
-1473. Katame dhammā āsavā ceva āsavasampayuttā ca? Yattha dve tayo āsavā ekato uppajjanti – ime dhammā āsavā ceva āsavasampayuttā ca. ^2284
+1473. Katame dhammā āsavā ceva āsavasampayuttā ca? Yattha dve tayo āsavā ekato uppajjanti – ime dhammā āsavā ceva āsavasampayuttā ca.
 
-1474. Katame dhammā āsavasampayuttā ceva no ca āsavā? Ṭhapetvā āsave, avasesaṃ akusalaṃ – ime dhammā āsavasampayuttā ceva no ca āsavā. Āsavavippayuttā dhammā na vattabbā – āsavā ceva āsavasampayuttā cātipi, āsavasampayuttā ceva no ca āsavātipi. ^2285
+1474. Katame dhammā āsavasampayuttā ceva no ca āsavā? Ṭhapetvā āsave, avasesaṃ akusalaṃ – ime dhammā āsavasampayuttā ceva no ca āsavā. Āsavavippayuttā dhammā na vattabbā – āsavā ceva āsavasampayuttā cātipi, āsavasampayuttā ceva no ca āsavātipi.
 
-1475. Katame dhammā āsavavippayuttā sāsavā? Dvīsu domanassasahagatesu cittuppādesu uppanno moho, vicikicchāsahagato moho, uddhaccasahagato moho, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā āsavavippayuttā sāsavā. ^2286
+1475. Katame dhammā āsavavippayuttā sāsavā? Dvīsu domanassasahagatesu cittuppādesu uppanno moho, vicikicchāsahagato moho, uddhaccasahagato moho, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā āsavavippayuttā sāsavā.
 
-1476. Katame dhammā āsavavippayuttā anāsavā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā āsavavippayuttā anāsavā. Āsavasampayuttā dhammā na vattabbā – āsavavippayuttā sāsavātipi, āsavavippayuttā anāsavātipi. ^2287
+1476. Katame dhammā āsavavippayuttā anāsavā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā āsavavippayuttā anāsavā. Āsavasampayuttā dhammā na vattabbā – āsavavippayuttā sāsavātipi, āsavavippayuttā anāsavātipi.
 
-Saṃyojanagocchakaṃ ^2288
+Saṃyojanagocchakaṃ
 
-1477. Katame dhammā saṃyojanā? Dasa saṃyojanāni – kāmarāgasaṃyojanaṃ, paṭighasaṃyojanaṃ, mānasaṃyojanaṃ, diṭṭhisaṃyojanaṃ, vicikicchāsaṃyojanaṃ, sīlabbataparāmāsasaṃyojanaṃ, bhavarāgasaṃyojanaṃ, issāsaṃyojanaṃ, macchariyasaṃyojanaṃ, avijjāsaṃyojanaṃ. Kāmarāgasaṃyojanaṃ aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Paṭighasaṃyojanaṃ dvīsu domanassasahagatesu cittuppādesu uppajjati. Mānasaṃyojanaṃ catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppajjati. Diṭṭhisaṃyojanaṃ catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati. Vicikicchāsaṃyojanaṃ vicikicchāsahagatesu cittuppādesu uppajjati. Sīlabbataparāmāsasaṃyojanaṃ catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati. Bhavarāgasaṃyojanaṃ catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppajjati. Issāsaṃyojanañca macchariyasaṃyojanañca dvīsu domanassasahagatesu cittuppādesu uppajjanti. Avijjāsaṃyojanaṃ sabbākusalesu uppajjati – ime dhammā saṃyojanā. ^2289
+1477. Katame dhammā saṃyojanā? Dasa saṃyojanāni – kāmarāgasaṃyojanaṃ, paṭighasaṃyojanaṃ, mānasaṃyojanaṃ, diṭṭhisaṃyojanaṃ, vicikicchāsaṃyojanaṃ, sīlabbataparāmāsasaṃyojanaṃ, bhavarāgasaṃyojanaṃ, issāsaṃyojanaṃ, macchariyasaṃyojanaṃ, avijjāsaṃyojanaṃ. Kāmarāgasaṃyojanaṃ aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Paṭighasaṃyojanaṃ dvīsu domanassasahagatesu cittuppādesu uppajjati. Mānasaṃyojanaṃ catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppajjati. Diṭṭhisaṃyojanaṃ catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati. Vicikicchāsaṃyojanaṃ vicikicchāsahagatesu cittuppādesu uppajjati. Sīlabbataparāmāsasaṃyojanaṃ catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati. Bhavarāgasaṃyojanaṃ catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppajjati. Issāsaṃyojanañca macchariyasaṃyojanañca dvīsu domanassasahagatesu cittuppādesu uppajjanti. Avijjāsaṃyojanaṃ sabbākusalesu uppajjati – ime dhammā saṃyojanā.
 
-1478. Katame dhammā no saṃyojanā. Ṭhapetvā saṃyojane avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no saṃyojanā. ^2290
+1478. Katame dhammā no saṃyojanā. Ṭhapetvā saṃyojane avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no saṃyojanā.
 
-1479. Katame dhammā saṃyojaniyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṃyojaniyā. ^2291
+1479. Katame dhammā saṃyojaniyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṃyojaniyā.
 
-1480. Katame dhammā asaṃyojaniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā asaṃyojaniyā. ^2292
+1480. Katame dhammā asaṃyojaniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā asaṃyojaniyā.
 
-1481. Katame dhammā saṃyojanasampayuttā? Uddhaccasahagataṃ mohaṃ ṭhapetvā avasesaṃ akusalaṃ – ime dhammā saṃyojanasampayuttā. ^2293
+1481. Katame dhammā saṃyojanasampayuttā? Uddhaccasahagataṃ mohaṃ ṭhapetvā avasesaṃ akusalaṃ – ime dhammā saṃyojanasampayuttā.
 
-1482. Katame dhammā saṃyojanavippayuttā? Uddhaccasahagato moho, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā saṃyojanavippayuttā. ^2294
+1482. Katame dhammā saṃyojanavippayuttā? Uddhaccasahagato moho, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā saṃyojanavippayuttā.
 
-1483. Katame dhammā saṃyojanā ceva saṃyojaniyā ca? Tāneva saṃyojanāni saṃyojanā ceva saṃyojaniyā ca. ^2295
+1483. Katame dhammā saṃyojanā ceva saṃyojaniyā ca? Tāneva saṃyojanāni saṃyojanā ceva saṃyojaniyā ca.
 
-1484. Katame dhammā saṃyojaniyā ceva no ca saṃyojanā? Ṭhapetvā saṃyojane avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṃyojaniyā ceva no ca saṃyojanā. Asaṃyojaniyā dhammā na vattabbā – saṃyojanā ceva saṃyojaniyā cātipi, saṃyojaniyā ceva no ca saṃyojanātipi. ^2296
+1484. Katame dhammā saṃyojaniyā ceva no ca saṃyojanā? Ṭhapetvā saṃyojane avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṃyojaniyā ceva no ca saṃyojanā. Asaṃyojaniyā dhammā na vattabbā – saṃyojanā ceva saṃyojaniyā cātipi, saṃyojaniyā ceva no ca saṃyojanātipi.
 
-1485. Katame dhammā saṃyojanā ceva saṃyojanasampayuttā ca? Yattha dve tīṇi saṃyojanāni ekato uppajjanti – ime dhammā saṃyojanā ceva saṃyojanasampayuttā ca. ^2297
+1485. Katame dhammā saṃyojanā ceva saṃyojanasampayuttā ca? Yattha dve tīṇi saṃyojanāni ekato uppajjanti – ime dhammā saṃyojanā ceva saṃyojanasampayuttā ca.
 
-1486. Katame dhammā saṃyojanasampayuttā ceva no ca saṃyojanā? Ṭhapetvā saṃyojane, avasesaṃ akusalaṃ – ime dhammā saṃyojanasampayuttā ceva no ca saṃyojanā. Saṃyojanavippayuttā dhammā na vattabbā – saṃyojanā ceva saṃyojanasampayuttā cātipi, saṃyojanasampayuttā ceva no ca saṃyojanātipi. ^2298
+1486. Katame dhammā saṃyojanasampayuttā ceva no ca saṃyojanā? Ṭhapetvā saṃyojane, avasesaṃ akusalaṃ – ime dhammā saṃyojanasampayuttā ceva no ca saṃyojanā. Saṃyojanavippayuttā dhammā na vattabbā – saṃyojanā ceva saṃyojanasampayuttā cātipi, saṃyojanasampayuttā ceva no ca saṃyojanātipi.
 
-1487. Katame dhammā saṃyojanavippayuttā saṃyojaniyā? Uddhaccasahagato moho, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṃyojanavippayuttā saṃyojaniyā. ^2299
+1487. Katame dhammā saṃyojanavippayuttā saṃyojaniyā? Uddhaccasahagato moho, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṃyojanavippayuttā saṃyojaniyā.
 
-1488. Katame dhammā saṃyojanavippayuttā asaṃyojaniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā saṃyojanavippayuttā asaṃyojaniyā. Saṃyojanasampayuttā dhammā na vattabbā – saṃyojanavippayuttā saṃyojaniyātipi, saṃyojanavippayuttā asaṃyojaniyātipi. ^2300
+1488. Katame dhammā saṃyojanavippayuttā asaṃyojaniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā saṃyojanavippayuttā asaṃyojaniyā. Saṃyojanasampayuttā dhammā na vattabbā – saṃyojanavippayuttā saṃyojaniyātipi, saṃyojanavippayuttā asaṃyojaniyātipi.
 
-Ganthagocchakaṃ ^2301
+Ganthagocchakaṃ
 
-1489. Katame dhammā ganthā? Cattāro ganthā – abhijjhākāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃsaccābhiniveso kāyagantho. Abhijjhākāyagantho aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Byāpādo kāyagantho dvīsu domanassasahagatesu cittuppādesu uppajjati. Sīlabbataparāmāso kāyagantho ca idaṃsaccābhiniveso kāyagantho ca catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjanti – ime dhammā ganthā. ^2302
+1489. Katame dhammā ganthā? Cattāro ganthā – abhijjhākāyagantho, byāpādo kāyagantho, sīlabbataparāmāso kāyagantho, idaṃsaccābhiniveso kāyagantho. Abhijjhākāyagantho aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Byāpādo kāyagantho dvīsu domanassasahagatesu cittuppādesu uppajjati. Sīlabbataparāmāso kāyagantho ca idaṃsaccābhiniveso kāyagantho ca catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjanti – ime dhammā ganthā.
 
-1490. Katame dhammā no ganthā? Ṭhapetvā ganthe, avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no ganthā. ^2303
+1490. Katame dhammā no ganthā? Ṭhapetvā ganthe, avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no ganthā.
 
-1491. Katame dhammā ganthaniyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā ganthaniyā. ^2304
+1491. Katame dhammā ganthaniyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā ganthaniyā.
 
-1492. Katame dhammā aganthaniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā aganthaniyā. ^2305
+1492. Katame dhammā aganthaniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā aganthaniyā.
 
-1493. Katame dhammā ganthasampayuttā? Cattāro diṭṭhigatasampayuttacittuppādā, cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, etthuppannaṃ lobhaṃ ṭhapetvā, dve domanassasahagatacittuppādā, etthuppannaṃ paṭighaṃ ṭhapetvā – ime dhammā ganthasampayuttā. ^2306
+1493. Katame dhammā ganthasampayuttā? Cattāro diṭṭhigatasampayuttacittuppādā, cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, etthuppannaṃ lobhaṃ ṭhapetvā, dve domanassasahagatacittuppādā, etthuppannaṃ paṭighaṃ ṭhapetvā – ime dhammā ganthasampayuttā.
 
-1494. Katame dhammā ganthavippayuttā? Catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppanno lobho, dvīsu domanassasahagatesu cittuppādesu uppannaṃ paṭighaṃ, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā ganthavippayuttā. ^2307
+1494. Katame dhammā ganthavippayuttā? Catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppanno lobho, dvīsu domanassasahagatesu cittuppādesu uppannaṃ paṭighaṃ, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā ganthavippayuttā.
 
-1495. Katame dhammā ganthā ceva ganthaniyā ca? Teva ganthā ganthā ceva ganthaniyā ca. ^2308
+1495. Katame dhammā ganthā ceva ganthaniyā ca? Teva ganthā ganthā ceva ganthaniyā ca.
 
-1496. Katame dhammā ganthaniyā ceva no ca ganthā? Ṭhapetvā ganthe avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā ganthaniyā ceva no ca ganthā. Aganthaniyā dhammā na vattabbā – ganthā ceva ganthaniyā cātipi, ganthaniyā ceva no ca ganthātipi. ^2309
+1496. Katame dhammā ganthaniyā ceva no ca ganthā? Ṭhapetvā ganthe avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā ganthaniyā ceva no ca ganthā. Aganthaniyā dhammā na vattabbā – ganthā ceva ganthaniyā cātipi, ganthaniyā ceva no ca ganthātipi.
 
-1497. Katame dhammā ganthā ceva ganthasampayuttā ca? Yattha diṭṭhi ca lobho ca ekato uppajjanti – ime dhammā ganthā ceva ganthasampayuttā ca. ^2310
+1497. Katame dhammā ganthā ceva ganthasampayuttā ca? Yattha diṭṭhi ca lobho ca ekato uppajjanti – ime dhammā ganthā ceva ganthasampayuttā ca.
 
-1498. Katame dhammā ganthasampayuttā ceva no ca ganthā? Aṭṭha lobhasahagatacittuppādā dve domanassasahagatacittuppādā, etthuppanne ganthe ṭhapetvā – ime dhammā ganthasampayuttā ceva no ca ganthā. Ganthavippayuttā dhammā na vattabbā – ganthā ceva ganthasampayuttā cātipi, ganthasampayuttā ceva no ca ganthātipi. ^2311
+1498. Katame dhammā ganthasampayuttā ceva no ca ganthā? Aṭṭha lobhasahagatacittuppādā dve domanassasahagatacittuppādā, etthuppanne ganthe ṭhapetvā – ime dhammā ganthasampayuttā ceva no ca ganthā. Ganthavippayuttā dhammā na vattabbā – ganthā ceva ganthasampayuttā cātipi, ganthasampayuttā ceva no ca ganthātipi.
 
-1499. Katame dhammā ganthavippayuttā ganthaniyā? Catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppanno lobho, dvīsu domanassasahagatesu cittuppādesu uppannaṃ paṭighaṃ, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā ganthavippayuttā ganthaniyā. ^2312
+1499. Katame dhammā ganthavippayuttā ganthaniyā? Catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppanno lobho, dvīsu domanassasahagatesu cittuppādesu uppannaṃ paṭighaṃ, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā ganthavippayuttā ganthaniyā.
 
-1500. Katame dhammā ganthavippayuttā aganthaniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā ganthavippayuttā aganthaniyā. Ganthasampayuttā dhammā na vattabbā – ganthavippayuttā ganthaniyātipi, ganthavippayuttā aganthaniyātipi. ^2313
+1500. Katame dhammā ganthavippayuttā aganthaniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā ganthavippayuttā aganthaniyā. Ganthasampayuttā dhammā na vattabbā – ganthavippayuttā ganthaniyātipi, ganthavippayuttā aganthaniyātipi.
 
-Oghagocchakaṃ ^2314
+Oghagocchakaṃ
 
-1501. Katame dhammā oghā…pe…. ^2315
+1501. Katame dhammā oghā…pe….
 
-Yogagocchakaṃ ^2316
+Yogagocchakaṃ
 
-1502. Katame dhammā yogā…pe…. ^2317
+1502. Katame dhammā yogā…pe….
 
-Nīvaraṇagocchakaṃ ^2318
+Nīvaraṇagocchakaṃ
 
-1503. Katame dhammā nīvaraṇā? Cha nīvaraṇā – kāmacchandanīvaraṇaṃ, byāpādanīvaraṇaṃ, thinamiddhanīvaraṇaṃ, uddhaccakukkuccanīvaraṇaṃ, vicikicchānīvaraṇaṃ, avijjānīvaraṇaṃ. Kāmacchandanīvaraṇaṃ aṭṭhasu lobhasahagatesu cittuppādesu uppajjati, byāpādanīvaraṇaṃ dvīsu domanassasahagatesu cittuppādesu uppajjati, thinamiddhanīvaraṇaṃ sasaṅkhārikesu akusalesu uppajjati, uddhaccanīvaraṇaṃ uddhaccasahagatesu cittuppādesu uppajjati, kukkuccanīvaraṇaṃ dvīsu domanassasahagatesu cittuppādesu uppajjati, vicikicchānīvaraṇaṃ vicikicchāsahagatesu cittuppādesu uppajjati, avijjānīvaraṇaṃ sabbākusalesu uppajjati – ime dhammā nīvaraṇā. ^2319
+1503. Katame dhammā nīvaraṇā? Cha nīvaraṇā – kāmacchandanīvaraṇaṃ, byāpādanīvaraṇaṃ, thinamiddhanīvaraṇaṃ, uddhaccakukkuccanīvaraṇaṃ, vicikicchānīvaraṇaṃ, avijjānīvaraṇaṃ. Kāmacchandanīvaraṇaṃ aṭṭhasu lobhasahagatesu cittuppādesu uppajjati, byāpādanīvaraṇaṃ dvīsu domanassasahagatesu cittuppādesu uppajjati, thinamiddhanīvaraṇaṃ sasaṅkhārikesu akusalesu uppajjati, uddhaccanīvaraṇaṃ uddhaccasahagatesu cittuppādesu uppajjati, kukkuccanīvaraṇaṃ dvīsu domanassasahagatesu cittuppādesu uppajjati, vicikicchānīvaraṇaṃ vicikicchāsahagatesu cittuppādesu uppajjati, avijjānīvaraṇaṃ sabbākusalesu uppajjati – ime dhammā nīvaraṇā.
 
-1504. Katame dhammā no nīvaraṇā? Ṭhapetvā nīvaraṇe avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no nīvaraṇā. ^2320
+1504. Katame dhammā no nīvaraṇā? Ṭhapetvā nīvaraṇe avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no nīvaraṇā.
 
-1505. Katame dhammā nīvaraṇiyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā nīvaraṇiyā. ^2321
+1505. Katame dhammā nīvaraṇiyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā nīvaraṇiyā.
 
-1506. Katame dhammā anīvaraṇiyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anīvaraṇiyā. ^2322
+1506. Katame dhammā anīvaraṇiyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anīvaraṇiyā.
 
-1507. Katame dhammā nīvaraṇasampayuttā? Dvādasa akusalacittuppādā – ime dhammā nīvaraṇasampayuttā. ^2323
+1507. Katame dhammā nīvaraṇasampayuttā? Dvādasa akusalacittuppādā – ime dhammā nīvaraṇasampayuttā.
 
-1508. Katame dhammā nīvaraṇavippayuttā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā nīvaraṇavippayuttā. ^2324
+1508. Katame dhammā nīvaraṇavippayuttā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā nīvaraṇavippayuttā.
 
-1509. Katame dhammā nīvaraṇā ceva nīvaraṇiyā ca? Tāneva nīvaraṇāni nīvaraṇā ceva nīvaraṇiyā ca. ^2325
+1509. Katame dhammā nīvaraṇā ceva nīvaraṇiyā ca? Tāneva nīvaraṇāni nīvaraṇā ceva nīvaraṇiyā ca.
 
-1510. Katame dhammā nīvaraṇiyā ceva no ca nīvaraṇā? Ṭhapetvā nīvaraṇe, avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā nīvaraṇiyā ceva no ca nīvaraṇā. Anīvaraṇiyā dhammā na vattabbā – nīvaraṇā ceva nīvaraṇiyā cātipi, nīvaraṇiyā ceva no ca nīvaraṇātipi. ^2326
+1510. Katame dhammā nīvaraṇiyā ceva no ca nīvaraṇā? Ṭhapetvā nīvaraṇe, avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā nīvaraṇiyā ceva no ca nīvaraṇā. Anīvaraṇiyā dhammā na vattabbā – nīvaraṇā ceva nīvaraṇiyā cātipi, nīvaraṇiyā ceva no ca nīvaraṇātipi.
 
-1511. Katame dhammā nīvaraṇā ceva nīvaraṇasampayuttā ca? Yattha dve tīṇi nīvaraṇāni ekato uppajjanti – ime dhammā nīvaraṇā ceva nīvaraṇasampayuttā ca. ^2327
+1511. Katame dhammā nīvaraṇā ceva nīvaraṇasampayuttā ca? Yattha dve tīṇi nīvaraṇāni ekato uppajjanti – ime dhammā nīvaraṇā ceva nīvaraṇasampayuttā ca.
 
-1512. Katame dhammā nīvaraṇasampayuttā ceva no ca nīvaraṇā? Ṭhapetvā nīvaraṇe, avasesaṃ akusalaṃ – ime dhammā nīvaraṇasampayuttā ceva no ca nīvaraṇā. Nīvaraṇavippayuttā dhammā na vattabbā – nīvaraṇā ceva nīvaraṇasampayuttā cātipi, nīvaraṇasampayuttā ceva no ca nīvaraṇātipi. ^2328
+1512. Katame dhammā nīvaraṇasampayuttā ceva no ca nīvaraṇā? Ṭhapetvā nīvaraṇe, avasesaṃ akusalaṃ – ime dhammā nīvaraṇasampayuttā ceva no ca nīvaraṇā. Nīvaraṇavippayuttā dhammā na vattabbā – nīvaraṇā ceva nīvaraṇasampayuttā cātipi, nīvaraṇasampayuttā ceva no ca nīvaraṇātipi.
 
-1513. Katame dhammā nīvaraṇavippayuttā nīvaraṇiyā? Tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā nīvaraṇavippayuttā nīvaraṇiyā. ^2329
+1513. Katame dhammā nīvaraṇavippayuttā nīvaraṇiyā? Tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā nīvaraṇavippayuttā nīvaraṇiyā.
 
-1514. Katame dhammā nīvaraṇavippayuttā anīvaraṇiyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā nīvaraṇavippayuttā anīvaraṇiyā. Nīvaraṇasampayuttā dhammā na vattabbā – nīvaraṇavippayuttā nīvaraṇiyātipi, nīvaraṇavippayuttā anīvaraṇiyātipi. ^2330
+1514. Katame dhammā nīvaraṇavippayuttā anīvaraṇiyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā nīvaraṇavippayuttā anīvaraṇiyā. Nīvaraṇasampayuttā dhammā na vattabbā – nīvaraṇavippayuttā nīvaraṇiyātipi, nīvaraṇavippayuttā anīvaraṇiyātipi.
 
-Parāmāsagocchakaṃ ^2331
+Parāmāsagocchakaṃ
 
-1515. Katame dhammā parāmāsā? Diṭṭhiparāmāso catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati – ime dhammā parāmāsā. ^2332
+1515. Katame dhammā parāmāsā? Diṭṭhiparāmāso catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati – ime dhammā parāmāsā.
 
-1516. Katame dhammā no parāmāsā? Ṭhapetvā parāmāsaṃ avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no parāmāsā. ^2333
+1516. Katame dhammā no parāmāsā? Ṭhapetvā parāmāsaṃ avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no parāmāsā.
 
-1517. Katame dhammā parāmaṭṭhā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā parāmaṭṭhā. ^2334
+1517. Katame dhammā parāmaṭṭhā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā parāmaṭṭhā.
 
-1518. Katame dhammā aparāmaṭṭhā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni nibbānañca – ime dhammā aparāmaṭṭhā. ^2335
+1518. Katame dhammā aparāmaṭṭhā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni nibbānañca – ime dhammā aparāmaṭṭhā.
 
-1519. Katame dhammā parāmāsasampayuttā? Cattāro diṭṭhigatasampayuttacittuppādā, etthuppannaṃ parāmāsaṃ ṭhapetvā – ime dhammā parāmāsasampayuttā. ^2336
+1519. Katame dhammā parāmāsasampayuttā? Cattāro diṭṭhigatasampayuttacittuppādā, etthuppannaṃ parāmāsaṃ ṭhapetvā – ime dhammā parāmāsasampayuttā.
 
-1520. Katame dhammā parāmāsavippayuttā? Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā parāmāsavippayuttā. Parāmāso na vattabbo – parāmāsasampayuttotipi, parāmāsavippayuttotipi. ^2337
+1520. Katame dhammā parāmāsavippayuttā? Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā parāmāsavippayuttā. Parāmāso na vattabbo – parāmāsasampayuttotipi, parāmāsavippayuttotipi.
 
-1521. Katame dhammā parāmāsā ceva parāmaṭṭhā ca? So eva parāmāso parāmāso ceva parāmaṭṭho ca. ^2338
+1521. Katame dhammā parāmāsā ceva parāmaṭṭhā ca? So eva parāmāso parāmāso ceva parāmaṭṭho ca.
 
-1522. Katame dhammā parāmaṭṭhā ceva no ca parāmāsā? Ṭhapetvā parāmāsaṃ avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā parāmaṭṭhā ceva no ca parāmāsā. Aparāmaṭṭhā dhammā na vattabbā – parāmāsā ceva parāmaṭṭhā cātipi, parāmaṭṭhā ceva no ca parāmāsātipi. ^2339
+1522. Katame dhammā parāmaṭṭhā ceva no ca parāmāsā? Ṭhapetvā parāmāsaṃ avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā parāmaṭṭhā ceva no ca parāmāsā. Aparāmaṭṭhā dhammā na vattabbā – parāmāsā ceva parāmaṭṭhā cātipi, parāmaṭṭhā ceva no ca parāmāsātipi.
 
-1523. Katame dhammā parāmāsavippayuttā parāmaṭṭhā? Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā parāmāsavippayuttā parāmaṭṭhā. ^2340
+1523. Katame dhammā parāmāsavippayuttā parāmaṭṭhā? Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā parāmāsavippayuttā parāmaṭṭhā.
 
-1524. Katame dhammā parāmāsavippayuttā aparāmaṭṭhā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā parāmāsavippayuttā aparāmaṭṭhā. Parāmāsā ca parāmāsasampayuttā ca dhammā na vattabbā – parāmāsavippayuttā parāmaṭṭhātipi, parāmāsavippayuttā aparāmaṭṭhātipi. ^2341
+1524. Katame dhammā parāmāsavippayuttā aparāmaṭṭhā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā parāmāsavippayuttā aparāmaṭṭhā. Parāmāsā ca parāmāsasampayuttā ca dhammā na vattabbā – parāmāsavippayuttā parāmaṭṭhātipi, parāmāsavippayuttā aparāmaṭṭhātipi.
 
-Mahantaradukaṃ ^2342
+Mahantaradukaṃ
 
-1525. Katame dhammā sārammaṇā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ – ime dhammā sārammaṇā. ^2343
+1525. Katame dhammā sārammaṇā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ – ime dhammā sārammaṇā.
 
-1526. Katame dhammā anārammaṇā? Rūpañca, nibbānañca – ime dhammā anārammaṇā. ^2344
+1526. Katame dhammā anārammaṇā? Rūpañca, nibbānañca – ime dhammā anārammaṇā.
 
-1527. Katame dhammā cittā? Cakkhuviññāṇaṃ, sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, kāyaviññāṇaṃ, manodhātu, manoviññāṇadhātu – ime dhammā cittā. ^2345
+1527. Katame dhammā cittā? Cakkhuviññāṇaṃ, sotaviññāṇaṃ, ghānaviññāṇaṃ, jivhāviññāṇaṃ, kāyaviññāṇaṃ, manodhātu, manoviññāṇadhātu – ime dhammā cittā.
 
-1528. Katame dhammā no cittā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, rūpañca, nibbānañca – ime dhammā no cittā. ^2346
+1528. Katame dhammā no cittā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, rūpañca, nibbānañca – ime dhammā no cittā.
 
-1529. Katame dhammā cetasikā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cetasikā. ^2347
+1529. Katame dhammā cetasikā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cetasikā.
 
-1530. Katame dhammā acetasikā? Cittañca, rūpañca, nibbānañca – ime dhammā acetasikā. ^2348
+1530. Katame dhammā acetasikā? Cittañca, rūpañca, nibbānañca – ime dhammā acetasikā.
 
-1531. Katame dhammā cittasampayuttā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasampayuttā. ^2349
+1531. Katame dhammā cittasampayuttā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasampayuttā.
 
-1532. Katame dhammā cittavippayuttā? Rūpañca, nibbānañca – ime dhammā cittavippayuttā. Cittaṃ na vattabbaṃ – cittena sampayuttantipi, cittena vippayuttantipi. ^2350
+1532. Katame dhammā cittavippayuttā? Rūpañca, nibbānañca – ime dhammā cittavippayuttā. Cittaṃ na vattabbaṃ – cittena sampayuttantipi, cittena vippayuttantipi.
 
-1533. Katame dhammā cittasaṃsaṭṭhā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhā. ^2351
+1533. Katame dhammā cittasaṃsaṭṭhā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhā.
 
-1534. Katame dhammā cittavisaṃsaṭṭhā? Rūpañca, nibbānañca – ime dhammā cittavisaṃsaṭṭhā. Cittaṃ na vattabbaṃ – cittena saṃsaṭṭhantipi, cittena visaṃsaṭṭhantipi. ^2352
+1534. Katame dhammā cittavisaṃsaṭṭhā? Rūpañca, nibbānañca – ime dhammā cittavisaṃsaṭṭhā. Cittaṃ na vattabbaṃ – cittena saṃsaṭṭhantipi, cittena visaṃsaṭṭhantipi.
 
-1535. Katame dhammā cittasamuṭṭhānā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti, yaṃ vā panaññampi atthi rūpaṃ cittajaṃ cittahetukaṃ cittasamuṭṭhānaṃ – rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – ime dhammā cittasamuṭṭhānā. ^2353
+1535. Katame dhammā cittasamuṭṭhānā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti, yaṃ vā panaññampi atthi rūpaṃ cittajaṃ cittahetukaṃ cittasamuṭṭhānaṃ – rūpāyatanaṃ saddāyatanaṃ gandhāyatanaṃ rasāyatanaṃ phoṭṭhabbāyatanaṃ ākāsadhātu āpodhātu rūpassa lahutā rūpassa mudutā rūpassa kammaññatā rūpassa upacayo rūpassa santati kabaḷīkāro āhāro – ime dhammā cittasamuṭṭhānā.
 
-1536. Katame dhammā no cittasamuṭṭhānā? Cittañca, avasesañca rūpaṃ, nibbānañca – ime dhammā no cittasamuṭṭhānā. ^2354
+1536. Katame dhammā no cittasamuṭṭhānā? Cittañca, avasesañca rūpaṃ, nibbānañca – ime dhammā no cittasamuṭṭhānā.
 
-1537. Katame dhammā cittasahabhuno? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti – ime dhammā cittasahabhuno. ^2355
+1537. Katame dhammā cittasahabhuno? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti – ime dhammā cittasahabhuno.
 
-1538. Katame dhammā no cittasahabhuno? Cittañca, avasesañca rūpaṃ, nibbānañca – ime dhammā no cittasahabhuno. ^2356
+1538. Katame dhammā no cittasahabhuno? Cittañca, avasesañca rūpaṃ, nibbānañca – ime dhammā no cittasahabhuno.
 
-1539. Katame dhammā cittānuparivattino? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti – ime dhammā cittānuparivattino. ^2357
+1539. Katame dhammā cittānuparivattino? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho, kāyaviññatti, vacīviññatti – ime dhammā cittānuparivattino.
 
-1540. Katame dhammā no cittānuparivattino? Cittañca, avasesañca rūpaṃ, nibbānañca – ime dhammā no cittānuparivattino. ^2358
+1540. Katame dhammā no cittānuparivattino? Cittañca, avasesañca rūpaṃ, nibbānañca – ime dhammā no cittānuparivattino.
 
-1541. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānā. ^2359
+1541. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānā? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānā.
 
-1542. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānā? Cittañca, rūpañca, nibbānañca – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānā. ^2360
+1542. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānā? Cittañca, rūpañca, nibbānañca – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānā.
 
-1543. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānasahabhuno? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānasahabhuno. ^2361
+1543. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānasahabhuno? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānasahabhuno.
 
-1544. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno? Cittañca, rūpañca, nibbānañca – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno. ^2362
+1544. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno? Cittañca, rūpañca, nibbānañca – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānasahabhuno.
 
-1545. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānānuparivattino? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānānuparivattino. ^2363
+1545. Katame dhammā cittasaṃsaṭṭhasamuṭṭhānānuparivattino? Vedanākkhandho, saññākkhandho, saṅkhārakkhandho – ime dhammā cittasaṃsaṭṭhasamuṭṭhānānuparivattino.
 
-1546. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino? Cittañca, rūpañca, nibbānañca – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino. ^2364
+1546. Katame dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino? Cittañca, rūpañca, nibbānañca – ime dhammā no cittasaṃsaṭṭhasamuṭṭhānānuparivattino.
 
-1547. Katame dhammā ajjhattikā? Cakkhāyatanaṃ…pe… manāyatanaṃ – ime dhammā ajjhattikā. ^2365
+1547. Katame dhammā ajjhattikā? Cakkhāyatanaṃ…pe… manāyatanaṃ – ime dhammā ajjhattikā.
 
-1548. Katame dhammā bāhirā? Rūpāyatanaṃ…pe… dhammāyatanaṃ – ime dhammā bāhirā. ^2366
+1548. Katame dhammā bāhirā? Rūpāyatanaṃ…pe… dhammāyatanaṃ – ime dhammā bāhirā.
 
-1549. Katame dhammā upādā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – ime dhammā upādā. ^2367
+1549. Katame dhammā upādā? Cakkhāyatanaṃ…pe… kabaḷīkāro āhāro – ime dhammā upādā.
 
-1550. Katame dhammā no upādā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, cattāro ca mahābhūtā, nibbānañca – ime dhammā no upādā. ^2368
+1550. Katame dhammā no upādā? Catūsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, cattāro ca mahābhūtā, nibbānañca – ime dhammā no upādā.
 
-1551. Katame dhammā upādiṇṇā? Tīsu bhūmīsu vipāko, yañca rūpaṃ kammassa katattā – ime dhammā upādiṇṇā. ^2369
+1551. Katame dhammā upādiṇṇā? Tīsu bhūmīsu vipāko, yañca rūpaṃ kammassa katattā – ime dhammā upādiṇṇā.
 
-1552. Katame dhammā anupādiṇṇā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ na kammassa katattā, cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anupādiṇṇā. ^2370
+1552. Katame dhammā anupādiṇṇā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu kiriyābyākataṃ, yañca rūpaṃ na kammassa katattā, cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anupādiṇṇā.
 
-Upādānagocchakaṃ ^2371
+Upādānagocchakaṃ
 
-1553. Katame dhammā upādānā? Cattāri upādānāni – kāmupādānaṃ, diṭṭhupādānaṃ, sīlabbatupādānaṃ, attavādupādānaṃ. Kāmupādānaṃ aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Diṭṭhupādānañca sīlabbatupādānañca attavādupādānañca catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjanti – ime dhammā upādānā. ^2372
+1553. Katame dhammā upādānā? Cattāri upādānāni – kāmupādānaṃ, diṭṭhupādānaṃ, sīlabbatupādānaṃ, attavādupādānaṃ. Kāmupādānaṃ aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Diṭṭhupādānañca sīlabbatupādānañca attavādupādānañca catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjanti – ime dhammā upādānā.
 
-1554. Katame dhammā no upādānā? Ṭhapetvā upādāne avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no upādānā. ^2373
+1554. Katame dhammā no upādānā? Ṭhapetvā upādāne avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no upādānā.
 
-1555. Katame dhammā upādāniyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā upādāniyā. ^2374
+1555. Katame dhammā upādāniyā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā upādāniyā.
 
-1556. Katame dhammā anupādāniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anupādāniyā. ^2375
+1556. Katame dhammā anupādāniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anupādāniyā.
 
-1557. Katame dhammā upādānasampayuttā? Cattāro diṭṭhigatasampayuttalobhasahagatacittuppādā, cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, etthuppannaṃ lobhaṃ ṭhapetvā – ime dhammā upādānasampayuttā. ^2376
+1557. Katame dhammā upādānasampayuttā? Cattāro diṭṭhigatasampayuttalobhasahagatacittuppādā, cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, etthuppannaṃ lobhaṃ ṭhapetvā – ime dhammā upādānasampayuttā.
 
-1558. Katame dhammā upādānavippayuttā? Catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppanno lobho, dve domanassasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā upādānavippayuttā. ^2377
+1558. Katame dhammā upādānavippayuttā? Catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppanno lobho, dve domanassasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā upādānavippayuttā.
 
-1559. Katame dhammā upādānā ceva upādāniyā ca? Tāneva upādānāni upādānā ceva upādāniyā ca. ^2378
+1559. Katame dhammā upādānā ceva upādāniyā ca? Tāneva upādānāni upādānā ceva upādāniyā ca.
 
-1560. Katame dhammā upādāniyā ceva no ca upādānā? Ṭhapetvā upādāne avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā upādāniyā ceva no ca upādānā. Anupādāniyā dhammā na vattabbā – upādānā ceva upādāniyā cātipi, upādāniyā ceva no ca upādānātipi. ^2379
+1560. Katame dhammā upādāniyā ceva no ca upādānā? Ṭhapetvā upādāne avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā upādāniyā ceva no ca upādānā. Anupādāniyā dhammā na vattabbā – upādānā ceva upādāniyā cātipi, upādāniyā ceva no ca upādānātipi.
 
-1561. Katame dhammā upādānā ceva upādānasampayuttā ca? Yattha diṭṭhi ca lobho ca ekato uppajjanti – ime dhammā upādānā ceva upādānasampayuttā ca. ^2380
+1561. Katame dhammā upādānā ceva upādānasampayuttā ca? Yattha diṭṭhi ca lobho ca ekato uppajjanti – ime dhammā upādānā ceva upādānasampayuttā ca.
 
-1562. Katame dhammā upādānasampayuttā ceva no ca upādānā? Aṭṭha lobhasahagatacittuppādā, etthuppanne upādāne ṭhapetvā – ime dhammā upādānasampayuttā ceva no ca upādānā. Upādānavippayuttā dhammā na vattabbā – upādānā ceva upādānasampayuttā cātipi, upādānasampayuttā ceva no ca upādānātipi. ^2381
+1562. Katame dhammā upādānasampayuttā ceva no ca upādānā? Aṭṭha lobhasahagatacittuppādā, etthuppanne upādāne ṭhapetvā – ime dhammā upādānasampayuttā ceva no ca upādānā. Upādānavippayuttā dhammā na vattabbā – upādānā ceva upādānasampayuttā cātipi, upādānasampayuttā ceva no ca upādānātipi.
 
-1563. Katame dhammā upādānavippayuttā upādāniyā? Catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppanno lobho, dve domanassasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā upādānavippayuttā upādāniyā. ^2382
+1563. Katame dhammā upādānavippayuttā upādāniyā? Catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppanno lobho, dve domanassasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā upādānavippayuttā upādāniyā.
 
-1564. Katame dhammā upādānavippayuttā anupādāniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā upādānavippayuttā anupādāniyā. Upādānasampayuttā dhammā na vattabbā – upādānavippayuttā upādāniyātipi, upādānavippayuttā anupādāniyātipi. ^2383
+1564. Katame dhammā upādānavippayuttā anupādāniyā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā upādānavippayuttā anupādāniyā. Upādānasampayuttā dhammā na vattabbā – upādānavippayuttā upādāniyātipi, upādānavippayuttā anupādāniyātipi.
 
-Kilesagocchakaṃ ^2384
+Kilesagocchakaṃ
 
-1565. Katame dhammā kilesā? Dasa kilesavatthūni – lobho, doso, moho, māno, diṭṭhi, vicikicchā, thinaṃ, uddhaccaṃ, ahirikaṃ, anottappaṃ. Lobho aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Doso dvīsu domanassasahagatesu cittuppādesu uppajjati. Moho sabbākusalesu uppajjati. Māno catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppajjati. Diṭṭhi catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati. Vicikicchā vicikicchāsahagatesu cittuppādesu uppajjati. Thinaṃ sasaṅkhārikesu akusalesu uppajjati. Uddhaccañca ahirikañca anottappañca sabbākusalesu uppajjanti – ime dhammā kilesā. ^2385
+1565. Katame dhammā kilesā? Dasa kilesavatthūni – lobho, doso, moho, māno, diṭṭhi, vicikicchā, thinaṃ, uddhaccaṃ, ahirikaṃ, anottappaṃ. Lobho aṭṭhasu lobhasahagatesu cittuppādesu uppajjati. Doso dvīsu domanassasahagatesu cittuppādesu uppajjati. Moho sabbākusalesu uppajjati. Māno catūsu diṭṭhigatavippayuttalobhasahagatesu cittuppādesu uppajjati. Diṭṭhi catūsu diṭṭhigatasampayuttesu cittuppādesu uppajjati. Vicikicchā vicikicchāsahagatesu cittuppādesu uppajjati. Thinaṃ sasaṅkhārikesu akusalesu uppajjati. Uddhaccañca ahirikañca anottappañca sabbākusalesu uppajjanti – ime dhammā kilesā.
 
-1566. Katame dhammā no kilesā? Ṭhapetvā kilese avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no kilesā. ^2386
+1566. Katame dhammā no kilesā? Ṭhapetvā kilese avasesaṃ akusalaṃ, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā no kilesā.
 
-1567. Katame dhammā saṃkilesikā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ sabbañca rūpaṃ – ime dhammā saṃkilesikā. ^2387
+1567. Katame dhammā saṃkilesikā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ sabbañca rūpaṃ – ime dhammā saṃkilesikā.
 
-1568. Katame dhammā asaṃkilesikā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā asaṃkilesikā. ^2388
+1568. Katame dhammā asaṃkilesikā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā asaṃkilesikā.
 
-1569. Katame dhammā saṃkiliṭṭhā? Dvādasa akusalacittuppādā – ime dhammā saṃkiliṭṭhā. ^2389
+1569. Katame dhammā saṃkiliṭṭhā? Dvādasa akusalacittuppādā – ime dhammā saṃkiliṭṭhā.
 
-1570. Katame dhammā asaṃkiliṭṭhā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā asaṃkiliṭṭhā. ^2390
+1570. Katame dhammā asaṃkiliṭṭhā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā asaṃkiliṭṭhā.
 
-1571. Katame dhammā kilesasampayuttā? Dvādasa akusalacittuppādā – ime dhammā kilesasampayuttā. ^2391
+1571. Katame dhammā kilesasampayuttā? Dvādasa akusalacittuppādā – ime dhammā kilesasampayuttā.
 
-1572. Katame dhammā kilesavippayuttā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā kilesavippayuttā. ^2392
+1572. Katame dhammā kilesavippayuttā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā kilesavippayuttā.
 
-1573. Katame dhammā kilesā ceva saṃkilesikā ca? Teva kilesā kilesā ceva saṃkilesikā ca. ^2393
+1573. Katame dhammā kilesā ceva saṃkilesikā ca? Teva kilesā kilesā ceva saṃkilesikā ca.
 
-1574. Katame dhammā saṃkilesikā ceva no ca kilesā? Ṭhapetvā kilese avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṃkilesikā ceva no ca kilesā. Asaṃkilesikā dhammā na vattabbā – kilesā ceva saṃkilesikā cātipi, saṃkilesikā ceva no ca kilesātipi. ^2394
+1574. Katame dhammā saṃkilesikā ceva no ca kilesā? Ṭhapetvā kilese avasesaṃ akusalaṃ, tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā saṃkilesikā ceva no ca kilesā. Asaṃkilesikā dhammā na vattabbā – kilesā ceva saṃkilesikā cātipi, saṃkilesikā ceva no ca kilesātipi.
 
-1575. Katame dhammā kilesā ceva saṃkiliṭṭhā ca? Teva kilesā kilesā ceva saṃkiliṭṭhā ca. ^2395
+1575. Katame dhammā kilesā ceva saṃkiliṭṭhā ca? Teva kilesā kilesā ceva saṃkiliṭṭhā ca.
 
-1576. Katame dhammā saṃkiliṭṭhā ceva no ca kilesā? Ṭhapetvā kilese avasesaṃ akusalaṃ – ime dhammā saṃkiliṭṭhā ceva no ca kilesā. Asaṃkiliṭṭhā dhammā na vattabbā – kilesā ceva saṃkiliṭṭhā cātipi, saṃkiliṭṭhā ceva no ca kilesātipi. ^2396
+1576. Katame dhammā saṃkiliṭṭhā ceva no ca kilesā? Ṭhapetvā kilese avasesaṃ akusalaṃ – ime dhammā saṃkiliṭṭhā ceva no ca kilesā. Asaṃkiliṭṭhā dhammā na vattabbā – kilesā ceva saṃkiliṭṭhā cātipi, saṃkiliṭṭhā ceva no ca kilesātipi.
 
-1577. Katame dhammā kilesā ceva kilesasampayuttā ca? Yattha dve tayo kilesā ekato uppajjanti – ime dhammā kilesā ceva kilesasampayuttā ca. ^2397
+1577. Katame dhammā kilesā ceva kilesasampayuttā ca? Yattha dve tayo kilesā ekato uppajjanti – ime dhammā kilesā ceva kilesasampayuttā ca.
 
-1578. Katame dhammā kilesasampayuttā ceva no ca kilesā? Ṭhapetvā kilese avasesaṃ akusalaṃ – ime dhammā kilesasampayuttā ceva no ca kilesā. Kilesavippayuttā dhammā na vattabbā – kilesā ceva kilesasampayuttā cātipi, kilesasampayuttā ceva no ca kilesātipi. ^2398
+1578. Katame dhammā kilesasampayuttā ceva no ca kilesā? Ṭhapetvā kilese avasesaṃ akusalaṃ – ime dhammā kilesasampayuttā ceva no ca kilesā. Kilesavippayuttā dhammā na vattabbā – kilesā ceva kilesasampayuttā cātipi, kilesasampayuttā ceva no ca kilesātipi.
 
-1579. Katame dhammā kilesavippayuttā saṃkilesikā? Tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā kilesavippayuttā saṃkilesikā. ^2399
+1579. Katame dhammā kilesavippayuttā saṃkilesikā? Tīsu bhūmīsu kusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā kilesavippayuttā saṃkilesikā.
 
-1580. Katame dhammā kilesavippayuttā asaṃkilesikā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā kilesavippayuttā asaṃkilesikā. Kilesasampayuttā dhammā na vattabbā – kilesavippayuttā saṃkilesikātipi, kilesavippayuttā asaṃkilesikātipi. ^2400
+1580. Katame dhammā kilesavippayuttā asaṃkilesikā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā kilesavippayuttā asaṃkilesikā. Kilesasampayuttā dhammā na vattabbā – kilesavippayuttā saṃkilesikātipi, kilesavippayuttā asaṃkilesikātipi.
 
-Piṭṭhidukaṃ ^2401
+Piṭṭhidukaṃ
 
-1581. Katame dhammā dassanena pahātabbā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo – ime dhammā dassanena pahātabbā. Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā dassanena pahātabbā, siyā na dassanena pahātabbā. ^2402
+1581. Katame dhammā dassanena pahātabbā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo – ime dhammā dassanena pahātabbā. Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā dassanena pahātabbā, siyā na dassanena pahātabbā.
 
-1582. Katame dhammā na dassanena pahātabbā? Uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na dassanena pahātabbā. ^2403
+1582. Katame dhammā na dassanena pahātabbā? Uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na dassanena pahātabbā.
 
-1583. Katame dhammā bhāvanāya pahātabbā? Uddhaccasahagato cittuppādo – ime dhammā bhāvanāya pahātabbā. Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā bhāvanāya pahātabbā, siyā na bhāvanāya pahātabbā. ^2404
+1583. Katame dhammā bhāvanāya pahātabbā? Uddhaccasahagato cittuppādo – ime dhammā bhāvanāya pahātabbā. Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā bhāvanāya pahātabbā, siyā na bhāvanāya pahātabbā.
 
-1584. Katame dhammā na bhāvanāya pahātabbā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na bhāvanāya pahātabbā. ^2405
+1584. Katame dhammā na bhāvanāya pahātabbā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na bhāvanāya pahātabbā.
 
-1585. Katame dhammā dassanena pahātabbahetukā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo, etthuppannaṃ mohaṃ ṭhapetvā – ime dhammā dassanena pahātabbahetukā. Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā dassanena pahātabbahetukā, siyā na dassanena pahātabbahetukā. ^2406
+1585. Katame dhammā dassanena pahātabbahetukā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo, etthuppannaṃ mohaṃ ṭhapetvā – ime dhammā dassanena pahātabbahetukā. Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā dassanena pahātabbahetukā, siyā na dassanena pahātabbahetukā.
 
-1586. Katame dhammā na dassanena pahātabbahetukā? Vicikicchāsahagato moho, uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na dassanena pahātabbahetukā. ^2407
+1586. Katame dhammā na dassanena pahātabbahetukā? Vicikicchāsahagato moho, uddhaccasahagato cittuppādo, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na dassanena pahātabbahetukā.
 
-1587. Katame dhammā bhāvanāya pahātabbahetukā? Uddhaccasahagato cittuppādo, etthuppannaṃ mohaṃ ṭhapetvā – ime dhammā bhāvanāya pahātabbahetukā. Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā bhāvanāya pahātabbahetukā, siyā na bhāvanāya pahātabbahetukā. ^2408
+1587. Katame dhammā bhāvanāya pahātabbahetukā? Uddhaccasahagato cittuppādo, etthuppannaṃ mohaṃ ṭhapetvā – ime dhammā bhāvanāya pahātabbahetukā. Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā bhāvanāya pahātabbahetukā, siyā na bhāvanāya pahātabbahetukā.
 
-1588. Katame dhammā na bhāvanāya pahātabbahetukā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato moho, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na bhāvanāya pahātabbahetukā. ^2409
+1588. Katame dhammā na bhāvanāya pahātabbahetukā? Cattāro diṭṭhigatasampayuttacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato moho, catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā na bhāvanāya pahātabbahetukā.
 
-1589. Katame dhammā savitakkā? Kāmāvacarakusalaṃ, akusalaṃ, kāmāvacarakusalassa vipākato ekādasa cittuppādā, akusalassa vipākato dve, kiriyato ekādasa, rūpāvacaraṃ paṭhamaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca lokuttaraṃ paṭhamaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ vitakkaṃ ṭhapetvā – ime dhammā savitakkā. ^2410
+1589. Katame dhammā savitakkā? Kāmāvacarakusalaṃ, akusalaṃ, kāmāvacarakusalassa vipākato ekādasa cittuppādā, akusalassa vipākato dve, kiriyato ekādasa, rūpāvacaraṃ paṭhamaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca lokuttaraṃ paṭhamaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ vitakkaṃ ṭhapetvā – ime dhammā savitakkā.
 
-1590. Katame dhammā avitakkā? Dvepañcaviññāṇāni, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, cattāro arūpāvacarā kusalato ca vipākato ca kiriyato ca, lokuttaratikacatukkajjhānā kusalato ca vipākato ca, vitakko ca, rūpañca, nibbānañca – ime dhammā avitakkā. ^2411
+1590. Katame dhammā avitakkā? Dvepañcaviññāṇāni, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, cattāro arūpāvacarā kusalato ca vipākato ca kiriyato ca, lokuttaratikacatukkajjhānā kusalato ca vipākato ca, vitakko ca, rūpañca, nibbānañca – ime dhammā avitakkā.
 
-1591. Katame dhammā savicārā? Kāmāvacarakusalaṃ, akusalaṃ, kāmāvacarakusalassa vipākato ekādasa cittuppādā, akusalassa vipākato dve kiriyato ekādasa, rūpāvacaraekakadukajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaraekakadukajjhānā kusalato ca vipākato ca, etthuppannaṃ vicāraṃ ṭhapetvā – ime dhammā savicārā. ^2412
+1591. Katame dhammā savicārā? Kāmāvacarakusalaṃ, akusalaṃ, kāmāvacarakusalassa vipākato ekādasa cittuppādā, akusalassa vipākato dve kiriyato ekādasa, rūpāvacaraekakadukajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaraekakadukajjhānā kusalato ca vipākato ca, etthuppannaṃ vicāraṃ ṭhapetvā – ime dhammā savicārā.
 
-1592. Katame dhammā avicārā? Dvepañcaviññāṇāni, rūpāvacaratikatikajjhānā kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaratikatikajjhānā kusalato ca vipākato ca, vicāro ca, rūpañca, nibbānañca – ime dhammā avicārā. ^2413
+1592. Katame dhammā avicārā? Dvepañcaviññāṇāni, rūpāvacaratikatikajjhānā kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaratikatikajjhānā kusalato ca vipākato ca, vicāro ca, rūpañca, nibbānañca – ime dhammā avicārā.
 
-1593. Katame dhammā sappītikā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato pañca, kiriyato pañca, rūpāvacaradukatikajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaradukatikajjhānā kusalato ca vipākato ca, etthuppannaṃ pītiṃ ṭhapetvā – ime dhammā sappītikā. ^2414
+1593. Katame dhammā sappītikā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato pañca, kiriyato pañca, rūpāvacaradukatikajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaradukatikajjhānā kusalato ca vipākato ca, etthuppannaṃ pītiṃ ṭhapetvā – ime dhammā sappītikā.
 
-1594. Katame dhammā appītikā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato aṭṭha, kāmāvacarakusalassa vipākato ekādasa, akusalassa vipākato satta, kiriyato cha, rūpāvacaradukadukajjhānā kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaradukadukajjhānā kusalato ca vipākato ca pīti ca, rūpañca, nibbānañca – ime dhammā appītikā. ^2415
+1594. Katame dhammā appītikā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato aṭṭha, kāmāvacarakusalassa vipākato ekādasa, akusalassa vipākato satta, kiriyato cha, rūpāvacaradukadukajjhānā kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaradukadukajjhānā kusalato ca vipākato ca pīti ca, rūpañca, nibbānañca – ime dhammā appītikā.
 
-1595. Katame dhammā pītisahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato pañca, kiriyato pañca, rūpāvacaradukatikajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaradukatikajjhānā kusalato ca vipākato ca, etthuppannaṃ pītiṃ ṭhapetvā – ime dhammā pītisahagatā. ^2416
+1595. Katame dhammā pītisahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato pañca, kiriyato pañca, rūpāvacaradukatikajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaradukatikajjhānā kusalato ca vipākato ca, etthuppannaṃ pītiṃ ṭhapetvā – ime dhammā pītisahagatā.
 
-1596. Katame dhammā na pītisahagatā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato aṭṭha, kāmāvacarakusalassa vipākato ekādasa, akusalassa vipākato satta, kiriyato cha, rūpāvacaradukadukajjhānā kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaradukadukajjhānā kusalato ca vipākato ca, pīti ca, rūpañca, nibbānañca – ime dhammā na pītisahagatā. ^2417
+1596. Katame dhammā na pītisahagatā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato aṭṭha, kāmāvacarakusalassa vipākato ekādasa, akusalassa vipākato satta, kiriyato cha, rūpāvacaradukadukajjhānā kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaradukadukajjhānā kusalato ca vipākato ca, pīti ca, rūpañca, nibbānañca – ime dhammā na pītisahagatā.
 
-1597. Katame dhammā sukhasahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato cha, kiriyato pañca, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca lokuttaratikacatukkajjhānā kusalato ca vipākato ca, etthuppannaṃ sukhaṃ ṭhapetvā – ime dhammā sukhasahagatā. ^2418
+1597. Katame dhammā sukhasahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cattāro, kāmāvacarakusalassa vipākato cha, kiriyato pañca, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca lokuttaratikacatukkajjhānā kusalato ca vipākato ca, etthuppannaṃ sukhaṃ ṭhapetvā – ime dhammā sukhasahagatā.
 
-1598. Katame dhammā na sukhasahagatā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato aṭṭha, kāmāvacarakusalassa vipākato dasa, akusalassa vipākato satta, kiriyato cha, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca lokuttaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca, sukhañca, rūpañca, nibbānañca – ime dhammā na sukhasahagatā. ^2419
+1598. Katame dhammā na sukhasahagatā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato aṭṭha, kāmāvacarakusalassa vipākato dasa, akusalassa vipākato satta, kiriyato cha, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca lokuttaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca, sukhañca, rūpañca, nibbānañca – ime dhammā na sukhasahagatā.
 
-1599. Katame dhammā upekkhāsahagatā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato cha, kāmāvacarakusalassa vipākato dasa, akusalassa vipākato cha, kiriyato cha, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ upekkhaṃ ṭhapetvā – ime dhammā upekkhāsahagatā. ^2420
+1599. Katame dhammā upekkhāsahagatā? Kāmāvacarakusalato cattāro upekkhāsahagatacittuppādā, akusalato cha, kāmāvacarakusalassa vipākato dasa, akusalassa vipākato cha, kiriyato cha, rūpāvacaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca kiriyato ca, cattāro āruppā kusalato ca vipākato ca kiriyato ca, lokuttaraṃ catutthaṃ jhānaṃ kusalato ca vipākato ca, etthuppannaṃ upekkhaṃ ṭhapetvā – ime dhammā upekkhāsahagatā.
 
-1600. Katame dhammā na upekkhāsahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cha, kāmāvacarakusalassa vipākato cha, akusalassa vipākato eko, kiriyato pañca, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaratikacatukkajjhānā kusalato ca vipākato ca, upekkhā ca, rūpañca, nibbānañca – ime dhammā na upekkhāsahagatā. ^2421
+1600. Katame dhammā na upekkhāsahagatā? Kāmāvacarakusalato cattāro somanassasahagatacittuppādā, akusalato cha, kāmāvacarakusalassa vipākato cha, akusalassa vipākato eko, kiriyato pañca, rūpāvacaratikacatukkajjhānā kusalato ca vipākato ca kiriyato ca, lokuttaratikacatukkajjhānā kusalato ca vipākato ca, upekkhā ca, rūpañca, nibbānañca – ime dhammā na upekkhāsahagatā.
 
-1601. Katame dhammā kāmāvacarā? Kāmāvacarakusalaṃ, akusalaṃ, sabbo kāmāvacarassa vipāko, kāmāvacarakiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā kāmāvacarā. ^2422
+1601. Katame dhammā kāmāvacarā? Kāmāvacarakusalaṃ, akusalaṃ, sabbo kāmāvacarassa vipāko, kāmāvacarakiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā kāmāvacarā.
 
-1602. Katame dhammā na kāmāvacarā? Rūpāvacarā, arūpāvacarā, apariyāpannā – ime dhammā na kāmāvacarā. ^2423
+1602. Katame dhammā na kāmāvacarā? Rūpāvacarā, arūpāvacarā, apariyāpannā – ime dhammā na kāmāvacarā.
 
-1603. Katame dhammā rūpāvacarā? Rūpāvacaracatukkapañcakajjhānā kusalato ca vipākato ca kiriyato ca – ime dhammā rūpāvacarā. ^2424
+1603. Katame dhammā rūpāvacarā? Rūpāvacaracatukkapañcakajjhānā kusalato ca vipākato ca kiriyato ca – ime dhammā rūpāvacarā.
 
-1604. Katame dhammā na rūpāvacarā? Kāmāvacarā, arūpāvacarā, apariyāpannā – ime dhammā na rūpāvacarā. ^2425
+1604. Katame dhammā na rūpāvacarā? Kāmāvacarā, arūpāvacarā, apariyāpannā – ime dhammā na rūpāvacarā.
 
-1605. Katame dhammā arūpāvacarā? Cattāro āruppā kusalato ca vipākato ca kiriyato ca – ime dhammā arūpāvacarā. ^2426
+1605. Katame dhammā arūpāvacarā? Cattāro āruppā kusalato ca vipākato ca kiriyato ca – ime dhammā arūpāvacarā.
 
-1606. Katame dhammā na arūpāvacarā? Kāmāvacarā, rūpāvacarā, apariyāpannā – ime dhammā na arūpāvacarā. ^2427
+1606. Katame dhammā na arūpāvacarā? Kāmāvacarā, rūpāvacarā, apariyāpannā – ime dhammā na arūpāvacarā.
 
-1607. Katame dhammā pariyāpannā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā pariyāpannā. ^2428
+1607. Katame dhammā pariyāpannā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā pariyāpannā.
 
-1608. Katame dhammā apariyāpannā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā apariyāpannā. ^2429
+1608. Katame dhammā apariyāpannā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā apariyāpannā.
 
-1609. Katame dhammā niyyānikā? Cattāro maggā apariyāpannā – ime dhammā niyyānikā. ^2430
+1609. Katame dhammā niyyānikā? Cattāro maggā apariyāpannā – ime dhammā niyyānikā.
 
-1610. Katame dhammā aniyyānikā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā aniyyānikā. ^2431
+1610. Katame dhammā aniyyānikā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā aniyyānikā.
 
-1611. Katame dhammā niyatā? Cattāro diṭṭhigatasampayuttacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā niyatā siyā aniyatā. Cattāro maggā apariyāpannā – ime dhammā niyatā. ^2432
+1611. Katame dhammā niyatā? Cattāro diṭṭhigatasampayuttacittuppādā, dve domanassasahagatacittuppādā – ime dhammā siyā niyatā siyā aniyatā. Cattāro maggā apariyāpannā – ime dhammā niyatā.
 
-1612. Katame dhammā aniyatā? Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā aniyatā. ^2433
+1612. Katame dhammā aniyatā? Cattāro diṭṭhigatavippayuttalobhasahagatacittuppādā, vicikicchāsahagato cittuppādo, uddhaccasahagato cittuppādo, tīsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā aniyatā.
 
-1613. Katame dhammā sauttarā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā sauttarā. ^2434
+1613. Katame dhammā sauttarā? Tīsu bhūmīsu kusalaṃ, akusalaṃ, tīsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, sabbañca rūpaṃ – ime dhammā sauttarā.
 
-1614. Katame dhammā anuttarā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anuttarā. ^2435
+1614. Katame dhammā anuttarā? Cattāro maggā apariyāpannā, cattāri ca sāmaññaphalāni, nibbānañca – ime dhammā anuttarā.
 
-1615. Katame dhammā saraṇā? Dvādasa akusalacittuppādā – ime dhammā saraṇā. ^2436
+1615. Katame dhammā saraṇā? Dvādasa akusalacittuppādā – ime dhammā saraṇā.
 
-1616. Katame dhammā araṇā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā araṇā. ^2437
+1616. Katame dhammā araṇā? Catūsu bhūmīsu kusalaṃ, catūsu bhūmīsu vipāko, tīsu bhūmīsu kiriyābyākataṃ, rūpañca, nibbānañca – ime dhammā araṇā.
 
-Atthuddhāro niṭṭhito. ^2438
+Atthuddhāro niṭṭhito.
 
-Dhammasaṅgaṇīpakaraṇaṃ niṭṭhitaṃ. ^2439
+Dhammasaṅgaṇīpakaraṇaṃ niṭṭhitaṃ.

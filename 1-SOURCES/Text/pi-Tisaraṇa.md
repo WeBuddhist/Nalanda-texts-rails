@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 9
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation V3suu9sdKHWIRhyD9NVMR — one block per segment, in span order"
+verse_id_format:
+segments: 9
+segmentation_source: "openpecha-v2 segmentation annotation V3suu9sdKHWIRhyD9NVMR — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,22 +28,22 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Tisaraṇa ^0
+# Tisaraṇa
 
-Buddhaṃ saraṇaṃ gacchāmi. ^1
+Buddhaṃ saraṇaṃ gacchāmi.
 
-Dhammaṃ saraṇaṃ gacchāmi. ^2
+Dhammaṃ saraṇaṃ gacchāmi.
 
-Saṅghaṃ saraṇaṃ gacchāmi. ^3
+Saṅghaṃ saraṇaṃ gacchāmi.
 
-Dutiyam pi Buddhaṃ saraṇaṃ gacchāmi. ^4
+Dutiyam pi Buddhaṃ saraṇaṃ gacchāmi.
 
-Dutiyam pi Dhammaṃ saraṇaṃ gacchāmi. ^5
+Dutiyam pi Dhammaṃ saraṇaṃ gacchāmi.
 
-Dutiyam pi Saṅghaṃ saraṇaṃ gacchāmi. ^6
+Dutiyam pi Saṅghaṃ saraṇaṃ gacchāmi.
 
-Tatiyam pi Buddhaṃ saraṇaṃ gacchāmi. ^7
+Tatiyam pi Buddhaṃ saraṇaṃ gacchāmi.
 
-Tatiyam pi Dhammaṃ saraṇaṃ gacchāmi. ^8
+Tatiyam pi Dhammaṃ saraṇaṃ gacchāmi.
 
-Tatiyam pi Saṅghaṃ saraṇaṃ gacchāmi. ^9
+Tatiyam pi Saṅghaṃ saraṇaṃ gacchāmi.

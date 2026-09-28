@@ -6,9 +6,9 @@ language: Literary Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh
-total_verses: 9
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation DdtkZPW5o5M361qLYZXt7 — one block per segment, in span order"
+verse_id_format:
+segments: 9
+segmentation_source: "openpecha-v2 segmentation annotation DdtkZPW5o5M361qLYZXt7 — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -24,26 +24,27 @@ openpecha_v2_language: lzh
 openpecha_v2_category_id: D91TlgRqpZGCOfywaHRvV
 openpecha_v2_date: "2026-03-17"
 openpecha_v2_annotations:
+  - "search_segmentation: adAAfDjFSNmsG8moR6Aln"
   - "segmentation: DdtkZPW5o5M361qLYZXt7"
 status: ingested
 ---
 
-# 般若波羅蜜多心經(玄奘版本) ^0
+# 般若波羅蜜多心經(玄奘版本)
 
-觀自在菩薩，行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。 ^1
+觀自在菩薩，行深般若波羅蜜多時，照見五蘊皆空，度一切苦厄。
 
-舍利子，色不異空，空不異色；色即是空，空即是色。受、想、行、識，亦復如是。 ^2
+舍利子，色不異空，空不異色；色即是空，空即是色。受、想、行、識，亦復如是。
 
-舍利子，是諸法空相，不生不滅，不垢不淨，不增不減。 ^3
+舍利子，是諸法空相，不生不滅，不垢不淨，不增不減。
 
-是故空中無色，無受、想、行、識；無眼、耳、鼻、舌、身、意；無色、聲、香、味、觸、法；無眼界，乃至無意識界； ^4
+是故空中無色，無受、想、行、識；無眼、耳、鼻、舌、身、意；無色、聲、香、味、觸、法；無眼界，乃至無意識界；
 
-無無明，亦無無明盡；乃至無老死，亦無老死盡。無苦、集、滅、道，無智亦無得。 ^5
+無無明，亦無無明盡；乃至無老死，亦無老死盡。無苦、集、滅、道，無智亦無得。
 
-以無所得故，菩提薩埵，依般若波羅蜜多故，心無罣礙。無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。 ^6
+以無所得故，菩提薩埵，依般若波羅蜜多故，心無罣礙。無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。
 
-三世諸佛，依般若波羅蜜多故，得阿耨多羅三藐三菩提。 ^7
+三世諸佛，依般若波羅蜜多故，得阿耨多羅三藐三菩提。
 
-故知般若波羅蜜多，是大神咒，是大明咒，是無上咒，是無等等咒，能除一切苦，真實不虛。 ^8
+故知般若波羅蜜多，是大神咒，是大明咒，是無上咒，是無等等咒，能除一切苦，真實不虛。
 
-故說般若波羅蜜多咒，即說咒曰：揭諦、揭諦，波羅揭諦，波羅僧揭諦，菩提僧莎訶。 ^9
+故說般若波羅蜜多咒，即說咒曰：揭諦、揭諦，波羅揭諦，波羅僧揭諦，菩提僧莎訶。

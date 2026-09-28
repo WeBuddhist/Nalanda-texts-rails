@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 30
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation BpL8B8N4RIPGpK27OcvoI — one block per segment, in span order"
+verse_id_format:
+segments: 30
+segmentation_source: "openpecha-v2 segmentation annotation BpL8B8N4RIPGpK27OcvoI — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,64 +28,64 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Bhārasutta ^0
+# Bhārasutta
 
-Sāvatthiyaṁ … tatra kho … ^1
+Sāvatthiyaṁ … tatra kho …
 
-“bhārañca vo, bhikkhave, desessāmi bhārahārañca bhārādānañca bhāranikkhepanañca. ^2
+“bhārañca vo, bhikkhave, desessāmi bhārahārañca bhārādānañca bhāranikkhepanañca.
 
-Taṁ suṇātha. ^3
+Taṁ suṇātha.
 
-Katamo ca, bhikkhave, bhāro? ^4
+Katamo ca, bhikkhave, bhāro?
 
-Pañcupādānakkhandhā tissa vacanīyaṁ. ^5
+Pañcupādānakkhandhā tissa vacanīyaṁ.
 
-Katame pañca? ^6
+Katame pañca?
 
-Rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho; ^7
+Rūpupādānakkhandho, vedanupādānakkhandho, saññupādānakkhandho, saṅkhārupādānakkhandho, viññāṇupādānakkhandho;
 
-ayaṁ vuccati, bhikkhave, bhāro. ^8
+ayaṁ vuccati, bhikkhave, bhāro.
 
-Katamo ca, bhikkhave, bhārahāro? ^9
+Katamo ca, bhikkhave, bhārahāro?
 
-Puggalo tissa vacanīyaṁ. ^10
+Puggalo tissa vacanīyaṁ.
 
-Yvāyaṁ āyasmā evaṁnāmo evaṅgotto; ^11
+Yvāyaṁ āyasmā evaṁnāmo evaṅgotto;
 
-ayaṁ vuccati, bhikkhave, bhārahāro. ^12
+ayaṁ vuccati, bhikkhave, bhārahāro.
 
-Katamañca, bhikkhave, bhārādānaṁ? ^13
+Katamañca, bhikkhave, bhārādānaṁ?
 
-Yāyaṁ taṇhā ponobhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ— ^14
+Yāyaṁ taṇhā ponobhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ—
 
-kāmataṇhā, bhavataṇhā, vibhavataṇhā. ^15
+kāmataṇhā, bhavataṇhā, vibhavataṇhā.
 
-Idaṁ vuccati, bhikkhave, bhārādānaṁ. ^16
+Idaṁ vuccati, bhikkhave, bhārādānaṁ.
 
-Katamañca, bhikkhave, bhāranikkhepanaṁ? ^17
+Katamañca, bhikkhave, bhāranikkhepanaṁ?
 
-Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. ^18
+Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo.
 
-Idaṁ vuccati, bhikkhave, bhāranikkhepanan”ti. ^19
+Idaṁ vuccati, bhikkhave, bhāranikkhepanan”ti.
 
-Idamavoca bhagavā. ^20
+Idamavoca bhagavā.
 
-Idaṁ vatvāna sugato athāparaṁ etadavoca satthā: Variant: vatvāna → vatvā (bj) ^21
+Idaṁ vatvāna sugato athāparaṁ etadavoca satthā: Variant: vatvāna → vatvā (bj)
 
-“Bhārā have pañcakkhandhā, ^22
+“Bhārā have pañcakkhandhā,
 
-bhārahāro ca puggalo; ^23
+bhārahāro ca puggalo;
 
-Bhārādānaṁ dukhaṁ loke, ^24
+Bhārādānaṁ dukhaṁ loke,
 
-bhāranikkhepanaṁ sukhaṁ. ^25
+bhāranikkhepanaṁ sukhaṁ.
 
-Nikkhipitvā garuṁ bhāraṁ, ^26
+Nikkhipitvā garuṁ bhāraṁ,
 
-aññaṁ bhāraṁ anādiya; ^27
+aññaṁ bhāraṁ anādiya;
 
-Samūlaṁ taṇhamabbuyha, Variant: taṇhamabbuyha → taṇhaṁ abbuyha (bj, sya-all); taṇhamabbhuyha ^28
+Samūlaṁ taṇhamabbuyha, Variant: taṇhamabbuyha → taṇhaṁ abbuyha (bj, sya-all); taṇhamabbhuyha
 
-nicchāto parinibbuto”ti. ^29
+nicchāto parinibbuto”ti.
 
-Paṭhamaṁ. ^30
+Paṭhamaṁ.

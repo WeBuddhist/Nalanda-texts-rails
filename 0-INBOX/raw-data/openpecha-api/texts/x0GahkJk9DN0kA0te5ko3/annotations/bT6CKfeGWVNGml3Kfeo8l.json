@@ -1,0 +1,41 @@
+{
+ "id": "bT6CKfeGWVNGml3Kfeo8l",
+ "type": "search_segmentation",
+ "data": [
+  {
+   "id": "xy1xXS2xG0v3OBDJBqZqW",
+   "span": {
+    "start": 0,
+    "end": 2965
+   }
+  },
+  {
+   "id": "U03ChSWgS43Y6iNNtDAP5",
+   "span": {
+    "start": 2965,
+    "end": 5938
+   }
+  },
+  {
+   "id": "swa8tXlTqKrwUbv1DPBnF",
+   "span": {
+    "start": 5938,
+    "end": 8912
+   }
+  },
+  {
+   "id": "sONR1OYv7nYBtzC5dgUyn",
+   "span": {
+    "start": 8912,
+    "end": 11870
+   }
+  },
+  {
+   "id": "nsrORYPK1vjhbafLNDyA6",
+   "span": {
+    "start": 11870,
+    "end": 13721
+   }
+  }
+ ]
+}

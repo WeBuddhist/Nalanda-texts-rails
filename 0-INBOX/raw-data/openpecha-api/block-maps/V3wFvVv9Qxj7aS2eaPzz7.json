@@ -3,50 +3,63 @@
 "text_id": "V3wFvVv9Qxj7aS2eaPzz7",
 "instance_id": "nDLbzBxOTGGE1WyD6xCp2",
 "segmentation_id": "kFXqk4YnVxdRv425lblkn",
-"blocks": [
+"durchen_ids": [
+"Ty7mPFE01xgSdyABooCtq"
+],
+"segments": [
 {
-"block": 1,
+"segment": 1,
 "segment_id": "ZlSPAhoyImlc9VT6gqdUr"
 },
 {
-"block": 2,
+"segment": 2,
 "segment_id": "18gQ7DORhPhide7jaxOHE"
 },
 {
-"block": 3,
+"segment": 3,
 "segment_id": "5XHOGIA7s1VwgbMzJc7OC"
 },
 {
-"block": 4,
+"segment": 4,
 "segment_id": "Pa1Vi9Lr8eescaxREUEMt"
 },
 {
-"block": 5,
+"segment": 5,
 "segment_id": "7GPqxMCjWHxi9wawuLvy0"
 },
 {
-"block": 6,
+"segment": 6,
 "segment_id": "eDWcsqSiyR376mnzGebZf"
 },
 {
-"block": 7,
+"segment": 7,
 "segment_id": "G4wPKtMX3gnqvt0psCK2V"
 },
 {
-"block": 8,
+"segment": 8,
 "segment_id": "WZ90VRotkx9418B6OmoNr"
 },
 {
-"block": 9,
+"segment": 9,
 "segment_id": "zZv3B86HYTnqD4ycUOKIr"
 },
 {
-"block": 10,
+"segment": 10,
 "segment_id": "Kt4Mya9wOkMf5QzHrc83B"
 },
 {
-"block": 11,
+"segment": 11,
 "segment_id": "8uNz4OyCNHwE9UH1Vnc2n"
+}
+],
+"footnotes": [
+{
+"footnote": 1,
+"durchen_id": "iTaJczKRxWIFlwCTAeiOe"
+},
+{
+"footnote": 2,
+"durchen_id": "YbJVZNyo7FqpTavupW0jG"
 }
 ]
 }

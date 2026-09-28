@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 386
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation dtjc2QHx5SPnwklSJ2g5m — one block per segment, in span order"
+verse_id_format:
+segments: 386
+segmentation_source: "openpecha-v2 segmentation annotation dtjc2QHx5SPnwklSJ2g5m — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -24,780 +24,781 @@ openpecha_v2_language: pi
 openpecha_v2_category_id: iGzbJ0D6zdyccIv2gnXeI
 openpecha_v2_date: "2026-03-02"
 openpecha_v2_annotations:
+  - "search_segmentation: zKzPhPayRRu0ZlmqyjeXv"
   - "segmentation: dtjc2QHx5SPnwklSJ2g5m"
 status: ingested
 ---
 
-# Delete that ^0
+# Delete that
 
-Namo tassa bhagavato arahato sammāsambuddhassa ^1
+Namo tassa bhagavato arahato sammāsambuddhassa
 
-Abhidhammapiṭake ^2
+Abhidhammapiṭake
 
-Dhammasaṅgaṇīpāḷi ^3
+Dhammasaṅgaṇīpāḷi
 
-Mātikā ^4
+Mātikā
 
-1.Tikamātikā ^5
+1.Tikamātikā
 
-1.(ka) kusalā dhammā. ^6
+1.(ka) kusalā dhammā.
 
-(kha) akusalā dhammā. ^7
+(kha) akusalā dhammā.
 
-(ga) abyākatā dhammā. ^8
+(ga) abyākatā dhammā.
 
-2.(ka) sukhāya vedanāya sampayuttā dhammā. ^9
+2.(ka) sukhāya vedanāya sampayuttā dhammā.
 
-(kha) dukkhāya vedanāya sampayuttā dhammā. ^10
+(kha) dukkhāya vedanāya sampayuttā dhammā.
 
-(ga) adukkhamasukhāya vedanāya sampayuttā dhammā. ^11
+(ga) adukkhamasukhāya vedanāya sampayuttā dhammā.
 
-3.(ka) vipākā dhammā. ^12
+3.(ka) vipākā dhammā.
 
-(kha) vipākadhammadhammā. ^13
+(kha) vipākadhammadhammā.
 
-(ga) nevavipākanavipākadhammadhammā. ^14
+(ga) nevavipākanavipākadhammadhammā.
 
-4.(ka) upādiṇṇupādāniyā  dhammā. ^15
+4.(ka) upādiṇṇupādāniyā  dhammā.
 
-(kha) anupādiṇṇupādāniyā dhammā. ^16
+(kha) anupādiṇṇupādāniyā dhammā.
 
-(ga) anupādiṇṇaanupādāniyā  dhammā. ^17
+(ga) anupādiṇṇaanupādāniyā  dhammā.
 
-5.(ka) saṃkiliṭṭhasaṃkilesikā dhammā. ^18
+5.(ka) saṃkiliṭṭhasaṃkilesikā dhammā.
 
-(kha) asaṃkiliṭṭhasaṃkilesikā dhammā. ^19
+(kha) asaṃkiliṭṭhasaṃkilesikā dhammā.
 
-(ga) asaṃkiliṭṭhaasaṃkilesikā  dhammā. ^20
+(ga) asaṃkiliṭṭhaasaṃkilesikā  dhammā.
 
-6.(ka) savitakkasavicārā dhammā. ^21
+6.(ka) savitakkasavicārā dhammā.
 
-(kha) avitakkavicāramattā dhammā. ^22
+(kha) avitakkavicāramattā dhammā.
 
-(ga) avitakkaavicārā  dhammā. ^23
+(ga) avitakkaavicārā  dhammā.
 
-7.(ka) pītisahagatā dhammā. ^24
+7.(ka) pītisahagatā dhammā.
 
-(kha) sukhasahagatā dhammā. ^25
+(kha) sukhasahagatā dhammā.
 
-(ga) upekkhāsahagatā dhammā. ^26
+(ga) upekkhāsahagatā dhammā.
 
-8.(ka) dassanena pahātabbā dhammā. ^27
+8.(ka) dassanena pahātabbā dhammā.
 
-(kha) bhāvanāya pahātabbā dhammā. ^28
+(kha) bhāvanāya pahātabbā dhammā.
 
-(ga) neva dassanena na bhāvanāya pahātabbā dhammā. ^29
+(ga) neva dassanena na bhāvanāya pahātabbā dhammā.
 
-9.(ka) dassanena pahātabbahetukā dhammā. ^30
+9.(ka) dassanena pahātabbahetukā dhammā.
 
-(kha) bhāvanāya pahātabbahetukā dhammā. ^31
+(kha) bhāvanāya pahātabbahetukā dhammā.
 
-(ga) neva dassanena na bhāvanāya pahātabbahetukā dhammā. ^32
+(ga) neva dassanena na bhāvanāya pahātabbahetukā dhammā.
 
-10.(ka) ācayagāmino dhammā. ^33
+10.(ka) ācayagāmino dhammā.
 
-(kha) apacayagāmino dhammā. ^34
+(kha) apacayagāmino dhammā.
 
-(ga) nevācayagāmināpacayagāmino  dhammā. ^35
+(ga) nevācayagāmināpacayagāmino  dhammā.
 
-11.(ka) sekkhā dhammā. ^36
+11.(ka) sekkhā dhammā.
 
-(kha) asekkhā dhammā. ^37
+(kha) asekkhā dhammā.
 
-(ga) nevasekkhanāsekkhā  dhammā. ^38
+(ga) nevasekkhanāsekkhā  dhammā.
 
-12.(ka) parittā dhammā. ^39
+12.(ka) parittā dhammā.
 
-(kha) mahaggatā dhammā. ^40
+(kha) mahaggatā dhammā.
 
-(ga) appamāṇā dhammā. ^41
+(ga) appamāṇā dhammā.
 
-13.(ka) parittārammaṇā dhammā. ^42
+13.(ka) parittārammaṇā dhammā.
 
-(kha) mahaggatārammaṇā dhammā. ^43
+(kha) mahaggatārammaṇā dhammā.
 
-(ga) appamāṇārammaṇā dhammā. ^44
+(ga) appamāṇārammaṇā dhammā.
 
-14.(ka) hīnā dhammā. ^45
+14.(ka) hīnā dhammā.
 
-(kha) majjhimā dhammā. ^46
+(kha) majjhimā dhammā.
 
-(ga) paṇītā dhammā. ^47
+(ga) paṇītā dhammā.
 
-15.(ka) micchattaniyatā dhammā. ^48
+15.(ka) micchattaniyatā dhammā.
 
-(kha) sammattaniyatā dhammā. ^49
+(kha) sammattaniyatā dhammā.
 
-(ga) aniyatā dhammā. ^50
+(ga) aniyatā dhammā.
 
-16.(ka) maggārammaṇā dhammā. ^51
+16.(ka) maggārammaṇā dhammā.
 
-(kha) maggahetukā dhammā. ^52
+(kha) maggahetukā dhammā.
 
-(ga) maggādhipatino dhammā. ^53
+(ga) maggādhipatino dhammā.
 
-17.(ka) uppannā dhammā. ^54
+17.(ka) uppannā dhammā.
 
-(kha) anuppannā dhammā. ^55
+(kha) anuppannā dhammā.
 
-(ga) uppādino dhammā. ^56
+(ga) uppādino dhammā.
 
-18.(ka) atītā dhammā. ^57
+18.(ka) atītā dhammā.
 
-(kha) anāgatā dhammā. ^58
+(kha) anāgatā dhammā.
 
-(ga) paccuppannā dhammā. ^59
+(ga) paccuppannā dhammā.
 
-19.(ka) atītārammaṇā dhammā. ^60
+19.(ka) atītārammaṇā dhammā.
 
-(kha) anāgatārammaṇā dhammā. ^61
+(kha) anāgatārammaṇā dhammā.
 
-(ga) paccuppannārammaṇā dhammā. ^62
+(ga) paccuppannārammaṇā dhammā.
 
-20.(ka) ajjhattā dhammā. ^63
+20.(ka) ajjhattā dhammā.
 
-(kha) bahiddhā dhammā. ^64
+(kha) bahiddhā dhammā.
 
-(ga) ajjhattabahiddhā dhammā. ^65
+(ga) ajjhattabahiddhā dhammā.
 
-21.(ka) ajjhattārammaṇā dhammā. ^66
+21.(ka) ajjhattārammaṇā dhammā.
 
-(kha) bahiddhārammaṇā dhammā. ^67
+(kha) bahiddhārammaṇā dhammā.
 
-(ga) ajjhattabahiddhārammaṇā dhammā. ^68
+(ga) ajjhattabahiddhārammaṇā dhammā.
 
-22.(ka) sanidassanasappaṭighā dhammā. ^69
+22.(ka) sanidassanasappaṭighā dhammā.
 
-(kha) anidassanasappaṭighā dhammā. ^70
+(kha) anidassanasappaṭighā dhammā.
 
-(ga) anidassanaappaṭighā  dhammā. ^71
+(ga) anidassanaappaṭighā  dhammā.
 
-2.Dukamātikā ^72
+2.Dukamātikā
 
-Hetugocchakaṃ ^73
+Hetugocchakaṃ
 
-1.(ka) hetū dhammā. ^74
+1.(ka) hetū dhammā.
 
-(kha) na hetū dhammā. ^75
+(kha) na hetū dhammā.
 
-2.(ka) sahetukā dhammā. ^76
+2.(ka) sahetukā dhammā.
 
-(kha) ahetukā dhammā. ^77
+(kha) ahetukā dhammā.
 
-3.(ka) hetusampayuttā dhammā. ^78
+3.(ka) hetusampayuttā dhammā.
 
-(kha) hetuvippayuttā dhammā. ^79
+(kha) hetuvippayuttā dhammā.
 
-4.(ka) hetū ceva dhammā sahetukā ca. ^80
+4.(ka) hetū ceva dhammā sahetukā ca.
 
-(kha) sahetukā ceva dhammā na ca hetū. ^81
+(kha) sahetukā ceva dhammā na ca hetū.
 
-5.(ka) hetū ceva dhammā hetusampayuttā ca. ^82
+5.(ka) hetū ceva dhammā hetusampayuttā ca.
 
-(kha) hetusampayuttā ceva dhammā na ca hetū. ^83
+(kha) hetusampayuttā ceva dhammā na ca hetū.
 
-6.(ka) na hetū kho pana dhammā sahetukāpi. ^84
+6.(ka) na hetū kho pana dhammā sahetukāpi.
 
-(kha) ahetukāpi. ^85
+(kha) ahetukāpi.
 
-Hetugocchakaṃ. ^86
+Hetugocchakaṃ.
 
-Cūḷantaradukaṃ ^87
+Cūḷantaradukaṃ
 
-7.(ka) sappaccayā dhammā. ^88
+7.(ka) sappaccayā dhammā.
 
-(kha) appaccayā dhammā. ^89
+(kha) appaccayā dhammā.
 
-8.(ka) saṅkhatā dhammā. ^90
+8.(ka) saṅkhatā dhammā.
 
-(kha) asaṅkhatā dhammā. ^91
+(kha) asaṅkhatā dhammā.
 
-9.(ka) sanidassanā dhammā. ^92
+9.(ka) sanidassanā dhammā.
 
-(kha) anidassanā dhammā. ^93
+(kha) anidassanā dhammā.
 
-10.(ka) sappaṭighā dhammā. ^94
+10.(ka) sappaṭighā dhammā.
 
-(kha) appaṭighā dhammā. ^95
+(kha) appaṭighā dhammā.
 
-11.(ka) rūpino dhammā. ^96
+11.(ka) rūpino dhammā.
 
-(kha) arūpino dhammā. ^97
+(kha) arūpino dhammā.
 
-12.(ka) lokiyā dhammā. ^98
+12.(ka) lokiyā dhammā.
 
-(kha) lokuttarā dhammā. ^99
+(kha) lokuttarā dhammā.
 
-13.(ka) kenaci viññeyyā dhammā. ^100
+13.(ka) kenaci viññeyyā dhammā.
 
-(kha) kenaci na viññeyyā dhammā. ^101
+(kha) kenaci na viññeyyā dhammā.
 
-Cūḷantaradukaṃ. ^102
+Cūḷantaradukaṃ.
 
-Āsavagocchakaṃ ^103
+Āsavagocchakaṃ
 
-14.(ka) āsavā dhammā. ^104
+14.(ka) āsavā dhammā.
 
-(kha) no āsavā dhammā. ^105
+(kha) no āsavā dhammā.
 
-15.(ka) sāsavā dhammā. ^106
+15.(ka) sāsavā dhammā.
 
-(kha) anāsavā dhammā. ^107
+(kha) anāsavā dhammā.
 
-16.(ka) āsavasampayuttā dhammā. ^108
+16.(ka) āsavasampayuttā dhammā.
 
-(kha) āsavavippayuttā dhammā. ^109
+(kha) āsavavippayuttā dhammā.
 
-17.(ka) āsavā ceva dhammā sāsavā ca. ^110
+17.(ka) āsavā ceva dhammā sāsavā ca.
 
-(kha) sāsavā ceva dhammā no ca āsavā. ^111
+(kha) sāsavā ceva dhammā no ca āsavā.
 
-18.(ka) āsavā ceva dhammā āsavasampayuttā ca. ^112
+18.(ka) āsavā ceva dhammā āsavasampayuttā ca.
 
-(kha) āsavasampayuttā ceva dhammā no ca āsavā. ^113
+(kha) āsavasampayuttā ceva dhammā no ca āsavā.
 
-19.(ka) āsavavippayuttā kho pana dhammā sāsavāpi. ^114
+19.(ka) āsavavippayuttā kho pana dhammā sāsavāpi.
 
-(kha) anāsavāpi. ^115
+(kha) anāsavāpi.
 
-Āsavagocchakaṃ. ^116
+Āsavagocchakaṃ.
 
-Saṃyojanagocchakaṃ ^117
+Saṃyojanagocchakaṃ
 
-20.(ka) saṃyojanā dhammā. ^118
+20.(ka) saṃyojanā dhammā.
 
-(kha) no saṃyojanā dhammā. ^119
+(kha) no saṃyojanā dhammā.
 
-21.(ka) saṃyojaniyā dhammā. ^120
+21.(ka) saṃyojaniyā dhammā.
 
-(kha) asaṃyojaniyā dhammā. ^121
+(kha) asaṃyojaniyā dhammā.
 
-22.(ka) saṃyojanasampayuttā dhammā. ^122
+22.(ka) saṃyojanasampayuttā dhammā.
 
-(kha) saṃyojanavippayuttā dhammā. ^123
+(kha) saṃyojanavippayuttā dhammā.
 
-23.(ka) saṃyojanā ceva dhammā saṃyojaniyā ca. ^124
+23.(ka) saṃyojanā ceva dhammā saṃyojaniyā ca.
 
-(kha) saṃyojaniyā ceva dhammā no ca saṃyojanā. ^125
+(kha) saṃyojaniyā ceva dhammā no ca saṃyojanā.
 
-24.(ka) saṃyojanā ceva dhammā saṃyojanasampayuttā ca. ^126
+24.(ka) saṃyojanā ceva dhammā saṃyojanasampayuttā ca.
 
-(kha) saṃyojanasampayuttā ceva dhammā no ca saṃyojanā. ^127
+(kha) saṃyojanasampayuttā ceva dhammā no ca saṃyojanā.
 
-25.(ka) saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi. ^128
+25.(ka) saṃyojanavippayuttā kho pana dhammā saṃyojaniyāpi.
 
-(kha) asaṃyojaniyāpi. ^129
+(kha) asaṃyojaniyāpi.
 
-Saṃyojanagocchakaṃ. ^130
+Saṃyojanagocchakaṃ.
 
-Ganthagocchakaṃ ^131
+Ganthagocchakaṃ
 
-26.(ka) ganthā dhammā. ^132
+26.(ka) ganthā dhammā.
 
-(kha) no ganthā dhammā. ^133
+(kha) no ganthā dhammā.
 
-27.(ka) ganthaniyā dhammā. ^134
+27.(ka) ganthaniyā dhammā.
 
-(kha) aganthaniyā dhammā. ^135
+(kha) aganthaniyā dhammā.
 
-28.(ka) ganthasampayuttā dhammā. ^136
+28.(ka) ganthasampayuttā dhammā.
 
-(kha) ganthavippayuttā dhammā. ^137
+(kha) ganthavippayuttā dhammā.
 
-29.(ka) ganthā ceva dhammā ganthaniyā ca. ^138
+29.(ka) ganthā ceva dhammā ganthaniyā ca.
 
-(kha) ganthaniyā ceva dhammā no ca ganthā. ^139
+(kha) ganthaniyā ceva dhammā no ca ganthā.
 
-30.(ka) ganthā ceva dhammā ganthasampayuttā ca. ^140
+30.(ka) ganthā ceva dhammā ganthasampayuttā ca.
 
-(kha) ganthasampayuttā ceva dhammā no ca ganthā. ^141
+(kha) ganthasampayuttā ceva dhammā no ca ganthā.
 
-31.(ka) ganthavippayuttā kho pana dhammā ganthaniyāpi. ^142
+31.(ka) ganthavippayuttā kho pana dhammā ganthaniyāpi.
 
-(kha) aganthaniyāpi. ^143
+(kha) aganthaniyāpi.
 
-Ganthagocchakaṃ. ^144
+Ganthagocchakaṃ.
 
-Oghagocchakaṃ ^145
+Oghagocchakaṃ
 
-32.(ka) oghā dhammā. ^146
+32.(ka) oghā dhammā.
 
-(kha) no oghā dhammā. ^147
+(kha) no oghā dhammā.
 
-33.(ka) oghaniyā dhammā. ^148
+33.(ka) oghaniyā dhammā.
 
-(kha) anoghaniyā dhammā. ^149
+(kha) anoghaniyā dhammā.
 
-34.(ka) oghasampayuttā dhammā. ^150
+34.(ka) oghasampayuttā dhammā.
 
-(kha) oghavippayuttā dhammā. ^151
+(kha) oghavippayuttā dhammā.
 
-35.(ka) oghā ceva dhammā oghaniyā ca. ^152
+35.(ka) oghā ceva dhammā oghaniyā ca.
 
-(kha) oghaniyā ceva dhammā no ca oghā. ^153
+(kha) oghaniyā ceva dhammā no ca oghā.
 
-36.(ka) oghā ceva dhammā oghasampayuttā ca. ^154
+36.(ka) oghā ceva dhammā oghasampayuttā ca.
 
-(kha) oghasampayuttā ceva dhammā no ca oghā. ^155
+(kha) oghasampayuttā ceva dhammā no ca oghā.
 
-37.(ka) oghavippayuttā kho pana dhammā oghaniyāpi. ^156
+37.(ka) oghavippayuttā kho pana dhammā oghaniyāpi.
 
-(kha) anoghaniyāpi. ^157
+(kha) anoghaniyāpi.
 
-Oghagocchakaṃ. ^158
+Oghagocchakaṃ.
 
-Yogagocchakaṃ ^159
+Yogagocchakaṃ
 
-38.(ka) yogā dhammā. ^160
+38.(ka) yogā dhammā.
 
-(kha) no yogā dhammā. ^161
+(kha) no yogā dhammā.
 
-39.(ka) yoganiyā dhammā. ^162
+39.(ka) yoganiyā dhammā.
 
-(kha) ayoganiyā dhammā. ^163
+(kha) ayoganiyā dhammā.
 
-40.(ka) yogasampayuttā dhammā. ^164
+40.(ka) yogasampayuttā dhammā.
 
-(kha) yogavippayuttā dhammā. ^165
+(kha) yogavippayuttā dhammā.
 
-41.(ka) yogā ceva dhammā yoganiyā ca. ^166
+41.(ka) yogā ceva dhammā yoganiyā ca.
 
-(kha) yoganiyā ceva dhammā no ca yogā. ^167
+(kha) yoganiyā ceva dhammā no ca yogā.
 
-42.(ka) yogā ceva dhammā yogasampayuttā ca. ^168
+42.(ka) yogā ceva dhammā yogasampayuttā ca.
 
-(kha) yogasampayuttā ceva dhammā no ca yogā. ^169
+(kha) yogasampayuttā ceva dhammā no ca yogā.
 
-43.(ka) yogavippayuttā kho pana dhammā yoganiyāpi. ^170
+43.(ka) yogavippayuttā kho pana dhammā yoganiyāpi.
 
-(kha) ayoganiyāpi. ^171
+(kha) ayoganiyāpi.
 
-Yogagocchakaṃ. ^172
+Yogagocchakaṃ.
 
-Nīvaraṇagocchakaṃ ^173
+Nīvaraṇagocchakaṃ
 
-44.(ka) nīvaraṇā dhammā. ^174
+44.(ka) nīvaraṇā dhammā.
 
-(kha) no nīvaraṇā dhammā. ^175
+(kha) no nīvaraṇā dhammā.
 
-45.(ka) nīvaraṇiyā dhammā. ^176
+45.(ka) nīvaraṇiyā dhammā.
 
-(kha) anīvaraṇiyā dhammā. ^177
+(kha) anīvaraṇiyā dhammā.
 
-46.(ka) nīvaraṇasampayuttā dhammā. ^178
+46.(ka) nīvaraṇasampayuttā dhammā.
 
-(kha) nīvaraṇavippayuttā dhammā. ^179
+(kha) nīvaraṇavippayuttā dhammā.
 
-47.(ka) nīvaraṇā ceva dhammā nīvaraṇiyā ca. ^180
+47.(ka) nīvaraṇā ceva dhammā nīvaraṇiyā ca.
 
-(kha) nīvaraṇiyā ceva dhammā no ca nīvaraṇā. ^181
+(kha) nīvaraṇiyā ceva dhammā no ca nīvaraṇā.
 
-48.(ka) nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca. ^182
+48.(ka) nīvaraṇā ceva dhammā nīvaraṇasampayuttā ca.
 
-(kha) nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā. ^183
+(kha) nīvaraṇasampayuttā ceva dhammā no ca nīvaraṇā.
 
-49.(ka) nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi. ^184
+49.(ka) nīvaraṇavippayuttā kho pana dhammā nīvaraṇiyāpi.
 
-(kha) anīvaraṇiyāpi. ^185
+(kha) anīvaraṇiyāpi.
 
-Nīvaraṇagocchakaṃ. ^186
+Nīvaraṇagocchakaṃ.
 
-Parāmāsagocchakaṃ ^187
+Parāmāsagocchakaṃ
 
-50.(ka) parāmāsā dhammā. ^188
+50.(ka) parāmāsā dhammā.
 
-(kha) no parāmāsā dhammā. ^189
+(kha) no parāmāsā dhammā.
 
-51.(ka) parāmaṭṭhā dhammā. ^190
+51.(ka) parāmaṭṭhā dhammā.
 
-(kha) aparāmaṭṭhā dhammā. ^191
+(kha) aparāmaṭṭhā dhammā.
 
-52.(ka) parāmāsasampayuttā dhammā. ^192
+52.(ka) parāmāsasampayuttā dhammā.
 
-(kha) parāmāsavippayuttā dhammā. ^193
+(kha) parāmāsavippayuttā dhammā.
 
-53.(ka) parāmāsā ceva dhammā parāmaṭṭhā ca. ^194
+53.(ka) parāmāsā ceva dhammā parāmaṭṭhā ca.
 
-(kha) parāmaṭṭhā ceva dhammā no ca parāmāsā. ^195
+(kha) parāmaṭṭhā ceva dhammā no ca parāmāsā.
 
-54.(ka) parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi. ^196
+54.(ka) parāmāsavippayuttā kho pana dhammā parāmaṭṭhāpi.
 
-(kha) aparāmaṭṭhāpi. ^197
+(kha) aparāmaṭṭhāpi.
 
-Parāmāsagocchakaṃ. ^198
+Parāmāsagocchakaṃ.
 
-Mahantaradukaṃ ^199
+Mahantaradukaṃ
 
-55.(ka) sārammaṇā dhammā. ^200
+55.(ka) sārammaṇā dhammā.
 
-(kha) anārammaṇā dhammā. ^201
+(kha) anārammaṇā dhammā.
 
-56.(ka) cittā dhammā. ^202
+56.(ka) cittā dhammā.
 
-(kha) no cittā dhammā. ^203
+(kha) no cittā dhammā.
 
-57.(ka) cetasikā dhammā. ^204
+57.(ka) cetasikā dhammā.
 
-(kha) acetasikā dhammā. ^205
+(kha) acetasikā dhammā.
 
-58.(ka) cittasampayuttā dhammā. ^206
+58.(ka) cittasampayuttā dhammā.
 
-(kha) cittavippayuttā dhammā. ^207
+(kha) cittavippayuttā dhammā.
 
-59.(ka) cittasaṃsaṭṭhā dhammā. ^208
+59.(ka) cittasaṃsaṭṭhā dhammā.
 
-(kha) cittavisaṃsaṭṭhā dhammā. ^209
+(kha) cittavisaṃsaṭṭhā dhammā.
 
-60.(ka) cittasamuṭṭhānā dhammā. ^210
+60.(ka) cittasamuṭṭhānā dhammā.
 
-(kha) no cittasamuṭṭhānā dhammā. ^211
+(kha) no cittasamuṭṭhānā dhammā.
 
-61.(ka) cittasahabhuno dhammā. ^212
+61.(ka) cittasahabhuno dhammā.
 
-(kha) no cittasahabhuno dhammā. ^213
+(kha) no cittasahabhuno dhammā.
 
-62.(ka) cittānuparivattino dhammā. ^214
+62.(ka) cittānuparivattino dhammā.
 
-(kha) no cittānuparivattino dhammā. ^215
+(kha) no cittānuparivattino dhammā.
 
-63.(ka) cittasaṃsaṭṭhasamuṭṭhānā dhammā. ^216
+63.(ka) cittasaṃsaṭṭhasamuṭṭhānā dhammā.
 
-(kha) no cittasaṃsaṭṭhasamuṭṭhānā dhammā. ^217
+(kha) no cittasaṃsaṭṭhasamuṭṭhānā dhammā.
 
-64.(ka) cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā. ^218
+64.(ka) cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā.
 
-(kha) no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā. ^219
+(kha) no cittasaṃsaṭṭhasamuṭṭhānasahabhuno dhammā.
 
-65.(ka) cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā. ^220
+65.(ka) cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā.
 
-(kha) no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā. ^221
+(kha) no cittasaṃsaṭṭhasamuṭṭhānānuparivattino dhammā.
 
-66.(ka) ajjhattikā dhammā. ^222
+66.(ka) ajjhattikā dhammā.
 
-(kha) bāhirā dhammā. ^223
+(kha) bāhirā dhammā.
 
-67.(ka) upādā dhammā. ^224
+67.(ka) upādā dhammā.
 
-(kha) no upādā dhammā. ^225
+(kha) no upādā dhammā.
 
-68.(ka) upādiṇṇā dhammā. ^226
+68.(ka) upādiṇṇā dhammā.
 
-(kha) anupādiṇṇā dhammā. ^227
+(kha) anupādiṇṇā dhammā.
 
-Mahantaradukaṃ. ^228
+Mahantaradukaṃ.
 
-Upādānagocchakaṃ ^229
+Upādānagocchakaṃ
 
-69.(ka) upādānā dhammā. ^230
+69.(ka) upādānā dhammā.
 
-(kha) no upādānā dhammā. ^231
+(kha) no upādānā dhammā.
 
-70.(ka) upādāniyā dhammā. ^232
+70.(ka) upādāniyā dhammā.
 
-(kha) anupādāniyā dhammā. ^233
+(kha) anupādāniyā dhammā.
 
-71.(ka) upādānasampayuttā dhammā. ^234
+71.(ka) upādānasampayuttā dhammā.
 
-(kha) upādānavippayuttā dhammā. ^235
+(kha) upādānavippayuttā dhammā.
 
-72.(ka) upādānā ceva dhammā upādāniyā ca. ^236
+72.(ka) upādānā ceva dhammā upādāniyā ca.
 
-(kha) upādāniyā ceva dhammā no ca upādānā. ^237
+(kha) upādāniyā ceva dhammā no ca upādānā.
 
-73.(ka) upādānā ceva dhammā upādānasampayuttā ca. ^238
+73.(ka) upādānā ceva dhammā upādānasampayuttā ca.
 
-(kha) upādānasampayuttā ceva dhammā no ca upādānā. ^239
+(kha) upādānasampayuttā ceva dhammā no ca upādānā.
 
-74.(ka) upādānavippayuttā kho pana dhammā upādāniyāpi. ^240
+74.(ka) upādānavippayuttā kho pana dhammā upādāniyāpi.
 
-(kha) anupādāniyāpi. ^241
+(kha) anupādāniyāpi.
 
-Upādānagocchakaṃ. ^242
+Upādānagocchakaṃ.
 
-Kilesagocchakaṃ ^243
+Kilesagocchakaṃ
 
-75.(ka) kilesā dhammā. ^244
+75.(ka) kilesā dhammā.
 
-(kha) no kilesā dhammā. ^245
+(kha) no kilesā dhammā.
 
-76.(ka) saṃkilesikā dhammā. ^246
+76.(ka) saṃkilesikā dhammā.
 
-(kha) asaṃkilesikā dhammā. ^247
+(kha) asaṃkilesikā dhammā.
 
-77.(ka) saṃkiliṭṭhā dhammā. ^248
+77.(ka) saṃkiliṭṭhā dhammā.
 
-(kha) asaṃkiliṭṭhā dhammā. ^249
+(kha) asaṃkiliṭṭhā dhammā.
 
-78.(ka) kilesasampayuttā dhammā. ^250
+78.(ka) kilesasampayuttā dhammā.
 
-(kha) kilesavippayuttā dhammā. ^251
+(kha) kilesavippayuttā dhammā.
 
-79.(ka) kilesā ceva dhammā saṃkilesikā ca. ^252
+79.(ka) kilesā ceva dhammā saṃkilesikā ca.
 
-(kha) saṃkilesikā ceva dhammā no ca kilesā. ^253
+(kha) saṃkilesikā ceva dhammā no ca kilesā.
 
-80.(ka) kilesā ceva dhammā saṃkiliṭṭhā ca. ^254
+80.(ka) kilesā ceva dhammā saṃkiliṭṭhā ca.
 
-(kha) saṃkiliṭṭhā ceva dhammā no ca kilesā. ^255
+(kha) saṃkiliṭṭhā ceva dhammā no ca kilesā.
 
-81.(ka) kilesā ceva dhammā kilesasampayuttā ca. ^256
+81.(ka) kilesā ceva dhammā kilesasampayuttā ca.
 
-(kha) kilesasampayuttā ceva dhammā no ca kilesā. ^257
+(kha) kilesasampayuttā ceva dhammā no ca kilesā.
 
-82.(ka) kilesavippayuttā kho pana dhammā saṃkilesikāpi. ^258
+82.(ka) kilesavippayuttā kho pana dhammā saṃkilesikāpi.
 
-(kha) asaṃkilesikāpi. ^259
+(kha) asaṃkilesikāpi.
 
-Kilesagocchakaṃ. ^260
+Kilesagocchakaṃ.
 
-Piṭṭhidukaṃ ^261
+Piṭṭhidukaṃ
 
-83.(ka) dassanena pahātabbā dhammā. ^262
+83.(ka) dassanena pahātabbā dhammā.
 
-(kha) na dassanena pahātabbā dhammā. ^263
+(kha) na dassanena pahātabbā dhammā.
 
-84.(ka) bhāvanāya pahātabbā dhammā. ^264
+84.(ka) bhāvanāya pahātabbā dhammā.
 
-(kha) na bhāvanāya pahātabbā dhammā. ^265
+(kha) na bhāvanāya pahātabbā dhammā.
 
-85.(ka) dassanena pahātabbahetukā dhammā. ^266
+85.(ka) dassanena pahātabbahetukā dhammā.
 
-(kha) na dassanena pahātabbahetukā dhammā. ^267
+(kha) na dassanena pahātabbahetukā dhammā.
 
-86.(ka) bhāvanāya pahātabbahetukā dhammā. ^268
+86.(ka) bhāvanāya pahātabbahetukā dhammā.
 
-(kha) na bhāvanāya pahātabbahetukā dhammā. ^269
+(kha) na bhāvanāya pahātabbahetukā dhammā.
 
-87.(ka) savitakkā dhammā. ^270
+87.(ka) savitakkā dhammā.
 
-(kha) avitakkā dhammā. ^271
+(kha) avitakkā dhammā.
 
-88.(ka) savicārā dhammā. ^272
+88.(ka) savicārā dhammā.
 
-(kha) avicārā dhammā. ^273
+(kha) avicārā dhammā.
 
-89.(ka) sappītikā dhammā. ^274
+89.(ka) sappītikā dhammā.
 
-(kha) appītikā dhammā. ^275
+(kha) appītikā dhammā.
 
-90.(ka) pītisahagatā dhammā. ^276
+90.(ka) pītisahagatā dhammā.
 
-(kha) na pītisahagatā dhammā. ^277
+(kha) na pītisahagatā dhammā.
 
-91.(ka) sukhasahagatā dhammā. ^278
+91.(ka) sukhasahagatā dhammā.
 
-(kha) na sukhasahagatā dhammā. ^279
+(kha) na sukhasahagatā dhammā.
 
-92.(ka) upekkhāsahagatā dhammā. ^280
+92.(ka) upekkhāsahagatā dhammā.
 
-(kha) na upekkhāsahagatā dhammā. ^281
+(kha) na upekkhāsahagatā dhammā.
 
-93.(ka) kāmāvacarā dhammā. ^282
+93.(ka) kāmāvacarā dhammā.
 
-(kha) na kāmāvacarā dhammā. ^283
+(kha) na kāmāvacarā dhammā.
 
-94.(ka) rūpāvacarā dhammā. ^284
+94.(ka) rūpāvacarā dhammā.
 
-(kha) na rūpāvacarā dhammā. ^285
+(kha) na rūpāvacarā dhammā.
 
-95.(ka) arūpāvacarā dhammā. ^286
+95.(ka) arūpāvacarā dhammā.
 
-(kha) na arūpāvacarā dhammā. ^287
+(kha) na arūpāvacarā dhammā.
 
-96.(ka) pariyāpannā dhammā. ^288
+96.(ka) pariyāpannā dhammā.
 
-(kha) apariyāpannā dhammā. ^289
+(kha) apariyāpannā dhammā.
 
-97.(ka) niyyānikā dhammā. ^290
+97.(ka) niyyānikā dhammā.
 
-(kha) aniyyānikā dhammā. ^291
+(kha) aniyyānikā dhammā.
 
-98.(ka) niyatā dhammā. ^292
+98.(ka) niyatā dhammā.
 
-(kha) aniyatā dhammā. ^293
+(kha) aniyatā dhammā.
 
-99.(ka) sauttarā dhammā. ^294
+99.(ka) sauttarā dhammā.
 
-(kha) anuttarā dhammā. ^295
+(kha) anuttarā dhammā.
 
-100.(ka) saraṇā dhammā. ^296
+100.(ka) saraṇā dhammā.
 
-(kha) araṇā dhammā. ^297
+(kha) araṇā dhammā.
 
-Piṭṭhidukaṃ. ^298
+Piṭṭhidukaṃ.
 
-Abhidhammadukamātikā. ^299
+Abhidhammadukamātikā.
 
-Suttantikadukamātikā ^300
+Suttantikadukamātikā
 
-101.(ka) vijjābhāgino dhammā. ^301
+101.(ka) vijjābhāgino dhammā.
 
-(kha) avijjābhāgino dhammā. ^302
+(kha) avijjābhāgino dhammā.
 
-102.(ka) vijjūpamā dhammā. ^303
+102.(ka) vijjūpamā dhammā.
 
-(kha) vajirūpamā dhammā. ^304
+(kha) vajirūpamā dhammā.
 
-103.(ka) bālā dhammā. ^305
+103.(ka) bālā dhammā.
 
-(kha) paṇḍitā dhammā. ^306
+(kha) paṇḍitā dhammā.
 
-104.(ka) kaṇhā dhammā. ^307
+104.(ka) kaṇhā dhammā.
 
-(kha) sukkā dhammā. ^308
+(kha) sukkā dhammā.
 
-105.(ka) tapanīyā dhammā. ^309
+105.(ka) tapanīyā dhammā.
 
-(kha) atapanīyā dhammā. ^310
+(kha) atapanīyā dhammā.
 
-106.(ka) adhivacanā dhammā. ^311
+106.(ka) adhivacanā dhammā.
 
-(kha) adhivacanapathā dhammā. ^312
+(kha) adhivacanapathā dhammā.
 
-107.(ka) nirutti dhammā. ^313
+107.(ka) nirutti dhammā.
 
-(kha) niruttipathā dhammā. ^314
+(kha) niruttipathā dhammā.
 
-108.(ka) paññatti dhammā. ^315
+108.(ka) paññatti dhammā.
 
-(kha) paññattipathā dhammā. ^316
+(kha) paññattipathā dhammā.
 
-109.(ka) nāmañca. ^317
+109.(ka) nāmañca.
 
-(kha) rūpañca. ^318
+(kha) rūpañca.
 
-110.(ka) avijjā ca. ^319
+110.(ka) avijjā ca.
 
-(kha) bhavataṇhā ca. ^320
+(kha) bhavataṇhā ca.
 
-111.(ka) bhavadiṭṭhi ca. ^321
+111.(ka) bhavadiṭṭhi ca.
 
-(kha) vibhavadiṭṭhi ca. ^322
+(kha) vibhavadiṭṭhi ca.
 
-112.(ka) sassatadiṭṭhi ca. ^323
+112.(ka) sassatadiṭṭhi ca.
 
-(kha) ucchedadiṭṭhi ca. ^324
+(kha) ucchedadiṭṭhi ca.
 
-113.(ka) antavā diṭṭhi ca. ^325
+113.(ka) antavā diṭṭhi ca.
 
-(kha) anantavā diṭṭhi ca. ^326
+(kha) anantavā diṭṭhi ca.
 
-114.(ka) pubbantānudiṭṭhi ca. ^327
+114.(ka) pubbantānudiṭṭhi ca.
 
-(kha) aparantānudiṭṭhi ca. ^328
+(kha) aparantānudiṭṭhi ca.
 
-115.(ka) ahirikañca. ^329
+115.(ka) ahirikañca.
 
-(kha) anottappañca. ^330
+(kha) anottappañca.
 
-116.(ka) hirī ca. ^331
+116.(ka) hirī ca.
 
-(kha) ottappañca. ^332
+(kha) ottappañca.
 
-117.(ka) dovacassatā ca. ^333
+117.(ka) dovacassatā ca.
 
-(kha) pāpamittatā ca. ^334
+(kha) pāpamittatā ca.
 
-118.(ka) sovacassatā ca. ^335
+118.(ka) sovacassatā ca.
 
-(kha) kalyāṇamittatā ca. ^336
+(kha) kalyāṇamittatā ca.
 
-119.(ka) āpattikusalatā ca. ^337
+119.(ka) āpattikusalatā ca.
 
-(kha) āpattivuṭṭhānakusalatā ca. ^338
+(kha) āpattivuṭṭhānakusalatā ca.
 
-120.(ka) samāpattikusalatā ca. ^339
+120.(ka) samāpattikusalatā ca.
 
-(kha) samāpattivuṭṭhānakusalatā ca. ^340
+(kha) samāpattivuṭṭhānakusalatā ca.
 
-121.(ka) dhātukusalatā ca. ^341
+121.(ka) dhātukusalatā ca.
 
-(kha) manasikārakusalatā ca. ^342
+(kha) manasikārakusalatā ca.
 
-122.(ka) āyatanakusalatā ca. ^343
+122.(ka) āyatanakusalatā ca.
 
-(kha) paṭiccasamuppādakusalatā ca. ^344
+(kha) paṭiccasamuppādakusalatā ca.
 
-123.(ka) ṭhānakusalatā ca. ^345
+123.(ka) ṭhānakusalatā ca.
 
-(kha) aṭṭhānakusalatā ca. ^346
+(kha) aṭṭhānakusalatā ca.
 
-124.(ka) ajjavo ca. ^347
+124.(ka) ajjavo ca.
 
-(kha) maddavo ca. ^348
+(kha) maddavo ca.
 
-125.(ka) khanti ca. ^349
+125.(ka) khanti ca.
 
-(kha) soraccañca. ^350
+(kha) soraccañca.
 
-126.(ka) sākhalyañca. ^351
+126.(ka) sākhalyañca.
 
-(kha) paṭisanthāro ca . ^352
+(kha) paṭisanthāro ca .
 
-127.(ka) indriyesu aguttadvāratā ca. ^353
+127.(ka) indriyesu aguttadvāratā ca.
 
-(kha) bhojane amattaññutā ca. ^354
+(kha) bhojane amattaññutā ca.
 
-128.(ka) indriyesu guttadvāratā ca. ^355
+128.(ka) indriyesu guttadvāratā ca.
 
-(kha) bhojane mattaññutā ca. ^356
+(kha) bhojane mattaññutā ca.
 
-129.(ka) muṭṭhasaccañca. ^357
+129.(ka) muṭṭhasaccañca.
 
-(kha) asampajaññañca. ^358
+(kha) asampajaññañca.
 
-130.(ka) sati ca. ^359
+130.(ka) sati ca.
 
-(kha) sampajaññañca. ^360
+(kha) sampajaññañca.
 
-131.(ka) paṭisaṅkhānabalañca. ^361
+131.(ka) paṭisaṅkhānabalañca.
 
-(kha) bhāvanābalañca. ^362
+(kha) bhāvanābalañca.
 
-132.(ka) samatho ca. ^363
+132.(ka) samatho ca.
 
-(kha) vipassanā ca. ^364
+(kha) vipassanā ca.
 
-133.(ka) samathanimittañca. ^365
+133.(ka) samathanimittañca.
 
-(kha) paggāhanimittañca. ^366
+(kha) paggāhanimittañca.
 
-134.(ka) paggāho ca. ^367
+134.(ka) paggāho ca.
 
-(kha) avikkhepo ca. ^368
+(kha) avikkhepo ca.
 
-135.(ka) sīlavipatti ca. ^369
+135.(ka) sīlavipatti ca.
 
-(kha) diṭṭhivipatti ca. ^370
+(kha) diṭṭhivipatti ca.
 
-136.(ka) sīlasampadā ca. ^371
+136.(ka) sīlasampadā ca.
 
-(kha) diṭṭhisampadā ca. ^372
+(kha) diṭṭhisampadā ca.
 
-137.(ka) sīlavisuddhi ca. ^373
+137.(ka) sīlavisuddhi ca.
 
-(kha) diṭṭhivisuddhi ca. ^374
+(kha) diṭṭhivisuddhi ca.
 
-138.(ka) diṭṭhivisuddhi kho pana. ^375
+138.(ka) diṭṭhivisuddhi kho pana.
 
-(kha) yathādiṭṭhissa ca padhānaṃ. ^376
+(kha) yathādiṭṭhissa ca padhānaṃ.
 
-139.(ka) saṃvego ca saṃvejaniyesu ṭhānesu. ^377
+139.(ka) saṃvego ca saṃvejaniyesu ṭhānesu.
 
-(kha) saṃviggassa ca yoniso padhānaṃ. ^378
+(kha) saṃviggassa ca yoniso padhānaṃ.
 
-140.(ka) asantuṭṭhitā ca kusalesu dhammesu. ^379
+140.(ka) asantuṭṭhitā ca kusalesu dhammesu.
 
-(kha) appaṭivānitā ca padhānasmiṃ. ^380
+(kha) appaṭivānitā ca padhānasmiṃ.
 
-141.(ka) vijjā ca. ^381
+141.(ka) vijjā ca.
 
-(kha) vimutti ca. ^382
+(kha) vimutti ca.
 
-142.(ka) khaye ñāṇaṃ. ^383
+142.(ka) khaye ñāṇaṃ.
 
-(kha) anuppāde ñāṇanti. ^384
+(kha) anuppāde ñāṇanti.
 
-Suttantikadukamātikā . ^385
+Suttantikadukamātikā .
 
-Mātikā niṭṭhitā. ^386
+Mātikā niṭṭhitā.

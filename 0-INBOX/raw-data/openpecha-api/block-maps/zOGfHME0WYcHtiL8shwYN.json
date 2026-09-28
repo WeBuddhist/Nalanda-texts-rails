@@ -3,134 +3,283 @@
 "text_id": "zOGfHME0WYcHtiL8shwYN",
 "instance_id": "Qb7W023ZoX3ER3ujwhglP",
 "segmentation_id": "exQXRfA8UPOcTIHk4QEUo",
-"blocks": [
+"durchen_ids": [
+"u8FUy2S6RF520ITYFejfh"
+],
+"segments": [
 {
-"block": 1,
+"segment": 1,
 "segment_id": "MkHTzpOslzSJe71vt7WkQ"
 },
 {
-"block": 2,
+"segment": 2,
 "segment_id": "7cPA0tGoFVWXpZWwVHl01"
 },
 {
-"block": 3,
+"segment": 3,
 "segment_id": "MlGPGNIkDbA5vf3ZnVkAf"
 },
 {
-"block": 4,
+"segment": 4,
 "segment_id": "ltJBjUjGp0xrl8lpxzpkA"
 },
 {
-"block": 5,
+"segment": 5,
 "segment_id": "HsQHV7virr2YKghxZ0UUZ"
 },
 {
-"block": 6,
+"segment": 6,
 "segment_id": "lUYAZqJjyVPcwooZ14KsQ"
 },
 {
-"block": 7,
+"segment": 7,
 "segment_id": "AykgYb8tO3rAxyb5WYwvF"
 },
 {
-"block": 8,
+"segment": 8,
 "segment_id": "NfZjMQzZsI2vV33dWg0na"
 },
 {
-"block": 9,
+"segment": 9,
 "segment_id": "AMU7UJCxeokzLMIOMkFlB"
 },
 {
-"block": 10,
+"segment": 10,
 "segment_id": "5bIvLMOAWnMECh1RpQExa"
 },
 {
-"block": 11,
+"segment": 11,
 "segment_id": "Jjm718rvrNS0Yy9gUqGEA"
 },
 {
-"block": 12,
+"segment": 12,
 "segment_id": "flT58U0CplRrqsx4Qmex0"
 },
 {
-"block": 13,
+"segment": 13,
 "segment_id": "DK4OiwEFXaepryk05ztMQ"
 },
 {
-"block": 14,
+"segment": 14,
 "segment_id": "lv9dskELcEA49lRP8uFM1"
 },
 {
-"block": 15,
+"segment": 15,
 "segment_id": "B68JFmAsK3oOrziOu0vJv"
 },
 {
-"block": 16,
+"segment": 16,
 "segment_id": "PnXSq7WmPuoznIRpxktSk"
 },
 {
-"block": 17,
+"segment": 17,
 "segment_id": "6koX8xY2MWvgJPcq3aMYB"
 },
 {
-"block": 18,
+"segment": 18,
 "segment_id": "ZKNAjydi5nqLSSH8mLKNJ"
 },
 {
-"block": 19,
+"segment": 19,
 "segment_id": "8JeBTHBDQVLuj3Sy1Evol"
 },
 {
-"block": 20,
+"segment": 20,
 "segment_id": "hcqrbS5DDKIJRXmCdOnNV"
 },
 {
-"block": 21,
+"segment": 21,
 "segment_id": "oQkUA2d3B0PPm82miMgjq"
 },
 {
-"block": 22,
+"segment": 22,
 "segment_id": "pmhWpgQWDDaaOcwtCI7eB"
 },
 {
-"block": 23,
+"segment": 23,
 "segment_id": "bR1vVcbilHIyPOBnGlDTj"
 },
 {
-"block": 24,
+"segment": 24,
 "segment_id": "6E4zZq9PkdmZr0e4sfQeh"
 },
 {
-"block": 25,
+"segment": 25,
 "segment_id": "9rh43iKTrIfMPn99uCo1L"
 },
 {
-"block": 26,
+"segment": 26,
 "segment_id": "Kiy62ZqZPOzoMteO7cyQv"
 },
 {
-"block": 27,
+"segment": 27,
 "segment_id": "7PVFhDYM5DXv4Jvf4W8Tc"
 },
 {
-"block": 28,
+"segment": 28,
 "segment_id": "CoSbNMaNpGiThm40BwWDR"
 },
 {
-"block": 29,
+"segment": 29,
 "segment_id": "4jyQu7x1WIRMyoNAC55JU"
 },
 {
-"block": 30,
+"segment": 30,
 "segment_id": "FJpI4sruhpCSsiQyeMz47"
 },
 {
-"block": 31,
+"segment": 31,
 "segment_id": "Uo1cVmcUMDvm09sVcJNtQ"
 },
 {
-"block": 32,
+"segment": 32,
 "segment_id": "fNlSEbJlapqHtSKK6hnfV"
+}
+],
+"footnotes": [
+{
+"footnote": 1,
+"durchen_id": "OO78f7bXLopRGk51wKrWt"
+},
+{
+"footnote": 2,
+"durchen_id": "V3nkvudyh9Lb6Gqxitp0n"
+},
+{
+"footnote": 3,
+"durchen_id": "IAGBGMChy45c6zZGEL3sQ"
+},
+{
+"footnote": 4,
+"durchen_id": "SqPGQAEQkThwWDrW8zuwu"
+},
+{
+"footnote": 5,
+"durchen_id": "W1jXr95qOw6bwZddkKv7j"
+},
+{
+"footnote": 6,
+"durchen_id": "OGwtQT0Zrj0830Z61wtX2"
+},
+{
+"footnote": 7,
+"durchen_id": "jMxYPCnGqGMbIDfwMa2O5"
+},
+{
+"footnote": 8,
+"durchen_id": "m5DV8Uf7FZdFUNHu0chLI"
+},
+{
+"footnote": 9,
+"durchen_id": "QgSGoZL9pAwK6RelP3YpS"
+},
+{
+"footnote": 10,
+"durchen_id": "TTIH9rqhQUUvPs553UDJ2"
+},
+{
+"footnote": 11,
+"durchen_id": "Ulnqq74iUpMwnLwxGlPnW"
+},
+{
+"footnote": 12,
+"durchen_id": "Nkmz2fwk5sY78X90yJlkE"
+},
+{
+"footnote": 13,
+"durchen_id": "vNf8N5gl7mGeC8tuVqska"
+},
+{
+"footnote": 14,
+"durchen_id": "GcZL099REIQdVVrskQC6b"
+},
+{
+"footnote": 15,
+"durchen_id": "w1WXheGe50Vs7Hn4ON0Ct"
+},
+{
+"footnote": 16,
+"durchen_id": "XglJZ9XWUT8LMclL9pRPW"
+},
+{
+"footnote": 17,
+"durchen_id": "WxZihJwhfFjSvsW1BqJ3d"
+},
+{
+"footnote": 18,
+"durchen_id": "zdY1mhovvsNpQa2FV9Qin"
+},
+{
+"footnote": 19,
+"durchen_id": "GoSeyuy7safp9jz1IqU13"
+},
+{
+"footnote": 20,
+"durchen_id": "QqkgDF8JX1DBzzyZ5kQyp"
+},
+{
+"footnote": 21,
+"durchen_id": "0VWc3fQqjCDoch04bYANw"
+},
+{
+"footnote": 22,
+"durchen_id": "5krAJAu8Mx319xQ6FeAmP"
+},
+{
+"footnote": 23,
+"durchen_id": "8fAbJxGu8lQCE0H6uV9Dv"
+},
+{
+"footnote": 24,
+"durchen_id": "r0YwZeINS87iBCXeiG5IN"
+},
+{
+"footnote": 25,
+"durchen_id": "lMMrR5ul6bs17S2P8fpul"
+},
+{
+"footnote": 26,
+"durchen_id": "0an2VrCk6pLmkPBkXgdp2"
+},
+{
+"footnote": 27,
+"durchen_id": "vLEjTiY8QPg8VQ6Y5My23"
+},
+{
+"footnote": 28,
+"durchen_id": "VbxZl9nOwqnG7Irn2KrZy"
+},
+{
+"footnote": 29,
+"durchen_id": "fXor5AreClEDfoZCC3gTu"
+},
+{
+"footnote": 30,
+"durchen_id": "k2hJN0Rh0gVSDqY80zSuh"
+},
+{
+"footnote": 31,
+"durchen_id": "z6fCOtZymHImYqMwQ0rTg"
+},
+{
+"footnote": 32,
+"durchen_id": "L0CZmDjYYhL1Er2Cxr0Kw"
+},
+{
+"footnote": 33,
+"durchen_id": "csfHxnfMeoXlIHwK0pyNT"
+},
+{
+"footnote": 34,
+"durchen_id": "GYyICP2527ZJflTbLxB9H"
+},
+{
+"footnote": 35,
+"durchen_id": "fMFBMfnCcTsFgutoSCKcL"
+},
+{
+"footnote": 36,
+"durchen_id": "p2LqUF6Ei6qv1oQYZtH4G"
 }
 ]
 }

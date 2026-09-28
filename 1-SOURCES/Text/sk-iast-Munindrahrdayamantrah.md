@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 1
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation uje0jT4NaEJ6y6o70gWLv — one block per segment, in span order"
+verse_id_format:
+segments: 1
+segmentation_source: "openpecha-v2 segmentation annotation uje0jT4NaEJ6y6o70gWLv — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,10 +26,11 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: mvZP5HaJpjBNLRmKIDMjK
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: gV0eLfyrWPRPin9qpAlU3"
   - "segmentation: uje0jT4NaEJ6y6o70gWLv"
 status: ingested
 ---
 
-# Munindrahrdayamantrah ^0
+# Munindrahrdayamantrah
 
-Om mune mune mahāmunaye svāhā ^1
+Om mune mune mahāmunaye svāhā

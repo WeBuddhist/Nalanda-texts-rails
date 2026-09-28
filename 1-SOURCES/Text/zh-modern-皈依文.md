@@ -6,9 +6,9 @@ language: Modern Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh-modern
-total_verses: 5
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation eFK4lDOays79As1zFlfhy — one block per segment, in span order"
+verse_id_format:
+segments: 5
+segmentation_source: "openpecha-v2 segmentation annotation eFK4lDOays79As1zFlfhy — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,14 +28,14 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# 皈依文 ^0
+# 皈依文
 
-皈依文 ^1
+皈依文
 
-諸佛正法眾中尊， ^2
+諸佛正法眾中尊，
 
-直至菩提我歸依。 ^3
+直至菩提我歸依。
 
-我以施等諸福德， ^4
+我以施等諸福德，
 
-為利眾生願成佛。 ^5
+為利眾生願成佛。

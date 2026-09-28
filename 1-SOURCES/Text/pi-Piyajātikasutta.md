@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 150
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation FZMAm9NZuokwux51SWqjB — one block per segment, in span order"
+verse_id_format:
+segments: 150
+segmentation_source: "openpecha-v2 segmentation annotation FZMAm9NZuokwux51SWqjB — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,304 +28,304 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Piyajātikasutta ^0
+# Piyajātikasutta
 
-Majjhima Nikāya 87 ^1
+Majjhima Nikāya 87
 
-Piyajātikasutta ^2
+Piyajātikasutta
 
-Evaṁ me sutaṁ— ^3
+Evaṁ me sutaṁ—
 
-ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme. ^4
+ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati jetavane anāthapiṇḍikassa ārāme.
 
-Tena kho pana samayena aññatarassa gahapatissa ekaputtako piyo manāpo kālaṅkato hoti. ^5
+Tena kho pana samayena aññatarassa gahapatissa ekaputtako piyo manāpo kālaṅkato hoti.
 
-Tassa kālaṅkiriyāya neva kammantā paṭibhanti na bhattaṁ paṭibhāti. ^6
+Tassa kālaṅkiriyāya neva kammantā paṭibhanti na bhattaṁ paṭibhāti.
 
-So āḷāhanaṁ gantvā kandati: ^7
+So āḷāhanaṁ gantvā kandati:
 
-“kahaṁ, ekaputtaka, kahaṁ, ekaputtakā”ti. ^8
+“kahaṁ, ekaputtaka, kahaṁ, ekaputtakā”ti.
 
-Atha kho so gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ gahapatiṁ bhagavā etadavoca: ^9
+Atha kho so gahapati yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho taṁ gahapatiṁ bhagavā etadavoca:
 
-“na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan”ti. ^10
+“na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan”ti.
 
-“Kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati; ^11
+“Kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati;
 
-mayhañhi, bhante, ekaputto piyo manāpo kālaṅkato. ^12
+mayhañhi, bhante, ekaputto piyo manāpo kālaṅkato.
 
-Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti. ^13
+Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti.
 
-Sohaṁ āḷāhanaṁ gantvā kandāmi: ^14
+Sohaṁ āḷāhanaṁ gantvā kandāmi:
 
-‘kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’”ti. ^15
+‘kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’”ti.
 
-“Evametaṁ, gahapati, evametaṁ, gahapati. Variant: evametaṁ, gahapati → evameva gahapati (bj sakideva); evametaṁ gahapati (pts1ed sakideva) ^16
+“Evametaṁ, gahapati, evametaṁ, gahapati. Variant: evametaṁ, gahapati → evameva gahapati (bj sakideva); evametaṁ gahapati (pts1ed sakideva)
 
-Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti. ^17
+Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti.
 
-“Kassa kho nāmetaṁ, bhante, evaṁ bhavissati: Variant: Kassa kho → kissa nu kho (bj); tassa kho (sya-all) ^18
+“Kassa kho nāmetaṁ, bhante, evaṁ bhavissati: Variant: Kassa kho → kissa nu kho (bj); tassa kho (sya-all)
 
-‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti? ^19
+‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti?
 
-Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā”ti. ^20
+Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā”ti.
 
-Atha kho so gahapati bhagavato bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkāmi. ^21
+Atha kho so gahapati bhagavato bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkāmi.
 
-Tena kho pana samayena sambahulā akkhadhuttā bhagavato avidūre akkhehi dibbanti. ^22
+Tena kho pana samayena sambahulā akkhadhuttā bhagavato avidūre akkhehi dibbanti.
 
-Atha kho so gahapati yena te akkhadhuttā tenupasaṅkami; upasaṅkamitvā akkhadhutte etadavoca: ^23
+Atha kho so gahapati yena te akkhadhuttā tenupasaṅkami; upasaṅkamitvā akkhadhutte etadavoca:
 
-“idhāhaṁ, bhonto, yena samaṇo gotamo tenupasaṅkamiṁ; upasaṅkamitvā samaṇaṁ gotamaṁ abhivādetvā ekamantaṁ nisīdiṁ. Ekamantaṁ nisinnaṁ kho maṁ, bhonto, samaṇo gotamo etadavoca: ^24
+“idhāhaṁ, bhonto, yena samaṇo gotamo tenupasaṅkamiṁ; upasaṅkamitvā samaṇaṁ gotamaṁ abhivādetvā ekamantaṁ nisīdiṁ. Ekamantaṁ nisinnaṁ kho maṁ, bhonto, samaṇo gotamo etadavoca:
 
-‘na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan’ti. ^25
+‘na kho te, gahapati, sake citte ṭhitassa indriyāni, atthi te indriyānaṁ aññathattan’ti.
 
-Evaṁ vutte, ahaṁ, bhonto, samaṇaṁ gotamaṁ etadavocaṁ: ^26
+Evaṁ vutte, ahaṁ, bhonto, samaṇaṁ gotamaṁ etadavocaṁ:
 
-‘kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati; ^27
+‘kiñhi me, bhante, indriyānaṁ nāññathattaṁ bhavissati;
 
-mayhañhi, bhante, ekaputtako piyo manāpo kālaṅkato. ^28
+mayhañhi, bhante, ekaputtako piyo manāpo kālaṅkato.
 
-Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti. ^29
+Tassa kālaṅkiriyāya neva kammantā paṭibhanti, na bhattaṁ paṭibhāti.
 
-Sohaṁ āḷāhanaṁ gantvā kandāmi— ^30
+Sohaṁ āḷāhanaṁ gantvā kandāmi—
 
-kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’ti. ^31
+kahaṁ, ekaputtaka, kahaṁ, ekaputtakā’ti.
 
-‘Evametaṁ, gahapati, evametaṁ, gahapati. ^32
+‘Evametaṁ, gahapati, evametaṁ, gahapati.
 
-Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. ^33
+Piyajātikā hi, gahapati, sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
 
-‘Kassa kho nāmetaṁ, bhante, evaṁ bhavissati— ^34
+‘Kassa kho nāmetaṁ, bhante, evaṁ bhavissati—
 
-piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā? ^35
+piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā?
 
-Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā’ti. ^36
+Piyajātikā hi kho, bhante, ānandasomanassā piyappabhavikā’ti.
 
-Atha khvāhaṁ, bhonto, samaṇassa gotamassa bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkamin”ti. ^37
+Atha khvāhaṁ, bhonto, samaṇassa gotamassa bhāsitaṁ anabhinanditvā paṭikkositvā uṭṭhāyāsanā pakkamin”ti.
 
-“Evametaṁ, gahapati, evametaṁ, gahapati. ^38
+“Evametaṁ, gahapati, evametaṁ, gahapati.
 
-Piyajātikā hi, gahapati, ānandasomanassā piyappabhavikā”ti. ^39
+Piyajātikā hi, gahapati, ānandasomanassā piyappabhavikā”ti.
 
-Atha kho so gahapati “sameti me akkhadhuttehī”ti pakkāmi. ^40
+Atha kho so gahapati “sameti me akkhadhuttehī”ti pakkāmi.
 
-Atha kho idaṁ kathāvatthu anupubbena rājantepuraṁ pāvisi. ^41
+Atha kho idaṁ kathāvatthu anupubbena rājantepuraṁ pāvisi.
 
-Atha kho rājā pasenadi kosalo mallikaṁ deviṁ āmantesi: ^42
+Atha kho rājā pasenadi kosalo mallikaṁ deviṁ āmantesi:
 
-“idaṁ te, mallike, samaṇena gotamena bhāsitaṁ: ^43
+“idaṁ te, mallike, samaṇena gotamena bhāsitaṁ:
 
-‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti. ^44
+‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti.
 
-“Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ, evametan”ti. ^45
+“Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ, evametan”ti.
 
-“Evameva panāyaṁ mallikā yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodati: ^46
+“Evameva panāyaṁ mallikā yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodati:
 
-‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti. ^47
+‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti.
 
-Seyyathāpi nāma, yaññadeva ācariyo antevāsissa bhāsati taṁ tadevassa antevāsī abbhanumodati: ^48
+Seyyathāpi nāma, yaññadeva ācariyo antevāsissa bhāsati taṁ tadevassa antevāsī abbhanumodati:
 
-‘evametaṁ, ācariya, evametaṁ, ācariyā’ti. ^49
+‘evametaṁ, ācariya, evametaṁ, ācariyā’ti.
 
-Evameva kho tvaṁ, mallike, yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodasi: ^50
+Evameva kho tvaṁ, mallike, yaññadeva samaṇo gotamo bhāsati taṁ tadevassa abbhanumodasi:
 
-‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti. ^51
+‘Sacetaṁ, mahārāja, bhagavatā bhāsitaṁ evametan’ti.
 
-Cara pire, mallike, vinassā”ti. ^52
+Cara pire, mallike, vinassā”ti.
 
-Atha kho mallikā devī nāḷijaṅghaṁ brāhmaṇaṁ āmantesi: ^53
+Atha kho mallikā devī nāḷijaṅghaṁ brāhmaṇaṁ āmantesi:
 
-“ehi tvaṁ, brāhmaṇa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha: ^54
+“ehi tvaṁ, brāhmaṇa, yena bhagavā tenupasaṅkama; upasaṅkamitvā mama vacanena bhagavato pāde sirasā vandāhi, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ puccha:
 
-‘mallikā, bhante, devī bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti; ^55
+‘mallikā, bhante, devī bhagavato pāde sirasā vandati, appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchatī’ti;
 
-evañca vadehi: ^56
+evañca vadehi:
 
-‘bhāsitā nu kho, bhante, bhagavatā esā vācā— ^57
+‘bhāsitā nu kho, bhante, bhagavatā esā vācā—
 
-piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. ^58
+piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
 
-Yathā te bhagavā byākaroti taṁ sādhukaṁ uggahetvā mama āroceyyāsi. ^59
+Yathā te bhagavā byākaroti taṁ sādhukaṁ uggahetvā mama āroceyyāsi.
 
-Na hi tathāgatā vitathaṁ bhaṇantī”ti. ^60
+Na hi tathāgatā vitathaṁ bhaṇantī”ti.
 
-“Evaṁ, bhotī”ti kho nāḷijaṅgho brāhmaṇo mallikāya deviyā paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. ^61
+“Evaṁ, bhotī”ti kho nāḷijaṅgho brāhmaṇo mallikāya deviyā paṭissutvā yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi.
 
-Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho nāḷijaṅgho brāhmaṇo bhagavantaṁ etadavoca: ^62
+Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho nāḷijaṅgho brāhmaṇo bhagavantaṁ etadavoca:
 
-“mallikā, bho gotama, devī bhoto gotamassa pāde sirasā vandati; appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati; ^63
+“mallikā, bho gotama, devī bhoto gotamassa pāde sirasā vandati; appābādhaṁ appātaṅkaṁ lahuṭṭhānaṁ balaṁ phāsuvihāraṁ pucchati;
 
-evañca vadeti: ^64
+evañca vadeti:
 
-‘bhāsitā nu kho, bhante, bhagavatā esā vācā— ^65
+‘bhāsitā nu kho, bhante, bhagavatā esā vācā—
 
-piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti. ^66
+piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti.
 
-“Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa. ^67
+“Evametaṁ, brāhmaṇa, evametaṁ, brāhmaṇa.
 
-Piyajātikā hi, brāhmaṇa, sokaparidevadukkhadomanassupāyāsā piyappabhavikāti. ^68
+Piyajātikā hi, brāhmaṇa, sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
 
-Tadamināpetaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā. ^69
+Tadamināpetaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā.
 
-Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā mātā kālamakāsi. ^70
+Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā mātā kālamakāsi.
 
-Sā tassā kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: Variant: rathikāya rathikaṁ → rathiyāya rathiyaṁ (bj, sya-all, km, pts1ed) ^71
+Sā tassā kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: Variant: rathikāya rathikaṁ → rathiyāya rathiyaṁ (bj, sya-all, km, pts1ed)
 
-‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti? Variant: addassatha → addasatha (bj, pts1ed); adassatha (sya-all) ^72
+‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti? Variant: addassatha → addasatha (bj, pts1ed); adassatha (sya-all)
 
-Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti. ^73
+Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
 
-Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā pitā kālamakāsi … ^74
+Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarissā itthiyā pitā kālamakāsi …
 
-bhātā kālamakāsi … ^75
+bhātā kālamakāsi …
 
-bhaginī kālamakāsi … ^76
+bhaginī kālamakāsi …
 
-putto kālamakāsi … ^77
+putto kālamakāsi …
 
-dhītā kālamakāsi … ^78
+dhītā kālamakāsi …
 
-sāmiko kālamakāsi. ^79
+sāmiko kālamakāsi.
 
-Sā tassa kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: ^80
+Sā tassa kālakiriyāya ummattikā khittacittā rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha:
 
-‘api me sāmikaṁ addassatha, api me sāmikaṁ addassathā’ti? ^81
+‘api me sāmikaṁ addassatha, api me sāmikaṁ addassathā’ti?
 
-Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti. ^82
+Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
 
-Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa mātā kālamakāsi. ^83
+Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa mātā kālamakāsi.
 
-So tassā kālakiriyāya ummattako khittacitto rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: ^84
+So tassā kālakiriyāya ummattako khittacitto rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha:
 
-‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti? ^85
+‘api me mātaraṁ addassatha, api me mātaraṁ addassathā’ti?
 
-Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti. ^86
+Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
 
-Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa pitā kālamakāsi … ^87
+Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarassa purisassa pitā kālamakāsi …
 
-bhātā kālamakāsi … ^88
+bhātā kālamakāsi …
 
-bhaginī kālamakāsi … ^89
+bhaginī kālamakāsi …
 
-putto kālamakāsi … ^90
+putto kālamakāsi …
 
-dhītā kālamakāsi … ^91
+dhītā kālamakāsi …
 
-pajāpati kālamakāsi. ^92
+pajāpati kālamakāsi.
 
-So tassā kālakiriyāya ummattako khittacitto rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha: ^93
+So tassā kālakiriyāya ummattako khittacitto rathikāya rathikaṁ siṅghāṭakena siṅghāṭakaṁ upasaṅkamitvā evamāha:
 
-‘api me pajāpatiṁ addassatha, api me pajāpatiṁ addassathā’ti? ^94
+‘api me pajāpatiṁ addassatha, api me pajāpatiṁ addassathā’ti?
 
-Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti. ^95
+Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikāti.
 
-Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarā itthī ñātikulaṁ agamāsi. ^96
+Bhūtapubbaṁ, brāhmaṇa, imissāyeva sāvatthiyā aññatarā itthī ñātikulaṁ agamāsi.
 
-Tassā te ñātakā sāmikaṁ acchinditvā aññassa dātukāmā. Variant: sāmikaṁ → sāmikā (bj) ^97
+Tassā te ñātakā sāmikaṁ acchinditvā aññassa dātukāmā. Variant: sāmikaṁ → sāmikā (bj)
 
-Sā ca taṁ na icchati. ^98
+Sā ca taṁ na icchati.
 
-Atha kho sā itthī sāmikaṁ etadavoca: ^99
+Atha kho sā itthī sāmikaṁ etadavoca:
 
-‘ime, maṁ, ayyaputta, ñātakā tvaṁ acchinditvā aññassa dātukāmā. Variant: tvaṁ → tayā (bj); taṁ (si, sya-all, km, pts1ed) | maṁ → mama (sya-all, km) ^100
+‘ime, maṁ, ayyaputta, ñātakā tvaṁ acchinditvā aññassa dātukāmā. Variant: tvaṁ → tayā (bj); taṁ (si, sya-all, km, pts1ed) | maṁ → mama (sya-all, km)
 
-Ahañca taṁ na icchāmī’ti. ^101
+Ahañca taṁ na icchāmī’ti.
 
-Atha kho so puriso taṁ itthiṁ dvidhā chetvā attānaṁ upphālesi: Variant: upphālesi → opādesi (bj); uppāṭesi (si, pts1ed); ophāresi (mr) ^102
+Atha kho so puriso taṁ itthiṁ dvidhā chetvā attānaṁ upphālesi: Variant: upphālesi → opādesi (bj); uppāṭesi (si, pts1ed); ophāresi (mr)
 
-‘ubho pecca bhavissāmā’ti. ^103
+‘ubho pecca bhavissāmā’ti.
 
-Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti. ^104
+Imināpi kho etaṁ, brāhmaṇa, pariyāyena veditabbaṁ yathā piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā”ti.
 
-Atha kho nāḷijaṅgho brāhmaṇo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā yena mallikā devī tenupasaṅkami; upasaṅkamitvā yāvatako ahosi bhagavatā saddhiṁ kathāsallāpo taṁ sabbaṁ mallikāya deviyā ārocesi. Atha kho mallikā devī yena rājā pasenadi kosalo tenupasaṅkami; upasaṅkamitvā rājānaṁ pasenadiṁ kosalaṁ etadavoca: ^105
+Atha kho nāḷijaṅgho brāhmaṇo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā yena mallikā devī tenupasaṅkami; upasaṅkamitvā yāvatako ahosi bhagavatā saddhiṁ kathāsallāpo taṁ sabbaṁ mallikāya deviyā ārocesi. Atha kho mallikā devī yena rājā pasenadi kosalo tenupasaṅkami; upasaṅkamitvā rājānaṁ pasenadiṁ kosalaṁ etadavoca:
 
-“Taṁ kiṁ maññasi, mahārāja, ^106
+“Taṁ kiṁ maññasi, mahārāja,
 
-piyā te vajirī kumārī”ti? ^107
+piyā te vajirī kumārī”ti?
 
-“Evaṁ, mallike, piyā me vajirī kumārī”ti. ^108
+“Evaṁ, mallike, piyā me vajirī kumārī”ti.
 
-“Taṁ kiṁ maññasi, mahārāja, ^109
+“Taṁ kiṁ maññasi, mahārāja,
 
-vajiriyā te kumāriyā vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? ^110
+vajiriyā te kumāriyā vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Vajiriyā me, mallike, kumāriyā vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? ^111
+“Vajiriyā me, mallike, kumāriyā vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ^112
+“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:
 
-‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. ^113
+‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
 
-Taṁ kiṁ maññasi, mahārāja, ^114
+Taṁ kiṁ maññasi, mahārāja,
 
-piyā te vāsabhā khattiyā”ti? ^115
+piyā te vāsabhā khattiyā”ti?
 
-“Evaṁ, mallike, piyā me vāsabhā khattiyā”ti. ^116
+“Evaṁ, mallike, piyā me vāsabhā khattiyā”ti.
 
-“Taṁ kiṁ maññasi, mahārāja, vāsabhāya te khattiyāya vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? ^117
+“Taṁ kiṁ maññasi, mahārāja, vāsabhāya te khattiyāya vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Vāsabhāya me, mallike, khattiyāya vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? ^118
+“Vāsabhāya me, mallike, khattiyāya vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ^119
+“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:
 
-‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. ^120
+‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
 
-Taṁ kiṁ maññasi, mahārāja, piyo te viṭaṭūbho senāpatī”ti? Variant: viṭaṭūbho → viḍūḍabho (bj, sya-all, km, pts1ed) ^121
+Taṁ kiṁ maññasi, mahārāja, piyo te viṭaṭūbho senāpatī”ti? Variant: viṭaṭūbho → viḍūḍabho (bj, sya-all, km, pts1ed)
 
-“Evaṁ, mallike, piyo me viṭaṭūbho senāpatī”ti. ^122
+“Evaṁ, mallike, piyo me viṭaṭūbho senāpatī”ti.
 
-“Taṁ kiṁ maññasi, mahārāja, viṭaṭūbhassa te senāpatissa vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? ^123
+“Taṁ kiṁ maññasi, mahārāja, viṭaṭūbhassa te senāpatissa vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Viṭaṭūbhassa me, mallike, senāpatissa vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? ^124
+“Viṭaṭūbhassa me, mallike, senāpatissa vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ^125
+“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:
 
-‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. ^126
+‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
 
-Taṁ kiṁ maññasi, mahārāja, piyā te ahan”ti? ^127
+Taṁ kiṁ maññasi, mahārāja, piyā te ahan”ti?
 
-“Evaṁ, mallike, piyā mesi tvan”ti. ^128
+“Evaṁ, mallike, piyā mesi tvan”ti.
 
-“Taṁ kiṁ maññasi, mahārāja, ^129
+“Taṁ kiṁ maññasi, mahārāja,
 
-mayhaṁ te vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? ^130
+mayhaṁ te vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Tuyhañhi me, mallike, vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? ^131
+“Tuyhañhi me, mallike, vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ^132
+“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:
 
-‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti. ^133
+‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’ti.
 
-Taṁ kiṁ maññasi, mahārāja, ^134
+Taṁ kiṁ maññasi, mahārāja,
 
-piyā te kāsikosalā”ti? ^135
+piyā te kāsikosalā”ti?
 
-“Evaṁ, mallike, piyā me kāsikosalā. ^136
+“Evaṁ, mallike, piyā me kāsikosalā.
 
-Kāsikosalānaṁ, mallike, ānubhāvena kāsikacandanaṁ paccanubhoma, mālāgandhavilepanaṁ dhāremā”ti. ^137
+Kāsikosalānaṁ, mallike, ānubhāvena kāsikacandanaṁ paccanubhoma, mālāgandhavilepanaṁ dhāremā”ti.
 
-“Taṁ kiṁ maññasi, mahārāja, ^138
+“Taṁ kiṁ maññasi, mahārāja,
 
-kāsikosalānaṁ te vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti? ^139
+kāsikosalānaṁ te vipariṇāmaññathābhāvā uppajjeyyuṁ sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Kāsikosalānañhi, mallike, vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti? ^140
+“Kāsikosalānañhi, mallike, vipariṇāmaññathābhāvā jīvitassapi siyā aññathattaṁ, kiṁ pana me na uppajjissanti sokaparidevadukkhadomanassupāyāsā”ti?
 
-“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ: ^141
+“Idaṁ kho taṁ, mahārāja, tena bhagavatā jānatā passatā arahatā sammāsambuddhena sandhāya bhāsitaṁ:
 
-‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti. ^142
+‘piyajātikā sokaparidevadukkhadomanassupāyāsā piyappabhavikā’”ti.
 
-“Acchariyaṁ, mallike, abbhutaṁ, mallike. ^143
+“Acchariyaṁ, mallike, abbhutaṁ, mallike.
 
-Yāvañca so bhagavā paññāya ativijjha maññe passati. Variant: ativijjha maññe → ativijjha paññāya (pts1ed); paṭivijjha paññāya (mr) ^144
+Yāvañca so bhagavā paññāya ativijjha maññe passati. Variant: ativijjha maññe → ativijjha paññāya (pts1ed); paṭivijjha paññāya (mr)
 
-Ehi, mallike, ācamehī”ti. Variant: ācamehī”ti → ācāmehīti (bj, pts1ed) ^145
+Ehi, mallike, ācamehī”ti. Variant: ācamehī”ti → ācāmehīti (bj, pts1ed)
 
-Atha kho rājā pasenadi kosalo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā tikkhattuṁ udānaṁ udānesi: ^146
+Atha kho rājā pasenadi kosalo uṭṭhāyāsanā ekaṁsaṁ uttarāsaṅgaṁ karitvā yena bhagavā tenañjaliṁ paṇāmetvā tikkhattuṁ udānaṁ udānesi:
 
-“Namo tassa bhagavato arahato sammāsambuddhassa. ^147
+“Namo tassa bhagavato arahato sammāsambuddhassa.
 
-Namo tassa bhagavato arahato sammāsambuddhassa. ^148
+Namo tassa bhagavato arahato sammāsambuddhassa.
 
-Namo tassa bhagavato arahato sammāsambuddhassā”ti. ^149
+Namo tassa bhagavato arahato sammāsambuddhassā”ti.
 
-Piyajātikasuttaṁ niṭṭhitaṁ sattamaṁ. ^150
+Piyajātikasuttaṁ niṭṭhitaṁ sattamaṁ.

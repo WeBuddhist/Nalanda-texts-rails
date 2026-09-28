@@ -10,9 +10,11 @@ language: Tibetan
 script: Unicode Tibetan
 file_type: root-text
 lang_tag: bo
-total_verses: 14
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation EZszOeUZDcV6ZlG1d5S8F — one block per segment, in span order"
+verse_id_format:
+segments: 14
+segmentation_source: "openpecha-v2 segmentation annotation EZszOeUZDcV6ZlG1d5S8F — one paragraph per segment, in span order"
+durchen_notes: 2
+durchen_source: "openpecha-v2 durchen annotation r60CJOkxaSworCrjbfffa — variant readings as footnotes placed right after each annotated span; each note reads 'lemma] ༼edition sigla༽ variant'"
 edition_type: critical
 license: Public Domain Mark
 copyright: Public domain
@@ -33,32 +35,35 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# ལྟུང་བ་བཅོ་ལྔ་པ། ^0
+# ལྟུང་བ་བཅོ་ལྔ་པ།
 
-༄༅། །རྒྱུད་གཞན་ལས་གསུངས་པའི་ལྟུང་བའི་མཚན་ཉིད་གཞན་བཤད་པ་ཡང་བརྗོད་པར་བྱ་སྟེ། ^1
+༄༅། །རྒྱུད་གཞན་ལས་གསུངས་པའི་ལྟུང་བའི་མཚན་ཉིད་གཞན་བཤད་པ་ཡང་བརྗོད་པར་བྱ་སྟེ།
 
-རང་ལྷ་བླང་དོར་ལྟུང་བ་མིག །དེ་ཉིད་དུས་འདས་རི་བོང་ཅན། །ལྷ་གཞན་དགའ་བ་ཡོན་ཏན་ནོ། ། ^2
+རང་ལྷ་བླང་དོར་ལྟུང་བ་མིག །དེ་ཉིད་དུས་འདས་རི་བོང་ཅན། །ལྷ་གཞན་དགའ་བ་ཡོན་ཏན་ནོ། །
 
-རིག་བྱེད་དངོས་ལ་ཞེན་པ་ཡིན། ། ^3
+རིག་བྱེད་དངོས་ལ་ཞེན་པ་ཡིན། །
 
-མ་རྫོགས་རྫོགས་བྱེད་མདའ་ཡིན་ནོ། ། ^4
+མ་རྫོགས་རྫོགས་བྱེད་མདའ་ཡིན་ནོ། །
 
-འཇིག་རྟེན་ཆོས་ཕྱིར་དབང་པོའོ། ། ^5
+འཇིག་རྟེན་ཆོས་ཕྱིར་དབང་པོའོ།[^1] །
 
-ཁྱད་དུ་གསོད་པ་ཡང་ནི་རི། །གོང་མེད་ཚུལ་སྟོན་བཀྲ་ཤིས་སོ། ། ^6
+ཁྱད་དུ་གསོད་པ་ཡང་ནི་རི། །གོང་མེད་ཚུལ་སྟོན་བཀྲ་ཤིས་སོ། །
 
-ཕྲིན་ལས་མ་རྫོགས་གཟའ་ཞེས་གྲགས། ། ^7
+ཕྲིན་ལས་མ་རྫོགས་གཟའ་ཞེས་གྲགས། །
 
-དོན་མེད་གནས་པ་ཕྱོགས་ཡིན་ནོ། ། ^8
+དོན་མེད་གནས་པ་ཕྱོགས་ཡིན་ནོ། །
 
-བརྩེ་བ་གཏོང་བ་དྲག་པོ་སྟེ། ། ^9
+བརྩེ་བ་གཏོང་བ་དྲག་པོ་སྟེ། །
 
-དམན་པའི་སྤྱོད་པ་ཉི་མའོ། ། ^10
+དམན་པའི་སྤྱོད་པ་ཉི་མའོ། །
 
-ཟང་ཟིང་རྟོག་པ་ཡན་ལག་གོ། ། ^11
+ཟང་ཟིང་རྟོག་པ་[^2]ཡན་ལག་གོ། །
 
-ཡོངས་སུ་མི་འཛིན་ས་ཞེས་གྲགས། ། ^12
+ཡོངས་སུ་མི་འཛིན་ས་ཞེས་གྲགས། །
 
-རང་སྤྱོད་འདོར་བ་ཆོས་ཞེས་གྲགས། ། ^13
+རང་སྤྱོད་འདོར་བ་ཆོས་ཞེས་གྲགས། །
 
-ལྟུང་བ་བཅོ་ལྔ་པ་རྫོགས་སོ། ། ^14
+ལྟུང་བ་བཅོ་ལྔ་པ་རྫོགས་སོ། །
+
+[^1]: དབང་པོའོ།] ༼སྣར་༽༼པེ་༽དབང་པོ་ཡིན།
+[^2]: རྟོག་པ་] ༼སྣར་༽༼པེ་༽རྟོགས་པ་

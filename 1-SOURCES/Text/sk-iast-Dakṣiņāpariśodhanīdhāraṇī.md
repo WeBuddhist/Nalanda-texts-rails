@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 4
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation TfwrpV3RThcsbxuke0scb — one block per segment, in span order"
+verse_id_format:
+segments: 4
+segmentation_source: "openpecha-v2 segmentation annotation TfwrpV3RThcsbxuke0scb — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,16 +26,17 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: mvZP5HaJpjBNLRmKIDMjK
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: ih6V4SziHNOAc2RTndRwL"
   - "segmentation: TfwrpV3RThcsbxuke0scb"
 status: ingested
 ---
 
-# Dakṣiņāpariśodhanīdhāraṇī ^0
+# Dakṣiņāpariśodhanīdhāraṇī
 
-Namaḥ samantaprabharājāya tathāgataya arhate samyaksambuddhāya ^1
+Namaḥ samantaprabharājāya tathāgataya arhate samyaksambuddhāya
 
-Namo mañjuśriye kumārabhūtāya bodhisattvāya mahāsattvaya mahākāruṇikāya ^2
+Namo mañjuśriye kumārabhūtāya bodhisattvāya mahāsattvaya mahākāruṇikāya
 
-Tadyathā – Om nirālambhe (be) nirābhāse jaye ^3
+Tadyathā – Om nirālambhe (be) nirābhāse jaye
 
-Jayalabdhe mahāmate dakṣe dakṣiņam me pariśodhaya svāhā ^4
+Jayalabdhe mahāmate dakṣe dakṣiņam me pariśodhaya svāhā

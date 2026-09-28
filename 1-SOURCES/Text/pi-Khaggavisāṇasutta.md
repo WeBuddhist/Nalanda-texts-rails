@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 167
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation UsKC9AgbTbcqiPX0PYYMU — one block per segment, in span order"
+verse_id_format:
+segments: 167
+segmentation_source: "openpecha-v2 segmentation annotation UsKC9AgbTbcqiPX0PYYMU — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,338 +28,338 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Khaggavisāṇasutta ^0
+# Khaggavisāṇasutta
 
-Sutta Nipāta 1.3 ^1
+Sutta Nipāta 1.3
 
-Khaggavisāṇasutta ^2
+Khaggavisāṇasutta
 
-“Sabbesu bhūtesu nidhāya daṇḍaṁ, ^3
+“Sabbesu bhūtesu nidhāya daṇḍaṁ,
 
-Aviheṭhayaṁ aññatarampi tesaṁ; ^4
+Aviheṭhayaṁ aññatarampi tesaṁ;
 
-Na puttamiccheyya kuto sahāyaṁ, ^5
+Na puttamiccheyya kuto sahāyaṁ,
 
-Eko care khaggavisāṇakappo”. ^6
+Eko care khaggavisāṇakappo”.
 
-“Saṁsaggajātassa bhavanti snehā, ^7
+“Saṁsaggajātassa bhavanti snehā,
 
-Snehanvayaṁ dukkhamidaṁ pahoti; ^8
+Snehanvayaṁ dukkhamidaṁ pahoti;
 
-Ādīnavaṁ snehajaṁ pekkhamāno, ^9
+Ādīnavaṁ snehajaṁ pekkhamāno,
 
-Eko care khaggavisāṇakappo”. ^10
+Eko care khaggavisāṇakappo”.
 
-“Mitte suhajje anukampamāno, ^11
+“Mitte suhajje anukampamāno,
 
-Hāpeti atthaṁ paṭibaddhacitto; ^12
+Hāpeti atthaṁ paṭibaddhacitto;
 
-Etaṁ bhayaṁ santhave pekkhamāno, ^13
+Etaṁ bhayaṁ santhave pekkhamāno,
 
-Eko care khaggavisāṇakappo”. ^14
+Eko care khaggavisāṇakappo”.
 
-“Vaṁso visālova yathā visatto, ^15
+“Vaṁso visālova yathā visatto,
 
-Puttesu dāresu ca yā apekkhā; ^16
+Puttesu dāresu ca yā apekkhā;
 
-Vaṁsakkaḷīrova asajjamāno, ^17
+Vaṁsakkaḷīrova asajjamāno,
 
-Eko care khaggavisāṇakappo”. ^18
+Eko care khaggavisāṇakappo”.
 
-“Migo araññamhi yathā abaddho, ^19
+“Migo araññamhi yathā abaddho,
 
-Yenicchakaṁ gacchati gocarāya; ^20
+Yenicchakaṁ gacchati gocarāya;
 
-Viññū naro seritaṁ pekkhamāno, ^21
+Viññū naro seritaṁ pekkhamāno,
 
-Eko care khaggavisāṇakappo”. ^22
+Eko care khaggavisāṇakappo”.
 
-“Āmantanā hoti sahāyamajjhe, ^23
+“Āmantanā hoti sahāyamajjhe,
 
-Vāse ṭhāne gamane cārikāya; ^24
+Vāse ṭhāne gamane cārikāya;
 
-Anabhijjhitaṁ seritaṁ pekkhamāno, ^25
+Anabhijjhitaṁ seritaṁ pekkhamāno,
 
-Eko care khaggavisāṇakappo”. ^26
+Eko care khaggavisāṇakappo”.
 
-“Khiḍḍā ratī hoti sahāyamajjhe, ^27
+“Khiḍḍā ratī hoti sahāyamajjhe,
 
-Puttesu ca vipulaṁ hoti pemaṁ; ^28
+Puttesu ca vipulaṁ hoti pemaṁ;
 
-Piyavippayogaṁ vijigucchamāno, ^29
+Piyavippayogaṁ vijigucchamāno,
 
-Eko care khaggavisāṇakappo”. ^30
+Eko care khaggavisāṇakappo”.
 
-“Cātuddiso appaṭigho ca hoti, ^31
+“Cātuddiso appaṭigho ca hoti,
 
-Santussamāno itarītarena; ^32
+Santussamāno itarītarena;
 
-Parissayānaṁ sahitā achambhī, ^33
+Parissayānaṁ sahitā achambhī,
 
-Eko care khaggavisāṇakappo”. ^34
+Eko care khaggavisāṇakappo”.
 
-“Dussaṅgahā pabbajitāpi eke, ^35
+“Dussaṅgahā pabbajitāpi eke,
 
-Atho gahaṭṭhā gharamāvasantā; ^36
+Atho gahaṭṭhā gharamāvasantā;
 
-Appossukko paraputtesu hutvā, ^37
+Appossukko paraputtesu hutvā,
 
-Eko care khaggavisāṇakappo”. ^38
+Eko care khaggavisāṇakappo”.
 
-“Oropayitvā gihibyañjanāni, ^39
+“Oropayitvā gihibyañjanāni,
 
-Sañchinnapatto yathā koviḷāro; ^40
+Sañchinnapatto yathā koviḷāro;
 
-Chetvāna vīro gihibandhanāni, ^41
+Chetvāna vīro gihibandhanāni,
 
-Eko care khaggavisāṇakappo”. ^42
+Eko care khaggavisāṇakappo”.
 
-“Sace labhetha nipakaṁ sahāyaṁ, ^43
+“Sace labhetha nipakaṁ sahāyaṁ,
 
-Saddhiṁ caraṁ sādhuvihāridhīraṁ; ^44
+Saddhiṁ caraṁ sādhuvihāridhīraṁ;
 
-Abhibhuyya sabbāni parissayāni, ^45
+Abhibhuyya sabbāni parissayāni,
 
-Careyya tenattamano satīmā”. ^46
+Careyya tenattamano satīmā”.
 
-“No ce labhetha nipakaṁ sahāyaṁ, ^47
+“No ce labhetha nipakaṁ sahāyaṁ,
 
-Saddhiṁ caraṁ sādhuvihāridhīraṁ; ^48
+Saddhiṁ caraṁ sādhuvihāridhīraṁ;
 
-Rājāva raṭṭhaṁ vijitaṁ pahāya, ^49
+Rājāva raṭṭhaṁ vijitaṁ pahāya,
 
-Eko care mātaṅgaraññeva nāgo”. ^50
+Eko care mātaṅgaraññeva nāgo”.
 
-“Addhā pasaṁsāma sahāyasampadaṁ, ^51
+“Addhā pasaṁsāma sahāyasampadaṁ,
 
-Seṭṭhā samā sevitabbā sahāyā; ^52
+Seṭṭhā samā sevitabbā sahāyā;
 
-Ete aladdhā anavajjabhojī, ^53
+Ete aladdhā anavajjabhojī,
 
-Eko care khaggavisāṇakappo”. ^54
+Eko care khaggavisāṇakappo”.
 
-“Disvā suvaṇṇassa pabhassarāni, ^55
+“Disvā suvaṇṇassa pabhassarāni,
 
-Kammāraputtena suniṭṭhitāni; ^56
+Kammāraputtena suniṭṭhitāni;
 
-Saṅghaṭṭamānāni duve bhujasmiṁ, ^57
+Saṅghaṭṭamānāni duve bhujasmiṁ,
 
-Eko care khaggavisāṇakappo”. ^58
+Eko care khaggavisāṇakappo”.
 
-“Evaṁ dutīyena sahā mamassa, ^59
+“Evaṁ dutīyena sahā mamassa,
 
-Vācābhilāpo abhisajjanā vā; ^60
+Vācābhilāpo abhisajjanā vā;
 
-Etaṁ bhayaṁ āyatiṁ pekkhamāno, ^61
+Etaṁ bhayaṁ āyatiṁ pekkhamāno,
 
-Eko care khaggavisāṇakappo”. ^62
+Eko care khaggavisāṇakappo”.
 
-“Kāmā hi citrā madhurā manoramā, ^63
+“Kāmā hi citrā madhurā manoramā,
 
-Virūparūpena mathenti cittaṁ; ^64
+Virūparūpena mathenti cittaṁ;
 
-Ādīnavaṁ kāmaguṇesu disvā, ^65
+Ādīnavaṁ kāmaguṇesu disvā,
 
-Eko care khaggavisāṇakappo”. ^66
+Eko care khaggavisāṇakappo”.
 
-“Ītī ca gaṇḍo ca upaddavo ca, ^67
+“Ītī ca gaṇḍo ca upaddavo ca,
 
-Rogo ca sallañca bhayañca metaṁ; ^68
+Rogo ca sallañca bhayañca metaṁ;
 
-Etaṁ bhayaṁ kāmaguṇesu disvā, ^69
+Etaṁ bhayaṁ kāmaguṇesu disvā,
 
-Eko care khaggavisāṇakappo”. ^70
+Eko care khaggavisāṇakappo”.
 
-“Sītañca uṇhañca khudaṁ pipāsaṁ, ^71
+“Sītañca uṇhañca khudaṁ pipāsaṁ,
 
-Vātātape ḍaṁsasarīsape ca; ^72
+Vātātape ḍaṁsasarīsape ca;
 
-Sabbānipetāni abhisambhavitvā, ^73
+Sabbānipetāni abhisambhavitvā,
 
-Eko care khaggavisāṇakappo”. ^74
+Eko care khaggavisāṇakappo”.
 
-“Nāgova yūthāni vivajjayitvā, ^75
+“Nāgova yūthāni vivajjayitvā,
 
-Sañjātakhandho padumī uḷāro; ^76
+Sañjātakhandho padumī uḷāro;
 
-Yathābhirantaṁ viharaṁ araññe, ^77
+Yathābhirantaṁ viharaṁ araññe,
 
-Eko care khaggavisāṇakappo”. ^78
+Eko care khaggavisāṇakappo”.
 
-“Aṭṭhānataṁ saṅgaṇikāratassa, ^79
+“Aṭṭhānataṁ saṅgaṇikāratassa,
 
-Yaṁ phassaye sāmayikaṁ vimuttiṁ; ^80
+Yaṁ phassaye sāmayikaṁ vimuttiṁ;
 
-Ādiccabandhussa vaco nisamma, ^81
+Ādiccabandhussa vaco nisamma,
 
-Eko care khaggavisāṇakappo”. ^82
+Eko care khaggavisāṇakappo”.
 
-“Diṭṭhīvisūkāni upātivatto, ^83
+“Diṭṭhīvisūkāni upātivatto,
 
-Patto niyāmaṁ paṭiladdhamaggo; ^84
+Patto niyāmaṁ paṭiladdhamaggo;
 
-Uppannañāṇomhi anaññaneyyo, ^85
+Uppannañāṇomhi anaññaneyyo,
 
-Eko care khaggavisāṇakappo”. ^86
+Eko care khaggavisāṇakappo”.
 
-“Nillolupo nikkuho nippipāso, ^87
+“Nillolupo nikkuho nippipāso,
 
-Nimmakkho niddhantakasāvamoho; ^88
+Nimmakkho niddhantakasāvamoho;
 
-Nirāsayo sabbaloke bhavitvā, ^89
+Nirāsayo sabbaloke bhavitvā,
 
-Eko care khaggavisāṇakappo”. ^90
+Eko care khaggavisāṇakappo”.
 
-“Pāpaṁ sahāyaṁ parivajjayetha, ^91
+“Pāpaṁ sahāyaṁ parivajjayetha,
 
-Anatthadassiṁ visame niviṭṭhaṁ; ^92
+Anatthadassiṁ visame niviṭṭhaṁ;
 
-Sayaṁ na seve pasutaṁ pamattaṁ, ^93
+Sayaṁ na seve pasutaṁ pamattaṁ,
 
-Eko care khaggavisāṇakappo”. ^94
+Eko care khaggavisāṇakappo”.
 
-“Bahussutaṁ dhammadharaṁ bhajetha, ^95
+“Bahussutaṁ dhammadharaṁ bhajetha,
 
-Mittaṁ uḷāraṁ paṭibhānavantaṁ; ^96
+Mittaṁ uḷāraṁ paṭibhānavantaṁ;
 
-Aññāya atthāni vineyya kaṅkhaṁ, ^97
+Aññāya atthāni vineyya kaṅkhaṁ,
 
-Eko care khaggavisāṇakappo”. ^98
+Eko care khaggavisāṇakappo”.
 
-“Khiḍḍaṁ ratiṁ kāmasukhañca loke, ^99
+“Khiḍḍaṁ ratiṁ kāmasukhañca loke,
 
-Analaṅkaritvā anapekkhamāno; ^100
+Analaṅkaritvā anapekkhamāno;
 
-Vibhūsanaṭṭhānā virato saccavādī, ^101
+Vibhūsanaṭṭhānā virato saccavādī,
 
-Eko care khaggavisāṇakappo”. ^102
+Eko care khaggavisāṇakappo”.
 
-“Puttañca dāraṁ pitarañca mātaraṁ, ^103
+“Puttañca dāraṁ pitarañca mātaraṁ,
 
-Dhanāni dhaññāni ca bandhavāni; ^104
+Dhanāni dhaññāni ca bandhavāni;
 
-Hitvāna kāmāni yathodhikāni, ^105
+Hitvāna kāmāni yathodhikāni,
 
-Eko care khaggavisāṇakappo”. ^106
+Eko care khaggavisāṇakappo”.
 
-“Saṅgo eso parittamettha sokhyaṁ, ^107
+“Saṅgo eso parittamettha sokhyaṁ,
 
-Appassādo dukkhamettha bhiyyo; ^108
+Appassādo dukkhamettha bhiyyo;
 
-Gaḷo eso iti ñatvā matīmā, ^109
+Gaḷo eso iti ñatvā matīmā,
 
-Eko care khaggavisāṇakappo”. ^110
+Eko care khaggavisāṇakappo”.
 
-“Sandālayitvāna saṁyojanāni, ^111
+“Sandālayitvāna saṁyojanāni,
 
-Jālaṁva bhetvā salilambucārī; ^112
+Jālaṁva bhetvā salilambucārī;
 
-Aggīva daḍḍhaṁ anivattamāno, ^113
+Aggīva daḍḍhaṁ anivattamāno,
 
-Eko care khaggavisāṇakappo”. ^114
+Eko care khaggavisāṇakappo”.
 
-“Okkhittacakkhu na ca pādalolo, ^115
+“Okkhittacakkhu na ca pādalolo,
 
-Guttindriyo rakkhitamānasāno; ^116
+Guttindriyo rakkhitamānasāno;
 
-Anavassuto apariḍayhamāno, ^117
+Anavassuto apariḍayhamāno,
 
-Eko care khaggavisāṇakappo”. ^118
+Eko care khaggavisāṇakappo”.
 
-“Ohārayitvā gihibyañjanāni, ^119
+“Ohārayitvā gihibyañjanāni,
 
-Sañchannapatto yathā pārichatto; ^120
+Sañchannapatto yathā pārichatto;
 
-Kāsāyavattho abhinikkhamitvā, ^121
+Kāsāyavattho abhinikkhamitvā,
 
-Eko care khaggavisāṇakappo”. ^122
+Eko care khaggavisāṇakappo”.
 
-“Rasesu gedhaṁ akaraṁ alolo, ^123
+“Rasesu gedhaṁ akaraṁ alolo,
 
-Anaññaposī sapadānacārī; ^124
+Anaññaposī sapadānacārī;
 
-Kule kule appaṭibaddhacitto, ^125
+Kule kule appaṭibaddhacitto,
 
-Eko care khaggavisāṇakappo”. ^126
+Eko care khaggavisāṇakappo”.
 
-“Pahāya pañcāvaraṇāni cetaso, ^127
+“Pahāya pañcāvaraṇāni cetaso,
 
-Upakkilese byapanujja sabbe; ^128
+Upakkilese byapanujja sabbe;
 
-Anissito chetva sinehadosaṁ, ^129
+Anissito chetva sinehadosaṁ,
 
-Eko care khaggavisāṇakappo”. ^130
+Eko care khaggavisāṇakappo”.
 
-“Vipiṭṭhikatvāna sukhaṁ dukhañca, ^131
+“Vipiṭṭhikatvāna sukhaṁ dukhañca,
 
-Pubbeva ca somanassadomanassaṁ; ^132
+Pubbeva ca somanassadomanassaṁ;
 
-Laddhānupekkhaṁ samathaṁ visuddhaṁ, ^133
+Laddhānupekkhaṁ samathaṁ visuddhaṁ,
 
-Eko care khaggavisāṇakappo”. ^134
+Eko care khaggavisāṇakappo”.
 
-“Āraddhaviriyo paramatthapattiyā, ^135
+“Āraddhaviriyo paramatthapattiyā,
 
-Alīnacitto akusītavutti; ^136
+Alīnacitto akusītavutti;
 
-Daḷhanikkamo thāmabalūpapanno, ^137
+Daḷhanikkamo thāmabalūpapanno,
 
-Eko care khaggavisāṇakappo”. ^138
+Eko care khaggavisāṇakappo”.
 
-“Paṭisallānaṁ jhānamariñcamāno, ^139
+“Paṭisallānaṁ jhānamariñcamāno,
 
-Dhammesu niccaṁ anudhammacārī; ^140
+Dhammesu niccaṁ anudhammacārī;
 
-Ādīnavaṁ sammasitā bhavesu, ^141
+Ādīnavaṁ sammasitā bhavesu,
 
-Eko care khaggavisāṇakappo”. ^142
+Eko care khaggavisāṇakappo”.
 
-“Taṇhakkhayaṁ patthayamappamatto, ^143
+“Taṇhakkhayaṁ patthayamappamatto,
 
-Aneḷamūgo sutavā satīmā; ^144
+Aneḷamūgo sutavā satīmā;
 
-Saṅkhātadhammo niyato padhānavā, ^145
+Saṅkhātadhammo niyato padhānavā,
 
-Eko care khaggavisāṇakappo”. ^146
+Eko care khaggavisāṇakappo”.
 
-“Sīhova saddesu asantasanto, ^147
+“Sīhova saddesu asantasanto,
 
-Vātova jālamhi asajjamāno; ^148
+Vātova jālamhi asajjamāno;
 
-Padumaṁva toyena alippamāno, ^149
+Padumaṁva toyena alippamāno,
 
-Eko care khaggavisāṇakappo”. ^150
+Eko care khaggavisāṇakappo”.
 
-“Sīho yathā dāṭhabalī pasayha, ^151
+“Sīho yathā dāṭhabalī pasayha,
 
-Rājā migānaṁ abhibhuyya cārī; ^152
+Rājā migānaṁ abhibhuyya cārī;
 
-Sevetha pantāni senāsanāni, ^153
+Sevetha pantāni senāsanāni,
 
-Eko care khaggavisāṇakappo”. ^154
+Eko care khaggavisāṇakappo”.
 
-“Mettaṁ upekkhaṁ karuṇaṁ vimuttiṁ, ^155
+“Mettaṁ upekkhaṁ karuṇaṁ vimuttiṁ,
 
-Āsevamāno muditañca kāle; ^156
+Āsevamāno muditañca kāle;
 
-Sabbena lokena avirujjhamāno, ^157
+Sabbena lokena avirujjhamāno,
 
-Eko care khaggavisāṇakappo”. ^158
+Eko care khaggavisāṇakappo”.
 
-“Rāgañca dosañca pahāya mohaṁ, ^159
+“Rāgañca dosañca pahāya mohaṁ,
 
-Sandālayitvāna saṁyojanāni; ^160
+Sandālayitvāna saṁyojanāni;
 
-Asantasaṁ jīvitasaṅkhayamhi, ^161
+Asantasaṁ jīvitasaṅkhayamhi,
 
-Eko care khaggavisāṇakappo”. ^162
+Eko care khaggavisāṇakappo”.
 
-“Bhajanti sevanti ca kāraṇatthā, ^163
+“Bhajanti sevanti ca kāraṇatthā,
 
-Nikkāraṇā dullabhā ajja mittā; ^164
+Nikkāraṇā dullabhā ajja mittā;
 
-Attaṭṭhapaññā asucī manussā, ^165
+Attaṭṭhapaññā asucī manussā,
 
-Eko care khaggavisāṇakappo”. ^166
+Eko care khaggavisāṇakappo”.
 
-Khaggavisāṇasuttaṁ tatiyaṁ. ^167
+Khaggavisāṇasuttaṁ tatiyaṁ.

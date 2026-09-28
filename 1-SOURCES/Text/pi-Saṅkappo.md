@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 9
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation Xs40w06pCcFbxJ258XgxY — one block per segment, in span order"
+verse_id_format:
+segments: 9
+segmentation_source: "openpecha-v2 segmentation annotation Xs40w06pCcFbxJ258XgxY — one paragraph per segment, in span order"
 edition_type: critical
 license: Public Domain Mark
 copyright: Public domain
@@ -24,26 +24,27 @@ openpecha_v2_language: pi
 openpecha_v2_category_id: dJpr4gMF72E4UpCnJ84sh
 openpecha_v2_date: "2026-03-03"
 openpecha_v2_annotations:
+  - "search_segmentation: U8fS4j9vztRO4TqNs3l2e"
   - "segmentation: Xs40w06pCcFbxJ258XgxY"
 status: ingested
 ---
 
-# Saṅkappo ^0
+# Saṅkappo
 
-Iminā puññakammena, ^1
+Iminā puññakammena,
 
-Mā me bāla-samāgamo; ^2
+Mā me bāla-samāgamo;
 
-Sataṃ samāgamo hotu, ^3
+Sataṃ samāgamo hotu,
 
-Yāva nibbānapattiyā. ^4
+Yāva nibbānapattiyā.
 
-Idaṃ me puñña kammaṃ ^5
+Idaṃ me puñña kammaṃ
 
-Āsavakkhayaṃ vahaṃ hotu ^6
+Āsavakkhayaṃ vahaṃ hotu
 
-Sabbadukkhā pamuccatu ^7
+Sabbadukkhā pamuccatu
 
-Nibbānassa paccayo hotu! ^8
+Nibbānassa paccayo hotu!
 
-Sādhu! Sādhu! Sādhu! ^9
+Sādhu! Sādhu! Sādhu!

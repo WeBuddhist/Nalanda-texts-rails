@@ -6,9 +6,9 @@ language: Literary Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh
-total_verses: 4
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation BPVpVpfnz9fAzfsL5zlBd — one block per segment, in span order"
+verse_id_format:
+segments: 4
+segmentation_source: "openpecha-v2 segmentation annotation BPVpVpfnz9fAzfsL5zlBd — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,12 +28,12 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# 迴向文(願以此功德) ^0
+# 迴向文(願以此功德)
 
-願以此功德， ^1
+願以此功德，
 
-普及於一切。 ^2
+普及於一切。
 
-我等與眾生， ^3
+我等與眾生，
 
-皆共成佛道。 ^4
+皆共成佛道。

@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 6
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation ohrv5yjzQHiQ5YUK4wQbu — one block per segment, in span order"
+verse_id_format:
+segments: 6
+segmentation_source: "openpecha-v2 segmentation annotation ohrv5yjzQHiQ5YUK4wQbu — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,20 +26,21 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: mvZP5HaJpjBNLRmKIDMjK
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: YGfX0jkALCIRNdKtPcu2e"
   - "segmentation: ohrv5yjzQHiQ5YUK4wQbu"
 status: ingested
 ---
 
-# Vajrasattvasataksaram ^0
+# Vajrasattvasataksaram
 
-Oṃ vajrasattva samayamanupālaya vajrasattvatvenopatiṣṭha ^1
+Oṃ vajrasattva samayamanupālaya vajrasattvatvenopatiṣṭha
 
-dṛḍho me bhava sutoṣyo me bhava ^2
+dṛḍho me bhava sutoṣyo me bhava
 
-supoṣyo me bhava anurakto me bhava ^3
+supoṣyo me bhava anurakto me bhava
 
-sarva-siddhim me prayaccha sarva-karmasu cha me cittaṃ śreyaḥ kuru hūm ^4
+sarva-siddhim me prayaccha sarva-karmasu cha me cittaṃ śreyaḥ kuru hūm
 
-ha ha ha ha hoḥ bhagavān sarvatathāgata vajra mā me muñca ^5
+ha ha ha ha hoḥ bhagavān sarvatathāgata vajra mā me muñca
 
-vajrī bhava mahāsamayasattva āḥ ^6
+vajrī bhava mahāsamayasattva āḥ

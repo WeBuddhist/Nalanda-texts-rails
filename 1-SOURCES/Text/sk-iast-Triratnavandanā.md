@@ -8,9 +8,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 2
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation RQvN5CE7bpIxY6Tejufm7 — one block per segment, in span order"
+verse_id_format:
+segments: 2
+segmentation_source: "openpecha-v2 segmentation annotation RQvN5CE7bpIxY6Tejufm7 — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -26,12 +26,13 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: dJpr4gMF72E4UpCnJ84sh
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: IbCpQKXMWRFm4zhuY0ayz"
   - "segmentation: RQvN5CE7bpIxY6Tejufm7"
 status: ingested
 ---
 
-# Triratnavandanā ^0
+# Triratnavandanā
 
-Namo buddhāya guruve namo dharmāya tāyine | ^1
+Namo buddhāya guruve namo dharmāya tāyine |
 
-Namo samghāya mahate tribhyopi satatam namaḥ || ^2
+Namo samghāya mahate tribhyopi satatam namaḥ ||

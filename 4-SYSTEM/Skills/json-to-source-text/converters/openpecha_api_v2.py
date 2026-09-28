@@ -12,30 +12,40 @@ Firebase project `pecha-backend`), downloaded verbatim by
     texts/<text_id>/instances/<instance_id>.json    GET /v2/instances/<id>?content=true&annotation=true
     texts/<text_id>/annotations/<annotation_id>.json GET /v2/annotations/<id>
 
-Output convention — collection vault, flat `^N` (`verse_id_format: verse`,
+Output convention — one file per text, no block IDs by default (the vault
+adds them later with `add-block-ids`; `--block-ids` emits flat `^N` instead,
 `annotation-conventions.md` §7). The corpus is hundreds of independent texts
-with no chapter structure recorded upstream, so each file is one text:
+with no chapter structure recorded upstream:
 
-    # <title> ^0
+    # <title>
 
-    <segment 1> ^1
+    <segment 1>
 
-    <segment 2> ^2
+    <segment 2 with a variant reading>[^1]
 
-- **One block per upstream segment.** The segmentation annotation's spans are
-  sorted by `start`; block `^N` is the Nth non-empty segment. The mapping
-  block → upstream segment ID is written to
-  `0-INBOX/raw-data/openpecha-api/block-maps/<text_id>.json` so a block can
-  always be traced back to the backend.
+    [^1]: <lemma>] ༼<edition sigla>༽<variant>
+
+- **One paragraph per upstream segment.** The segmentation annotation's spans
+  are sorted by `start`; paragraph N is the Nth non-empty segment. The mapping
+  segment number → upstream segment ID is written to
+  `0-INBOX/raw-data/openpecha-api/block-maps/<text_id>.json` so a paragraph
+  can always be traced back to the backend.
+- **Durchen (variant readings)** become Obsidian footnotes: the marker `[^k]`
+  sits right after the last character of the annotated span and the note text
+  is copied verbatim into the definition at the end of the file. The block map
+  records footnote number → durchen note ID.
+- **Bibliography** annotations (title / author spans) are listed in the
+  `bibliography:` frontmatter key as `<type>: <span text>`. Search
+  segmentation is downloaded but not rendered — it is a search index, not the
+  text's segmentation.
 - **No loss.** Text between segments that no span covers is emitted as its
-  own paragraph without a block ID (the skill's rule for unlabelled prose);
-  whitespace-only gaps are dropped. Blank lines inside a segment are
-  collapsed to one line break so the segment stays one Markdown block.
-  A line that would otherwise parse as Markdown structure (`#`, `>`, a
-  setext underline) is backslash-escaped.
-- **No segmentation upstream.** One block per non-empty line of the content,
-  declared in `segmentation_source:` so nobody mistakes it for an upstream
-  segmentation.
+  own paragraph (the skill's rule for unlabelled prose); whitespace-only gaps
+  are dropped. Blank lines inside a segment are collapsed to one line break
+  so the segment stays one Markdown block. A line that would otherwise parse
+  as Markdown structure (`#`, `>`, a setext underline) is backslash-escaped.
+- **No segmentation upstream.** One paragraph per non-empty line of the
+  content, declared in `segmentation_source:` so nobody mistakes it for an
+  upstream segmentation.
 - **Instances.** The critical instance is the root text. Any further
   instance (diplomatic, collated) is written as a separate edition file with
   `file_type: edition` and `root_text:` pointing at the critical one.
@@ -246,57 +256,109 @@ def placeholder_reason(code: str, content: str) -> str | None:
     return None
 
 
-def build_blocks(content: str, seg_ann: dict | None):
-    """Return (blocks, stats). blocks: list of (block_no|None, text, segment_id|None)."""
-    stats = {"segments": 0, "empty_segments": 0, "uncovered_gaps": 0, "uncovered_chars": 0,
-             "gaps_attached": 0, "overlaps": 0, "out_of_range": 0}
-    blocks = []
+FOOTNOTE_MARK = re.compile(r"\[\^\d+\]")
 
-    def add_gap(gap):
-        g = gap.strip()
-        if not g:
+
+def build_blocks(content: str, seg_ann: dict | None, notes: list | None = None):
+    """Return (blocks, stats, footnotes).
+
+    blocks: list of (segment_no|None, text, segment_id|None), one per upstream
+    segment in span order. `notes` (durchen) become Obsidian footnote markers
+    `[^k]` placed right after the last character of each annotated span;
+    footnotes: list of (k, durchen_id, note_text) in text order.
+    """
+    stats = {"segments": 0, "empty_segments": 0, "uncovered_gaps": 0, "uncovered_chars": 0,
+             "gaps_attached": 0, "overlaps": 0, "out_of_range": 0,
+             "durchen_notes": 0, "durchen_shifted": 0, "durchen_unplaced": 0}
+    blocks, footnotes = [], []
+    notes = sorted(notes or [], key=lambda x: (x["span"]["end"], x["span"]["start"]))
+    ni = 0
+
+    def marked(lo, hi):
+        """content[lo:hi] with a footnote marker after every durchen span ending in (lo, hi]."""
+        nonlocal ni
+        parts, cur = [], lo
+        while ni < len(notes) and notes[ni]["span"]["end"] <= hi:
+            e = notes[ni]["span"]["end"]
+            if e < cur:                     # span ended in a region already emitted
+                e = cur
+                stats["durchen_shifted"] += 1
+            parts.append(content[cur:e])
+            k = len(footnotes) + 1
+            footnotes.append((k, notes[ni]["id"], notes[ni].get("note") or ""))
+            parts.append(f"[^{k}]")
+            cur, ni = e, ni + 1
+        parts.append(content[cur:hi])
+        return "".join(parts)
+
+    def attach_to_previous(s):
+        """Append s to the last numbered block; False if there is none."""
+        for i in range(len(blocks) - 1, -1, -1):
+            if blocks[i][0] is not None:
+                n_, txt_, sid_ = blocks[i]
+                blocks[i] = (n_, txt_ + s, sid_)
+                return True
+        return False
+
+    def add_gap(lo, hi):
+        g = marked(lo, hi).strip()
+        plain = FOOTNOTE_MARK.sub("", g).strip()
+        if not plain:
+            if g and not attach_to_previous(g):   # markers only (span ended in whitespace)
+                blocks.append((None, g, None))
             return
         stats["uncovered_gaps"] += 1
-        stats["uncovered_chars"] += len(g)
-        if not re.search(r"\w", g) and blocks and blocks[-1][0] is not None:
-            # punctuation the previous span stopped just short of (e.g. a text-final ".")
-            n_, txt_, sid_ = blocks[-1]
-            blocks[-1] = (n_, txt_ + g, sid_)
-            stats["gaps_attached"] += 1
+        stats["uncovered_chars"] += len(plain)
+        if re.search(r"\w", plain) or not attach_to_previous(g):
+            blocks.append((None, normalise_block(g), None))
         else:
-            blocks.append((None, normalise_block(gap), None))
+            # punctuation the previous span stopped just short of (e.g. a text-final ".")
+            stats["gaps_attached"] += 1
+
+    n = 0
     if seg_ann and seg_ann.get("data"):
         segs = sorted(seg_ann["data"], key=lambda s: (s["span"]["start"], s["span"]["end"]))
         stats["segments"] = len(segs)
-        pos, n = 0, 0
+        pos = 0
         for s in segs:
             a, b = s["span"]["start"], s["span"]["end"]
             if a < 0 or b > len(content) or b < a:
                 stats["out_of_range"] += 1
             if a > pos:
-                add_gap(content[pos:a])
+                add_gap(pos, a)
             elif a < pos:
                 stats["overlaps"] += 1
-            txt = normalise_block(content[a:b])
-            if not txt:
+            txt = normalise_block(marked(max(a, pos) if a < pos else a, b))
+            if not FOOTNOTE_MARK.sub("", txt).strip():
                 stats["empty_segments"] += 1
+                if txt and not attach_to_previous(txt):
+                    blocks.append((None, txt, None))
             else:
                 n += 1
                 blocks.append((n, txt, s["id"]))
             pos = max(pos, b)
-        add_gap(content[pos:])
+        add_gap(pos, len(content))
     else:
-        n = 0
-        for line in content.split("\n"):
-            txt = normalise_block(line)
-            if txt:
+        for m in re.finditer(r"[^\n]+", content):
+            txt = normalise_block(marked(m.start(), m.end()))
+            if FOOTNOTE_MARK.sub("", txt).strip():
                 n += 1
                 blocks.append((n, txt, None))
-    return blocks, stats
+            elif txt:
+                attach_to_previous(txt)
+    if ni < len(notes):                              # spans ending past the content
+        rest = "".join(f"[^{len(footnotes) + i + 1}]" for i in range(len(notes) - ni))
+        for note in notes[ni:]:
+            footnotes.append((len(footnotes) + 1, note["id"], note.get("note") or ""))
+        stats["durchen_unplaced"] += len(notes) - ni
+        if not attach_to_previous(rest):
+            blocks.append((None, rest, None))
+    stats["durchen_notes"] = len(footnotes)
+    return blocks, stats, footnotes
 
 
 def render_text_file(text: dict, inst: dict, api_base: str, categories: dict, downloaded: str,
-                     root_file: str | None = None) -> tuple[str, dict, list]:
+                     root_file: str | None = None, block_ids: bool = False) -> tuple[str, dict, dict]:
     """Render one instance of one text. Returns (markdown, catalog_row, block_map)."""
     code = text.get("language") or ""
     detail = inst["detail"]
@@ -304,7 +366,15 @@ def render_text_file(text: dict, inst: dict, api_base: str, categories: dict, do
     content = detail.get("content") or ""
     seg_anns = inst["annotations"].get("segmentation") or []
     seg_ann = max(seg_anns, key=lambda a: len(a.get("data") or [])) if seg_anns else None
-    blocks, stats = build_blocks(content, seg_ann)
+    durchen_anns = inst["annotations"].get("durchen") or []
+    notes = [d for a in durchen_anns for d in (a.get("data") or [])]
+    blocks, stats, footnotes = build_blocks(content, seg_ann, notes)
+    bibliography = []
+    for a in inst["annotations"].get("bibliography") or []:
+        for item in sorted(a.get("data") or [], key=lambda s: s["span"]["start"]):
+            span_text = re.sub(r"\s+", " ", content[item["span"]["start"]:item["span"]["end"]]).strip()
+            bibliography.append(f"{item.get('type') or 'unknown'}: {span_text}")
+    n_segments = sum(1 for b in blocks if b[0] is not None)
 
     language, lang_tag, script = language_fields(code, content)
     title, title_lang = pick_title(text.get("title"), code)
@@ -324,8 +394,12 @@ def render_text_file(text: dict, inst: dict, api_base: str, categories: dict, do
     cat_label = " / ".join(x for x in (cat.get("title_en"), cat.get("title_bo")) if x) or None
     is_edition = root_file is not None
     ann_ids = {t: [a["id"] for a in lst] for t, lst in inst["annotations"].items()}
-    seg_source = (f"openpecha-v2 segmentation annotation {seg_ann['id']} — one block per segment, in span order"
-                  if seg_ann else "none upstream — one block per non-empty line of the content")
+    unit = "block" if block_ids else "paragraph"
+    seg_source = (f"openpecha-v2 segmentation annotation {seg_ann['id']} — one {unit} per segment, in span order"
+                  if seg_ann else f"none upstream — one {unit} per non-empty line of the content")
+    durchen_source = (f"openpecha-v2 durchen annotation {', '.join(a['id'] for a in durchen_anns)} — variant "
+                      "readings as footnotes placed right after each annotated span; each note reads "
+                      "'lemma] ༼edition sigla༽ variant'" if footnotes else None)
 
     other_ids = []
     if text.get("wiki"):
@@ -352,9 +426,13 @@ def render_text_file(text: dict, inst: dict, api_base: str, categories: dict, do
         ("file_type", "edition" if is_edition else "root-text"),
         ("lang_tag", lang_tag),
         ("root_text", f"1-SOURCES/Text/{root_file}" if is_edition else None),
-        ("total_verses", sum(1 for b in blocks if b[0] is not None)),
-        ("verse_id_format", "verse"),
+        ("total_verses", n_segments if block_ids else None),
+        ("verse_id_format", "verse" if block_ids else ""),
+        ("segments", None if block_ids else n_segments),
         ("segmentation_source", seg_source),
+        ("durchen_notes", len(footnotes) or None),
+        ("durchen_source", durchen_source),
+        ("bibliography", bibliography or None),
         ("edition_type", meta_i.get("type") or ""),
         ("license", text.get("license") or ""),
         ("copyright", text.get("copyright") or ""),
@@ -378,10 +456,12 @@ def render_text_file(text: dict, inst: dict, api_base: str, categories: dict, do
         ("status", "ingested"),
     ]
 
-    body = [f"# {title or text['id']} ^0", ""]
+    body = [f"# {title or text['id']}" + (" ^0" if block_ids else ""), ""]
     for n, txt, _ in blocks:
-        body.append(f"{txt} ^{n}" if n is not None else txt)
+        body.append(f"{txt} ^{n}" if block_ids and n is not None else txt)
         body.append("")
+    if footnotes:
+        body += [f"[^{k}]: " + " ".join(note.split()) for k, _, note in footnotes]
     md = render_frontmatter(fm) + "\n" + "\n".join(body).rstrip("\n") + "\n"
 
     row = {
@@ -395,16 +475,18 @@ def render_text_file(text: dict, inst: dict, api_base: str, categories: dict, do
         "license": text.get("license"), "copyright": text.get("copyright"),
         "source": meta_i.get("source"), "content_chars": len(content),
         "segmentation_id": seg_ann["id"] if seg_ann else None,
-        "blocks": sum(1 for b in blocks if b[0] is not None), "segmentation_stats": stats,
-        "annotations": ann_ids,
+        "blocks": n_segments, "durchen_notes": len(footnotes), "bibliography": bibliography,
+        "segmentation_stats": stats, "annotations": ann_ids,
     }
-    block_map = [{"block": n, "segment_id": sid} for n, _, sid in blocks if n is not None]
+    # segment N = the Nth segment paragraph of the body (its ^N when block IDs are on)
+    block_map = {"segments": [{"segment": n, "segment_id": sid} for n, _, sid in blocks if n is not None],
+                 "footnotes": [{"footnote": k, "durchen_id": did} for k, did, _ in footnotes]}
     return md, row, block_map
 
 
 # --------------------------------------------------------------------------- corpus
 
-def convert_corpus(raw_dir: str, out_dir: str, catalog_json: str, block_map_dir: str):
+def convert_corpus(raw_dir: str, out_dir: str, catalog_json: str, block_map_dir: str, block_ids: bool = False):
     manifest = load(os.path.join(raw_dir, "manifest.json")) if os.path.exists(os.path.join(raw_dir, "manifest.json")) else {}
     api_base = manifest.get("api_base", "https://api-aq25662yyq-uc.a.run.app")
     downloaded = (manifest.get("finished") or manifest.get("started") or "")[:10]
@@ -465,7 +547,7 @@ def convert_corpus(raw_dir: str, out_dir: str, catalog_json: str, block_map_dir:
         for idx, inst in enumerate(usable):
             fname = names[(text["id"], inst["summary"]["id"])]
             md, row, bmap = render_text_file(text, inst, api_base, categories, downloaded,
-                                             root_file=root_file if idx > 0 else None)
+                                             root_file=root_file if idx > 0 else None, block_ids=block_ids)
             with open(os.path.join(out_dir, fname), "w", encoding="utf-8") as f:
                 f.write(md)
             row["file"] = f"1-SOURCES/Text/{fname}"
@@ -473,7 +555,8 @@ def convert_corpus(raw_dir: str, out_dir: str, catalog_json: str, block_map_dir:
             bm_name = f"{text['id']}.json" if idx == 0 else f"{text['id']}.{inst['summary']['id']}.json"
             with open(os.path.join(block_map_dir, bm_name), "w", encoding="utf-8") as f:
                 json.dump({"file": row["file"], "text_id": text["id"], "instance_id": row["instance_id"],
-                           "segmentation_id": row["segmentation_id"], "blocks": bmap},
+                           "segmentation_id": row["segmentation_id"],
+                           "durchen_ids": row["annotations"].get("durchen", []), **bmap},
                           f, ensure_ascii=False, indent=0)
 
     rows.sort(key=lambda r: (r["lang_tag"], safe_filename_title(r["title"]).casefold(), r["text_id"]))
@@ -511,20 +594,21 @@ def write_catalog_md(rows, skipped, catalog, path, catalog_rel):
         f"{len(rows)} files, one per text (plus any extra edition), downloaded {catalog['downloaded']} from "
         f"`{catalog['api_base']}`. `OP type` is the backend's relation-derived type: `root` has commentaries, "
         "`translation_source` has translations, `none` stands alone. Author is as recorded upstream; "
-        "blank means the backend records none.",
+        "blank means the backend records none. `Segments` counts the upstream segments (one paragraph "
+        "each); `Durchen` counts the variant-reading footnotes.",
         "",
         "**By language:** " + " · ".join(f"`{k}` {v}" for k, v in sorted(by_lang.items())),
         "",
         "**By category:** " + " · ".join(f"{k} {v}" for k, v in by_cat.most_common()),
         "",
-        "| # | Text | Author | Lang | Category | OP type | BDRC work | Blocks | OP text ID |",
-        "|---|------|--------|------|----------|---------|-----------|--------|------------|",
+        "| # | Text | Author | Lang | Category | OP type | BDRC work | Segments | Durchen | OP text ID |",
+        "|---|------|--------|------|----------|---------|-----------|----------|---------|------------|",
     ]
     for i, r in enumerate(rows, 1):
         target = r["file"][:-3]
         out.append(f"| {i} | [[{target}\\|{cell(r['title'])}]] | {cell(r['author'])} | {r['lang_tag']} | "
                    f"{cell(r['category'])} | {r['openpecha_type']} | {r['bdrc_work_id'] or ''} | "
-                   f"{r['blocks']} | `{r['text_id']}` |")
+                   f"{r['blocks']} | {r['durchen_notes'] or ''} | `{r['text_id']}` |")
     if skipped or catalog.get("skipped_instances"):
         out += ["", "## Not converted", "",
                 "Present in the backend but not written to `1-SOURCES/Text/`. Their raw API responses are "
@@ -542,7 +626,7 @@ def write_catalog_md(rows, skipped, catalog, path, catalog_rel):
         f.write("\n".join(out) + "\n")
 
 
-def convert_json_to_source_text(json_path: str, output_path: str) -> None:
+def convert_json_to_source_text(json_path: str, output_path: str, block_ids: bool = False) -> None:
     """Skill contract: json_path is one text's text.json inside a download folder."""
     tdir = os.path.dirname(os.path.abspath(json_path))
     raw_dir = os.path.dirname(os.path.dirname(tdir))
@@ -554,7 +638,7 @@ def convert_json_to_source_text(json_path: str, output_path: str) -> None:
     if not usable:
         sys.exit(f"{text['id']}: no instance with content")
     md, _, _ = render_text_file(text, usable[0], manifest.get("api_base", ""), categories,
-                                (manifest.get("finished") or "")[:10])
+                                (manifest.get("finished") or "")[:10], block_ids=block_ids)
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(md)
 
@@ -566,14 +650,16 @@ def main():
     ap.add_argument("dst", help="output folder (--corpus) or output .md")
     ap.add_argument("--catalog", help="catalog JSON path (default: <vault>/1-SOURCES/openpecha-v2-catalog.json)")
     ap.add_argument("--block-maps", help="block-map folder (default: <src>/block-maps)")
+    ap.add_argument("--block-ids", action="store_true",
+                    help="end each segment with a flat ^N block ID and the title with ^0 (default: no IDs)")
     a = ap.parse_args()
     if not a.corpus:
-        convert_json_to_source_text(a.src, a.dst)
+        convert_json_to_source_text(a.src, a.dst, block_ids=a.block_ids)
         return
     vault = os.path.dirname(os.path.dirname(os.path.abspath(a.dst)))
     catalog = a.catalog or os.path.join(vault, "1-SOURCES", "openpecha-v2-catalog.json")
     bmaps = a.block_maps or os.path.join(a.src, "block-maps")
-    rows, skipped = convert_corpus(a.src, a.dst, catalog, bmaps)
+    rows, skipped = convert_corpus(a.src, a.dst, catalog, bmaps, block_ids=a.block_ids)
     print(f"{len(rows)} files written to {a.dst}; {len(skipped)} texts skipped")
     for k, v in Counter(x["reason"] for x in skipped).items():
         print(f"  skipped — {k}: {v}")

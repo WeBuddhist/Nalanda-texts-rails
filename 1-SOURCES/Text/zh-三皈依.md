@@ -6,9 +6,9 @@ language: Literary Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh
-total_verses: 3
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation 6XLkOcJu233qdsu2ModwN — one block per segment, in span order"
+verse_id_format:
+segments: 3
+segmentation_source: "openpecha-v2 segmentation annotation 6XLkOcJu233qdsu2ModwN — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,10 +28,10 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# 三皈依 ^0
+# 三皈依
 
-自皈依佛，當願眾生，體解大道，發無上心。 ^1
+自皈依佛，當願眾生，體解大道，發無上心。
 
-自皈依法，當願眾生，深入經藏，智慧如海。 ^2
+自皈依法，當願眾生，深入經藏，智慧如海。
 
-自皈依僧，當願眾生，統理大眾，一切無礙。 ^3
+自皈依僧，當願眾生，統理大眾，一切無礙。

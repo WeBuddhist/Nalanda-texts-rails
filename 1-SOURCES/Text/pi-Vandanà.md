@@ -8,9 +8,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 4
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation JdXEiCQwGhqFRRsGWf7Jh — one block per segment, in span order"
+verse_id_format:
+segments: 4
+segmentation_source: "openpecha-v2 segmentation annotation JdXEiCQwGhqFRRsGWf7Jh — one paragraph per segment, in span order"
 edition_type: critical
 license: Public Domain Mark
 copyright: Public domain
@@ -26,16 +26,17 @@ openpecha_v2_language: pi
 openpecha_v2_category_id: dJpr4gMF72E4UpCnJ84sh
 openpecha_v2_date: "2026-03-03"
 openpecha_v2_annotations:
+  - "search_segmentation: 519W3lQmL8lRHBAGJrHIU"
   - "segmentation: JdXEiCQwGhqFRRsGWf7Jh"
 status: ingested
 ---
 
-# Vandanà ^0
+# Vandanà
 
-Namo Tassa Bhagavato Arahato Sammā Sambuddhassa! ^1
+Namo Tassa Bhagavato Arahato Sammā Sambuddhassa!
 
-Buddhaṃ vandāmi, Dhammaṃ vandāmi, Sanghaṃ vandāmi, ahaṃ vandāmi sabbadā. ^2
+Buddhaṃ vandāmi, Dhammaṃ vandāmi, Sanghaṃ vandāmi, ahaṃ vandāmi sabbadā.
 
-Dutiyampi Buddhaṃ vandāmi, Dhammaṃ vandāmi, Sanghaṃ vandāmi, ahaṃ vandāmi sabbadā. ^3
+Dutiyampi Buddhaṃ vandāmi, Dhammaṃ vandāmi, Sanghaṃ vandāmi, ahaṃ vandāmi sabbadā.
 
-Tatiyampi Buddhaṃ vandāmi, Dhammaṃ vandāmi, Sanghaṃ vandāmi, ahaṃ vandāmi sabbadā. ^4
+Tatiyampi Buddhaṃ vandāmi, Dhammaṃ vandāmi, Sanghaṃ vandāmi, ahaṃ vandāmi sabbadā.

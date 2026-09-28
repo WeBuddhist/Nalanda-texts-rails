@@ -6,9 +6,9 @@ language: Pāli
 script: Roman (Pāli)
 file_type: root-text
 lang_tag: pi
-total_verses: 4
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation pQnTyH38KLJWRhgh4eKJl — one block per segment, in span order"
+verse_id_format:
+segments: 4
+segmentation_source: "openpecha-v2 segmentation annotation pQnTyH38KLJWRhgh4eKJl — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,12 +28,12 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# Tiratana Vandanā ^0
+# Tiratana Vandanā
 
-Tiratana Vandanā ^1
+Tiratana Vandanā
 
-Iti pi so Bhagavā arahaṃ sammā‧sambuddho vijjā‧caraṇa‧sampanno sugato lokavidū anuttaro purisa‧damma‧sārathi satthā deva‧manussānaṃ buddho bhagavā’ti. ^2
+Iti pi so Bhagavā arahaṃ sammā‧sambuddho vijjā‧caraṇa‧sampanno sugato lokavidū anuttaro purisa‧damma‧sārathi satthā deva‧manussānaṃ buddho bhagavā’ti.
 
-Svākkhāto Bhagavatā Dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhīti. ^3
+Svākkhāto Bhagavatā Dhammo sandiṭṭhiko akāliko ehipassiko opanayiko paccattaṃ veditabbo viññūhīti.
 
-Supaṭipanno Bhagavato sāvaka‧saṅgho, uju‧paṭipanno Bhagavato sāvaka‧ saṅgho, ñāya‧paṭipanno Bhagavato sāvaka‧saṅgho, sāmīci‧paṭipanno Bhagavato sāvaka‧saṅgho, yadidaṃ cattāri purisa‧yugāni aṭṭha purisa‧ puggalā. Esa Bhagavato sāvaka‧saṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti. ^4
+Supaṭipanno Bhagavato sāvaka‧saṅgho, uju‧paṭipanno Bhagavato sāvaka‧ saṅgho, ñāya‧paṭipanno Bhagavato sāvaka‧saṅgho, sāmīci‧paṭipanno Bhagavato sāvaka‧saṅgho, yadidaṃ cattāri purisa‧yugāni aṭṭha purisa‧ puggalā. Esa Bhagavato sāvaka‧saṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṃ puññakkhettaṃ lokassā’ti.

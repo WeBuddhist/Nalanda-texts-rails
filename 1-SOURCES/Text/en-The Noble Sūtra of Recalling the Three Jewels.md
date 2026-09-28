@@ -6,9 +6,9 @@ language: English
 script: Latin
 file_type: root-text
 lang_tag: en
-total_verses: 80
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation Wz9Q39HzxY6fabn3LAkWR — one block per segment, in span order"
+verse_id_format:
+segments: 80
+segmentation_source: "openpecha-v2 segmentation annotation Wz9Q39HzxY6fabn3LAkWR — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -24,168 +24,169 @@ openpecha_v2_language: en
 openpecha_v2_category_id: rw8oWUd1WtwqeD2x0ZMSm
 openpecha_v2_date: "2026-05-05"
 openpecha_v2_annotations:
+  - "search_segmentation: dCd7kHnxZuaOBRWkAMI4q"
   - "segmentation: Wz9Q39HzxY6fabn3LAkWR"
 status: ingested
 ---
 
-# The Noble Sūtra of Recalling the Three Jewels ^0
+# The Noble Sūtra of Recalling the Three Jewels
 
-The Noble Sūtra of Recalling the Three Jewels ^1
+The Noble Sūtra of Recalling the Three Jewels
 
-from the Words of the Buddha ^2
+from the Words of the Buddha
 
-In the language of India: ārya ratnatrayānusmṛti sūtra ^3
+In the language of India: ārya ratnatrayānusmṛti sūtra
 
-In the Tibetan language: 'phags pa dkon mchog gsum rjes su dran pa'i mdo ^4
+In the Tibetan language: 'phags pa dkon mchog gsum rjes su dran pa'i mdo
 
-Homage to the omniscient one! ^5
+Homage to the omniscient one!
 
-Thus the Buddha, the transcendent, accomplished conqueror, the tathāgata who has attained suchness, the arhat who has conquered all foes, is a perfectly and completely enlightened buddha, endowed with insight and worthy of reverence, ^6
+Thus the Buddha, the transcendent, accomplished conqueror, the tathāgata who has attained suchness, the arhat who has conquered all foes, is a perfectly and completely enlightened buddha, endowed with insight and worthy of reverence,
 
-The sugata who has reached the state of bliss, ^7
+The sugata who has reached the state of bliss,
 
-The knower of the entire world, ^8
+The knower of the entire world,
 
-The guide and tamer of beings, ^9
+The guide and tamer of beings,
 
-The unsurpassable one, ^10
+The unsurpassable one,
 
-The teacher of gods and humans, ^11
+The teacher of gods and humans,
 
-The Buddha Bhagavat. ^12
+The Buddha Bhagavat.
 
-The tathāgata is in harmony with all merit. ^13
+The tathāgata is in harmony with all merit.
 
-He does not waste the sources of virtue. ^14
+He does not waste the sources of virtue.
 
-He is fully adorned with patience. ^15
+He is fully adorned with patience.
 
-He is the foundation of the treasures of merit. ^16
+He is the foundation of the treasures of merit.
 
-He is ornamented with the excellent minor marks. ^17
+He is ornamented with the excellent minor marks.
 
-He is the full blossoming of the major marks. ^18
+He is the full blossoming of the major marks.
 
-His activity is timely and fitting. ^19
+His activity is timely and fitting.
 
-Seeing him, there is nothing displeasing. ^20
+Seeing him, there is nothing displeasing.
 
-He brings true joy to those who have faith. ^21
+He brings true joy to those who have faith.
 
-His insight overwhelms all in its splendour. ^22
+His insight overwhelms all in its splendour.
 
-His powers are invincible. ^23
+His powers are invincible.
 
-He is the teacher of all sentient beings. ^24
+He is the teacher of all sentient beings.
 
-He is the father of all bodhisattvas. ^25
+He is the father of all bodhisattvas.
 
-He is the sovereign of all the noble ones. ^26
+He is the sovereign of all the noble ones.
 
-He is the guide who leads beings to the city of nirvāṇa. ^27
+He is the guide who leads beings to the city of nirvāṇa.
 
-He has measureless wisdom. ^28
+He has measureless wisdom.
 
-He possesses inconceivable fearlessness. ^29
+He possesses inconceivable fearlessness.
 
-His speech is utterly pure. ^30
+His speech is utterly pure.
 
-Its tones are melodious. ^31
+Its tones are melodious.
 
-One can never have enough of looking at him. ^32
+One can never have enough of looking at him.
 
-His form is without comparison. ^33
+His form is without comparison.
 
-He is unsullied by the realm of desire. ^34
+He is unsullied by the realm of desire.
 
-He is quite unsullied by the realm of form. ^35
+He is quite unsullied by the realm of form.
 
-He is not caught up in the formless realm. ^36
+He is not caught up in the formless realm.
 
-He is completely liberated from suffering. ^37
+He is completely liberated from suffering.
 
-He is totally liberated from the aggregates. ^38
+He is totally liberated from the aggregates.
 
-He is not possessed with the constituents of ordinary experience. ^39
+He is not possessed with the constituents of ordinary experience.
 
-He is in control of the sense fields. ^40
+He is in control of the sense fields.
 
-He has cut right through the knots. ^41
+He has cut right through the knots.
 
-He is completely liberated from torment. ^42
+He is completely liberated from torment.
 
-He is freed from craving. ^43
+He is freed from craving.
 
-He has crossed over the river. ^44
+He has crossed over the river.
 
-He is perfected in all the wisdoms. ^45
+He is perfected in all the wisdoms.
 
-He abides in the wisdom of all the buddhas of past, present and future. ^46
+He abides in the wisdom of all the buddhas of past, present and future.
 
-He does not dwell in nirvana. ^47
+He does not dwell in nirvana.
 
-He abides in perfect finality. ^48
+He abides in perfect finality.
 
-He remains on the level where he sees all sentient beings. ^49
+He remains on the level where he sees all sentient beings.
 
-All these are the authentic and supreme qualities of the embodiment of the Buddha. ^50
+All these are the authentic and supreme qualities of the embodiment of the Buddha.
 
-The sacred Dharma is good at the beginning, good in the middle and good at the end. ^51
+The sacred Dharma is good at the beginning, good in the middle and good at the end.
 
-It is excellent in meaning, ^52
+It is excellent in meaning,
 
-Excellent in words and syllables. ^53
+Excellent in words and syllables.
 
-It is distinctive. ^54
+It is distinctive.
 
-It is totally complete. ^55
+It is totally complete.
 
-It is utterly pure. ^56
+It is utterly pure.
 
-It completely purifies. ^57
+It completely purifies.
 
-The Buddha teaches the Dharma perfectly. ^58
+The Buddha teaches the Dharma perfectly.
 
-It brings unerring vision. ^59
+It brings unerring vision.
 
-It is without affliction. ^60
+It is without affliction.
 
-It is constant and always timely. ^61
+It is constant and always timely.
 
-It is trustworthy when applied. ^62
+It is trustworthy when applied.
 
-Seeing it fulfils one’s purpose. ^63
+Seeing it fulfils one’s purpose.
 
-The wise can validate it through their own awareness. ^64
+The wise can validate it through their own awareness.
 
-The Dharma taught by the buddha relies entirely on training the mind. ^65
+The Dharma taught by the buddha relies entirely on training the mind.
 
-It is truly delivering. ^66
+It is truly delivering.
 
-It causes one to arrive at perfect enlightenment. ^67
+It causes one to arrive at perfect enlightenment.
 
-It is without contradiction. It is all-embracing. ^68
+It is without contradiction. It is all-embracing.
 
-It is constant. ^69
+It is constant.
 
-It is the cessation of all uncertainty. ^70
+It is the cessation of all uncertainty.
 
-As for the Sangha of the Great vehicle, they enter thoroughly. ^71
+As for the Sangha of the Great vehicle, they enter thoroughly.
 
-They enter with awareness. ^72
+They enter with awareness.
 
-They enter straightforwardly. ^73
+They enter straightforwardly.
 
-They enter harmoniously. ^74
+They enter harmoniously.
 
-They are worthy of veneration with palms joined together. ^75
+They are worthy of veneration with palms joined together.
 
-They are worthy of receiving prostrations. ^76
+They are worthy of receiving prostrations.
 
-They are a glorious field of merit. ^77
+They are a glorious field of merit.
 
-Offering to them brings great purification. ^78
+Offering to them brings great purification.
 
-They are an object of generosity. ^79
+They are an object of generosity.
 
-They are in every way the greatest object of generosity. ^80
+They are in every way the greatest object of generosity.

@@ -7,7 +7,7 @@ A script that belongs to exactly one skill lives in that skill's own `scripts/` 
 | Script | What it does |
 | ------ | ------------ |
 | `install-skills.py` | Installs skills from the shared skill library into `4-SYSTEM/Skills/`, resolving the library's logical location names to this vault's paths and writing the `.claude/commands/` stubs. See [`../How-to guides/Sync with rails-template.md`](../How-to%20guides/Sync%20with%20rails-template.md). |
-| `openpecha-api-download.py` | Downloads every original text (types `root`, `translation_source`, `none`) from the old OpenPecha backend API v2 into `0-INBOX/raw-data/openpecha-api/`: one folder per text, one verbatim JSON file per API response (text, instances, content, segmentation and other annotations). Resumable. Convert the result with `json-to-source-text`'s `openpecha_api_v2.py` converter. |
+| `openpecha-api-download.py` | Downloads every original text (types `root`, `translation_source`, `none`) from the old OpenPecha backend API v2 into `0-INBOX/raw-data/openpecha-api/`: one folder per text, one verbatim JSON file per API response (text, instances, content, and every annotation the instance lists — segmentation, search segmentation, durchen, bibliography, …). Resumable; the manifest keeps the first run's dates and a history of later runs. Convert the result with `json-to-source-text`'s `openpecha_api_v2.py` converter. |
 
 ## Conventions
 

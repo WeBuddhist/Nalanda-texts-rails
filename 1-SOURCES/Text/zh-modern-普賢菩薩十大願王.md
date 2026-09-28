@@ -6,9 +6,9 @@ language: Modern Chinese
 script: Unicode Chinese
 file_type: root-text
 lang_tag: zh-modern
-total_verses: 11
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation V2uaNFds2gtai1FX9otv5 — one block per segment, in span order"
+verse_id_format:
+segments: 11
+segmentation_source: "openpecha-v2 segmentation annotation V2uaNFds2gtai1FX9otv5 — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -28,26 +28,26 @@ openpecha_v2_annotations:
 status: ingested
 ---
 
-# 普賢菩薩十大願王 ^0
+# 普賢菩薩十大願王
 
-普賢菩薩十大願王 ^1
+普賢菩薩十大願王
 
-一者 禮敬諸佛， ^2
+一者 禮敬諸佛，
 
-二者 稱讚如來， ^3
+二者 稱讚如來，
 
-三者 廣修供養， ^4
+三者 廣修供養，
 
-四者 懺悔業障， ^5
+四者 懺悔業障，
 
-五者 隨喜功德， ^6
+五者 隨喜功德，
 
-六者 請轉法輪， ^7
+六者 請轉法輪，
 
-七者 請佛住世， ^8
+七者 請佛住世，
 
-八者 常隨佛學， ^9
+八者 常隨佛學，
 
-九者 恆順眾生， ^10
+九者 恆順眾生，
 
-十者 普皆迴向。 ^11
+十者 普皆迴向。

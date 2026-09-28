@@ -6,9 +6,9 @@ language: Sanskrit
 script: IAST
 file_type: root-text
 lang_tag: sk-iast
-total_verses: 1
-verse_id_format: verse
-segmentation_source: "openpecha-v2 segmentation annotation I508bXsQpjk8HE3Dfwjr0 — one block per segment, in span order"
+verse_id_format:
+segments: 1
+segmentation_source: "openpecha-v2 segmentation annotation I508bXsQpjk8HE3Dfwjr0 — one paragraph per segment, in span order"
 edition_type: critical
 license: unknown
 copyright: Unknown
@@ -24,10 +24,11 @@ openpecha_v2_language: sa
 openpecha_v2_category_id: mvZP5HaJpjBNLRmKIDMjK
 openpecha_v2_date: "2026-02-10"
 openpecha_v2_annotations:
+  - "search_segmentation: SHBrwTWZUy0y1nLvuHG7Y"
   - "segmentation: I508bXsQpjk8HE3Dfwjr0"
 status: ingested
 ---
 
-# Mañjuśrīhṛdayamantraḥ ^0
+# Mañjuśrīhṛdayamantraḥ
 
-Om vāgīśvari mum ^1
+Om vāgīśvari mum
