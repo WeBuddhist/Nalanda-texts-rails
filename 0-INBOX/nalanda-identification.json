@@ -938,20 +938,6 @@
   "metadata_issues": "Contribution pairs ཀ་མ་ལ་ཤཱི་ལ with Sanskrit 'Jayasena' (wrong name)."
  },
  {
-  "text_id": "KFtOUYAC7GyBwDSMcvbQ4",
-  "work_en": "Commentary on Distinguishing Phenomena and Their Nature",
-  "work_skt": "Dharmadharmatāvibhaṅgavṛtti",
-  "author_attributed": "Vasubandhu",
-  "author_evidence": "metadata, colophon ^346",
-  "origin": "indic",
-  "genre": "commentary",
-  "nalanda_17": "yes",
-  "nalanda_master": "Vasubandhu",
-  "confidence": "high",
-  "notes": "Commentary on Maitreya's Dharmadharmatāvibhāga; translated by Mahājana and Ngok Loden Sherab (^347).",
-  "metadata_issues": ""
- },
- {
   "text_id": "v7W5y2MF8OVzo78IH8br4",
   "work_en": "Sūtra Distinguishing Dharma and Meaning",
   "work_skt": "Āryadharmārthavibhaṅganāmamahāyānasūtra",
@@ -978,34 +964,6 @@
   "confidence": "high",
   "notes": "Translated by Jinamitra, Śīlendrabodhi and Yeshe De (^2894).",
   "metadata_issues": ""
- },
- {
-  "text_id": "3JVGNgnNUaiuCpWDEqWKP",
-  "work_en": "Treasury of Abhidharma (root verses)",
-  "work_skt": "Abhidharmakośakārikā",
-  "author_attributed": "Vasubandhu",
-  "author_evidence": "colophon ^2411",
-  "origin": "indic",
-  "genre": "treatise",
-  "nalanda_17": "yes",
-  "nalanda_master": "Vasubandhu",
-  "confidence": "high",
-  "notes": "Translated by Jinamitra and Paltsek (^2412).",
-  "metadata_issues": "No contribution recorded; duplicate of SuEjB3HRx4X1FM5fgBOsQ (same text, BDRC WA0RT3427)."
- },
- {
-  "text_id": "SuEjB3HRx4X1FM5fgBOsQ",
-  "work_en": "Treasury of Abhidharma (root verses)",
-  "work_skt": "Abhidharmakośakārikā",
-  "author_attributed": "Vasubandhu",
-  "author_evidence": "metadata, colophon ^2411",
-  "origin": "indic",
-  "genre": "treatise",
-  "nalanda_17": "yes",
-  "nalanda_master": "Vasubandhu",
-  "confidence": "high",
-  "notes": "Translated by Jinamitra and Paltsek (^2412).",
-  "metadata_issues": "Duplicate of 3JVGNgnNUaiuCpWDEqWKP (same text, BDRC WA1KG3400)."
  },
  {
   "text_id": "3o75F93GEt9PmWcbvFaqr",
@@ -1440,20 +1398,6 @@
   "confidence": "high",
   "notes": "Ratnagotravibhāga root verses; translated by Sajjana and rNgog Blo ldan shes rab in Kashmir.",
   "metadata_issues": "No author in metadata; colophon ^1652 names Maitreya."
- },
- {
-  "text_id": "A9C7VqTRslvAmtUApV7hl",
-  "work_en": "Commentary on the Sublime Continuum of the Great Vehicle",
-  "work_skt": "Mahāyānottaratantraśāstravyākhyā",
-  "author_attributed": "Asaṅga",
-  "author_evidence": "colophon ^1478, title ^1, metadata",
-  "origin": "indic",
-  "genre": "commentary",
-  "nalanda_17": "yes",
-  "nalanda_master": "Asaṅga",
-  "confidence": "high",
-  "notes": "Ratnagotravibhāgavyākhyā on Maitreya's Uttaratantra; translated by Sajjana and rNgog Blo ldan shes rab.",
-  "metadata_issues": ""
  },
  {
   "text_id": "5iuVGHNVLXLSbP3NQXQST",
@@ -2310,34 +2254,6 @@
   "metadata_issues": ""
  },
  {
-  "text_id": "GK2A903wttoFBI5pgeZV1",
-  "work_en": "Entering the Middle Way (root verses)",
-  "work_skt": "Madhyamakāvatāra-nāma",
-  "author_attributed": "Candrakīrti",
-  "author_evidence": "colophon ^1336, title ^2",
-  "origin": "indic",
-  "genre": "treatise",
-  "nalanda_17": "yes",
-  "nalanda_master": "Candrakīrti",
-  "confidence": "high",
-  "notes": "Translated by Tilaka and Pa tshab Nyi ma grags; revised with Kanakavarman.",
-  "metadata_issues": "No author in metadata; colophon ^1336 names Candrakīrti."
- },
- {
-  "text_id": "qlqFtMgkItJUf2XSFoYcI",
-  "work_en": "Autocommentary on Entering the Middle Way",
-  "work_skt": "Madhyamakāvatārabhāṣya-nāma",
-  "author_attributed": "Candrakīrti",
-  "author_evidence": "title ^1, metadata",
-  "origin": "indic",
-  "genre": "commentary",
-  "nalanda_17": "yes",
-  "nalanda_master": "Candrakīrti",
-  "confidence": "high",
-  "notes": "Translated by Tilakakalaśa and Pa tshab Nyi ma grags.",
-  "metadata_issues": ""
- },
- {
   "text_id": "pu6qfg6lfTYd3rWvTajo9",
   "work_en": "Entering the Wisdom of the Middle Way",
   "work_skt": "Madhyamakāvatāraprajñā-nāma",
@@ -2504,20 +2420,6 @@
   "confidence": "high",
   "notes": "One of Maitreya's five treatises; translated by Jinamitra, Śīlendrabodhi and Ye shes sde.",
   "metadata_issues": "No author in metadata. Category 'Perfection of Wisdom' is wrong for this Yogācāra treatise."
- },
- {
-  "text_id": "d8PC0Ptfnqwf4ZJKwDax4",
-  "work_en": "Distinguishing the Middle from the Extremes (root verses)",
-  "work_skt": "Madhyāntavibhāgakārikā",
-  "author_attributed": "Maitreya",
-  "author_evidence": "colophon ^123, title ^2",
-  "origin": "indic",
-  "genre": "treatise",
-  "nalanda_17": "maitreya",
-  "nalanda_master": "Maitreya",
-  "confidence": "high",
-  "notes": "The content is Maitreya's root kārikās, duplicating UYiamoR5J15qcvSzydWEV, not Vasubandhu's commentary.",
-  "metadata_issues": "Title and author say 'Commentary' by Vasubandhu, but the text is Maitreya's root verses (^1–^2, colophon ^123). The file needs relabelling, or Vasubandhu's bhāṣya is missing."
  },
  {
   "text_id": "imwQ0A9qcC4yk3JxayItL",
@@ -4690,20 +4592,6 @@
   "metadata_issues": "Upstream title misspells བཏུས as བདུས."
  },
  {
-  "text_id": "LE7rnhbWugyjKCKWMxMdq",
-  "work_en": "Explanation of the Ornament of Mahāyāna Sūtras",
-  "work_skt": "Sūtrālaṃkāravyākhyā",
-  "author_attributed": "Vasubandhu",
-  "author_evidence": "metadata, knowledge",
-  "origin": "indic",
-  "genre": "commentary",
-  "nalanda_17": "yes",
-  "nalanda_master": "Vasubandhu",
-  "confidence": "high",
-  "notes": "Vasubandhu's bhāṣya on Maitreya's Mahāyānasūtrālaṃkāra. Colophon names only translators Śākyasiṃha and dPal brtsegs.",
-  "metadata_issues": ""
- },
- {
   "text_id": "s0jhyvPC3yDQfx81XKipw",
   "work_en": "Instruction Compiling the Meaning of All Sūtras",
   "work_skt": "Sūtrārthasamuccayopadeśa",
@@ -4912,20 +4800,6 @@
   "confidence": "high",
   "notes": "Dharmakīrti's root verses. Translator colophon names Blo ldan shes rab and a later Śākyaśrībhadra revision.",
   "metadata_issues": "Contributions list only rMa dGe ba'i blo gros; colophon ^5865 names Blo ldan shes rab, Skal ldan rgyal po and a Śākyaśrībhadra revision."
- },
- {
-  "text_id": "oPcWTAohOo3L8xk5TMSPo",
-  "work_en": "Autocommentary on the Pramāṇavārttika (chapter 1)",
-  "work_skt": "Pramāṇavārttikavṛtti",
-  "author_attributed": "Dharmakīrti",
-  "author_evidence": "colophon ^3420, metadata",
-  "origin": "indic",
-  "genre": "commentary",
-  "nalanda_17": "yes",
-  "nalanda_master": "Dharmakīrti",
-  "confidence": "high",
-  "notes": "Dharmakīrti's svavṛtti on the first chapter of the Pramāṇavārttika.",
-  "metadata_issues": "Sanskrit line is garbled ('pramāṇāvatāratika vṛtti'). Translator is not recorded."
  },
  {
   "text_id": "aItTdzPEPszxDkieKP520",
@@ -5444,20 +5318,6 @@
   "confidence": "high",
   "notes": "Tsongkhapa's verse summary establishing the prātimokṣa vows.",
   "metadata_issues": "No author or BDRC work ID in metadata; colophon ^111 names Tsongkhapa."
- },
- {
-  "text_id": "vPmTubUjrqvnHBtB6q3Nv",
-  "work_en": "Vinaya Sūtra",
-  "work_skt": "Vinayasūtra",
-  "author_attributed": "Guṇaprabha",
-  "author_evidence": "metadata, knowledge",
-  "origin": "indic",
-  "genre": "treatise",
-  "nalanda_17": "yes",
-  "nalanda_master": "Guṇaprabha",
-  "confidence": "high",
-  "notes": "Guṇaprabha's root digest of the Mūlasarvāstivāda Vinaya; tr. Cog ro Klu'i rgyal mtshan. Colophon names no author.",
-  "metadata_issues": ""
  },
  {
   "text_id": "5Qae83A4ydsEE1iOKThh0",
@@ -6717,20 +6577,6 @@
   "nalanda_master": "",
   "confidence": "high",
   "notes": "Praise of Longchenpa.",
-  "metadata_issues": ""
- },
- {
-  "text_id": "uN6DbrJPaApfPK3sH7Sat",
-  "work_en": "Commentary on Valid Cognition (verses)",
-  "work_skt": "Pramāṇavārttikakārikā",
-  "author_attributed": "Dharmakīrti",
-  "author_evidence": "metadata, knowledge",
-  "origin": "indic",
-  "genre": "treatise",
-  "nalanda_17": "yes",
-  "nalanda_master": "Dharmakīrti",
-  "confidence": "high",
-  "notes": "Root verses; translated by Skal ldan rgyal po & rNgog Blo ldan shes rab, revised by Śākyaśrībhadra & Sakya Paṇḍita.",
   "metadata_issues": ""
  },
  {
@@ -8047,20 +7893,6 @@
   "nalanda_master": "Atiśa",
   "confidence": "high",
   "notes": "Atiśa's verse summary of the Prajñāpāramitā; translated by the author with Tshul khrims rgyal ba (Nag tsho).",
-  "metadata_issues": ""
- },
- {
-  "text_id": "sRlnSYAkvUdiaZODaGTmH",
-  "work_en": "Commentary on the Ornament for Clear Realization (Sphuṭārthā)",
-  "work_skt": "Abhisamayālaṃkāranāmaprajñāpāramitopadeśaśāstravṛtti",
-  "author_attributed": "Haribhadra",
-  "author_evidence": "metadata, colophon ^1125",
-  "origin": "indic",
-  "genre": "commentary",
-  "nalanda_17": "yes",
-  "nalanda_master": "Haribhadra",
-  "confidence": "high",
-  "notes": "Haribhadra's short commentary (Vivṛti/Sphuṭārthā) on the Abhisamayālaṃkāra; tr. Vidyākaraprabha and Dpal brtsegs, revised by Blo ldan shes rab.",
   "metadata_issues": ""
  },
  {
