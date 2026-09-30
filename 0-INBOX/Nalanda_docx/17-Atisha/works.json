@@ -1,0 +1,965 @@
+{
+  "pandita": "17-Atisha",
+  "works": [
+    {
+      "work_title": "༄༅། །མདོ་ཀུན་ལས་བཏུས་པ་ཆེན་པོ།",
+      "work_url": "https://wb.pub/3CHK",
+      "filename": "At_3CHK.md",
+      "source_docx": "Book No 100) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ག༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག།",
+      "work_url": "https://wb.pub/3CHL",
+      "filename": "At_3CHL.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྲུང་བའི་འཁོར་ལོ་སྒྲུབ་པའི་ཐབས།",
+      "work_url": "https://wb.pub/3CHM",
+      "filename": "At_3CHM.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ལྷ་མོ་བརྒྱད་ཀྱི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བ།",
+      "work_url": "https://wb.pub/3CHN",
+      "filename": "At_3CHN.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བདུད་རྩི་ཐབ་སྦྱོར་ཞེས་བྱ་བ་ཁྲོ་བོ་བཞིའི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བའི་ཆོ་ག་ཟབ་མོ།",
+      "work_url": "https://wb.pub/3CHO",
+      "filename": "At_3CHO.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྒྱུ་སྐར་ཉི་ཤུ་རྩ་བརྒྱད་ཀྱི་དབང་བསྐུར་བའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་རྡོ་རྗེ་གོ་ཆ་མ།",
+      "work_url": "https://wb.pub/3CHP",
+      "filename": "At_3CHP.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ལྷ་ཆེན་པོ་བརྒྱད་ཀྱི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བ་ལེགས་པའི་ལམ་སྟོན་པར་བྱེད་པ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHQ",
+      "filename": "At_3CHQ.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཕགས་པ་རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་རབ་ཏུ་གནས་པའི་ཆོ་ག",
+      "work_url": "https://wb.pub/3CHR",
+      "filename": "At_3CHR.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བསྒྲུབ་བྱ་གཟའི་བྱེད་དུ་གཞུག་པའི་འཁོར་ལོ་ཅན་དཔལ།",
+      "work_url": "https://wb.pub/3CHS",
+      "filename": "At_3CHS.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཐེ་ཚོམ་མེད་པར་འགྲུབ་པ་ལས་བསྒྲུབ་བྱ་ཐོག་གིས་བསད་པའི་ཆོ་ག་དྲག་ཤུལ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHT",
+      "filename": "At_3CHT.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བསྒྲུབ་བྱ་སྐྲག་པའི་ལས་ཆུ་ཐིགས།",
+      "work_url": "https://wb.pub/3CHU",
+      "filename": "At_3CHU.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འགལ་བ་སྐྲག་པར་བྱེད་པའི་ལས་སྣ་ཚོགས་པའི་ཆོ་ག་འགལ་བ་མེའི་འཁོར་ལོ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHV",
+      "filename": "At_3CHV.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཀླུའི་ལས་ཆར་དབབ་པ་བདུད་རྩིའི་རྒྱུན་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHW",
+      "filename": "At_3CHW.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཀླུ་རྣམས་མཉེས་པར་བྱེད་པའི་ཆུ་ལ་བརྟེན་པའི་གཏོར་མ་བདུད་རྩིའི་རྒྱ་མཚོ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHX",
+      "filename": "At_3CHX.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སེམས་ཅན་བསྲུང་བའི་ལས་སྤྲིན་དྲལ་བའི་འབྱུང་བ་གཅོད་བྱེད་ཅེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHY",
+      "filename": "At_3CHY.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བསྒྲུབ་བྱ་ཀླུ་རྣམས་ཀྱི་བྱད་དུ་གཞུག་པའི་ཆོ་ག་སྲོག་གཅོད་ཀྱི་སྤུ་གྲི་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHZ",
+      "filename": "At_3CHZ.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཇིག་རྟེན་གྱི་ལྷ་མཉེས་པར་བྱེད་པ་དོན་གྲུབ་པ།",
+      "work_url": "https://wb.pub/3CHa",
+      "filename": "At_3CHa_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཚོགས་བདག་གི་སྒྲུབ་པ་དབུལ་བའི་གཏེར་སྦྱིན་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHb",
+      "filename": "At_3CHb_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཟའ་ངན་པ་བཟློག་པའི་ཆོ་ག་རྒྱ་མཚོ་སྤྲིན་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHc",
+      "filename": "At_3CHc_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཟའི་གདོན་ལས་གྲོལ་བར་བྱེད་པའི་ཆོ་ག་རིན་པོ་ཆེ་གྲོལ་བྱེད་ཅེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHd",
+      "filename": "At_3CHd_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཟའ་བརྒྱད་ཀྱི་ལས་མ་གྲུབ་པ་རྣམས་གྲུབ་པར་བྱེད་པའི་ཆོ་ག་འདོད་པ་རབ་ཏུ་ཞི་བ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHe",
+      "filename": "At_3CHe_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྒྱུ་སྐར་ངན་པ་ཟློག་པར་བྱེད་པའི་ཆོ་ག །",
+      "work_url": "https://wb.pub/3CHf",
+      "filename": "At_3CHf_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྒྱུ་སྐར་རྣམས་ཀྱི་ལས་སྣ་ཚོགས་པ་སྒྲུབ་པར་བྱེད་པ་དུས་འཛིན་བཟང་པོ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHg",
+      "filename": "At_3CHg_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཀླུ་ཆེན་པོ་བརྒྱད་མཆོད་པས་མི་བཟད་པའི་ནད་ཡམས་དྲག་པོ་ལས་ཐར་བར་བྱེད་པ།",
+      "work_url": "https://wb.pub/3CHh",
+      "filename": "At_3CHh_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཀླུ་སྒྲུབ་རིན་པོ་ཆེ་དབྱིག་སྒྲུབ་ཅེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHi",
+      "filename": "At_3CHi_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཀླུའི་གདོན་ལས་གྲོལ་བར་བྱེད་པ་སྦྲུལ་འཛིན་བསང་བ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHj",
+      "filename": "At_3CHj_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྒྲ་ལ་གནས་པའི་བསམ་གཏན་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CHk",
+      "filename": "At_3CHk_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྒྲ་ལ་མི་གནས་པའི་བསམ་གཏན་ཞེས་བྱ་བ་རྣལ་འབྱོར་པའི་འཁོར་རྐྱེན་དྲུངས་ནས་འདོན་པ།",
+      "work_url": "https://wb.pub/3CHl",
+      "filename": "At_3CHl_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྒྲ་མཐར་གྱིས་རྣལ་འབྱོར་པའི་ལུས་སེམས་ཀྱི་འབྲེལ་བ་གཅད་པ།",
+      "work_url": "https://wb.pub/3CHm",
+      "filename": "At_3CHm_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཕགས་མ་ལྷ་མོ་སྒྲོལ་མ་བསྒོམ་པའི་ཆོ་ག་རྒྱས་པ།",
+      "work_url": "https://wb.pub/3CHn",
+      "filename": "At_3CHn_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཤིན་རྗེ་གཤེད་ནག་པོའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CHo",
+      "filename": "At_3CHo_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཤིན་རྗེ་གཤེད་རྣམ་པར་སྣང་མཛད་ཀྱི་མངོན་པར་རྟོགས་པ།",
+      "work_url": "https://wb.pub/3CHp",
+      "filename": "At_3CHp_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཤིན་རྗེ་གཤེད་རིན་ཆེན་འབྱུང་ལྡན་གྱི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CHq",
+      "filename": "At_3CHq_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འོད་དཔག་ཏུ་མེད་པའི་སྙིང་པོ་འདོད་ཆགས་གཤིན་རྗེ་གཤེད་སྒྲུབ་པའི་ཐབས།",
+      "work_url": "https://wb.pub/3CHr",
+      "filename": "At_3CHr_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཤིན་རྗེ་གཤེད་རྡོ་རྗེ་རྣོན་པོ་ཞེས་བྱ་བའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CHs",
+      "filename": "At_3CHs_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྡོ་རྗེ་སེམས་མ་བདེ་བའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CHt",
+      "filename": "At_3CHt_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྡོ་རྗེ་མཁའ་འགྲོ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CHu",
+      "filename": "At_3CHu_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྡོ་རྗེ་བདེ་རྒྱས་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CHv",
+      "filename": "At_3CHv_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཁྲོ་བོ་ཐོ་བ་གཤིན་རྗེ་གཤེད་ཀྱི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CHw",
+      "filename": "At_3CHw_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྩ་བའི་ལྟུང་བའི་རྒྱ་ཆེར་འགྲེལ་པ།",
+      "work_url": "https://wb.pub/3CHx",
+      "filename": "At_3CHx_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ལས་ཀྱི་སྒྲིབ་པ་ཐམས་ཅད་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག།",
+      "work_url": "https://wb.pub/3CHy",
+      "filename": "At_3CHy_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཁྲོ་བོ་བརྒྱད་ཀྱི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བ།",
+      "work_url": "https://wb.pub/3CHz",
+      "filename": "At_3CHz_.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔའ་བོ་གཅིག་པའི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བའི་བདུད་རྩི་བུམ་པའི་ཆོ་ག",
+      "work_url": "https://wb.pub/3CI0",
+      "filename": "At_3CI0.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཡབ་ཡུམ་གཉིས་པའི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བ་བདེ་སྦྱིན་དམ་པ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CI1",
+      "filename": "At_3CI1.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྒོ་མ་བཞིའི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བའི་ཆོ་ག་རིན་པོ་ཆེ་དྲི་མ་མེད་པ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CI2",
+      "filename": "At_3CI2.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྒྱལ་པོ་ཆེན་པོ་བཞིའི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བ།",
+      "work_url": "https://wb.pub/3CI3",
+      "filename": "At_3CI3.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཕྱོགས་སྐྱོང་བ་བཅུའི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བའི་ཆོ་ག",
+      "work_url": "https://wb.pub/3CI4",
+      "filename": "At_3CI4.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཟའ་ཆེན་པོ་བརྒྱད་ཀྱི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བའི་ཆོ་ག་ཉི་མ་བཅུད་ལེན་བྱ་བ།",
+      "work_url": "https://wb.pub/3CI5",
+      "filename": "At_3CI5.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཀླུ་བརྒྱད་ཀྱི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བ་དུག་ལས་རྒྱལ་བ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CI6",
+      "filename": "At_3CI6.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྔ་མ་དང་ད་ལྟར་དང་ཕྱི་མའི་སྡིག་པ་མ་ལུས་པ་ལས་ཐར་བར་བྱེད་པ་འཕགས་པ་རྡོ་རྗེ་རྣམ་པར་འཇོམས་པའི་ཁྲུས་ཀྱི་ཆོ་ག །",
+      "work_url": "https://wb.pub/3CI7",
+      "filename": "At_3CI7.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཤི་བའི་སེམས་ཅན་སྡིག་པ་ལས་ཐར་བར་བྱེད་པའི་རོ་སྲེག་པའི་ཆོ་ག་དུག་སྦྱངས་གསལ་བའི་མེ་ལོང་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CI8",
+      "filename": "At_3CI8.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །མཆོད་རྟེན་གདབ་པ་ཤི་བའི་སྡིག་པ་བྱང་བར་བྱེད་པ་རང་བྱུང་འཇིགས་བྲལ་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CI9",
+      "filename": "At_3CI9.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཀླུའི་གདོན་ལས་ཐར་བར་བྱེད་པའི་ལས་ཀླུའི་སྲོག་མེ་དབལ་གྱི་འཁོར་ལོ་ཞེས་བྱ་བ། ཀླུའི་རྣམ་པར་འཇོམས་པའི་སྙིང་གཟེར་དུ་བཀོད་པ།",
+      "work_url": "https://wb.pub/3CIA",
+      "filename": "At_3CIA.md",
+      "source_docx": "Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དགྱེས་པ་རྡོ་རྗེའི་སྒྲུབ་ཐབས་རིན་པོ་ཆེའི་སྒྲོན་མ།",
+      "work_url": "https://wb.pub/3CFb",
+      "filename": "At_3CFb_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཏོར་མའི་ཆོ་ག།",
+      "work_url": "https://wb.pub/3CFc",
+      "filename": "At_3CFc_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །མངོན་པར་རྟོགས་པ་རྣམ་པར་འབྱེད་པ།",
+      "work_url": "https://wb.pub/3CFd",
+      "filename": "At_3CFd_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་འཁོར་ལོ་སྡོམ་པའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CFe",
+      "filename": "At_3CFe_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་བཅོམ་ལྡན་འདས་ཀྱི་མངོན་པར་རྟོགས་པ།",
+      "work_url": "https://wb.pub/3CFf",
+      "filename": "At_3CFf_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔའ་བོ་གཅིག་པའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CFg",
+      "filename": "At_3CFg_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྡོ་རྗེ་གདན་གྱི་རྡོ་རྗེའི་གླུ།",
+      "work_url": "https://wb.pub/3CFh",
+      "filename": "At_3CFh_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྡོ་རྗེ་གདན་གྱི་རྡོ་རྗེའི་གླུའི་འགྲེལ་པ།",
+      "work_url": "https://wb.pub/3CFi",
+      "filename": "At_3CFi_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྤྱོད་པའི་གླུ།",
+      "work_url": "https://wb.pub/3CFj",
+      "filename": "At_3CFj_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྤྱོད་པའི་གླུའི་འགྲེལ་པ།",
+      "work_url": "https://wb.pub/3CFk",
+      "filename": "At_3CFk_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྡོ་རྗེ་རྣལ་འབྱོར་མ་ལ་བསྟོད་པ།",
+      "work_url": "https://wb.pub/3CFl",
+      "filename": "At_3CFl_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རིན་པོ་ཆེ་རྒྱན་གྱི་སྒྲུབ་པ།",
+      "work_url": "https://wb.pub/3CFm",
+      "filename": "At_3CFm_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྡོ་རྗེ་ཕག་མོའི་སྒྲུབ་པའི་ཐབས།",
+      "work_url": "https://wb.pub/3CFn",
+      "filename": "At_3CFn_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CFo",
+      "filename": "At_3CFo_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྡོ་རྗེ་རྣལ་འབྱོར་མ་ལ་བསྟོད་པ།",
+      "work_url": "https://wb.pub/3CFp",
+      "filename": "At_3CFp_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ་བཞུགས།",
+      "work_url": "https://wb.pub/3CFq",
+      "filename": "At_3CFq_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བྱང་ཆུབ་ཀྱི་སེམས་བདེ་བའི་མན་ངག།",
+      "work_url": "https://wb.pub/3CFr",
+      "filename": "At_3CFr_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་མགོན་པོའི་གཏོར་མ།",
+      "work_url": "https://wb.pub/3CFs",
+      "filename": "At_3CFs_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་གསང་བ་འདུས་པ་འཇིག་རྟེན་དབང་ཕྱུག་གི་སྒྲུབ་པའི་ཐབས།",
+      "work_url": "https://wb.pub/3CFt",
+      "filename": "At_3CFt_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཕགས་པ་སྤྱན་རས་གཟིགས་འཇིག་རྟེན་དབང་ཕྱུག་སྒྲུབ་པའི་ཐབས།",
+      "work_url": "https://wb.pub/3CFu",
+      "filename": "At_3CFu_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་གསང་བ་འདུས་པའི་བསྟོད་པ།",
+      "work_url": "https://wb.pub/3CFv",
+      "filename": "At_3CFv_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ལས་ཀྱི་རྡོ་རྗེ་གཽ་རཱིའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CFw",
+      "filename": "At_3CFw_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དབྱུག་པ་གཤིན་རྗེ་གཤེད་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CFx",
+      "filename": "At_3CFx_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རལ་གྲི་གཤིན་རྗེ་གཤེད་གཏུམ་པོའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CFy",
+      "filename": "At_3CFy_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །པདྨ་གཤིན་རྗེ་གཤེད་ཤེས་རབ་བདེ་བ་ཅན་གྱི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CFz",
+      "filename": "At_3CFz_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཁོར་བ་ལས་ཡིད་ངེས་པར་འབྱུང་བར་བྱེད་པ་ཞེས་བྱ་བའི་གླུ།",
+      "work_url": "https://wb.pub/3CG0",
+      "filename": "At_3CG0.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཆོས་ཀྱི་དབྱིངས་ལྟ་བའི་གླུ།",
+      "work_url": "https://wb.pub/3CG1",
+      "filename": "At_3CG1.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཱི་པཾ་ཀཱ་ར་ཤྲཱི་ཛྙཱ་ནའི་ཆོས་ཀྱི་གླུ།",
+      "work_url": "https://wb.pub/3CG2",
+      "filename": "At_3CG2.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ།",
+      "work_url": "https://wb.pub/3CG3",
+      "filename": "At_3CG3.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཇིག་རྟེན་ལས་འདས་པའི་ཡན་ལག་བདུན་པའི་ཆོ་ག།",
+      "work_url": "https://wb.pub/3CG4",
+      "filename": "At_3CG4.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྐུ་དང་གསུང་དང་ཐུགས་རབ་ཏུ་གནས་པ།",
+      "work_url": "https://wb.pub/3CG5",
+      "filename": "At_3CG5.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CG6",
+      "filename": "At_3CG6.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄། །མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས་བཞུགས། །",
+      "work_url": "https://wb.pub/3CG7",
+      "filename": "At_3CG7.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྦྱིན་སྲེག་གི་ཆོ་ག།",
+      "work_url": "https://wb.pub/3CG8",
+      "filename": "At_3CG8.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཇམ་པའི་དབྱངས་དཔའ་བོ་གཅིག་ཏུ་གྲུབ་པའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CG9",
+      "filename": "At_3CG9.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་ཕྱག་ན་རྡོ་རྗེ་ལ་བསྟོད་པ།",
+      "work_url": "https://wb.pub/3CGA",
+      "filename": "At_3CGA.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཕགས་པ་རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CGB",
+      "filename": "At_3CGB.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CGC",
+      "filename": "At_3CGC.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཁྲོ་བོ་རྒྱལ་པོ་འཕགས་པ་མི་གཡོ་བ་ལ་བསྟོད་པ།",
+      "work_url": "https://wb.pub/3CGD",
+      "filename": "At_3CGD.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཁྲོ་བོའི་རྒྱལ་པོ་འཕགས་པ་མི་གཡོ་བ་ལ་བསྟོད་པ།",
+      "work_url": "https://wb.pub/3CGE",
+      "filename": "At_3CGE.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་དམ་ཚིག་བསྲུང་བའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CGF",
+      "filename": "At_3CGF.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄། །སཱཙྪ་ལྔ་གདབ་པའི་ཆོ་ག་བཞུགས།",
+      "work_url": "https://wb.pub/3CGG",
+      "filename": "At_3CGG.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅༅། །གཙུག་ཏོར་དྲི་མེད་ཀྱི་གཟུངས་ཆོག་བཞུགས།",
+      "work_url": "https://wb.pub/3CGH",
+      "filename": "At_3CGH.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཙུག་ཏོར་དྲི་མེད་ཀྱི་གཟུངས་ཆོག་བཞུགས།",
+      "work_url": "https://wb.pub/3CGI",
+      "filename": "At_3CGI.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མའི་སྒྲུབས་ཐབས།",
+      "work_url": "https://wb.pub/3CGJ",
+      "filename": "At_3CGJ.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄། །འཇིགས་པ་བརྒྱད་ལས་སྐྱོབ་པ་བཞུགས། །",
+      "work_url": "https://wb.pub/3CGK",
+      "filename": "At_3CGK.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཕགས་མ་ལྷ་མོ་སྒྲོལ་མ་ལ་བསྟོད་པ།",
+      "work_url": "https://wb.pub/3CGL",
+      "filename": "At_3CGL.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཕགས་མ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CGM",
+      "filename": "At_3CGM.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དམ་ཚིག་ཐམས་ཅད་བསྡུས་པ།",
+      "work_url": "https://wb.pub/3CGN",
+      "filename": "At_3CGN.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཕགས་པ་ཚོགས་ཀྱི་བདག་པོ་ཆགས་པ་རྡོ་རྗེའི་དམ་ཚིག་གི་བསྟོད་པ།",
+      "work_url": "https://wb.pub/3CGO",
+      "filename": "At_3CGO.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བདུད་རྩི་འབྱུང་བ་ཞེས་བྱ་བའི་གཏོར་མའི་ཆོ་ག།",
+      "work_url": "https://wb.pub/3CGP",
+      "filename": "At_3CGP.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄། །ཆུ་གཏོར་གྱི་ཆོ་ག་བཞུགས།",
+      "work_url": "https://wb.pub/3CGQ",
+      "filename": "At_3CGQ.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཀླུ་གཏོར་གྱི་ཆོ་ག།",
+      "work_url": "https://wb.pub/3CGR",
+      "filename": "At_3CGR.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཏོར་མ་ཚོགས་མཆོད་ཀྱི་དབུ་ལགས་སོ། །",
+      "work_url": "https://wb.pub/3CGS",
+      "filename": "At_3CGS.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྡོ་རྗེ་རྣལ་འབྱོར་མའི་སྒྲུབ་ཐབས། ༄། མཁའ་སྤྱོད་མ་དཀར་མོ་བཞུགས་སྷོ། །",
+      "work_url": "https://wb.pub/3CGT",
+      "filename": "At_3CGT.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཕགས་པ་ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས། ༄། ཇོ་བོའི་གཞུང་།",
+      "work_url": "https://wb.pub/3CGU",
+      "filename": "At_3CGU.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་ཅན་གྱི་བསྒྲུབ་ཐབས་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CGV",
+      "filename": "At_3CGV.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྔགས་ཀྱི་དོན་འཇུག་པ།",
+      "work_url": "https://wb.pub/3CGW",
+      "filename": "At_3CGW.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དབང་གི་མན་ངག",
+      "work_url": "https://wb.pub/3CGX",
+      "filename": "At_3CGX.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དམ་ཚིག་སྦས་པ།",
+      "work_url": "https://wb.pub/3CGY",
+      "filename": "At_3CGY.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །གཞལ་ཡས་ཁང་སྦྱིན་པ།",
+      "work_url": "https://wb.pub/3CGZ",
+      "filename": "At_3CGZ.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄། །ཆུ་གཏོར་གྱི་ཆོ་ག་བཞུགས།",
+      "work_url": "https://wb.pub/3CGa",
+      "filename": "At_3CGa_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྦྱིན་སྲེག་གི་ཆོ་ག",
+      "work_url": "https://wb.pub/3CGb",
+      "filename": "At_3CGb_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ལྷ་མཆོད་པའི་རིམ་པ།",
+      "work_url": "https://wb.pub/3CGc",
+      "filename": "At_3CGc_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཚེ་བསྒྲུབ་པའི་ཐབས།",
+      "work_url": "https://wb.pub/3CGd",
+      "filename": "At_3CGd_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཆི་བ་སླུ་བ།",
+      "work_url": "https://wb.pub/3CGe",
+      "filename": "At_3CGe_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །འཆི་ཀ་མའི་བསྟན་ཆོས།",
+      "work_url": "https://wb.pub/3CGf",
+      "filename": "At_3CGf_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རོ་བསྲེག་གི་ཆོ་ག་བཞུགས་སོ། །༄། རོ་བསྲེག་གི་ཆོ་ག་བཞུགས་སོ། །",
+      "work_url": "https://wb.pub/3CGg",
+      "filename": "At_3CGg_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བདུན་ཚིགས་ཀྱི་ཆོ་ག",
+      "work_url": "https://wb.pub/3CGh",
+      "filename": "At_3CGh_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཚ་ཚྭའི་ཆོ་ག",
+      "work_url": "https://wb.pub/3CGi",
+      "filename": "At_3CGi_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཁྲོ་བོའི་རྒྱལ་པོ་མི་གཡོ་བ་བསྒྲུབ་པའི་ཐབས།",
+      "work_url": "https://wb.pub/3CGj",
+      "filename": "At_3CGj_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཡེ་ཤེས་མགོན་པོ་གྲི་གུག་ཅན་གྱི་བདག་བསྐྱེད་བཟླས་པ་བསྟོད་པ་རྣམས་བཞུགས།",
+      "work_url": "https://wb.pub/3CGk",
+      "filename": "At_3CGk_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཤིན་ཏུ་མྱུར་བའི་ལྷ་ཆེན་པོ་བགེགས་ཀྱི་རྒྱལ་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CGl",
+      "filename": "At_3CGl_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དཔལ་ཚོགས་ཀྱི་བདག་པོ་ཞི་བའི་སྒྲུབ་ཐབས།",
+      "work_url": "https://wb.pub/3CGm",
+      "filename": "At_3CGm_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཚོགས་བདག་གསང་སྒྲུབ།",
+      "work_url": "https://wb.pub/3CGn",
+      "filename": "At_3CGn_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ནོར་བདག་གཙོ་འཁོར་ལྔའི་བསྟོད་པ་དབྱིག་གི་ཆར་འབེབས་ཞེས་བྱ་བ།",
+      "work_url": "https://wb.pub/3CGo",
+      "filename": "At_3CGo_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རྟེན་འབྲེལ་སྙིང་པོའི་སྔགས་ཐེམ་ཞིབ་མོར་བཀོད་པ་བཞུགས་སོ། །",
+      "work_url": "https://wb.pub/3CGp",
+      "filename": "At_3CGp_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་དོན་བསྡུས་སྒྲོན་མ།",
+      "work_url": "https://wb.pub/3CGq",
+      "filename": "At_3CGq_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄། །ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ་བཞུགས།",
+      "work_url": "https://wb.pub/3CGr",
+      "filename": "At_3CGr_.md",
+      "source_docx": "Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བདེན་པ་གཉིས་ལ་འཇུག་པ།",
+      "work_url": "https://wb.pub/3CGs",
+      "filename": "At_3CGs_.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དྲན་པ་གཅིག་པའི་མན་ངག།",
+      "work_url": "https://wb.pub/3CGt",
+      "filename": "At_3CGt_.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དབུ་མའི་མན་ངག།",
+      "work_url": "https://wb.pub/3CGu",
+      "filename": "At_3CGu_.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དབུ་མའི་མན་ངག་རིན་པོ་ཆེའི་ཟ་མ་ཏོག་ཁ་ཕྱེ་བ།",
+      "work_url": "https://wb.pub/3CGv",
+      "filename": "At_3CGv_.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །མདོ་ཀུན་ལས་བཏུས་པའི་དོན་བསྡུས་པ།",
+      "work_url": "https://wb.pub/3CGw",
+      "filename": "At_3CGw_.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་མདོ་ཙམ་གདམས་ངག་ཏུ་བྱས་པ།",
+      "work_url": "https://wb.pub/3CGx",
+      "filename": "At_3CGx_.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མ།",
+      "work_url": "https://wb.pub/3CGy",
+      "filename": "At_3CGy_.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མའི་དཀའ་འགྲེལ།",
+      "work_url": "https://wb.pub/3CGz",
+      "filename": "At_3CGz_.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྙིང་པོ་བསྡུས་པ།",
+      "work_url": "https://wb.pub/3CH0",
+      "filename": "At_3CH0.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྙིང་པོ་ངེས་པར་བསྡུ་བ།",
+      "work_url": "https://wb.pub/3CH1",
+      "filename": "At_3CH1.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བྱང་ཆུབ་སེམས་དཔའི་ནོར་བུའི་ཕྲེང་བ།",
+      "work_url": "https://wb.pub/3CH2",
+      "filename": "At_3CH2.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བྱང་ཆུབ་སེམས་དཔའ་ལས་དང་པོ་པའི་ལམ་ལ་འཇུག་པ་བསྟན་པ།",
+      "work_url": "https://wb.pub/3CH3",
+      "filename": "At_3CH3.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྐྱབས་སུ་འགྲོ་བ་བསྟན་པ།",
+      "work_url": "https://wb.pub/3CH4",
+      "filename": "At_3CH4.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཐེག་པ་ཆེན་པོའི་ལམ་གྱི་སྒྲུབ་ཐབས་ཡི་གེར་བསྡུས་པ།",
+      "work_url": "https://wb.pub/3CH5",
+      "filename": "At_3CH5.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ཐེག་པ་ཆེན་པོའི་ལམ་གྱི་སྒྲུབ་ཐབས་ཤིན་ཏུ་བསྡུས་པ།",
+      "work_url": "https://wb.pub/3CH6",
+      "filename": "At_3CH6.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄། །རང་གི་བྱ་བའི་རིམ་པ་བསྐུལ་བ་དང་བཅས་པ་ཡི་གེར་བྲིས་པ་བཞུགས། །",
+      "work_url": "https://wb.pub/3CH7",
+      "filename": "At_3CH7.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །མདོ་སྡེའི་དོན་ཀུན་ལས་བཏུས་པའི་མན་ངག།",
+      "work_url": "https://wb.pub/3CH8",
+      "filename": "At_3CH8.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །མི་དགེ་བ་བཅུའི་ལས་ཀྱི་ལམ་བསྟན་པ།",
+      "work_url": "https://wb.pub/3CH9",
+      "filename": "At_3CH9.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ལས་རྣམ་པར་འབྱེད་པ།",
+      "work_url": "https://wb.pub/3CHA",
+      "filename": "At_3CHA.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།",
+      "work_url": "https://wb.pub/3CHB",
+      "filename": "At_3CHB.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །སེམས་བསྐྱེད་པ་དང་སྡོམ་པའི་ཆོ་གའི་རིམ་པ།",
+      "work_url": "https://wb.pub/3CHC",
+      "filename": "At_3CHC.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ལྟུང་བ་བཤགས་པའི་ཆོ་ག།",
+      "work_url": "https://wb.pub/3CHD",
+      "filename": "At_3CHD.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄། །ཁ་ཏོན་དང་གླེགས་བམ་ཀླག་པའི་སྔོན་དུ་བྱ་བའི་ཆོ་ག་བཞུགས།",
+      "work_url": "https://wb.pub/3CHE",
+      "filename": "At_3CHE.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄། །ཚ་ཚ་གདབ་པའི་ཆོ་ག་བཞུགས།",
+      "work_url": "https://wb.pub/3CHF",
+      "filename": "At_3CHF.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །བླ་མའི་བྱ་བའི་རིམ་པ།",
+      "work_url": "https://wb.pub/3CHG",
+      "filename": "At_3CHG.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །ལས་ཀྱི་སྒྲིབ་པ་རྣམ་པར་སྦྱོང་བའི་ཆོ་ག་བཤད་པ།",
+      "work_url": "https://wb.pub/3CHH",
+      "filename": "At_3CHH.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །དྲི་མ་མེད་པ་རིན་པོ་ཆེའི་སྤྲིང་ཡིག།",
+      "work_url": "https://wb.pub/3CHI",
+      "filename": "At_3CHI.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    },
+    {
+      "work_title": "༄༅། །རིགས་ཀྱི་སྨོན་ལམ།",
+      "work_url": "https://wb.pub/3CHJ",
+      "filename": "At_3CHJ.md",
+      "source_docx": "Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
+    }
+  ]
+}
