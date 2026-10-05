@@ -96,6 +96,22 @@ Generates a nested, decimal-numbered table of contents from a flat draft list at
 Finds the inline structural-announcement phrases in a formatted text, wraps the announced terms in wikilinks pointing at the headings they introduce, and inserts the standalone outline block. Optional — only for texts that actually contain such announcements.
 → [`tag-inline-toc/SKILL.md`](tag-inline-toc/SKILL.md)
 
+#### Imported from bodhisattvacharyavatara-rails — sa bcad TOC extraction and ingest
+
+*Imported from `bodhisattvacharyavatara-rails`.* These are the original BCA skills that `toc-generate` was merged from. They are kept side by side with it so the two versions can be compared and improved; prefer `toc-generate` unless you need the original behaviour.
+
+### `toc-candidate-extraction`
+Recall-first extraction of ས་བཅད (sa bcad) candidates — Type A announcements, Type B node headers, Type C closing counts — from a chunked Tibetan commentary. Also bundles the Gemini batch script `extract_toc_candidates.py`.
+→ [`toc-candidate-extraction/SKILL.md`](toc-candidate-extraction/SKILL.md)
+
+### `toc-tree-extraction`
+Builds the full nested decimal sa bcad tree in isolated passes (candidates → verbatim enumerations → tree → QC repair → **anchors**) with deterministic chunking and tree QC. Pass 5 writes the `[[context]]` anchors and the front/back-matter frame nodes that `toc-tree-ingest` needs. Modes `sabcad` / `verses` / `top` for commentaries; mode `root` (pass 1 with Type D — topic headers without an ordinal; no frame nodes; no tree when nothing is announced) for `root-text-segmentation`. Bundles the Gemini pipeline in `scripts/toc_tree_extractor/` (`extract_toc_tree.py`, `find_toc_contexts.py`, `ingest_toc_commentary.py`, Windows launcher).
+→ [`toc-tree-extraction/SKILL.md`](toc-tree-extraction/SKILL.md)
+
+### `toc-tree-ingest`
+Ingests an anchored `toc-tree-*.md` into a segmented commentary as headings with block IDs, the way the human-edited files carry them: each heading at the start of the block where its section begins (parent and first-child headings stack), frame headings `^I-0` / `^a-0` / `^b-1-0`, optional derived body IDs; text verified unchanged.
+→ [`toc-tree-ingest/SKILL.md`](toc-tree-ingest/SKILL.md)
+
 ### `spine-map`
 Builds one commentary's routing index from its own outline nodes onto the canonical spine slots of the root text. Once per commentary, then reused by every claims run.
 → [`spine-map/SKILL.md`](spine-map/SKILL.md)
@@ -110,6 +126,22 @@ Builds one commentary's routing index from its own outline nodes onto the canoni
 Breaks a commentary into short, individually referenceable blocks — prose paragraphs, verse stanzas, quotations — so that every claim can later cite one.
 → [`segment-commentary/SKILL.md`](segment-commentary/SKILL.md)
 
+#### Imported from bodhisattvacharyavatara-rails — segmentation
+
+*Imported from `bodhisattvacharyavatara-rails`.* These are the original BCA skills that `segment-commentary` was merged from. They are kept side by side with it so the two versions can be compared and improved; prefer `segment-commentary` unless you need the original behaviour.
+
+### `commentary-segmentation`
+Stage-1 deterministic segmentation of an OCR-clean Tibetan commentary. `--units --root <root text>` produces the vault's human layout — one block per functional unit (opener / quoted root verse / whole explanation / frame); `--max-syllables 40` gives citation-granular blocks. Source spacing (`། །`) preserved; no-loss assertion on every script. v2.1: `--stanza-breaks` (a quoted first line of a root stanza starts a block). **Commentaries only** — verse root texts go to `root-text-segmentation`.
+→ [`commentary-segmentation/SKILL.md`](commentary-segmentation/SKILL.md)
+
+### `commentary-resegment`
+Re-paragraphs a one-clause-per-line Tibetan commentary into sense-unit paragraphs: Gemini groups adjacent lines by meaning, a script joins them and verifies the text is byte-identical.
+→ [`commentary-resegment/SKILL.md`](commentary-resegment/SKILL.md)
+
+### `block-resegmentation`
+Re-draws block boundaries after the TOC headings are in, toward the functional-unit layout (mostly merging an explanation cut at a sentence end): the LLM flags merge/split operations, a script applies them, protects verse blocks and verifies text integrity.
+→ [`block-resegmentation/SKILL.md`](block-resegmentation/SKILL.md)
+
 ### `add-block-ids`
 Adds block IDs so every verse, prose block and heading can be cited and transcluded. Modes for commentaries, root texts, and texts with no internal numbering.
 → [`add-block-ids/SKILL.md`](add-block-ids/SKILL.md)
@@ -117,6 +149,12 @@ Adds block IDs so every verse, prose block and heading can be cited and transclu
 ### `transclusion`
 Inserts root-verse transclusion links into a commentary or a second version of the root text, placing each one where the verse becomes relevant.
 → [`transclusion/SKILL.md`](transclusion/SKILL.md)
+
+### `root-text-segmentation` **[exists]**
+**Purpose:** Lay out a Tibetan verse root text (treatise, praise, ritual, prayer — not a commentary) as one pāda per line and one stanza per block, with frame headings for front matter and colophons found by pattern, the text's own top-level parts as headings when it announces any, and block IDs.
+**Inputs:** a run-on verse text in `1-SOURCES/Text/` (no verse numbers needed); optionally an anchored tree from `toc-tree-extraction` mode `root`.
+**Outputs:** `0-INBOX/<id>-root/final-free.md` (stanzas by sense, `prompts/stanza-grouping.md`) for every text, plus `final-sloka.md` (4 pādas per block) for a text translated from Sanskrit (`རྒྱ་གར་སྐད་དུ།`) — two versions for human review. The root-text counterpart of `commentary-segmentation` + `block-resegmentation`; commentaries do not go here.
+→ [`root-text-segmentation/SKILL.md`](root-text-segmentation/SKILL.md)
 
 ---
 
