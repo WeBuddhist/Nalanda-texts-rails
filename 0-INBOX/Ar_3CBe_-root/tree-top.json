@@ -1,0 +1,37 @@
+{
+  "source": "0-INBOX\\Ar_3CBe_-root\\tree-top.md",
+  "total_nodes": 3,
+  "max_depth": 1,
+  "nodes": [
+    {
+      "decimal_id": "II",
+      "depth": 1,
+      "frame": true,
+      "label": "རྡོ་རྗེ་དྲིལ་བུ་བྱིན་གྱིས་བརླབ།",
+      "block_id": "^II-0",
+      "context": "ཡིད་དང་མཐུན་ཞིང༌[^4]དབེན་གནས་སུ། །",
+      "context_anchor": "ཡིད་དང་མཐུན་ཞིང༌[^4]དབེན་གནས་སུ། །",
+      "doc_order": 0
+    },
+    {
+      "decimal_id": "1",
+      "depth": 1,
+      "frame": false,
+      "label": "དང་པོ་ཐུན་མོང་",
+      "block_id": "^1-0",
+      "context": "དང་པོ་ཐུན་མོང་བཤད་བྱ་སྟེ། །",
+      "context_anchor": "དང་པོ་ཐུན་མོང་བཤད་བྱ་སྟེ། །",
+      "doc_order": 1
+    },
+    {
+      "decimal_id": "2",
+      "depth": 1,
+      "frame": false,
+      "label": "གཙོ་བོ་མཆོག་གི་ལས་སྦྱོར་བ་ཁྱད་པར་",
+      "block_id": "^2-0",
+      "context": "གཙོ་བོ་མཆོག་གི་ལས་སྦྱོར་བ། །",
+      "context_anchor": "གཙོ་བོ་མཆོག་གི་ལས་སྦྱོར་བ། །",
+      "doc_order": 2
+    }
+  ]
+}
