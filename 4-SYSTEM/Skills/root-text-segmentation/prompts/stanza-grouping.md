@@ -1,7 +1,8 @@
 # Stanza grouping (sense mode) — root-text-segmentation
 
-Used for verse texts composed in Tibetan (prayers, praises, chants — no `རྒྱ་གར་སྐད་དུ།` title).
-Texts translated from Sanskrit are grouped by śloka count by the script instead. Measured on
+Produces the `free` version, which every verse root text gets. A text translated from Sanskrit
+(`རྒྱ་གར་སྐད་དུ།` title) also gets a `sloka` version, counted by the script — that does not
+change this task: group by sense as below. Measured on
 10 Liturgy-rails texts: block-boundary F1 0.95, 93% of the editors' blocks reproduced exactly
 (the earlier 2/4/6-only rule: 0.68 / 59%).
 
