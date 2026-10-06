@@ -1,0 +1,17 @@
+# source: 0-INBOX\commentary\Ar_3CBb_.md
+# total_lines: 1349
+# chunk_size: 150
+# overlap: 25
+# total_chunks: 11
+# columns: chunk_id	start_line	end_line  (1-based, inclusive; read with: sed -n 'START,ENDp' <source>)
+000	1	150
+001	126	275
+002	251	400
+003	376	525
+004	501	650
+005	626	775
+006	751	900
+007	876	1025
+008	1001	1150
+009	1126	1275
+010	1251	1349
