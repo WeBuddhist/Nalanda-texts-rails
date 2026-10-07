@@ -1,0 +1,143 @@
+{
+ "stanzas": [
+  [
+   1,
+   2
+  ],
+  [
+   3,
+   8
+  ],
+  [
+   9,
+   9
+  ],
+  [
+   10,
+   13
+  ],
+  [
+   14,
+   17
+  ],
+  [
+   18,
+   21
+  ],
+  [
+   22,
+   25
+  ],
+  [
+   26,
+   30
+  ],
+  [
+   31,
+   32
+  ],
+  [
+   33,
+   36
+  ],
+  [
+   37,
+   39
+  ],
+  [
+   40,
+   42
+  ],
+  [
+   43,
+   45
+  ],
+  [
+   46,
+   46
+  ],
+  [
+   47,
+   49
+  ],
+  [
+   50,
+   50
+  ],
+  [
+   51,
+   54
+  ],
+  [
+   55,
+   60
+  ],
+  [
+   61,
+   61
+  ],
+  [
+   62,
+   63
+  ],
+  [
+   64,
+   64
+  ],
+  [
+   65,
+   69
+  ],
+  [
+   70,
+   74
+  ],
+  [
+   75,
+   79
+  ],
+  [
+   80,
+   82
+  ],
+  [
+   83,
+   86
+  ],
+  [
+   87,
+   87
+  ],
+  [
+   88,
+   91
+  ],
+  [
+   92,
+   94
+  ],
+  [
+   95,
+   96
+  ]
+ ],
+ "notes": {
+  "1": "S1/S2 split mid-quote by the cutter (…བསྒྲུབས་པའོ། | ཞེས་གསུངས་པ…); kept together as the opening point, ends as lead-in to the root verse.",
+  "3": "Six-line root verse: line 4 ends on connective …མཉམ་ཉིད་པས། and the sentence closes only at line 6 (…རང་བཞིན་ནོ།).",
+  "9": "Close of the verse plus the author's own question 'what do these words mean?' (…ཞེ་ན།); kept apart from the answer per rule 3.",
+  "10": "Joined S13 (opens with དེ་ལྟར་) to the preceding point: it concludes the 'self etc.' argument; its tail re-quotes the next verse words as lemma.",
+  "14": "General thesis on the aggregates kept with the definition of the form aggregate (S15-17); not-found argument for form follows as its own paragraph.",
+  "33": "Question 'how essenceless?' (…ཅེ་ན།) is embedded mid-unit in S33, so it cannot be split from its answer.",
+  "46": "Author's question (…ཞེ་ན།) opening the 'no grasped object' topic; separate per rule 3.",
+  "50": "Author's question (…ཞེ་ན།) opening the 'no grasper' topic; separate per rule 3.",
+  "51": "S52 'why?' (…ཞེ་ན།) sits inside the sūtra quotation (addressed to Guhyapati), so it stays with its answer rather than splitting per rule 3.",
+  "55": "S59 ཞེས་སོ། closes a prose quotation, not a verse, so it stays within the paragraph; S60 re-quotes the root-verse lines as conclusion.",
+  "61": "Author's question (…ཅེ་ན།); answer S62-63 is the root-verse line re-quoted plus ཞེས་གསུངས་སོ།.",
+  "64": "Author's question (…ཞེ་ན།); separate per rule 3.",
+  "70": "Conclusion (དེ་ལྟར་) kept with the scriptural support that follows (S72 དེ་ལྟར་ཡང་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་ཏེ།); S72's 'what is bodhi?' is inside the quotation.",
+  "75": "Two 'why?' questions (S75, S78) are inside the continuing sūtra quotation; kept with their answers.",
+  "80": "S82 ཇི་སྐད་དུ། lead-in ends this paragraph per rule 5.",
+  "87": "One-sentence prose lead-in between two quoted stanzas; cannot join either verse block.",
+  "92": "ཞེས་གསུངས་སོ། close attached forward to the next point (bodhicitta as root of all qualities) per rule 5."
+ }
+}

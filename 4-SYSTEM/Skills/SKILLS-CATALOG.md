@@ -151,9 +151,9 @@ Inserts root-verse transclusion links into a commentary or a second version of t
 → [`transclusion/SKILL.md`](transclusion/SKILL.md)
 
 ### `root-text-segmentation` **[exists]**
-**Purpose:** Lay out a Tibetan verse root text (treatise, praise, ritual, prayer — not a commentary) as one pāda per line and one stanza per block, with frame headings for front matter and colophons found by pattern, the text's own top-level parts as headings when it announces any, and block IDs.
-**Inputs:** a run-on verse text in `1-SOURCES/Text/` (no verse numbers needed); optionally an anchored tree from `toc-tree-extraction` mode `root`.
-**Outputs:** `0-INBOX/<id>-root/final-free.md` (stanzas by sense, `prompts/stanza-grouping.md`) for every text, plus `final-sloka.md` (4 pādas per block) for a text translated from Sanskrit (`རྒྱ་གར་སྐད་དུ།`) — two versions for human review. The root-text counterpart of `commentary-segmentation` + `block-resegmentation`; commentaries do not go here.
+**Purpose:** Lay out a Tibetan root text (treatise, praise, ritual, sādhana, prayer, letter — not a commentary) the way the vault's processed root texts are laid out: verse as one pāda per line and one stanza per block; prose as paragraphs with its verse passages as stanzas; frame headings for front matter and colophons found by pattern; the text's own top-level parts as headings when it announces any; block IDs.
+**Inputs:** a run-on text (no verse numbers needed); optionally an anchored tree from `toc-tree-extraction` mode `root`.
+**Outputs:** verse form — `final-free.md` (stanzas by sense, `prompts/stanza-grouping.md`) for every verse text, plus `final-sloka.md` (4 pādas per block) for a text translated from Sanskrit (`རྒྱ་གར་སྐད་དུ།`); prose form (a prose or mixed text) — `final-prose.md` (paragraphs and stanzas, `prompts/prose-grouping.md`). The root-text counterpart of `commentary-segmentation` + `block-resegmentation`; commentaries do not go here.
 → [`root-text-segmentation/SKILL.md`](root-text-segmentation/SKILL.md)
 
 ---

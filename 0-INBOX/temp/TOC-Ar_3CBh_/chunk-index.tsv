@@ -1,0 +1,8 @@
+# source: 0-INBOX\temp\root-seg\Ar_3CBh_\prepared.md
+# total_lines: 940
+# chunk_size: 600
+# overlap: 50
+# total_chunks: 2
+# columns: chunk_id	start_line	end_line  (1-based, inclusive; read with: sed -n 'START,ENDp' <source>)
+000	1	600
+001	551	940

@@ -1,20 +1,21 @@
 ---
 name: root-text-segmentation
 description: >
-  Lay out a Tibetan VERSE ROOT TEXT — a treatise, praise, ritual or prayer written in its
-  own voice, not a commentary — the way the vault's processed root texts are laid out:
-  one pāda per line, stanzas as blocks, front matter and colophons under fixed frame
-  headings, the text's own announced parts (if any) as headings, block IDs. Works on
-  run-on verse without verse numbers (the Nalanda Masters files in 1-SOURCES/Text/).
-  Use for "segment this root text", "format this praise / sādhana / prayer", "split the
-  verses into stanzas", "add frame headings and IDs to the root text". Commentaries go to
-  commentary-segmentation instead.
+  Lay out a Tibetan ROOT TEXT — a treatise, praise, ritual, sādhana, prayer or letter
+  written in its own voice, not a commentary — the way the vault's processed root texts
+  are laid out: verse as one pāda per line with stanzas as blocks; prose as paragraphs,
+  with its verse passages (homage, quoted verses, praises) as stanzas; front matter and
+  colophons under fixed frame headings, the text's own announced parts (if any) as
+  headings, block IDs. Works on run-on text without verse numbers (the Nalanda Masters
+  files). Use for "segment this root text", "format this praise / sādhana / treatise",
+  "split the verses into stanzas", "add frame headings and IDs to the root text".
+  Commentaries go to commentary-segmentation instead.
 profile: rails-vault
 ---
 
 # root-text-segmentation
 
-Turns a verse root text that arrives as one run of text into the layout of the vault's
+Turns a root text that arrives as one run of text into the layout of the vault's
 processed root texts (the BCA and Tārā root files, the Liturgy-rails chants): `# title ^0`;
 `## ཀླད་ཀྱི་དོན། ^I-0` over the Sanskrit title, Tibetan title and homage; body headings only
 where the text announces its own parts; one stanza per block with one pāda per line;
@@ -36,9 +37,10 @@ colophons; neither fits a run-on verse root text.
 | `source` | the root text, normally `1-SOURCES/Text/<id>.md` — first line the title, then the text as running prose, footnote apparatus `[^n]: …` at the end (kept as is) |
 | `id` | short id for the working folder (usually the file stem) |
 | `tree` *(optional)* | an anchored tree from `toc-tree-extraction` mode `root`, when the text announces its parts |
-| grouping *(optional)* | `auto` (default): two versions for a text translated from Sanskrit, one otherwise — see Rules 5–6; `sloka` or `free` forces a single version |
+| form *(optional)* | `auto` (default): from `classify` — `verse`, or `prose` for a prose or mixed text (Rule 9); `--form verse\|prose` forces it |
+| grouping *(optional)* | verse form: `auto` (default) gives two versions for a text translated from Sanskrit, one otherwise — see Rules 5–6; `sloka` or `free` forces a single version |
 
-If the source is a commentary, a prose text, or the `id` is unclear, stop and ask.
+If the source is a commentary or the `id` is unclear, stop and ask.
 
 ## Output
 
@@ -49,7 +51,8 @@ If the source is a commentary, a prose text, or the `id` is unclear, stop and as
 | `0-INBOX/<id>-root/groups-sloka.json` | śloka groups, written by the script (translated texts only) |
 | `0-INBOX/<id>-root/groups-free.json` | groups by sense, written by the prompt |
 | `0-INBOX/<id>-root/final-sloka.md` | **version 1** (translated texts only): 4 pādas per block |
-| `0-INBOX/<id>-root/final-free.md` | **version 2** (every text): blocks by sense |
+| `0-INBOX/<id>-root/final-free.md` | **version 2** (every verse text): blocks by sense |
+| `0-INBOX/<id>-root/groups-prose.json` · `final-prose.md` | **prose form** (the only version): paragraphs and stanzas |
 
 Both versions carry the same headings, frame and text; only the stanza blocks differ. The
 `1-SOURCES/` file is replaced by the chosen version only after a human approves it.
@@ -122,14 +125,34 @@ Both versions carry the same headings, frame and text; only the stanza blocks di
 7. **Never** let a stanza cross a heading; every pāda belongs to exactly one block (the
    script refuses a `groups.json` that does not cover every pāda once, in order).
 8. Never stamp IDs into a file that is cited elsewhere without re-running what cites it.
+9. **Prose form** (a text `classify` calls `prose` or `mixed` — 151 + 42 of the 440 Nalanda
+   root texts): the units are **sentences**, cut at a final verb (`…འོ།` `…སོ།` `…ཏོ།` `…ནོ།`
+   `…འགྲུབ་བོ།` `…ཤོག` `…ཅིག` `…ཞེ་ན།`), and **verse passages** inside the prose — 4+
+   lines closed by `། །` in one metre (exact up to 9 syllables, ±1 up to 12, ±2 above;
+   a loose run is refused when over a third of its lines end on a final verb: those are
+   rubrics) — stay pāda by pāda. An isolated subagent follows `prompts/prose-grouping.md`:
+   one paragraph per point or ritual step, an objection (`…ཞེ་ན།`) apart from its answer,
+   a mantra with its step, stanzas as in Rule 6, never a block mixing prose and verse.
+   In the final file a paragraph is one line; verse keeps one pāda per line. One version.
+   First draft (2026-10-07): no editor-checked prose reference yet.
+10. **Front matter variants:** a Chinese source title (`རྒྱའི་སྐད་དུ།`) counts like the
+   Sanskrit one; a text with no language labels gets its front matter from the title
+   repeated at the start (matched on its first 3 syllables) and, in prose, a homage
+   before or after it. A verse text's lone homage line stays in the body (often the
+   first pāda). Colophon wording: `…མཛད་པའི་<title>་རྫོགས་སོ།` and translators' `…བསྒྱུར་
+   ཞིང / ནས / ཏེ / བ`, `…གཏན་ལ་ཕབ`; verse after the translators' colophon (their own
+   dedication) stays inside it.
+11. **A tree with a single numbered top node** (one rite section, one chapter) gives its
+   children as headings too (`###`, IDs `^1-1-0` …).
 
 ---
 
 ## Procedure
 
 1. **Classify.** `python 4-SYSTEM/Skills/root-text-segmentation/scripts/root_text_build.py classify "<source>"`.
-   Continue only on `verse` (exit 0). `commentary` → use `commentary-segmentation`;
-   `prose`/`mixed` → stop and ask the editor.
+   `verse` → verse form; `prose`/`mixed` → prose form (Rule 9); `commentary` (exit 1) →
+   use `commentary-segmentation`. A text in the root folder that classifies as a
+   commentary: stop and ask the editor.
 2. **TOC (only if the text announces parts).** Look for announcements such as
    `<topic> བཤད་བྱ་སྟེ།`, `<topic> ཆོ་ག་ནི།`, `དང་པོ་ … ནི།`. If there are any, run
    `toc-tree-extraction` in mode `root` on a pāda-split copy (step 3 with no `--tree`
@@ -142,7 +165,10 @@ Both versions carry the same headings, frame and text; only the stanza blocks di
    ```
    Read its report line: pādas and metre, which frame elements were found, body headings
    placed (`not placed` must be 0), grouping mode. Check the printed heading list.
-4. **Group.** The `sloka` version needs nothing (`groups-sloka.json` is written by `prepare`).
+4. **Group.** Prose form: one isolated subagent on `prompts/prose-grouping.md` →
+   `groups-prose.json` (a long text: split `group-in.md` at headings into parts of ~700
+   lines, one subagent each, unit numbers kept, then concatenate the `stanzas` lists).
+   Verse form: the `sloka` version needs nothing (`groups-sloka.json` is written by `prepare`).
    For the `free` version (always), dispatch ONE isolated subagent: *"Read `4-SYSTEM/Skills/root-text-segmentation/prompts/stanza-grouping.md`
    and follow it exactly. The input is `0-INBOX/<id>-root/group-in.md` (read all of it). Write
    the JSON to `0-INBOX/<id>-root/groups-free.json`. Reply with the path and the block sizes."*
@@ -159,7 +185,7 @@ Both versions carry the same headings, frame and text; only the stanza blocks di
 
 ## Completion check
 
-- [ ] `classify` returned `verse`
+- [ ] `classify` returned `verse`, `prose` or `mixed` (not `commentary`); the form is in `state.json`
 - [ ] Frame headings present exactly for the elements found (front matter / author / translators)
 - [ ] Body headings: top-level parts only, `not placed: 0` — or none, if the text announces no parts
 - [ ] Translated text (`རྒྱ་གར་སྐད་དུ།`): both `final-sloka.md` and `final-free.md`; otherwise only `final-free.md`
