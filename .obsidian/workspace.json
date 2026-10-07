@@ -199,6 +199,10 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "0-INBOX/temp/segmentated text/Bh_3CCF.stage2.md",
     "0-INBOX/temp/segmentated text",
     "0-INBOX/temp/Bh_3CCF.stage2.tsv",
@@ -215,9 +219,6 @@
     "0-INBOX/temp/root-seg/Va_3CEb_/final-sloka.md",
     "0-INBOX/temp/root-seg/Va_3CEb_/final-free.md",
     "0-INBOX/temp/root-seg/Va_3CET/tree-top.md",
-    "0-INBOX/temp/root-seg/Va_3CET/tree-top.json",
-    "0-INBOX/temp/root-seg/Va_3CET/state.prev.json",
-    "0-INBOX/temp/root-seg/Va_3CET/state.json",
     "0-INBOX/temp/root-seg/Va_3CET/prepared.md",
     "0-INBOX/temp/root-seg/Va_3CET/group-in.md",
     "0-INBOX/temp/root-seg/Va_3CET/final-prose.md",
@@ -233,7 +234,6 @@
     "0-INBOX/temp/root-seg/Na_3CBI/prepared.md",
     "0-INBOX/temp/root-seg/Na_3CBI/group-in.prev.md",
     "0-INBOX/temp/root-seg/Na_3CBI/group-in.md",
-    "0-INBOX/temp/root-seg/Na_3CBI/final-sloka.md",
-    "0-INBOX/temp/root-seg/Na_3CBI/final-free.md"
+    "0-INBOX/temp/root-seg/Na_3CBI/final-sloka.md"
   ]
 }
