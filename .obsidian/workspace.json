@@ -11,10 +11,14 @@
             "id": "d066ca5c15f520a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Text/Ar_3CBa_.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ar_3CBa_"
             }
           }
         ]
@@ -195,6 +199,12 @@
   },
   "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "1-SOURCES/Text/Ar_3CBb_.md",
+    "1-SOURCES/Text/Ar_3CBa_.md",
+    "1-SOURCES/Text/Ar_3CBf_.md",
+    "1-SOURCES/Text/Ar_3CBe_.md",
+    "1-SOURCES/Text/Ar_3CBd_.md",
+    "1-SOURCES/Text/Va_3CEY.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
@@ -206,7 +216,6 @@
     "1-SOURCES/Text/Va_3CEb_.md",
     "1-SOURCES/Text/Va_3CEa_.md",
     "1-SOURCES/Text/Va_3CEZ.md",
-    "1-SOURCES/Text/Va_3CEY.md",
     "1-SOURCES/Text/Va_3CEX.md",
     "1-SOURCES/Text/Va_3CEW.md",
     "1-SOURCES/Text/Va_3CEV.md",
@@ -222,14 +231,9 @@
     "1-SOURCES/Text/Va_3CEL.md",
     "1-SOURCES/Text/Va_3CEK.md",
     "1-SOURCES/Text/Va_3CEJ.md",
-    "1-SOURCES/Text/Va_3CEI.md",
-    "1-SOURCES/Text/Va_3CEH.md",
-    "1-SOURCES/Text/Va_3CEG.md",
-    "1-SOURCES/Text/Va_3CEF.md",
     "0-INBOX/Nalanda_docx/17-Atisha/works.json",
     "0-INBOX/Nalanda_docx/17-Atisha/works",
     "0-INBOX/Nalanda_docx/17-Atisha/Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ _headings.yml",
-    "0-INBOX/Nalanda_docx/17-Atisha/Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx",
-    "0-INBOX/Nalanda_docx/17-Atisha/Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ _headings.yml"
+    "0-INBOX/Nalanda_docx/17-Atisha/Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx"
   ]
 }
