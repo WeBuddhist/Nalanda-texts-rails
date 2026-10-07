@@ -1,0 +1,21 @@
+# source: 0-INBOX\commentary\Va_3CEF.md
+# total_lines: 482
+# chunk_size: 40
+# overlap: 8
+# total_chunks: 15
+# columns: chunk_id	start_line	end_line  (1-based, inclusive; read with: sed -n 'START,ENDp' <source>)
+000	1	40
+001	33	72
+002	65	104
+003	97	136
+004	129	168
+005	161	200
+006	193	232
+007	225	264
+008	257	296
+009	289	328
+010	321	360
+011	353	392
+012	385	424
+013	417	456
+014	449	482
