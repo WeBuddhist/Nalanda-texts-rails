@@ -28,8 +28,9 @@ prepare   1. units. verse form: pādas — a pāda ends at a shad (།) or tsheg
           2. frame, by pattern only (added only when present):
              Sanskrit (or Chinese: རྒྱའི་སྐད་དུ།) title + Tibetan title + homage, or the
              title repeated + homage → ## <front-title> ^I-0
-             author's colophon (… མཛད་པ་རྫོགས་སོ།)   → ## མཛད་བྱང། ^a-0
-             translators' colophon (… ལོ་ཙཱ་བ … བསྒྱུར …) → ## འགྱུར་བྱང། ^b-0
+             the closing matter → ## མཇུག་བྱང། ^a-0, with one sub-section per colophon in
+             text order (as the commentary skill does): author's (… མཛད་པ་རྫོགས་སོ།) →
+             ### མཛད་བྱང། ^a-1-0, translators' (… ལོ་ཙཱ་བ … བསྒྱུར …) → ### འགྱུར་བྱང། ^a-2-0
              The title line becomes "# <title> ^0". With front matter and no TOC parts,
              the body gets "## <body-title> ^1-0" (default གཞུང་དངོས།).
           3. body headings: the top-level nodes (1., 2. …, II.) of an anchored tree from
@@ -68,7 +69,8 @@ NOTES = re.compile(r"(?m)^\[\^\d+\]:")
 # "…མཛད་པ་རྫོགས་སོ།", and the title between: "…མཛད་པའི་<title>་རྫོགས་སོ།" / "…མཛད་པ་<title>་རྫོགས་སོ།"
 AUTHOR = re.compile(r"མཛད་པ(?:་|འི་)?(?:རྫོགས|ཡིན|ལགས)|མཛད་པ(?:འི)?་[^།]{0,300}?རྫོགས|[གཀ]ྱིས་སྦྱར་བ|བརྩམས་པ་རྫོགས")
 TRANSLATOR = re.compile(r"ལོ་ཙཱ་བ|བསྒྱུར་(?:ཅིང|ཞིང|ནས|ཏེ|བ)|ཞུས་ཏེ|གཏན་ལ་ཕབ|འགྱུར་བཅོས")
-FRAME_SECTIONS = ("^I-0", "^a-0", "^b-0")
+FRAME_SECTIONS = ("^I-0", "^a-")       # front matter; the closing matter and its sub-sections
+COLOPHON_TITLE = {"author": "མཛད་བྱང།", "translators": "འགྱུར་བྱང།"}
 COMM_TITLE = re.compile(r"འགྲེལ|རྣམ་པར་བཤད|རྣམ་བཤད|ཊཱི་ཀཱ|ཊཱི་ཀ|བཤད་སྦྱར|དཀའ་འགྲེལ")
 SRC_LANG = re.compile(r"རྒྱ་གར་སྐད་དུ|རྒྱའི་སྐད་དུ|རྒྱ་ནག་སྐད་དུ")
 # a clause closed the way verse lines are: "། །", "ག །", "༔"
@@ -329,16 +331,17 @@ def prepare(src, work, tree, grouping, front_title, body_title, form="auto"):
         ends = [m.end() for m in END.finditer(tail)] + [len(tail)]
         cut = next((e for e in ends if is_author(tail[:e])), None)
         if cut is not None:
-            colophons.append(("## མཛད་བྱང། ^a-0", tail[:cut].strip()))
+            colophons.append(("author", tail[:cut].strip()))
             rest = tail[cut:].strip()
         else:
             rest = tail
         if rest and is_translator(rest):
-            colophons.append(("## འགྱུར་བྱང། ^b-0", rest))
+            colophons.append(("translators", rest))
         elif rest:
             colophons[-1:] = [(colophons[-1][0], colophons[-1][1] + " " + rest)] if colophons else \
-                [("## མཛད་བྱང། ^a-0", rest)]
-        report += ["author's colophon" if "^a-0" in h else "translators' colophon" for h, _ in colophons]
+                [("author", rest)]
+        report += ["author's colophon" if kind == "author" else "translators' colophon"
+                   for kind, _ in colophons]
     if form == "prose":
         padas, types = prose_units(run, pos, spans[k][0] if k < len(spans) else len(run))
     else:
@@ -358,8 +361,12 @@ def prepare(src, work, tree, grouping, front_title, body_title, form="auto"):
         out.append(f"## {body_title} ^1-0")
         report.append(f"body heading '{body_title}' added (no TOC parts)")
     out += padas
-    for h, c in colophons:
-        out += [h, c]
+    if colophons:
+        # the closing matter as in the commentary skill: ## མཇུག་བྱང། ^a-0, one ### per
+        # colophon in text order (^a-1-0, ^a-2-0)
+        out.append("## མཇུག་བྱང། ^a-0")
+        for i, (kind, c) in enumerate(colophons, 1):
+            out += [f"### {COLOPHON_TITLE[kind]} ^a-{i}-0", c]
     prepared = work / "prepared.md"
     res = fm + "\n\n".join(out) + "\n" + ("\n" + notes if notes else "")
     assert no_headings(res) == no_headings(text), "text changed — nothing written"

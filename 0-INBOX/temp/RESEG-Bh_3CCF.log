@@ -1,0 +1,103 @@
+Input:      0-INBOX\temp\segmentated text\Bh_3CCF.toc.md
+ID:         Bh_3CCF
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-Bh_3CCF\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Bh_3CCF.reseg.md
+
+Blocks: 556  (headings: 21, content: 535)
+Windows: 16  (size=40, overlap=5)
+
+  Window 1/16 (blocks 1–40): calling LLM...
+    → 6 operation(s) flagged
+  Window 2/16 (blocks 36–75): calling LLM...
+    → 6 operation(s) flagged
+  Window 3/16 (blocks 71–110): calling LLM...
+    → 2 operation(s) flagged
+  Window 4/16 (blocks 106–145): calling LLM...
+    → 5 operation(s) flagged
+  Window 5/16 (blocks 141–180): calling LLM...
+    → 3 operation(s) flagged
+  Window 6/16 (blocks 176–215): calling LLM...
+    → 4 operation(s) flagged
+  Window 7/16 (blocks 211–250): calling LLM...
+    → 4 operation(s) flagged
+  Window 8/16 (blocks 246–285): calling LLM...
+    → 5 operation(s) flagged
+  Window 9/16 (blocks 281–320): calling LLM...
+    → 8 operation(s) flagged
+  Window 10/16 (blocks 316–355): calling LLM...
+    → 7 operation(s) flagged
+  Window 11/16 (blocks 351–390): calling LLM...
+    → 5 operation(s) flagged
+  Window 12/16 (blocks 386–425): calling LLM...
+    → 2 operation(s) flagged
+  Window 13/16 (blocks 421–460): calling LLM...
+    → 2 operation(s) flagged
+  Window 14/16 (blocks 456–495): calling LLM...
+    → 1 operation(s) flagged
+  Window 15/16 (blocks 491–530): calling LLM...
+    → 1 operation(s) flagged
+  Window 16/16 (blocks 526–556): calling LLM...
+    → 0 operation(s) flagged
+
+Operations to apply: 54
+  MERGE [19, 20]
+  MERGE [23, 24]
+  MERGE [26, 27, 28]
+  MERGE [30, 31, 32, 33]
+  SPLIT block 35 after: 'རླུང་ངོ་།།'
+  MERGE [38, 39]
+  MERGE [45, 46]
+  MERGE [51, 52, 53, 54, 55]
+  MERGE [57, 58, 59, 60]
+  MERGE [64, 65]
+  MERGE [68, 69]
+  SPLIT block 81 after: 'དྲུག་པོར་བྱིན་གྱིས་བརླབ་པ་ལ་སོགས་པ་བསྟན་ཏེ།།'
+  MERGE [96, 97]
+  MERGE [111, 112]
+  MERGE [125, 126]
+  MERGE [128, 129]
+  MERGE [131, 132]
+  SPLIT block 137 after: 'སྐུར་བསྐྱེད་པའོ།[^53] །'
+  MERGE [147, 148]
+  SPLIT block 154 after: 'ཡ་རྐན་གྱི་ལྕེའུ་ཆུང་དང་ངོ་།།'
+  MERGE [163, 164, 165]
+  MERGE [186, 187]
+  MERGE [188, 189, 190]
+  MERGE [195, 196]
+  MERGE [203, 204, 205]
+  MERGE [222, 223]
+  MERGE [234, 235]
+  SPLIT block 244 after: 'ཞི་བ་ལ་སོགས་པ་བྱའོ།[^96] །'
+  MERGE [249, 250]
+  SPLIT block 262 after: 'བྱེད་པ་ལ་མཁས་པ་རྣམས་ཀྱང་ངོ་།།'
+  MERGE [266, 267, 268]
+  SPLIT block 279 after: 'སློབ་དཔོན་ལས་ཀྱང་ངོ་།།'
+  MERGE [283, 284, 285]
+  MERGE [286, 287]
+  MERGE [288, 289]
+  MERGE [291, 292, 293]
+  SPLIT block 294 after: 'དཔྱད་པར༌[^111]བྱ་བའོ།[^112] །'
+  MERGE [301, 302]
+  SPLIT block 304 after: 'དེ་ཕུར་བུས་གདབ་པོ།།'
+  MERGE [317, 318]
+  MERGE [323, 324]
+  MERGE [331, 332]
+  MERGE [333, 334]
+  MERGE [338, 339, 340, 341, 342]
+  SPLIT block 343 after: 'ཡང་དག་པའི་ལམ་ལ་གཟུད་དོ།[^137] །'
+  MERGE [346, 347]
+  MERGE [356, 357, 358]
+  MERGE [360, 361]
+  MERGE [366, 367]
+  MERGE [386, 387]
+  MERGE [388, 389]
+  MERGE [439, 440, 441]
+  MERGE [457, 458]
+  MERGE [500, 501]
+
+Blocks: 556 → 503
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Bh_3CCF.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Bh_3CCF.ops.md

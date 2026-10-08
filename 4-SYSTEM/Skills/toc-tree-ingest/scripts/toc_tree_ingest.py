@@ -229,8 +229,9 @@ def stamp_body_ids(paras):
             out.append(p)
             continue
         # transclusions, blocks that already carry an ID, and footnote definitions
-        # ("[^n]: …" — apparatus, not text) get no body ID
-        if (s.startswith("![[") or s.startswith("[^") or ID_RE.search(s.split("\n")[-1])
+        # ("[^n]: …" — apparatus, not text) get no body ID; a text block that merely
+        # opens with a footnote reference ("[^58]དེ་ལ་…") does
+        if (s.startswith("![[") or re.match(r"\[\^[^\]]+\]:", s) or ID_RE.search(s.split("\n")[-1])
                 or label is None):
             out.append(p)
             continue
