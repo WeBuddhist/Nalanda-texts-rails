@@ -11,13 +11,14 @@
             "id": "d066ca5c15f520a5",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.base",
-                "viewName": "View"
+                "file": "0-INBOX/temp/segmented-commentary-with-toc/Dh_3CEz_.toc.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Dh_3CEz_.toc"
             }
           }
         ]
@@ -79,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.53406524658203
+    "width": 213.12216567993164,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -181,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.227294921875
+    "width": 312.227294921875,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,14 +199,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "d066ca5c15f520a5",
   "lastOpenFiles": [
+    "Untitled 1.base",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "Untitled.base",
-    "Untitled 1.base",
     "0-INBOX/temp/segmented-commentary-with-toc/Dh_3CEz_.toc.md",
     "0-INBOX/temp/segmented-commentary-with-toc/Bh_3CCF.toc.md",
     "0-INBOX/temp/segmented-commentary-with-toc/Ar_3CBb_.toc.md",
