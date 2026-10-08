@@ -19,7 +19,8 @@ Turns a root text that arrives as one run of text into the layout of the vault's
 processed root texts (the BCA and Tārā root files, the Liturgy-rails chants): `# title ^0`;
 `## ཀླད་ཀྱི་དོན། ^I-0` over the Sanskrit title, Tibetan title and homage; body headings only
 where the text announces its own parts; one stanza per block with one pāda per line;
-`## མཛད་བྱང། ^a-0` / `## འགྱུར་བྱང། ^b-0` over the colophons; derived block IDs. Nothing is
+`## མཇུག་བྱང། ^a-0` over the closing matter, with `### མཛད་བྱང།` / `### འགྱུར་བྱང།` over the
+colophons (as the commentary skill lays them out); derived block IDs. Nothing is
 forced: a frame heading appears only when its element is in the text, and a text that
 announces no parts gets no body headings (only `གཞུང་དངོས།` to separate it from the front
 matter). The text itself is never changed — every step checks it.
@@ -82,13 +83,15 @@ Both versions carry the same headings, frame and text; only the stanza blocks di
 ## <next part> ^2-0
 …
 
-## མཛད་བྱང། ^a-0
+## མཇུག་བྱང། ^a-0
+
+### མཛད་བྱང། ^a-1-0
 
 <… མཛད་པ་རྫོགས་སོ།> ^a-1
 
-## འགྱུར་བྱང། ^b-0
+### འགྱུར་བྱང། ^a-2-0
 
-<… ལོ་ཙཱ་བ … བསྒྱུར་ … གཏན་ལ་ཕབ་པའོ།> ^b-1
+<… ལོ་ཙཱ་བ … བསྒྱུར་ … གཏན་ལ་ཕབ་པའོ།> ^a-2
 
 [^1]: <footnotes exactly as in the source>
 ```
@@ -105,9 +108,12 @@ Both versions carry the same headings, frame and text; only the stanza blocks di
    without it — line F1 0.00 → 1.00.)
 3. **Frame headings by pattern only**, and only when the element is present:
    `རྒྱ་གར་སྐད་དུ། … བོད་སྐད་དུ། … ཕྱག་འཚལ་ལོ།` → `ཀླད་ཀྱི་དོན། ^I-0` (title override:
-   `--front-title མཚན་དོན་དང་འགྱུར་ཕྱག`); a colophon starts at its own wording — author
-   (`…མཛད་པ་རྫོགས་སོ།`) → `མཛད་བྱང། ^a-0`, translators (`…ལོ་ཙཱ་བ… བསྒྱུར…`) →
-   `འགྱུར་བྱང། ^b-0`. Closing verses in another metre stay in the body.
+   `--front-title མཚན་དོན་དང་འགྱུར་ཕྱག`); the closing matter → `## མཇུག་བྱང། ^a-0`, and
+   each colophon, starting at its own wording, a `###` sub-section numbered in text order —
+   author (`…མཛད་པ་རྫོགས་སོ།`) → `### མཛད་བྱང།`, translators (`…ལོ་ཙཱ་བ… བསྒྱུར…`) →
+   `### འགྱུར་བྱང།` (usually `^a-1-0` and `^a-2-0`; a text with only a translators'
+   colophon has `### འགྱུར་བྱང། ^a-1-0`). The same layout as the commentary skill's frame.
+   Closing verses in another metre stay in the body.
 4. **Body headings only where the text announces parts** (`toc-tree-extraction` mode
    `root`), and **only its top-level parts**: sub-parts in a verse text are often shorter
    than a stanza and would split stanzas or stand empty. No candidates → no tree → no body
@@ -190,6 +196,6 @@ Both versions carry the same headings, frame and text; only the stanza blocks di
 - [ ] Body headings: top-level parts only, `not placed: 0` — or none, if the text announces no parts
 - [ ] Translated text (`རྒྱ་གར་སྐད་དུ།`): both `final-sloka.md` and `final-free.md`; otherwise only `final-free.md`
 - [ ] Each `groups-*.json` covers every pāda once; no stanza crosses a heading
-- [ ] Each final file: text and footnotes unchanged (script assertion passed), IDs stamped (`^0`, `^I-n`, `^N-n`, `^a-n`, `^b-n`)
+- [ ] Each final file: text and footnotes unchanged (script assertion passed), IDs stamped (`^0`, `^I-n`, `^N-n`, `^a-n`); colophons under `## མཇུག་བྱང། ^a-0` as `###` sub-sections
 - [ ] Non-quatrain blocks listed with their reason in the report
 - [ ] Source in `1-SOURCES/` untouched until a human chose and approved a version
