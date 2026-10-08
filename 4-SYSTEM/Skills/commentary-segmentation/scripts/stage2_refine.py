@@ -99,8 +99,14 @@ def squeeze(s: str) -> str:
     return s.translate(_WS_TABLE)
 
 
+FOOTNOTE_MARK_RE = re.compile(r"\[\^[^\]]*\]")
+SYLLABLE_RE = re.compile(r"[ཀ-ྼ]+")
+
+
 def count_syllables(text: str) -> int:
-    return text.count(TSHEG) + (1 if text.strip() else 0)
+    # Same counter as segment_commentary.py: a syllable is a run of Tibetan
+    # letters, so tsheg-before-shad, "ག །", ༌ and footnote markers don't skew it.
+    return len(SYLLABLE_RE.findall(FOOTNOTE_MARK_RE.sub("", text)))
 
 
 def _is_pada_unit(s: str) -> bool:

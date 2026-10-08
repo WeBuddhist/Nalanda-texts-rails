@@ -92,17 +92,41 @@ FRONTMATTER_RE = re.compile(r"^---\n.*?\n---\n", re.DOTALL)
 # stanzas are emitted whole — never run through the rule engine or cap_segment,
 # never flagged STAGE2_REVIEW, regardless of total length.
 #
-# TOLERANCE is 2 (not 1) because real quatrains vary slightly across pādas
-# (6 vs 8 syllables is attested) and a pāda closing on a single shad makes the
-# counter under-count by one tsheg; 2 still discriminates against prose.
+# Metre is syllables, never characters or "words". A syllable is a run of
+# Tibetan letters (U+0F40–U+0FBC) between delimiters, so the count is not
+# thrown off by a tsheg before the shad ("དང་།"), "ག །" without a tsheg, the
+# non-breaking tsheg (༌ U+0F0C) or footnote markers ([^n]) — counting tsheg
+# marks was. With that noise gone TOLERANCE is 1, which still absorbs genuine
+# variation (a contracted "པོའོ") while rejecting prose of similar length.
 PADA_MIN_SYL = 6
 PADA_MAX_SYL = 11
 PADA_COUNT_RANGE = (2, 4)
-PADA_UNIFORMITY_TOLERANCE = 2
+PADA_UNIFORMITY_TOLERANCE = 1
+
+TSHEG_NB = "༌"  # U+0F0C TIBETAN MARK DELIMITER TSHEG BSTAR (non-breaking tsheg)
+FOOTNOTE_MARK_RE = re.compile(r"\[\^[^\]]*\]")
+SYLLABLE_RE = re.compile(r"[ཀ-ྼ]+")
 
 
 def count_syllables(text: str) -> int:
-    return text.count(TSHEG) + (1 if text.strip() else 0)
+    return len(SYLLABLE_RE.findall(FOOTNOTE_MARK_RE.sub("", text)))
+
+
+# Sentence-final particles (རྫོགས་ཚིག). A pāda that is not the last of its stanza
+# normally ends in a connective, a case particle or a bare noun; a run of lines
+# that EACH close a sentence is prose of similar length, not a stanza.
+FINAL_PARTICLE_SYL = {"གོ", "ངོ", "དོ", "ནོ", "བོ", "མོ", "རོ", "ལོ", "སོ", "ཏོ"}
+
+
+def _ends_sentence(unit: str) -> bool:
+    core = FOOTNOTE_MARK_RE.sub("", unit).strip()
+    core = re.sub(rf"[\s{SHAD}{NYIS_SHAD}{TSHEG}{TSHEG_NB}]+$", "", core)
+    last = re.split(rf"[{TSHEG}{TSHEG_NB}\s]", core)[-1] if core else ""
+    return last in FINAL_PARTICLE_SYL or last.endswith("འོ")
+
+
+def _all_sentence_final(units) -> bool:
+    return all(_ends_sentence(u) for u in units)
 
 
 def _is_pada_unit(unit):
@@ -116,6 +140,8 @@ def _is_pada_unit(unit):
         return False
     if re.match(r"^(?:ན་མོ|ནཱ་མོ|ན་མཿ)", stripped):
         return False  # the namo homage formula opens a text; it is not a verse line
+    if re.match(r"^(?:ཞེས|ཅེས)[་༌]", FOOTNOTE_MARK_RE.sub("", stripped)):
+        return False  # "ཞེས་པ་ནི་ …" closes a quotation and glosses it: commentary, not a pāda
     last = stripped[-1]
     if last == NYIS_SHAD:
         ends_double = True
@@ -189,11 +215,13 @@ def scan_segments(para):
     # keeps normal prose sentences (which almost always end with single shad)
     # from being mis-promoted.
     n = len(units)
+    bridged = [False] * n
     for i in range(1, n - 1):
         if not flags[i] and flags[i - 1] and flags[i + 1]:
             stripped = units[i].strip()
             if PADA_MIN_SYL <= count_syllables(stripped) <= PADA_MAX_SYL:
                 flags[i] = True
+                bridged[i] = True
     out = []
     pending = []  # prose units awaiting flush
 
@@ -209,12 +237,17 @@ def scan_segments(para):
             while j < n and flags[j]:
                 j += 1
             run = units[i:j]
+            run_bridged = bridged[i:j]
             k = 0
             while k < len(run):
                 chunk = None
                 for size in (4, 3, 2):  # prefer a full quatrain
                     cand = run[k:k + size]
-                    if len(cand) == size and _uniform(cand):
+                    # A bridged (single-shad) unit is a pāda only INSIDE a
+                    # stanza; as a chunk's first or last line it is prose.
+                    if (len(cand) == size and _uniform(cand)
+                            and not run_bridged[k] and not run_bridged[k + size - 1]
+                            and not _all_sentence_final(cand)):
                         chunk = cand
                         break
                 if chunk is not None:
