@@ -1,7 +1,7 @@
 ---
 name: commentary-preclean
 description: >
-  Step 1 of commentary-pipeline (optional). Strip earlier scaffolding from a Tibetan
+  Step 1 of commentary-pipeline (optional): strip earlier scaffolding from a Tibetan
   commentary — standalone OCR index numbers, outline numbers, block / verse IDs, heading
   markers, per-line breaks — back to continuous prose, so commentary-segment can re-derive
   the boundaries. The footnote apparatus and footnote markers [^n] are kept, the title line

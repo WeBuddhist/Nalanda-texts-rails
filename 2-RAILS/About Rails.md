@@ -55,7 +55,7 @@ The LLM is the compiler. Human domain specialists are the reviewers. Nothing in 
 └── Termbases/ # OPTIONAL — see §6d
 ```
 
-`Sections/Raw/` additionally holds the structural trees and their evidence trail when this vault runs the `toc-generate` pipeline — see §6a.
+`Sections/Raw/` additionally holds the structural trees and their evidence trail when this vault runs the commentary TOC workflow (`commentary-toc-extract`) — see §6a.
 
 **The optional folders exist only in vaults that run the corresponding pipeline.** A skill whose input folder is absent says so and stops; it never invents a location. A **collection vault** replaces `Verses/` with `Texts/` (one package per short text) — see [`../4-SYSTEM/Guidelines/vault-variants.md`](../4-SYSTEM/Guidelines/vault-variants.md).
 
@@ -386,7 +386,7 @@ status: draft | complete
 ---
 ```
 
-Authoring skill: `toc-generate`. Consumed by: `toc-generate` Phase E (places the headings into the source file), `commentary-claims`.
+Authoring skill: `commentary-toc-extract` (pass 6 QC, then Publish). Consumed by: `commentary-toc-ingest` (places the headings into the source file), `commentary-claims`, `spine-map`, `section-summary`.
 
 ---
 

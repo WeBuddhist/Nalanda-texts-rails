@@ -1,7 +1,7 @@
 ---
 name: root-text-group
 description: >
-  Step 5 of root-text-pipeline — the model step. Group the units of a segmented root text
+  Step 5 of root-text-pipeline — the model step: group the units of a segmented root text
   into blocks by sense: verse lines into stanzas (no fixed length), prose sentences into
   paragraphs of one point or one ritual step, verse passages inside prose into stanzas.
   Never across a heading or a printed paragraph break (¶). Isolated subagents follow

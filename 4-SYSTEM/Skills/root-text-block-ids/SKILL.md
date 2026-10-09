@@ -1,7 +1,7 @@
 ---
 name: root-text-block-ids
 description: >
-  Step 6 of root-text-pipeline. Build the final root-text file from the grouping (verse lines
+  Step 6 of root-text-pipeline: build the final root-text file from the grouping (verse lines
   one per line inside a stanza, a prose paragraph on one line), refuse a grouping that mixes
   prose and verse, crosses a heading or a printed paragraph break, or misses a unit; stamp
   the block IDs (^0, ^I-n, ^N-n, ^a-n); verify the text is unchanged. Deterministic, no

@@ -1,7 +1,7 @@
 ---
 name: commentary-resegment
 description: >
-  Step 5 of commentary-pipeline. Re-draw block boundaries in a segmented Tibetan commentary
+  Step 5 of commentary-pipeline: re-draw block boundaries in a segmented Tibetan commentary
   (with its TOC headings in) to produce semantically coherent, citation-sized units: the
   model flags merge/split operations per window, a Python script applies them and verifies
   text integrity, then a QC pass checks and repairs. No character is added, removed, or

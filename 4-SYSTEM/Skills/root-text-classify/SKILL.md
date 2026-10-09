@@ -1,7 +1,7 @@
 ---
 name: root-text-classify
 description: >
-  Step 1 of root-text-pipeline. Decide whether a Tibetan text from the root folder is a
+  Step 1 of root-text-pipeline: decide whether a Tibetan text from the root folder is a
   VERSE text, a PROSE text, MIXED (prose with verse passages) — or actually a COMMENTARY
   (it glosses another text), which must go to commentary-pipeline instead. Content first,
   title second: a commentary word in the title does not make a verse text a commentary.

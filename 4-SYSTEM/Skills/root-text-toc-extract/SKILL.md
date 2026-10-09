@@ -1,7 +1,7 @@
 ---
 name: root-text-toc-extract
 description: >
-  Step 3 of root-text-pipeline. Build the heading tree of a Tibetan ROOT TEXT that announces
+  Step 3 of root-text-pipeline: build the heading tree of a Tibetan ROOT TEXT that announces
   its own parts — chapters closed by …ལེའུ་དང་པོའོ།, rites announced as <topic> ཆོ་ག་ནི།,
   <topic> བཤད་བྱ་སྟེ།, parts opened by དང་པོ་ … ནི། — in isolated passes: (1) section
   candidates incl. topic headers without an ordinal, (2) verbatim enumerations, (3) nested

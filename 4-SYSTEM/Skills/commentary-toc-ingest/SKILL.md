@@ -1,7 +1,7 @@
 ---
 name: commentary-toc-ingest
 description: >
-  Step 4 of commentary-pipeline. Ingest an anchored TOC tree (written by
+  Step 4 of commentary-pipeline: ingest an anchored TOC tree (written by
   commentary-toc-extract's pass 5) into a segmented commentary by inserting markdown
   headings with block IDs, the way the vault's human-edited commentaries carry them: each
   heading at the start of the block where its section begins, parent and first-child

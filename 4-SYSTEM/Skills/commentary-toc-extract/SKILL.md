@@ -1,7 +1,7 @@
 ---
 name: commentary-toc-extract
 description: >
-  Step 3 of commentary-pipeline. Build the full nested, decimal-numbered ས་བཅད (sa bcad)
+  Step 3 of commentary-pipeline: build the full nested, decimal-numbered ས་བཅད (sa bcad)
   TOC TREE of a Tibetan Buddhist commentary — candidates, verbatim enumerations, nested
   tree, deterministic QC + repair, anchors — each pass an ISOLATED subagent with only its
   own prompt, plus the front/back-matter frame nodes. Four modes, chosen per commentary:
