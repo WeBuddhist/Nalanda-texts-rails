@@ -1,168 +1,296 @@
 ---
 name: commentary-resegment
 description: >
-  Re-paragraph a Tibetan commentary that has ONE CLAUSE PER LINE into readable
-  sense-unit paragraphs. An LLM (Gemini) reads each section and decides, BY MEANING
-  (content and context — NOT grammar rules or particles), which adjacent lines form
-  one paragraph (about 2–4 lines); a Python script joins each group onto a single
-  line, separates paragraphs with a blank line, and verifies the source text is
-  byte-identical. The source is read-only ground truth: only newlines and spaces are
-  added or removed — no word or character is altered, reordered, added, or deleted.
-
-  Use when the input is a one-clause-per-line commentary (e.g. *_segmented.md,
-  *.toc.md) that needs to be grouped into meaningful paragraphs.
-
-  Trigger when the user says things like: "re-paragraph the commentary",
-  "group the clause lines into meaningful paragraphs", "resegment by sense",
-  or "run commentary-resegment".
+  Step 5 of commentary-pipeline: re-draw block boundaries in a segmented Tibetan commentary
+  (with its TOC headings in) to produce semantically coherent, citation-sized units: the
+  model flags merge/split operations per window, a Python script applies them and verifies
+  text integrity, then a QC pass checks and repairs. No character is added, removed, or
+  reordered — only blank-line boundaries change. Gemini 3.8 Flash (high) by default, Claude
+  (Opus) subagents on request. Use for "re-segment the commentary", "fix the block
+  boundaries", "merge and split blocks semantically", "run meaningful segmentation".
 profile: rails-vault
 ---
 
 # commentary-resegment
 
-**Role:** Expert editor of classical Tibetan Buddhist commentary (འགྲེལ་པ་).
+**Role:** Expert editor in classical Tibetan Buddhist commentary (འགྲེལ་པ་) structure.
 
-**Task:** Group a one-clause-per-line commentary into short, coherent paragraphs —
-**by meaning, decided by the LLM**, not by hard grammar rules — while changing not one
-word or character of the source.
-
----
-
-## What changed from the old skill
-
-This replaces the earlier rule-based `block-resegmentation-linewise`. The old version
-merged lines only when a **grammatical signal** fired (connector particles
-`དང་།/ཤིང་།/སྟེ།`, verse-stanza shape, enumeration heads). That was rejected as too
-mechanical. The new version lets the **LLM judge sense units from content and context**,
-targeting paragraphs of about 2–4 lines. The plumbing (windowing, staging, validation,
-apply, integrity gate) is unchanged.
+**Task:** Identify which adjacent blocks should be merged into one thought unit and
+which single blocks should be split at a topic boundary — then apply those operations
+via script, preserving every character of the source.
 
 ---
 
-## The model
+## Pipeline position
 
 ```
-unit            = one non-blank, non-heading line (atomic; never altered)
-default state   = every unit is its own paragraph
-GROUP n..m      = lines n..m form ONE paragraph, joined onto a single line
-headings        = pass through untouched, framed by blank lines
-output          = paragraphs separated by exactly one blank line
+commentary-segment --units    ← rule-based units (+ --root quotes)
+         ↓
+commentary-toc-extract (passes 1–5)    ← sa bcad tree + anchors
+commentary-toc-ingest                     ← headings inserted into the segmented file
+         ↓
+commentary-resegment                ← THIS SKILL: meaning-based merge/split
+         ↓
+commentary-block-ids               ← derived body IDs (optional, after review)
 ```
 
-The LLM only points at line numbers (`{"op":"merge","lines":[14,15,16]}`); the script
-does all text handling. Lines the LLM does not group default to their own paragraph.
+**Input:** a Stage-1 segmented file with TOC headings embedded, in `0-INBOX/segmented/`
+or wherever the TOC step wrote its output.
+
+**Do not run** on a file that has block IDs already. Do not run before TOC headings
+are included (the headings give the LLM section context).
 
 ---
 
-## Integrity rule — pure whitespace-only
+## What good output looks like — one block per functional unit
 
-The source is read-only ground truth. The only edits are added/removed newlines and
-spaces (no `>` or other markers are introduced). The gate is therefore exact:
+This is the layout of the vault's human-edited commentaries (measured in
+`4-SYSTEM/scripts/seg-toc-benchmark/`), the same one `commentary-segment --units`
+produces deterministically. This skill finishes what rules cannot decide — mostly
+**merging an explanation that the segmenter cut at a sentence end**.
 
-```
-strip_all_whitespace(source) == strip_all_whitespace(output)
-```
+- **Opener** — a division announcement together with the first-child opener that follows
+  it (`… ལ་གསུམ། A། B། C་འོ། །དང་པོ་ནི།`); a sibling opener `གཉིས་པ་ … ནི།` alone.
+- **Root quote** — the quoted root stanza, whole. Verse blocks are **protected**: the
+  script rejects any operation that touches one, so an opener can never be glued onto a
+  stanza and a stanza can never be cut.
+- **Explanation** — `ཞེས་པ་སྟེ། …` up to the next opener, quote or heading is one block,
+  even at 150–250 syllables, with its questions (`གང་ལ་ན།`), side remarks, variant
+  readings and passing mantra citations. **Never split a block only because it is long.**
+- **Frame** — the namo line alone, each of the author's verses, `སྨྲས་པ།` alone, the
+  colophon one block.
+- **Headings are untouched.** Markdown heading lines pass through unchanged and are never
+  part of a merge or split operation.
 
-If the two character streams differ, the output is **not written**.
-
----
-
-## How the LLM decides (content-based, not rules)
-
-For each section the model reads the lines **and their context** and groups adjacent
-lines into one paragraph when they form a single sense unit — one idea, one narrative
-beat, one objection-and-reply exchange. It starts a new paragraph when the topic, the
-actor, or the move in the argument shifts. Target length is about **2–4 lines**, leaning
-shorter when unsure. There are no particle/verse/enumeration rules.
-
-Mechanical guardrails the script still enforces (not judgments about the text): a group's
-lines must be consecutive, must not cross a heading, and no line is used twice.
-
----
-
-## Architecture
-
-```
-[Phase 1]  Number lines; slice into sections on TOC headings. A file with no headings is
-           cut into windows of <= --window-lines lines at sentence-final particles, so no
-           sense unit is split across a window boundary.
-[Phase 2]  LLM returns paragraph groups by line number for each window.
-[Phase 3]  Script validates (consecutive, no heading crossed, no overlap) and joins each
-           group onto one line; uncovered lines become their own paragraph.
-[Phase 4]  Integrity gate (whitespace-only). On mismatch, nothing is written.
-```
+Merged prose is joined the way the source writes it: no space after a `། །` cluster, one
+space after a single shad.
 
 ---
 
-## Script — `resegment.py`
+## Architecture — LLM flags, script applies
 
 ```
-# one file:
+[Phase 1]  Script chunks the file into overlapping block windows
+[Phase 2]  LLM reads each window, outputs a JSON operation list
+           {"op": "merge", "blocks": [3, 4]}
+           {"op": "split", "block": 7, "after": "<unique substring>"}
+[Phase 3]  Script combines windows (overlap zone: a merge is kept only where every
+           window that sees both blocks makes it), applies ops
+[Phase 4]  Script runs squeeze(input) == squeeze(output); aborts on mismatch
+[Phase 5]  QC pass — deterministic checks + optional LLM correction
+[Phase 6]  Human reviews ops log + QC report; approves output
+```
+
+The LLM **never retypes Tibetan**. It only points at block numbers and verbatim
+substrings. All text manipulation is done by the script.
+
+---
+
+## Scripts
+
+Two scripts bundled in `scripts/`:
+
+| Script | Purpose |
+|---|---|
+| `resegment.py` | Main resegmentation: chunk → LLM flag → apply → integrity check |
+| `qc_check.py` | QC pass: deterministic checks → optional LLM correction → integrity check |
+
+---
+
+### `resegment.py`
+
+```
 python3 4-SYSTEM/Skills/commentary-resegment/scripts/resegment.py \
-    "1-SOURCES/commentaries/Raw/BCAC14_GDR_bo.toc.md" --commentary-id BCAC14_GDR_bo
+    "0-INBOX/segmented/<file>.md" \
+    --commentary-id <id>
 ```
 
-**Setup:** `pip install google-genai`; key from `GEMINI_API_KEY` env **or** repo-root
-`.env` (read automatically).
+**Setup:** `pip install google-genai`; the key is read from `GEMINI_API_KEY` in the environment
+or the vault-root `.env` (never printed). The model step can also run on Claude — see
+**Model** below.
+
+**Key flags:**
 
 | Flag | Default | Purpose |
 |---|---|---|
-| `--commentary-id` | filename stem | Output id |
-| `--window-lines` | 60 | Max content lines per LLM window (paragraph granularity) |
-| `--model` | `gemini-3.8-flash` (high thinking) | Gemini model |
-| `--fallback-model` | none | Fallback if overloaded (`gemini-2.0-flash` was retired) |
-| `--force` | off | Reprocess all windows even if staged |
-| `--apply-only` | off | Skip LLM calls; apply staged decisions |
-| `--dry-run` | off | Integrity check only; write nothing |
+| `--commentary-id` | inferred from filename | Short ID for output filenames and staging folder |
+| `--window-size` | 40 | Blocks per LLM call |
+| `--overlap` | 5 | Overlap blocks between adjacent windows |
+| `--model` | `gemini-3.8-flash` (high thinking) | Gemini model to use |
+| `--fallback-model` | none | Fallback if primary is overloaded (`gemini-2.0-flash` was retired) |
+| `--force` | off | Reprocess all windows even if staging files exist |
+| `--apply-only` | off | Skip LLM calls; apply already-staged operations |
+| `--dry-run` | off | Run integrity check only; write nothing |
 
 **Outputs:**
 
 | File | Purpose |
 |---|---|
-| `0-INBOX/resegmented/<id>.reseg.md` | Re-paragraphed commentary (one line per paragraph) |
-| `0-INBOX/resegmented/<id>.ops.md` | Log of paragraph groups applied |
+| `0-INBOX/resegmented/<id>.reseg.md` | Resegmented commentary |
+| `0-INBOX/resegmented/<id>.ops.md` | Human-readable operations log |
 | `0-INBOX/temp/RESEG-<id>/windows/window-NNNN.json` | Per-window staging (resumable) |
-
-Resumable (re-run skips staged windows); `--apply-only` re-applies staged decisions
-without new LLM calls.
 
 ---
 
-## LLM — Gemini 3.8 Flash by default, Claude agents on request
+### `qc_check.py`
 
-**Default: Gemini 3.8 Flash, high thinking** (`thinking_level="high"`, temperature at the API
-default, 65,536 output tokens because thinking counts against them; a reply cut off at that
-limit is retried, never used).
+Mirrors the QC pattern in `toc_tree_extractor`: detect → repair → re-check → report.
+By default all four steps run automatically. Run after `resegment.py`.
 
-**On request — Claude agents (Opus, high effort).** Run the same prompts through the bundled
-adapter; the script's windowing, grouping and integrity check stay the same:
-
-```bash
-python 4-SYSTEM/Skills/commentary-resegment/scripts/claude_generate_shim.py     --dir 0-INBOX/temp/RESEG-<id>/claude-calls --     4-SYSTEM/Skills/commentary-resegment/scripts/resegment.py "<input.md>" --commentary-id <id>
+```
+python3 4-SYSTEM/Skills/commentary-resegment/scripts/qc_check.py \
+    "0-INBOX/resegmented/<id>.reseg.md"
 ```
 
-When it stops with exit code 3 it has written `call-NNN.prompt.md`: answer it with one
-isolated subagent (`model: opus`) — *"Read `<…/call-NNN.prompt.md>` in full, act exactly as
-the model receiving its system and user prompt, and write ONLY the reply to
-`<…/call-NNN.response.txt>`"* — then re-run the same command; repeat until it finishes. Run
-the session at high effort.
+Use `--no-fix` to run detection only (no LLM repair):
+
+```
+python3 4-SYSTEM/Skills/commentary-resegment/scripts/qc_check.py \
+    "0-INBOX/resegmented/<id>.reseg.md" --no-fix
+```
+
+**Steps:**
+
+1. **Deterministic check** — scans every block for known violations; no API call.
+2. **LLM repair** — sends the issues list + flagged blocks with context to the model (Gemini by default),
+   which outputs correction operations. Script applies them; integrity is verified.
+3. **Re-check** — runs the deterministic checks again on the repaired output.
+4. **Report** — written with `flags_before`, corrections applied, `flags_after`.
+
+**What the deterministic checker flags:**
+
+| Flag                    | Condition                                                                                         |
+| ----------------------- | ------------------------------------------------------------------------------------------------- |
+| `CONNECTOR_ENDING`      | Block ends with `དང་།` / `ཞིང་།` / `ཅིང་།` / `ནས།` / `ལས།` / `སྟེ།` / `ཏེ།` — sentence incomplete |
+| `OBJECTION_REPLY_FUSED` | Block contains both `ཅེ་ན།`/`ཞེ་ན།` and `འོ་ན།` — should be two blocks                            |
+| `OVER_LENGTH`           | Block exceeds 250 syllables — may contain a buried node opener (a whole explanation is legitimately long) |
+| `SHORT_FRAGMENT`        | Block is under 4 syllables — may be a split artifact                                              |
+
+**Outputs:**
+
+| File | Purpose |
+|---|---|
+| `0-INBOX/resegmented/<id>.qc.md` | QC report with `flags_before` / `flags_after` |
+| `.reseg.md` updated in place | (only when real issues found and `--no-fix` not set) |
+
+**Key flags:**
+
+| Flag | Default | Purpose |
+|---|---|---|
+| `--no-fix` | off | Detection only; skip LLM repair |
+| `--over-length` | 250 | Syllable threshold for OVER_LENGTH flag |
+| `--dry-run` | off | Compute corrections but write nothing |
+| `--model` | `gemini-3.8-flash` (high thinking) | Gemini model |
+| `--fallback-model` | none | Fallback model |
+
+---
+
+## How the LLM decides
+
+The full instruction text is `SYSTEM_PROMPT` in `scripts/resegment.py`; in short:
+
+### MERGE
+
+**M1 — Continued explanation** (the most common fix). A block that goes on explaining the
+same quote/topic as the block before it — no new opener, quote or verse — belongs to it.
+A sentence end alone is not a reason to keep a cut.
+**M2 — Incomplete sentence.** A block ending in a connector (`དང་།` / `ཞིང་།` / `ཅིང་།` /
+`ནས།` / `སྟེ།` / `ཏེ།`) that the next block completes.
+**M3 — Opener chain.** An enumeration block followed by `དང་པོ་ནི།` / `དང་པོ་ལ་ N།`.
+**M4 — Colophon.** The parts of the closing colophon and its final wishes.
+
+### SPLIT
+
+**S1** — a new node opener (ordinal + title + `ནི།` / `ལ་ N།`) buried mid-block.
+**S2** — the treatment of a new verse/topic starting mid-block (e.g. `ཡང་ཕྱག་གང་ལ་འཚལ་ན`).
+**S3** — an opener `… ནི།` fused to the explanation of the previous quote.
+
+Blocks tagged `[HEADING]` or `[VERSE]` in the window are never part of an operation; the
+script enforces this whatever the model returns.
 
 ---
 
 ## Procedure
 
-1. **Pilot one file**, then read `0-INBOX/resegmented/<id>.reseg.md`. Confirm
-   `✓ Integrity check passed`.
-2. **Tune** `--window-lines` if paragraphs feel too long/short.
-3. **Repeat** for the other files (loop over the folder in your shell).
+**Step 1 — Resegment**
+
+Confirm the input file has TOC headings embedded and no block IDs yet. Then run:
+
+```
+python3 4-SYSTEM/Skills/commentary-resegment/scripts/resegment.py \
+    "0-INBOX/segmented/<file>.md" \
+    --commentary-id <id>
+```
+
+The script processes all windows (resumable — re-run after interruption without
+`--force` to pick up where it stopped). On completion it prints: block count
+before → after, operations applied, any conflicts in the overlap zone, and the
+integrity check result.
+
+- If integrity check fails (`✗`): the output file is **not written**. Read the
+  error, fix the staging JSON if needed, re-run with `--apply-only`.
+- **Overlap disagreements** (`Blocks a | b: windows [4, 5], joined by [4]`): two windows
+  disagree whether two blocks belong together; the boundary is **kept**. A window whose
+  merge runs into its own last block cannot see where that unit ends — before v2.1 its
+  merge won silently (the log said "not applied") and swallowed the next window's
+  boundary (tāranātha: a chapter boundary lost in all six runs; boundary F1 +0.02–0.03
+  with the fix). To merge anyway, edit the relevant `window-NNNN.json` and re-run with
+  `--apply-only`.
+- **Split conflicts** (two windows split one block differently) are not applied and are
+  listed for manual review: edit the staging file, then re-run with `--apply-only`.
+
+**Step 2 — QC**
+
+```
+python3 4-SYSTEM/Skills/commentary-resegment/scripts/qc_check.py \
+    "0-INBOX/resegmented/<id>.reseg.md"
+```
+
+Runs all four steps automatically: detect → LLM repair → re-check → write report.
+The `.reseg.md` file is updated in place if real issues are found.
+Review `0-INBOX/resegmented/<id>.qc.md` for the `flags_before` / `flags_after` summary.
+
+To run detection only without repair: add `--no-fix`.
+
+**Step 3 — Human review**
+
+Review `0-INBOX/resegmented/<id>.ops.md` (main operations) and
+`0-INBOX/resegmented/<id>.qc.md` (QC corrections). On approval the file is ready.
 
 ---
 
 ## Rules
 
-- **No text changes.** The whitespace-only integrity gate must pass or nothing is written.
-- **Only whitespace is added/removed.** No `>`, `#`, or other characters are introduced.
-- **Headings untouched; paragraphs never cross a heading.**
-- **Output goes to `0-INBOX/resegmented/`**, leaving the read-only source intact.
-- **Judgment, not rules.** Grouping is interpretive (content/context), so paragraph
-  breaks are not perfectly identical across runs.
+- **No character changes.** The script enforces `squeeze(input) == squeeze(output)`.
+  If this assertion fails, the output is not written.
+- **Headings are never touched.** A block starting with `#` is always KEEP.
+- **Output stays in `0-INBOX/`** until a domain specialist approves.
+- **Verse blocks are protected** like headings (rejected in validation).
+- **When in doubt, keep the cut.** Merge only where the next block plainly continues the
+  same unit.
+
+## Model — Gemini 3.8 Flash by default, Claude agents on request
+
+**Default: Gemini 3.8 Flash, high thinking** — both scripts call it directly
+(`thinking_level="high"`, temperature at the API default, 65,536 output tokens because
+thinking counts against them; a reply cut off at that limit is retried, never used).
+Measured on the 8-file benchmark: Gemini 3.8 Flash high and Opus are equal on this step.
+
+**On request — Claude agents (Opus, high effort).** When the user asks for Claude / Opus,
+run the *same prompts* with isolated subagents, using the two adapters bundled in
+`scripts/` (the scripts' windowing, staging, reconciliation and integrity checks stay the
+same — only the model call is swapped). Run the session at high effort.
+
+1. Windows: `python 4-SYSTEM/Skills/commentary-resegment/scripts/claude_reseg_shim.py dump "<input.md>" --commentary-id <id>`
+   → one `0-INBOX/temp/RESEG-<id>/claude/window-NNNN.prompt.md` per window.
+2. One isolated subagent **per window** (`model: opus`), in parallel — the windows must not
+   see each other, as with separate API calls:
+   > Read `<…/window-NNNN.prompt.md>` in full. It contains a system prompt and a user prompt;
+   > act exactly as the model receiving them and produce the JSON array it asks for. Write
+   > ONLY that array to `<…/window-NNNN.response.json>`. Read no other file.
+3. `python …/claude_reseg_shim.py stage "<input.md>" --commentary-id <id>`, then
+   `python …/resegment.py "<input.md>" --commentary-id <id> --apply-only`.
+4. QC repair: `python …/claude_generate_shim.py --dir 0-INBOX/temp/RESEG-<id>/qc-calls -- 4-SYSTEM/Skills/commentary-resegment/scripts/qc_check.py "0-INBOX/resegmented/<id>.reseg.md"`.
+   If it stops with exit code 3, it has written `call-NNN.prompt.md`: answer it with one
+   isolated Opus subagent into `call-NNN.response.txt` (raw reply, no fence), then re-run
+   the same command; repeat until it finishes.

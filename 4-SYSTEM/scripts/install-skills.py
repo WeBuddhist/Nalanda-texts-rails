@@ -7,7 +7,7 @@ every vault. This script resolves those names to this vault's real paths,
 copies the skill folder in, and writes the matching slash-command stub.
 
     python3 4-SYSTEM/scripts/install-skills.py --from ../Webuddhist-Skills
-    python3 4-SYSTEM/scripts/install-skills.py --from ../Webuddhist-Skills --only verse-context,toc-generate
+    python3 4-SYSTEM/scripts/install-skills.py --from ../Webuddhist-Skills --only verse-context,commentary-toc-extract
     python3 4-SYSTEM/scripts/install-skills.py --from ../Webuddhist-Skills --dry-run
 
 It is idempotent: re-run it whenever the library changes. It does NOT touch

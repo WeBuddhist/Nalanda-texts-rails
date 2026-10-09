@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/temp/segmented-commentary-with-toc/Dh_3CEz_.toc.md",
+                "file": "0-INBOX/temp/segmented-commentary-with-toc/Bu_3CCC.toc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dh_3CEz_.toc"
+              "title": "Bu_3CCC.toc"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.12216567993164,
-    "collapsed": true
+    "width": 272.65528106689453
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -198,43 +197,43 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d066ca5c15f520a5",
+  "active": "eb2538ea3fa47051",
   "lastOpenFiles": [
-    "Untitled 1.base",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
-    "Untitled.base",
-    "0-INBOX/temp/segmented-commentary-with-toc/Dh_3CEz_.toc.md",
-    "0-INBOX/temp/segmented-commentary-with-toc/Bh_3CCF.toc.md",
-    "0-INBOX/temp/segmented-commentary-with-toc/Ar_3CBb_.toc.md",
-    "0-INBOX/temp/segmented-commentary-with-toc/Gu_3CFQ.toc.md",
-    "conflict-files-obsidian-git.md",
-    "0-INBOX/toc-tree-qc-Dh_3CEz_.md",
-    "0-INBOX/toc-tree-Dh_3CEz_.md",
-    "0-INBOX/toc-enumerations-Dh_3CEz_.md",
-    "0-INBOX/toc-candidates-Dh_3CEz_.md",
-    "0-INBOX/temp/segmentated text/Bh_3CCF.toc.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-G0.tree.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-G0.anchored.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-G.tree.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-G.anchored.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-F.tree.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-F.anchored.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-E.tree.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-E.anchored.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-D.tree.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-D.anchored.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-C.tree.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-C.anchored.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-B.tree.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-B.anchored.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5/part-A.tree.md",
-    "0-INBOX/temp/TOC-Dh_3CEz_/pass5",
-    "0-INBOX/temp/TOC-Dh_3CEz_/enumerations",
-    "0-INBOX/temp/TOC-Dh_3CEz_/chunk-index.tsv",
-    "0-INBOX/temp/TOC-Dh_3CEz_/candidates",
-    "0-INBOX/temp/TOC-Dh_3CEz_"
+    "4-SYSTEM/Skills/seg-toc-lib/toc_tree_extractor/run_extract_toc.bat",
+    "4-SYSTEM/Skills/seg-toc-lib/toc_tree_extractor/ingest_toc_commentary.py",
+    "4-SYSTEM/Skills/seg-toc-lib/toc_tree_extractor/find_toc_contexts.py",
+    "4-SYSTEM/Skills/seg-toc-lib/toc_tree_extractor/extract_toc_tree.py",
+    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass4-qc-repair.md",
+    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass5-anchors.md",
+    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass3-tree.md",
+    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass2-enumerations.md",
+    "4-SYSTEM/Skills/seg-toc-lib/prompts/pass1-candidates-root.md",
+    "4-SYSTEM/Skills/seg-toc-lib/verify_text.py",
+    "4-SYSTEM/Skills/seg-toc-lib/toc_tree_ingest.py",
+    "4-SYSTEM/Skills/seg-toc-lib/toc_tree_extractor",
+    "4-SYSTEM/Skills/seg-toc-lib/SKILL.md",
+    "4-SYSTEM/Skills/seg-toc-lib/root_text_build.py",
+    "4-SYSTEM/Skills/seg-toc-lib/qc_tree_vs_source.py",
+    "4-SYSTEM/Skills/seg-toc-lib/qc_check_tree.py",
+    "4-SYSTEM/Skills/seg-toc-lib/prompts",
+    "4-SYSTEM/Skills/root-text-toc-ingest/SKILL.md",
+    "4-SYSTEM/Skills/root-text-toc-extract/SKILL.md",
+    "4-SYSTEM/Skills/commentary-toc-ingest/SKILL.md",
+    "4-SYSTEM/Skills/commentary-toc-extract/prompts/verse-headings.md",
+    "4-SYSTEM/Skills/commentary-toc-extract/prompts/pass1-candidates.md",
+    "4-SYSTEM/Skills/commentary-toc-extract/SKILL.md",
+    "4-SYSTEM/Skills/commentary-segment/SKILL.md",
+    "4-SYSTEM/Skills/commentary-preclean/SKILL.md",
+    "4-SYSTEM/Skills/commentary-pipeline/SKILL.md",
+    "4-SYSTEM/Skills/commentary-block-ids/SKILL.md",
+    "4-SYSTEM/scripts/seg-toc-benchmark/README.md",
+    "4-SYSTEM/scripts/seg-toc-benchmark/HANDOFF.md",
+    "4-SYSTEM/Skills/root-text-segment/SKILL.md",
+    "4-SYSTEM/Skills/root-text-pipeline/SKILL.md",
+    "4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md",
+    "4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md",
+    "4-SYSTEM/Skills/root-text-group/SKILL.md",
+    "4-SYSTEM/Skills/root-text-classify/SKILL.md",
+    "4-SYSTEM/Skills/root-text-block-ids/SKILL.md"
   ]
 }
