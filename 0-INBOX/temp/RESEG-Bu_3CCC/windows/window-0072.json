@@ -1,0 +1,26 @@
+{
+  "window_idx": 72,
+  "start_block": 2521,
+  "end_block": 2560,
+  "operations": [
+    {
+      "op": "merge",
+      "blocks": [
+        2531,
+        2532
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        2547,
+        2548,
+        2549,
+        2550,
+        2551,
+        2552,
+        2553
+      ]
+    }
+  ]
+}
