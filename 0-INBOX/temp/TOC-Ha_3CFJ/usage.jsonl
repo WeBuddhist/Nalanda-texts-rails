@@ -145,3 +145,8 @@
 {"label": "p5-w004", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 87.7, "input": 43788, "output": 404, "thought": 13735}
 {"label": "p5-w005", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 9.6, "input": 43707, "output": 1, "thought": 1084}
 {"label": "p5-w006", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 15.5, "input": 43634, "output": 1, "thought": 2156}
+{"label": "p5-w007", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 5.6, "input": 43500, "output": 1, "thought": 508}
+{"label": "p5-w008", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 5.0, "input": 43574, "output": 1, "thought": 358}
+{"label": "p5-w009", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 8.4, "input": 43247, "output": 1, "thought": 1045}
+{"label": "p5-w010", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 8.1, "input": 45998, "output": 1, "thought": 907}
+{"label": "p5-w011", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 6.8, "input": 36292, "output": 1, "thought": 877}

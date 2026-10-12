@@ -4,7 +4,7 @@ Running `root-text-toc-extract` on every root text in `0-INBOX/root/`, one text 
 **No ingest yet**: the headings are put into the texts later, together with the updated
 segmentation. This document says where everything is and how to continue.
 
-Updated 2026-10-12 · 440 texts · done 248 · no parts announced 168 · earlier run 22 · failed 1 · running 1 · **to do 0**
+Updated 2026-10-12 · 440 texts · done 249 · no parts announced 168 · earlier run 22 · failed 1 · running 0 · **to do 0**
 
 Size classes (characters of `0-INBOX/root/<id>.md`): small < 30,000 · medium 30,000–199,999 · large ≥ 200,000 — small 358 · medium 58 · large 24. How to run the rest with Gemini: `0-INBOX/temp/root-toc/README.md`.
 
@@ -303,7 +303,7 @@ words end up mid-line under the new rules is placed by hand.
 | 246 | Ha_3CFG | large | 711330 | 1965 | done | prose | 10303 | 83 | 19 | 22 | 0 | 19 flags | Gemini run — review the top-level parts | 3.8-flash medium · $3.38 · 30.8 min | `TOC-Ha_3CFG/toc-tree-anchored-Ha_3CFG.md` |
 | 247 | Ha_3CFH | large | 749999 | 2298 | done | prose | 9694 | 78 | 14 | 102 | 0 | 71 flags | Gemini run — review the top-level parts | 3.8-flash medium · $3.79 · 38.6 min | `TOC-Ha_3CFH/toc-tree-anchored-Ha_3CFH.md` |
 | 248 | Ha_3CFI | large | 670280 | 2206 | done | prose | 7792 | 63 | 3 | 51 | 0 | 33 flags | Gemini run — review the top-level parts | 3.8-flash medium · $3.72 · 38.5 min | `TOC-Ha_3CFI/toc-tree-anchored-Ha_3CFI.md` |
-| 249 | Ha_3CFJ | large | 667778 | 2134 | running |  |  |  |  |  |  |  | Gemini run failed: === 2026-10-12 19:50:50 gemini-3.8-flash medium | started 21:06 |  |
+| 249 | Ha_3CFJ | large | 667778 | 2134 | done | prose | 8136 | 65 | 18 | 18 | 0 | 10 flags | Gemini run — review the top-level parts | 3.8-flash medium · $5.02 · 0.6 min | `TOC-Ha_3CFJ/toc-tree-anchored-Ha_3CFJ.md` |
 | 250 | Ha_3CFO | medium | 88486 | 647 | done | prose | 2881 | 23 | 8 | 8 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.28 · 0.7 min | `TOC-Ha_3CFO/toc-tree-anchored-Ha_3CFO.md` |
 | 251 | Ka_3CDK | large | 420177 | 1670 | no-parts | prose | 6304 | 51 | 0 | 0 |  |  |  | 3.8-flash medium · $0.61 · 2.9 min |  |
 | 252 | Ka_3CDL | medium | 103971 | 433 | done | verse | 6805 | 55 | 0 | 0 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.35 · 1.4 min | `TOC-Ka_3CDL/toc-tree-anchored-Ka_3CDL.md` |

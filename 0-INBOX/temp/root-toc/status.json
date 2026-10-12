@@ -3527,11 +3527,18 @@
  },
  "Ha_3CFJ": {
   "source_lines": 2134,
-  "status": "running",
+  "status": "done",
   "chars": 667778,
   "size": "large",
-  "run": "started 21:06",
-  "note": "Gemini run failed: === 2026-10-12 19:50:50 gemini-3.8-flash medium"
+  "run": "3.8-flash medium · $5.02 · 0.6 min",
+  "note": "Gemini run — review the top-level parts",
+  "form": "prose",
+  "units": 8136,
+  "chunks": 65,
+  "parts": 18,
+  "nodes": 18,
+  "qc4": "0",
+  "qc6": "10 flags"
  },
  "Ha_3CFO": {
   "source_lines": 647,
