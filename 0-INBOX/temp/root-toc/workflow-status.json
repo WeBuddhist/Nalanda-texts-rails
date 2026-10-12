@@ -1672,34 +1672,59 @@
   "note": ""
  },
  "As_3CDl_": {
-  "status": "running",
+  "status": "done",
   "toc": "tree",
-  "run": "started 22:28"
+  "run": "medium · $1.37 · 26.2 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1733,
+  "note": "breaks-review.md: raw breaks ending mid-sentence"
  },
  "As_3CDm_": {
-  "status": "running",
+  "status": "done",
   "toc": "tree",
-  "run": "started 22:39"
+  "run": "medium · $0.96 · 16.4 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1073,
+  "note": "breaks-review.md: raw breaks ending mid-sentence"
  },
  "As_3CDn_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.04 · 17.9 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1074,
+  "note": ""
  },
  "As_3CDo_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.21 · 22.0 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1460,
+  "note": ""
  },
  "As_3CDp_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.12 · 14.9 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1314,
+  "note": "breaks-review.md: raw breaks ending mid-sentence"
  },
  "As_3CDq_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "running",
+  "toc": "tree",
+  "run": "started 23:17"
  },
  "As_3CDv_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "running",
+  "toc": "tree",
+  "run": "started 23:27"
  },
  "At_3CHK": {
   "status": "todo",
@@ -1760,5 +1785,14 @@
  "Va_3CER": {
   "status": "todo",
   "toc": "tree"
+ },
+ "Ha_3CFJ": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.75 · 11.8 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 772,
+  "note": ""
  }
 }

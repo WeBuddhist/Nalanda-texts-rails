@@ -3,8 +3,8 @@
 Gemini (gemini-3.8-flash) runs the rest of the workflow for every root text whose TOC
 extraction is finished (see `0-INBOX/ROOT-TOC-BATCH.md`). How to run: `0-INBOX/temp/root-toc/README.md`.
 
-Updated 2026-10-12 · 435 texts · done 4 · failed 0 ·
-running 2 · **to do 429**
+Updated 2026-10-12 · 436 texts · done 10 · failed 0 ·
+running 2 · **to do 424**
 
 | Where | Path |
 |---|---|
@@ -433,13 +433,13 @@ running 2 · **to do 429**
 | 411 | Va_3CEX | medium | todo | tree |  |  |  |  |  |
 | 412 | Va_3CEY | small | todo | tree |  |  |  |  |  |
 | 413 | As_3CDk_ | large | done | tree | 0 not placed | 599 | medium · $0.53 · 10.4 min |  | `processed/root-gemini/As_3CDk_-prose.md` |
-| 414 | As_3CDl_ | large | running | tree |  |  | started 22:28 |  |  |
-| 415 | As_3CDm_ | large | running | tree |  |  | started 22:39 |  |  |
-| 416 | As_3CDn_ | large | todo | tree |  |  |  |  |  |
-| 417 | As_3CDo_ | large | todo | tree |  |  |  |  |  |
-| 418 | As_3CDp_ | large | todo | tree |  |  |  |  |  |
-| 419 | As_3CDq_ | large | todo | tree |  |  |  |  |  |
-| 420 | As_3CDv_ | large | todo | tree |  |  |  |  |  |
+| 414 | As_3CDl_ | large | done | tree | 0 not placed | 1733 | medium · $1.37 · 26.2 min | breaks-review.md: raw breaks ending mid-sentence | `processed/root-gemini/As_3CDl_-prose.md` |
+| 415 | As_3CDm_ | large | done | tree | 0 not placed | 1073 | medium · $0.96 · 16.4 min | breaks-review.md: raw breaks ending mid-sentence | `processed/root-gemini/As_3CDm_-prose.md` |
+| 416 | As_3CDn_ | large | done | tree | 0 not placed | 1074 | medium · $1.04 · 17.9 min |  | `processed/root-gemini/As_3CDn_-prose.md` |
+| 417 | As_3CDo_ | large | done | tree | 0 not placed | 1460 | medium · $1.21 · 22.0 min |  | `processed/root-gemini/As_3CDo_-prose.md` |
+| 418 | As_3CDp_ | large | done | tree | 0 not placed | 1314 | medium · $1.12 · 14.9 min | breaks-review.md: raw breaks ending mid-sentence | `processed/root-gemini/As_3CDp_-prose.md` |
+| 419 | As_3CDq_ | large | running | tree |  |  | started 23:17 |  |  |
+| 420 | As_3CDv_ | large | running | tree |  |  | started 23:27 |  |  |
 | 421 | At_3CHK | large | todo | tree |  |  |  |  |  |
 | 422 | Dh_3CF5 | large | todo | tree |  |  |  |  |  |
 | 423 | Dh_3CF6 | large | todo | tree |  |  |  |  |  |
@@ -455,3 +455,4 @@ running 2 · **to do 429**
 | 433 | Sh_3CCt_ | large | todo | tree |  |  |  |  |  |
 | 434 | Sh_3CDE | large | todo | tree |  |  |  |  |  |
 | 435 | Va_3CER | large | todo | tree |  |  |  |  |  |
+| 436 | Ha_3CFJ | large | done | tree | 0 not placed | 772 | medium · $0.75 · 11.8 min |  | `processed/root-gemini/Ha_3CFJ-prose.md` |
