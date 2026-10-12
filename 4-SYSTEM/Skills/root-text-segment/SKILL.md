@@ -56,6 +56,12 @@ P3  <pāda> །
 2. **Pādas** end at a shad (`།`) or tsheg-shad (`༔`) cluster before the next syllable; a
    footnote marker stays on the line it follows. (`༔` matters: terma texts cannot be split
    without it.)
+2a. **Non-verse inside a verse text runs on one line** (review of Ar_3CBa_, 2026-10-09): a
+   pāda is verse when it is closed like verse (`། །`, `ག །`, `༔`), in the metre (the main one
+   or a neighbour's, ±1) and next to another verse pāda. Everything else — mantras, the label
+   that closes them (`ཨོཾ་…སྭཱ་ཧཱ། རྡོ་རྗེ་མཁའ་འགྲོ་མའིའོ། །`), `ཞེས་…` closes, prose
+   instructions and lists — is one unit, ended by a label or rubric closed with `…འོ། །`, a
+   printed paragraph break, or 80 syllables. No shad is ever removed.
 3. **Prose units** (form `prose`, for prose and mixed texts) are **sentences**, cut at a final
    verb (`…འོ།` `…སོ།` `…ཏོ།` `…ནོ།` `…འགྲུབ་བོ།` `…ཤོག` `…ཅིག` `…ཞེ་ན།`, or at 200
    syllables), and **verse passages** inside — 4+ lines closed by `། །` in one metre (exact up
@@ -66,7 +72,8 @@ P3  <pāda> །
    `…དང་།` `…ལས།` …) — is not kept: it goes to `breaks-review.md` for a person to check
    (about 40 such breaks in 35 of the 565 Nalanda files).
 5. **Front matter by pattern only:** `རྒྱ་གར་སྐད་དུ། … བོད་སྐད་དུ། … ཕྱག་འཚལ་ལོ།` (a Chinese
-   title, `རྒྱའི་སྐད་དུ།`, counts the same) → `## ཀླད་ཀྱི་དོན། ^I-0` with three frame blocks.
+   title, `རྒྱའི་སྐད་དུ།`, counts the same) → `## ཀླད་ཀྱི་དོན། ^I-0` with two frame blocks:
+   the source-language and Tibetan titles together (`^I-1`), the homage (`^I-2`).
    Without language labels: the title repeated at the start (first 3 syllables) and, in
    prose, a homage before or after it. A verse text's lone homage line stays in the body.
 6. **Colophons by wording:** the closing matter → `## མཇུག་བྱང། ^a-0`, each colophon a `###`

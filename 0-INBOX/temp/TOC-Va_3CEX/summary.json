@@ -1,0 +1,20 @@
+{
+ "id": "Va_3CEX",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 42,
+ "units": 5227,
+ "qc4": "0",
+ "pass5_windows": 2,
+ "qc6": 0,
+ "nodes": 8,
+ "parts": 8,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 87,
+ "input_tokens": 363661,
+ "output_tokens": 10619,
+ "thinking_tokens": 399,
+ "cost_usd": 0.314,
+ "wall_seconds": 70
+}

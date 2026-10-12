@@ -291,6 +291,61 @@ def prose_units(run, a, b, cuts=frozenset()):
     return [run[x:y].strip() for x, y in units], types, [y for _, y in units]
 
 
+RUN_MAX = 80            # syllables: a non-verse run longer than this starts a new line
+CLOSE_O = re.compile(r"(?:འོ|(?<![ཀ-ྼ])[སཏནརལདངག]ོ)[\s་]*$")
+
+
+def verse_units(run, spans, metre, cuts=frozenset()):
+    """Verse body → units: one pāda per unit, except that the clauses which are not verse —
+    mantras, the label or rubric that closes them ("ཨོཾ་…སྭཱ་ཧཱ། རྡོ་རྗེ་མཁའ་འགྲོ་མའིའོ། །"),
+    "ཞེས་…" quotation closes, prose instructions and lists — run on as one unit, i.e. one line
+    (the editors' layout, review of Ar_3CBa_ 2026-10-09). A pāda is verse when it is closed
+    like verse ("། །", "ག །", "༔") and in the metre — the text's main metre or a neighbouring
+    pāda's (±1: contractions, a second metre) — and stands next to another verse pāda. A
+    line in the metre that closes a non-verse run with a final verb ("…ཕྱག་རྒྱའོ། །") is its
+    label and joins it, and ends the line. A run never crosses a kept raw paragraph break and starts a new
+    line after RUN_MAX syllables. Returns texts, end offsets."""
+    n = len(spans)
+    txt = [run[x:y] for x, y in spans]
+    lens = [syl(t) for t in txt]
+    clean = [re.sub(r"[།༔\s]+$", "", re.sub(FN, "", t)).replace("༌", "་").strip() for t in txt]
+    dbl = [bool(DOUBLE.search(t)) and not c.startswith("ཞེས") for t, c in zip(txt, clean)]
+    like = [dbl[k] and lens[k] >= 4 and (abs(lens[k] - metre) <= 1 or any(
+        0 <= j < n and dbl[j] and lens[j] >= 4 and abs(lens[k] - lens[j]) <= 1 for j in (k - 1, k + 1)))
+        for k in range(n)]
+    isv = [like[k] and ((k > 0 and like[k - 1]) or (k + 1 < n and like[k + 1])) for k in range(n)]
+    label = [False] * n
+    for k in range(1, n):
+        if isv[k] and not isv[k - 1] and FINAL.search(clean[k]) and spans[k - 1][1] not in cuts:
+            isv[k], label[k] = False, True
+    units, ends, start, size = [], [], None, 0
+    for k, (x, y) in enumerate(spans):
+        if isv[k]:
+            if start is not None:
+                units.append(run[start:x].strip())
+                ends.append(x)
+                start, size = None, 0
+            units.append(run[x:y].strip())
+            ends.append(y)
+            continue
+        if start is not None and size + lens[k] > RUN_MAX:
+            units.append(run[start:x].strip())
+            ends.append(x)
+            start, size = None, 0
+        start = x if start is None else start
+        size += lens[k]
+        # a printed paragraph ends here, or a label / rubric closed with "…འོ། །" ("…ཕྱག་རྒྱའོ། །",
+        # "…མའིའོ། །"); a "…ཤིག །" inside an instruction runs on
+        if y in cuts or label[k] or (dbl[k] and CLOSE_O.search(clean[k])):
+            units.append(run[start:y].strip())
+            ends.append(y)
+            start, size = None, 0
+    if start is not None:
+        units.append(run[start:spans[-1][1]].strip())
+        ends.append(spans[-1][1])
+    return units, ends
+
+
 def prepare(src, work, tree, front_title, body_title, form="auto"):
     work.mkdir(parents=True, exist_ok=True)
     text = src.read_text(encoding="utf-8")
@@ -315,7 +370,9 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
             hom = hcuts[-1] if hcuts else h.start()
             m = END.search(run, h.end())
             pos = m.end() if m else len(run)
-            front = [run[:i].strip(), run[i:hom].strip(), run[hom:pos].strip()]
+            # the source-language title and the Tibetan title are one block (the editors'
+            # layout, review of 2026-10-09): ^I-1 titles, ^I-2 homage
+            front = [run[:hom].strip(), run[hom:pos].strip()]
             lang = "Chinese" if "རྒྱ་གར་སྐད" not in run[:200] else "Sanskrit"
             report.append(f"front matter ({lang} title, Tibetan title, homage)")
     elif title_line:
@@ -394,9 +451,8 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
     if form == "prose":
         padas, types, ends = prose_units(run, pos, spans[k][0] if k < len(spans) else len(run), cuts)
     else:
-        padas = [run[a:b].strip() for a, b in spans[:k]]
+        padas, ends = verse_units(run, spans[:k], metre, cuts)
         types = ["P"] * len(padas)
-        ends = [b for _, b in spans[:k]]
     # body units followed by a kept raw paragraph break: no block may run across one
     breaks = [i for i, e in enumerate(ends[:-1], 1) if e in cuts]
     body_end = ends[-1] if ends else pos
@@ -469,8 +525,33 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
     translated = "རྒྱ་གར་སྐད་དུ" in run[:300]
     modes = ["prose"] if form == "prose" else ["free"]
     t = split_doc(prepared.read_text(encoding="utf-8"))[1]
+    blocks = [x.strip() for x in re.split(r"\n\s*\n", t) if x.strip()]
+    # a heading whose anchor falls inside a unit (a long prose sentence holding several
+    # parts) splits that unit: each piece keeps the unit's type, and a printed paragraph
+    # break stays after the piece that ends the unit
+    body, sec = [], None
+    for b in blocks:
+        if b.startswith("#"):
+            sec = b
+        elif not (sec and any(s in sec for s in FRAME_SECTIONS)):
+            body.append(b)
+    if len(body) != len(types):
+        cum, c = [], 0
+        for p in padas:
+            c += len(squeeze(p))
+            cum.append(c)
+        new_types, new_breaks, c, u = [], [], 0, 0
+        for j, b in enumerate(body, 1):
+            c += len(squeeze(b))
+            while u < len(cum) - 1 and c > cum[u]:
+                u += 1
+            new_types.append(types[u])
+            if c == cum[u] and (u + 1) in breaks:
+                new_breaks.append(j)
+        report.append(f"{len(body) - len(types)} unit(s) split by a heading inside them")
+        types, breaks = new_types, new_breaks
     lst, n, sec = [], 0, None
-    for b in [x.strip() for x in re.split(r"\n\s*\n", t) if x.strip()]:
+    for b in blocks:
         if b.startswith("#"):
             sec = b
             lst.append("\n" + b)

@@ -1,0 +1,8 @@
+# source: 0-INBOX\temp\root-seg-v2\As_3CDc_\prepared.md
+# total_lines: 169
+# chunk_size: 150
+# overlap: 25
+# total_chunks: 2
+# columns: chunk_id	start_line	end_line  (1-based, inclusive; read with: sed -n 'START,ENDp' <source>)
+000	1	150
+001	126	169

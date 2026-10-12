@@ -1,0 +1,14 @@
+{
+ "id": "Sh_3CDA",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 7,
+ "units": 849,
+ "status": "no-parts",
+ "calls": 7,
+ "input_tokens": 23734,
+ "output_tokens": 28,
+ "thinking_tokens": 0,
+ "cost_usd": 0.018,
+ "wall_seconds": 4
+}

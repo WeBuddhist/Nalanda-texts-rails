@@ -1,0 +1,20 @@
+{
+ "id": "Na_3CBD",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 36,
+ "units": 4449,
+ "qc4": "0",
+ "pass5_windows": 2,
+ "qc6": 1,
+ "nodes": 17,
+ "parts": 5,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 75,
+ "input_tokens": 314106,
+ "output_tokens": 6466,
+ "thinking_tokens": 957,
+ "cost_usd": 0.263,
+ "wall_seconds": 61
+}

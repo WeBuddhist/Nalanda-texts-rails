@@ -1,0 +1,14 @@
+{
+ "id": "Di_3CEs_",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 1,
+ "units": 94,
+ "status": "no-parts",
+ "calls": 1,
+ "input_tokens": 2916,
+ "output_tokens": 4,
+ "thinking_tokens": 0,
+ "cost_usd": 0.002,
+ "wall_seconds": 2
+}

@@ -1,0 +1,20 @@
+{
+ "id": "Bh_3CCH",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 26,
+ "units": 3209,
+ "qc4": "3→0",
+ "pass5_windows": 2,
+ "qc6": 5,
+ "nodes": 40,
+ "parts": 7,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 56,
+ "input_tokens": 473161,
+ "output_tokens": 12910,
+ "thinking_tokens": 464,
+ "cost_usd": 0.405,
+ "wall_seconds": 74
+}

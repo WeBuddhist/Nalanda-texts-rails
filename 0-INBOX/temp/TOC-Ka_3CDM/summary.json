@@ -1,0 +1,20 @@
+{
+ "id": "Ka_3CDM",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 9,
+ "units": 1060,
+ "qc4": "0",
+ "pass5_windows": 2,
+ "qc6": 0,
+ "nodes": 12,
+ "parts": 3,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 21,
+ "input_tokens": 196052,
+ "output_tokens": 3960,
+ "thinking_tokens": 571,
+ "cost_usd": 0.164,
+ "wall_seconds": 32
+}

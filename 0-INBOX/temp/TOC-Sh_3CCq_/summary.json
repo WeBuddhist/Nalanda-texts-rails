@@ -1,0 +1,14 @@
+{
+ "id": "Sh_3CCq_",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 5,
+ "units": 617,
+ "status": "no-parts",
+ "calls": 5,
+ "input_tokens": 18527,
+ "output_tokens": 20,
+ "thinking_tokens": 0,
+ "cost_usd": 0.014,
+ "wall_seconds": 4
+}

@@ -1,0 +1,3 @@
+# Raw paragraph breaks that end mid-sentence — not kept, check by hand
+
+- …དྲངས་ལ། །དད་པའི་སྟོབས་ཀྱིས་ཕྱག་བྱས་ཏེ། ། ‖ དེ་ནས་མཆོད་པ་སྔགས་འདིས་དབུལ། །…
