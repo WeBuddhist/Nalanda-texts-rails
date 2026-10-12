@@ -1,0 +1,11 @@
+{"label": "group-p1-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 18.8, "input": 17979, "output": 2270, "thought": 0}
+{"label": "group-p2-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 21.9, "input": 17906, "output": 3034, "thought": 0}
+{"label": "group-p2-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 17.4, "input": 17952, "output": 2374, "thought": 0}
+{"label": "group-p2-low-a2", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 19.0, "input": 17986, "output": 2547, "thought": 0}
+{"label": "group-p3-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 20.7, "input": 21006, "output": 2730, "thought": 0}
+{"label": "group-p3-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 16.7, "input": 21051, "output": 1723, "thought": 0}
+{"label": "group-p4-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 22.0, "input": 19541, "output": 2949, "thought": 0}
+{"label": "group-p4-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 20.7, "input": 19630, "output": 2588, "thought": 0}
+{"label": "group-p4-low-a2", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 21.1, "input": 19630, "output": 2379, "thought": 0}
+{"label": "group-p5-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 12.9, "input": 9783, "output": 1422, "thought": 0}
+{"label": "group-p5-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 10.7, "input": 9827, "output": 1219, "thought": 0}

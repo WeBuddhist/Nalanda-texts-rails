@@ -1,0 +1,27 @@
+
+=== 2026-10-12 16:49:30
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Ar_3CBe_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBe_
+pādas 124 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, raw paragraph breaks kept: 3, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །རྡོ་རྗེ་དྲིལ་ཐབས་ཀྱི་མཆོད་པའི་ཐབས་ཀྱི་རིམ་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBe_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Ar_3CBe_\toc-tree-anchored-Ar_3CBe_.md
+pādas 124 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, raw paragraph breaks kept: 3, first body heading moved up 4 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །རྡོ་རྗེ་དྲིལ་ཐབས་ཀྱི་མཆོད་པའི་ཐབས་ཀྱི་རིམ་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## རྡོ་རྗེ་དྲིལ་བུ་བྱིན་གྱིས་བརླབ། ^II-0
+   ## དང་པོ་ཐུན་མོང། ^1-0
+   ## གཙོ་བོ་མཆོག་གི་ལས་སྦྱོར་བ་ཁྱད་པར། ^2-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBe_
+144 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBe_
+   ✓ final-free.md: identical to Ar_3CBe_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBe_\final-free.md: 22 stanzas — 2 lines ×4, 3 lines ×3, 4 lines ×2, 5 lines ×3, 6 lines ×2, 7 lines ×1, 8 lines ×2, 9 lines ×1, 10 lines ×4
+

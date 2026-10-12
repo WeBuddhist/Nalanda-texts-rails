@@ -1,0 +1,29 @@
+
+=== 2026-10-12 16:41:03
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Na_3CB1.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CB1
+pādas 81 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, raw paragraph breaks kept: 4, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །སྲིད་པ་འཕོ་བ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CB1 --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CB1\toc-tree-anchored-Na_3CB1.md
+pādas 81 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, raw paragraph breaks kept: 4 · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །སྲིད་པ་འཕོ་བ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## དང་པོ་ཆོས་ཉིད་ཀྱི་ལེའུ། ^1-0
+   ## གཉིས་པ་ཕུང་པོ་ལྔ་སྟོང་པ་ཉིད་དུ་བསྟན་པའི་ལེའུ། ^2-0
+   ## གསུམ་པ་ཤེས་རབ་བསྟན་པའི་ལེའུ། ^3-0
+   ## བཞི་པ་ཐབས་བསྟན་པའི་ལེའུ། ^4-0
+   ## ལྔ་པ་བདེན་པ་གཉིས་བསྟན་པའི་ལེའུ། ^5-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CB1
+106 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CB1
+   ✓ final-free.md: identical to Na_3CB1.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CB1\final-free.md: 22 stanzas — 1 lines ×5, 3 lines ×1, 4 lines ×9, 5 lines ×5, 6 lines ×2
+

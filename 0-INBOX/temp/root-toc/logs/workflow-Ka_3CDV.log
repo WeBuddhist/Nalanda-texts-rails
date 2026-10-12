@@ -1,0 +1,26 @@
+
+=== 2026-10-12 16:28:41
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Ka_3CDV.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDV
+pādas 125 · metre 9 syllables · raw paragraph breaks kept: 2, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄། །ལྷོ་ཟ་མོ་ཚངས་དབྱངས་ལ་སྡུག་བསྔལ་གྱི་བྱེ་བྲག་བསྟན་པ་བཞུགས་སོ། ། ^0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDV --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDV\toc-tree-anchored-Ka_3CDV.md
+pādas 125 · metre 9 syllables · raw paragraph breaks kept: 2 · body headings: 0 not placed · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄། །ལྷོ་ཟ་མོ་ཚངས་དབྱངས་ལ་སྡུག་བསྔལ་གྱི་བྱེ་བྲག་བསྟན་པ་བཞུགས་སོ། ། ^0
+   ## སྐྱེ་བའི་སྡུག་བསྔལ། ^1-0
+   ## རྒས་པའི་སྡུག་བསྔལ། ^2-0
+   ## ན་བའི་སྡུག་བསྔལ། ^3-0
+   ## མེད་པ་བཙལ་གྱིས་མི་རྙེད་སྡུག་བསྔལ། ^4-0
+   ## ཡོད་པ་བཙལ་བས་མི་ཐུབ་སྡུག་བསྔལ་ཆེན་པོ། ^5-0
+   ## སྡང་བའི་དགྲ་དང་ཕྲད་ཀྱིས་དོགས་པའི་སྡུག་བསྔལ། ^6-0
+   ## བྱམས་སྡུག་གཉེན་དང་བྲལ་གྱིས་དོགས་པའི་སྡུག་བསྔལ། ^7-0
+   ## སྡུག་བསྔལ་འདི་བརྒྱད། ^8-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDV
+145 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDV
+   ✓ final-free.md: identical to Ka_3CDV.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDV\final-free.md: 29 stanzas — 1 lines ×2, 3 lines ×4, 4 lines ×9, 5 lines ×9, 6 lines ×5
+

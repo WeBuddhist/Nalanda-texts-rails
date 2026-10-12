@@ -1,0 +1,8 @@
+
+=== 2026-10-12 12:48:57 gemini-3.8-flash low
+pādas 57 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 0, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །རལ་གྲི་གཤིན་རྗེ་གཤེད་གཏུམ་པོའི་སྒྲུབ་ཐབས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+{"id": "At_3CFy_", "model": "gemini-3.8-flash", "thinking": "low", "chunks": 1, "units": 135, "status": "no-parts", "calls": 1, "input_tokens": 3504, "output_tokens": 4, "thinking_tokens": 0, "cost_usd": 0.003, "wall_seconds": 2}

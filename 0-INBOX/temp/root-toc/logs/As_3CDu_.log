@@ -1,0 +1,11 @@
+
+=== 2026-10-12 12:44:13 gemini-3.8-flash low
+prose: 849 sentences, 615 verse lines in 56 passage(s) · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 57, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །ཐེག་པ་ཆེན་པོ་བསྡུས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+{"id": "As_3CDu_", "model": "gemini-3.8-flash", "thinking": "low", "chunks": 30, "units": 3672, "qc4": "1→0", "pass5_windows": 3, "qc6": 24, "nodes": 93, "parts": 10, "unanchored": 0, "status": "done", "calls": 65, "input_tokens": 710143, "output_tokens": 48651, "thinking_tokens": 7275, "cost_usd": 0.742, "wall_seconds": 207}

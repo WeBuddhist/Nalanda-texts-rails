@@ -1,0 +1,27 @@
+{
+  "source": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\temp\\workflow-bench\\Ar_3CBk_\\base\\tree-top.md",
+  "total_nodes": 2,
+  "max_depth": 1,
+  "nodes": [
+    {
+      "decimal_id": "1",
+      "depth": 1,
+      "frame": false,
+      "label": "མངོན་པར་བྱང་ཆུབ་",
+      "block_id": "^1-0",
+      "context": "མངོན་པར་བྱང་ཆུབ་རྣམ་གཉིས་ཏེ། །ཕྱི་དང་ནང་གི་ཞེས་སུ་བཤད། །",
+      "context_anchor": "མངོན་པར་བྱང་ཆུབ་རྣམ་གཉིས་ཏེ། །ཕྱི་དང་ནང་གི་ཞེས་སུ་བཤད། །",
+      "doc_order": 0
+    },
+    {
+      "decimal_id": "2",
+      "depth": 1,
+      "frame": false,
+      "label": "རྗེས་འཇུག་རྣལ་འབྱོར་པའི་ཉམས་སུ་བླང་བའི་བསམ་གཏན་",
+      "block_id": "^2-0",
+      "context": "དེ་བཞིན་རྗེས་འཇུག་རྣལ་འབྱོར་པའི། །ཉམས་སུ་བླང་བའི་བསམ་གཏན་ནི། །",
+      "context_anchor": "དེ་བཞིན་རྗེས་འཇུག་རྣལ་འབྱོར་པའི། །ཉམས་སུ་བླང་བའི་བསམ་གཏན་ནི།",
+      "doc_order": 1
+    }
+  ]
+}

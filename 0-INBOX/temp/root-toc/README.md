@@ -100,7 +100,10 @@ for most prayers) · `failed` (see the note and the log; re-run with `--retry-fa
 2. `toc-ingest` from `0-INBOX/temp/TOC-<id>/toc-tree-anchored-<id>.md` (texts with no parts
    keep `## གཞུང་དངོས། ^1-0`),
 3. grouping into stanzas / paragraphs with the `root-text-group` prompts on gemini-3.8-flash
-   (thinking by mode); each answer is checked and asked again with the error if it is wrong,
+   (thinking by mode); each answer is checked and asked again with the exact errors if it is
+   wrong (up to 3 tries; rejected answers are kept in `root-final/<id>/rejected/`). In mode
+   low, a part that still fails is grouped once more at thinking medium — that part only —
+   and the report notes it,
 4. `finish`: block IDs and the strict text check (letters and spacing = the source).
 
 Two modes, as for the TOC batch:
@@ -116,7 +119,8 @@ venv\Scripts\python.exe -X utf8 0-INBOX\temp\root-toc\run_workflow_batch.py --mo
 ```
 
 Same options as the TOC batch: `--procs 3`, `--limit 5`, `--only <ids>`, `--retry-failed`,
-`--reset-running`; `--thinking low|medium|high` overrides the mode's level. The two modes
+`--reset-running`; `--redo <ids>` runs those texts again from the start whatever their
+status (after a rule change); `--thinking low|medium|high` overrides the mode's level. The two modes
 take different texts and can run at the same time. Run `--mode medium` once the large
 texts' TOC trees exist and their top-level parts have been checked — it takes only large
 texts whose TOC is finished (6 so far: the ones done by Claude agents).

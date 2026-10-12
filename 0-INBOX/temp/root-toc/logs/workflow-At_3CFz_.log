@@ -1,0 +1,25 @@
+
+=== 2026-10-12 16:11:19
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\At_3CFz_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CFz_
+pādas 52 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, raw paragraph breaks kept: 0, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །པདྨ་གཤིན་རྗེ་གཤེད་ཤེས་རབ་བདེ་བ་ཅན་གྱི་སྒྲུབ་ཐབས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CFz_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFz_\toc-tree-anchored-At_3CFz_.md
+pādas 52 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, raw paragraph breaks kept: 0, first body heading moved up 3 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །པདྨ་གཤིན་རྗེ་གཤེད་ཤེས་རབ་བདེ་བ་ཅན་གྱི་སྒྲུབ་ཐབས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## དེ་ཡི་སྒྲུབ་ཐབས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CFz_
+65 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CFz_
+   ✓ final-free.md: letters identical; 1 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CFz_\final-free.md: 13 stanzas — 1 lines ×1, 2 lines ×2, 3 lines ×1, 4 lines ×7, 6 lines ×1, 10 lines ×1
+

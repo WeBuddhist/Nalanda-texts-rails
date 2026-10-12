@@ -1,0 +1,20 @@
+{
+ "id": "Ar_3CC2",
+ "model": "gemini-3.1-flash-lite",
+ "thinking": "low",
+ "chunks": 6,
+ "units": 707,
+ "qc4": "0",
+ "pass5_windows": 1,
+ "qc6": 0,
+ "nodes": 14,
+ "parts": 3,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 14,
+ "input_tokens": 54060,
+ "output_tokens": 3152,
+ "thinking_tokens": 17126,
+ "cost_usd": 0.044,
+ "wall_seconds": 45
+}

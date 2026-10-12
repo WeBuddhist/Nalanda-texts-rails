@@ -1,0 +1,22 @@
+
+=== 2026-10-12 16:42:37
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Na_3CBJ.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CBJ
+pādas 197 · metre 13 syllables · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 10, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄། །སྨན་འཚོ་བའི་མདོ་བཞུགས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CBJ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CBJ\toc-tree-anchored-Na_3CBJ.md
+pādas 197 · metre 13 syllables · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 10, first body heading moved up 20 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄། །སྨན་འཚོ་བའི་མདོ་བཞུགས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## བྲོ་དྲུག་ཁྱད་པར་མདོར་བསྟན་པ། ^1-0
+   ## འཕྲོད་དང་མི་འཕྲོད་ལ་སོགས་ཚུལ་བཞིན་འདིར་བསྟན་པ། ^2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CBJ
+217 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CBJ
+   ✓ final-free.md: identical to Na_3CBJ.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CBJ\final-free.md: 42 stanzas — 2 lines ×6, 3 lines ×9, 4 lines ×11, 5 lines ×5, 6 lines ×2, 7 lines ×1, 8 lines ×5, 9 lines ×2, 12 lines ×1
+

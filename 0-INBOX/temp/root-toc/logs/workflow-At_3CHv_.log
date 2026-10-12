@@ -1,0 +1,21 @@
+
+=== 2026-10-12 16:16:52
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\At_3CHv_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHv_
+pādas 62 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 1, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །རྡོ་རྗེ་བདེ་རྒྱས་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHv_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CHv_\toc-tree-anchored-At_3CHv_.md
+pādas 62 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 1, first body heading moved up 4 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །རྡོ་རྗེ་བདེ་རྒྱས་དབྱངས་ཅན་མའི་སྒྲུབ་ཐབས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གསུང་གི་པདྨ་དྲི་མ་མེད་པའི་སྒྲུབ་ཐབས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHv_
+71 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHv_
+   ✓ final-free.md: identical to At_3CHv_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHv_\final-free.md: 12 stanzas — 1 lines ×1, 2 lines ×2, 4 lines ×2, 5 lines ×3, 6 lines ×2, 10 lines ×1, 12 lines ×1
+

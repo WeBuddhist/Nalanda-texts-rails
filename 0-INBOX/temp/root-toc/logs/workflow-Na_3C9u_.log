@@ -1,0 +1,33 @@
+
+=== 2026-10-12 16:36:14
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Na_3C9u_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3C9u_
+prose: 100 sentences, 93 verse lines in 16 passage(s) · raw paragraph breaks kept: 17, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །ཚིགས་སུ་བཅད་པ་ཕྱེད་དང་ལྔ་པ། ^0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3C9u_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9u_\toc-tree-anchored-Na_3C9u_.md
+prose: 100 sentences, 93 verse lines in 16 passage(s) · raw paragraph breaks kept: 17 · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །ཚིགས་སུ་བཅད་པ་ཕྱེད་དང་ལྔ་པ། ^0
+   ## དང་པོ་རེ་བ་མེད་པར་བྱ་བའི་མན་ངག། ^1-0
+   ## གཉིས་པ་དོག་པ་དང་བྲལ་བར་བྱ་བའི་མན་ངག། ^2-0
+   ## གསུམ་པ་བསྒོམ་བྱ་སྤང་པར་བྱ་བའི་མན་ངག། ^3-0
+   ## བཞི་པ་བདག་ཏུ་འཛིན་པ་དང་བྲལ་བར་བྱ་བའི་མན་ངག། ^4-0
+   ## ལྔ་པ་བླང་དོར་དང་བྲལ་བར་བྱ་བའི་མན་ངག། ^5-0
+   ## དྲུག་པ་བླང་དོར་དང་བྲལ་བར་བྱ་བའི་མན་ངག། ^6-0
+   ## བདུན་པ་རང་གི་ལྟ་བ་ང་རྒྱལ་བ་དང་བྲལ་བར་བྱ་བ། ^7-0
+   ## བརྒྱད་པ་སྒོམ་པ་དམིགས་པ་དང་བྲལ་བར་བྱ་བ། ^8-0
+   ## དགུ་པ་སྤྱོད་པའི་ཞེན་པ་དང་བྲལ་བར་བྱ་བ། ^9-0
+   ## བཅུ་པ་དཀའ་བས་མང་པོ་བྱས་པས་ཆོག་པར་འཛིན་པར་བྱ་བ། ^10-0
+   ## བཅུ་གཅིག་པ་དབང་ཁོ་ནས་ཆོག་པར་འཛིན་པ་དང་བྲལ་བར་བྱ་བ། ^11-0
+   ## བཅུ་གཉིས་པ་རྟོགས་པས་ཆོག་པར་འཛིན་པ་དང་བྲལ་བར་བྱ་བ། ^12-0
+   ## བཅུ་གསུམ་པ་བླ་མ་ལ་མ་ལྟོས་པ་སྤང་བར་བྱ་བ། ^13-0
+   ## བཅུ་བཞི་པ་བཀའ་མཐའ་དག་ལ་སྐུར་པ་མི་བྱ་བ། ^14-0
+   ## བཅོ་ལྔ་པ་བདེ་བ་ལ་ཞེན་པ་སྤང་བར་བྱ་བ། ^15-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3C9u_
+242 lines — no split needed: one subagent on group-in.md → groups-prose.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3C9u_
+   ✓ final-prose.md: letters identical; 63 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3C9u_\final-prose.md: 34 paragraphs (sentences per paragraph: 1 ×13, 2 ×4, 3 ×6, 4 ×4, 5 ×3, 6 ×1, 8 ×3) · 16 stanzas (4 lines ×10, 5 lines ×2, 8 lines ×2, 9 lines ×1, 18 lines ×1)
+

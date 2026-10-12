@@ -1,0 +1,30 @@
+<!-- rejected: bad block [[1, 5], 'Introductory statement and result of familiarization with non-refutation/proof'] — each block is [first, last] with first <= last -->
+```json
+{
+  "stanzas": [
+    [[1, 5], "Introductory statement and result of familiarization with non-refutation/proof"],
+    [[6, 9], "Conduct and abandoning clinging to entities"],
+    [[10, 13], "Neither-one-nor-many reasoning introduced with illusion simile"],
+    [[14, 18], "Refutation of partless particle as one or many"],
+    [[19, 23], "Refutation of gross physical forms and cognition"],
+    [[24, 26], "False appearance implies false cognition"],
+    [[27, 30], "Mental factors also neither one nor many"],
+    [[31, 35], "Objection regarding direct perception and conventional truth answered"],
+    [[36, 41], "Primordial unproduced nature beyond refutation and production"],
+    [[42, 45], "Ultimate negation of conventional, ultimate, buddha, sentient beings, etc."],
+    [[46, 49], "Meditation on that meaning: settled in non-conceptuality"],
+    [[50, 54], "Post-meditation conduct: three vows and vast bodhicitta"],
+    [[55, 58], "Renunciation and dwelling in solitude"],
+    [[59, 63], "Result: attainment of the three kayas liberating beings"],
+    [[64, 68], "Exhortation to practice view, meditation, and action"],
+    [[69, 74], "Exhortation to examine with reason without bias and practice diligently"],
+    [[75, 76], "Dedication of merit"],
+    [[77, 77], "Closing title rubric"]
+  ],
+  "notes": {
+    "1": "5-line unit: pledge to explain followed by 4-line verse",
+    "75": "2-line dedication prayer",
+    "77": "Single-line title rubric concluding text"
+  }
+}
+```

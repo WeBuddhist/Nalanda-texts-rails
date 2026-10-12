@@ -1,0 +1,22 @@
+
+=== 2026-10-12 16:39:04
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Na_3CAO.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAO
+prose: 29 sentences, 92 verse lines in 5 passage(s) · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 10, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAO --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAO\toc-tree-anchored-Na_3CAO.md
+prose: 29 sentences, 92 verse lines in 5 passage(s) · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 10 · body headings: 0 not placed · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས། ^1-0
+   ## ཉེ་བར་སྤྱོད་པ། ^2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAO
+141 lines — no split needed: one subagent on group-in.md → groups-prose.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAO
+   ✓ final-prose.md: letters identical; 8 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAO\final-prose.md: 21 paragraphs (sentences per paragraph: 1 ×15, 2 ×5, 4 ×1) · 20 stanzas (1 lines ×1, 4 lines ×12, 5 lines ×1, 6 lines ×4, 7 lines ×2)
+

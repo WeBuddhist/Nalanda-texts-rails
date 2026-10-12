@@ -1,0 +1,54 @@
+
+=== 2026-10-12 16:26:22
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Ka_3CDL.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDL
+pādas 3218 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, raw paragraph breaks kept: 39, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དེ་ཁོ་ན་ཉིད་སྣང་བ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDL --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDL\toc-tree-anchored-Ka_3CDL.md
+Traceback (most recent call last):
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 735, in <module>
+    toc_ingest(Path(a[1]), Path(opt("--tree")))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 666, in toc_ingest
+    prepare(Path(state["source"]), work, tree, state.get("front_title", "ཀླད་ཀྱི་དོན།"),
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+            state.get("body_title", "གཞུང་དངོས།"), state["form"])
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 502, in prepare
+    subprocess.run([PY, "-X", "utf8", str(ING), "parse", "--input", str(tmd), "--out", str(tjs)],
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                   check=True, capture_output=True)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Uzumaki Sither\AppData\Local\Python\pythoncore-3.14-64\Lib\subprocess.py", line 577, in run
+    raise CalledProcessError(retcode, process.args,
+                             output=stdout, stderr=stderr)
+subprocess.CalledProcessError: Command '['D:\\Work\\OpenPecha\\Nalanda-texts-rails\\venv\\Scripts\\python.exe', '-X', 'utf8', 'D:\\Work\\OpenPecha\\Nalanda-texts-rails\\4-SYSTEM\\Skills\\seg-toc-lib\\toc_tree_ingest.py', 'parse', '--input', 'D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\temp\\root-final\\Ka_3CDL\\tree-top.md', '--out', 'D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\temp\\root-final\\Ka_3CDL\\tree-top.json']' returned non-zero exit status 1.
+
+
+=== 2026-10-12 18:25:19
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Ka_3CDL.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDL
+pādas 3218 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, raw paragraph breaks kept: 39, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དེ་ཁོ་ན་ཉིད་སྣང་བ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDL
+group-in-part1.md: units 1–661 → groups-free-part1.json
+group-in-part2.md: units 662–1359 → groups-free-part2.json
+group-in-part3.md: units 1360–1971 → groups-free-part3.json
+group-in-part4.md: units 1972–2633 → groups-free-part4.json
+group-in-part5.md: units 2634–3218 → groups-free-part5.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDL
+groups-free.json: 744 blocks from 5 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDL
+   ✓ final-free.md: identical to Ka_3CDL.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ka_3CDL\final-free.md: 744 stanzas — 1 lines ×1, 2 lines ×9, 3 lines ×11, 4 lines ×623, 5 lines ×13, 6 lines ×46, 7 lines ×7, 8 lines ×30, 10 lines ×2, 12 lines ×2
+
