@@ -1,0 +1,68 @@
+[wrapper] GEMINI_THINKING=medium
+Input:      0-INBOX\temp\segmented-commentary-with-toc\As_3CDf_.toc.md
+ID:         As_3CDf_
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-As_3CDf_\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDf_.reseg.md
+
+Blocks: 254  (headings: 44, content: 210)
+Windows: 8  (size=40, overlap=5)
+
+  Window 1/8 (blocks 1–40): calling LLM...
+    → 5 operation(s) flagged
+  Window 2/8 (blocks 36–75): calling LLM...
+    → 7 operation(s) flagged
+  Window 3/8 (blocks 71–110): calling LLM...
+    → 2 operation(s) flagged
+  Window 4/8 (blocks 106–145): calling LLM...
+    → 2 operation(s) flagged
+  Window 5/8 (blocks 141–180): calling LLM...
+    → 2 operation(s) flagged
+  Window 6/8 (blocks 176–215): calling LLM...
+    → 3 operation(s) flagged
+  Window 7/8 (blocks 211–250): calling LLM...
+    → 4 operation(s) flagged
+  Window 8/8 (blocks 246–254): calling LLM...
+    → 0 operation(s) flagged
+
+Operations to apply: 24
+  MERGE [7, 8]
+  MERGE [14, 15, 16, 17, 18, 19]
+  MERGE [21, 22, 23, 24]
+  MERGE [26, 27, 28, 29, 30, 31, 32]
+  MERGE [34, 35, 36]
+  MERGE [39, 40, 41]
+  MERGE [44, 45]
+  SPLIT block 48 after: 'དབང་དུ་གྱུར་པ་ཕུན་སུམ་ཚོགས་པ་དང་། '
+  MERGE [60, 61]
+  MERGE [63, 64]
+  MERGE [70, 71]
+  MERGE [72, 73]
+  MERGE [75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88]
+  MERGE [94, 95, 96, 97, 98]
+  MERGE [116, 117]
+  MERGE [119, 120]
+  MERGE [171, 172, 173, 174, 175]
+  MERGE [176, 177, 178, 179, 180, 181]
+  MERGE [182, 183, 184]
+  MERGE [190, 191, 192, 193, 194]
+  MERGE [219, 220]
+  MERGE [225, 226, 227]
+  MERGE [229, 230, 231, 232, 233, 234, 235, 236, 237]
+  MERGE [238, 239, 240, 241, 242, 243, 244, 245, 246]
+
+Overlap disagreements (6) — boundary kept:
+  - Blocks 36 | 37: windows [0, 1], joined by [0]
+  - Blocks 37 | 38: windows [0, 1], joined by [0]
+  - Blocks 38 | 39: windows [0, 1], joined by [0]
+  - Blocks 71 | 72: windows [1, 2], joined by [2]
+  - Blocks 73 | 74: windows [1, 2], joined by [2]
+  - Blocks 74 | 75: windows [1, 2], joined by [2]
+
+Blocks: 254 → 178
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDf_.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDf_.ops.md
+
+6 overlap disagreement(s) resolved by keeping the boundary — see ops log.

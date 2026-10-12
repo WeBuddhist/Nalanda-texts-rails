@@ -94,3 +94,18 @@ Building TOC tree from candidates + enumerations → Gemini ...
     ! tree attempt 5/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 128s...
     ! tree attempt 6/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 139s...
     ! tree attempt 7/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 132s...
+Traceback (most recent call last):
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py", line 1557, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py", line 1481, in main
+    tree_body = build_toc_tree(client, args.model, commentary_id, candidates_doc,
+                               enumerations_text=enumerations_text,
+                               fallback_model=args.fallback_model)
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py", line 687, in build_toc_tree
+    text = _generate(client, model, TREE_SYSTEM_PROMPT, contents,
+                     fallback_model=fallback_model, label="tree")
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py", line 659, in _generate
+    raise RuntimeError(f"Gemini call failed after retries on "
+                       f"{models_to_try}: {last_err}")
+RuntimeError: Gemini call failed after retries on ['gemini-3.8-flash']: reply cut off at max_output_tokens=65536 (thinking counts too)

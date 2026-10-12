@@ -1,0 +1,43 @@
+Input:  0-INBOX\resegmented\Ar_3CBb_.reseg.md
+ID:     Ar_3CBb_
+
+Blocks: 870
+
+Step 1 — Deterministic checks...
+  28 flag(s) found.
+  Block 114 — CONNECTOR_ENDING
+  Block 121 — CONNECTOR_ENDING
+  Block 132 — CONNECTOR_ENDING
+  Block 141 — CONNECTOR_ENDING
+  Block 171 — CONNECTOR_ENDING
+  Block 198 — CONNECTOR_ENDING
+  Block 280 — OBJECTION_REPLY_FUSED
+  Block 376 — CONNECTOR_ENDING
+  Block 453 — OBJECTION_REPLY_FUSED
+  Block 457 — OBJECTION_REPLY_FUSED
+  Block 612 — OVER_LENGTH (296 syl)
+  Block 613 — SHORT_FRAGMENT (3 syl)
+  Block 621 — OVER_LENGTH (369 syl)
+  Block 625 — CONNECTOR_ENDING
+  Block 642 — OBJECTION_REPLY_FUSED
+  Block 643 — OBJECTION_REPLY_FUSED
+  Block 646 — CONNECTOR_ENDING
+  Block 653 — OBJECTION_REPLY_FUSED
+  Block 699 — CONNECTOR_ENDING
+  Block 717 — OBJECTION_REPLY_FUSED
+  Block 720 — OBJECTION_REPLY_FUSED
+  Block 735 — OBJECTION_REPLY_FUSED
+  Block 841 — SHORT_FRAGMENT (2 syl)
+  Block 847 — OVER_LENGTH (334 syl)
+  Block 857 — SHORT_FRAGMENT (3 syl)
+  Block 860 — OVER_LENGTH (391 syl)
+  Block 864 — OVER_LENGTH (280 syl)
+  Block 868 — SHORT_FRAGMENT (1 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: 0-INBOX\resegmented\Ar_3CBb_.qc.md
+
+────────────────────────────────────────
+Flags before : 28
