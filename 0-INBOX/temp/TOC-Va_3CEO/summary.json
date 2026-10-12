@@ -1,0 +1,20 @@
+{
+ "id": "Va_3CEO",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 3,
+ "units": 360,
+ "qc4": "0",
+ "pass5_windows": 1,
+ "qc6": 8,
+ "nodes": 16,
+ "parts": 3,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 8,
+ "input_tokens": 29577,
+ "output_tokens": 2323,
+ "thinking_tokens": 0,
+ "cost_usd": 0.031,
+ "wall_seconds": 19
+}

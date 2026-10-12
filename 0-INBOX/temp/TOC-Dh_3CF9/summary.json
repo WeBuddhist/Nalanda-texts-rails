@@ -1,0 +1,14 @@
+{
+ "id": "Dh_3CF9",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 2,
+ "units": 242,
+ "status": "no-parts",
+ "calls": 2,
+ "input_tokens": 6606,
+ "output_tokens": 8,
+ "thinking_tokens": 0,
+ "cost_usd": 0.005,
+ "wall_seconds": 2
+}

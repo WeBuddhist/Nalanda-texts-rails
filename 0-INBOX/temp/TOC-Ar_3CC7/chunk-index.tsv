@@ -1,0 +1,10 @@
+# source: 0-INBOX\temp\root-seg-v2\Ar_3CC7\prepared.md
+# total_lines: 447
+# chunk_size: 150
+# overlap: 25
+# total_chunks: 4
+# columns: chunk_id	start_line	end_line  (1-based, inclusive; read with: sed -n 'START,ENDp' <source>)
+000	1	150
+001	126	275
+002	251	400
+003	376	447

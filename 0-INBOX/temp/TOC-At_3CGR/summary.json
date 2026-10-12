@@ -1,0 +1,14 @@
+{
+ "id": "At_3CGR",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 2,
+ "units": 186,
+ "status": "no-parts",
+ "calls": 2,
+ "input_tokens": 5944,
+ "output_tokens": 8,
+ "thinking_tokens": 0,
+ "cost_usd": 0.004,
+ "wall_seconds": 3
+}

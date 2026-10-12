@@ -1,0 +1,14 @@
+{
+ "id": "Ka_3CDW",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 7,
+ "units": 813,
+ "status": "no-parts",
+ "calls": 7,
+ "input_tokens": 27693,
+ "output_tokens": 28,
+ "thinking_tokens": 0,
+ "cost_usd": 0.021,
+ "wall_seconds": 4
+}

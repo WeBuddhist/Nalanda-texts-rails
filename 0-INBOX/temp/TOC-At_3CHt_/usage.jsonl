@@ -1,0 +1,6 @@
+{"label": "p1-001", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 2.3, "input": 2231, "output": 4, "thought": 0}
+{"label": "p1-000", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 3.3, "input": 3630, "output": 139, "thought": 0}
+{"label": "p2-000", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 1.5, "input": 3158, "output": 5, "thought": 0}
+{"label": "p2-001", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 2.1, "input": 1759, "output": 5, "thought": 0}
+{"label": "p3", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 1.6, "input": 3109, "output": 20, "thought": 0}
+{"label": "p5", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 2.4, "input": 3759, "output": 59, "thought": 0}

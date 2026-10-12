@@ -1,0 +1,14 @@
+{
+ "id": "Va_3CEM",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 2,
+ "units": 211,
+ "status": "no-parts",
+ "calls": 2,
+ "input_tokens": 6167,
+ "output_tokens": 8,
+ "thinking_tokens": 0,
+ "cost_usd": 0.005,
+ "wall_seconds": 2
+}

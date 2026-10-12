@@ -1,0 +1,12 @@
+{"label": "p1-003", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 1.9, "input": 3401, "output": 4, "thought": 0}
+{"label": "p1-002", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 2.4, "input": 3376, "output": 4, "thought": 0}
+{"label": "p1-001", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 3.1, "input": 3363, "output": 144, "thought": 0}
+{"label": "p1-004", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 1.9, "input": 3147, "output": 4, "thought": 0}
+{"label": "p1-000", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 5.5, "input": 3281, "output": 4, "thought": 399}
+{"label": "p2-001", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 1.6, "input": 2891, "output": 5, "thought": 0}
+{"label": "p2-003", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 1.8, "input": 2929, "output": 5, "thought": 0}
+{"label": "p2-002", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 1.8, "input": 2904, "output": 5, "thought": 0}
+{"label": "p2-000", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 2.3, "input": 2809, "output": 5, "thought": 0}
+{"label": "p2-004", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 2.0, "input": 2675, "output": 5, "thought": 0}
+{"label": "p3", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 15.6, "input": 3204, "output": 11, "thought": 1967}
+{"label": "p5", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 1.7, "input": 8647, "output": 11, "thought": 0}

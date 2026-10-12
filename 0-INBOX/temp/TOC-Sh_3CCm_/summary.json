@@ -1,0 +1,20 @@
+{
+ "id": "Sh_3CCm_",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 66,
+ "units": 8226,
+ "qc4": "0",
+ "pass5_windows": 3,
+ "qc6": 4,
+ "nodes": 10,
+ "parts": 10,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 136,
+ "input_tokens": 602975,
+ "output_tokens": 5262,
+ "thinking_tokens": 1327,
+ "cost_usd": 0.477,
+ "wall_seconds": 88
+}

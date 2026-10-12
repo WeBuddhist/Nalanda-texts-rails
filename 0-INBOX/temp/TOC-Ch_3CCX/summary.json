@@ -1,0 +1,20 @@
+{
+ "id": "Ch_3CCX",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 16,
+ "units": 2010,
+ "qc4": "0",
+ "pass5_windows": 2,
+ "qc6": 3,
+ "nodes": 56,
+ "parts": 3,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 35,
+ "input_tokens": 317808,
+ "output_tokens": 32199,
+ "thinking_tokens": 1661,
+ "cost_usd": 0.365,
+ "wall_seconds": 91
+}

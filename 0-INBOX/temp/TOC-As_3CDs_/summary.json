@@ -1,0 +1,20 @@
+{
+ "id": "As_3CDs_",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 21,
+ "units": 2589,
+ "qc4": "0",
+ "pass5_windows": 2,
+ "qc6": 1,
+ "nodes": 2,
+ "parts": 2,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 45,
+ "input_tokens": 321746,
+ "output_tokens": 7318,
+ "thinking_tokens": 6803,
+ "cost_usd": 0.294,
+ "wall_seconds": 102
+}

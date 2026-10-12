@@ -1,0 +1,14 @@
+{
+ "id": "Na_3CAm_",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 2,
+ "units": 221,
+ "status": "no-parts",
+ "calls": 2,
+ "input_tokens": 8005,
+ "output_tokens": 8,
+ "thinking_tokens": 1832,
+ "cost_usd": 0.013,
+ "wall_seconds": 14
+}

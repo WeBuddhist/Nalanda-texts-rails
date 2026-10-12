@@ -1,0 +1,14 @@
+{
+ "id": "Na_3CBX",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 3,
+ "units": 301,
+ "status": "no-parts",
+ "calls": 3,
+ "input_tokens": 11574,
+ "output_tokens": 12,
+ "thinking_tokens": 0,
+ "cost_usd": 0.009,
+ "wall_seconds": 3
+}

@@ -1,0 +1,14 @@
+{
+ "id": "At_3CFo_",
+ "model": "gemini-3.8-flash",
+ "thinking": "low",
+ "chunks": 2,
+ "units": 172,
+ "status": "no-parts",
+ "calls": 2,
+ "input_tokens": 5937,
+ "output_tokens": 8,
+ "thinking_tokens": 0,
+ "cost_usd": 0.004,
+ "wall_seconds": 2
+}
