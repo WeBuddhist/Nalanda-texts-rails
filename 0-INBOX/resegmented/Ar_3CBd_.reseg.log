@@ -1,0 +1,37 @@
+Input:      0-INBOX\temp\segmented-commentary-with-toc\Ar_3CBd_.toc.md
+ID:         Ar_3CBd_
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-Ar_3CBd_\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ar_3CBd_.reseg.md
+
+Blocks: 169  (headings: 15, content: 154)
+Windows: 5  (size=40, overlap=5)
+
+  Window 1/5 (blocks 1–40): calling LLM...
+    → 0 operation(s) flagged
+  Window 2/5 (blocks 36–75): calling LLM...
+    → 0 operation(s) flagged
+  Window 3/5 (blocks 71–110): calling LLM...
+    → 0 operation(s) flagged
+  Window 4/5 (blocks 106–145): calling LLM...
+    → 2 operation(s) flagged
+  Window 5/5 (blocks 141–169): calling LLM...
+    → 0 operation(s) flagged
+
+Operations to apply: 2
+  MERGE [122, 123]
+  MERGE [137, 138, 139, 140, 141]
+
+Overlap disagreements (4) — boundary kept:
+  - Blocks 141 | 142: windows [3, 4], joined by [3]
+  - Blocks 142 | 143: windows [3, 4], joined by [3]
+  - Blocks 143 | 144: windows [3, 4], joined by [3]
+  - Blocks 144 | 145: windows [3, 4], joined by [3]
+
+Blocks: 169 → 164
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ar_3CBd_.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ar_3CBd_.ops.md
+
+4 overlap disagreement(s) resolved by keeping the boundary — see ops log.
