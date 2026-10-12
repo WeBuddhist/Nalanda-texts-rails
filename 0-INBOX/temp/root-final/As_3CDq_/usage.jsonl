@@ -1,0 +1,11 @@
+{"label": "group-p1-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 78.4, "input": 62199, "output": 1649, "thought": 13212}
+{"label": "group-p2-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 269.1, "input": 65619, "output": 2116, "thought": 47744}
+{"label": "group-p2-a1", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 73.1, "input": 65667, "output": 2226, "thought": 11102}
+{"label": "group-p3-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 24.0, "input": 58886, "output": 2233, "thought": 1876}
+{"label": "group-p4-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 88.1, "input": 67290, "output": 2704, "thought": 12784}
+{"label": "group-p4-a1", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 71.8, "input": 67338, "output": 2363, "thought": 9964}
+{"label": "group-p5-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 152.0, "input": 64927, "output": 1451, "thought": 23870}
+{"label": "group-p5-a1", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 102.0, "input": 64975, "output": 2120, "thought": 13954}
+{"label": "group-p6-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 91.5, "input": 71797, "output": 3075, "thought": 12269}
+{"label": "group-p7-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 215.5, "input": 66004, "output": 2496, "thought": 31961}
+{"label": "group-p8-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 28.8, "input": 48048, "output": 2136, "thought": 1816}

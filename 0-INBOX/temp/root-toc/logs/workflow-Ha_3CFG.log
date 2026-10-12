@@ -1,0 +1,47 @@
+
+=== 2026-10-13 00:59:54
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py segment /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/root/Ha_3CFG.md /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ha_3CFG
+prose: 4375 sentences, 17 verse lines in 4 passage(s) · raw paragraph breaks kept: 223, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། ^0
+   ## གཞུང་དངོས། ^1-0
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py toc-ingest /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ha_3CFG --tree /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/TOC-Ha_3CFG/toc-tree-anchored-Ha_3CFG.md
+prose: 4376 sentences, 17 verse lines in 4 passage(s) · raw paragraph breaks kept: 223, 1 unit(s) split by a heading inside them · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། ^0
+   ## སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་པོའི་གོ་ཆ་སྟེ་དང་པོ། ^1-0
+   ## ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་པོའི་གོ་ཆ་སྟེ་གཉིས་པ། ^2-0
+   ## བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་པའི་གོ་ཆ་སྟེ་གསུམ་པ། ^3-0
+   ## བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་པོའི་གོ་ཆ་སྟེ་བཞི་པ། ^4-0
+   ## བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་པོའི་གོ་ཆ་སྟེ་ལྔ་པ། ^5-0
+   ## ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་པའི་གོ་ཆ་སྟེ་དྲུག་པ། ^6-0
+   ## བསམ་གཏན་དང་། གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་ལ་སྙོམས་པར་འཇུག་པ་དང་ལྡན་པའི་འཇུག་པ། ^7-0
+   ## ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་གི་འཇུག་པ། ^8-0
+   ## འཕགས་པའི་ལམ་ལ་འཇུག་པ། ^9-0
+   ## ཚད་མེད་པ་ལ་འཇུག་པ། ^10-0
+   ## ཆེད་དུ་བྱ་བའི་ངེས་པར་འབྱུང་བ། ^11-0
+   ## རང་གི་དོན་གྱི་མོས་པ་ཆུང་ངུའི་འབྲིང། ^12-0
+   ## རང་གི་དོན་གྱི་མོས་པ་ཆུང་ངུའི་ཆེན་པོ། ^13-0
+   ## རང་གི་དོན་གྱི་མོས་པ་འབྲིང་གི་ཆུང་ངུ། ^14-0
+   ## རང་གི་དོན་གྱི་མོས་པ་འབྲིང་གི་འབྲིང། ^15-0
+   ## རང་གི་དོན་གྱི་མོས་པ་འབྲིང་གི་ཆེན་པོ། ^16-0
+   ## རང་གི་དོན་གྱི་མོས་པ་ཆེན་པོའི་ཆུང་ངུ། ^17-0
+   ## རང་གི་དོན་གྱི་མོས་པ་ཆེན་པོའི་འབྲིང། ^18-0
+   ## རང་གི་དོན་གྱི་མོས་པ་ཆེན་པོའི་ཆེན་པོ། ^19-0
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py group-split /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ha_3CFG
+group-in-part1.md: units 1–537 → groups-prose-part1.json
+group-in-part2.md: units 538–1113 → groups-prose-part2.json
+group-in-part3.md: units 1114–1741 → groups-prose-part3.json
+group-in-part4.md: units 1742–2328 → groups-prose-part4.json
+group-in-part5.md: units 2329–2919 → groups-prose-part5.json
+group-in-part6.md: units 2920–3494 → groups-prose-part6.json
+group-in-part7.md: units 3495–4057 → groups-prose-part7.json
+group-in-part8.md: units 4058–4393 → groups-prose-part8.json
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py group-join /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ha_3CFG
+groups-prose.json: 1177 blocks from 8 parts
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py finish /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ha_3CFG
+   ✓ final-prose.md: letters identical; 2469 spacing difference(s) restored from the source — now identical (letters and spacing)
+/Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ha_3CFG/final-prose.md: 1173 paragraphs (sentences per paragraph: 1 ×212, 2 ×404, 3 ×116, 4 ×128, 5 ×83, 6 ×57, 7 ×34, 8 ×47, 9 ×18, 10 ×27, 11 ×8, 12 ×8, 13 ×8, 14 ×8, 15 ×4, 16 ×5, 20 ×1, 21 ×1, 22 ×1, 23 ×1, 24 ×1, 43 ×1) · 4 stanzas (4 lines ×3, 5 lines ×1)
+

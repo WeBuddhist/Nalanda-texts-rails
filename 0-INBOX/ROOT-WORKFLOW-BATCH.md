@@ -3,8 +3,8 @@
 Gemini (gemini-3.8-flash) runs the rest of the workflow for every root text whose TOC
 extraction is finished (see `0-INBOX/ROOT-TOC-BATCH.md`). How to run: `0-INBOX/temp/root-toc/README.md`.
 
-Updated 2026-10-12 · 436 texts · done 10 · failed 0 ·
-running 2 · **to do 424**
+Updated 2026-10-13 · 436 texts · done 27 · failed 0 ·
+running 0 · **to do 409**
 
 | Where | Path |
 |---|---|
@@ -438,21 +438,21 @@ running 2 · **to do 424**
 | 416 | As_3CDn_ | large | done | tree | 0 not placed | 1074 | medium · $1.04 · 17.9 min |  | `processed/root-gemini/As_3CDn_-prose.md` |
 | 417 | As_3CDo_ | large | done | tree | 0 not placed | 1460 | medium · $1.21 · 22.0 min |  | `processed/root-gemini/As_3CDo_-prose.md` |
 | 418 | As_3CDp_ | large | done | tree | 0 not placed | 1314 | medium · $1.12 · 14.9 min | breaks-review.md: raw breaks ending mid-sentence | `processed/root-gemini/As_3CDp_-prose.md` |
-| 419 | As_3CDq_ | large | running | tree |  |  | started 23:17 |  |  |
-| 420 | As_3CDv_ | large | running | tree |  |  | started 23:27 |  |  |
-| 421 | At_3CHK | large | todo | tree |  |  |  |  |  |
-| 422 | Dh_3CF5 | large | todo | tree |  |  |  |  |  |
-| 423 | Dh_3CF6 | large | todo | tree |  |  |  |  |  |
-| 424 | Gu_3CFS | large | todo | tree |  |  |  |  |  |
-| 425 | Gu_3CFT | large | todo | tree |  |  |  |  |  |
-| 426 | Ha_3CFF | large | todo | tree |  |  |  |  |  |
-| 427 | Ha_3CFG | large | todo | tree |  |  |  |  |  |
-| 428 | Ha_3CFH | large | todo | tree |  |  |  |  |  |
-| 429 | Ha_3CFI | large | todo | tree |  |  |  |  |  |
-| 430 | Ka_3CDK | large | todo | no parts |  |  |  |  |  |
-| 431 | Na_3CB4 | large | todo | tree |  |  |  |  |  |
-| 432 | Sh_3CCs_ | large | todo | tree |  |  |  |  |  |
-| 433 | Sh_3CCt_ | large | todo | tree |  |  |  |  |  |
-| 434 | Sh_3CDE | large | todo | tree |  |  |  |  |  |
-| 435 | Va_3CER | large | todo | tree |  |  |  |  |  |
+| 419 | As_3CDq_ | large | done | tree | 2 not placed | 1236 | medium · $1.30 · 20.0 min | REVIEW: heading(s) not placed — insert by hand | `processed/root-gemini/As_3CDq_-prose.md` |
+| 420 | As_3CDv_ | large | done | tree | 0 not placed | 1040 | medium · $0.63 · 13.6 min |  | `processed/root-gemini/As_3CDv_-prose.md` |
+| 421 | At_3CHK | large | done | tree | 0 not placed | 1573 | medium · $2.29 · 61.0 min |  | `processed/root-gemini/At_3CHK-prose.md` |
+| 422 | Dh_3CF5 | large | done | tree | 0 not placed | 1179 | medium · $1.38 · 29.7 min |  | `processed/root-gemini/Dh_3CF5-free.md` |
+| 423 | Dh_3CF6 | large | done | tree | 0 not placed | 943 | medium · $0.71 · 15.0 min |  | `processed/root-gemini/Dh_3CF6-prose.md` |
+| 424 | Gu_3CFS | large | done | tree | 4 not placed | 1275 | medium · $0.97 · 19.9 min | REVIEW: heading(s) not placed — insert by hand | `processed/root-gemini/Gu_3CFS-prose.md` |
+| 425 | Gu_3CFT | large | done | tree | 0 not placed | 931 | medium · $1.19 · 21.3 min |  | `processed/root-gemini/Gu_3CFT-prose.md` |
+| 426 | Ha_3CFF | large | done | tree | 0 not placed | 882 | medium · $0.91 · 15.2 min |  | `processed/root-gemini/Ha_3CFF-prose.md` |
+| 427 | Ha_3CFG | large | done | tree | 0 not placed | 1177 | medium · $1.13 · 19.0 min |  | `processed/root-gemini/Ha_3CFG-prose.md` |
+| 428 | Ha_3CFH | large | done | tree | 0 not placed | 1084 | medium · $1.44 · 17.8 min |  | `processed/root-gemini/Ha_3CFH-prose.md` |
+| 429 | Ha_3CFI | large | done | tree | 0 not placed | 801 | medium · $0.71 · 10.8 min |  | `processed/root-gemini/Ha_3CFI-prose.md` |
+| 430 | Ka_3CDK | large | done | no parts | — | 804 | medium · $0.95 · 19.7 min |  | `processed/root-gemini/Ka_3CDK-prose.md` |
+| 431 | Na_3CB4 | large | done | tree | 0 not placed | 382 | medium · $0.70 · 13.2 min |  | `processed/root-gemini/Na_3CB4-prose.md` |
+| 432 | Sh_3CCs_ | large | done | tree | 0 not placed | 596 | medium · $0.94 · 19.9 min |  | `processed/root-gemini/Sh_3CCs_-prose.md` |
+| 433 | Sh_3CCt_ | large | done | tree | 0 not placed | 1402 | medium · $1.28 · 25.4 min |  | `processed/root-gemini/Sh_3CCt_-prose.md` |
+| 434 | Sh_3CDE | large | done | tree | 0 not placed | 3377 | medium · $3.73 · 84.8 min |  | `processed/root-gemini/Sh_3CDE-free.md` |
+| 435 | Va_3CER | large | done | tree | 0 not placed | 1056 | medium · $0.97 · 17.8 min |  | `processed/root-gemini/Va_3CER-prose.md` |
 | 436 | Ha_3CFJ | large | done | tree | 0 not placed | 772 | medium · $0.75 · 11.8 min |  | `processed/root-gemini/Ha_3CFJ-prose.md` |

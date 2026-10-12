@@ -1,0 +1,24 @@
+
+=== 2026-10-13 01:17:39
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py segment /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/root/Ka_3CDK.md /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ka_3CDK
+prose: 2077 sentences, 409 verse lines in 64 passage(s) · front matter (Sanskrit title, Tibetan title, homage), author's colophon, raw paragraph breaks kept: 175, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །དབུ་མ་སྣང་བ་ཞེས་བྱ་བ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py group-split /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ka_3CDK
+group-in-part1.md: units 1–582 → groups-prose-part1.json
+group-in-part2.md: units 583–1147 → groups-prose-part2.json
+group-in-part3.md: units 1148–1715 → groups-prose-part3.json
+group-in-part4.md: units 1716–2284 → groups-prose-part4.json
+group-in-part5.md: units 2285–2486 → groups-prose-part5.json
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py group-join /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ka_3CDK
+groups-prose.json: 804 blocks from 5 parts
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py finish /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ka_3CDK
+   ✓ final-prose.md: letters identical; 1328 spacing difference(s) restored from the source — now identical (letters and spacing)
+/Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ka_3CDK/final-prose.md: 698 paragraphs (sentences per paragraph: 1 ×168, 2 ×168, 3 ×132, 4 ×93, 5 ×75, 6 ×37, 7 ×10, 8 ×8, 9 ×3, 10 ×1, 11 ×1, 12 ×1, 14 ×1) · 106 stanzas (1 lines ×4, 2 lines ×5, 4 lines ×93, 5 lines ×1, 6 lines ×3)
+

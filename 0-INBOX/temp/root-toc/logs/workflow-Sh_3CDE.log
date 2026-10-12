@@ -1,0 +1,82 @@
+
+=== 2026-10-13 01:52:06
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py segment /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/root/Sh_3CDE.md /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Sh_3CDE
+pādas 14517 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 257, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py toc-ingest /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Sh_3CDE --tree /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/TOC-Sh_3CDE/toc-tree-anchored-Sh_3CDE.md
+pādas 14517 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 257, first body heading moved up 24 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## དང་པོ་རང་བཞིན་བརྟག་པ། ^1-0
+   ## གཉིས་པ་དབང་ཕྱུག་བརྟག་པ། ^2-0
+   ## གསུམ་པ་གཉིས་ཀ་བརྟག་པ། ^3-0
+   ## བཞི་པ་འགྲོ་བ་རང་བཞིན་དུ་སྨྲ་བ་བརྟག་པ། ^4-0
+   ## ལྔ་པ་སྒྲའི་ཚངས་པ་བརྟག་པ། ^5-0
+   ## དྲུག་པ་སྐྱེས་བུ་བརྟག་པ། ^6-0
+   ## བདུན་པ་རིགས་པ་ཅན་དང་བྱེ་བྲག་པས་ཀུན་ཏུ་བརྟགས་པའི་སྐྱེས་བུ་བརྟག་པ། ^7-0
+   ## བརྒྱད་པ་དཔྱོད་པ་པས་བརྟགས་པའི་བདག་བརྟག་པ། ^8-0
+   ## དགུ་པ་སེར་སྐྱ་པས་ཀུན་དུ་བརྟགས་པའི་བདག་བརྟག་པ། ^9-0
+   ## བཅུ་པ་ནམ་མཁའི་གོས་ཅན་གྱིས་ཀུན་ཏུ་བརྟགས་པའི་བདག་བརྟག་པ། ^10-0
+   ## བཅུ་གཅིག་པ་ཨུ་པ་ནི་ཤ་ཀས་བརྟགས་པའི་བདག་བརྟག་པ། ^11-0
+   ## བཅུ་གཉིས་པ་གནས་མའི་བུས་བརྟགས་པའི་བདག་བརྟག་པ། ^12-0
+   ## བཅུ་གསུམ་པ་བརྟན་པའི་དངོས་པོ་བརྟག་པ། ^13-0
+   ## བཅུ་བཞི་པ་ལས་དང་འབྲས་བུའི་འབྲེལ་པ་བརྟག་པ། ^14-0
+   ## བཅོ་ལྔ་པ་རྫས་ཀྱི་ཚིག་གི་དོན་བརྟག་པ། ^15-0
+   ## བཅུ་དྲུག་པ་ཡོན་ཏན་གྱི་ཚིག་གི་དོན་བརྟག་པ། ^16-0
+   ## བཅུ་བདུན་པ་ལས་ཀྱི་ཚིག་གི་དོན་བརྟག་པ། ^17-0
+   ## བཅོ་བརྒྱད་པ་སྤྱི་དང་བྱེ་བྲག་གི་ཚིག་གི་དོན་བརྟག་པ། ^18-0
+   ## བཅུ་དགུ་པ་འདུ་བའི་ཚིག་གི་དོན་བརྟག་པ། ^19-0
+   ## ཉི་ཤུ་པ་སྒྲའི་དོན་བརྟག་པ། ^20-0
+   ## ཉི་ཤུ་རྩ་གཅིག་པ་མངོན་སུམ་གྱི་མཚན་ཉིད་བརྟག་པ། ^21-0
+   ## ཉི་ཤུ་རྩ་གཉིས་པ་རྗེས་སུ་དཔག་པ་བརྟག་པ། ^22-0
+   ## ཉི་ཤུ་རྩ་གསུམ་པ་ཚད་མ་གཞན་བརྟག་པ། ^23-0
+   ## ཉི་ཤུ་རྩ་བཞི་པ་འགྱུར་བར་སྨྲ་བ་བརྟག་པ། ^24-0
+   ## ཉི་ཤུ་རྩ་ལྔ་པ་དུས་གསུམ་བརྟག་པ། ^25-0
+   ## ཉི་ཤུ་རྩ་དྲུག་པ་འཇིག་རྟེན་རྒྱང་པན་པའི་བརྟག་པ། ^26-0
+   ## ཉི་ཤུ་རྩ་བདུན་པ་ཕྱི་རོལ་གྱི་དོན་བརྟག་པ། ^27-0
+   ## ཉི་ཤུ་རྩ་བརྒྱད་པ་ཐོས་པ་བརྟག་པ། ^28-0
+   ## ཉི་ཤུ་རྩ་དགུ་པ་རང་ལས་ཚད་མ་བརྟག་པ། ^29-0
+   ## སུམ་ཅུ་པ་གཞན་གྱི་དབང་པོ་ལས་འདས་པའི་དོན་མཐོང་བ་ཅན་གྱི་སྐྱེས་བུ་བརྟག་པ། ^30-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py group-split /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Sh_3CDE
+group-in-part1.md: units 1–616 → groups-free-part1.json
+group-in-part2.md: units 617–1255 → groups-free-part2.json
+group-in-part3.md: units 1256–1846 → groups-free-part3.json
+group-in-part4.md: units 1847–2504 → groups-free-part4.json
+group-in-part5.md: units 2505–3147 → groups-free-part5.json
+group-in-part6.md: units 3148–3766 → groups-free-part6.json
+group-in-part7.md: units 3767–4386 → groups-free-part7.json
+group-in-part8.md: units 4387–5020 → groups-free-part8.json
+group-in-part9.md: units 5021–5640 → groups-free-part9.json
+group-in-part10.md: units 5641–6234 → groups-free-part10.json
+group-in-part11.md: units 6235–6887 → groups-free-part11.json
+group-in-part12.md: units 6888–7513 → groups-free-part12.json
+group-in-part13.md: units 7514–8121 → groups-free-part13.json
+group-in-part14.md: units 8122–8731 → groups-free-part14.json
+group-in-part15.md: units 8732–9351 → groups-free-part15.json
+group-in-part16.md: units 9352–9977 → groups-free-part16.json
+group-in-part17.md: units 9978–10594 → groups-free-part17.json
+group-in-part18.md: units 10595–11253 → groups-free-part18.json
+group-in-part19.md: units 11254–11878 → groups-free-part19.json
+group-in-part20.md: units 11879–12479 → groups-free-part20.json
+group-in-part21.md: units 12480–13086 → groups-free-part21.json
+group-in-part22.md: units 13087–13687 → groups-free-part22.json
+group-in-part23.md: units 13688–14282 → groups-free-part23.json
+group-in-part24.md: units 14283–14517 → groups-free-part24.json
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py group-join /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Sh_3CDE
+groups-free.json: 3377 blocks from 24 parts
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py finish /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Sh_3CDE
+   ✓ final-free.md: identical to Sh_3CDE.md (letters and spacing; only breaks, headings, IDs added)
+/Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Sh_3CDE/final-free.md: 3377 stanzas — 1 lines ×36, 2 lines ×27, 3 lines ×28, 4 lines ×2807, 5 lines ×81, 6 lines ×219, 7 lines ×41, 8 lines ×133, 9 lines ×5
+
