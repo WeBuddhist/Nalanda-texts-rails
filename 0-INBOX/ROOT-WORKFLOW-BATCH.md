@@ -3,7 +3,7 @@
 Gemini (gemini-3.8-flash) runs the rest of the workflow for every root text whose TOC
 extraction is finished (see `0-INBOX/ROOT-TOC-BATCH.md`). How to run: `0-INBOX/temp/root-toc/README.md`.
 
-Updated 2026-10-12 · 422 texts · done 416 · failed 0 ·
+Updated 2026-10-13 · 422 texts · done 416 · failed 0 ·
 running 0 · **to do 6**
 
 | Where | Path |
@@ -94,7 +94,7 @@ running 0 · **to do 6**
 | 72 | At_3CG8 | small | done | tree | 0 not placed | 10 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CG8-free.md` |
 | 73 | At_3CG9 | small | done | tree | 0 not placed | 23 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CG9-prose.md` |
 | 74 | At_3CGA | small | done | tree | 0 not placed | 34 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CGA-free.md` |
-| 75 | At_3CGa_ | small | done | tree | 0 not placed | 12 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CGa_-prose.md` |
+| 75 | At_3CGa_ | small | done | tree | 0 not placed | 12 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CGa_-prose.md` |
 | 76 | At_3CGB | small | done | tree | 0 not placed | 21 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CGB-prose.md` |
 | 77 | At_3CGb_ | small | done | tree | 0 not placed | 10 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CGb_-prose.md` |
 | 78 | At_3CGC | small | done | no parts | — | 7 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CGC-prose.md` |
@@ -177,7 +177,7 @@ running 0 · **to do 6**
 | 155 | At_3CHl_ | small | done | tree | 0 not placed | 17 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CHl_-prose.md` |
 | 156 | At_3CHM | small | done | tree | 0 not placed | 21 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CHM-free.md` |
 | 157 | At_3CHm_ | small | done | tree | 0 not placed | 19 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CHm_-prose.md` |
-| 158 | At_3CHN | small | done | no parts | — | 8 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHN-prose.md` |
+| 158 | At_3CHN | small | done | no parts | — | 5 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CHN-prose.md` |
 | 159 | At_3CHO | small | done | no parts | — | 14 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CHO-prose.md` |
 | 160 | At_3CHo_ | small | done | no parts | — | 9 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHo_-free.md` |
 | 161 | At_3CHP | small | done | no parts | — | 13 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CHP-prose.md` |
@@ -190,7 +190,7 @@ running 0 · **to do 6**
 | 168 | At_3CHs_ | small | done | tree | 0 not placed | 14 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHs_-free.md` |
 | 169 | At_3CHT | small | done | no parts | — | 4 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHT-prose.md` |
 | 170 | At_3CHt_ | small | done | tree | 0 not placed | 12 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHt_-free.md` |
-| 171 | At_3CHU | small | done | no parts | — | 6 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHU-prose.md` |
+| 171 | At_3CHU | small | done | no parts | — | 4 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CHU-prose.md` |
 | 172 | At_3CHu_ | small | done | tree | 0 not placed | 18 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHu_-free.md` |
 | 173 | At_3CHV | small | done | tree | 0 not placed | 5 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHV-prose.md` |
 | 174 | At_3CHv_ | small | done | tree | 0 not placed | 12 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHv_-free.md` |
@@ -200,13 +200,13 @@ running 0 · **to do 6**
 | 178 | At_3CHY | small | done | no parts | — | 4 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHY-prose.md` |
 | 179 | At_3CHy_ | small | done | tree | 0 not placed | 29 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CHy_-free.md` |
 | 180 | At_3CHZ | small | done | no parts | — | 6 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHZ-prose.md` |
-| 181 | At_3CHz_ | small | done | no parts | — | 6 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CHz_-prose.md` |
+| 181 | At_3CHz_ | small | done | no parts | — | 6 | low · $0.01 · 0.2 min |  | `processed/root-gemini/At_3CHz_-prose.md` |
 | 182 | At_3CI0 | small | done | no parts | — | 4 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CI0-prose.md` |
 | 183 | At_3CI1 | small | done | no parts | — | 6 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CI1-prose.md` |
 | 184 | At_3CI2 | small | done | no parts | — | 4 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CI2-prose.md` |
-| 185 | At_3CI3 | small | done | tree | 0 not placed | 3 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CI3-prose.md` |
-| 186 | At_3CI4 | small | done | no parts | — | 7 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CI4-prose.md` |
-| 187 | At_3CI5 | small | done | no parts | — | 14 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CI5-prose.md` |
+| 185 | At_3CI3 | small | done | tree | 0 not placed | 3 | low · $0.01 · 0.3 min |  | `processed/root-gemini/At_3CI3-prose.md` |
+| 186 | At_3CI4 | small | done | no parts | — | 8 | low · $0.02 · 0.4 min |  | `processed/root-gemini/At_3CI4-prose.md` |
+| 187 | At_3CI5 | small | done | no parts | — | 15 | low · $0.01 · 0.1 min |  | `processed/root-gemini/At_3CI5-prose.md` |
 | 188 | At_3CI6 | small | done | no parts | — | 6 | low · $0.00 · 0.1 min |  | `processed/root-gemini/At_3CI6-prose.md` |
 | 189 | At_3CI7 | small | done | tree | 0 not placed | 34 | low · $0.01 · 0.2 min |  | `processed/root-gemini/At_3CI7-prose.md` |
 | 190 | At_3CI8 | small | done | tree | 0 not placed | 27 | low · $0.01 · 0.2 min |  | `processed/root-gemini/At_3CI8-prose.md` |
@@ -244,7 +244,7 @@ running 0 · **to do 6**
 | 222 | Di_3CEn_ | small | done | no parts | — | 11 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Di_3CEn_-free.md` |
 | 223 | Di_3CEq_ | medium | done | tree | 0 not placed | 275 | low · $0.04 · 0.6 min |  | `processed/root-gemini/Di_3CEq_-free.md` |
 | 224 | Di_3CEs_ | small | done | no parts | — | 8 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Di_3CEs_-free.md` |
-| 225 | Di_3CEu_ | small | done | no parts | — | 34 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Di_3CEu_-free.md` |
+| 225 | Di_3CEu_ | small | done | no parts | — | 33 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Di_3CEu_-free.md` |
 | 226 | Di_3CEv_ | small | done | tree | 0 not placed | 26 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Di_3CEv_-prose.md` |
 | 227 | Di_3CEw_ | small | done | tree | 0 not placed | 47 | low · $0.01 · 0.2 min |  | `processed/root-gemini/Di_3CEw_-prose.md` |
 | 228 | Di_3CEx_ | small | done | tree | 0 not placed | 12 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Di_3CEx_-free.md` |
@@ -293,7 +293,7 @@ running 0 · **to do 6**
 | 271 | Na_3C9P | small | done | tree | 0 not placed | 30 | low · $0.01 · 0.2 min |  | `processed/root-gemini/Na_3C9P-free.md` |
 | 272 | Na_3C9p_ | small | done | tree | 0 not placed | 25 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3C9p_-free.md` |
 | 273 | Na_3C9Q | small | done | tree | 0 not placed | 23 | low · $0.01 · 0.2 min |  | `processed/root-gemini/Na_3C9Q-prose.md` |
-| 274 | Na_3C9R | small | done | tree | 0 not placed | 13 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3C9R-free.md` |
+| 274 | Na_3C9R | small | done | tree | 0 not placed | 11 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3C9R-free.md` |
 | 275 | Na_3C9r_ | small | done | tree | 0 not placed | 20 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3C9r_-prose.md` |
 | 276 | Na_3C9S | small | done | tree | 0 not placed | 11 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3C9S-free.md` |
 | 277 | Na_3C9s_ | small | done | no parts | — | 6 | low · $0.00 · 0.2 min |  | `processed/root-gemini/Na_3C9s_-free.md` |
@@ -329,13 +329,13 @@ running 0 · **to do 6**
 | 307 | Na_3CAE | small | done | tree | 0 not placed | 23 | low · $0.01 · 0.2 min |  | `processed/root-gemini/Na_3CAE-free.md` |
 | 308 | Na_3CAe_ | small | done | no parts | — | 2 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CAe_-prose.md` |
 | 309 | Na_3CAF | medium | done | tree | 0 not placed | 92 | low · $0.02 · 0.2 min |  | `processed/root-gemini/Na_3CAF-prose.md` |
-| 310 | Na_3CAf_ | small | done | no parts | — | 8 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CAf_-prose.md` |
-| 311 | Na_3CAG | small | done | tree | 0 not placed | 23 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3CAG-prose.md` |
+| 310 | Na_3CAf_ | small | done | no parts | — | 7 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3CAf_-prose.md` |
+| 311 | Na_3CAG | small | done | tree | 0 not placed | 20 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3CAG-prose.md` |
 | 312 | Na_3CAg_ | small | done | tree | 0 not placed | 147 | low · $0.03 · 0.6 min |  | `processed/root-gemini/Na_3CAg_-free.md` |
 | 313 | Na_3CAH | small | done | no parts | — | 7 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CAH-prose.md` |
-| 314 | Na_3CAh_ | small | done | tree | 0 not placed | 21 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3CAh_-prose.md` |
+| 314 | Na_3CAh_ | small | done | tree | 0 not placed | 22 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3CAh_-prose.md` |
 | 315 | Na_3CAI | small | done | no parts | — | 4 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CAI-prose.md` |
-| 316 | Na_3CAi_ | small | done | tree | 0 not placed | 43 | low · $0.01 · 0.2 min |  | `processed/root-gemini/Na_3CAi_-free.md` |
+| 316 | Na_3CAi_ | small | done | tree | 0 not placed | 37 | low · $0.02 · 0.1 min |  | `processed/root-gemini/Na_3CAi_-free.md` |
 | 317 | Na_3CAJ | small | done | no parts | — | 7 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CAJ-free.md` |
 | 318 | Na_3CAK | small | done | no parts | — | 4 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CAK-prose.md` |
 | 319 | Na_3CAk_ | medium | done | tree | 0 not placed | 476 | low · $0.11 · 1.5 min |  | `processed/root-gemini/Na_3CAk_-free.md` |
@@ -356,13 +356,13 @@ running 0 · **to do 6**
 | 334 | Na_3CAu_ | small | done | no parts | — | 23 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CAu_-free.md` |
 | 335 | Na_3CAV | medium | done | tree | 0 not placed | 536 | low · $0.37 · 1.4 min |  | `processed/root-gemini/Na_3CAV-prose.md` |
 | 336 | Na_3CAv_ | small | done | no parts | — | 11 | low · $0.02 · 0.5 min |  | `processed/root-gemini/Na_3CAv_-prose.md` |
-| 337 | Na_3CAW | small | done | tree | 0 not placed | 30 | low · $0.02 · 0.5 min |  | `processed/root-gemini/Na_3CAW-prose.md` |
+| 337 | Na_3CAW | small | done | tree | 0 not placed | 24 | low · $0.03 · 0.1 min |  | `processed/root-gemini/Na_3CAW-prose.md` |
 | 338 | Na_3CAX | medium | done | tree | 0 not placed | 177 | low · $0.21 · 4.1 min | grouping fell back to medium for part(s) 1 | `processed/root-gemini/Na_3CAX-free.md` |
 | 339 | Na_3CAx_ | small | done | no parts | — | 8 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CAx_-free.md` |
-| 340 | Na_3CAY | small | done | tree | 0 not placed | 27 | low · $0.01 · 0.2 min |  | `processed/root-gemini/Na_3CAY-prose.md` |
-| 341 | Na_3CAZ | small | done | tree | 0 not placed | 7 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CAZ-prose.md` |
+| 340 | Na_3CAY | small | done | tree | 0 not placed | 28 | low · $0.02 · 0.1 min |  | `processed/root-gemini/Na_3CAY-prose.md` |
+| 341 | Na_3CAZ | small | done | tree | 0 not placed | 7 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3CAZ-prose.md` |
 | 342 | Na_3CAz_ | small | done | tree | 0 not placed | 24 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3CAz_-prose.md` |
-| 343 | Na_3CB0 | small | done | no parts | — | 16 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CB0-free.md` |
+| 343 | Na_3CB0 | small | done | no parts | — | 16 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3CB0-free.md` |
 | 344 | Na_3CB1 | small | done | tree | 0 not placed | 22 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Na_3CB1-free.md` |
 | 345 | Na_3CB2 | small | done | tree | 0 not placed | 41 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Na_3CB2-free.md` |
 | 346 | Na_3CB3 | small | done | no parts | — | 56 | low · $0.01 · 0.2 min |  | `processed/root-gemini/Na_3CB3-free.md` |
@@ -397,8 +397,8 @@ running 0 · **to do 6**
 | 375 | Sh_3CCi_ | small | done | no parts | — | 6 | low · $0.01 · 0.1 min | breaks-review.md: raw breaks ending mid-sentence | `processed/root-gemini/Sh_3CCi_-prose.md` |
 | 376 | Sh_3CCj_ | small | done | no parts | — | 4 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Sh_3CCj_-free.md` |
 | 377 | Sh_3CCl_ | small | done | no parts | — | 4 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Sh_3CCl_-free.md` |
-| 378 | Sh_3CCm_ | medium | done | tree | 0 not placed | 886 | low · $0.42 · 6.9 min | grouping fell back to medium for part(s) 3 | `processed/root-gemini/Sh_3CCm_-free.md` |
-| 379 | Sh_3CCn_ | small | done | no parts | — | 10 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Sh_3CCn_-prose.md` |
+| 378 | Sh_3CCm_ | medium | done | tree | 0 not placed | 898 | low · $1.00 · 1.7 min |  | `processed/root-gemini/Sh_3CCm_-free.md` |
+| 379 | Sh_3CCn_ | small | done | no parts | — | 10 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Sh_3CCn_-prose.md` |
 | 380 | Sh_3CCp_ | small | done | tree | 0 not placed | 66 | low · $0.04 · 0.2 min | breaks-review.md: raw breaks ending mid-sentence | `processed/root-gemini/Sh_3CCp_-prose.md` |
 | 381 | Sh_3CCq_ | small | done | no parts | — | 69 | low · $0.01 · 0.2 min |  | `processed/root-gemini/Sh_3CCq_-free.md` |
 | 382 | Sh_3CCr_ | small | done | tree | 0 not placed | 29 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Sh_3CCr_-free.md` |
@@ -409,9 +409,9 @@ running 0 · **to do 6**
 | 387 | Sh_3CCz_ | small | done | tree | 0 not placed | 11 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Sh_3CCz_-prose.md` |
 | 388 | Sh_3CD1 | medium | done | tree | 0 not placed | 56 | low · $0.06 · 0.2 min | breaks-review.md: raw breaks ending mid-sentence | `processed/root-gemini/Sh_3CD1-prose.md` |
 | 389 | Sh_3CD2 | medium | done | tree | 0 not placed | 169 | low · $0.09 · 0.4 min |  | `processed/root-gemini/Sh_3CD2-prose.md` |
-| 390 | Sh_3CD3 | medium | done | tree | 0 not placed | 92 | low · $0.11 · 0.5 min |  | `processed/root-gemini/Sh_3CD3-prose.md` |
+| 390 | Sh_3CD3 | medium | done | tree | 0 not placed | 146 | low · $0.17 · 0.2 min |  | `processed/root-gemini/Sh_3CD3-prose.md` |
 | 391 | Sh_3CD4 | medium | done | tree | 0 not placed | 136 | low · $0.05 · 0.2 min |  | `processed/root-gemini/Sh_3CD4-prose.md` |
-| 392 | Sh_3CD5 | small | done | tree | 0 not placed | 31 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Sh_3CD5-prose.md` |
+| 392 | Sh_3CD5 | small | done | tree | 0 not placed | 32 | low · $0.03 · 0.1 min | 1 anchor(s) repaired (footnote marker / ༌) | `processed/root-gemini/Sh_3CD5-prose.md` |
 | 393 | Sh_3CD6 | medium | done | tree | 0 not placed | 112 | low · $0.05 · 0.2 min |  | `processed/root-gemini/Sh_3CD6-prose.md` |
 | 394 | Sh_3CD7 | medium | done | tree | 0 not placed | 109 | low · $0.08 · 0.4 min | breaks-review.md: raw breaks ending mid-sentence | `processed/root-gemini/Sh_3CD7-prose.md` |
 | 395 | Sh_3CD8 | medium | done | tree | 0 not placed | 114 | low · $0.07 · 0.6 min |  | `processed/root-gemini/Sh_3CD8-prose.md` |
@@ -425,7 +425,7 @@ running 0 · **to do 6**
 | 403 | Va_3CEd_ | small | done | no parts | — | 9 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Va_3CEd_-free.md` |
 | 404 | Va_3CEL | small | done | tree | 0 not placed | 25 | low · $0.01 · 0.2 min |  | `processed/root-gemini/Va_3CEL-free.md` |
 | 405 | Va_3CEM | small | done | no parts | — | 22 | low · $0.00 · 0.1 min |  | `processed/root-gemini/Va_3CEM-free.md` |
-| 406 | Va_3CEO | small | done | tree | 0 not placed | 39 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Va_3CEO-free.md` |
+| 406 | Va_3CEO | small | done | tree | 0 not placed | 38 | low · $0.01 · 0.1 min |  | `processed/root-gemini/Va_3CEO-free.md` |
 | 407 | Va_3CEP | small | done | tree | 0 not placed | 152 | low · $0.02 · 0.3 min |  | `processed/root-gemini/Va_3CEP-prose.md` |
 | 408 | Va_3CEQ | medium | done | no parts | — | 24 | low · $0.02 · 0.1 min |  | `processed/root-gemini/Va_3CEQ-prose.md` |
 | 409 | Va_3CES | medium | done | tree | 0 not placed | 94 | low · $0.07 · 0.2 min | 1 anchor(s) repaired (footnote marker / ༌) | `processed/root-gemini/Va_3CES-prose.md` |

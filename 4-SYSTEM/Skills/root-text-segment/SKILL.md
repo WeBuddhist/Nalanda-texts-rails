@@ -76,9 +76,15 @@ P3  <pāda> །
    one sentence in two, which a person can join.
 5. **Front matter by pattern only:** `རྒྱ་གར་སྐད་དུ། … བོད་སྐད་དུ། … ཕྱག་འཚལ་ལོ།` (a Chinese
    title, `རྒྱའི་སྐད་དུ།`, counts the same) → `## ཀླད་ཀྱི་དོན། ^I-0` with two frame blocks:
-   the source-language and Tibetan titles together (`^I-1`), the homage (`^I-2`).
-   Without language labels: the title repeated at the start (first 3 syllables) and, in
-   prose, a homage before or after it. A verse text's lone homage line stays in the body.
+   the source-language and Tibetan titles together (`^I-1`), the homage (`^I-2`). A homage
+   missing ཕྱག in the edition (`…ལ༌[^1]འཚལ་ལོ།`) counts. With labels but no separate
+   homage — the author's homage verse, or a homage running on into the text (`…ཕྱག་འཚལ་ཏེ།`)
+   — the titles alone are `^I-1` and the homage stays in the body. A printed paragraph
+   break inside the front matter (a `…བཞུགས་སོ།` title line before the labels) splits it.
+   Without language labels: the title repeated at the start (first 3 syllables, and no
+   more than 6 syllables longer than the title — a body sentence opening with the title's
+   words is not a repeat) and, in prose, a homage before or after it. A verse text's lone
+   homage line stays in the body.
 6. **Colophons by wording:** the closing matter → `## མཇུག་བྱང། ^a-0`, each colophon a `###`
    sub-section in text order, starting at its own wording — author (`…མཛད་པ་རྫོགས་སོ།`,
    `…མཛད་པའི་<title>་རྫོགས་སོ།`) → `### མཛད་བྱང།`, translators (`…ལོ་ཙཱ་བ…`,

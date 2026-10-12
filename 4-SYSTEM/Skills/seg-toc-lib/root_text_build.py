@@ -412,7 +412,16 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
     i = run.find("བོད་སྐད་དུ")
     hom_re = re.compile(r"ཕྱག་འཚལ་ལོ")
     if SRC_LANG.search(run[:200]) and 0 < i < 600:
+        lang = "Chinese" if "རྒྱ་གར་སྐད" not in run[:200] else "Sanskrit"
+        # the Tibetan title ends at the clause after "བོད་སྐད་དུ།"
+        ends = [m.end() for m in END.finditer(run, i)][:2]
+        t_end = ends[-1] if len(ends) == 2 else len(run)
         h = hom_re.search(run, i)
+        if not (h and h.start() - i < 600):
+            # an edition may lack ཕྱག ("…ལ༌[^1]འཚལ་ལོ།"): a clause right after the title
+            h = re.compile(r"འཚལ་ལོ").search(run, t_end)
+            if h and END.search(run, t_end, h.start()):
+                h = None
         if h and h.start() - i < 600:
             hcuts = [m.end() for m in END.finditer(run, i, h.start())]
             hom = hcuts[-1] if hcuts else h.start()
@@ -420,9 +429,18 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
             pos = m.end() if m else len(run)
             # the source-language title and the Tibetan title are one block (the editors'
             # layout, review of 2026-10-09): ^I-1 titles, ^I-2 homage
-            front = [run[:hom].strip(), run[hom:pos].strip()]
-            lang = "Chinese" if "རྒྱ་གར་སྐད" not in run[:200] else "Sanskrit"
+            bounds = {hom}
             report.append(f"front matter ({lang} title, Tibetan title, homage)")
+        else:
+            # no separate homage: the author's own homage verse (or homage running on into
+            # the text, "…ཕྱག་འཚལ་ཏེ།") stays in the body; the titles alone are ^I-1
+            pos, bounds = t_end, set()
+            report.append(f"front matter ({lang} title, Tibetan title)")
+        # a printed paragraph break inside the front matter (a "…བཞུགས་སོ།" title line before
+        # the language labels) splits it too: no block runs across a raw break
+        bounds |= {c for c in cuts if 0 < c < pos}
+        edges = [0] + sorted(bounds) + [pos]
+        front = [run[a:b].strip() for a, b in zip(edges, edges[1:]) if run[a:b].strip()]
     elif title_line:
         # leading clauses that repeat the title or pay homage (a prose text may put the
         # homage before the title); the opening marks (༄༅། །) join the next clause. In a
@@ -439,7 +457,9 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
         kinds = []
         for x, y in segs:
             c = core(run[x:y]).split("་")
-            if len(t_core) >= 3 and c[:3] == t_core[:3]:
+            # the title repeated — not a sentence of the body that opens with the title's
+            # words ("ཆུ་གཏོར་གྱི་ཡོ་བྱད་རྣམས་…" after the title ཆུ་གཏོར་གྱི་ཆོ་ག)
+            if len(t_core) >= 3 and c[:3] == t_core[:3] and len(c) <= len(t_core) + 6:
                 kinds.append("title")
             elif hom_re.search(run[x:y]) and form == "prose" and syl(run[x:y]) <= 20:
                 kinds.append("homage")
