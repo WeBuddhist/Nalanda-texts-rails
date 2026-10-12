@@ -1,17 +1,11 @@
 {
  "Ar_3CBa_": {
-  "status": "done",
-  "toc": "tree",
-  "run": "low · $0.20 · 2.5 min",
-  "form_out": "free",
-  "headings": "0 not placed",
-  "blocks": 495,
-  "note": ""
+  "status": "todo",
+  "toc": "tree"
  },
  "Ar_3CBc_": {
-  "status": "running",
-  "toc": "tree",
-  "run": "started 21:56"
+  "status": "todo",
+  "toc": "tree"
  },
  "Ar_3CBf_": {
   "status": "todo",
@@ -1669,16 +1663,23 @@
   "toc": "tree"
  },
  "As_3CDk_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.53 · 10.4 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 599,
+  "note": ""
  },
  "As_3CDl_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "running",
+  "toc": "tree",
+  "run": "started 22:28"
  },
  "As_3CDm_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "running",
+  "toc": "tree",
+  "run": "started 22:39"
  },
  "As_3CDn_": {
   "status": "todo",
@@ -1689,6 +1690,74 @@
   "toc": "tree"
  },
  "As_3CDp_": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "As_3CDq_": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "As_3CDv_": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "At_3CHK": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Dh_3CF5": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Dh_3CF6": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Gu_3CFS": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Gu_3CFT": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Ha_3CFF": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Ha_3CFG": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Ha_3CFH": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Ha_3CFI": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Ka_3CDK": {
+  "status": "todo",
+  "toc": "no parts"
+ },
+ "Na_3CB4": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Sh_3CCs_": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Sh_3CCt_": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Sh_3CDE": {
+  "status": "todo",
+  "toc": "tree"
+ },
+ "Va_3CER": {
   "status": "todo",
   "toc": "tree"
  }

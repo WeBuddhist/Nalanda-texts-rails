@@ -3,8 +3,8 @@
 Gemini (gemini-3.8-flash) runs the rest of the workflow for every root text whose TOC
 extraction is finished (see `0-INBOX/ROOT-TOC-BATCH.md`). How to run: `0-INBOX/temp/root-toc/README.md`.
 
-Updated 2026-10-12 · 418 texts · done 4 · failed 0 ·
-running 1 · **to do 413**
+Updated 2026-10-12 · 435 texts · done 4 · failed 0 ·
+running 2 · **to do 429**
 
 | Where | Path |
 |---|---|
@@ -20,8 +20,8 @@ running 1 · **to do 413**
 
 | # | id | size | status | toc | headings | blocks | run (cost · time) | note | output |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Ar_3CBa_ | medium | done | tree | 0 not placed | 495 | low · $0.20 · 2.5 min |  | `processed/root-gemini/Ar_3CBa_-free.md` |
-| 2 | Ar_3CBc_ | medium | running | tree |  |  | started 21:56 |  |  |
+| 1 | Ar_3CBa_ | medium | todo | tree |  |  |  |  |  |
+| 2 | Ar_3CBc_ | medium | todo | tree |  |  |  |  |  |
 | 3 | Ar_3CBf_ | small | todo | no parts |  |  |  |  |  |
 | 4 | Ar_3CBg_ | medium | todo | tree |  |  |  |  |  |
 | 5 | Ar_3CBh_ | medium | todo | tree |  |  |  |  |  |
@@ -432,9 +432,26 @@ running 1 · **to do 413**
 | 410 | Va_3CET | small | todo | tree |  |  |  |  |  |
 | 411 | Va_3CEX | medium | todo | tree |  |  |  |  |  |
 | 412 | Va_3CEY | small | todo | tree |  |  |  |  |  |
-| 413 | As_3CDk_ | large | todo | tree |  |  |  |  |  |
-| 414 | As_3CDl_ | large | todo | tree |  |  |  |  |  |
-| 415 | As_3CDm_ | large | todo | tree |  |  |  |  |  |
+| 413 | As_3CDk_ | large | done | tree | 0 not placed | 599 | medium · $0.53 · 10.4 min |  | `processed/root-gemini/As_3CDk_-prose.md` |
+| 414 | As_3CDl_ | large | running | tree |  |  | started 22:28 |  |  |
+| 415 | As_3CDm_ | large | running | tree |  |  | started 22:39 |  |  |
 | 416 | As_3CDn_ | large | todo | tree |  |  |  |  |  |
 | 417 | As_3CDo_ | large | todo | tree |  |  |  |  |  |
 | 418 | As_3CDp_ | large | todo | tree |  |  |  |  |  |
+| 419 | As_3CDq_ | large | todo | tree |  |  |  |  |  |
+| 420 | As_3CDv_ | large | todo | tree |  |  |  |  |  |
+| 421 | At_3CHK | large | todo | tree |  |  |  |  |  |
+| 422 | Dh_3CF5 | large | todo | tree |  |  |  |  |  |
+| 423 | Dh_3CF6 | large | todo | tree |  |  |  |  |  |
+| 424 | Gu_3CFS | large | todo | tree |  |  |  |  |  |
+| 425 | Gu_3CFT | large | todo | tree |  |  |  |  |  |
+| 426 | Ha_3CFF | large | todo | tree |  |  |  |  |  |
+| 427 | Ha_3CFG | large | todo | tree |  |  |  |  |  |
+| 428 | Ha_3CFH | large | todo | tree |  |  |  |  |  |
+| 429 | Ha_3CFI | large | todo | tree |  |  |  |  |  |
+| 430 | Ka_3CDK | large | todo | no parts |  |  |  |  |  |
+| 431 | Na_3CB4 | large | todo | tree |  |  |  |  |  |
+| 432 | Sh_3CCs_ | large | todo | tree |  |  |  |  |  |
+| 433 | Sh_3CCt_ | large | todo | tree |  |  |  |  |  |
+| 434 | Sh_3CDE | large | todo | tree |  |  |  |  |  |
+| 435 | Va_3CER | large | todo | tree |  |  |  |  |  |
