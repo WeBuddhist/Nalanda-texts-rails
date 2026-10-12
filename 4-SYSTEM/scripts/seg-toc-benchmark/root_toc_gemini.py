@@ -37,7 +37,11 @@ def api_key():
 class Gemini:
     def __init__(self, thinking, log, model=MODEL):
         from google import genai
-        self.genai, self.client, self.thinking, self.log = genai, genai.Client(api_key=api_key()), thinking, log
+        from google.genai import types
+        # a request with no reply in 10 min is dropped and retried (without it a stalled
+        # connection hangs the worker for good)
+        client = genai.Client(api_key=api_key(), http_options=types.HttpOptions(timeout=600_000))
+        self.genai, self.client, self.thinking, self.log = genai, client, thinking, log
         self.model = model
 
     def ask(self, system, user, label, max_output=65536):
