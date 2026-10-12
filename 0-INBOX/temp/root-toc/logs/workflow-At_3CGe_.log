@@ -1,0 +1,22 @@
+
+=== 2026-10-12 16:12:17
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\At_3CGe_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CGe_
+prose: 17 sentences, 0 verse lines in 0 passage(s) · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 1, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །འཆི་བ་སླུ་བ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CGe_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CGe_\toc-tree-anchored-At_3CGe_.md
+prose: 17 sentences, 0 verse lines in 0 passage(s) · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 1, first body heading moved up 2 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །འཆི་བ་སླུ་བ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## འཆི་བའི་རྟགས། ^1-0
+   ## སླུ་བའི་ཆོ་ག། ^2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CGe_
+28 lines — no split needed: one subagent on group-in.md → groups-prose.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CGe_
+   ✓ final-prose.md: letters identical; 8 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CGe_\final-prose.md: 6 paragraphs (sentences per paragraph: 1 ×1, 2 ×2, 3 ×1, 4 ×1, 5 ×1) · 0 stanzas
+

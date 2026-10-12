@@ -1,0 +1,38 @@
+
+=== 2026-10-12 16:45:53
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Sh_3CCu_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_
+prose: 111 sentences, 0 verse lines in 0 passage(s) · raw paragraph breaks kept: 14, 1 flagged (breaks-review.md), body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །དཔལ་ལྡན་ཞི་བ་ལྷས་གསུངས་པའི་ཤོ་འགྱེད་པའི་མོ་རྩིས་བསྟན་པ་བཞུགས་སོ།། ^0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CCu_\toc-tree-anchored-Sh_3CCu_.md
+prose: 111 sentences, 0 verse lines in 0 passage(s) · raw paragraph breaks kept: 14, 1 flagged (breaks-review.md) · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །དཔལ་ལྡན་ཞི་བ་ལྷས་གསུངས་པའི་ཤོ་འགྱེད་པའི་མོ་རྩིས་བསྟན་པ་བཞུགས་སོ།། ^0
+   ## ཤོ་འགྱེད་པའི་མོ་རྩིས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_
+129 lines — no split needed: one subagent on group-in.md → groups-prose.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_
+   ✓ final-prose.md: letters identical; 31 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_\final-prose.md: 67 paragraphs (sentences per paragraph: 1 ×32, 2 ×29, 3 ×4, 4 ×1, 5 ×1) · 0 stanzas
+
+
+=== 2026-10-12 18:25:56
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Sh_3CCu_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_
+prose: 112 sentences, 0 verse lines in 0 passage(s) · raw paragraph breaks kept: 15, 1 of them mid-sentence (breaks-review.md), body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །དཔལ་ལྡན་ཞི་བ་ལྷས་གསུངས་པའི་ཤོ་འགྱེད་པའི་མོ་རྩིས་བསྟན་པ་བཞུགས་སོ།། ^0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CCu_\toc-tree-anchored-Sh_3CCu_.md
+prose: 112 sentences, 0 verse lines in 0 passage(s) · raw paragraph breaks kept: 15, 1 of them mid-sentence (breaks-review.md) · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །དཔལ་ལྡན་ཞི་བ་ལྷས་གསུངས་པའི་ཤོ་འགྱེད་པའི་མོ་རྩིས་བསྟན་པ་བཞུགས་སོ།། ^0
+   ## ཤོ་འགྱེད་པའི་མོ་རྩིས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_
+131 lines — no split needed: one subagent on group-in.md → groups-prose.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_
+   ✓ final-prose.md: letters identical; 33 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCu_\final-prose.md: 66 paragraphs (sentences per paragraph: 1 ×29, 2 ×31, 3 ×4, 4 ×1, 5 ×1) · 0 stanzas
+

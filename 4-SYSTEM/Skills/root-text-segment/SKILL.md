@@ -67,10 +67,13 @@ P3  <pāda> །
    syllables), and **verse passages** inside — 4+ lines closed by `། །` in one metre (exact up
    to 9 syllables, ±1 up to 12, ±2 above; a loose run is refused when over a third of its
    lines end on a final verb: those are rubrics) — stay line by line (`V`).
-4. **Raw paragraph breaks are kept.** A unit always ends at one, and `group-in.md` marks it
-   `¶`. A paragraph that ends mid-sentence — no shad, or a connective (`…ཏེ།` `…ནས།`
-   `…དང་།` `…ལས།` …) — is not kept: it goes to `breaks-review.md` for a person to check
-   (about 40 such breaks in 35 of the 565 Nalanda files).
+4. **Every raw paragraph break is kept.** A unit always ends at one, and `group-in.md` marks
+   it `¶`; no block may run across it. A paragraph that ends mid-sentence — no shad, or a
+   connective (`…ཏེ།` `…ནས།` `…དང་།` `…ལས།` `…ཅེས།` …) — is kept as well and only listed in
+   `breaks-review.md`: in the Nalanda texts these are the editor's own breaks (a quotation
+   after `…ཞལ་ནས།` / `…ཅེས།`, part 1 after its announcement, a stanza running on into the
+   next — 19 of 19 checked, 2026-10-12). A real page break in mid-sentence would only split
+   one sentence in two, which a person can join.
 5. **Front matter by pattern only:** `རྒྱ་གར་སྐད་དུ། … བོད་སྐད་དུ། … ཕྱག་འཚལ་ལོ།` (a Chinese
    title, `རྒྱའི་སྐད་དུ།`, counts the same) → `## ཀླད་ཀྱི་དོན། ^I-0` with two frame blocks:
    the source-language and Tibetan titles together (`^I-1`), the homage (`^I-2`).

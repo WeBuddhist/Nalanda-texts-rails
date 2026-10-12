@@ -1,0 +1,29 @@
+
+=== 2026-10-12 16:48:12
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Va_3CEc_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Va_3CEc_
+pādas 167 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 2, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །ཚོགས་ཀྱི་གཏམ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Va_3CEc_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEc_\toc-tree-anchored-Va_3CEc_.md
+pādas 167 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 2, first body heading moved up 4 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །ཚོགས་ཀྱི་གཏམ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## བསོད་ནམས་རང་བཞིན་ཡེ་ཤེས་ཆེ་ཚོགས་ནི་གང་གིས་རྫོགས་འགྱུར་དང་ཇི་ལྟར་གཞན་ཕན་བྱེད་འགྱུར་བ། ^1-0
+   ### བསོད་ནམས་རང་བཞིན་ཡེ་ཤེས་ཆེའི་ཚོགས། ^1-1-0
+   ### ཇི་ལྟར་གཞན་ཕན་བྱེད་པ། ^1-2-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Va_3CEc_
+189 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Va_3CEc_
+   ✓ final-free.md: identical to Va_3CEc_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Va_3CEc_\final-free.md: 29 stanzas — 4 lines ×16, 6 lines ×5, 8 lines ×5, 10 lines ×2, 13 lines ×1
+

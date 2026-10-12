@@ -1,0 +1,92 @@
+
+=== 2026-10-12 16:17:35
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Bh_3CCI.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI
+pādas 4105 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 102, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དབུ་མའི་སྙིང་པོའི་ཚིག་ལེའུ་བྱས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Bh_3CCI\toc-tree-anchored-Bh_3CCI.md
+pādas 4105 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 102, first body heading moved up 12 pāda(s) to follow the front matter · body headings: 1 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དབུ་མའི་སྙིང་པོའི་ཚིག་ལེའུ་བྱས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## དང་པོ་བྱང་ཆུབ་ཀྱི་སེམས་མི་གཏོང་བའི་ལེའུ། ^1-0
+   ## གཉིས་པ་ཐུབ་པའི་བརྟུལ་ཞུགས་ལ་ཡང་དག་པར་བསྟན་པའི་ལེའུ། ^2-0
+   ## གསུམ་པ་དེ་ཁོ་ན་ཉིད་ཀྱི་ཤེས་པ་ཚོལ་བའི་ལེའུ། ^3-0
+   ## བཞི་པ་ཉན་ཐོས་ཀྱི་དེ་ཁོ་ན་ཉིད་ལ་འཇུག་པའི་ལེའུ། ^4-0
+   ## ལྔ་པ་རྣལ་འབྱོར་སྤྱོད་པ་པའི་དེ་ཁོ་ན་ཉིད་གཏན་ལ་དབབ་པ་ལ་འཇུག་པའི་ལེའུ། ^5-0
+   ## བདུན་པ་བྱེ་བྲག་པའི་དེ་ཁོ་ན་ཉིད་ལ་འཇུག་པའི་ལེའུ། ^7-0
+   ## བརྒྱད་པ་རིག་བྱེད་ཀྱི་མཐའ་རྒྱུར་སྨྲ་བའི་དེ་ཁོ་ན་ཉིད་ལ་འཇུག་པའི་ལེའུ། ^8-0
+   ## དགུ་པ་དཔྱོད་པའི་དེ་ཁོ་ན་ཉིད་གཏན་ལ་དབབ་པ་ལ་འཇུག་པའི་ལེའུ། ^9-0
+   ## བཅུ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་གྲུབ་པར་བསྟན་པའི་ལེའུ། ^10-0
+   ## བཅུ་གཅིག་པ་བསྟོད་པ་དང་མཚན་བསྟན་པའི་ལེའུ། ^11-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI
+group-in-part1.md: units 1–590 → groups-free-part1.json
+group-in-part2.md: units 591–1183 → groups-free-part2.json
+group-in-part3.md: units 1184–1775 → groups-free-part3.json
+group-in-part4.md: units 1776–2362 → groups-free-part4.json
+group-in-part5.md: units 2363–2955 → groups-free-part5.json
+group-in-part6.md: units 2956–3556 → groups-free-part6.json
+group-in-part7.md: units 3557–4105 → groups-free-part7.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI
+groups-free.json: 955 blocks from 7 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI
+   ✓ final-free.md: identical to Bh_3CCI.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI\final-free.md: 955 stanzas — 1 lines ×12, 2 lines ×15, 3 lines ×5, 4 lines ×809, 5 lines ×12, 6 lines ×48, 7 lines ×3, 8 lines ×40, 9 lines ×1, 10 lines ×5, 12 lines ×4, 16 lines ×1
+
+
+=== 2026-10-12 18:30:41
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Bh_3CCI.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI
+pādas 4105 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 102, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དབུ་མའི་སྙིང་པོའི་ཚིག་ལེའུ་བྱས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+anchor repair: fixed 1, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Bh_3CCI\toc-tree-anchored-Bh_3CCI.md
+pādas 4105 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 102, first body heading moved up 12 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དབུ་མའི་སྙིང་པོའི་ཚིག་ལེའུ་བྱས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## དང་པོ་བྱང་ཆུབ་ཀྱི་སེམས་མི་གཏོང་བའི་ལེའུ། ^1-0
+   ## གཉིས་པ་ཐུབ་པའི་བརྟུལ་ཞུགས་ལ་ཡང་དག་པར་བསྟན་པའི་ལེའུ། ^2-0
+   ## གསུམ་པ་དེ་ཁོ་ན་ཉིད་ཀྱི་ཤེས་པ་ཚོལ་བའི་ལེའུ། ^3-0
+   ## བཞི་པ་ཉན་ཐོས་ཀྱི་དེ་ཁོ་ན་ཉིད་ལ་འཇུག་པའི་ལེའུ། ^4-0
+   ## ལྔ་པ་རྣལ་འབྱོར་སྤྱོད་པ་པའི་དེ་ཁོ་ན་ཉིད་གཏན་ལ་དབབ་པ་ལ་འཇུག་པའི་ལེའུ། ^5-0
+   ## དྲུག་པ་གྲངས་ཅན་གྱི་དེ་ཁོ་ན་ཉིད་ལ་འཇུག་པའི་ལེའུ། ^6-0
+   ## བདུན་པ་བྱེ་བྲག་པའི་དེ་ཁོ་ན་ཉིད་ལ་འཇུག་པའི་ལེའུ། ^7-0
+   ## བརྒྱད་པ་རིག་བྱེད་ཀྱི་མཐའ་རྒྱུར་སྨྲ་བའི་དེ་ཁོ་ན་ཉིད་ལ་འཇུག་པའི་ལེའུ། ^8-0
+   ## དགུ་པ་དཔྱོད་པའི་དེ་ཁོ་ན་ཉིད་གཏན་ལ་དབབ་པ་ལ་འཇུག་པའི་ལེའུ། ^9-0
+   ## བཅུ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དུ་གྲུབ་པར་བསྟན་པའི་ལེའུ། ^10-0
+   ## བཅུ་གཅིག་པ་བསྟོད་པ་དང་མཚན་བསྟན་པའི་ལེའུ། ^11-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI
+group-in-part1.md: units 1–590 → groups-free-part1.json
+group-in-part2.md: units 591–1183 → groups-free-part2.json
+group-in-part3.md: units 1184–1775 → groups-free-part3.json
+group-in-part4.md: units 1776–2362 → groups-free-part4.json
+group-in-part5.md: units 2363–2955 → groups-free-part5.json
+group-in-part6.md: units 2956–3556 → groups-free-part6.json
+group-in-part7.md: units 3557–4105 → groups-free-part7.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI
+groups-free.json: 948 blocks from 7 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI
+   ✓ final-free.md: identical to Bh_3CCI.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Bh_3CCI\final-free.md: 948 stanzas — 1 lines ×13, 2 lines ×14, 3 lines ×4, 4 lines ×801, 5 lines ×11, 6 lines ×51, 7 lines ×3, 8 lines ×37, 9 lines ×1, 10 lines ×4, 11 lines ×1, 12 lines ×6, 16 lines ×1, 22 lines ×1
+

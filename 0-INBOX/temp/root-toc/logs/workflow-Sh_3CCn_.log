@@ -1,0 +1,17 @@
+
+=== 2026-10-12 16:45:20
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Sh_3CCn_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCn_
+prose: 25 sentences, 4 verse lines in 1 passage(s) · front matter (title, homage, title), author's colophon, raw paragraph breaks kept: 1, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ཡི་གེ་བརྒྱ་པའི་བསྲུང་བ་དང་སྡིག་པ་བཤགས་པའི་ཆོ་ག ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCn_
+44 lines — no split needed: one subagent on group-in.md → groups-prose.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCn_
+   ✓ final-prose.md: letters identical; 15 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCn_\final-prose.md: 9 paragraphs (sentences per paragraph: 1 ×2, 2 ×3, 3 ×1, 4 ×2, 6 ×1) · 1 stanzas (4 lines ×1)
+

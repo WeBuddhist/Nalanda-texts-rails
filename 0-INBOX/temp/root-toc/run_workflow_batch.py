@@ -7,6 +7,7 @@ each text. The two modes take different texts and may run at the same time.
     venv/Scripts/python.exe -X utf8 0-INBOX/temp/root-toc/run_workflow_batch.py --mode low
     venv/Scripts/python.exe -X utf8 0-INBOX/temp/root-toc/run_workflow_batch.py --mode medium
         [--procs 3] [--limit N] [--only ID ...] [--reset-running] [--retry-failed]
+        [--redo ID ...]   run these again from the start, whatever their status
 
     --mode low     small + medium texts, grouping on gemini-3.8-flash thinking low
     --mode medium  large texts,          grouping on gemini-3.8-flash thinking medium
@@ -55,6 +56,7 @@ def _load(name, path):
 toc = _load("status", HERE / "status.py")            # the TOC batch status (read only)
 gem = _load("gemrun", RUNNER)                        # its Gemini client (key loader, logging)
 batch = _load("batch", HERE / "run_gemini_batch.py") # its cross-process lock
+anchors = _load("anchor_repair", HERE / "anchor_repair.py")
 locked = batch.locked
 local = batch.local
 
@@ -104,6 +106,11 @@ running {n['running']} · **to do {n['todo']}**
 """ + "\n".join(rows) + "\n", encoding="utf-8")
 
 
+def has_nodes(tree):
+    """A tree file with at least one numbered node (an empty tree = no parts announced)."""
+    return tree.exists() and bool(re.search(r"^\s*\*\s+\d", tree.read_text(encoding="utf-8"), re.M))
+
+
 def eligible(sizes):
     """Texts whose TOC stage is finished: a tree to ingest, or no parts announced."""
     out = {}
@@ -111,7 +118,9 @@ def eligible(sizes):
         if r.get("size") not in sizes:
             continue
         tree = VAULT / f"0-INBOX/temp/TOC-{i}/toc-tree-anchored-{i}.md"
-        if r["status"] == "done" or (r["status"] == "earlier-run" and tree.exists()):
+        if r["status"] in ("done", "earlier-run") and tree.exists() and not has_nodes(tree):
+            out[i] = "no parts"                       # the tree came out empty
+        elif r["status"] == "done" or (r["status"] == "earlier-run" and tree.exists()):
             out[i] = "tree"
         elif r["status"] == "no-parts" or (r["status"] == "earlier-run" and not
                                             (VAULT / f"0-INBOX/temp/TOC-{i}/toc-tree-{i}.md").exists()):
@@ -166,45 +175,75 @@ def check_groups(js, units, types, stops):
     st = js.get("stanzas") if isinstance(js, dict) else None
     if not isinstance(st, list) or not st:
         return "no 'stanzas' list"
-    flat = []
+    errs = []
     for g in st:
         if not (isinstance(g, list) and len(g) == 2 and all(isinstance(x, int) for x in g) and g[0] <= g[1]):
-            return f"bad block {g!r} — each block is [first, last]"
-        a, z = g
+            return f"bad block {g!r} — each block is [first, last] with first <= last"
+    if st[0][0] != units[0]:
+        errs.append(f"the first block must start at line {units[0]}, not {st[0][0]}")
+    if st[-1][1] != units[-1]:
+        errs.append(f"the last block must end at line {units[-1]}, not {st[-1][1]}")
+    # each block must start right after the one before: name every overlap and gap — the
+    # usual slip is a block started one line after the previous block's START, not its end
+    for (a0, z0), (a, z) in zip(st, st[1:]):
+        if a <= z0:
+            errs.append(f"block [{a}, {z}] overlaps the block before it [{a0}, {z0}] (lines {a}–{min(z, z0)} are "
+                        f"in both); the block after [{a0}, {z0}] must start at line {z0 + 1}")
+        elif a > z0 + 1:
+            errs.append(f"lines {z0 + 1}–{a - 1} are in no block (between [{a0}, {z0}] and [{a}, {z}])")
+    for a, z in st:
         if len({types.get(u) for u in range(a, z + 1)}) > 1:
-            return f"block [{a}, {z}] mixes prose sentences and verse lines"
+            errs.append(f"block [{a}, {z}] mixes prose sentences and verse lines")
         if any(a <= s < z for s in stops):
-            return f"block [{a}, {z}] runs across a heading or a ¶ (a block must end at line {min(s for s in stops if a <= s < z)})"
-        flat += list(range(a, z + 1))
-    if flat != units:
-        miss = sorted(set(units) - set(flat))[:5]
-        extra = sorted(set(flat) - set(units))[:5]
-        return f"blocks must cover lines {units[0]}–{units[-1]} exactly once, in order " \
-               f"(missing {miss}, not in the input {extra})"
-    return None
+            errs.append(f"block [{a}, {z}] runs across a heading or a ¶ (a block must end at line "
+                        f"{min(s for s in stops if a <= s < z)})")
+    if not errs and [u for a, z in st for u in range(a, z + 1)] != units:
+        errs.append(f"blocks must cover lines {units[0]}–{units[-1]} exactly once, in order")
+    return "; ".join(errs[:6]) + (f" (and {len(errs) - 6} more)" if len(errs) > 6 else "") if errs else None
 
 
-def group_one(g, prompt, inp, out, label):
+def group_one(g, prompt, inp, out, label, fallback=None, tries=3):
+    """Group one input file; every answer is checked, a rejected one is saved to
+    rejected/<label>-<level>-a<N>.txt and asked again with the exact errors. If the level's
+    tries all fail and a fallback client is given (thinking medium for a low run), that
+    part — only that part — is grouped again at the fallback level. Returns the level used."""
     units, types, stops = group_input_info(inp)
     if not units:                                   # nothing to group (frame only)
         out.write_text(json.dumps({"stanzas": [], "notes": {}}), encoding="utf-8")
-        return
+        return g.thinking
     user = (f"The input (use the unit numbers as given; read all of it):\n\n{inp.read_text(encoding='utf-8')}\n\n"
             "Answer with ONLY the JSON object.")
+    rej = out.parent / "rejected"
     err = None
-    for attempt in range(3):
-        ask = user if not err else user + f"\n\nYour previous answer was rejected: {err}. Give the whole JSON again, fixed."
-        txt = g.ask(prompt, ask, f"{label}-a{attempt}")
-        m = re.search(r"\{.*\}", txt, re.S)
-        try:
-            js = json.loads(m.group(0)) if m else None
-        except json.JSONDecodeError as e:
-            js, err = None, f"not valid JSON ({e})"
-        if js is not None:
-            err = check_groups(js, units, types, stops)
-            if not err:
-                out.write_text(json.dumps(js, ensure_ascii=False), encoding="utf-8")
-                return
+    for client in [g] + ([fallback] if fallback and fallback.thinking != g.thinking else []):
+        err = None
+        for attempt in range(tries):
+            ask = user if not err else (user + f"\n\nYour previous answer was rejected: {err}. "
+                                        "Correct exactly these points and give the whole JSON again.")
+            txt = client.ask(prompt, ask, f"{label}-{client.thinking}-a{attempt}")
+            m = re.search(r"\{.*\}", txt, re.S)
+            try:
+                js = json.loads(m.group(0)) if m else None
+                if js is None:
+                    err = "no JSON object in the answer"
+            except json.JSONDecodeError as e:
+                # the notes are optional comments; a malformed notes object ("[568, 583]: …"
+                # as a key) must not throw away a good stanzas list
+                s = re.search(r'"stanzas"\s*:\s*(\[\s*(?:\[\s*\d+\s*,\s*\d+\s*\]\s*,?\s*)*\])', txt)
+                try:
+                    js = {"stanzas": json.loads(s.group(1)), "notes": {}} if s else None
+                except json.JSONDecodeError:
+                    js = None
+                if js is None:
+                    err = f"not valid JSON ({e})"
+            if js is not None:
+                err = check_groups(js, units, types, stops)
+                if not err:
+                    out.write_text(json.dumps(js, ensure_ascii=False), encoding="utf-8")
+                    return client.thinking
+            rej.mkdir(exist_ok=True)
+            (rej / f"{label}-{client.thinking}-a{attempt}.txt").write_text(
+                f"<!-- rejected: {err} -->\n{txt}", encoding="utf-8")
     raise RuntimeError(f"grouping {inp.name}: {err}")
 
 
@@ -231,7 +270,12 @@ def process(i, kind, thinking):
             return {"status": "failed", "note": "segment failed (no state.json) — see the log"}
         heads = "—"
         tree = VAULT / f"0-INBOX/temp/TOC-{i}/toc-tree-anchored-{i}.md"
-        if kind == "tree" and tree.exists():
+        repaired, unresolved = 0, []
+        if kind == "tree" and has_nodes(tree):
+            # anchors that differ from the text only by a footnote marker or "༌" are rewritten
+            # with the text's own words first (anchor_repair.py; the original tree is kept)
+            repaired, unresolved = anchors.repair(tree, work / "prepared.md")
+            log.write(f"anchor repair: fixed {repaired}, unresolved {unresolved}\n")
             p = run([LIB, "toc-ingest", work, "--tree", tree], log)
             m = re.search(r"body headings: (\S+) not placed", p.stdout)
             heads = f"{m.group(1) if m else '?'} not placed"
@@ -245,13 +289,16 @@ def process(i, kind, thinking):
                 "\n\n---\n\nFor the verse lines (V) inside the prose:\n\n" + prompt
         run([LIB, "group-split", work], log)
         g = gem.Gemini(thinking, work / "usage.jsonl", MODEL)
+        fb = gem.Gemini("medium", work / "usage.jsonl", MODEL) if thinking == "low" else None
         parts = sorted(work.glob("group-in-part*.md"), key=lambda p: int(re.search(r"part(\d+)", p.name).group(1)))
+        used = []
         if parts:
             for k, part in enumerate(parts, 1):
-                group_one(g, prompt, part, work / f"groups-{mode}-part{k}.json", f"group-p{k}")
+                used.append((k, group_one(g, prompt, part, work / f"groups-{mode}-part{k}.json", f"group-p{k}", fb)))
             run([LIB, "group-join", work], log)
         else:
-            group_one(g, prompt, work / "group-in.md", work / f"groups-{mode}.json", "group")
+            used.append((1, group_one(g, prompt, work / "group-in.md", work / f"groups-{mode}.json", "group", fb)))
+        fell_back = [k for k, lv in used if lv != thinking]
         p = run([LIB, "finish", work], log)
         final = work / f"final-{mode}.md"
         if p.returncode != 0 or not final.exists():
@@ -264,10 +311,15 @@ def process(i, kind, thinking):
             if (work / "usage.jsonl").exists() else []
         cost = sum(r["input"] * PRICE[0] + (r["output"] + r["thought"]) * PRICE[1] for r in recs) / 1e6
         notes = []
+        if fell_back:
+            notes.append(f"grouping fell back to medium for part(s) {', '.join(map(str, fell_back))}")
         if (work / "breaks-review.md").exists():
             notes.append("breaks-review.md: raw breaks ending mid-sentence")
+        if repaired:
+            notes.append(f"{repaired} anchor(s) repaired (footnote marker / ༌)")
         if heads not in ("—", "0 not placed"):
-            notes.append("REVIEW: heading(s) not placed — insert by hand")
+            notes.append("REVIEW: heading(s) not placed — insert by hand"
+                         + (f" (anchor not in the text: {', '.join(unresolved)})" if unresolved else ""))
         return {"status": "done", "form_out": mode, "headings": heads, "blocks": blocks,
                 "run": f"{thinking} · ${cost:.2f} · {round((time.time() - t0) / 60, 1)} min",
                 "note": "; ".join(notes)}
@@ -301,7 +353,12 @@ def main():
     ap.add_argument("--only", nargs="*")
     ap.add_argument("--reset-running", action="store_true")
     ap.add_argument("--retry-failed", action="store_true")
+    ap.add_argument("--redo", nargs="+", metavar="ID",
+                    help="run these texts again from the start, whatever their status (e.g. after a "
+                         "rule change); only these are taken")
     args = ap.parse_args()
+    if args.redo:
+        args.only = args.redo
     sizes, level = MODES[args.mode]
     args.sizes, args.thinking = sizes, args.thinking or level
     with locked():
@@ -309,6 +366,10 @@ def main():
         for i, kind in eligible(sizes).items():   # new finished TOC texts join the list
             d.setdefault(i, {"status": "todo", "toc": kind})
         tsz = toc.load()
+        for i in args.redo or []:
+            if i not in d:
+                sys.exit(f"{i}: not in the workflow list (its TOC is not finished, or it is not this mode's size)")
+            d[i]["status"], d[i]["run"], d[i]["note"] = "todo", "", "redo"
         if args.reset_running:
             for i, r in d.items():
                 if r["status"] == "running" and tsz[i].get("size") in sizes:

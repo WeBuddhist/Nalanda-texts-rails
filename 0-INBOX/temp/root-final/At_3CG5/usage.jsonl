@@ -1,0 +1,2 @@
+{"label": "group-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 19.0, "input": 15730, "output": 2300, "thought": 0}
+{"label": "group-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 18.9, "input": 15810, "output": 2339, "thought": 0}

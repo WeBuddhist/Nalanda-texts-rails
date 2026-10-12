@@ -33,9 +33,10 @@ segment / toc-ingest (one routine, `prepare`; toc-ingest re-derives the units fr
              "། །") stay pāda by pāda.
              Raw paragraph breaks are kept: the printed edition's paragraphs follow the
              sense, so a unit always ends at one and no block may run across one (marked ¶
-             in group-in.md; finish refuses a grouping that crosses it). A paragraph that
-             ends mid-sentence (no shad, or a connective: …ཏེ། …ནས། …དང་།) is not kept but
-             listed in breaks-review.md. Headings may still fall inside a paragraph.
+             in group-in.md; finish refuses a grouping that crosses it) — every one: a
+             paragraph that ends mid-sentence (no shad, or a connective: …ཏེ། …ནས། …དང་།
+             …ཅེས།) is kept too and only listed in breaks-review.md. Headings may still
+             fall inside a paragraph.
           2. frame, by pattern only (added only when present):
              Sanskrit (or Chinese: རྒྱའི་སྐད་དུ།) title + Tibetan title + homage, or the
              title repeated + homage → ## <front-title> ^I-0
@@ -158,9 +159,11 @@ def raw_paragraphs(lines):
     """The body as one run (paragraphs joined by a space, as before) and its raw paragraph
     breaks. The printed edition's paragraphs follow the sense (565 Nalanda files: page
     breaks fall inside paragraphs 95% of the time, paragraphs end at a sentence or verse
-    line 99%), so each break is kept — unless the paragraph ends mid-sentence (no shad, or
-    a connective): those are listed for review instead.
-    Returns run, kept break offsets (start of the next paragraph), doubtful breaks."""
+    line 99%), so every break is kept. A paragraph that ends mid-sentence (no shad, or a
+    connective) is kept as well — in the Nalanda texts these are the editor's own breaks: a
+    quotation after "…ཞལ་ནས།" / "…ཅེས།", part 1 after its announcement, a stanza that runs
+    on into the next (review 2026-10-12) — and only listed, for a person to look at.
+    Returns run, kept break offsets (start of the next paragraph), mid-sentence breaks."""
     paras = [re.sub(r"\s*\n\s*", " ", p).strip() for p in re.split(r"\n[ \t]*\n", "\n".join(lines))]
     paras = [p for p in paras if p]
     run, kept, doubtful = "", set(), []
@@ -169,9 +172,8 @@ def raw_paragraphs(lines):
             prev = re.sub(FN, "", paras[k - 1]).replace("༌", "་").rstrip()
             core_end = re.sub(r"[།༔\s]+$", "", prev).rstrip("་")
             last = re.split(r"[་\s]", core_end)[-1] if core_end else ""
-            if re.search(r"[།༔]$", prev) and last not in CONNECTIVE:
-                kept.add(len(run) + 1)
-            else:
+            kept.add(len(run) + 1)
+            if not (re.search(r"[།༔]$", prev) and last not in CONNECTIVE):
                 doubtful.append((len(run) + 1, paras[k - 1][-40:], p[:30]))
             run += " "
         run += p
@@ -346,6 +348,52 @@ def verse_units(run, spans, metre, cuts=frozenset()):
     return units, ends
 
 
+TREE_LINE = re.compile(r"^(\s*\*\s+\S+.*?)\s*\[\[(.*)\]\]\s*$")
+ANCHOR_DROP = re.compile(r"[\s།༎༑༔]")
+
+
+def unique_anchors(all_lines, keep, text):
+    """Only the top-level nodes are ingested, so a kept node whose anchor words occur more
+    than once (a refrain opening two rite sections) loses the dropped children that put it
+    after the first occurrence. Walk the whole tree in order to find each node's place, and
+    lengthen such an anchor with the text's own following words until it occurs once."""
+    body = "\n".join(l for l in re.split(r"(?m)^\[\^\d+\]:", text)[0].split("\n")
+                     if not l.lstrip().startswith("#"))
+    flat, idx = [], []
+    for i, ch in enumerate(body):
+        if not ANCHOR_DROP.match(ch):
+            flat.append(ch)
+            idx.append(i)
+    flat = "".join(flat)
+    place, pos = {}, 0
+    for l in all_lines:
+        m = TREE_LINE.match(l)
+        a = ANCHOR_DROP.sub("", m.group(2)) if m else ""
+        if not a or a == "?":
+            continue
+        j = flat.find(a, pos)
+        if j >= 0:
+            place[l] = (j, len(a))
+            pos = j + 1
+    out, longer = [], 0
+    for l in keep:
+        m = TREE_LINE.match(l)
+        if m and l in place and flat.count(flat[place[l][0]:sum(place[l])]) > 1:
+            j, end = place[l][0], sum(place[l])
+            # the ingest falls back to the anchor's first half inside one block: that half
+            # must be unique too, so only its search across blocks matches, at this place
+            while end < len(flat) and (flat.count(flat[j:end]) > 1
+                                       or flat.count(flat[j:j + max(12, (end - j) // 2)]) > 1):
+                end += 1
+            while end < len(flat) and flat[end - 1] != "་" and idx[end] == idx[end - 1] + 1:
+                end += 1                                 # finish the syllable
+            words = re.sub(r"\s+", " ", body[idx[j]:idx[end - 1] + 1]).strip()
+            l = f"{m.group(1)} [[{words}]]"
+            longer += 1
+        out.append(l)
+    return out, longer
+
+
 def prepare(src, work, tree, front_title, body_title, form="auto"):
     work.mkdir(parents=True, exist_ok=True)
     text = src.read_text(encoding="utf-8")
@@ -459,10 +507,11 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
     flagged = [d for d in doubtful if pos < d[0] < body_end]
     if flagged:
         (work / "breaks-review.md").write_text(
-            "# Raw paragraph breaks that end mid-sentence — not kept, check by hand\n\n"
+            "# Raw paragraph breaks that end mid-sentence — kept as breaks like all others; listed "
+            "for a look (a real mid-sentence page break would split one sentence in two)\n\n"
             + "\n".join(f"- …{a} ‖ {b}…" for _, a, b in flagged) + "\n", encoding="utf-8")
     report.append(f"raw paragraph breaks kept: {len(breaks)}"
-                  + (f", {len(flagged)} flagged (breaks-review.md)" if flagged else ""))
+                  + (f", {len(flagged)} of them mid-sentence (breaks-review.md)" if flagged else ""))
 
     out = []
     if title_line:
@@ -490,6 +539,10 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
 
     # 3. body headings: top-level tree nodes only
     nf = "no tree"
+    tmd, tjs = work / "tree-top.md", work / "tree-top.json"
+    for f in (tmd, tjs):                    # a tree from an earlier run must not stamp this one
+        if f.exists():
+            f.unlink()
     if tree:
         tl = tree.read_text(encoding="utf-8").splitlines()
         # top-level nodes only — but a tree with a single numbered top node (one rite
@@ -497,7 +550,9 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
         child = len([l for l in tl if re.match(r"^\* \d+\. ", l)]) == 1
         keep = [l for l in tl if l.startswith("## ") or not l.strip() or re.match(r"^\* (?:\d+|II)\.? ", l)
                 or (child and re.match(r"^\s+\* \d+\.\d+ ", l))]
-        tmd, tjs = work / "tree-top.md", work / "tree-top.json"
+        keep, longer = unique_anchors(tl, keep, prepared.read_text(encoding="utf-8"))
+        if longer:
+            report.append(f"{longer} repeated anchor(s) lengthened to their own place")
         tmd.write_text("\n".join(keep) + "\n", encoding="utf-8")
         subprocess.run([PY, "-X", "utf8", str(ING), "parse", "--input", str(tmd), "--out", str(tjs)],
                        check=True, capture_output=True)

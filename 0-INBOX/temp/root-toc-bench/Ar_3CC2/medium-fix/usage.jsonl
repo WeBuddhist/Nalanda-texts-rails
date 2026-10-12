@@ -1,0 +1,14 @@
+{"label": "p1-005", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 15.0, "input": 3290, "output": 123, "thought": 1916}
+{"label": "p1-001", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 24.8, "input": 3530, "output": 305, "thought": 2560}
+{"label": "p1-004", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 49.5, "input": 3535, "output": 397, "thought": 5882}
+{"label": "p1-000", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 53.9, "input": 3564, "output": 132, "thought": 8813}
+{"label": "p1-003", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 66.3, "input": 3429, "output": 480, "thought": 9646}
+{"label": "p1-002", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 78.5, "input": 3441, "output": 485, "thought": 11923}
+{"label": "p2-000", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 4.9, "input": 3039, "output": 5, "thought": 445}
+{"label": "p2-002", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 5.2, "input": 2916, "output": 5, "thought": 558}
+{"label": "p2-001", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 5.6, "input": 3005, "output": 5, "thought": 518}
+{"label": "p2-005", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 6.2, "input": 2765, "output": 5, "thought": 648}
+{"label": "p2-004", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 6.4, "input": 3010, "output": 5, "thought": 543}
+{"label": "p2-003", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 6.9, "input": 2904, "output": 5, "thought": 724}
+{"label": "p3", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 225.2, "input": 4994, "output": 293, "thought": 33840}
+{"label": "p5", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 35.7, "input": 10837, "output": 594, "thought": 5472}

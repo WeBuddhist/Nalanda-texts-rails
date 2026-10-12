@@ -1,0 +1,10 @@
+{"label": "group-p1-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 17.6, "input": 48180, "output": 2513, "thought": 0}
+{"label": "group-p2-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 15.6, "input": 42929, "output": 2386, "thought": 0}
+{"label": "group-p2-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 18.9, "input": 43042, "output": 2482, "thought": 0}
+{"label": "group-p3-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 14.4, "input": 20908, "output": 1989, "thought": 0}
+{"label": "group-p3-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 15.9, "input": 20946, "output": 1923, "thought": 0}
+{"label": "group-p1-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 18.2, "input": 48180, "output": 1844, "thought": 0}
+{"label": "group-p1-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 26.2, "input": 48300, "output": 2142, "thought": 1196}
+{"label": "group-p2-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 24.3, "input": 42977, "output": 2953, "thought": 0}
+{"label": "group-p2-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 21.4, "input": 43028, "output": 2500, "thought": 0}
+{"label": "group-p3-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 13.5, "input": 20908, "output": 1997, "thought": 0}

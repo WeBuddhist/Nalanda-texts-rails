@@ -1,13 +1,12 @@
 # TOC tree vs. source QC report
 
-issues: 4
+issues: 3
 
 ## Issues
 
-- 1 ས་དག་པར་བྱེད་པའི་ཆོ་ག: title attested in the source but not near pointer [[25]] (found near line 51) — possible cursor loss
-- 2 བུམ་པ་སྟ་གོན་གྱི་ཆོ་ག: title attested in the source but not near pointer [[295]] (found near line 353) — possible cursor loss
-- 3 སློབ་མ་སྟ་གོན: pointer is [[?]] — unresolved anchor, not a clean tree
-- 8.1 ཕྱག་བཞི: title attested in the source but not near pointer [[1179]] (found near line 209) — possible cursor loss
+- 1 ས་དག་པར་བྱེད་པའི་ཆོ་ག: title attested in the source but not near pointer [[25]] (found near line 49) — possible cursor loss
+- 3 བུམ་པ་སྟ་གོན་གྱི་ཆོ་ག: title attested in the source but not near pointer [[111]] (found near line 351) — possible cursor loss
+- 5 རིམ་པ་དང་པོའི་བྱ་བ: title attested in the source but not near pointer [[945]] (found near line 959) — possible cursor loss
 
 ## Notes (not counted as issues)
 

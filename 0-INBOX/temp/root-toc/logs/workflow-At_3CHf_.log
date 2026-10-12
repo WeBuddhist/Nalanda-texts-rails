@@ -1,0 +1,24 @@
+
+=== 2026-10-12 16:15:07
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\At_3CHf_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHf_
+pādas 282 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 4, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །རྒྱུ་སྐར་ངན་པ་ཟློག་པར་བྱེད་པའི་ཆོ་ག ། ^0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHf_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CHf_\toc-tree-anchored-At_3CHf_.md
+pādas 283 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 4, 1 unit(s) split by a heading inside them · body headings: 0 not placed · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །རྒྱུ་སྐར་ངན་པ་ཟློག་པར་བྱེད་པའི་ཆོ་ག ། ^0
+   ## རྒྱུ་སྐར་རྣམས་ཐང་ལ་དབབ་པའི་ཆོ་ག། ^1-0
+   ## དེ་ནས་བསྟོད་པ། ^2-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHf_
+298 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHf_
+   ✓ final-free.md: identical to At_3CHf_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHf_\final-free.md: 47 stanzas — 1 lines ×16, 2 lines ×1, 6 lines ×1, 7 lines ×1, 9 lines ×28
+

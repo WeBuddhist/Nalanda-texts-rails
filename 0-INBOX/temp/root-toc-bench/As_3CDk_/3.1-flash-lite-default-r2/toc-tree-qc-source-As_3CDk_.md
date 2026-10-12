@@ -1,0 +1,173 @@
+# TOC tree vs. source QC report
+
+issues: 163
+
+## Issues
+
+- 3.6 ཡིད་ཀྱི་རྣམ་པར་ཤེས་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 7 ཇི་ལྟར་ར་རོ་བར་བྱེད་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 31 རི་དེ་དག་གི་མིང་: title attested in the source but not near pointer [[1017]] (found near line 1025) — possible cursor loss
+- 35 ནམ་མཁའ་ལྡིང་རྣམ་པ་བཞི་: title attested in the source but not near pointer [[1065]] (found near line 1119) — possible cursor loss
+- 36 བང་རིམ་བཞི་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 37 སྒོ་ང་ལས་སྐྱེ་བའི་སྐྱེ་གནས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 38 མངལ་ནས་སྐྱེ་བའི་སྐྱེ་གནས་: title attested in the source but not near pointer [[1065]] (found near line 1243) — possible cursor loss
+- 39 དྲོད་གཤེར་ལས་སྐྱེ་བའི་སྐྱེ་གནས་: title attested in the source but not near pointer [[1065]] (found near line 1249) — possible cursor loss
+- 40 རྫུས་ཏེ་སྐྱེ་བའི་སྐྱེ་གནས་: title attested in the source but not near pointer [[1065]] (found near line 1255) — possible cursor loss
+- 47 སེམས་ཅན་གྱི་རིས་དྲུག་ཅུ་རྩ་བཞི་: title attested in the source but not near pointer [[1305]] (found near line 1229) — possible cursor loss
+- 71 འདུས་པ་: title attested in the source but not near pointer [[1651]] (found near line 637) — possible cursor loss
+- 86 རྣམ་པ་བཅུ་གཉིས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 87 གཟུགས་ན་སྤྱོད་པ་རྣམ་པ་གསུམ་: title attested in the source but not near pointer [[2279]] (found near line 1885) — possible cursor loss
+- 91 རྣམ་པ་ལྔ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 94 རྣམ་པ་བརྒྱད་: title attested in the source but not near pointer [[4131]] (found near line 743) — possible cursor loss
+- 95 རྣམ་པ་དགུ་: title attested in the source but not near pointer [[4131]] (found near line 1793) — possible cursor loss
+- 96 རྣམ་པ་བཅུ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 97 སྒྲ་ནི་རྣམ་པ་གཅིག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 99 རྣམ་པ་གསུམ་: title attested in the source but not near pointer [[4133]] (found near line 257) — possible cursor loss
+- 100 རྣམ་པ་བཞི་: title attested in the source but not near pointer [[4133]] (found near line 301) — possible cursor loss
+- 101 རྣམ་པ་ལྔ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 102 རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 105 གཞན་ཡང་རྣམ་པ་བརྒྱད་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 106 རྣམ་པ་དགུ་: title attested in the source but not near pointer [[4315]] (found near line 1793) — possible cursor loss
+- 107 རྣམ་པ་བཅུ་: title attested in the source but not near pointer [[4315]] (found near line 1227) — possible cursor loss
+- 108 དྲི་ནི་རྣམ་པ་གཅིག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 109 རྣམ་པ་གཉིས་: title attested in the source but not near pointer [[4315]] (found near line 57) — possible cursor loss
+- 110 རྣམ་པ་གསུམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 111 རྣམ་པ་བཞི་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 112 རྣམ་པ་ལྔ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 113 རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 114 རྣམ་པ་བདུན་: title attested in the source but not near pointer [[4315]] (found near line 1229) — possible cursor loss
+- 116 རྣམ་པ་དགུ་: title attested in the source but not near pointer [[4315]] (found near line 1793) — possible cursor loss
+- 117 རྣམ་པ་བཅུ་: title attested in the source but not near pointer [[4315]] (found near line 1227) — possible cursor loss
+- 118 རོ་ནི་རྣམ་པ་གཅིག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 119 རྣམ་པ་གཉིས་: title attested in the source but not near pointer [[4315]] (found near line 57) — possible cursor loss
+- 120 རྣམ་པ་གསུམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 121 རྣམ་པ་བཞི་: title attested in the source but not near pointer [[4315]] (found near line 301) — possible cursor loss
+- 122 རྣམ་པ་ལྔ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 123 རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 124 རྣམ་པ་བདུན་: title attested in the source but not near pointer [[4315]] (found near line 1229) — possible cursor loss
+- 125 རྣམ་པ་བཅུ་: title attested in the source but not near pointer [[4315]] (found near line 1227) — possible cursor loss
+- 126 རེག་བྱ་ནི་རྣམ་པ་གཅིག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 127 རྣམ་པ་གཉིས་: title attested in the source but not near pointer [[4315]] (found near line 57) — possible cursor loss
+- 128 རྣམ་པ་གསུམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 129 རྣམ་པ་བཞི་: title attested in the source but not near pointer [[4315]] (found near line 301) — possible cursor loss
+- 130 རྣམ་པ་ལྔ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 131 རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 132 རྣམ་པ་བདུན་: title attested in the source but not near pointer [[4315]] (found near line 1229) — possible cursor loss
+- 134 རྣམ་པ་བཅུ་: title attested in the source but not near pointer [[4315]] (found near line 1227) — possible cursor loss
+- 135 ཆོས་ཀྱི་ཁམས་རྣམ་པ་གཅིག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 136 རྣམ་པ་གཉིས་: title attested in the source but not near pointer [[4315]] (found near line 57) — possible cursor loss
+- 137 རྣམ་པ་གསུམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 138 རྣམ་པ་བཞི་: title attested in the source but not near pointer [[4315]] (found near line 301) — possible cursor loss
+- 139 རྣམ་པ་ལྔ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 140 རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 141 རྣམ་པ་བདུན་: title attested in the source but not near pointer [[4315]] (found near line 1229) — possible cursor loss
+- 143 རྣམ་པ་གཉིས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 144 རྣམ་པ་གསུམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 145 རྣམ་པ་བཞི་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 146 རྣམ་པ་ལྔ་: title attested in the source but not near pointer [[4315]] (found near line 289) — possible cursor loss
+- 147 རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 148 རྣམ་པ་བདུན་: title attested in the source but not near pointer [[4315]] (found near line 1229) — possible cursor loss
+- 149 རྣམ་པ་བརྒྱད་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 150 རྣམ་པ་དགུ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 151 རྣམ་པ་བཅུ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 152 དངོས་པོ་དགུ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 153 འཁོར་གྱི་དངོས་པོ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 154 ཁམས་གདགས་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 155 གྲངས་རྣམ་པར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 156 གྲང་བའི་སེམས་ཅན་དམྱལ་བའི་གནས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 157 གནས་གཞན་རྣམ་པར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 158 ཚེའི་ཚད་རྣམ་པར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 159 སེམས་ཅན་གྱི་ཚད་རྣམ་པར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 160 ལོངས་སྤྱོད་དང་ཡོངས་སུ་སྤྱོད་པ་རྣམ་པར་གཞག: pointer is [[?]] — unresolved anchor, not a clean tree
+- 161 སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་ཡང་སོས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 162 སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་ཐིག་ནག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 163 སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་བསྡུས་གཞོམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 164 སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་ངུ་འབོད་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 165 སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་ཚ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 166 སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་རབ་ཏུ་ཚ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 167 སེམས་ཅན་དམྱལ་བ་ཆེན་པོ་མནར་མེད་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 168 ཡི་དགས་རྣམས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 169 ཟས་དང་སྐོམ་ལ་སྒྲིབ་པ་ཡོད་པ་རྣམས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 170 རིན་པོ་ཆེ་སྣ་བདུན་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 171 བསམ་གཏན་གྱི་ས་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 172 བྱེ་བྲག་རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 173 བདེ་བ་རྣམ་པ་གཉིས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 174 ཡོ་བྱད་རྣམ་པ་བཞི་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 175 ཡང་བྱེ་བྲག་རྣམ་པ་དྲུག་པོ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 176 ཡང་བདེ་བ་ནི་རྣམ་པ་གཉིས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 177 འཕགས་པའི་ནོར་ལས་བྱུང་བའི་བདེ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 178 བཅོ་ལྔ་པོ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 179 ཁམ་གྱི་ཟས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 180 སྐྱེ་བར་འདོགས་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 181 འདོད་པ་སྐྱེ་བ་རྣམ་པ་གསུམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 182 བདེ་བ་སྐྱེ་བ་རྣམ་པ་གསུམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 183 ལུས་རྣམ་པར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 184 རྒྱུ་དང་རྐྱེན་དང་འབྲས་བུ་རྣམ་པར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 185 རྒྱུ་དང་རྐྱེན་དང་འབྲས་བུའི་རབ་ཏུ་དབྱེ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 186 རྣམ་པར་སྨིན་པའི་འབྲས་བུ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 187 རྒྱུ་ནི་རྣམ་པ་ལྔར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 188 རྒྱུ་ནི་རྣམ་པ་བདུན་དུ་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 189 མཚན་ཉིད་གདགས་པ་རྣམ་པར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 190 གཞན་ཡང་རྒྱུ་ནི་རྣམ་པ་ལྔར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 191 གཞན་ཡང་རྒྱུ་ནི་རྣམ་པ་བདུན་དུ་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 192 མཚན་ཉིད་གདགས་པ་རྣམ་པར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 193 ཚུལ་བཞིན་ཡིད་ལ་བྱེད་པ་གདགས་པ་རྣམ་པར་གཞག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 194 གནས་རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 195 དངོས་པོ་བརྒྱད་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 196 སྦྱིན་པ་དག་གི་མཚན་ཉིད་ནི་རྣམ་པ་བཞི་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 197 ཚུལ་ཁྲིམས་དང་ལྡན་པའི་མཚན་ཉིད་ནི་རྣམ་པ་བཞ: pointer is [[?]] — unresolved anchor, not a clean tree
+- 198 སྒོམ་པ་པོའི་མཚན་ཉིད་ནི་རྣམ་པ་བཞི་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 199 ཟས་སྦྱིན་པ་ནི་རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 200 གནོད་པ་ནི་རྣམ་པ་བརྒྱད་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 201 ཡང་གནོད་པ་ནི་རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 202 ཕན་གདགས་པ་ནི་རྣམ་པ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 203 མི་མཛའ་བའི་མཚན་ཉིད་ནི་བཞི་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 204 བསྒྲུབ་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 205 མཐུན་པར་འཇུག་པར་ཁས་བླང་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 206 གནས་བཞི་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 207 འབྲས་བུ་ལྔ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 208 མཁས་པ་རྣམས་ཀྱི་མཁས་པའི་མཚན་ཉིད་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 209 གཞན་ཡང་གསུམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 210 ཕ་རོལ་སྨྲ་བ་བཅུ་དྲུག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 211 རྒྱུ་ལ་འབྲས་བུ་ཡོད་པར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 212 མངོན་པར་གསལ་བར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 213 འདས་པ་དང་མ་འོངས་པ་རྫས་སུ་ཡོད་པར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 214 འདས་པ་དང་། མ་འོངས་པ་རྫས་སུ་ཡོད་པར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 215 དུས་སུ་གཏོགས་པའི་ཆོས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 216 བདག་ཏུ་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 217 རྟག་པར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 218 རྟག་པར་ལྟ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 219 སྔོན་བྱས་པ་རྒྱུར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 220 སྔོན་བྱས་པའི་རྒྱུ་ལས་བྱུང་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 221 འདྲེས་པའི་རྒྱུ་ལས་བྱུང་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 222 སྐྱེས་བུའི་བྱེད་པའི་རྒྱུ་ལས་བྱུང་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 223 དབང་ཕྱུག་ལ་སོགས་པ་བྱེད་པ་པོར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 224 ལྷ་མི་སྤོང་བ་གཅིག་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 225 གཉིས་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 226 གསུམ་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 227 བཞི་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 228 རྒྱུ་མེད་པར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 229 ཆད་པར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 230 མེད་པར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 231 མཆོག་ཏུ་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 232 དག་པར་སྨྲ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 233 དགེ་མཚན་དང་བཀྲ་ཤིས་སུ་སྨྲ་བ་: title attested in the source but not near pointer [[4751]] (found near line 3157) — possible cursor loss
+- 234 ཀུན་ནས་ཉོན་མོངས་པར་གདགས་པ་རྣམ་པར་གཞག་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 235 ཉོན་མོངས་པའི་ཀུན་ནས་ཉོན་མོངས་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 236 སྡོམ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 237 ཉོན་མོངས་པ་རྣམས་ཀྱི་རབ་ཏུ་དབྱེ་བ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 238 ཉོན་མོངས་པ་རྣམས་ཀྱི་རྒྱུ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 239 ཉོན་མོངས་པ་རྣམས་ཀྱི་གནས་སྐབས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 240 མདོར་བསྡུ་ན་རྣམ་པ་བདུན་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 241 མདོར་བསྡུ་ན་ཀུན་ནས་དཀྲིས་པའི་སྒོ་དང་། བག: pointer is [[?]] — unresolved anchor, not a clean tree
+- 242 རྣམ་པ་ལྔས་: pointer is [[?]] — unresolved anchor, not a clean tree
+- 243 ལྔ་པོའོ།: pointer is [[?]] — unresolved anchor, not a clean tree
+- pointer [[39]] is shared by 5 nodes (2.1, 2.2, 2.3, 2.4, 2.5) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[1065]] is shared by 4 nodes (35, 38, 39, 40) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[4131]] is shared by 4 nodes (93, 94, 95, 98) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[4133]] is shared by 3 nodes (99, 100, 103) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[4315]] is shared by 23 nodes (104, 106, 107, 109, 114, 115, 116, 117, 119, 121, 124, 125, 127, 129, 132, 133, 134, 136, 138, 141, 142, 146, 148) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+
+## Notes (not counted as issues)
+
+- (none)

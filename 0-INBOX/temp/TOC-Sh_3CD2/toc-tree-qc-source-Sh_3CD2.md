@@ -1,10 +1,10 @@
 # TOC tree vs. source QC report
 
-issues: 1
+issues: 0
 
 ## Issues
 
-- 35 ཚ་ཚ་ཐེབས་ནས་བྱ་བའི་རིམ་པ་: pointer is [[?]] — unresolved anchor, not a clean tree
+- (none)
 
 ## Notes (not counted as issues)
 

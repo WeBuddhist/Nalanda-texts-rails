@@ -1,0 +1,59 @@
+
+=== 2026-10-12 16:38:34
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Na_3CAk_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAk_
+pādas 1824 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 29, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བ་བཞུགས་སོ། ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAk_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAk_\toc-tree-anchored-Na_3CAk_.md
+pādas 1824 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 29, first body heading moved up 8 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ་ཅེས་བྱ་བ་བཞུགས་སོ། ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## རབ་ཏུ་བྱེད་པ་དང་པོ་རྐྱེན་བརྟག་པ། ^1-0
+   ## རབ་ཏུ་བྱེད་པ་གཉིས་པ་འགྲོ་བ་དང་འོང་བ་བརྟག་པ། ^2-0
+   ## རབ་ཏུ་བྱེད་པ་གསུམ་པ་དབང་པོ་བརྟག་པ། ^3-0
+   ## རབ་ཏུ་བྱེད་པ་བཞི་པ་ཕུང་པོ་བརྟག་པ། ^4-0
+   ## རབ་ཏུ་བྱེད་པ་ལྔ་པ་ཁམས་བརྟག་པ། ^5-0
+   ## རབ་ཏུ་བྱེད་པ་དྲུག་པ་འདོད་ཆགས་དང་ཆགས་པ་བརྟག་པ། ^6-0
+   ## རབ་ཏུ་བྱེད་པ་བདུན་པ་སྐྱེ་བ་དང་གནས་པ་དང་འཇིག་པ་བརྟག་པ། ^7-0
+   ## རབ་ཏུ་བྱེད་པ་བརྒྱད་པ་བྱེད་པ་པོ་དང་ལས་བརྟག་པ། ^8-0
+   ## རབ་ཏུ་བྱེད་པ་དགུ་པ་སྔ་རོལ་ན་གནས་པ་བརྟག་པ། ^9-0
+   ## རབ་ཏུ་བྱེད་པ་བཅུ་པ་མེ་དང་བུད་ཤིང་བརྟག་པ། ^10-0
+   ## རབ་ཏུ་བྱེད་པ་བཅུ་གཅིག་པ་སྔོན་དང་ཕྱི་མའི་མཐའ་བརྟག་པ། ^11-0
+   ## རབ་ཏུ་བྱེད་པ་བཅུ་གཉིས་པ་བདག་གིས་བྱས་པ་དང་གཞན་གྱིས་བྱས་པ་བརྟག་པ། ^12-0
+   ## རབ་ཏུ་བྱེད་པ་བཅུ་གསུམ་པ་འདུ་བྱེད་བརྟག་པ། ^13-0
+   ## རབ་ཏུ་བྱེད་པ་བཅུ་བཞི་པ་ཕྲད་པ་བརྟག་པ། ^14-0
+   ## རབ་ཏུ་བྱེད་པ་བཅོ་ལྔ་པ་རང་བཞིན་བརྟག་པ། ^15-0
+   ## རབ་ཏུ་བྱེད་པ་བཅུ་དྲུག་པ་བཅིངས་པ་དང་ཐར་པ་བརྟག་པ། ^16-0
+   ## རབ་ཏུ་བྱེད་པ་བཅུ་བདུན་པ་ལས་བརྟག་པ། ^17-0
+   ## རབ་ཏུ་བྱེད་པ་བཅོ་བརྒྱད་པ་བདག་དང་ཆོས་བརྟག་པ། ^18-0
+   ## རབ་ཏུ་བྱེད་པ་བཅུ་དགུ་པ་དུས་བརྟག་པ། ^19-0
+   ## རབ་ཏུ་བྱེད་པ་ཉི་ཤུ་པ་ཚོགས་པ་བརྟག་པ། ^20-0
+   ## རབ་ཏུ་བྱེད་པ་ཉི་ཤུ་གཅིག་པ་འབྱུང་བ་དང་འཇིག་པ་བརྟག་པ། ^21-0
+   ## རབ་ཏུ་བྱེད་པ་ཉི་ཤུ་གཉིས་པ་དེ་བཞིན་གཤེགས་པ་བརྟག་པ། ^22-0
+   ## རབ་ཏུ་བྱེད་པ་ཉི་ཤུ་གསུམ་པ་ཕྱིན་ཅི་ལོག་བརྟག་པ། ^23-0
+   ## རབ་ཏུ་བྱེད་པ་ཉི་ཤུ་བཞི་པ་འཕགས་པའི་བདེན་པ་བརྟག་པ། ^24-0
+   ## རབ་ཏུ་བྱེད་པ་ཉི་ཤུ་ལྔ་པ་མྱ་ངན་ལས་འདས་པ་བརྟག་པ། ^25-0
+   ## རབ་ཏུ་བྱེད་པ་ཉི་ཤུ་དྲུག་པ་སྲིད་པའི་ཡན་ལག་བཅུ་གཉིས་བརྟག་པ། ^26-0
+   ## རབ་ཏུ་བྱེད་པ་ཉི་ཤུ་བདུན་པ་ལྟ་བ་བརྟག་པ། ^27-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAk_
+group-in-part1.md: units 1–615 → groups-free-part1.json
+group-in-part2.md: units 616–1229 → groups-free-part2.json
+group-in-part3.md: units 1230–1818 → groups-free-part3.json
+group-in-part4.md: units 1819–1824 → groups-free-part4.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAk_
+groups-free.json: 476 blocks from 4 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAk_
+   ✓ final-free.md: identical to Na_3CAk_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAk_\final-free.md: 476 stanzas — 1 lines ×26, 2 lines ×8, 3 lines ×2, 4 lines ×434, 6 lines ×4, 8 lines ×2
+

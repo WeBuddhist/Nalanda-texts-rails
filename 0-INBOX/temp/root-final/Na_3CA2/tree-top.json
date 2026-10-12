@@ -1,0 +1,97 @@
+{
+  "source": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\temp\\root-final\\Na_3CA2\\tree-top.md",
+  "total_nodes": 9,
+  "max_depth": 2,
+  "nodes": [
+    {
+      "decimal_id": "1",
+      "depth": 1,
+      "frame": false,
+      "label": "སྦོམ་པོའི་ལྟུང་བ་རྣམ་པ་བརྒྱད",
+      "block_id": "^1-0",
+      "context": "སྦོམ་པོའི་ལྟུང་བ་རྣམ་པ་བརྒྱད། །རྒྱུད་དུ་གསུངས་བ་བྲི་བར་བྱ། །",
+      "context_anchor": "སྦོམ་པོའི་ལྟུང་བ་རྣམ་པ་བརྒྱད། །རྒྱུད་དུ་གསུངས་བ་བྲི་བར་བྱ། །",
+      "doc_order": 0
+    },
+    {
+      "decimal_id": "1.1",
+      "depth": 2,
+      "frame": false,
+      "label": "ཤེས་རབ་སྟོབས་ཀྱིས་ལེན་པ",
+      "block_id": "^1-1-0",
+      "context": "ཤེས་རབ་སྟོབས་ཀྱིས་ལེན་པ་དང་། །",
+      "context_anchor": "ཤེས་རབ་སྟོབས་ཀྱིས་ལེན་པ་དང་། །",
+      "doc_order": 1
+    },
+    {
+      "decimal_id": "1.2",
+      "depth": 2,
+      "frame": false,
+      "label": "དེ་ཡི་བདུད་རྩི་སྟོབས་ཀྱིས་ལེན",
+      "block_id": "^1-2-0",
+      "context": "དེ་ཡི་བདུད་རྩི་སྟོབས་ཀྱིས་ལེན། །",
+      "context_anchor": "དེ་ཡི་བདུད་རྩི་སྟོབས་ཀྱིས་ལེན། །",
+      "doc_order": 2
+    },
+    {
+      "decimal_id": "1.3",
+      "depth": 2,
+      "frame": false,
+      "label": "སྣོད་མིན་ལ་ནི་མི་གསང་བ",
+      "block_id": "^1-3-0",
+      "context": "སྣོད་མིན་ལ་ནི་མི་གསང་དང་། །",
+      "context_anchor": "སྣོད་མིན་ལ་ནི་མི་གསང་དང་། །",
+      "doc_order": 3
+    },
+    {
+      "decimal_id": "1.4",
+      "depth": 2,
+      "frame": false,
+      "label": "ཚོགས་ཀྱི་ནང་དུ་རྩོད་པ",
+      "block_id": "^1-4-0",
+      "context": "ཚོགས་ཀྱི་ནང་དུ་རྩོད་པ༌དང་། །",
+      "context_anchor": "ཚོགས་ཀྱི་ནང་དུ་རྩོད་པ༌དང་། །",
+      "doc_order": 4
+    },
+    {
+      "decimal_id": "1.5",
+      "depth": 2,
+      "frame": false,
+      "label": "དད་ལྡན་ལ་གཞན་ཆོས་སྟོན་པ",
+      "block_id": "^1-5-0",
+      "context": "དད་ལྡན་ལ་གཞན་ཆོས་སྟོན་དང་། །",
+      "context_anchor": "དད་ལྡན་ལ་གཞན་ཆོས་སྟོན་དང་། །",
+      "doc_order": 5
+    },
+    {
+      "decimal_id": "1.6",
+      "depth": 2,
+      "frame": false,
+      "label": "ཉན་ཐོས་ནང་དུ་ཞག་བདུན་གནས",
+      "block_id": "^1-6-0",
+      "context": "ཉན་ཐོས་ནང་དུ་ཞག་བདུན་གནས། །",
+      "context_anchor": "ཉན་ཐོས་ནང་དུ་ཞག་བདུན་གནས། །",
+      "doc_order": 6
+    },
+    {
+      "decimal_id": "1.7",
+      "depth": 2,
+      "frame": false,
+      "label": "རྫུན་གྱིས་རྣལ་འབྱོར་ང་རྒྱལ་བྱེད",
+      "block_id": "^1-7-0",
+      "context": "རྫུན་གྱིས་རྣལ་འབྱོར་ང་རྒྱལ་བྱེད། །",
+      "context_anchor": "རྫུན་གྱིས་རྣལ་འབྱོར་ང་རྒྱལ་བྱེད། །",
+      "doc_order": 7
+    },
+    {
+      "decimal_id": "1.8",
+      "depth": 2,
+      "frame": false,
+      "label": "དད་པ་མེད་ལ་ཆོས་སྟོན་པ",
+      "block_id": "^1-8-0",
+      "context": "དད་པ་མེད་ལ་ཆོས་སྟོན་པ། །",
+      "context_anchor": "དད་པ་མེད་ལ་ཆོས་སྟོན་པ། །",
+      "doc_order": 8
+    }
+  ]
+}

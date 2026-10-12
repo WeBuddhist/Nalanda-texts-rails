@@ -1,0 +1,47 @@
+{
+  "source": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\temp\\root-final\\Va_3CEY\\tree-top.md",
+  "total_nodes": 4,
+  "max_depth": 2,
+  "nodes": [
+    {
+      "decimal_id": "1",
+      "depth": 1,
+      "frame": false,
+      "label": "གནས་གསུམ་",
+      "block_id": "^1-0",
+      "context": "བདེན་པར་སྨྲ་བྱ༌[^13]ཁྲོ་མི་བྱ། །སློང་ལ་ཆུང་ཡང་སྦྱིན་པར་བྱ། །འདིར་ནི་གནས་གསུམ་འདི་དག་གིས། །",
+      "context_anchor": "བདེན་པར་སྨྲ་བྱ༌[^13]ཁྲོ་མི་བྱ། །སློང་ལ་ཆུང་ཡང་སྦྱིན་པར་བྱ། །",
+      "doc_order": 0
+    },
+    {
+      "decimal_id": "1.1",
+      "depth": 2,
+      "frame": false,
+      "label": "བདེན་པར་སྨྲ་བྱ་",
+      "block_id": "^1-1-0",
+      "context": "བདེན་པར་སྨྲ་བྱ༌[^13]ཁྲོ་མི་བྱ། །",
+      "context_anchor": "བདེན་པར་སྨྲ་བྱ༌[^13]ཁྲོ་མི་བྱ། །",
+      "doc_order": 1
+    },
+    {
+      "decimal_id": "1.2",
+      "depth": 2,
+      "frame": false,
+      "label": "ཁྲོ་མི་བྱ་",
+      "block_id": "^1-2-0",
+      "context": "ཁྲོ་མི་བྱ། །",
+      "context_anchor": "ཁྲོ་མི་བྱ། །",
+      "doc_order": 2
+    },
+    {
+      "decimal_id": "1.3",
+      "depth": 2,
+      "frame": false,
+      "label": "སློང་ལ་ཆུང་ཡང་སྦྱིན་པར་བྱ་",
+      "block_id": "^1-3-0",
+      "context": "སློང་ལ་ཆུང་ཡང་སྦྱིན་པར་བྱ། །",
+      "context_anchor": "སློང་ལ་ཆུང་ཡང་སྦྱིན་པར་བྱ། །",
+      "doc_order": 3
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+ "id": "As_3CDk_",
+ "thinking": "medium",
+ "chunks": 42,
+ "units": 5192,
+ "qc4": "0",
+ "pass5_windows": 6,
+ "qc6": 12,
+ "nodes": 64,
+ "parts": 3,
+ "unanchored": 6,
+ "status": "done",
+ "calls": 92,
+ "input_tokens": 1109304,
+ "output_tokens": 35503,
+ "thinking_tokens": 503767,
+ "cost_usd": 2.854,
+ "wall_seconds": 309
+}

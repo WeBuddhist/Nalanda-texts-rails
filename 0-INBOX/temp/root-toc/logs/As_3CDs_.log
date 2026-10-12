@@ -1,0 +1,9 @@
+
+=== 2026-10-12 12:33:20 gemini-3.8-flash low
+prose: 1045 sentences, 30 verse lines in 7 passage(s) · raw paragraph breaks kept: 26, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄། །རྣམ་གྲངས་བསྡུ་བ་བཞུགས། ^0
+   ## གཞུང་དངོས། ^1-0
+Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+{"id": "As_3CDs_", "model": "gemini-3.8-flash", "thinking": "low", "chunks": 21, "units": 2589, "qc4": "0", "pass5_windows": 2, "qc6": 1, "nodes": 2, "parts": 2, "unanchored": 0, "status": "done", "calls": 45, "input_tokens": 321746, "output_tokens": 7318, "thinking_tokens": 6803, "cost_usd": 0.294, "wall_seconds": 102}
