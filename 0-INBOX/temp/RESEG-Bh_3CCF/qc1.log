@@ -1,0 +1,12 @@
+Input:  0-INBOX\resegmented\Bh_3CCF.reseg.md
+ID:     Bh_3CCF
+
+Blocks: 321
+
+Step 1 — Deterministic checks...
+  2 flag(s) found.
+  Block 67 — CONNECTOR_ENDING
+  Block 252 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+[claude-shim] prompt written: 0-INBOX\temp\RESEG-Bh_3CCF\qc-calls\call-000.prompt.md — answer it in call-000.response.txt, then re-run.

@@ -195,6 +195,24 @@ S3  An introductory opener "… ནི།" fused to the explanation of the PREVI
 
 Never split a block only because it is long.
 
+━━━ TOPIC SHIFT vs CONTINUATION (from the editors' corrections) ━━━
+
+The editors' blocks are large (median ≈ 55 syllables; whole explanations of
+100–250 syllables are normal). A sentence end is NOT a boundary. Inside one
+explanation they cut only where the commentary turns to something new:
+  START a new block at   "ཡང་ན་ …" (an alternative explanation)
+                         "ཁ་ཅིག་ …", "གཞན་དག་ …" (another party's view)
+                         "འོ་ན་ …" (the reply to an objection)
+                         "དེ་སྐད་དུ་ …", "ཇི་སྐད་དུ་ …" (introducing a supporting quotation)
+                         "དེ་ནས་ …" when it opens the next step of a procedure
+                         "དཔེ་ …" / "དཔེར་ན་ …" when an example section begins
+KEEP WITH the block before (merge into it):
+                         "ད་ནི་ …" — a transitional "now …" line is not a new unit
+                         (no heading or verse between them)
+                         "ལེའུ་ … པའོ། །" — a chapter-closing line stays with the
+                         explanation it closes
+                         "ཞེས་ / ཅེས་ …" — the quotative closing the words just before it
+
 ━━━ HEADING / VERSE BLOCKS — always KEEP ━━━
 
 Blocks tagged [HEADING] or [VERSE] are NEVER part of any operation.

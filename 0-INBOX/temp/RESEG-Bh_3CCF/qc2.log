@@ -1,0 +1,17 @@
+Input:  0-INBOX\resegmented\Bh_3CCF.reseg.md
+ID:     Bh_3CCF
+
+Blocks: 321
+
+Step 1 — Deterministic checks...
+  2 flag(s) found.
+  Block 67 — CONNECTOR_ENDING
+  Block 252 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: 0-INBOX\resegmented\Bh_3CCF.qc.md
+
+────────────────────────────────────────
+Flags before : 2

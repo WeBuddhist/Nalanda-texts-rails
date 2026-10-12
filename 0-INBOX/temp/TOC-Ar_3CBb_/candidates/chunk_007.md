@@ -1,4 +1,3 @@
-<!-- chunk 007 | lines 876–1025 | source: Ar_3CBb_ -->
+<!-- chunk 007 | lines 876–1025 | source: Ar_3CBb_ -->
 
 <!-- no candidates -->
-<!-- skipped: chunk lies entirely in the variant-reading footnotes (lines 475–1349), not commentary prose -->

@@ -1,0 +1,95 @@
+Input:      0-INBOX\temp\segmented-commentary-with-toc\Bh_3CCF.toc.md
+ID:         Bh_3CCF
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-Bh_3CCF\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Bh_3CCF.reseg.md
+
+Blocks: 400  (headings: 21, content: 379)
+Windows: 12  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 68
+  MERGE [7, 8]
+  MERGE [19, 20]
+  MERGE [23, 24]
+  MERGE [25, 26, 27, 28, 29, 30]
+  SPLIT block 38 after: 'ལྡན་པ་ནི་རླུང་ངོ་། །'
+  MERGE [41, 42, 43]
+  MERGE [44, 45, 46, 47, 48]
+  MERGE [49, 50, 51, 52, 53, 54, 55, 56]
+  MERGE [58, 59, 60, 61]
+  MERGE [62, 63, 64, 65, 66]
+  MERGE [67, 68]
+  MERGE [69, 70]
+  MERGE [71, 72]
+  MERGE [73, 74]
+  SPLIT block 84 after: 'བརླབ་པ་ལ་སོགས་པ་བསྟན་ཏེ། །'
+  MERGE [87, 88]
+  MERGE [93, 94]
+  MERGE [97, 98]
+  MERGE [103, 104]
+  MERGE [114, 115]
+  MERGE [121, 122]
+  MERGE [125, 126]
+  MERGE [128, 129]
+  MERGE [133, 134]
+  SPLIT block 137 after: 'སྐུར་བསྐྱེད་པའོ།[^53] །'
+  MERGE [142, 143]
+  MERGE [147, 148]
+  SPLIT block 154 after: 'ལྕེའུ་ཆུང་དང་ངོ་། །'
+  MERGE [156, 157]
+  MERGE [160, 161]
+  MERGE [177, 178, 179]
+  MERGE [180, 181]
+  MERGE [185, 186]
+  MERGE [188, 189]
+  MERGE [194, 195]
+  MERGE [196, 197]
+  MERGE [203, 204]
+  MERGE [215, 216, 217]
+  MERGE [222, 223]
+  MERGE [225, 226]
+  MERGE [231, 232]
+  MERGE [234, 235]
+  SPLIT block 244 after: 'སོགས་པ་བྱའོ།[^96] །'
+  MERGE [249, 250]
+  MERGE [253, 254]
+  MERGE [262, 263, 264, 265]
+  MERGE [268, 269]
+  SPLIT block 279 after: 'སློབ་དཔོན་ལས་ཀྱང་ངོ་། །'
+  MERGE [283, 284, 285]
+  MERGE [286, 287]
+  MERGE [288, 289]
+  MERGE [291, 292, 293]
+  SPLIT block 294 after: 'བྱ་བའོ།[^112] །'
+  MERGE [295, 296]
+  SPLIT block 304 after: 'ཕུར་བུས་གདབ་པོ། །'
+  MERGE [311, 312]
+  SPLIT block 317 after: '[^126]སྟེ།'
+  MERGE [330, 331]
+  MERGE [332, 333]
+  MERGE [334, 335]
+  MERGE [337, 338, 339, 340, 341]
+  MERGE [344, 345, 346, 347]
+  MERGE [356, 357, 358]
+  MERGE [360, 361]
+  MERGE [366, 367]
+  SPLIT block 382 after: 'སྣང་བ་ལ་སོགས་པའོ། །'
+  MERGE [385, 386]
+  MERGE [388, 389]
+
+Overlap disagreements (5) — boundary kept:
+  - Blocks 37 | 38: windows [0, 1], joined by [1]
+  - Blocks 38 | 39: windows [0, 1], joined by [1]
+  - Blocks 39 | 40: windows [0, 1], joined by [1]
+  - Blocks 317 | 318: windows [8, 9], joined by [9]
+  - Blocks 387 | 388: windows [10, 11], joined by [11]
+
+Blocks: 400 → 321
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Bh_3CCF.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Bh_3CCF.ops.md
+
+5 overlap disagreement(s) resolved by keeping the boundary — see ops log.
