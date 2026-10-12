@@ -1,0 +1,22 @@
+[wrapper] GEMINI_THINKING=medium
+Input:      0-INBOX\temp\segmented-commentary-with-toc\As_3CDh_.toc.md
+ID:         As_3CDh_
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-As_3CDh_\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDh_.reseg.md
+
+Blocks: 19  (headings: 4, content: 15)
+Windows: 1  (size=40, overlap=5)
+
+  Window 1/1 (blocks 1–19): calling LLM...
+    → 2 operation(s) flagged
+
+Operations to apply: 2
+  MERGE [4, 5]
+  MERGE [13, 14]
+
+Blocks: 19 → 17
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDh_.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDh_.ops.md

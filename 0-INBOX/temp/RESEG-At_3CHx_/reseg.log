@@ -1,0 +1,49 @@
+Input:      0-INBOX\temp\segmented-commentary-with-toc\At_3CHx_.toc.md
+ID:         At_3CHx_
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-At_3CHx_\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\At_3CHx_.reseg.md
+
+Blocks: 161  (headings: 9, content: 152)
+Windows: 5  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 26
+  MERGE [8, 9]
+  MERGE [19, 20]
+  MERGE [24, 25]
+  MERGE [29, 30]
+  MERGE [31, 32]
+  MERGE [42, 43, 44, 45, 46]
+  MERGE [47, 48, 49]
+  MERGE [63, 64, 65]
+  MERGE [66, 67]
+  MERGE [68, 69]
+  MERGE [75, 76, 77, 78, 79, 80]
+  MERGE [81, 82, 83, 84]
+  MERGE [85, 86, 87, 88]
+  MERGE [89, 90, 91, 92, 93]
+  MERGE [94, 95, 96, 97, 98]
+  MERGE [99, 100, 101, 102, 103]
+  MERGE [104, 105, 106]
+  MERGE [107, 108, 109, 110, 111]
+  MERGE [112, 113, 114, 115]
+  MERGE [116, 117, 118, 119]
+  MERGE [120, 121, 122, 123]
+  MERGE [124, 125, 126, 127]
+  MERGE [128, 129]
+  MERGE [138, 139, 140]
+  MERGE [144, 145, 146]
+  MERGE [147, 148, 149, 150]
+
+Overlap disagreements (1) — boundary kept:
+  - Blocks 71 | 72: windows [1, 2], joined by [2]
+
+Blocks: 161 → 97
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\At_3CHx_.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\At_3CHx_.ops.md
+
+1 overlap disagreement(s) resolved by keeping the boundary — see ops log.

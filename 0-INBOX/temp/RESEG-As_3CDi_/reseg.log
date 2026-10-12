@@ -1,0 +1,41 @@
+[wrapper] GEMINI_THINKING=medium
+Input:      0-INBOX\temp\segmented-commentary-with-toc\As_3CDi_.toc.md
+ID:         As_3CDi_
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-As_3CDi_\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDi_.reseg.md
+
+Blocks: 70  (headings: 5, content: 65)
+Windows: 2  (size=40, overlap=5)
+
+  Window 1/2 (blocks 1–40): calling LLM...
+    → 9 operation(s) flagged
+  Window 2/2 (blocks 36–70): calling LLM...
+    → 6 operation(s) flagged
+
+Operations to apply: 14
+  MERGE [4, 5, 6]
+  MERGE [7, 8, 9, 10]
+  MERGE [12, 13]
+  MERGE [14, 15, 16, 17]
+  MERGE [18, 19, 20]
+  MERGE [21, 22, 23, 24, 25, 26]
+  MERGE [27, 28]
+  MERGE [29, 30, 31, 32, 33, 34, 35]
+  MERGE [36, 37, 38, 39]
+  MERGE [40, 41, 42]
+  SPLIT block 44 after: 'ཡང་དག་པར་ལྡན་པ་ཞེས་བྱ་བའི་དོན་ཏོ། །'
+  MERGE [49, 50]
+  MERGE [52, 53]
+  MERGE [58, 59]
+
+Overlap disagreements (1) — boundary kept:
+  - Blocks 39 | 40: windows [0, 1], joined by [0]
+
+Blocks: 70 → 40
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDi_.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDi_.ops.md
+
+1 overlap disagreement(s) resolved by keeping the boundary — see ops log.

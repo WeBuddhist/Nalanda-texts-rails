@@ -1,0 +1,150 @@
+Input:  0-INBOX\resegmented\At_3CGz_.reseg.md
+ID:     At_3CGz_
+
+Blocks: 845
+
+Step 1 — Deterministic checks...
+  100 flag(s) found.
+  Block 14 — CONNECTOR_ENDING
+  Block 32 — CONNECTOR_ENDING
+  Block 37 — CONNECTOR_ENDING
+  Block 58 — CONNECTOR_ENDING
+  Block 81 — CONNECTOR_ENDING
+  Block 83 — CONNECTOR_ENDING
+  Block 93 — CONNECTOR_ENDING
+  Block 96 — CONNECTOR_ENDING
+  Block 100 — CONNECTOR_ENDING
+  Block 106 — CONNECTOR_ENDING
+  Block 113 — CONNECTOR_ENDING
+  Block 126 — OVER_LENGTH (363 syl)
+  Block 156 — CONNECTOR_ENDING
+  Block 192 — CONNECTOR_ENDING
+  Block 193 — CONNECTOR_ENDING
+  Block 195 — SHORT_FRAGMENT (3 syl)
+  Block 199 — OVER_LENGTH (295 syl)
+  Block 206 — CONNECTOR_ENDING
+  Block 211 — CONNECTOR_ENDING
+  Block 212 — OVER_LENGTH (343 syl)
+  Block 220 — CONNECTOR_ENDING
+  Block 221 — OVER_LENGTH (319 syl)
+  Block 224 — CONNECTOR_ENDING
+  Block 243 — SHORT_FRAGMENT (3 syl)
+  Block 246 — CONNECTOR_ENDING
+  Block 253 — SHORT_FRAGMENT (3 syl)
+  Block 256 — CONNECTOR_ENDING
+  Block 264 — CONNECTOR_ENDING
+  Block 266 — CONNECTOR_ENDING
+  Block 270 — SHORT_FRAGMENT (3 syl)
+  Block 274 — CONNECTOR_ENDING
+  Block 288 — CONNECTOR_ENDING
+  Block 295 — CONNECTOR_ENDING
+  Block 336 — CONNECTOR_ENDING
+  Block 338 — SHORT_FRAGMENT (3 syl)
+  Block 339 — CONNECTOR_ENDING
+  Block 345 — CONNECTOR_ENDING
+  Block 351 — SHORT_FRAGMENT (3 syl)
+  Block 361 — SHORT_FRAGMENT (3 syl)
+  Block 367 — SHORT_FRAGMENT (3 syl)
+  Block 372 — CONNECTOR_ENDING
+  Block 395 — CONNECTOR_ENDING
+  Block 413 — OVER_LENGTH (339 syl)
+  Block 416 — CONNECTOR_ENDING
+  Block 420 — CONNECTOR_ENDING
+  Block 427 — CONNECTOR_ENDING
+  Block 432 — CONNECTOR_ENDING
+  Block 434 — SHORT_FRAGMENT (3 syl)
+  Block 436 — OVER_LENGTH (309 syl)
+  Block 454 — CONNECTOR_ENDING
+  Block 459 — SHORT_FRAGMENT (3 syl)
+  Block 468 — CONNECTOR_ENDING
+  Block 496 — CONNECTOR_ENDING
+  Block 499 — CONNECTOR_ENDING
+  Block 501 — SHORT_FRAGMENT (3 syl)
+  Block 507 — SHORT_FRAGMENT (3 syl)
+  Block 509 — CONNECTOR_ENDING
+  Block 519 — SHORT_FRAGMENT (3 syl)
+  Block 537 — CONNECTOR_ENDING
+  Block 547 — SHORT_FRAGMENT (3 syl)
+  Block 551 — CONNECTOR_ENDING
+  Block 561 — CONNECTOR_ENDING
+  Block 566 — SHORT_FRAGMENT (3 syl)
+  Block 584 — CONNECTOR_ENDING
+  Block 601 — CONNECTOR_ENDING
+  Block 613 — CONNECTOR_ENDING
+  Block 615 — CONNECTOR_ENDING
+  Block 617 — SHORT_FRAGMENT (3 syl)
+  Block 621 — CONNECTOR_ENDING
+  Block 626 — SHORT_FRAGMENT (3 syl)
+  Block 628 — CONNECTOR_ENDING
+  Block 633 — CONNECTOR_ENDING
+  Block 667 — CONNECTOR_ENDING
+  Block 675 — SHORT_FRAGMENT (3 syl)
+  Block 678 — SHORT_FRAGMENT (3 syl)
+  Block 681 — SHORT_FRAGMENT (3 syl)
+  Block 684 — OVER_LENGTH (348 syl)
+  Block 689 — CONNECTOR_ENDING
+  Block 691 — SHORT_FRAGMENT (3 syl)
+  Block 693 — SHORT_FRAGMENT (2 syl)
+  Block 695 — SHORT_FRAGMENT (3 syl)
+  Block 696 — CONNECTOR_ENDING
+  Block 698 — SHORT_FRAGMENT (3 syl)
+  Block 711 — CONNECTOR_ENDING
+  Block 722 — CONNECTOR_ENDING
+  Block 741 — CONNECTOR_ENDING
+  Block 743 — CONNECTOR_ENDING
+  Block 746 — CONNECTOR_ENDING
+  Block 749 — OVER_LENGTH (254 syl)
+  Block 754 — OBJECTION_REPLY_FUSED
+  Block 762 — CONNECTOR_ENDING
+  Block 767 — CONNECTOR_ENDING
+  Block 782 — CONNECTOR_ENDING
+  Block 798 — CONNECTOR_ENDING
+  Block 812 — SHORT_FRAGMENT (3 syl)
+  Block 818 — CONNECTOR_ENDING
+  Block 820 — SHORT_FRAGMENT (3 syl)
+  Block 821 — CONNECTOR_ENDING
+  Block 827 — SHORT_FRAGMENT (3 syl)
+  Block 845 — OVER_LENGTH (2868 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 28 correction(s):
+    MERGE [192, 193]
+    MERGE [195, 196]
+    MERGE [206, 207]
+    MERGE [211, 212]
+    MERGE [220, 221]
+    MERGE [243, 244]
+    MERGE [253, 254]
+    MERGE [270, 271]
+    MERGE [295, 296]
+    MERGE [338, 339]
+    MERGE [351, 352]
+    MERGE [360, 361]
+    MERGE [434, 435]
+    MERGE [468, 469]
+    MERGE [501, 502]
+    MERGE [507, 508]
+    MERGE [519, 520]
+    MERGE [613, 614]
+    MERGE [617, 618]
+    MERGE [626, 627]
+    MERGE [675, 676]
+    MERGE [678, 679]
+    MERGE [681, 682]
+    MERGE [691, 692, 693]
+    MERGE [695, 696]
+    MERGE [698, 699]
+    MERGE [743, 744]
+    MERGE [820, 821, 822]
+  ✓ Integrity check passed. Blocks: 845 → 815
+
+Step 3 — Re-checking after repair...
+  71 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\At_3CGz_.reseg.md
+
+QC report: 0-INBOX\resegmented\At_3CGz_.qc.md
+
+────────────────────────────────────────
+Flags before : 100
+Flags after  : 71
+Corrections  : 28

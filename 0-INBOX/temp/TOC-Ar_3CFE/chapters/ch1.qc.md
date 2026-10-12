@@ -1,0 +1,6 @@
+- L47: Tibetan ordinal = 7 but decimal last segment = 3  ->  1.1.2.3.1.3 བདུན་པ་མཐོང་བའི་ཆོས་ལ་མྱ་ངན་ལས་འདའ་བ
+- L84: indent 15 spaces != expected 12 for depth 5 (1.1.3.2.1)
+- L84: duplicate decimal 1.1.3.2.1 (also at L80)
+- L85: indent 15 spaces != expected 12 for depth 5 (1.1.3.2.2)
+- L85: duplicate decimal 1.1.3.2.2 (also at L83)
+- children of 1.1.3.2: numbered [1, 1, 2, 2], expected [1, 2, 3, 4]

@@ -1,0 +1,1 @@
+- L6: Tibetan ordinal = 2 but decimal last segment = 4  ->  4 གཉིས་པ་འཕགས་པའི་གང་ཟག་གི་འཛིན་པའི་རྣམ་པར

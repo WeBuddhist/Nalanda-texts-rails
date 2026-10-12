@@ -1,0 +1,18 @@
+[wrapper] GEMINI_THINKING=medium
+Input:  0-INBOX\resegmented\As_3CDi_.reseg.md
+ID:     As_3CDi_
+
+Blocks: 40
+
+Step 1 — Deterministic checks...
+  2 flag(s) found.
+  Block 4 — OVER_LENGTH (263 syl)
+  Block 25 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: 0-INBOX\resegmented\As_3CDi_.qc.md
+
+────────────────────────────────────────
+Flags before : 2

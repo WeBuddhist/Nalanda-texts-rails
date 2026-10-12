@@ -1,0 +1,79 @@
+[wrapper] GEMINI_THINKING=medium
+Input:  0-INBOX\resegmented\As_3CDj_.reseg.md
+ID:     As_3CDj_
+
+Blocks: 812
+
+Step 1 — Deterministic checks...
+  63 flag(s) found.
+  Block 7 — CONNECTOR_ENDING
+  Block 26 — CONNECTOR_ENDING
+  Block 26 — OVER_LENGTH (382 syl)
+  Block 28 — SHORT_FRAGMENT (3 syl)
+  Block 38 — CONNECTOR_ENDING
+  Block 65 — CONNECTOR_ENDING
+  Block 73 — OVER_LENGTH (648 syl)
+  Block 78 — OVER_LENGTH (319 syl)
+  Block 88 — SHORT_FRAGMENT (3 syl)
+  Block 91 — OVER_LENGTH (268 syl)
+  Block 102 — OVER_LENGTH (332 syl)
+  Block 124 — OVER_LENGTH (293 syl)
+  Block 133 — OVER_LENGTH (272 syl)
+  Block 136 — OVER_LENGTH (264 syl)
+  Block 140 — CONNECTOR_ENDING
+  Block 143 — SHORT_FRAGMENT (2 syl)
+  Block 165 — OVER_LENGTH (299 syl)
+  Block 173 — OVER_LENGTH (280 syl)
+  Block 174 — OVER_LENGTH (303 syl)
+  Block 186 — OVER_LENGTH (251 syl)
+  Block 210 — CONNECTOR_ENDING
+  Block 212 — SHORT_FRAGMENT (3 syl)
+  Block 218 — OVER_LENGTH (274 syl)
+  Block 221 — OVER_LENGTH (279 syl)
+  Block 265 — OVER_LENGTH (411 syl)
+  Block 280 — OVER_LENGTH (254 syl)
+  Block 284 — OVER_LENGTH (360 syl)
+  Block 329 — OVER_LENGTH (389 syl)
+  Block 335 — CONNECTOR_ENDING
+  Block 341 — OVER_LENGTH (357 syl)
+  Block 352 — CONNECTOR_ENDING
+  Block 356 — CONNECTOR_ENDING
+  Block 364 — CONNECTOR_ENDING
+  Block 373 — CONNECTOR_ENDING
+  Block 377 — CONNECTOR_ENDING
+  Block 381 — CONNECTOR_ENDING
+  Block 385 — CONNECTOR_ENDING
+  Block 431 — SHORT_FRAGMENT (3 syl)
+  Block 433 — SHORT_FRAGMENT (3 syl)
+  Block 437 — SHORT_FRAGMENT (3 syl)
+  Block 439 — SHORT_FRAGMENT (3 syl)
+  Block 445 — SHORT_FRAGMENT (3 syl)
+  Block 447 — SHORT_FRAGMENT (3 syl)
+  Block 450 — CONNECTOR_ENDING
+  Block 459 — OVER_LENGTH (449 syl)
+  Block 470 — SHORT_FRAGMENT (2 syl)
+  Block 474 — CONNECTOR_ENDING
+  Block 498 — SHORT_FRAGMENT (2 syl)
+  Block 500 — CONNECTOR_ENDING
+  Block 522 — CONNECTOR_ENDING
+  Block 526 — CONNECTOR_ENDING
+  Block 538 — CONNECTOR_ENDING
+  Block 548 — CONNECTOR_ENDING
+  Block 553 — CONNECTOR_ENDING
+  Block 585 — CONNECTOR_ENDING
+  Block 598 — SHORT_FRAGMENT (2 syl)
+  Block 631 — CONNECTOR_ENDING
+  Block 649 — CONNECTOR_ENDING
+  Block 686 — OVER_LENGTH (332 syl)
+  Block 689 — CONNECTOR_ENDING
+  Block 753 — CONNECTOR_ENDING
+  Block 776 — CONNECTOR_ENDING
+  Block 812 — OVER_LENGTH (4579 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: 0-INBOX\resegmented\As_3CDj_.qc.md
+
+────────────────────────────────────────
+Flags before : 63

@@ -1,0 +1,29 @@
+Input:  0-INBOX\resegmented\At_3CGr_.reseg.md
+ID:     At_3CGr_
+
+Blocks: 107
+
+Step 1 — Deterministic checks...
+  6 flag(s) found.
+  Block 17 — CONNECTOR_ENDING
+  Block 19 — SHORT_FRAGMENT (3 syl)
+  Block 21 — SHORT_FRAGMENT (2 syl)
+  Block 31 — SHORT_FRAGMENT (3 syl)
+  Block 43 — OBJECTION_REPLY_FUSED
+  Block 45 — OBJECTION_REPLY_FUSED
+
+Step 2 — LLM repair...
+  LLM suggested 1 correction(s):
+    SPLIT block 43 after: 'གཏོགས་པ་འདུས་པ་ཞེས་བྱའོ། །'
+  ✓ Integrity check passed. Blocks: 107 → 108
+
+Step 3 — Re-checking after repair...
+  5 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\At_3CGr_.reseg.md
+
+QC report: 0-INBOX\resegmented\At_3CGr_.qc.md
+
+────────────────────────────────────────
+Flags before : 6
+Flags after  : 5
+Corrections  : 1
