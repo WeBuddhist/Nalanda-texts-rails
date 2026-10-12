@@ -1,0 +1,8 @@
+[
+  {"op": "split", "block": 3, "after": "གླུའི་འགྲེལ་པ། "},
+  {"op": "merge", "blocks": [14, 15, 16, 17]},
+  {"op": "merge", "blocks": [20, 21, 22]},
+  {"op": "merge", "blocks": [27, 28, 29]},
+  {"op": "merge", "blocks": [31, 32, 33, 34, 35]},
+  {"op": "merge", "blocks": [37, 38, 39, 40]}
+]
