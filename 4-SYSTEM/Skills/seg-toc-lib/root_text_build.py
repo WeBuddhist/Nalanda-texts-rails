@@ -520,6 +520,19 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
                 bl.insert(fi + 1 + len(front), bl.pop(nxt))
                 prepared.write_text(f2 + "\n\n".join(bl) + "\n" + ("\n" + n2 if n2 else ""), encoding="utf-8")
                 report.append(f"first body heading moved up {gap} pāda(s) to follow the front matter")
+        # no tree heading placed before the body (every anchor missed): the body would sit
+        # under the front-matter frame and get no grouping — give it the body heading
+        t = prepared.read_text(encoding="utf-8")
+        f2, b2, n2 = split_doc(t)
+        bl = [x.strip() for x in re.split(r"\n\s*\n", b2) if x.strip()]
+        start = next((j for j, x in enumerate(bl) if x.startswith("## ") and "^I-0" in x), None)
+        start = start + 1 + len(front) if start is not None else \
+            next((j + 1 for j, x in enumerate(bl) if re.match(r"# ", x)), 0)   # after the title
+        if padas and start < len(bl) and not (bl[start].startswith("#")
+                                              and not any(s in bl[start] for s in FRAME_SECTIONS)):
+            bl.insert(start, f"## {body_title} ^1-0")
+            prepared.write_text(f2 + "\n\n".join(bl) + "\n" + ("\n" + n2 if n2 else ""), encoding="utf-8")
+            report.append(f"body heading '{body_title}' added (no TOC part placed before the body)")
 
     # 4. grouping input — one version: free (verse) or prose
     translated = "རྒྱ་གར་སྐད་དུ" in run[:300]
