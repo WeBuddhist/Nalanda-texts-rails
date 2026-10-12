@@ -1,0 +1,6 @@
+
+=== 2026-10-12 18:22:19 gemini-3.8-flash medium
+prose: 4375 sentences, 17 verse lines in 4 passage(s) · raw paragraph breaks kept: 223, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། ^0
+   ## གཞུང་དངོས། ^1-0
+{"id": "Ha_3CFG", "model": "gemini-3.8-flash", "thinking": "medium", "chunks": 83, "units": 10303, "qc4": "0", "pass5_windows": 13, "qc6": 19, "nodes": 22, "parts": 19, "unanchored": 0, "status": "done", "calls": 180, "input_tokens": 2007670, "output_tokens": 24738, "thinking_tokens": 474507, "cost_usd": 3.378, "wall_seconds": 1849}

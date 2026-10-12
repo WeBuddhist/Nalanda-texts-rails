@@ -1,0 +1,20 @@
+{
+ "id": "Gu_3CFS",
+ "model": "gemini-3.8-flash",
+ "thinking": "medium",
+ "chunks": 119,
+ "units": 14838,
+ "qc4": "0",
+ "pass5_windows": 7,
+ "qc6": 36,
+ "nodes": 40,
+ "parts": 40,
+ "unanchored": 4,
+ "status": "done",
+ "calls": 246,
+ "input_tokens": 1370945,
+ "output_tokens": 18367,
+ "thinking_tokens": 600087,
+ "cost_usd": 3.347,
+ "wall_seconds": 880
+}

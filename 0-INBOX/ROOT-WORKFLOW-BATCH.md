@@ -3,8 +3,8 @@
 Gemini (gemini-3.8-flash) runs the rest of the workflow for every root text whose TOC
 extraction is finished (see `0-INBOX/ROOT-TOC-BATCH.md`). How to run: `0-INBOX/temp/root-toc/README.md`.
 
-Updated 2026-10-12 · 418 texts · done 3 · failed 0 ·
-running 0 · **to do 415**
+Updated 2026-10-12 · 418 texts · done 4 · failed 0 ·
+running 1 · **to do 413**
 
 | Where | Path |
 |---|---|
@@ -20,8 +20,8 @@ running 0 · **to do 415**
 
 | # | id | size | status | toc | headings | blocks | run (cost · time) | note | output |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Ar_3CBa_ | medium | todo | tree |  |  |  |  |  |
-| 2 | Ar_3CBc_ | medium | todo | tree |  |  |  |  |  |
+| 1 | Ar_3CBa_ | medium | done | tree | 0 not placed | 495 | low · $0.20 · 2.5 min |  | `processed/root-gemini/Ar_3CBa_-free.md` |
+| 2 | Ar_3CBc_ | medium | running | tree |  |  | started 21:56 |  |  |
 | 3 | Ar_3CBf_ | small | todo | no parts |  |  |  |  |  |
 | 4 | Ar_3CBg_ | medium | todo | tree |  |  |  |  |  |
 | 5 | Ar_3CBh_ | medium | todo | tree |  |  |  |  |  |
