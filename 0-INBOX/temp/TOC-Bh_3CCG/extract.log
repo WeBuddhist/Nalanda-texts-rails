@@ -31,3 +31,20 @@ Building TOC tree from candidates + enumerations → Gemini ...
     ! tree attempt 4/8 overloaded (503/429): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}; retrying in 69s...
     ! tree attempt 5/8 overloaded (503/429): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}; retrying in 121s...
     ! tree attempt 6/8 overloaded (503/429): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}; retrying in 133s...
+    ! tree attempt 7/8 overloaded (503/429): 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}; retrying in 136s...
+Traceback (most recent call last):
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py", line 1559, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py", line 1483, in main
+    tree_body = build_toc_tree(client, args.model, commentary_id, candidates_doc,
+                               enumerations_text=enumerations_text,
+                               fallback_model=args.fallback_model)
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py", line 689, in build_toc_tree
+    text = _generate(client, model, TREE_SYSTEM_PROMPT, contents,
+                     fallback_model=fallback_model, label="tree")
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py", line 661, in _generate
+    raise RuntimeError(f"Gemini call failed after retries on "
+                       f"{models_to_try}: {last_err}")
+RuntimeError: Gemini call failed after retries on ['gemini-3.8-flash']: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+exit=1

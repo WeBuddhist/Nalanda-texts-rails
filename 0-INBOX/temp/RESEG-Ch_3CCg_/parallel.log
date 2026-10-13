@@ -1,0 +1,12 @@
+Ch_3CCg_: 4554 blocks, 130 windows, 130 to call
+    236s  window 3: 10 op(s)
+    237s  window 6: 8 op(s)
+    269s  window 5: 10 op(s)
+    292s  window 4: 8 op(s)
+    329s  window 2: 7 op(s)
+    332s  window 8: 13 op(s)
+    344s  window 7: 8 op(s)
+    ! window-1 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    393s  window 12: 5 op(s)
+    445s  window 10: 6 op(s)
+    446s  window 14: 6 op(s)

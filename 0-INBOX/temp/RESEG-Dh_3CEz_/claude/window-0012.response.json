@@ -1,9 +1,6 @@
 [
-  {"op": "merge", "blocks": [422, 423]},
-  {"op": "merge", "blocks": [424, 425]},
-  {"op": "merge", "blocks": [435, 436]},
-  {"op": "merge", "blocks": [443, 444, 445]},
-  {"op": "merge", "blocks": [448, 449]},
-  {"op": "merge", "blocks": [451, 452]},
-  {"op": "split", "block": 460, "after": "དབྱེར་མེད་ཕྱག་རྒྱ་ཆེན་པོའོ། །"}
+  {"op": "merge", "blocks": [428, 429]},
+  {"op": "split", "block": 430, "after": "ཐུན་བཞིའི་རིམ་པས་དེ་བཞིན་དུ་བསྒོམ།"},
+  {"op": "merge", "blocks": [449, 450]},
+  {"op": "merge", "blocks": [453, 454]}
 ]

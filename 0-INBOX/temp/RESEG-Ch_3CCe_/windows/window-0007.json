@@ -1,0 +1,56 @@
+{
+  "window_idx": 7,
+  "start_block": 246,
+  "end_block": 285,
+  "operations": [
+    {
+      "op": "merge",
+      "blocks": [
+        246,
+        247,
+        248,
+        249
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        254,
+        255
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        258,
+        259,
+        260
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        269,
+        270
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        276,
+        277
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 ---
 source: Bu_3CCC
-skill: toc-candidate-extraction
+skill: commentary-toc-extract
 stage: candidates
-date: 2026-10-09
+date: 2026-10-13
 model: gemini-3.8-flash
 total_candidates: 0
 duplicates_removed: 0
@@ -284,6 +284,10 @@ duplicates_removed: 0
 
 <!-- no candidates -->
 
-<!-- chunk 069 | lines 8626–8772 | source: Bu_3CCC -->
+<!-- chunk 069 | lines 8626–8775 | source: Bu_3CCC -->
+
+<!-- no candidates -->
+
+<!-- chunk 070 | lines 8751–8813 | source: Bu_3CCC -->
 
 <!-- no candidates -->

@@ -1,8 +1,8 @@
 ---
 source: Bu_3CCC
-skill: toc-candidate-extraction
+skill: commentary-toc-extract
 stage: toc-tree
-date: 2026-10-09
+date: 2026-10-13
 model: gemini-3.8-flash
 ---
 

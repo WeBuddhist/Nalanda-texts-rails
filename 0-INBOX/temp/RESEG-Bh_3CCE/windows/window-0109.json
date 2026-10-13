@@ -1,0 +1,19 @@
+{
+  "window_idx": 109,
+  "start_block": 3816,
+  "end_block": 3855,
+  "operations": [
+    {
+      "op": "split",
+      "block": 3830,
+      "after": "བསྐྱེད་པར་ནི་བསྒོམ་པར་བྱ་བའོ།[^2318] །"
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        3848,
+        3849
+      ]
+    }
+  ]
+}
