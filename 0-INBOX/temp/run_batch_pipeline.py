@@ -61,11 +61,12 @@ def run_one(cid: str, workers: int):
         # Gemini tree (kept as toc-tree-<id>.gemini.md); stale reseg windows go too
         toc_folder = orch.ensure_dirs(cid)
         tree = toc_folder / f"toc-tree-{cid}.md"
-        if tree.exists() and not (toc_folder / f"toc-tree-{cid}.gemini.md").exists():
+        same = tree.exists() and tree.read_bytes() == closing.read_bytes()
+        if tree.exists() and not same and not (toc_folder / f"toc-tree-{cid}.gemini.md").exists():
             tree.rename(toc_folder / f"toc-tree-{cid}.gemini.md")
         shutil.copyfile(closing, tree)
         wins = orch.TEMP_DIR / f"RESEG-{cid}" / "windows"
-        if wins.exists() and any(wins.iterdir()):
+        if not same and wins.exists() and any(wins.iterdir()):
             shutil.move(str(wins), str(wins.parent / f"windows-stale-{int(time.time())}"))
             wins.mkdir()
         print(f"[{cid}] using closing-line tree {closing.name}", flush=True)

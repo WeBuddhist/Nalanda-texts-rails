@@ -1,0 +1,114 @@
+[Ka_3CDH] using closing-line tree closing-tree-Ka_3CDH.md
+[Ka_3CDH] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-tree-Ka_3CDH.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-tree-Ka_3CDH.json
+Parsed 6 nodes (2 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-tree-Ka_3CDH.json
+  depth  1: 6 nodes
+[Ka_3CDH] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-tree-Ka_3CDH.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDH\Ka_3CDH.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            6
+  Inserted:               6
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDH\Ka_3CDH.toc.md
+[Ka_3CDH] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDH.toc.md
+[Ka_3CDH] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ka_3CDH 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDH.toc.md...
+Blocks: 1521 (headings: 7, content: 1514)
+Windows: 44
+Windows to process: 44 / 44
+Running 44 windows with 8 worker threads...
+  [374.9s] Window 3/44 done: 12 op(s)
+  [377.9s] Window 5/44 done: 9 op(s)
+  [393.3s] Window 8/44 done: 10 op(s)
+  [394.2s] Window 7/44 done: 10 op(s)
+  ! window-1: JSON parse error (Expecting value: line 1 column 1 (char 0)) — treating as []. Raw:
+..."
+In Block 5:
+"དུས་གསུམ་བཞུགས་པའི་སངས་རྒྱས་ཀུན་སྐྱེད་དེ་ལ་རབ་གུས་བདག་ཕྱག་འཚལ། །"
+Notice: "དེ་ལ་རབ་གུས་བདག་ཕྱག་འཚལ། །"
+Wait, let's include enough characters to be 100% unique:
+"དེ་ལ་རབ་གུས་བདག་ཕྱག་འ
+  [431.2s] Window 1/44 done: 0 op(s)
+    ! window-2 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! window-4 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! window-6 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+  [255.8s] Window 11/44 done: 8 op(s)
+  [272.7s] Window 12/44 done: 9 op(s)
+  [369.5s] Window 10/44 done: 10 op(s)
+    ! window-9 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [410.0s] Window 13/44 done: 11 op(s)
+  [874.4s] Window 2/44 done: 9 op(s)
+  [876.6s] Window 6/44 done: 13 op(s)
+    ! window-4 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 19s...
+  [358.3s] Window 15/44 done: 12 op(s)
+  [295.0s] Window 16/44 done: 8 op(s)
+  [422.0s] Window 14/44 done: 8 op(s)
+  [319.2s] Window 17/44 done: 11 op(s)
+  [347.0s] Window 18/44 done: 6 op(s)
+  [364.7s] Window 19/44 done: 8 op(s)
+    ! window-9 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 19s...
+    ! window-4 attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 35s...
+  [384.6s] Window 20/44 done: 9 op(s)
+  [360.6s] Window 22/44 done: 8 op(s)
+    ! window-21 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+  ! window-23: JSON parse error (Expecting value: line 1 column 1 (char 0)) — treating as []. Raw:
+ལྡན་འདས་ངོ་མཚར་ལགས་སོ་ཞེས་བྱ་བ་གསོལ་ཏོ། །"
+791 is an incomplete introductory sentence ending in འདི་སྐད་ཅེས་གསོལ་ཏོ། །, and 792 is the quote that completes it.
+Merge [791, 792].
+
+5) Block 794 and 795:
+  [426.0s] Window 23/44 done: 0 op(s)
+  ! window-24: JSON parse error (Expecting value: line 1 column 1 (char 0)) — treating as []. Raw:
+ལ་ཆགས་ཏེ་བག་མེད་པར་གནས་པ་དེ་ནི་ཤིན་ཏུ་ངོ་ཚ་བར་བྱེད་པའོ་ཞེས་བྱའོ། །
+842: འདིས་ནི་སེམས་རབ་ཏུ་གཟུང་བ༌[^625]བསྟན་ཏོ། །
+These three blocks explain the quote in 839.
+840 explains the quote, 841 draws the co
+  [403.3s] Window 24/44 done: 0 op(s)
+    ! window-25 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [1284.6s] Window 9/44 done: 10 op(s)
+  [316.1s] Window 27/44 done: 12 op(s)
+  [351.6s] Window 26/44 done: 7 op(s)
+    ! window-4 attempt 4/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 64s...
+    ! window-21 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 17s...
+  [309.5s] Window 29/44 done: 7 op(s)
+  [391.6s] Window 28/44 done: 9 op(s)
+  [342.8s] Window 30/44 done: 8 op(s)
+  [268.9s] Window 31/44 done: 9 op(s)
+  [301.0s] Window 32/44 done: 9 op(s)
+    ! window-25 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 16s...
+  [243.8s] Window 33/44 done: 9 op(s)
+  [1206.4s] Window 21/44 done: 7 op(s)
+    ! window-4 attempt 5/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 120s...
+  [301.3s] Window 34/44 done: 10 op(s)
+    ! window-35 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+    ! window-36 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+  [400.0s] Window 37/44 done: 9 op(s)
+    ! window-25 attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 33s...
+  [373.1s] Window 38/44 done: 11 op(s)
+    ! window-39 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! window-40 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+  [723.7s] Window 36/44 done: 7 op(s)
+    ! window-35 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 20s...
+    ! window-4 attempt 6/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 135s...
+    ! window-41 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [374.9s] Window 42/44 done: 11 op(s)
+    ! window-25 attempt 4/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 68s...
+    ! window-39 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 17s...
+  ! window-40: JSON parse error (Expecting value: line 1 column 1 (char 0)) — treating as []. Raw:
+... བསྟན་ཏོ། །
+1402: གནས་འདི་མཐའ་དག་གིས་ནི་ཟབ་བ་བསྟན་ཏོ། །
+1403: ...རྒྱ་ཆེ་བ་ཡང་བསྟན་ཏོ། །
+In 1401-1403, 1401, 1402, 1403 are all merged with 1394-1400!
+Nobody separates 1401-1403 from 1394-1400!
+Why 
+  [785.8s] Window 40/44 done: 0 op(s)
+  [380.6s] Window 43/44 done: 6 op(s)
+  [1143.5s] Window 35/44 done: 8 op(s)
+    ! window-41 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 19s...

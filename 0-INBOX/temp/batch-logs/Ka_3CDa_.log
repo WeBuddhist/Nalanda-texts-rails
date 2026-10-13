@@ -1,0 +1,40 @@
+[Ka_3CDa_] using closing-line tree closing-tree-Ka_3CDa_.md
+[Ka_3CDa_] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDa_\toc-tree-Ka_3CDa_.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDa_\toc-tree-Ka_3CDa_.json
+Parsed 8 nodes (0 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDa_\toc-tree-Ka_3CDa_.json
+  depth  1: 8 nodes
+[Ka_3CDa_] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDa_\toc-tree-Ka_3CDa_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDa_\Ka_3CDa_.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            8
+  Inserted:               8
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDa_\Ka_3CDa_.toc.md
+[Ka_3CDa_] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDa_.toc.md
+[Ka_3CDa_] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ka_3CDa_ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDa_.toc.md...
+Blocks: 3744 (headings: 9, content: 3735)
+Windows: 107
+Windows to process: 55 / 107
+Running 55 windows with 8 worker threads...
+  [65.3s] Window 59/107 done: 8 op(s)
+  [99.4s] Window 58/107 done: 9 op(s)
+  [105.0s] Window 60/107 done: 9 op(s)
+  [108.5s] Window 55/107 done: 12 op(s)
+  [147.5s] Window 56/107 done: 9 op(s)
+  [176.4s] Window 57/107 done: 8 op(s)
+  [187.0s] Window 54/107 done: 8 op(s)
+  [197.6s] Window 38/107 done: 6 op(s)
+  [102.0s] Window 64/107 done: 10 op(s)
+  [69.6s] Window 65/107 done: 8 op(s)
+  [121.1s] Window 63/107 done: 10 op(s)
+  [184.2s] Window 61/107 done: 12 op(s)
+  [190.3s] Window 62/107 done: 11 op(s)
+  [131.6s] Window 67/107 done: 10 op(s)

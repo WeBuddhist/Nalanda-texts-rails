@@ -38,6 +38,12 @@ def main():
     print(f"Windows to process: {len(to_call)} / {len(windows)}")
     
     client = resegment.get_client()
+    # a dropped connection otherwise hangs a worker forever (seen 2026-10-13): give every
+    # request a 20-minute ceiling so it errors out and is retried
+    from google import genai
+    from google.genai import types
+    client = genai.Client(api_key=client._api_client.api_key,
+                          http_options=types.HttpOptions(timeout=20 * 60 * 1000))
     
     def worker(win):
         t0 = time.time()
@@ -83,15 +89,15 @@ def main():
     result_blocks = resegment.apply_operations(blocks, ops_valid)
     print(f"Blocks: {len(blocks)} -> {len(result_blocks)}")
     
-    ok, err_msg = resegment.check_integrity(blocks, result_blocks)
+    ok, err_msg = resegment.check_integrity(input_path, frontmatter, result_blocks)
     if not ok:
         print(f"INTEGRITY ERROR: {err_msg}")
         sys.exit(2)
         
     print("Integrity check passed!")
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    resegment.write_output(frontmatter, result_blocks, output_path)
-    resegment.write_ops_log(cid, blocks, result_blocks, ops_valid, validation_errors, conflicts, log_path)
+    resegment.write_output(output_path, frontmatter, result_blocks)
+    resegment.write_ops_log(log_path, ops_valid, validation_errors, conflicts, blocks, result_blocks, cid)
     print(f"Wrote {output_path}")
     print(f"Wrote {log_path}")
 

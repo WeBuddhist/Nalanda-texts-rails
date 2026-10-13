@@ -1,0 +1,66 @@
+[Ha_3CFN] using closing-line tree closing-tree-Ha_3CFN.md
+[Ha_3CFN] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFN\toc-tree-Ha_3CFN.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFN\toc-tree-Ha_3CFN.json
+Parsed 10 nodes (2 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFN\toc-tree-Ha_3CFN.json
+  depth  1: 10 nodes
+[Ha_3CFN] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFN\toc-tree-Ha_3CFN.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ha_3CFN\Ha_3CFN.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            10
+  Inserted:               10
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ha_3CFN\Ha_3CFN.toc.md
+[Ha_3CFN] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ha_3CFN.toc.md
+[Ha_3CFN] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ha_3CFN 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ha_3CFN.toc.md...
+Blocks: 875 (headings: 11, content: 864)
+Windows: 25
+Windows to process: 25 / 25
+Running 25 windows with 8 worker threads...
+  [69.0s] Window 7/25 done: 1 op(s)
+  [91.6s] Window 8/25 done: 3 op(s)
+  [122.5s] Window 2/25 done: 5 op(s)
+  [81.1s] Window 9/25 done: 6 op(s)
+  [189.6s] Window 4/25 done: 5 op(s)
+  [240.3s] Window 6/25 done: 4 op(s)
+  [211.5s] Window 10/25 done: 6 op(s)
+  [87.3s] Window 14/25 done: 1 op(s)
+  [328.6s] Window 1/25 done: 6 op(s)
+  [216.4s] Window 11/25 done: 2 op(s)
+  [351.7s] Window 5/25 done: 3 op(s)
+  [370.6s] Window 3/25 done: 6 op(s)
+  [71.2s] Window 15/25 done: 5 op(s)
+  [98.9s] Window 18/25 done: 2 op(s)
+  [352.5s] Window 12/25 done: 4 op(s)
+  [331.6s] Window 13/25 done: 3 op(s)
+  [96.7s] Window 22/25 done: 5 op(s)
+  [228.3s] Window 17/25 done: 6 op(s)
+  [216.3s] Window 19/25 done: 4 op(s)
+  [216.9s] Window 21/25 done: 5 op(s)
+  [103.9s] Window 24/25 done: 2 op(s)
+  [263.8s] Window 20/25 done: 4 op(s)
+  [309.3s] Window 16/25 done: 3 op(s)
+  [168.4s] Window 25/25 done: 4 op(s)
+  [261.9s] Window 23/25 done: 5 op(s)
+
+Combining operations...
+Operations to apply: 89
+Blocks: 875 -> 680
+Traceback (most recent call last):
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py", line 99, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py", line 86, in main
+    ok, err_msg = resegment.check_integrity(blocks, result_blocks)
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: check_integrity() missing 1 required positional argument: 'new_blocks'
+[Ha_3CFN] FAILED: Command failed with code 1: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ha_3CFN 8
+
+Finished. Failed: ['Ha_3CFN']

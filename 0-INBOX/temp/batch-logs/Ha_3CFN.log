@@ -1,0 +1,120 @@
+[Ha_3CFN] using closing-line tree closing-tree-Ha_3CFN.md
+[Ha_3CFN] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFN\toc-tree-Ha_3CFN.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFN\toc-tree-Ha_3CFN.json
+Parsed 10 nodes (2 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFN\toc-tree-Ha_3CFN.json
+  depth  1: 10 nodes
+[Ha_3CFN] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFN\toc-tree-Ha_3CFN.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ha_3CFN\Ha_3CFN.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            10
+  Inserted:               10
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ha_3CFN\Ha_3CFN.toc.md
+[Ha_3CFN] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ha_3CFN.toc.md
+[Ha_3CFN] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ha_3CFN 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ha_3CFN.toc.md...
+Blocks: 875 (headings: 11, content: 864)
+Windows: 25
+Windows to process: 0 / 25
+
+Combining operations...
+Operations to apply: 89
+Blocks: 875 -> 680
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ha_3CFN.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ha_3CFN.ops.md
+[Ha_3CFN] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ha_3CFN.reseg.md --commentary-id Ha_3CFN
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ha_3CFN.reseg.md
+ID:     Ha_3CFN
+
+Blocks: 680
+
+Step 1 — Deterministic checks...
+  51 flag(s) found.
+  Block 16 — OVER_LENGTH (267 syl)
+  Block 24 — CONNECTOR_ENDING
+  Block 27 — OVER_LENGTH (317 syl)
+  Block 28 — CONNECTOR_ENDING
+  Block 55 — OVER_LENGTH (608 syl)
+  Block 56 — CONNECTOR_ENDING
+  Block 59 — OVER_LENGTH (1244 syl)
+  Block 63 — OVER_LENGTH (289 syl)
+  Block 68 — OVER_LENGTH (493 syl)
+  Block 76 — OVER_LENGTH (287 syl)
+  Block 82 — OVER_LENGTH (350 syl)
+  Block 89 — OVER_LENGTH (266 syl)
+  Block 96 — OVER_LENGTH (277 syl)
+  Block 121 — SHORT_FRAGMENT (3 syl)
+  Block 152 — OVER_LENGTH (272 syl)
+  Block 172 — OVER_LENGTH (260 syl)
+  Block 175 — OVER_LENGTH (281 syl)
+  Block 203 — OVER_LENGTH (446 syl)
+  Block 247 — CONNECTOR_ENDING
+  Block 247 — SHORT_FRAGMENT (2 syl)
+  Block 261 — OBJECTION_REPLY_FUSED
+  Block 314 — OVER_LENGTH (258 syl)
+  Block 332 — OVER_LENGTH (428 syl)
+  Block 344 — OVER_LENGTH (394 syl)
+  Block 347 — OVER_LENGTH (261 syl)
+  Block 350 — OVER_LENGTH (608 syl)
+  Block 354 — CONNECTOR_ENDING
+  Block 360 — CONNECTOR_ENDING
+  Block 364 — CONNECTOR_ENDING
+  Block 376 — OVER_LENGTH (338 syl)
+  Block 385 — OVER_LENGTH (346 syl)
+  Block 397 — OVER_LENGTH (255 syl)
+  Block 414 — OVER_LENGTH (541 syl)
+  Block 424 — OVER_LENGTH (649 syl)
+  Block 447 — OVER_LENGTH (377 syl)
+  Block 450 — OVER_LENGTH (253 syl)
+  Block 453 — OVER_LENGTH (290 syl)
+  Block 454 — SHORT_FRAGMENT (3 syl)
+  Block 470 — OVER_LENGTH (293 syl)
+  Block 492 — OVER_LENGTH (299 syl)
+  Block 500 — OVER_LENGTH (281 syl)
+  Block 514 — OVER_LENGTH (439 syl)
+  Block 527 — OVER_LENGTH (294 syl)
+  Block 546 — OVER_LENGTH (296 syl)
+  Block 562 — OVER_LENGTH (418 syl)
+  Block 589 — CONNECTOR_ENDING
+  Block 598 — OVER_LENGTH (725 syl)
+  Block 599 — SHORT_FRAGMENT (3 syl)
+  Block 631 — OVER_LENGTH (604 syl)
+  Block 652 — OVER_LENGTH (1409 syl)
+  Block 664 — OVER_LENGTH (716 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ha_3CFN.qc.md
+
+────────────────────────────────────────
+Flags before : 51
+[Ha_3CFN] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFN\toc-tree-Ha_3CFN.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ha_3CFN.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Ha_3CFN.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            10
+  Inserted:               0
+  Already present:        10
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ha_3CFN.reseg.md
+  spacing: source ' ' → output '' at …ཡིན་ནོ།།|ལ
+  spacing: source ' ' → output '' at …ཡིན་ནོ།།|ར
+  spacing: source ' ' → output '' at …ང་པོའོ།།|ར
+✓ Ha_3CFN.reseg.md: letters identical; 3 spacing difference(s) restored from the source — now identical (letters and spacing)
+[Ha_3CFN] ALL STEPS COMPLETED SUCCESSFULLY!
+[Ha_3CFN] DONE in 291s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ha_3CFN.toc.md
+
+Finished. Failed: none

@@ -1,0 +1,94 @@
+[Ka_3CDG] using closing-line tree closing-tree-Ka_3CDG.md
+[Ka_3CDG] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.json
+Parsed 8 nodes (2 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.json
+  depth  1: 8 nodes
+[Ka_3CDG] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDG\Ka_3CDG.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            8
+  Inserted:               8
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDG\Ka_3CDG.toc.md
+[Ka_3CDG] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDG.toc.md
+[Ka_3CDG] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ka_3CDG 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDG.toc.md...
+Blocks: 1881 (headings: 9, content: 1872)
+Windows: 54
+Windows to process: 54 / 54
+Running 54 windows with 8 worker threads...
+  [308.0s] Window 2/54 done: 12 op(s)
+  [331.4s] Window 4/54 done: 10 op(s)
+  [385.5s] Window 7/54 done: 8 op(s)
+  [387.3s] Window 6/54 done: 7 op(s)
+  [402.2s] Window 3/54 done: 11 op(s)
+  [408.5s] Window 1/54 done: 9 op(s)
+  [421.3s] Window 8/54 done: 11 op(s)
+  [255.1s] Window 13/54 done: 6 op(s)
+  [283.4s] Window 14/54 done: 11 op(s)
+  [411.3s] Window 9/54 done: 7 op(s)
+  [726.3s] Window 5/54 done: 8 op(s)
+  [418.7s] Window 10/54 done: 9 op(s)
+    ! window-12 attempt 1/8 error: [WinError 10054] An existing connection was forcibly closed by the remote host; retrying in 9s...
+  [416.8s] Window 11/54 done: 12 op(s)
+    ! window-15 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+  [306.1s] Window 16/54 done: 5 op(s)
+  [410.8s] Window 17/54 done: 9 op(s)
+  [393.7s] Window 18/54 done: 8 op(s)
+  [389.0s] Window 19/54 done: 9 op(s)
+  [380.0s] Window 20/54 done: 12 op(s)
+    ! window-21 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+    ! window-12 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 16s...
+  [828.2s] Window 15/54 done: 7 op(s)
+  [416.7s] Window 22/54 done: 6 op(s)
+  [320.2s] Window 26/54 done: 9 op(s)
+  [375.8s] Window 24/54 done: 10 op(s)
+  [391.2s] Window 25/54 done: 7 op(s)
+  [416.9s] Window 23/54 done: 7 op(s)
+  [839.5s] Window 21/54 done: 11 op(s)
+    ! window-12 attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 39s...
+    ! window-27 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [325.3s] Window 28/54 done: 12 op(s)
+    ! window-29 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [367.2s] Window 31/54 done: 13 op(s)
+  [361.4s] Window 32/54 done: 12 op(s)
+    ! window-30 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [219.8s] Window 34/54 done: 10 op(s)
+    ! window-33 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [172.5s] Window 36/54 done: 8 op(s)
+  [848.3s] Window 27/54 done: 9 op(s)
+  [1724.9s] Window 12/54 done: 6 op(s)
+  [238.3s] Window 37/54 done: 7 op(s)
+  [319.1s] Window 35/54 done: 8 op(s)
+    ! window-29 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 16s...
+  [780.4s] Window 30/54 done: 12 op(s)
+  [268.3s] Window 38/54 done: 10 op(s)
+    ! window-33 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 18s...
+  [320.6s] Window 40/54 done: 8 op(s)
+  [300.2s] Window 41/54 done: 8 op(s)
+  [370.5s] Window 39/54 done: 10 op(s)
+  [290.0s] Window 43/54 done: 11 op(s)
+  [252.3s] Window 44/54 done: 10 op(s)
+  [391.0s] Window 42/54 done: 8 op(s)
+  [1192.0s] Window 29/54 done: 13 op(s)
+  [313.7s] Window 45/54 done: 10 op(s)
+  [1106.5s] Window 33/54 done: 11 op(s)
+  [217.8s] Window 49/54 done: 11 op(s)
+    ! window-47 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! window-46 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [354.3s] Window 48/54 done: 8 op(s)
+    ! window-50 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [235.3s] Window 54/54 done: 7 op(s)
+  [397.5s] Window 51/54 done: 9 op(s)
+  [305.6s] Window 53/54 done: 7 op(s)
+    ! window-52 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [609.9s] Window 50/54 done: 12 op(s)
+  [746.1s] Window 46/54 done: 8 op(s)
+    ! window-47 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 19s...

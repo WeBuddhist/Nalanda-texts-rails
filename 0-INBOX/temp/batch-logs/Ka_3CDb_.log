@@ -1,0 +1,41 @@
+[Ka_3CDb_] using closing-line tree closing-tree-Ka_3CDb_.md
+[Ka_3CDb_] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDb_\toc-tree-Ka_3CDb_.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDb_\toc-tree-Ka_3CDb_.json
+Parsed 4 nodes (1 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDb_\toc-tree-Ka_3CDb_.json
+  depth  1: 4 nodes
+[Ka_3CDb_] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDb_\toc-tree-Ka_3CDb_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDb_\Ka_3CDb_.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            4
+  Inserted:               4
+  Already present:        0
+  Blocks split at a node: 1 ['b']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDb_\Ka_3CDb_.toc.md
+[Ka_3CDb_] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDb_.toc.md
+[Ka_3CDb_] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ka_3CDb_ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDb_.toc.md...
+Blocks: 3976 (headings: 5, content: 3971)
+Windows: 114
+Windows to process: 58 / 114
+Running 58 windows with 8 worker threads...
+  [122.0s] Window 62/114 done: 12 op(s)
+  [129.8s] Window 45/114 done: 9 op(s)
+  [157.3s] Window 60/114 done: 9 op(s)
+  [188.8s] Window 59/114 done: 12 op(s)
+  [192.0s] Window 58/114 done: 13 op(s)
+  [226.4s] Window 63/114 done: 10 op(s)
+  [258.1s] Window 64/114 done: 6 op(s)
+  [105.4s] Window 67/114 done: 6 op(s)
+  [72.3s] Window 70/114 done: 9 op(s)
+  [112.9s] Window 68/114 done: 7 op(s)
+  [118.0s] Window 69/114 done: 9 op(s)
+  [320.7s] Window 61/114 done: 7 op(s)
+  [196.7s] Window 66/114 done: 7 op(s)
+  [75.1s] Window 71/114 done: 8 op(s)
+  [216.7s] Window 65/114 done: 11 op(s)

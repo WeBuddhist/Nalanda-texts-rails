@@ -1,0 +1,89 @@
+{
+  "window_idx": 25,
+  "start_block": 876,
+  "end_block": 915,
+  "operations": [
+    {
+      "op": "merge",
+      "blocks": [
+        878,
+        879
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        881,
+        882,
+        883,
+        884
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        885,
+        886,
+        887
+      ]
+    },
+    {
+      "op": "split",
+      "block": 888,
+      "after": "ཞེས་བྱ་བར༌[^937]གྲུབ་པོ། །"
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        889,
+        890,
+        891
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        892,
+        893,
+        894
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        895,
+        896
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        897,
+        898,
+        899,
+        900
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        905,
+        906
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        907,
+        908
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        910,
+        911
+      ]
+    }
+  ]
+}

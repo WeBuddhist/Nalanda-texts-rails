@@ -3,11 +3,11 @@
 Generated 2026-10-13 by `4-SYSTEM/scripts/check_commentary_seg_toc.py`.
 
 - Commentaries in `0-INBOX/commentary/`: **123**
-- Segmented (`0-INBOX/segmented/` or temp): **53**
-- Resegmented (`0-INBOX/resegmented/`): **40**
-- Segmented with TOC (`0-INBOX/temp/segmented-commentary-with-toc/`): **43**
+- Segmented (`0-INBOX/segmented/` or temp): **61**
+- Resegmented (`0-INBOX/resegmented/`): **42**
+- Segmented with TOC (`0-INBOX/temp/segmented-commentary-with-toc/`): **54**
 - TOC files with issues: **2**
-- Not yet in TOC folder: **80**
+- Not yet in TOC folder: **69**
 
 Depth = deepest heading ID segment count (e.g. `^2-1-1-0` → 3). Units = non-heading paragraph blocks.
 
@@ -61,18 +61,18 @@ Depth = deepest heading ID segment count (e.g. `^2-1-1-0` → 3). Units = non-he
 | Di_3CEt_ | ✅ | ✅ | ✅ | 12 | 2 | 42 | OK | done |
 | Gu_3CFP | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
 | Gu_3CFQ | ✅ | ❌ | ✅ | 39 | 3 | 125 | OK | done |
-| Gu_3CFR | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
+| Gu_3CFR | ✅ | ✅ | ✅ | 15 | 2 | 940 | OK | done |
 | Gu_3CFU | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
 | Gu_3CFV | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
 | Gu_3CFW | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
-| Gu_3CFX | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
-| Gu_3CFY | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
-| Ha_3CFK | ❌ | ❌ | ❌ | | | |  | not started |
-| Ha_3CFL | ❌ | ❌ | ❌ | | | |  | not started |
-| Ha_3CFM | ❌ | ❌ | ❌ | | | |  | not started |
-| Ha_3CFN | ❌ | ❌ | ❌ | | | |  | not started |
-| Ka_3CDG | ❌ | ❌ | ❌ | | | |  | not started |
-| Ka_3CDH | ❌ | ❌ | ❌ | | | |  | not started |
+| Gu_3CFX | ✅ | ❌ | ✅ | 78 | 1 | 3029 | OK | done |
+| Gu_3CFY | ✅ | ❌ | ✅ | 104 | 1 | 3227 | OK | done |
+| Ha_3CFK | ✅ | ❌ | ✅ | 10 | 1 | 3989 | OK | done |
+| Ha_3CFL | ✅ | ❌ | ✅ | 25 | 1 | 3562 | OK | done |
+| Ha_3CFM | ✅ | ❌ | ✅ | 34 | 1 | 1436 | OK | done |
+| Ha_3CFN | ✅ | ✅ | ✅ | 10 | 1 | 670 | OK | done |
+| Ka_3CDG | ✅ | ❌ | ✅ | 8 | 1 | 1872 | OK | done |
+| Ka_3CDH | ✅ | ❌ | ✅ | 6 | 1 | 1514 | OK | done |
 | Ka_3CDI | ❌ | ❌ | ❌ | | | |  | not started |
 | Ka_3CDJ | ❌ | ❌ | ❌ | | | |  | not started |
 | Ka_3CDS | ❌ | ❌ | ❌ | | | |  | not started |
@@ -80,8 +80,8 @@ Depth = deepest heading ID segment count (e.g. `^2-1-1-0` → 3). Units = non-he
 | Ka_3CDU | ❌ | ❌ | ❌ | | | |  | not started |
 | Ka_3CDX | ❌ | ❌ | ❌ | | | |  | not started |
 | Ka_3CDZ | ❌ | ❌ | ❌ | | | |  | not started |
-| Ka_3CDa_ | ❌ | ❌ | ❌ | | | |  | not started |
-| Ka_3CDb_ | ❌ | ❌ | ❌ | | | |  | not started |
+| Ka_3CDa_ | ✅ | ❌ | ✅ | 8 | 1 | 3735 | OK | done |
+| Ka_3CDb_ | ✅ | ❌ | ✅ | 4 | 1 | 3971 | OK | done |
 | Na_3C98 | ❌ | ❌ | ❌ | | | |  | not started |
 | Na_3C9L | ❌ | ❌ | ❌ | | | |  | not started |
 | Na_3C9Z | ❌ | ❌ | ❌ | | | |  | not started |

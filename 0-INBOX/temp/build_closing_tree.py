@@ -41,6 +41,13 @@ def canon_map(s):
 
 GU_RE = re.compile(r"([^།]*?)་?རྫོགས་སོ།།")
 HA_RE = re.compile(r"([^།]*?ལེའུ(?:་ཞེས་བྱ(?:་བ)?)?་སྟེ་(?:སྐབས་)?[^།]{1,25}?པོ?)(?:འོ|འི་བཤད་པ)")
+# "… ལས། སྐབས་དང་པོའི་འགྲེལ་པའོ།། །།"  (Haribhadra Vivṛti)
+SKABS_RE = re.compile(r"([^།]*སྐབས་[^།]{1,20}?)འི་འགྲེལ་པའོ")
+# "… དཀའ་འགྲེལ་ལས་ X བརྟག་པ་སྟེ། N པའོ"  (Kamalaśīla Tattvasaṃgraha-pañjikā)
+BRTAG_RE = re.compile(r"དཀའ་འགྲེལ་ལས[། ]*([^།]*?བརྟགས?་པ་སྟེ)[། ]*([^།]{1,30}?པོ?)འོ")
+# any division ending in a double shad pair "…།། །།" (fascicle / section ends)
+DSHAD_RE = re.compile(r"([^།]+)།+ ?།།")
+STYLES = {"gu": GU_RE, "ha": HA_RE, "skabs": SKABS_RE, "brtag": BRTAG_RE, "dshad": DSHAD_RE}
 
 
 def title_of(clause, style):
@@ -51,6 +58,8 @@ def title_of(clause, style):
         k = max(t.rfind("བ་ལས་", 0, lo), t.rfind("པ་ལས་", 0, lo))
         if k >= 0:
             t = t[k + 5:]
+    elif style == "dshad":
+        t = re.sub(r"བཤད་ཟིན་ཏོ$", "བཤད་པ", t)
     else:
         t = re.sub(r"^(?:དེ་ལྟར་|དེ་ལྟ་བས་ན་|དེ་ནི་)", "", t)
     t = re.sub(r"་སྟེ$", "", t.strip("་ "))
@@ -71,21 +80,24 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("units")
     ap.add_argument("out")
-    ap.add_argument("--style", choices=["gu", "ha"], required=True)
+    ap.add_argument("--style", choices=sorted(STYLES), required=True)
     ap.add_argument("--id", default="")
     a = ap.parse_args()
 
     blocks = [b.strip() for b in re.split(r"\n\s*\n", Path(a.units).read_text(encoding="utf-8"))]
     blocks = [b for b in blocks if b and not b.startswith("#") and not re.match(r"\[\^\d+\]:", b)]
-    rx = GU_RE if a.style == "gu" else HA_RE
+    rx = STYLES[a.style]
 
     # (block index, char offset in block where the NEXT division starts, title)
     closers = []
     for bi, b in enumerate(blocks):
         c, idx = canon_map(b)
         for m in rx.finditer(c):
-            clause = m.group(1)
-            clause = clause[clause.rfind("།") + 1:] if "།" in clause else clause
+            if a.style == "brtag":
+                clause = m.group(1) + "་" + m.group(2)
+            else:
+                clause = m.group(1)
+                clause = clause[clause.rfind("།") + 1:] if "།" in clause else clause
             end = sentence_end(c, m.end() - 1)
             closers.append((bi, idx[end] if end < len(c) else len(b), title_of(clause, a.style)))
 
