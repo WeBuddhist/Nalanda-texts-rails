@@ -17,12 +17,11 @@ differently — each correction becomes a rule in the skill.
 | Title | `# <title> ^0` |
 | Front matter | `## ཀླད་ཀྱི་དོན། ^I-0` — Sanskrit (or Chinese) title, Tibetan title, homage |
 | Body | the text's own announced parts as headings; if none, one heading `## གཞུང་དངོས། ^1-0` |
-| Colophons | `## མཛད་བྱང། ^a-0` (author), `## འགྱུར་བྱང། ^b-0` (translators) |
+| Colophons | `## མཇུག་བྱང། ^a-0`, with `### མཛད་བྱང། ^a-1-0` (author) and `### འགྱུར་བྱང། ^a-2-0` (translators) — the same layout as the commentaries |
 | Verse | one pāda per line, one stanza per block |
 | Prose (new) | one paragraph per block — one point (treatise) or one step (ritual) — on one line; verse quoted inside the prose stays as stanzas |
 
-Verse texts translated from Sanskrit come in two versions: `-sloka` (always 4 lines) and
-`-free` (stanzas by sense). Prose texts have one version: `-prose`.
+Each text has one version: `-free` for verse (stanzas by sense), `-prose` for prose.
 
 ---
 
@@ -45,7 +44,7 @@ Verse texts translated from Sanskrit come in two versions: `-sloka` (always 4 li
 
 ---
 
-## 3. Edge cases — one sample each (`edge-cases/`)
+## 3. Edge cases — one sample each (moved up into this folder, 2026-10-10)
 
 The 440 texts in `0-INBOX/root/` were surveyed for features that the layout rules have to
 handle. Counts are from that survey; one small text per case was processed.
@@ -58,11 +57,11 @@ handle. Counts are from that survey; one small text per case was processed.
 | 4 | **Translated from Chinese** (`རྒྱའི་སྐད་དུ།`) | 2 | `Va_3CET-prose` (ཐེག་པ་ཆེན་པོའི་ཆོས་བརྒྱ་གསལ་བའི་སྒོ) | Chinese title in the front matter; its two announced parts (`ཆོས་ཐམས་ཅད།`, `བདག་མེད་པ།`) as headings |
 | 5 | **Mixed** verse sādhana with mantras | 42 mixed | `At_3CGC-prose` (དཔལ་རྟ་མགྲིན་གྱི་སྒྲུབ་ཐབས།) | mostly stanzas; front matter = title repeated + homage |
 | 6 | Verse in a **long, irregular metre** (recipes) | — | `Na_3CBM-prose` (སྤོས་ཀྱི་སྦྱོར་བ།) | 17-syllable lines that vary 14–19 |
-| 7 | **Long-metre verse** (19 syllables) | 15 | `Na_3C9V-free/-sloka` (དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ།) | stanzas of long lines; mantra lines inside the praise |
-| 8 | 9-syllable verse | 35 | `Va_3CEb_-free/-sloka` (ཚུལ་ཁྲིམས་ཀྱི་གཏམ།) | plain case, for comparison |
-| 9 | **Sections closed inside the text**; translator's own verse after the colophon | 12 | `Na_3CBI-free/-sloka` (སྦྱོར་བ་བརྒྱ་པ། — medical) | 9 sections as headings; section-closing lines as 1-line blocks; translator's dedication kept in `འགྱུར་བྱང།` |
-| 10 | Verse text whose **title says "commentary"** | 2 | `Na_3C9e_-free/-sloka` (བྱང་ཆུབ་སེམས་ཀྱི་འགྲེལ་པ།) | laid out as verse, not as a commentary |
-| 11 | Verse prayer with one gloss-like phrase | — | `Na_3CBR-free/-sloka` (རྡོ་རྗེའི་སྨོན་ལམ།) | earlier mistaken for a commentary; now verse |
+| 7 | **Long-metre verse** (19 syllables) | 15 | `Na_3C9V-free` (དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ།) | stanzas of long lines; mantra lines inside the praise |
+| 8 | 9-syllable verse | 35 | `Va_3CEb_-free` (ཚུལ་ཁྲིམས་ཀྱི་གཏམ།) | plain case, for comparison |
+| 9 | **Sections closed inside the text**; translator's own verse after the colophon | 12 | `Na_3CBI-free` (སྦྱོར་བ་བརྒྱ་པ། — medical) | 9 sections as headings; section-closing lines as 1-line blocks; translator's dedication kept in `འགྱུར་བྱང།` |
+| 10 | Verse text whose **title says "commentary"** | 2 | `Na_3C9e_-free` (བྱང་ཆུབ་སེམས་ཀྱི་འགྲེལ་པ།) | laid out as verse, not as a commentary |
+| 11 | Verse prayer with one gloss-like phrase | — | `Na_3CBR-free` (རྡོ་རྗེའི་སྨོན་ལམ།) | earlier mistaken for a commentary; now verse |
 | 12 | **Very short / fragment** | 25 | `Ch_3CCU-prose` (53 syllables) | one stanza; the same fragment is in the folder three times (`Ch_3CCU`, `Sh_3CCh_`, `Na_3C9x_`) |
 
 Not processed, listed for discussion:

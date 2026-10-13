@@ -1,0 +1,177 @@
+{
+  "Ch_3CCP.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise (title རྡོ་རྗེ་ཕག་མོ་སྒྲོལ་མ་ལ་བསྟོད་པ, refrain སྒྲོལ་མ་ལ་ནི་ཕྱག་འཚལ་བསྟོད), no gloss markers; colophon པཎྜི་ཏ་ཟླ་བ་གྲགས་པས་བསྟོད་པ་མཛད་པ. The 20% overlap with At_3CGJ.md is that sādhana embedding this praise, not a commentary relation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ch_3CCR.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening and colophon present it as a sādhana (རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས) compiled from the tantra (རྒྱུད་ནས་བཏུས་ནས) following received instruction, not an explanation of one text; gloss markers only 0.44/1000.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ch_3CCS.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A sādhana/ritual (བདུད་རྩི་འཁྱིལ་པའི་སྒྲུབ་ཐབས) giving meditation instructions in its own words (བསྒོམ་པར་བྱའོ); colophon calls it བདུད་རྩི་འཁྱིལ་པའི་རྣལ་འབྱོར་དང་བགེགས་བསལ་བའི་ཆོ་ག; no gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ch_3CCU.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A single four-line verse introduced as ཟླ་བ་གྲགས་པས་སྨྲས་པ and closed with གསུང་ངོ, an independent utterance; no gloss markers, no overlap with other files.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ch_3CCV.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise to Avalokiteśvara (ཐུགས་རྗེ་ཆེན་པོ་ལ་སྨྲེ་སྔགས་ཀྱིས་བསྟོད་པ), with supplication and mantras at the close; no gloss markers and no overlap.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ch_3CCX.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "An independent treatise stating its own subject (ཕུང་པོ་སྐྱེ་མཆེད་ཁམས་རྣམས་ཀྱི། །མདོར་བསྡུས་ཡང་དག་མཚན་ཉིད་བརྗོད) and calling itself བསྟན་བཅོས་འདི / རབ་ཏུ་བྱེད་པ in the colophon; low gloss rate (0.62/1000), contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ch_3CCZ.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse treatise on refuge (གསུམ་ལ་སྐྱབས་སུ་འགྲོ་བ་བདུན་ཅུ་པ), 95% metrical, no gloss markers; colophon names it as Candrakīrti's own composition.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ch_3CCc_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Title and opening དབུ་མ་ལ་འཇུག་པའི་ཚིག་ལེའུར་བྱས་པ: verse kārikās (95% metrical), no gloss markers. Its text is found in Ch_3CCe_.md (དབུ་མ་ལ་འཇུག་པའི་བཤད་པ). The mutual ~60% with Ch_3CCd_.md looks like another edition of the same verses.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ch_3CCf_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A short verse treatise that announces its own topic (དབུ་མ་ཤེས་རབ་ལ་འཇུག་པའི་དོན་ནི་བདག་གིས་བཤད་པར་བྱ) rather than another work's words; no gloss markers, no overlap. The colophon names it as Candrakīrti's composition.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCh_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A single four-line dohā-style verse introduced as ཤཱནྟ་དེ་བས་གསུངས་པ and closed with གསུང་ངོ, an independent utterance; no gloss markers, no overlap.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCi_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A single four-line vajra song verse introduced as བྷུ་སུ་ཀུའི་ཞལ་ནས and closed with གསུང་ངོ, an independent utterance; no gloss markers, no overlap.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCj_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse song (ལྷན་ཅིག་སྐྱེས་པའི་གླུ) with a repeated refrain (དཔེ་མེད་མེ་ཏོག་སྐྱེས་ན་ཕྱོགས་ལས་རྒྱལ), no gloss markers; colophon རྣལ་འབྱོར་གྱི་དབང་ཕྱུག་ཤཱནྟ་དེ་བས་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCl_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A short verse sādhana (བདེ་གཤེགས་འཁོར་ལོའི་སྒྲུབ་པའི་ཐབས) describing the maṇḍala in its own words, no gloss markers. Its text is found in Sh_3CCk_.md (བདེ་མཆོག་འཁོར་ལོའི་ཊི་ཀ), which makes this file the root of that ṭīkā.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCm_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ with the author's statement of intent (ལུང་བཞིན་མདོར་བསྡུས་ནས་ནི་བརྗོད་པར་བྱ); 94% metrical, gloss markers 0.04/1000. It contains 79% of Sh_3CCq_.md because that prayer was extracted from this text, not the other way round.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCn_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A ritual (ཡི་གེ་བརྒྱ་པའི་བསྲུང་བ་དང་སྡིག་པ་བཤགས་པའི་ཆོ་ག) giving mantra and practice instructions, no gloss markers. The colophon says it comes from the Śikṣāsamuccaya (བསླབ་པ་ཀུན་ལས་བཏུས་པ་ལས་འབྱུང་བ), and 59% of it is found in Sh_3CCt_.md: an extract, not an explanation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCp_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A divination manual (མོ་རྩིས) that presents its own subject (བསྟན་བཅོས་བཤད་པར་བྱ་སྟེ) with procedures and readings; gloss markers 0.22/1000. The mutual ~50% with Sh_3CCu_.md shows two versions of one divination text rather than a commentary relation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCq_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse aspiration prayer (སྨོན་ལམ), 94% metrical, no gloss markers. The colophon says it is drawn from the Bodhicaryāvatāra (བྱང་ཆུབ་སེམས་དཔའི་སྤྱོད་པ་ལ་འཇུག་པ་ལས་བྱུང་བའི་སྨོན་ལམ), and 79% of it is found in Sh_3CCm_.md: an extract, not a commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCr_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Title and opening བསླབ་པ་ཀུན་ལས་བཏུས་པའི་ཚིག་ལེའུར་བྱས་པ: verse kārikās (89% metrical), no gloss markers. 46% of its text is embedded in Sh_3CCt_.md, the prose Śikṣāsamuccaya.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCs_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Part 1 of the Śikṣāsamuccaya (བསླབ་པ་ཀུན་ལས་བཏུས་པ, chapters marked ལེའུ་ལྔ་པ): a compendium that embeds its own kārikās (e.g. འཇིགས་དང་སྡུག་བསྔལ་མི་འདོད is present) and supports them with long sūtra quotations; gloss markers only 0.4/1000. It cites scripture rather than following one text line by line, though it could be read as an auto-exposition of Sh_3CCr_.md.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCt_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Second part of the Śikṣāsamuccaya: verses are introduced with སྨྲས་པ and elaborated through sūtra citations. The colophon calls the whole work a compilation from many sūtras (བྱང་ཆུབ་སེམས་དཔའི་འདུལ་བ་མདོ་སྡེ་དུ་མ་ལས་བཏུས་པ), not an explanation of a named work; gloss markers 0.49/1000. It contains 46% of Sh_3CCr_.md (its own kārikās) and 59% of Sh_3CCn_.md (a ritual extracted from it).",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCu_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A dice-divination manual (ཤོ་འགྱེད་པའི་མོ་རྩིས) giving procedure and readings in its own words; gloss markers 0.23/1000. The mutual ~50% overlap with Sh_3CCp_.md shows a parallel version of the same divination text, not a commentary relation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCv_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise (བཅོམ་ལྡན་འདས་ལ་བསྟོད་པ་དཔལ་རྡོ་རྗེ་འཛིན་གྱི་དབྱངས), no gloss markers. Its text is found in Sh_3CCw_.md (39%), whose title is truncated in the digest and is probably a commentary on it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCx_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise of eight tathāgatas (དེ་བཞིན་གཤེགས་པ་བརྒྱད་ལ་བསྟོད་པ) with a refrain ending ཕྱག་འཚལ་ལོ, no gloss markers. The 36% overlap with Sh_3CD4.md (a ritual text) is embedding, not a commentary relation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCy_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "An instruction text (ཀུ་རུ་ཀུལླེའི་མན་ངག་ཆེན་པོ་ལྔ) of long verse visualisation instructions and mantras; no gloss markers, no overlap. 'ཀྱེའི་རྡོ་རྗེ་ལས་བྱུང་བ' marks its source tradition, not a work being explained.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CCz_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A torma ritual (གསང་བ་འདུས་པའི་གཏོར་མའི་ཆོ་ག) that states its own purpose (བསྒྲུབ་ཕྱིར་གཏོར་མའི་ཆོ་ག་བཤད) and cites the root tantra (རྩ་བའི་རྒྱུད་ལས) only as support; no gloss markers, no overlap.",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

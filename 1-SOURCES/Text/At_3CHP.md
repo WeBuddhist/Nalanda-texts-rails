@@ -1,27 +1,3 @@
----
-title: རྒྱུ་སྐར་ཉི་ཤུ་རྩ་བརྒྱད་ཀྱི་དབང་བསྐུར་བའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་རྡོ་རྗེ་གོ་ཆ་མ།
-alt_titles:
-  - bo: ""
-  - en: ""
-author: མར་མེ་མཛད་བཟང་པོ།
-author_in_english: Dīpaṅkarabhadra
-translator:
-date:
-language: Tibetan
-script: Unicode Tibetan
-file_type: root-text
-lang_tag: bo
-verse_id_format:
-collected_works: Atisha
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx (17-Atisha)"
-source: https://wb.pub/3CHP
-bdrc_work_id: WA0RT1778
-openpecha_text_id: YTirp0BSY1EyabC1ErnZi
-license: Public Domain Mark
-category_id: yteMP9CDaB50HjkAfiPQg
-category: Tantras / རྒྱུད་སྡེ།
----
-
 ### ༄༅། །རྒྱུ་སྐར་ཉི་ཤུ་རྩ་བརྒྱད་ཀྱི་དབང་བསྐུར་བའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་རྡོ་རྗེ་གོ་ཆ་མ།
 
 ༄༅། །དཔལ་རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ལ་ཕྱག་འཚལ་ལོ། །རྒྱུ་སྐར་ཉི་ཤུ་རྩ་བརྒྱད་ཀྱི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བར་འདོད་པའི་སྒྲུབ་པ་པོ་དམ་ཚིག་དང་ལྡན་པས་གནས་ཁང་ཡིད་དང་མཐུན་པར་མེ་ཏོག་སིལ་མ་བཀྲམ་ལ་ས་ཆོག་ལ་སོགས་པ་སྔོན་དུ་སོང་བས་རྒྱུ་སྐར་རྣམས་ཀྱི་དཀྱིལ་འཁོར་བཞེངས་ཏེ་དབུས་པདྨ་འདབ་བརྒྱད་ལ་དཀར་པོ་ལྟེ་བ་སྔོན་པོ། མུ་ཁྱུད་པདྨའི་ཕྲེང་བས་མཛེས་པར་བསྐོར་བ། ཁྱམས་དར༌[^1]དམར་པོ་ལ་ཤར་ནས་བརྩམས་ནས་སྣ་ཚོགས་ཡིད་དུ་འོང་བའི་ཁང་བུ་བདུན་བདུན་གྱིས་བསྐོར་བ་སྒོ་བཞི་མུ་ཁྱུད་སྣ་ཚོགས་སྐར་མའི་འོད་འཁྲུག་པ་བྲིའོ། །

@@ -1,27 +1,3 @@
----
-title: གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ།
-alt_titles:
-  - bo: ""
-  - en: ""
-author:
-author_in_english:
-translator:
-date:
-language: Tibetan
-script: Unicode Tibetan
-file_type: root-text
-lang_tag: bo
-verse_id_format:
-collected_works: Dignaga
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 75) ཕྱོགས་གླང་གི་གསུང་འབུམ། ཀ༽ .docx (11-Dignaga)"
-source: https://wb.pub/3CEi
-bdrc_work_id:
-openpecha_text_id:
-license:
-category_id:
-category:
----
-
 ## ༄༅། །གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ།
 
 ༄༅༅། །ཕྱོགས་ཀྱི་གླང་པོས་སྨྲས་པ།

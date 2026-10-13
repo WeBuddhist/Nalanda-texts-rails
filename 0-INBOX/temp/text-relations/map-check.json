@@ -1,0 +1,1424 @@
+{
+ "section_a": [
+  {
+   "root": "Na_3C97.md",
+   "kind": "commentary",
+   "file": "Na_3C98.md",
+   "note": "སྐུ་གསུམ་ལ་བསྟོད་པ་ཞེས་བྱ་བའི་རྣམ་པར་འགྲེལ་པ།",
+   "root_found_in_it": 0.4,
+   "it_found_in_root": 0.05,
+   "best_other": [
+    [
+     "As_3CDz_.md",
+     0.1
+    ],
+    [
+     "Na_3CAx_.md",
+     0.08
+    ]
+   ]
+  },
+  {
+   "root": "Na_3C9e_.md",
+   "kind": "commentary",
+   "file": "Na_3C9f_.md",
+   "note": "བྱང་ཆུབ་སེམས་ཀྱི་འགྲེལ་པ། — prose commentary quoting the verses",
+   "root_found_in_it": 0.02,
+   "it_found_in_root": 0.04,
+   "best_other": [
+    [
+     "Ka_3CDN.md",
+     0.24
+    ],
+    [
+     "Va_3CET.md",
+     0.05
+    ]
+   ]
+  },
+  {
+   "root": "Na_3C9e_.md",
+   "kind": "commentary",
+   "file": "Na_3C9g_.md",
+   "note": "བྱང་ཆུབ་སེམས་ཀྱི་འགྲེལ་པའི་རྣམ་པར་བཤད་པ། — sub-commentary",
+   "root_found_in_it": 0.08,
+   "it_found_in_root": 0.02,
+   "best_other": [
+    [
+     "Na_3C9f_.md",
+     0.13
+    ],
+    [
+     "Na_3CBA.md",
+     0.11
+    ]
+   ]
+  },
+  {
+   "root": "Na_3C9h_.md",
+   "kind": "commentary",
+   "file": "Bh_3CCG.md",
+   "note": "རིམ་པ་ལྔ་པའི་དཀའ་འགྲེལ།",
+   "root_found_in_it": 0.03,
+   "it_found_in_root": 0.05,
+   "best_other": [
+    [
+     "Na_3CA2.md",
+     0.08
+    ],
+    [
+     "At_3CFq_.md",
+     0.07
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAZ.md",
+   "kind": "commentary",
+   "file": "Na_3CAa_.md",
+   "note": "གནོད་སྦྱིན་མ་ཀུན་ནས་འཁྱིལ་པའི་གྭ་ཐབས་ཀྱི་དོན་བསྡུས་པའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.05,
+   "it_found_in_root": 0.02,
+   "best_other": [
+    [
+     "Sh_3CCl_.md",
+     0.04
+    ],
+    [
+     "Va_3CE0.md",
+     0.03
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAk_.md",
+   "kind": "commentary",
+   "file": "Na_3CAp_.md",
+   "note": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་ག་ལས་འཇིགས་མེད། — Akutobhayā",
+   "root_found_in_it": 0.73,
+   "it_found_in_root": 0.23,
+   "best_other": [
+    [
+     "Bu_3CCC.md",
+     0.34
+    ],
+    [
+     "Na_3CAv_.md",
+     0.21
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAk_.md",
+   "kind": "commentary",
+   "file": "Bu_3CCC.md",
+   "note": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྷ་པཱ་ལི་ཏ། — Buddhapālita’s commentary",
+   "root_found_in_it": 0.73,
+   "it_found_in_root": 0.13,
+   "best_other": [
+    [
+     "Na_3CAp_.md",
+     0.59
+    ],
+    [
+     "Na_3CAs_.md",
+     0.24
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAk_.md",
+   "kind": "commentary",
+   "file": "Bh_3CCL.md",
+   "note": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཤེས་རབ་སྒྲོན་མ། — Prajñāpradīpa",
+   "root_found_in_it": 0.66,
+   "it_found_in_root": 0.07,
+   "best_other": [
+    [
+     "Na_3CAp_.md",
+     0.49
+    ],
+    [
+     "Bu_3CCC.md",
+     0.35
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAk_.md",
+   "kind": "commentary",
+   "file": "Ch_3CCb_.md",
+   "note": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཚིག་གསལ་བ། — Prasannapadā",
+   "root_found_in_it": 0.79,
+   "it_found_in_root": 0.09,
+   "best_other": [
+    [
+     "Na_3CAp_.md",
+     0.41
+    ],
+    [
+     "Na_3C9f_.md",
+     0.32
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAl_.md",
+   "kind": "commentary",
+   "file": "Ch_3CCW.md",
+   "note": "རིགས་པ་དྲུག་ཅུ་པའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.46,
+   "it_found_in_root": 0.04,
+   "best_other": [
+    [
+     "As_3CDz_.md",
+     0.14
+    ],
+    [
+     "Na_3CBA.md",
+     0.13
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAm_.md",
+   "kind": "commentary",
+   "file": "Na_3CAq_.md",
+   "note": "ཞིབ་མོ་རྣམ་པར་འཐག་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ། — Vaidalyaprakaraṇa, auto-commentary",
+   "root_found_in_it": 0.52,
+   "it_found_in_root": 0.08,
+   "best_other": [
+    [
+     "Na_3CAv_.md",
+     0.14
+    ],
+    [
+     "Na_3CAz_.md",
+     0.1
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAn_.md",
+   "kind": "commentary",
+   "file": "Na_3CAs_.md",
+   "note": "སྟོང་པ་ཉིད་བདུན་ཅུ་པའི་འགྲེལ་པ། — auto-commentary",
+   "root_found_in_it": 0.33,
+   "it_found_in_root": 0.09,
+   "best_other": [
+    [
+     "Na_3CAv_.md",
+     0.11
+    ],
+    [
+     "Na_3CA2.md",
+     0.08
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAn_.md",
+   "kind": "commentary",
+   "file": "Ch_3CCY.md",
+   "note": "སྟོང་ཉིད་བདུན་ཅུ་པའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.46,
+   "it_found_in_root": 0.02,
+   "best_other": [
+    [
+     "Na_3CAs_.md",
+     0.22
+    ],
+    [
+     "Na_3C9f_.md",
+     0.19
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAo_.md",
+   "kind": "commentary",
+   "file": "Na_3CAt_.md",
+   "note": "རྩོད་པ་བཟློག་པའི་འགྲེལ་པ། — auto-commentary",
+   "root_found_in_it": 0.58,
+   "it_found_in_root": 0.13,
+   "best_other": [
+    [
+     "Na_3CAv_.md",
+     0.11
+    ],
+    [
+     "Va_3CET.md",
+     0.09
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAv_.md",
+   "kind": "commentary",
+   "file": "Na_3CAw_.md",
+   "note": "ཡི་གེ་བརྒྱ་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.47,
+   "it_found_in_root": 0.01,
+   "best_other": [
+    [
+     "Na_3CAm_.md",
+     0.1
+    ],
+    [
+     "Na_3CAz_.md",
+     0.1
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CAx_.md",
+   "kind": "commentary",
+   "file": "Na_3CAy_.md",
+   "note": "རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་སྙིང་པོའི་རྣམ་པར་བཤད་པ། — auto-commentary",
+   "root_found_in_it": 0.68,
+   "it_found_in_root": 0.11,
+   "best_other": [
+    [
+     "Na_3C95.md",
+     0.07
+    ],
+    [
+     "Na_3CBA.md",
+     0.07
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CB4.md",
+   "kind": "commentary",
+   "file": "At_3CGw_.md",
+   "note": "མདོ་ཀུན་ལས་བཏུས་པའི་དོན་བསྡུས་པ། — summary",
+   "root_found_in_it": 0.01,
+   "it_found_in_root": 0.14,
+   "best_other": [
+    [
+     "Na_3C9y_.md",
+     0.05
+    ],
+    [
+     "At_3CHE.md",
+     0.05
+    ]
+   ]
+  },
+  {
+   "root": "Na_3CBB.md",
+   "kind": "commentary",
+   "file": "Sh_3CFa_.md",
+   "note": "འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་འོད་ལྡན། — Prabhāvatī",
+   "root_found_in_it": 0.71,
+   "it_found_in_root": 0.11,
+   "best_other": [
+    [
+     "Sh_3CFZ.md",
+     0.72
+    ],
+    [
+     "Na_3CBC.md",
+     0.15
+    ]
+   ]
+  },
+  {
+   "root": "Ar_3CBz_.md",
+   "kind": "commentary",
+   "file": "Ar_3CC0.md",
+   "note": "ཆ་ཤས་ཀྱི་ཡན་ལག་ཅེས་བྱ་བའི་རབ་ཏུ་བྱེད་པའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.73,
+   "it_found_in_root": 0.15,
+   "best_other": [
+    [
+     "Ar_3CC4.md",
+     0.62
+    ],
+    [
+     "Ar_3CC3.md",
+     0.58
+    ]
+   ]
+  },
+  {
+   "root": "Ar_3CC1.md",
+   "kind": "commentary",
+   "file": "Ch_3CCg_.md",
+   "note": "བྱང་ཆུབ་སེམས་དཔའི་རྣལ་འབྱོར་སྤྱོད་པ་བཞི་བརྒྱ་པའི་རྒྱ་ཆེར་འགྲེལ་པ།",
+   "root_found_in_it": 0.73,
+   "it_found_in_root": 0.06,
+   "best_other": [
+    [
+     "Na_3C9f_.md",
+     0.3
+    ],
+    [
+     "Na_3CAw_.md",
+     0.28
+    ]
+   ]
+  },
+  {
+   "root": "Ar_3CC3.md",
+   "kind": "commentary",
+   "file": "Ar_3CC4.md",
+   "note": "ལག་པའི་ཚད་ཀྱི་འགྲེལ་པ།",
+   "root_found_in_it": 0.63,
+   "it_found_in_root": 0.11,
+   "best_other": [
+    [
+     "Ar_3CC0.md",
+     0.6
+    ],
+    [
+     "Ar_3CBz_.md",
+     0.48
+    ]
+   ]
+  },
+  {
+   "root": "Bh_3CCI.md",
+   "kind": "commentary",
+   "file": "Bh_3CCM.md",
+   "note": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ། — Tarkajvālā, part 1",
+   "root_found_in_it": 0.37,
+   "it_found_in_root": 0.12,
+   "best_other": [
+    [
+     "Bh_3CCK.md",
+     0.85
+    ],
+    [
+     "Ar_3CC5.md",
+     0.74
+    ]
+   ]
+  },
+  {
+   "root": "Bh_3CCI.md",
+   "kind": "commentary",
+   "file": "Bh_3CCN.md",
+   "note": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ། — Tarkajvālā, part 2",
+   "root_found_in_it": 0.49,
+   "it_found_in_root": 0.15,
+   "best_other": [
+    [
+     "Na_3CAv_.md",
+     0.26
+    ],
+    [
+     "Na_3C9f_.md",
+     0.25
+    ]
+   ]
+  },
+  {
+   "root": "Ch_3CCa_.md",
+   "kind": "commentary",
+   "file": "Ar_3CBb_.md",
+   "note": "སྒྲོན་མ་གསལ་བ་ཞེས་བྱ་བའི་འགྲེལ་བཤད།",
+   "root_found_in_it": 0.06,
+   "it_found_in_root": 0.19,
+   "best_other": [
+    [
+     "Na_3CBA.md",
+     0.14
+    ],
+    [
+     "Na_3C9f_.md",
+     0.14
+    ]
+   ]
+  },
+  {
+   "root": "Ch_3CCa_.md",
+   "kind": "commentary",
+   "file": "Bh_3CCD.md",
+   "note": "སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་བཤད་པའི་ཊཱི་ཀཱ། སྟོད་ཆ། — part 1",
+   "root_found_in_it": 0.13,
+   "it_found_in_root": 0.12,
+   "best_other": [
+    [
+     "Ch_3CCQ.md",
+     0.27
+    ],
+    [
+     "Na_3CAH.md",
+     0.26
+    ]
+   ]
+  },
+  {
+   "root": "Ch_3CCa_.md",
+   "kind": "commentary",
+   "file": "Bh_3CCE.md",
+   "note": "སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་བཤད་པའི་ཊཱི་ཀཱ། བར་ཆ། — part 2",
+   "root_found_in_it": 0.16,
+   "it_found_in_root": 0.17,
+   "best_other": [
+    [
+     "Ch_3CCQ.md",
+     0.27
+    ],
+    [
+     "Na_3C9b_.md",
+     0.25
+    ]
+   ]
+  },
+  {
+   "root": "Ch_3CCa_.md",
+   "kind": "commentary",
+   "file": "Bh_3CCF.md",
+   "note": "སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དཀའ་བ་བཏུས་པའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.02,
+   "it_found_in_root": 0.28,
+   "best_other": [
+    [
+     "Na_3CAH.md",
+     0.11
+    ],
+    [
+     "Bh_3CCG.md",
+     0.09
+    ]
+   ]
+  },
+  {
+   "root": "Ch_3CCc_.md",
+   "kind": "translation",
+   "file": "Ch_3CCd_.md",
+   "note": "དབུ་མ་ལ་འཇུག་པ་ཞེས་བྱ་བ་བཞུགས་སོ། ། — alternate Tibetan translation",
+   "root_found_in_it": 0.65,
+   "it_found_in_root": 0.63,
+   "best_other": [
+    [
+     "Ch_3CCe_.md",
+     0.13
+    ],
+    [
+     "Na_3C97.md",
+     0.07
+    ]
+   ]
+  },
+  {
+   "root": "Ch_3CCc_.md",
+   "kind": "commentary",
+   "file": "Ch_3CCe_.md",
+   "note": "དབུ་མ་ལ་འཇུག་པའི་བཤད་པ། — auto-commentary (bhāṣya)",
+   "root_found_in_it": 0.62,
+   "it_found_in_root": 0.1,
+   "best_other": [
+    [
+     "Ch_3CCd_.md",
+     0.81
+    ],
+    [
+     "Na_3C9f_.md",
+     0.27
+    ]
+   ]
+  },
+  {
+   "root": "Sh_3CCv_.md",
+   "kind": "commentary",
+   "file": "Sh_3CCw_.md",
+   "note": "བཅོམ་ལྡན་འདས་ལ་བསྟོད་པ་དཔལ་རྡོ་རྗེ་འཛིན་གྱི་དབྱངས་ཀྱི་རྒྱ་ཆེར་བཤད་པ།",
+   "root_found_in_it": 0.47,
+   "it_found_in_root": 0.03,
+   "best_other": [
+    [
+     "Na_3CBA.md",
+     0.08
+    ],
+    [
+     "Na_3CA2.md",
+     0.07
+    ]
+   ]
+  },
+  {
+   "root": "Sh_3CDA.md",
+   "kind": "commentary",
+   "file": "Sh_3CDB.md",
+   "note": "དབུ་མའི་རྒྱན་གྱི་འགྲེལ་པ། — auto-commentary",
+   "root_found_in_it": 0.78,
+   "it_found_in_root": 0.11,
+   "best_other": [
+    [
+     "As_3CDh_.md",
+     0.13
+    ],
+    [
+     "Na_3CAz_.md",
+     0.13
+    ]
+   ]
+  },
+  {
+   "root": "Sh_3CDA.md",
+   "kind": "commentary",
+   "file": "Ka_3CDJ.md",
+   "note": "དབུ་མའི་རྒྱན་གྱི་དཀའ་འགྲེལ། — Pañjikā",
+   "root_found_in_it": 0.17,
+   "it_found_in_root": 0.01,
+   "best_other": [
+    [
+     "Ka_3CDM.md",
+     0.19
+    ],
+    [
+     "Sh_3CDB.md",
+     0.19
+    ]
+   ]
+  },
+  {
+   "root": "Sh_3CDE.md",
+   "kind": "commentary",
+   "file": "Ka_3CDZ.md",
+   "note": "དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་དཀའ་འགྲེལ།༼སྟོད་ཆ།༽ — Pañjikā, part 1",
+   "root_found_in_it": 0.08,
+   "it_found_in_root": 0.07,
+   "best_other": [
+    [
+     "Na_3CAm_.md",
+     0.31
+    ],
+    [
+     "Ka_3CDX.md",
+     0.3
+    ]
+   ]
+  },
+  {
+   "root": "Sh_3CDE.md",
+   "kind": "commentary",
+   "file": "Ka_3CDa_.md",
+   "note": "དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་དཀའ་འགྲེལ།༼བར་ཆ།༽ — Pañjikā, part 2",
+   "root_found_in_it": 0.08,
+   "it_found_in_root": 0.07,
+   "best_other": [
+    [
+     "Ka_3CDX.md",
+     0.3
+    ],
+    [
+     "Dh_3CF7.md",
+     0.29
+    ]
+   ]
+  },
+  {
+   "root": "Sh_3CDE.md",
+   "kind": "commentary",
+   "file": "Ka_3CDb_.md",
+   "note": "དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་དཀའ་འགྲེལ།སྨད་ཆ། — Pañjikā, part 3",
+   "root_found_in_it": 0.09,
+   "it_found_in_root": 0.08,
+   "best_other": [
+    [
+     "Dh_3CF7.md",
+     0.31
+    ],
+    [
+     "Ka_3CDX.md",
+     0.3
+    ]
+   ]
+  },
+  {
+   "root": "As_3CDk_.md",
+   "kind": "commentary",
+   "file": "Va_3CEV.md",
+   "note": "དོན་གསང་བ་རྣམ་པར་ཕྱེ་བ་བསྡུས་ཏེ་བཤད་པ། — Vivṛtaguhyārthapiṇḍavyākhyā",
+   "root_found_in_it": 0.07,
+   "it_found_in_root": 0.08,
+   "best_other": [
+    [
+     "As_3CDz_.md",
+     0.17
+    ],
+    [
+     "As_3CDh_.md",
+     0.16
+    ]
+   ]
+  },
+  {
+   "root": "As_3CDn_.md",
+   "kind": "commentary",
+   "file": "Gu_3CFP.md",
+   "note": "བྱང་ཆུབ་སེམས་དཔའི་སའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.07,
+   "it_found_in_root": 0.25,
+   "best_other": [
+    [
+     "Va_3CE8.md",
+     0.19
+    ],
+    [
+     "Va_3CE7.md",
+     0.19
+    ]
+   ]
+  },
+  {
+   "root": "As_3CDn_.md",
+   "kind": "commentary",
+   "file": "Gu_3CFQ.md",
+   "note": "༄། །བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུའི་འགྲེལ་པ་བཞུགས་སོ། ། — on the ethics chapter",
+   "root_found_in_it": 0.02,
+   "it_found_in_root": 0.32,
+   "best_other": [
+    [
+     "As_3CDh_.md",
+     0.08
+    ],
+    [
+     "Na_3CA2.md",
+     0.08
+    ]
+   ]
+  },
+  {
+   "root": "As_3CDu_.md",
+   "kind": "commentary",
+   "file": "Va_3CEH.md",
+   "note": "ཐེག་པ་ཆེན་པོ་བསྡུས་པའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.29,
+   "it_found_in_root": 0.17,
+   "best_other": [
+    [
+     "Va_3CE7.md",
+     0.24
+    ],
+    [
+     "As_3CDz_.md",
+     0.23
+    ]
+   ]
+  },
+  {
+   "root": "Va_3CEM.md",
+   "kind": "commentary",
+   "file": "Va_3CEN.md",
+   "note": "ཉི་ཤུ་པའི་འགྲེལ་པ། — auto-commentary",
+   "root_found_in_it": 0.66,
+   "it_found_in_root": 0.1,
+   "best_other": [
+    [
+     "Va_3CEd_.md",
+     0.08
+    ],
+    [
+     "Va_3CE0.md",
+     0.07
+    ]
+   ]
+  },
+  {
+   "root": "Va_3CEP.md",
+   "kind": "commentary",
+   "file": "Va_3CEW.md",
+   "note": "ཕུང་པོ་ལྔའི་བཤད་པ། — by Sthiramati per colophon",
+   "root_found_in_it": 0.5,
+   "it_found_in_root": 0.03,
+   "best_other": [
+    [
+     "Va_3CET.md",
+     0.25
+    ],
+    [
+     "Gu_3CFR.md",
+     0.24
+    ]
+   ]
+  },
+  {
+   "root": "Va_3CEP.md",
+   "kind": "commentary",
+   "file": "Gu_3CFR.md",
+   "note": "ཕུང་པོ་ལྔའི་རྣམ་པར་འགྲེལ་པ།",
+   "root_found_in_it": 0.65,
+   "it_found_in_root": 0.12,
+   "best_other": [
+    [
+     "Va_3CET.md",
+     0.21
+    ],
+    [
+     "Na_3CBA.md",
+     0.17
+    ]
+   ]
+  },
+  {
+   "root": "Va_3CEX.md",
+   "kind": "commentary",
+   "file": "Va_3CEJ.md",
+   "note": "ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། — Bhāṣya, part 1",
+   "root_found_in_it": 0.29,
+   "it_found_in_root": 0.05,
+   "best_other": [
+    [
+     "Di_3CEo_.md",
+     0.37
+    ],
+    [
+     "Va_3CEP.md",
+     0.29
+    ]
+   ]
+  },
+  {
+   "root": "Va_3CEX.md",
+   "kind": "commentary",
+   "file": "Va_3CEK.md",
+   "note": "ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། ༼སྨད་ཆ།༽ — Bhāṣya, part 2",
+   "root_found_in_it": 0.39,
+   "it_found_in_root": 0.07,
+   "best_other": [
+    [
+     "Di_3CEo_.md",
+     0.44
+    ],
+    [
+     "As_3CDi_.md",
+     0.25
+    ]
+   ]
+  },
+  {
+   "root": "Va_3CEX.md",
+   "kind": "commentary",
+   "file": "Di_3CEo_.md",
+   "note": "ཆོས་མངོན་པའི་འགྲེལ་པ་གནད་ཀྱི་སྒྲོན་མ། — Marmapradīpa",
+   "root_found_in_it": 0.65,
+   "it_found_in_root": 0.14,
+   "best_other": [
+    [
+     "Va_3CEK.md",
+     0.34
+    ],
+    [
+     "Va_3CEJ.md",
+     0.3
+    ]
+   ]
+  },
+  {
+   "root": "Va_3CEY.md",
+   "kind": "commentary",
+   "file": "Va_3CEZ.md",
+   "note": "ཚིགས་སུ་བཅད་པའི་དོན་བསྡུས་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས། — auto-commentary",
+   "root_found_in_it": 0.85,
+   "it_found_in_root": 0.03,
+   "best_other": [
+    [
+     "Va_3CE6.md",
+     0.73
+    ],
+    [
+     "As_3CDh_.md",
+     0.19
+    ]
+   ]
+  },
+  {
+   "root": "Di_3CEq_.md",
+   "kind": "translation",
+   "file": "Di_3CEp_.md",
+   "note": "ཚད་མ་ཀུན་ལས་བཏུས་པ་ཞེས་བྱ་བའི་མདོ་བཞུགས་སོ། ། — alternate Tibetan translation",
+   "root_found_in_it": 0.18,
+   "it_found_in_root": 0.17,
+   "best_other": [
+    [
+     "Di_3CEr_.md",
+     0.09
+    ],
+    [
+     "Ar_3CBz_.md",
+     0.09
+    ]
+   ]
+  },
+  {
+   "root": "Di_3CEq_.md",
+   "kind": "commentary",
+   "file": "Di_3CEr_.md",
+   "note": "ཚད་མ་ཀུན་ལས་བཏུས་པའི་འགྲེལ་པ། — auto-commentary (vṛtti)",
+   "root_found_in_it": 0.18,
+   "it_found_in_root": 0.03,
+   "best_other": [
+    [
+     "Di_3CEp_.md",
+     0.55
+    ],
+    [
+     "Na_3CAv_.md",
+     0.24
+    ]
+   ]
+  },
+  {
+   "root": "Di_3CEs_.md",
+   "kind": "commentary",
+   "file": "Di_3CEt_.md",
+   "note": "དམིགས་པ་བརྟག་པའི་འགྲེལ་པ། — auto-commentary",
+   "root_found_in_it": 0.62,
+   "it_found_in_root": 0.15,
+   "best_other": [
+    [
+     "At_3CHE.md",
+     0.04
+    ],
+    [
+     "At_3CH6.md",
+     0.03
+    ]
+   ]
+  },
+  {
+   "root": "Dh_3CF5.md",
+   "kind": "commentary",
+   "file": "Dh_3CFB.md",
+   "note": "ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ། — auto-commentary on ch. 1",
+   "root_found_in_it": 0.18,
+   "it_found_in_root": 0.11,
+   "best_other": [
+    [
+     "Na_3CAv_.md",
+     0.3
+    ],
+    [
+     "Dh_3CF7.md",
+     0.26
+    ]
+   ]
+  },
+  {
+   "root": "Dh_3CF7.md",
+   "kind": "commentary",
+   "file": "Ka_3CDX.md",
+   "note": "རིགས་པའི་ཐིགས་པའི་ཕྱོགས་སྔ་མ་མདོར་བསྡུས་པ། — digest of opponents’ positions",
+   "root_found_in_it": 0.1,
+   "it_found_in_root": 0.09,
+   "best_other": [
+    [
+     "Na_3CAv_.md",
+     0.09
+    ],
+    [
+     "Na_3CA2.md",
+     0.07
+    ]
+   ]
+  },
+  {
+   "root": "Dh_3CF9.md",
+   "kind": "commentary",
+   "file": "Dh_3CFA.md",
+   "note": "འབྲེལ་པ་བརྟག་པའི་འགྲེལ་པ། — auto-commentary",
+   "root_found_in_it": 0.28,
+   "it_found_in_root": 0.05,
+   "best_other": [
+    [
+     "As_3CDh_.md",
+     0.05
+    ],
+    [
+     "Na_3CAm_.md",
+     0.05
+    ]
+   ]
+  },
+  {
+   "root": "Dh_3CFC.md",
+   "kind": "commentary",
+   "file": "Sh_3CDD.md",
+   "note": "རྩོད་པའི་རིགས་པའི་འགྲེལ་པ་དོན་རྣམ་པར་འབྱེད་པ། — Vipañcitārthā",
+   "root_found_in_it": 0.31,
+   "it_found_in_root": 0.1,
+   "best_other": [
+    [
+     "Na_3CAm_.md",
+     0.27
+    ],
+    [
+     "Dh_3CF7.md",
+     0.26
+    ]
+   ]
+  },
+  {
+   "root": "Gu_3CFS.md",
+   "kind": "commentary",
+   "file": "Gu_3CFU.md",
+   "note": "འདུལ་བའི་མདོའི་འགྲེལ་པ་མངོན་པར་བརྗོད་པ་རང་གི་རྣམ་པར་བཤད་པ། ༼དེབ་དང་པོ།༽ — auto-commentary, vol. 1",
+   "root_found_in_it": 0.26,
+   "it_found_in_root": 0.15,
+   "best_other": [
+    [
+     "Na_3CAv_.md",
+     0.21
+    ],
+    [
+     "At_3CH9.md",
+     0.19
+    ]
+   ]
+  },
+  {
+   "root": "Gu_3CFS.md",
+   "kind": "commentary",
+   "file": "Gu_3CFV.md",
+   "note": "འདུལ་བའི་མདོའི་འགྲེལ་པ་མངོན་པར་བརྗོད་པ་རང་གི་རྣམ་པར་བཤད་པ། ༼དེབ་གཉིས་པ།༽ — auto-commentary, vol. 2",
+   "root_found_in_it": 0.28,
+   "it_found_in_root": 0.17,
+   "best_other": [
+    [
+     "At_3CHD.md",
+     0.17
+    ],
+    [
+     "At_3CH9.md",
+     0.16
+    ]
+   ]
+  },
+  {
+   "root": "Gu_3CFS.md",
+   "kind": "commentary",
+   "file": "Gu_3CFW.md",
+   "note": "འདུལ་བའི་མདོའི་འགྲེལ་པ་མངོན་པར་བརྗོད་པ་རང་གི་རྣམ་པར་བཤད་པ། ༼དེབ་གསུམ་པ།༽ — auto-commentary, vol. 3",
+   "root_found_in_it": 0.28,
+   "it_found_in_root": 0.19,
+   "best_other": [
+    [
+     "At_3CHD.md",
+     0.21
+    ],
+    [
+     "At_3CH9.md",
+     0.16
+    ]
+   ]
+  },
+  {
+   "root": "Gu_3CFS.md",
+   "kind": "commentary",
+   "file": "Gu_3CFX.md",
+   "note": "འདུལ་བའི་མདོའི་འགྲེལ་པ། ༼སྟོད་ཆ།༽ — part 1",
+   "root_found_in_it": 0.07,
+   "it_found_in_root": 0.04,
+   "best_other": [
+    [
+     "At_3CHD.md",
+     0.11
+    ],
+    [
+     "Na_3CBC.md",
+     0.09
+    ]
+   ]
+  },
+  {
+   "root": "Gu_3CFS.md",
+   "kind": "commentary",
+   "file": "Gu_3CFY.md",
+   "note": "འདུལ་བའི་མདོའི་འགྲེལ་པ། ༼སྨད་ཆ།༽ — part 2",
+   "root_found_in_it": 0.07,
+   "it_found_in_root": 0.04,
+   "best_other": [
+    [
+     "At_3CH9.md",
+     0.11
+    ],
+    [
+     "At_3CHD.md",
+     0.1
+    ]
+   ]
+  },
+  {
+   "root": "At_3CFh_.md",
+   "kind": "commentary",
+   "file": "At_3CFi_.md",
+   "note": "རྡོ་རྗེ་གདན་གྱི་རྡོ་རྗེའི་གླུའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.32,
+   "it_found_in_root": 0.08,
+   "best_other": [
+    [
+     "At_3CH0.md",
+     0.11
+    ],
+    [
+     "At_3CFk_.md",
+     0.09
+    ]
+   ]
+  },
+  {
+   "root": "At_3CFj_.md",
+   "kind": "commentary",
+   "file": "At_3CFk_.md",
+   "note": "སྤྱོད་པའི་གླུའི་འགྲེལ་པ།",
+   "root_found_in_it": 0.14,
+   "it_found_in_root": 0.09,
+   "best_other": [
+    [
+     "As_3CDh_.md",
+     0.05
+    ],
+    [
+     "Na_3C95.md",
+     0.05
+    ]
+   ]
+  },
+  {
+   "root": "At_3CGy_.md",
+   "kind": "commentary",
+   "file": "At_3CGz_.md",
+   "note": "བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མའི་དཀའ་འགྲེལ། — auto-commentary (Pañjikā)",
+   "root_found_in_it": 0.35,
+   "it_found_in_root": 0.02,
+   "best_other": [
+    [
+     "At_3CH3.md",
+     0.25
+    ],
+    [
+     "At_3CHC.md",
+     0.22
+    ]
+   ]
+  }
+ ],
+ "section_b": [
+  {
+   "file": "Na_3C9L.md",
+   "title": "དགོངས་པའི་སྐད་ཀྱི་འགྲེལ་པ།",
+   "comments_on": "symbolic language (sandhyābhāṣā) of the tantras"
+  },
+  {
+   "file": "Na_3C9Z.md",
+   "title": "ལེའུ་བཅོ་བརྒྱད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།",
+   "comments_on": "Guhyasamāja Tantra, ch. 18"
+  },
+  {
+   "file": "Na_3C9l_.md",
+   "title": "དཔལ་གསང་བ་འདུས་པའི་རྒྱུད་ཀྱི་རྒྱུད་འགྲེལ།༼སྟོད་ཆ།༽",
+   "comments_on": "Guhyasamāja Tantra (part 1)"
+  },
+  {
+   "file": "Na_3C9m_.md",
+   "title": "དཔལ་གསང་བ་འདུས་པའི་རྒྱུད་ཀྱི་རྒྱུད་འགྲེལ།༼སྨད་ཆ།༽",
+   "comments_on": "Guhyasamāja Tantra (part 2)"
+  },
+  {
+   "file": "Na_3C9q_.md",
+   "title": "འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་ཅན་གྱི་སྒྲུབ་ཐབས་ཀྱི་མན་ངག་རྒྱ་ཆེར་བཤད་པའི་འགྲེལ་པ།",
+   "comments_on": "Nīlāmbara-Vajrapāṇi sādhana instructions"
+  },
+  {
+   "file": "Na_3CA4.md",
+   "title": "འཕགས་པ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་པོ་ཅན་གྱི་ཆོ་ག་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་འགྲེལ་པ།",
+   "comments_on": "Nīlāmbara-Vajrapāṇi ritual dhāraṇī"
+  },
+  {
+   "file": "Na_3CB7.md",
+   "title": "འཕགས་པ་སཱ་ལུ་ལྗང་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོའི་རྒྱ་ཆེར་བཤད་པ།",
+   "comments_on": "Śālistamba Sūtra (cf. verse version Na_3CB6)"
+  },
+  {
+   "file": "Na_3CB8.md",
+   "title": "བྱང་ཆུབ་ཀྱི་ལྟུང་བ་བཤགས་པའི་འགྲེལ་པ།",
+   "comments_on": "Bodhisattva confession of downfalls (Triskandha)"
+  },
+  {
+   "file": "Na_3CB9.md",
+   "title": "འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ་ཆེན་པོའི་བཤད་སྦྱར།",
+   "comments_on": "Bhadracaryāpraṇidhāna"
+  },
+  {
+   "file": "Na_3CBA.md",
+   "title": "འཕགས་པ་ཆོས་ཀྱི་དབྱིངས་ཀྱི་སྙིང་པོའི་རྣམ་པར་འགྲེལ་པ།",
+   "comments_on": "the “ye dharmā…” verse"
+  },
+  {
+   "file": "Ar_3CBd_.md",
+   "title": "དཔལ་གདན་བཞི་པའི་ཟབ་དོན་སྟོན་པ་ཤིང་གཅིག་གི་དཀའ་འགྲེལ་བཞུགས།",
+   "comments_on": "Catuḥpīṭha Tantra"
+  },
+  {
+   "file": "Ch_3CCa_.md",
+   "title": "སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ།",
+   "comments_on": "Guhyasamāja Tantra"
+  },
+  {
+   "file": "Ch_3CCQ.md",
+   "title": "སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།",
+   "comments_on": "Ṣaḍaṅgayoga (six-branch yoga)"
+  },
+  {
+   "file": "Ch_3CCT.md",
+   "title": "གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ།",
+   "comments_on": "Nāgabuddhi’s Guhyasamājābhisamayālaṃkāra"
+  },
+  {
+   "file": "Sh_3CCk_.md",
+   "title": "བདེ་མཆོག་འཁོར་ལོའི་ཊི་ཀ།",
+   "comments_on": "Cakrasaṃvara Tantra"
+  },
+  {
+   "file": "Sh_3CCo_.md",
+   "title": "འཕགས་པ་འདའ་ཀ་ཡེ་ཤེས་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོའི་འགྲེལ་པ།",
+   "comments_on": "Ātajñāna Sūtra"
+  },
+  {
+   "file": "Sh_3CD0.md",
+   "title": "རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་བཤད་པ།",
+   "comments_on": "Vajravidāraṇā dhāraṇī"
+  },
+  {
+   "file": "Sh_3CD9.md",
+   "title": "བདེན་པ་གཉིས་རྣམ་པར་འབྱེད་པའི་དཀའ་འགྲེལ།",
+   "comments_on": "Jñānagarbha’s Satyadvayavibhaṅga"
+  },
+  {
+   "file": "Sh_3CDC.md",
+   "title": "སྡོམ་པ་ཉི་ཤུ་པའི་འགྲེལ་པ།",
+   "comments_on": "Candragomin’s Bodhisattvasaṃvaraviṃśaka"
+  },
+  {
+   "file": "Ka_3CDG.md",
+   "title": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ་རྒྱ་ཆེར་བཤད་པ།",
+   "comments_on": "Saptaśatikā Prajñāpāramitā"
+  },
+  {
+   "file": "Ka_3CDH.md",
+   "title": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།",
+   "comments_on": "Vajracchedikā"
+  },
+  {
+   "file": "Ka_3CDI.md",
+   "title": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ་ཞེས་བྱ་བའི་འགྲེལ་པ།",
+   "comments_on": "Heart Sūtra"
+  },
+  {
+   "file": "Ka_3CDS.md",
+   "title": "འཕགས་པ་རྣམ་པར་མི་རྟོག་པར་འཇུག་པའི་གཟུངས་ཀྱི་རྒྱ་ཆེར་འགྲེལ་པ།",
+   "comments_on": "Avikalpapraveśa dhāraṇī"
+  },
+  {
+   "file": "Ka_3CDT.md",
+   "title": "འཕགས་པ་སཱ་ལུ་ལྗང་པའི་མདོ་སྡེའི་རྒྱ་ཆེར་འགྲེལ་པ།",
+   "comments_on": "Śālistamba Sūtra"
+  },
+  {
+   "file": "Ka_3CDU.md",
+   "title": "དགེ་སྦྱོང་གི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པའི་ཚིག་གི་བརྗེད་བྱང་དུ་བྱས་པ།",
+   "comments_on": "Śramaṇa-pañcāśat-kārikā"
+  },
+  {
+   "file": "As_3CDf_.md",
+   "title": "འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་རྣམ་པར་བཤད་པ།",
+   "comments_on": "Saṃdhinirmocana Sūtra"
+  },
+  {
+   "file": "As_3CDx_.md",
+   "title": "མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྣམ་པར་བཤད་པ། ༼སྟོད་ཆ།༽",
+   "comments_on": "Saṃdhinirmocana Sūtra (part 1)"
+  },
+  {
+   "file": "As_3CDy_.md",
+   "title": "མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྣམ་པར་བཤད་པ། ༼བར་ཆ།༽",
+   "comments_on": "Saṃdhinirmocana Sūtra (part 2)"
+  },
+  {
+   "file": "As_3CDz_.md",
+   "title": "མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྣམ་པར་བཤད་པ། ༼སྨད་ཆ།༽",
+   "comments_on": "Saṃdhinirmocana Sūtra (part 3)"
+  },
+  {
+   "file": "As_3CDg_.md",
+   "title": "སངས་རྒྱས་རྗེས་སུ་དྲན་པའི་འགྲེལ་པ།",
+   "comments_on": "Buddhānusmṛti"
+  },
+  {
+   "file": "As_3CDh_.md",
+   "title": "ཆོས་རྗེས་སུ་དྲན་པའི་འགྲེལ་པ།",
+   "comments_on": "Dharmānusmṛti"
+  },
+  {
+   "file": "As_3CDi_.md",
+   "title": "དགེ་འདུན་རྗེས་སུ་དྲན་པའི་བཤད་པ།",
+   "comments_on": "Saṅghānusmṛti"
+  },
+  {
+   "file": "As_3CDj_.md",
+   "title": "ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྣམ་པར་བཤད་པ།",
+   "comments_on": "Maitreya’s Ratnagotravibhāga"
+  },
+  {
+   "file": "Va_3CE1.md",
+   "title": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།",
+   "comments_on": "Ṣaṇmukhī dhāraṇī"
+  },
+  {
+   "file": "Va_3CE7.md",
+   "title": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།",
+   "comments_on": "Ṣaṇmukhī dhāraṇī (variant edition of Va_3CE1)"
+  },
+  {
+   "file": "Va_3CE2.md",
+   "title": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་པ་དང་།ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་། ཁྲི་བརྒྱད་སྟོང་པའི་རྒྱ་ཆེར་བཤད་པ།",
+   "comments_on": "Prajñāpāramitā in 100,000 / 25,000 / 18,000 lines (part 1)"
+  },
+  {
+   "file": "Va_3CE3.md",
+   "title": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་པ་དང་།ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་། ཁྲི་བརྒྱད་སྟོང་པའི་རྒྱ་ཆེར་བཤད་པ། ༼སྨད་ཆ།༽",
+   "comments_on": "Prajñāpāramitā in 100,000 / 25,000 / 18,000 lines (part 2)"
+  },
+  {
+   "file": "Va_3CE4.md",
+   "title": "འཕགས་པ་བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པའི་དོན་བདུན་གྱི་རྒྱ་ཆེར་འགྲེལ་པ།",
+   "comments_on": "Vajracchedikā"
+  },
+  {
+   "file": "Va_3CE5.md",
+   "title": "སངས་རྒྱས་རྗེས་སུ་དྲན་པའི་རྒྱ་ཆེར་འགྲེལ་པ།",
+   "comments_on": "Buddhānusmṛti"
+  },
+  {
+   "file": "Va_3CE6.md",
+   "title": "ཚིགས་སུ་བཅད་པ་གཅིག་པའི་བཤད་པ།",
+   "comments_on": "Ekagāthā (a single verse)"
+  },
+  {
+   "file": "Va_3CE8.md",
+   "title": "འཕགས་པ་ཆོས་བཞི་པའི་རྣམ་པར་བཤད་པ།",
+   "comments_on": "Caturdharmaka Sūtra"
+  },
+  {
+   "file": "Va_3CE9.md",
+   "title": "ག་ཡ་མགོའི་རིའི་རྣམ་པར་བཤད་པ་བཞུགས་སོ། །",
+   "comments_on": "Gayāśīrṣa Sūtra"
+  },
+  {
+   "file": "Va_3CEA.md",
+   "title": "འཕགས་པ་ས་བཅུ་པའི་རྣམ་པར་བཤད་པ།",
+   "comments_on": "Daśabhūmika Sūtra"
+  },
+  {
+   "file": "Va_3CEB.md",
+   "title": "འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པ་རྒྱ་ཆེར་འགྲེལ་པ། ༼སྟོད་ཆ།༽",
+   "comments_on": "Akṣayamatinirdeśa Sūtra (part 1)"
+  },
+  {
+   "file": "Va_3CEC.md",
+   "title": "འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པ་རྒྱ་ཆེར་འགྲེལ་པ། ༼སྨད་ཆ།༽",
+   "comments_on": "Akṣayamatinirdeśa Sūtra (part 2)"
+  },
+  {
+   "file": "Va_3CED.md",
+   "title": "རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་པོའི་རྣམ་པར་དབྱེ་བ་བཤད་པ།",
+   "comments_on": "Pratītyasamutpādādivibhaṅga Sūtra"
+  },
+  {
+   "file": "Va_3CEE.md",
+   "title": "འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་འགྲེལ་པ།",
+   "comments_on": "Bhadracaryāpraṇidhāna"
+  },
+  {
+   "file": "Va_3CEF.md",
+   "title": "དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ།",
+   "comments_on": "Maitreya’s Madhyāntavibhāga"
+  },
+  {
+   "file": "Va_3CEG.md",
+   "title": "ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ།",
+   "comments_on": "Maitreya’s Dharmadharmatāvibhāga"
+  },
+  {
+   "file": "Va_3CEI.md",
+   "title": "དམ་པའི་ཆོས་པདྨ་དཀར་པོའི་འགྲེལ་པ་བཞུགས།",
+   "comments_on": "Saddharmapuṇḍarīka Sūtra"
+  },
+  {
+   "file": "Va_3CEU.md",
+   "title": "མདོ་སྡེའི་རྒྱན་གྱི་བཤད་པ།",
+   "comments_on": "Maitreya’s Mahāyānasūtrālaṃkāra"
+  },
+  {
+   "file": "Di_3CEf_.md",
+   "title": "ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པའི་འགྲེལ་པ།",
+   "comments_on": "Guṇāparyantastotra"
+  },
+  {
+   "file": "Di_3CEg_.md",
+   "title": "ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པའི་དོན་གྱི་ཚིག་ལེའུར་བྱས་པ།",
+   "comments_on": "Guṇāparyantastotra (verse summary)"
+  },
+  {
+   "file": "Di_3CEh_.md",
+   "title": "ཨེ་ཀ་ནཱ་ཐའི་དོན་འགྲེལ།",
+   "comments_on": "unidentified — reads like a hymn, check"
+  },
+  {
+   "file": "Di_3CEm_.md",
+   "title": "ཀུན་ཏུ་བཟང་པོའི་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོའི་བཤད་པ།",
+   "comments_on": "Bhadracaryāpraṇidhāna"
+  },
+  {
+   "file": "Dh_3CEz_.md",
+   "title": "རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་སྤྱན་འབྱེད།",
+   "comments_on": "Hevajra Tantra"
+  },
+  {
+   "file": "Dh_3CF4.md",
+   "title": "སྐྱེས་པའི་རབས་ཀྱི་རྒྱ་ཆེར་བཤད་པ།",
+   "comments_on": "Āryaśūra’s Jātakamālā"
+  },
+  {
+   "file": "Ar_3CFE.md",
+   "title": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་ཚུལ་གྱི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་བཞུགས། །",
+   "comments_on": "Maitreya’s Abhisamayālaṃkāra + 25,000-line Prajñāpāramitā (cf. Ha_3CFF–Ha_3CFJ)"
+  },
+  {
+   "file": "Ha_3CFK.md",
+   "title": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པའི་བཤད་པ་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ། ༼སྟོད་ཆ།༽",
+   "comments_on": "Aṣṭasāhasrikā + Abhisamayālaṃkāra (Āloka, part 1)"
+  },
+  {
+   "file": "Ha_3CFL.md",
+   "title": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པའི་བཤད་པ་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ། ༼སྨད་ཆ།༽",
+   "comments_on": "Aṣṭasāhasrikā + Abhisamayālaṃkāra (Āloka, part 2)"
+  },
+  {
+   "file": "Ha_3CFM.md",
+   "title": "བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ།",
+   "comments_on": "Ratnaguṇasaṃcayagāthā"
+  },
+  {
+   "file": "Ha_3CFN.md",
+   "title": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།",
+   "comments_on": "Maitreya’s Abhisamayālaṃkāra"
+  },
+  {
+   "file": "At_3CGr_.md",
+   "title": "༄། །ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ་བཞུགས།",
+   "comments_on": "Heart Sūtra"
+  },
+  {
+   "file": "At_3CHx_.md",
+   "title": "རྩ་བའི་ལྟུང་བའི་རྒྱ་ཆེར་འགྲེལ་པ།",
+   "comments_on": "Jinadeva’s instruction on the tantric root downfalls"
+  }
+ ]
+}

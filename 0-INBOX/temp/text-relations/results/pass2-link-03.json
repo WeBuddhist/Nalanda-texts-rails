@@ -1,0 +1,77 @@
+{
+  "Bh_3CCG.md": {
+    "commentary_of": "Na_3C9h_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon name the root as སློབ་དཔོན་ཆེན་པོ་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པའི་རིམ་པ་ལྔ་པ, the title of Na_3C9h_.md (རིམ་པ་ལྔ་པ, colophon ཀླུ་སྒྲུབ); its glossed lemmas such as སློབ་བཞིན་པ, དབྱེ་བ་ཇི་བཞིན, གྲངས་འབུམ, མཚམས་མེད་ལྔ, གོང་བུའི་གཟུགས occur in Na_3C9h_.md, though the overall reuse share is low (under 6%), likely a different translation of the verses."
+  },
+  "Bh_3CCL.md": {
+    "commentary_of": "Na_3CAk_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཤེས་རབ་སྒྲོན་མ names the root and the opening announces explaining Nāgārjuna's ཚིག་ལེའུར་བྱས་པ; it contains 66% of Na_3CAk_.md (དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ). Shares with Na_3CAp_, Bu_3CCC are fellow commentaries on the same verses."
+  },
+  "Bh_3CCM.md": {
+    "commentary_of": "Bh_3CCI.md",
+    "link_confidence": "high",
+    "link_evidence": "Title དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ names the root, the title of Bh_3CCI.md (དབུ་མའི་སྙིང་པོའི་ཚིག་ལེའུ་བྱས་པ), and it quotes the treatise's opening verses; it contains 37% of Bh_3CCI.md. The higher shares of Bh_3CCK (85%) and Ar_3CC5 (74%) are smaller texts whose content appears inside this commentary, not its root."
+  },
+  "Bh_3CCN.md": {
+    "commentary_of": "Bh_3CCI.md",
+    "link_confidence": "high",
+    "link_evidence": "Second volume (༼སྨད་ཆ།༽, from བམ་པོ་བཅུ་དྲུག་པ) of དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ (colophon དབུ་མའི་སྙིང་པོ་རྟོག་གེ་འབར་བ); it contains 49% of Bh_3CCI.md (དབུ་མའི་སྙིང་པོའི་ཚིག་ལེའུ་བྱས་པ), its top reuse match."
+  },
+  "Ch_3CCQ.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as སྦྱོར་བ་ཡན་ལག་དྲུག་པ; the closest file, Na_3CAY.md (རྣལ་འབྱོར་ཡན་ལག་དྲུག་པ, itself a verse explanation of a མདོར་བསྟན་ཚིག), shares some lemmas (གོང་བུའི་གཟུགས, སྲོག་ནི་ཐིག་ལེར) but words the verses differently (Ch_3CCQ quotes འདོད་པ་སོ་སོར་སྡུད་པས་ན vs Na_3CAY སོ་སོ་སོ་སོར་འདོད་པ་བསྡུད) and lacks verses Ch_3CCQ comments on (མཚན་མར་བཅས་པས་མཚན་བཅས་ཀྱིས), so both appear to explain the same tantra verses rather than one commenting on the other; 86% of Ch_3CCQ is also embedded in Ch_3CCa_.md. Not settled — needs a person."
+  },
+  "Ch_3CCT.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན (title and colophon དཔལ་གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ); no file in our corpus has this title, and no file shares more than 10% of its text."
+  },
+  "Ch_3CCW.md": {
+    "commentary_of": "Na_3CAl_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title རིགས་པ་དྲུག་ཅུ་པའི་འགྲེལ་པ and opening verse vow to explain the རིགས་པ་དྲུག་ཅུ་པ name the root, the title of Na_3CAl_.md (རིགས་པ་དྲུག་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ); it contains 46% of Na_3CAl_.md."
+  },
+  "Ch_3CCY.md": {
+    "commentary_of": "Na_3CAn_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title སྟོང་ཉིད་བདུན་ཅུ་པའི་འགྲེལ་པ and colophon (སྟོང་ཉིད་བདུན་ཅུ་ཞེས་བྱ་བའི། །བསྟན་བཅོས་གང་ཞིག་འཕགས་པ་ཀླུ་སྒྲུབ) name the root, Na_3CAn_.md (སྟོང་པ་ཉིད་བདུན་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ); it contains 46% of Na_3CAn_.md."
+  },
+  "Ch_3CCa_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་སྐུ་དང་གསུང་དང་ཐུགས་ཀྱི་གསང་བ་འདུས་པ (the tantra itself; it glosses འདི་སྐད་བདག་གིས་ཐོས་པ and closes chapter by chapter with …ལེའུ), which is not in our corpus. Its 35% share of Na_3C9b_.md is shared tantra quotation: Na_3C9b_ is Nāgārjuna's sādhana (བསྐྱེད་པའི་རིམ་པ་བསྒོམ་པའི་ཐབས་མདོ་དང་བསྲེས་པ), not the tantra."
+  },
+  "Ch_3CCb_.md": {
+    "commentary_of": "Na_3CAk_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཚིག་གསལ་བ names the root and the opening pays homage to ཀླུ་སྒྲུབ and announces དེའི། །ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ; it contains 79% of Na_3CAk_.md (དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ)."
+  },
+  "Ch_3CCe_.md": {
+    "commentary_of": "Ch_3CCd_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title དབུ་མ་ལ་འཇུག་པའི་བཤད་པ names the root, which exists in two copies: Ch_3CCd_.md (དབུ་མ་ལ་འཇུག་པ་ཞེས་བྱ་བ, 81% contained) and Ch_3CCc_.md (དབུ་མ་ལ་འཇུག་པའི་ཚིག་ལེའུར་བྱས་པ, 62%); picked Ch_3CCd_.md as the copy it quotes most."
+  },
+  "Ch_3CCg_.md": {
+    "commentary_of": "Ar_3CC1.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and opening name the root as སློབ་དཔོན་འཕགས་པ་ལྷས་ཉེ་བར་སྦྱར་བ་བྱང་ཆུབ་སེམས་དཔའི་རྣལ་འབྱོར་སྤྱོད་པ་བཞི་བརྒྱ་པའི་བསྟན་བཅོས, matching Ar_3CC1.md (བསྟན་བཅོས་བཞི་བརྒྱ་པ་ཞེས་བྱ་བའི་ཚིག་ལེའུར་བྱས་པ); it contains 73% of Ar_3CC1.md."
+  },
+  "Sh_3CCk_.md": {
+    "commentary_of": "Sh_3CCl_.md",
+    "link_confidence": "high",
+    "link_evidence": "Opening names its root as སློབ་དཔོན་བྷུ་སུ་སྐུས་མཛད་པའི། །བདེ་མཆོག་འཁོར་ལོའི་བསྒྲུབ་ཐབས, i.e. Sh_3CCl_.md (བདེ་གཤེགས་འཁོར་ལོའི་སྒྲུབ་པའི་ཐབས, colophon བདེ་མཆོས་འཁོར་ལོའི་སྒྲུབ་ཐབས… བྷུ་སུ་ཀུས་མཛད་པ); it quotes and explains its verse lines (e.g. རི་རབ་དབུས་སུ་སྣ་ཚོགས་པདྨས་མཛེས་ཅེས་པ་ནི, ཁྱབ་འཇུག་དབང་ཕྱུག་དབུ་མའི་གདན་ལ་བཞུགས་ཅེས་པ་ནི) and contains 36% of Sh_3CCl_.md."
+  },
+  "Sh_3CCo_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the sūtra འཕགས་པ་འདའ་ཀ་ཡེ་ཤེས་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ (colophon འཕགས་པ་འདའ་ཀ་ཡེ་ཤེས་ཀྱི་མདོའི་དོན་གསལ་བ); no file in our corpus has this title, and no file shares more than 7% of its text."
+  },
+  "Sh_3CCw_.md": {
+    "commentary_of": "Sh_3CCv_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title བཅོམ་ལྡན་འདས་ལ་བསྟོད་པ་དཔལ་རྡོ་རྗེ་འཛིན་གྱི་དབྱངས་ཀྱི་རྒྱ་ཆེར་བཤད་པ names Sh_3CCv_.md (བཅོམ་ལྡན་འདས་ལ་བསྟོད་པ་དཔལ་རྡོ་རྗེ་འཛིན་གྱི་དབྱངས), and the opening quotes its first line (མཉམ་མེད་མི་གཡོ་མཉམ་ཉིད་ཆོས་མཆོག་ཅན།); it contains 47% of Sh_3CCv_.md."
+  }
+}

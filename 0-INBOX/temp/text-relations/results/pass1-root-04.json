@@ -1,0 +1,177 @@
+{
+  "Na_3CAO.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening states its own intent (རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས་འདི། །དེ་ནས་ཡང་དག་བཤད་པར་བྱ) and gives mantra and visualisation instructions; colophon རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས་རྫོགས་སོ. The ~30% mutual overlap with Na_3CAN.md (same title) marks a parallel version of the sādhana, not a commentary; almost no gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAP.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Sādhana with its own statement of intent (དེ་ཡི་སྒྲུབ་ཐབས་བཤད་པར་བྱ) and practice instructions; colophon རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཞབས་ཀྱིས་མཛད་པ; no gloss markers, no overlaps.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAQ.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Prose sādhana of Kurukullā with homage and direct practice instructions (དང་པོ་རེ་ཞིག་སྔགས་པས…); no gloss markers. Title says it derives from the Tārā tantra (སྒྲོལ་མའི་རྟོག་པ་ལས་འབྱུང་བའི), but it does not quote and explain that text; the ~30% mutual overlap with Na_3CAM.md is a parallel Kurukullā sādhana.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAR.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Sādhana of ཀླུའི་དབང་ཕྱུག་རྒྱལ་པོ giving step-by-step ritual instructions (ཐོག་མར་གནས་ཁང་…); colophon names it a sādhana by Nāgārjuna; no gloss markers, no overlaps.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAS.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Sādhana of Khadiravaṇī Tārā with direct practice instructions and offering mantras; colophon སེང་ལྡེང་ནགས་ཀྱི་སྒྲོལ་མའི་སྒྲུབ་ཐབས…མཛད་པ་རྫོགས་སོ; no gloss markers, no overlaps.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAT.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Independent verse instruction (99% metrical) on impermanence and Dharma practice; closing states its own purpose (བདག་གིས་ཡི་གེ་འདི་བརྩམས་པས) and colophon ཞེན་ལོག་སྒྲོན་མ་ཞེས་བྱ་བ; no gloss markers, no overlaps.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAU.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short verse sādhana of Ekajaṭī describing her forms (བདག་གིས་བཤད་པར་བྱ) with mantras; the only gloss-like hit is a mantra-recitation instruction (…ཞེས་པ་ལ་སོགས་པ་བརྗོད་པར་བྱའོ). Colophon རལ་པ་གཅིག་མའི་སྒྲུབ་ཐབས་རྫོགས་སོ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAV.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A long torma ritual compiled from many tantras (title རྒྱུད་སྣ་ཚོགས་ལས་བཏུས་པའི་གཏོར་མའི་ཆོ་ག; opening intent གཏོར་མའི་སྒྲུབ་ཐབས…); the script's 'commentary' guess rests on a low gloss rate (1.17/1000) that fits scriptural citation, and it contains no other corpus file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAW.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Sādhana of Tārā Victorious over the Three Worlds with its own intent verses (ཇི་ལྟར་གསོལ་བཏབ་ཚུལ་འདིས་སྒྲོ་སྐུང་བྲལ་བར་བྲི) and ritual instructions; it embeds 41% of the short praise Na_3CAc_.md as a liturgical component, not to explain it. Gloss rate is low (0.41/1000).",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAX.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse sādhana (88% metrical, no gloss markers) that announces its own subject (བསྡུས་པའི་རིམ་པ་བདག་གིས་བཤད), drawn from the Guhyasamāja tantra as named in the opening (དཔལ་ལྡན་འདུས་པའི་རྒྱུད་ཀྱི་ནི) but without quoting and explaining it. The ~42% mutual overlap with Na_3C9a_.md looks like shared sādhana text, not commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAY.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "The file opens with a short set of six-limb-yoga verses, and most of the rest is prose that quotes those lines and explains them one after another (དབང་པོ་བཅུའི་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་ཏེ, རྟོག་པ་དང་ནི་ཞེས་བྱ་བ་ལ་སོགས་པ་ནི, འགོག་པ་རྡོ་རྗེར་སོན་སེམས་ལ…ཞེས་བྱ་བ་ལ); gloss rate 4.17/1000. It is a verse root plus a commentary on it in one file, the commentary making up most of the text; the work being explained is not named, and its 17% overlap with Ch_3CCQ.md (a six-limb commentary) suggests shared root verses.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAZ.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Ritual/sādhana for the yakṣiṇī with direct practice instructions; colophon says Nāgārjuna extracted it from a tantra (ཤ་ཟ་རིག་པ་འཛིན་པའི་རྒྱུད་ནས་ཕྱུང་ནས་མཛད་པ), which is a source attribution, not line-by-line explanation; no gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAb_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse sādhana of Vajrapāṇi with its own intent (གསང་བདག་མངོན་རྟོགས་རིམ་པ་འདི། །སྒྲོ་སྐུར་མེད་པར་བྲི་བར་བྱ) and colophon དཔལ་ཕྱག་ན་རྡོ་རྗེའི་སྒྲུབ་ཐབས་ཡིད་བཞིན་ནོར་བུ; no gloss markers, no overlaps.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAc_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A praise in verse addressed to the goddess (refrain ཁྱོད་ལ་ཕྱག་འཚལ་བསྟོད); colophon སློབ་དཔོན་ཀླུ་གྲུབ་ཀྱིས་བསྟོད་པའོ; no gloss markers. Its text is found in the sādhana Na_3CAW.md, not the reverse.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAd_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse praise of Khadiravaṇī Tārā (ཕྱག་འཚལ་བསྟོད); colophon calls it a praise in sixteen verses (བསྟོད་པ་ཚིགས་སུ་བཅད་པ་བཅུ་དྲུག་པ); no gloss markers, no overlaps.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAe_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Prose Mahākāla sādhana giving visualisation and ritual instructions; the script's 'commentary' guess comes from low metre, and the gloss hit is a closing scriptural citation (…ཞེས་བྱ་བ་ལ་སོགས་པ་མང་དུ་ཡིད་ལ་གོ་བར་བྱའོ). Colophon དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས…མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAf_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Prose sādhana of four-armed Mahākāla with direct ritual instructions and mantras; colophon ནག་པོ་ཆེན་པོ་ཕྱག་བཞི་པའི་སྒྲུབ་ཐབས; no gloss markers. Part of its text is found in another file (Bh_3CCE.md), but it contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAg_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Torma-repelling ritual of the crow-faced protector, mostly invocation verses addressed to Mahākāla; colophon མགོན་པོ་བྱ་རོག་གདོང་གི་གཏོར་མདོས; no gloss markers, no overlaps.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAh_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Instruction (མན་ངག) on a wealth practice with its own homage and verse instructions on making the elephant figure; no gloss markers, no overlaps; colophon འཕགས་པ་ཀླུ་གྲུབ་ཀྱིས་མཛད་པའོ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAi_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse guru-yoga instruction (80% metrical, no gloss markers) setting out its own subject (body as maṇḍala); colophon བླ་མ་གསང་བ་སྒྲུབ་པ…མཛད་པ followed by a lineage list. Part of its text is found in another file (Ch_3CCa_.md), but it contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAk_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (94% metrical, no gloss markers) with its own homage and verses; colophon gives 27 chapters and 449 ślokas. Several commentaries contain most of its text (Ch_3CCb_.md 72%, Na_3CAp_.md 66%, Bu_3CCC.md 66%, Bh_3CCL.md 59%). The 21% of Na_3CAp_.md found here is the root verses quoted in that commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAl_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (92% metrical, no gloss markers) titled ཚིག་ལེའུར་བྱས་པ with its own homage and argument; its text is found in Ch_3CCW.md (རིགས་པ་དྲུག་ཅུ་པའི་འགྲེལ་པ, 40%), which comments on it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAm_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Terse aphoristic treatise (མདོ) refuting the logicians, with its own intent verse (ཞིབ་མོ་རྣམ་འཐག་བཤད་པར་བྱ); no gloss markers. Its text is found in Na_3CAq_.md (ཞིབ་མོ་རྣམ་པར་འཐག་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ, 37%), which explains it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAn_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (95% metrical, no gloss markers) titled ཚིག་ལེའུར་བྱས་པ; its text is found in two commentaries, Ch_3CCY.md (སྟོང་ཉིད་བདུན་ཅུ་པའི་འགྲེལ་པ, 40%) and Na_3CAs_.md (28%).",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAo_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (94% metrical, no gloss markers) titled ཚིག་ལེའུར་བྱས་པ, with its own objection-and-reply verses; its text is found in Na_3CAt_.md (རྩོད་པ་བཟློག་པའི་འགྲེལ་པ, 52%).",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

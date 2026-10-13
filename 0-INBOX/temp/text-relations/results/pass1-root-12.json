@@ -1,0 +1,177 @@
+{
+  "Dh_3CFC.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening states its own purpose (…སུན་དབྱུང་བའི་དོན་དུ་འདི་བརྩམས་སོ) and then gives its own verse with the author's prose; colophon: སློབ་དཔོན་ཆེན་པོ་དྷརྨ་ཀཱིརྟིའི་ཞལ་སྔ་ནས་ཀྱིས་མཛད་པ་རྩོད་པའི་རིགས་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ. Contains no other file, and its text is found in Sh_3CDD.md, titled རྩོད་པའི་རིགས་པའི་འགྲེལ་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Dh_3CFD.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "An independent treatise: its own verses with the author's prose argument, no gloss markers (0.0/1000) and no contained text; colophon: རྒྱུད་གཞན་གྲུབ་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ་སློབ་དཔོན་དྷརྨཱ་ཀཱིརྟིས་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ha_3CFF.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "Opening verses end with a statement of intent to divide 'this sūtra' (…མདོ་འདི་…རིག་པར་བདག་གིས་དབྱེ); the sūtra text then runs with topic labels (…ཞེས་བྱ་བ་ནི་X་ཡིན་ནོ, about 160 times, e.g. the closing …ཞེས་བྱ་བ་ནི་བསྒྲུབ་པའི་རང་གི་ངོ་བོ་ཡིན་ནོ). So it is an outline-division of the 25,000-line sūtra, which is named in the title.",
+    "named_root": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ",
+    "root_candidates": []
+  },
+  "Ha_3CFG.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "Continues the same divided sūtra (opens at བམ་པོ་བཅུ་བཞི་པ): sūtra passages are tagged with topic labels (…ཞེས་བྱ་བ་ནི་སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའི… about 157 times), and the closing ends …ཞེས་བྱ་བ་ནི་རང་དང་གཞན་གྱི་དོན་ལ་མོས་པ་ཆུང་ངུའི་ཆེན་པོ་ཡིན་ནོ. It outlines the 25,000-line sūtra named in the title.",
+    "named_root": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ",
+    "root_candidates": []
+  },
+  "Ha_3CFH.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "Volume 3 of the same divided sūtra: sūtra text tagged with topic labels throughout (ཞེས་བྱ་བ་ནི about 290 times); the closing reads …ཞེས་བྱ་བ་ནི་བརྩོན་འགྲུས་ཀྱི་བདག་ཉིད་ཐར་པའི་ཆ་དང་མཐུན་པའོ. It outlines the sūtra named in the title.",
+    "named_root": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ",
+    "root_candidates": []
+  },
+  "Ha_3CFI.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "Volume 4 of the same divided sūtra: the opening passage already ends …ཞེས་བྱ་བ་ནི་དྲན་པའི་བདག་ཉིད་ཅན་གྱི་ཐར་པའི་ཆ་དང་མཐུན་པའོ, the closing ends …ཞེས་བྱ་བ་ནི་སྦྱོར་བ་ལ་ལོག་པར་རྟོག་པ་ཡིན་ནོ, and there are about 230 such labels. It outlines the sūtra named in the title.",
+    "named_root": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ",
+    "root_candidates": []
+  },
+  "Ha_3CFJ.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "Last volume of the same divided sūtra: the opening passage ends …ཞེས་བྱ་བ་ནི་སངས་རྒྱས་དཀོན་མཆོག་ལ་ལོག་པར་རྟོག་པ་ཡིན་ནོ, and there are about 100 labels. The closing keeps the sūtra's own ending and translators' colophon, consistent with sūtra text divided by topic labels.",
+    "named_root": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ",
+    "root_candidates": []
+  },
+  "Ha_3CFO.md": {
+    "file_type": "root-text",
+    "confidence": "low",
+    "evidence": "Opening verse announces its own work on case endings for beginners (བྱིས་པའི་བློ་ཅན་རྣམས་ཀྱི་ཕྱིར། །རྣམ་དབྱེའི་ཚིག་ལེར་བྱས་པ་དག །དགེ་སློང་འཕྲོག་བྱེད་བཟང་པོས་བྱ). The prose cites grammatical rules with ཞེས་པ (e.g. དོན་ཙམ་ལ་དང་པོའོ་ཞེས་པ) as support while deriving forms, but it does not follow one named text through. The closing adds verses by དཔལ་ལྡན་བློ་གྲོས་བརྟན་པ (བར་སྐབས་སུ་སྨྲས་པ).",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Gu_3CFS.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "The Vinaya treatise itself (opening: བོད་སྐད་དུ། འདུལ་བའི་མདོ, homage, then rules in its own words; 0.11 gloss markers per 1000 syllables). Its text is found in three files titled འདུལ་བའི་མདོའི་འགྲེལ་པ (Gu_3CFU, Gu_3CFV and Gu_3CFW, 23–26% each), which comment on it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Gu_3CFT.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A self-standing manual of Vinaya rites (opening: དང་པོར་རབ་ཏུ་འབྱུང་བའི་གཞིའི་སྐབས་ཀྱི་ཆོ་ག་དང་ལས་རྣམས་བརྗོད་པར་བྱ་སྟེ, with summary verses); almost no gloss markers (0.05/1000). It contains 29% of the short rite Na_3CBC.md (བསླབ་པ་བཅུའི་ཆོ་ག) as shared ritual text, not as glossed quotation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CFZ.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse work (93% metrical, no gloss markers) with its own homage and statement of intent (…བཤད་པར་བྱ); colophon: …དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ། …ཤཱཀྱ་འོད་ཀྱིས་མཛད་པ. It and Na_3CBB.md each contain about 96% of the other (copies of one text), and 70% of it is found in Sh_3CFa_.md.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHK.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "An anthology of sūtra quotations (opening: མདོ་ཀུན་ལས་བཏུས་པ་ཆེན་པོ, then citations introduced by source such as གཞི་ཆེན་པོའི་མདོ་ལས). It quotes many scriptures rather than following one text through, has almost no gloss markers (0.09/1000), and contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHL.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A mandala ritual in verse (91% metrical, no gloss markers) with its own homage and intent (…བཏུད་དེ་བདག་དྲན་ཕྱིར་དེ་བཤད); colophon: …དཀྱིལ་འཁོར་ཆོ་ག་འདི་བྱས་སོ། …སློབ་དཔོན་མར་མེ་མཛད་བཟང་པོའི་ཞལ་སྔ་ནས་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHM.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A short protection sādhana in verse with its own intent (སྲུང་བ་དམ་པ་བཤད་པར་བྱ) and ritual instructions; no gloss markers and no contained text; colophon: དཔལ་མར་མེ་མཛད་བཟང་པོས་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHN.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Empowerment ritual instructions in its own words (opening: ལྷ་མོ་བརྒྱད་ཀྱི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བར་འདོད་པས…), with no gloss markers and no contained text; colophon names it and དཔལ་མར་མེ་མཛད་བཟང་པོས་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHO.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "An empowerment ritual in its own words (opening: རིགས་ཀྱི་ཁྲོ་བོ་བཞིའི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བར་འདོད་པའི…), with no gloss markers and no contained text; colophon: …ཆོ་ག་ཟབ་མོ་དཔལ་མར་མེ་མཛད་བཟང་པོས་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHP.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A mandala empowerment ritual in its own words (opening: རྒྱུ་སྐར་ཉི་ཤུ་རྩ་བརྒྱད་ཀྱི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བར་འདོད་པའི…), with no gloss markers and no contained text; colophon names it and the author མར་མེ་མཛད་བཟང་པོ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHQ.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "An empowerment ritual in its own words (opening: …ལྷ་ཆེན་པོ་བརྒྱད་ཀྱི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བར་འདོད་པས…), with no gloss markers and no contained text; colophon names it and the author དཔལ་མར་མེ་མཛད་བཟང་པོ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHR.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A consecration ritual in its own words (opening: …རབ་ཏུ་གནས་པར་བྱེད་པར་འདོད་པའི་སྒྲུབ་པ་པོ…), with no gloss markers and no contained text; colophon: …རབ་ཏུ་གནས་པའི་ཆོ་ག །སློབ་དཔོན་ཆེན་པོ་དཔལ་མར་མེ་མཛད་བཟང་པོས་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHS.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A short ritual-action text in its own words (opening: བསྒྲུབ་བྱ་གཟའ་རྣམས་ཀྱི་བྱད་དུ་འཇུག་པར་འདོད་པའི་སྒྲུབ་པ་པོ…), with no gloss markers and no contained text; colophon names it and the author དཔལ་མར་མེ་མཛད་བཟང་པོ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHT.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A short ritual-action text in its own words (opening: སྐྲག་པའི་ལས་ཐོག་བསྒྲུབ་སྟེ…), with no gloss markers and no contained text; colophon names it and the author དཔལ་མར་མེ་མཛད་བཟང་པོ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHU.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A short ritual-action text in its own words (opening: བསྒྲུབ་བྱ་སྐྲག་པའི་ལས…སྤྱོད་པར་འདོད་པའི་སྒྲུབ་པ་པོ…), with no gloss markers and no contained text; colophon: བསྒྲུབ་བྱ་སྐྲག་པའི་ལས་ཆུ་ཐིགས་ཞེས་བྱའོ། །དཔལ་མར་མེ་མཛད་བཟང་པོས་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHV.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A ritual-action text in its own words with mantras (opening: ཆོ་འཕྲུལ་སྣ་ཚོགས་བསྒྲུབ་སྟེ…སྒྲུབ་པ་པོ…), with no gloss markers and no contained text; colophon names it and the author དཔལ་མར་མེ་མཛད་བཟང་པོ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHW.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A short rain-making ritual in its own words (opening: ཀླུའི་རྒྱལ་པོ་རྣམས་ཀྱིས་ཆར་འབེབས་པའི་ལས་བྱེད་པར་འདོད་པའི…), with no gloss markers and no contained text; colophon names it and the author དཔལ་མར་མེ་མཛད་བཟང་པོ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHX.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A water-torma ritual with its own liturgy verses (refuge, seven-branch prayer, dedication) and instructions, with no gloss markers and no contained text; colophon: …གཏོར་མ་བདུད་རྩིའི་རྒྱ་མཚོ་ཞེས་བྱ་བ་དཔལ་མར་མེ་མཛད་བཟང་པོས་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

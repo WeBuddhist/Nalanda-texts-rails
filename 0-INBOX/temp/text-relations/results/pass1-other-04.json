@@ -1,0 +1,177 @@
+{
+  "Va_3CE8.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: འཕགས་པ་ཆོས་བཞི་པའི་རྣམ་པར་བཤད་པ; the opening quotes the sūtra's line (… ཞེས་བྱ་བའི་མདོ་འདི་ཅིའི་ཕྱིར་བརྩམས་ཤེ་ན) and explains its purpose and the word བཞི, and the closing sums up what the Blessed One taught 'in this sūtra' (མདོ་སྡེ་འདིར).",
+    "named_root": "འཕགས་པ་ཆོས་བཞི་པ",
+    "root_candidates": []
+  },
+  "Va_3CE9.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Opening and colophon: འཕགས་པ་ག་ཡ་མགོའི་རི་ཞེས་བྱ་བའི་མདོའི་རྣམ་པར་བཤད་པ; it summarises the sūtra's parts (གླེང་གཞི, ཉན་པ་པོ, ཏིང་ངེ་འཛིན …) and explains them in turn. No gloss markers counted and no corpus overlap, but the framing is clear.",
+    "named_root": "འཕགས་པ་ག་ཡ་མགོའི་རི་ཞེས་བྱ་བའི་མདོ",
+    "root_candidates": []
+  },
+  "Va_3CEA.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: འཕགས་པ་ས་བཅུ་པའི་རྣམ་པར་བཤད་པ; opening verse states the intent (དེ་ཡི་དོན། །གནས་པར་བྱ་ཕྱིར་བཤད་སྦྱར་བྱ་བར་འབད), then outlines ས་བཅུའི་ཆོས་ཀྱི་རྣམ་གྲངས and quotes its opening (འདི་སྐད་བདག་གིས་ཐོས་པ…); colophon ends ས་བཅུ་རྣམ་པར་བཤད་པ་རྫོགས་སོ.",
+    "named_root": "འཕགས་པ་ས་བཅུ་པ",
+    "root_candidates": []
+  },
+  "Va_3CEB.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པ་རྒྱ་ཆེར་འགྲེལ་པ (first half); the opening verses take the sūtra's teacher and interlocutors as subject and promise to divide its words (ཚིག་ཙམ་དབྱེ), and it glosses lines (4.69 markers/1000). Continued in Va_3CEC.md.",
+    "named_root": "འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པ",
+    "root_candidates": []
+  },
+  "Va_3CEC.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Second half of Va_3CEB.md (same title, opens mid-explanation); it glosses quoted phrases line by line (10.89 markers/1000, e.g. … ཞེས་བྱ་བ་ནི … ཞེས་བྱ་བའི་དོན་ཏོ) and the colophon reads འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པའི་བཤད་པ་རྫོགས་སོ.",
+    "named_root": "འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པ",
+    "root_candidates": []
+  },
+  "Va_3CED.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་པོའི་རྣམ་པར་དབྱེ་བ་བཤད་པ, and the colophon calls it the རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་འབྱེད་པའི་མདོ་སྡེ་རྣམ་པར་འགྲེལ་པ, i.e. an explanation of a named sūtra.",
+    "named_root": "རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་འབྱེད་པའི་མདོ་སྡེ",
+    "root_candidates": []
+  },
+  "Va_3CEE.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་འགྲེལ་པ; the opening lists the prayer's ten topics, and it glosses the prayer's words with markers (9.9/1000, e.g. བློ་ཡི་སྟོབས་ཞེས་པ་ནི); the closing verse says སྨོན་ལམ་རྒྱལ་པོ་འདིའི་འགྲེལ་པ་བྱས་པ.",
+    "named_root": "འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ",
+    "root_candidates": []
+  },
+  "Va_3CEF.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ; the opening quotes the treatise's body verse (མཚན་ཉིད་སྒྲིབ་པ་དེ་ཁོ་ན … ཞེས་བྱ་བ་དོན་བདུན་པོ་འདི་དག་བསྟན་བཅོས་འདི་ལས་འཆད་དོ) and explains it, and each chapter colophon reads བསྟན་བཅོས་དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པ་ལས … འགྲེལ་པ.",
+    "named_root": "བསྟན་བཅོས་དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པ",
+    "root_candidates": []
+  },
+  "Va_3CEG.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ; the opening verse promises to explain 'the meaning of this treatise' (བསྟན་བཅོས་འདི་ཡི་དོན … རྣམ་པར་དབྱེ་ཕྱིར་འབད), then quotes its verse (གང་ཕྱིར་ཤེས་ནས་འགའ་ཞིག་སྤང་བྱ་ཞིང་ …) twice, as root and as lemma; glosses at 4.18/1000.",
+    "named_root": "ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པ",
+    "root_candidates": []
+  },
+  "Va_3CEH.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: ཐེག་པ་ཆེན་པོ་བསྡུས་པའི་འགྲེལ་པ; glosses heavily (8.78 markers/1000) and contains 20% of As_3CDu_.md (ཐེག་པ་ཆེན་པོ་བསྡུས་པ).",
+    "named_root": "ཐེག་པ་ཆེན་པོ་བསྡུས་པ",
+    "root_candidates": ["As_3CDu_.md"]
+  },
+  "Va_3CEI.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: དམ་པའི་ཆོས་པདྨ་དཀར་པོའི་འགྲེལ་པ; the opening sets out how 'this sūtra' will be explained (མདོ་སྡེ་འདི་བཤད་པ་ལ … གཞུང་དགྲོལ་བ), and the closing quotes a line (… ཞེས་པའི་བར་དུ་ནི) and says དེ་དག་ནི་མདོའི་ཚིག་དང་ཅི་རིགས་པར་སྦྱར་རོ.",
+    "named_root": "དམ་པའི་ཆོས་པདྨ་དཀར་པོ",
+    "root_candidates": []
+  },
+  "Va_3CEJ.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ (first half); the opening verse says ཆོས་མངོན་མཛོད་ཀྱི་བསྟན་བཅོས་རབ་བཤད་བྱ, then it glosses the homage (གང་ཞིག་ཅེས་བྱ་བ་ནི …); contains 26% of the verse text Va_3CEX.md (ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ). It also overlaps Di_3CEo_.md in both directions (25–31%), but that file is a commentary too, not a root.",
+    "named_root": "ཆོས་མངོན་པའི་མཛོད",
+    "root_candidates": ["Va_3CEX.md"]
+  },
+  "Va_3CEK.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Second half of Va_3CEJ.md (same title, ༼སྨད་ཆ།༽); the opening quotes verse lines (རྣམ་རིག་བྱེད་ནི་ཐམས་ཅད་ལ། །…) and then explains them in prose. It contains 36% of Va_3CEX.md (the Kośa verses), and the colophon reads ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ … རྫོགས་སོ. Its 16% overlap with Na_3CBC.md (a vinaya ritual) is shared material, not its root.",
+    "named_root": "ཆོས་མངོན་པའི་མཛོད",
+    "root_candidates": ["Va_3CEX.md"]
+  },
+  "Va_3CEN.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: ཉི་ཤུ་པའི་འགྲེལ་པ; contains 58% of Va_3CEM.md (ཉི་ཤུ་པའི་ཚིག་ལེའུར་བྱས་པ) and explains its verses in prose (e.g. སངས་རྒྱས་སྤྱོད་ཡུལ་ལོ་ཞེས་བྱ་བ་སྨོས་ཏེ …).",
+    "named_root": "ཉི་ཤུ་པ",
+    "root_candidates": ["Va_3CEM.md"]
+  },
+  "Va_3CEU.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: མདོ་སྡེའི་རྒྱན་གྱི་བཤད་པ; the opening quotes a verse and then glosses it (དོན་ཤེས་དོན་སྟོན་རབ་ཏུ་བྱེད་པ་ཞེས་བྱ་བ་ལ་སོགས་པ་ནི …), and the chapter colophons say ཐེག་པ་ཆེན་པོ་མདོ་སྡེའི་རྒྱན … བཤད་པ་ལས. It contains 18% of As_3CDc_.md, a praise of the dharmakāya's qualities. That looks like shared verses rather than its root, so it is not listed as a candidate.",
+    "named_root": "ཐེག་པ་ཆེན་པོ་མདོ་སྡེའི་རྒྱན",
+    "root_candidates": []
+  },
+  "Va_3CEV.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: དོན་གསང་བ་རྣམ་པར་ཕྱེ་བ་བསྡུས་ཏེ་བཤད་པ; it explains 'this treatise' (རབ་ཏུ་བྱེད་པ་འདི་ནི … ཚིག་གི་དོན་བཅུས་ཐེག་པ་ཆེན་པོ་མཐའ་དག་བསྡུ་བར་བཞེད་ནས་བརྩམས) and glosses its phrases one by one (4.05/1000: ཐེག་པ་ཆེན་པོ་ལ་ཤིན་ཏུ་ཞུགས་པ་ཞེས་བྱ་བ་ནི, བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར་ཞེས་བྱ་བ་ནི). A check of the full file found these glossed lemmas in the opening of As_3CDu_.md, which the text does not name.",
+    "named_root": null,
+    "root_candidates": ["As_3CDu_.md"]
+  },
+  "Va_3CEW.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: ཕུང་པོ་ལྔའི་བཤད་པ (colophon: by སའི་རྩ་ལག); the opening says རབ་ཏུ་བྱེད་པ་འདི་བཤད་པ་ལ, it glosses at 2.01/1000, and it contains 35% of Va_3CEP.md (ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ).",
+    "named_root": "ཕུང་པོ་ལྔ",
+    "root_candidates": ["Va_3CEP.md"]
+  },
+  "Va_3CEZ.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "It quotes a verse (… ཅེས་ཚིགས་སུ་བཅད་པའོ། །ཚིགས་སུ་བཅད་པ་འདིས་ནི …) and explains it, then does the same verse by verse to the end (ནད་དང་གནོད་པ་གང་ཡོད་པ … ཅེས་བྱ་བ་ནི). It glosses at 3.98/1000 and contains 75% of the verse collection Va_3CEY.md (བསྟན་བཅོས་ཚིགས་སུ་བཅད་པ་བསྡུས་པ) and 57% of Va_3CE6.md. The title does not name a separate root work.",
+    "named_root": null,
+    "root_candidates": ["Va_3CEY.md", "Va_3CE6.md"]
+  },
+  "Di_3CEf_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པའི་འགྲེལ་པ; it quotes the praise's lines and explains them (རྒྱལ་བའི་ཡོན་ཏན་མཐའ་མི་འཚལ་ཞེས་བྱ་བ … འདིས་ནི; གང་སླད་འགྲོ་འདིས་ཁྱོད་ལ་བསྟོད་པ་བགྱིས་ཀྱང་ཞེས་བྱ་བ་འདིས་ནི …).",
+    "named_root": "ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པ",
+    "root_candidates": []
+  },
+  "Di_3CEg_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པའི་དོན་གྱི་ཚིག་ལེའུར་བྱས་པ, a verse summary of one praise's content. It sets out the praise's verse structure (ཚིགས་བཅད་དོན་བཞི་ལྡན་པ་ཡིས། །བསྟོད་པའི་གླེང་ནི་བསླང་བ་བསྟན) and closes with བསྟོད་པའི་དོན་ནི་བསྡུས་པ་བསྟན. Its topics match the analysis in Di_3CEf_.md.",
+    "named_root": "ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པ",
+    "root_candidates": []
+  },
+  "Di_3CEh_.md": {
+    "file_type": null,
+    "confidence": "low",
+    "evidence": "Title ཨེ་ཀ་ནཱ་ཐའི་དོན་འགྲེལ. I read the full 350-syllable file: it is a continuous verse praise, with no glossing, that works the lines of one known verse (ལྷ་ཡུལ་ས་ལ་ཡོད་མིན་འཇིག་རྟེན་འདིར་མིན་རྣམ་ཐོས་བུ་ཡི་གནས་ནའང་མེད … སྐྱེས་བུ་ཁྱུ་མཆོག་ཁྱོད་འདྲ …) into expanded stanzas and closes with a dedication. It could be read as a verse amplification of that one verse (commentary) or as an independent praise (root-text), so I left it undecided.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Di_3CEm_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: ཀུན་ཏུ་བཟང་པོའི་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོའི་བཤད་པ; the opening lists the prayer's ten topics, it glosses line by line at 12.06/1000 (བློ་ཡི་སྟོབས་ཀྱིས་ཞེས་བྱ་བ་ནི …), and the colophon reads འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོའི་བཤད་པ.",
+    "named_root": "ཀུན་ཏུ་བཟང་པོའི་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ",
+    "root_candidates": []
+  },
+  "Di_3CEo_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: ཆོས་མངོན་པའི་འགྲེལ་པ་གནད་ཀྱི་སྒྲོན་མ; the colophon calls it the ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་པ and, in verse, a commentary on the Kośa ཚིག་ལེ་འུར་བྱས་པ. It contains 61% of Va_3CEX.md (the Kośa verses). It also shares much of its prose with the bhāṣya Va_3CEJ.md / Va_3CEK.md (25–38% both ways), from the same homage onward.",
+    "named_root": "ཆོས་མངོན་པ་མཛོད",
+    "root_candidates": ["Va_3CEX.md"]
+  },
+  "Di_3CEp_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse treatise (87% metrical, almost no gloss markers) that states its own subject in the opening (ཚད་མ་བསྒྲུབ་ཕྱིར་རང་གི་གཞུང་ཀུན་ལས། །བཏུས་ཏེ …) and is titled ཚད་མ་ཀུན་ལས་བཏུས་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ. 52% of its text is found in the commentary Di_3CEr_.md. Its ~16% mutual overlap with Di_3CEq_.md suggests a related version of the same work.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Di_3CEr_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: ཚད་མ་ཀུན་ལས་བཏུས་པའི་འགྲེལ་པ; it quotes the root's opening verse and then explains it (འདིར་ཡང་རབ་ཏུ་བྱེད་པའི་དང་པོར …), and it contains 52% of the verse text Di_3CEp_.md and 15% of Di_3CEq_.md.",
+    "named_root": "ཚད་མ་ཀུན་ལས་བཏུས་པ",
+    "root_candidates": ["Di_3CEp_.md", "Di_3CEq_.md"]
+  }
+}

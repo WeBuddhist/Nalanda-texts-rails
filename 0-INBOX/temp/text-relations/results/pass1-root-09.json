@@ -1,0 +1,177 @@
+{
+  "Sh_3CD1.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Title and colophon present it as a ritual (ཆོ་ག) for reciting a dhāraṇī and building stūpas, compiled from sūtras (མདོ་སྡེ་ལས་བཏུས་པ); prose ritual instructions, no gloss markers. Shared passages with other ritual files (Na_3CB5, At_3CGH, Sh_3CD5) are common liturgical material, not quoted-and-explained text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CD2.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A variant of the same stūpa ritual (ཆོ་ག་མདོ་སྡེ་ལས་བསྡུས་པ) with near-identical opening to Sh_3CD1; ritual instructions and prayer verses, no gloss markers; colophon ascribes it to བོ་དྷི་ས་ཏཱ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CD3.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening and colophon describe a ritual for reading the sūtra and making offerings to the seven Tathāgatas (སྨོན་ལམ་གདབ་པའི་ཆོ་ག་མདོ་སྡེ་ལས་བསྡུས་ཏེ), titled མདོ་སྡེའི་མན་ངག; procedural prose with almost no gloss markers (0.04/1000). Overlap with Sh_3CD4–CD7 reflects versions of the same ritual, not commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CD4.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Title: ...གཟུངས་བཀླག་པའི་ཆོ་ག་མདོ་སྡེ་ལས་བཏུས་པ; opening gives ritual preparations (ལུས་ལེགས་པར་བཀྲུས་ལ...) and closing offering verses and torma instructions; negligible gloss markers. A ritual, sharing text with other versions of the same rite.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CD5.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening: སྨོན་ལམ་གདབ་པའི་ཆོ་ག་མདོ་སྡེ་ལས་བཏུས་ཏེ་རིམ་པར་བཀླག་པ, followed by invocation and supplication prose; closing requests departure of the deities. Liturgy, no glossing; its text recurs in the longer versions Sh_3CD3/CD6/CD4/CD7.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CD6.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Title ...གཟུངས་བཀླག་པའི་ཆོ་ག་མདོ་སྡེ་ལས་བཏུས་པ and colophon མདོ་སྡེའི་ཆོ་ག་རྫོགས་སོ; ritual preparation and supplication prose without glossing. Overlap with Sh_3CD3/CD4/CD5/CD7 reflects versions of one rite.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CD7.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Title ...གཟུངས་བཀླག་པའི་ཆོ་ག་མདོ་སྡེ་ལས་བཏུས་པ; opening homage to the seven Tathāgatas then ritual instructions, closing supplication verses; colophon སློབ་དཔོན་ཞི་བ་འཚོས་མཛད་པ. A ritual, no gloss pattern.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CD8.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Title and opening: དེ་ཁོ་ན་ཉིད་གྲུབ་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ with Sanskrit title, homage and statement of intent (དེ་ཉིད་གྲུབ་པ་བཤད་པར་བྱ); an independent treatise mixing prose and verse, low gloss rate, contains no other corpus file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CDA.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (95% metrical) titled དབུ་མ་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ with Sanskrit title, homage, and author colophon; no gloss markers. Its text is found 70% in Sh_3CDB (དབུ་མའི་རྒྱན་གྱི་འགྲེལ་པ), i.e. it is the root of that commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CDE.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Very long verse treatise (98% metrical) titled དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ with Sanskrit title and homage, stating its own subject; no gloss markers and contains no other corpus file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Sh_3CDF.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A ritual for removing defilement (གྲིབ་སེལ): opening gives instructions for effigies and torma, closing has ransom verses and mantras; colophon བཙུན་པ་མཁན་པོ་བོདྷི་ས་ཏྭས་མཛད་པའོ. No gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDK.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Independent treatise བསྟན་བཅོས་དབུ་མ་སྣང་བ with Sanskrit title, homage verse and statement of intent (ཆོས་ཐམས་ཅད་ངོ་བོ་ཉིད་མེད་པར་བསྟན་པའི་ཕྱིར་འདི་རྩོམ་མོ); argues its own thesis with low gloss rate (0.7/1000). Containing 27% of Ka_3CDM (a prose treatise by the same author) reflects reused argument, not line-by-line explanation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDL.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (99% metrical) titled དེ་ཁོ་ན་ཉིད་སྣང་བ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ with Sanskrit title, homage and own statement of intent; no glossing, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDM.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Prose treatise ཆོས་ཐམས་ཅད་རང་བཞིན་མེད་པ་ཉིད་དུ་གྲུབ་པ with homage and statement of intent (ཕྱིན་ཅི་མ་ལོག་པ་བསྟན་པའི་ཕྱིར་འདི་བརྩམ་མོ), examining arising by reasoning and scripture; low gloss rate, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDN.md": {
+    "file_type": "root-text",
+    "confidence": "low",
+    "evidence": "Titled བྱང་ཆུབ་ཀྱི་སེམས་བསྒོམ་པ; opening announces བྱང་ཆུབ་ཀྱི་སེམས་ཀྱི་རྣམ་པར་འགྲེལ་པ་བཤད་པར་བྱ and explains one scriptural stanza (དངོས་པོ་ཐམས་ཅད་དང་བྲལ་བ ...) phrase by phrase, then continues with many scripture citations (ཞེས་གསུངས་པ) and ends with an exhortation to meditate. It treats the topic of bodhicitta rather than following a named work, and contains no other corpus file; the single-stanza exposition is the reason for low confidence.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDO.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Independent meditation manual བསྒོམ་པའི་རིམ་པ (first): Sanskrit title, homage and statement of intent (རིམ་པ་མདོ་ཙམ་བརྗོད་པར་བྱ); colophon says it was composed at the king's request. Cites sūtras as support; low gloss rate, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDP.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Middle བསྒོམ་པའི་རིམ་པ: Sanskrit title, homage and own statement of intent (བསྒོམ་པའི་རིམ་པ་མདོར་བཤད་དོ), argued prose; low gloss rate. Mutual ~15% overlap with Ka_3CDQ is shared closing material between companion works, not commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDQ.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Final བསྒོམ་པའི་རིམ་པ: Sanskrit title, homage and statement of intent (བསྒོམ་པའི་རིམ་པ་མདོར་བརྗོད་པར་བྱའོ) on śamatha and vipaśyanā, citing scripture as support; low gloss rate. Mutual ~15% overlap with Ka_3CDP is shared material between companion works.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDR.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short treatise རྣལ་འབྱོར་བསྒོམ་པ་ལ་འཇུག་པ with Sanskrit title and homage, setting out its own subject (bodhicitta, śamatha, vipaśyanā) and citing scripture; no gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDV.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse instruction (80% metrical) given to the student ལྷོ་ཟ་ཚངས་པའི་དབྱངས on the kinds of suffering, introduced by a narrative frame; colophon names it as Kamalaśīla's teaching. No glossing, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDW.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse instruction (96% metrical) དད་སྐྱེད་སྒྲོན་མ with homage and statement of intent (བདག་གིས་བརྩམ་པར་བྱ), closing names itself མན་ངག་དད་སྐྱེད་སྒྲོན་མ; no glossing, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ka_3CDY.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short verse aspiration prayer (སྨོན་ལམ་མུ་གཉིས་མ) of ...པར་ཤོག lines after a homage to the Three Jewels; no glossing, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDc_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse praise (བསྟོད་པ) of the qualities of the dharmakāya, each stanza ending ཁྱོད་ལ་ཕྱག་འཚལ་ལོ; colophon names Asaṅga as author. No glossing; its text is found in As_3CDu_ and Va_3CEU, which quote it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDd_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Sādhana of Prajñāpāramitā (སྒྲུབ་ཐབས): Sanskrit title, homage, verses of intent (དེ་ཡི་སྒྲུབ་ཐབས་བྲི་བར་བྱ), then visualisation, offering and mantra instructions. The few ཞེས་པ་ནི markers explain its own ritual lines, not another work; contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDe_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Sādhana of Maitreya (འཕགས་པ་བྱམས་པའི་སྒྲུབ་ཐབས) with Sanskrit title and homage, giving visualisation, offering mantras, mudrā and recitation instructions; no gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

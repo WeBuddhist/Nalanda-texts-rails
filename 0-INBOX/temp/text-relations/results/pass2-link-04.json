@@ -1,0 +1,77 @@
+{
+  "Sh_3CD0.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས; no file in our corpus is this dhāraṇī. The only other file sharing a quoted line ('རྒྱལ་པོ་རྟག་ཏུ་ཁྲུས་གྱིས') is At_3CI7.md, a bathing ritual (ཁྲུས་ཀྱི་ཆོ་ག), not the dhāraṇī; no reuse above 6%."
+  },
+  "Sh_3CD9.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as བདེན་པ་གཉིས་རྣམ་པར་འབྱེད་པ and quotes its homage verse ('…ཐུབ་དབང་སྲས་བཅས་རྣམས…'), which occurs in no other file; no corpus file has this title (At_3CGs_.md བདེན་པ་གཉིས་ལ་འཇུག་པ is a different work)."
+  },
+  "Sh_3CDB.md": {
+    "commentary_of": "Sh_3CDA.md",
+    "link_confidence": "high",
+    "link_evidence": "Title དབུ་མའི་རྒྱན་གྱི་འགྲེལ་པ names the work of Sh_3CDA.md (དབུ་མ་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ), and it contains 78% of Sh_3CDA.md's text (the verses it explains)."
+  },
+  "Sh_3CDC.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as སྡོམ་པ་ཉི་ཤུ་པ; no corpus file has this title or its verses (At_3CHC.md, At_3CGv_.md, At_3CGz_.md only mention the name). Its overlap is with ritual texts and the Bodhisattvabhūmi it draws on, not a root."
+  },
+  "Sh_3CDD.md": {
+    "commentary_of": "Dh_3CFC.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon རྩོད་པའི་རིགས་པའི་འགྲེལ་པ name the work of Dh_3CFC.md (རྩོད་པའི་རིགས་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ), and it contains 31% of Dh_3CFC.md's text, its highest share."
+  },
+  "Ka_3CDG.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ (a sūtra); no corpus file has this title, and its reuse figures show only generic overlap with other commentaries."
+  },
+  "Ka_3CDH.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ (the sūtra; colophon: འཕགས་པ་རྡོ་རྗེ་གཅོད་པ་དབུ་མའི་ཚུལ་དུ་རྒྱ་ཆེར་འགྲེལ་པ); the sūtra is not in our corpus. Va_3CE4.md is another commentary on the same sūtra, not its root (22% overlap is shared sūtra-commentary language)."
+  },
+  "Ka_3CDI.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོ (the sūtra); no corpus file is this sūtra (Na_3CA3.md is a sādhana, At_3CGr_.md another commentary), and no reuse above 6%."
+  },
+  "Ka_3CDJ.md": {
+    "commentary_of": "Sh_3CDB.md",
+    "link_confidence": "high",
+    "link_evidence": "Title དབུ་མའི་རྒྱན་གྱི་དཀའ་འགྲེལ names the Madhyamakālaṃkāra, and it glosses the prose commentary's own verses, not only the kārikās: its opening explains 'གང་དག་ཅེས་བྱ་བ', the homage verse that opens Sh_3CDB.md (absent from Sh_3CDA.md), and its closing glosses 'བློ་མིག་ཞིབ་པ', found in Sh_3CDB.md only. It contains 19% of Sh_3CDB.md and 17% of Sh_3CDA.md."
+  },
+  "Ka_3CDS.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as འཕགས་པ་རྣམ་པར་མི་རྟོག་པར་འཇུག་པའི་གཟུངས; no corpus file has this title, and its reuse figures show only generic overlap with other commentaries."
+  },
+  "Ka_3CDT.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as འཕགས་པ་སཱ་ལུ་ལྗང་པའི་མདོ་སྡེ (the sūtra); the sūtra is not in our corpus. Na_3CB6.md is a verse work (སཱ་ལུ་ལྗང་པའི་ཚིག་ལེའུར་བྱས་པ) and Na_3CB7.md another commentary on the sūtra; neither appears in its reuse figures."
+  },
+  "Ka_3CDU.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as དགེ་སྦྱོང་གི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པ; no corpus file has this title, and the verses it quotes ('ཁམས་བདེ་མི་བདེ་ལ་སོགས་དྲི', 'ཁྱོར་བའམ་འདབ་མས་བུམ་པ་དགང་', 'དེ་ལྟར་བསྒྲིམས་དང་ལྡན་པར་བྱ') occur in no other file, including the དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ files Na_3CBB.md and Sh_3CFZ.md."
+  },
+  "Ka_3CDX.md": {
+    "commentary_of": "Dh_3CF7.md",
+    "link_confidence": "medium",
+    "link_evidence": "Title རིགས་པའི་ཐིགས་པའི་ཕྱོགས་སྔ་མ་མདོར་བསྡུས་པ names the work of Dh_3CF7.md (རིགས་པའི་ཐིགས་པ), and it explains why terms of Dh_3CF7.md's thesis definition ('རང་གི་ངོ་བོ་ཁོ་ན་དང་། བདག་ཉིད་དང་། འདོད་པ') are stated. It is a summary of opponents' views rather than a running gloss, and quotes little verbatim: 10% of Dh_3CF7.md, its top share but only slightly above other files."
+  },
+  "Ka_3CDZ.md": {
+    "commentary_of": "Sh_3CDE.md",
+    "link_confidence": "high",
+    "link_evidence": "Title དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་དཀའ་འགྲེལ names the work of Sh_3CDE.md (དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ), and lemmas it glosses (e.g. 'ཡོན་ཏན་གསུམ་ལྡན་དབྱེར་མེད') are found in Sh_3CDE.md only. Its share of Sh_3CDE.md is low because the root file is very large (~1.4 MB)."
+  },
+  "Ka_3CDa_.md": {
+    "commentary_of": "Sh_3CDE.md",
+    "link_confidence": "high",
+    "link_evidence": "Middle volume of དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་དཀའ་འགྲེལ (chapter colophons), naming the work of Sh_3CDE.md; its opening lemma 'སྒྲོ་བཏགས་རྣམ་པའི་སྒྲ་དང་ཤེས་པའི་སྤྱོད་ཡུལ་ཅན' is a line of Sh_3CDE.md's opening verses ('སྒྲོ་བཏགས་རྣམ་ཅན་ནི། །སྒྲ་དང་ཤེས་པའི་སྤྱོད་ཡུལ་ཅན')."
+  }
+}

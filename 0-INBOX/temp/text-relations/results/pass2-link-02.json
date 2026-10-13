@@ -1,0 +1,77 @@
+{
+  "Na_3CAw_.md": {
+    "commentary_of": "Na_3CAv_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon name ཡི་གེ་བརྒྱ་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པའི་འགྲེལ་པ, matching the title ཡི་གེ་བརྒྱ་པ of Na_3CAv_.md; it contains 48% of Na_3CAv_.md's text (the theses it explains)."
+  },
+  "Na_3CAy_.md": {
+    "commentary_of": "Na_3CAx_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon name རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་སྙིང་པོ, the work of Na_3CAx_.md (རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བའི་སྙིང་པོའི་ཚིག་ལེའུར་བྱས་པ); it contains 68% of Na_3CAx_.md, including its verse ཉོན་མོངས་ལས་དང་སྡུག་བསྔལ་དང་།."
+  },
+  "Na_3CB7.md": {
+    "commentary_of": "Na_3CB6.md",
+    "link_confidence": "high",
+    "link_evidence": "Title names the Śālistamba (འཕགས་པ་སཱ་ལུ་ལྗང་པ་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ), whose verse version is Na_3CB6.md (འཕགས་པ་སཱ་ལུ་ལྗང་པའི་ཚིག་ལེའུར་བྱས་པ); it opens by glossing Na_3CB6.md's first line ཡོན་ཏན་མཐའ་ཡས་བསམ་མི་ཁྱབ། and contains 68% of Na_3CB6.md."
+  },
+  "Na_3CB8.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as བྱང་ཆུབ་ཀྱི་ལྟུང་བ་བཤགས་པ (བྱང་ཆུབ་ལྟུང་བཤགས, a sūtra section it says is taken from the དཀོན་མཆོག་བརྩེགས་པ); no file in our corpus has this title (At_3CHD.md ལྟུང་བ་བཤགས་པའི་ཆོ་ག is a different rite) and no file shares more than 8% of its text."
+  },
+  "Na_3CB9.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ་ཆེན་པོ; no root-text file in our corpus has this title (only parallel commentaries Va_3CEE.md and Di_3CEm_.md, 22% shared, comment on the same prayer)."
+  },
+  "Na_3CBA.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as འཕགས་པ་ཆོས་ཀྱི་དབྱིངས་ཀྱི་སྙིང་པོ and explains the verse ཆོས་རྣམས་གང་དག་རྒྱུས་བྱུང་དེ་དག་ནི།; no file in our corpus has this title and none shares more than 10% of its text."
+  },
+  "Ar_3CBb_.md": {
+    "commentary_of": "Ch_3CCa_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon name སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་འགྲེལ་བཤད, i.e. a sub-commentary on Ch_3CCa_.md (སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ), and its closing verse says it clarifies what the རྒྱུད་ཆེན་འགྲེལ left unclear; it glosses lines from Ch_3CCa_.md's introductory verses (ཇི་བཞིན་མིན་སྒྲ་ཞེས་བྱ་བ་ལ་སོགས་པ་སྨོས་ཏེ, ཇི་སྲིད་ཡ་ར་ལ་ཧའི་བར།)."
+  },
+  "Ar_3CBd_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as གདན་བཞི་པ་ཡི་རྒྱུད (the Catuṣpīṭha tantra), glossing its terms (ཤིང་གཅིག, etc.); the tantra itself is not in our corpus (Ar_3CBa_.md and Ar_3CBg_.md are a maṇḍala rite and a sādhana of it, not the tantra) and no file shares more than 5% of its text."
+  },
+  "Ar_3CBm_.md": {
+    "commentary_of": "Ch_3CCa_.md",
+    "link_confidence": "low",
+    "link_evidence": "Names no root; the whole text explains one verse, ཇི་སྲིད་ཡ་ར་ལ་ཧའི་བར། །ཀ་ཁ་གྷ་མཐའ་ན་ཛའི་མཐའ།..., which in our corpus occurs only in the introductory verses of Ch_3CCa_.md (and in Ar_3CBb_.md, a commentary on Ch_3CCa_.md). The verse may be quoted there from elsewhere, so this is only a leaning."
+  },
+  "Ar_3CC0.md": {
+    "commentary_of": "Ar_3CBz_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon ཆ་ཤས་ཀྱི་ཡན་ལག་ཅེས་བྱ་བའི་རབ་ཏུ་བྱེད་པའི་འགྲེལ་པ name the title of Ar_3CBz_.md; it contains 73% of Ar_3CBz_.md, including ཐག་པ་ལ་ནི་སྦྲུལ་སྙམ་འཛིན། (it also contains 58% of Ar_3CC3.md, another verse text of the same treatise, which Ar_3CC4.md names)."
+  },
+  "Ar_3CC4.md": {
+    "commentary_of": "Ar_3CC3.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon རབ་ཏུ་བྱེད་པ་ལག་པའི་ཚད་ཀྱི་འགྲེལ་པ name the work of Ar_3CC3.md (རབ་ཏུ་བྱེད་པ་ལག་པའི་ཚད་ཀྱི་ཚིག་ལེའུར་བྱས་པ); it contains 63% of Ar_3CC3.md, against 48% of the parallel Ar_3CBz_.md."
+  },
+  "Bu_3CCC.md": {
+    "commentary_of": "Na_3CAk_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title དབུ་མ་རྩ་བའི་འགྲེལ་པ names the work of Na_3CAk_.md (དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ་ཤེས་རབ); it contains 73% of Na_3CAk_.md's verses."
+  },
+  "Bh_3CCD.md": {
+    "commentary_of": "Ch_3CCa_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title names སྒྲོན་མ་གསལ་བར་བྱེད་པའི་...ཊཱི་ཀཱ and the colophon reads སྒྲོན་མ་གསལ་བའི་ཊཱི་ཀཱ, i.e. a sub-commentary on Ch_3CCa_.md (སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ); its ཞེས་པ་ནི lemmas follow Ch_3CCa_.md (155 of 419 found there, against 69 in the tantra commentary Na_3C9l_.md)."
+  },
+  "Bh_3CCE.md": {
+    "commentary_of": "Ch_3CCa_.md",
+    "link_confidence": "high",
+    "link_evidence": "Second volume of the same ṭīkā; colophon སྒྲོན་མ་གསལ་བར་བྱེད་པའི་འགྲེལ་པའི་ཊཱི་ཀཱ names Ch_3CCa_.md's work, and its ཞེས་པ་ནི lemmas follow Ch_3CCa_.md (790 of 1911 found there, e.g. the opening lemma ལྷ་ལ་དམིགས་པ་སྔོན་དུ་འགྲོ་བས, against 218 in Na_3C9l_.md)."
+  },
+  "Bh_3CCF.md": {
+    "commentary_of": "Ch_3CCa_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon སྒྲོན་མ་གསལ་བར་བྱེད་པའི་རྡོ་རྗེའི་ཚིག་གི་དཀའ་བ་བཏུས་ཏེ་བཤད་པ name the work of Ch_3CCa_.md and say it follows its chapters (ལེའུ་བཅུ་བདུན་པའི་དཀའ་བ་བཏུས་པ); its ཞེས་བྱ་བ་ནི lemmas follow Ch_3CCa_.md (56 of 121 found there, against 24 in Na_3C9l_.md)."
+  }
+}

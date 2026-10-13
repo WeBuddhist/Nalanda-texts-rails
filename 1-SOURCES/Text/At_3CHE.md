@@ -1,27 +1,3 @@
----
-title: ཁ་ཏོན་དང་གླེགས་བམ་ཀླག་པའི་སྔོན་དུ་བྱ་བའི་ཆོ་ག།
-alt_titles:
-  - bo: "ཁ་ཏོན་དང་གླེགས་བམ་ཀླག་པའི་སྔོན་དུ་བྱ་བའི་ཆོ་ག་བཞུགས།"
-  - en: ""
-author:
-author_in_english: Atiśa
-translator:
-date:
-language: Tibetan
-script: Unicode Tibetan
-file_type: root-text
-lang_tag: bo
-verse_id_format:
-collected_works: Atisha
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx (17-Atisha)"
-source: https://wb.pub/3CHE
-bdrc_work_id: WA0RT3315
-openpecha_text_id: 81Fe9l8YkLZL6l6RBvBrA
-license: Public Domain Mark
-category_id: kj8dljKGdBUuL4GkkVXbB
-category: Middle Way / དབུ་མ།
----
-
 ## ༄། །ཁ་ཏོན་དང་གླེགས་བམ་ཀླག་པའི་སྔོན་དུ་བྱ་བའི་ཆོ་ག་བཞུགས།
 
 ༄༅༅། །ཁ་ཏོན་དང་གླེགས་བམ་ཀླག༌[^1]པའི་སྔོན་དུ་བྱ་བའི་ཆོ་ག །སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ། །དང་པོ་རེ་ཞིག་བྱང་ཆུབ་སེམས་དཔའ་ཆོས་ཁ་ཏོན་དུ་བྱ་བར་འདོད་པ་དང་གླེགས་བམ་དུ་བྱ་བ་ཀློག་པར་འདོད་པས་ཕྱོགས་བཅུའི་འཇིག་རྟེན་གྱི་ཁམས་ཀྱི༌[^2]སངས་རྒྱས་དང་བྱང་ཆུབ་སེམས་དཔའ་ཐམས་ཅད་ལ་གསོལ་བ་བཏབ་སྟེ། ཡིད་ཀྱིས་ཀུན་དུ་དམིགས་ལ། བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཀུན་དུ་བཟང་པོའི་སྤྱོད་པའི་སྨོན་ལམ་གྱི་ཆོ་གས།[^3] ཕྱག་འཚལ་བ་ལ་སོགས་པ་ཡན་ལག་བདུན་གྱི་ཚུལ་དུ་མཆོད་པ་རྣམས་ཀྱིས་ཡང་དག་པར་མཆོད་དོ། །

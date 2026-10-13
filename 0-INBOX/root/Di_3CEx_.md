@@ -1,3 +1,26 @@
+---
+title: "གཏན་ཚིགས་ཀྱི་འཁོར་ལོ་གཏན་ལ་དབབ་པ།"
+alt_titles:
+author: "སློབ་དཔོན་ཕྱོགས་གླང་།"
+author_in_english: "Dignāga"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+root_text:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 76) ཕྱོགས་གླང་གི་གསུང་འབུམ། ཁ༽ .docx (11-Dignaga); https://wb.pub/3CEx"
+bdrc_work_id: "WA0RT3546"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "11-Dignaga"
+category_id: "v3L4eTn4x2E30znIhHvQe"
+category_name: "Logic / ཚད་མ།"
+openpecha_text_id: "YlCMmu1JLSVa3o4yFOx3K"
+---
+
 ### ༄༅། །གཏན་ཚིགས་ཀྱི་འཁོར་ལོ་གཏན་ལ་དབབ་པ།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཧེ་ཏུ་ཙཀྲ་ཧ་མཱརྠ། བོད་སྐད་དུ། གཏན་ཚིགས་ཀྱི་འཁོར་ལོ་གཏན་ལ་དབབ་པ། འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །འཁྲུལ་པའི་དྲ་བ་འཇོམས་མཛད་པའི། །ཐམས་ཅད་མཁྱེན་ལ་ཕྱག་འཚལ་ནས། །གཏན་ཚིགས་ཚུལ་གསུམ་འཁོར་ལོ༌[^1]ཡི། །གཏན་ལ་དབབ་པ་བཤད་པར་བྱ། །རྗེས་སུ་དཔག་པར་བྱ་བ་ལ། །ཡོད་དང་མེད་དང་གཉིས་ཀ་ཡི། །ཡོད་པ་ལ་ནི་ཡང་དག་སྟེ། །མེད་དང་གཉིས་ཀ་མ་གྲུབ་ཡིན། །ཐེ་ཚོམ་གཉིས་ཏེ་མ་གྲུབ་བཞིན། །མ་གྲུབ་སྦྱར་བ་དེ་བཞིན་དུ། །མཐུན་པའི་ཕྱོགས་ལ་ཡོད་པ་དང་། །མེད་པ་དེ་བཞིན་གཉིས་ཀ་དང་། །མི་མཐུན་ཕྱོགས་ལ་དེ་བཞིན་ནོ། །

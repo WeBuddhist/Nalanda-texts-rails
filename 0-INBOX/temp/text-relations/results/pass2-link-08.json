@@ -1,0 +1,77 @@
+{
+  "Ar_3CFE.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན (the Abhisamayālaṃkāra); no file in our corpus is that treatise: its opening verse ཉན་ཐོས་ཞི་བ་ཚོལ་རྣམས occurs only in commentaries (Ha_3CFF, Ha_3CFK, Ha_3CFN). Its overlap with Ha_3CFN.md / Ha_3CFF.md is with sibling commentaries on the same treatise and with the 25,000-line sūtra arrangement, not with the named root."
+  },
+  "Ha_3CFF.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Vol. 1 of the 25,000-line sūtra (ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ) divided by topic labels (…ཞེས་བྱ་བ་ནི་X་ཡིན་ནོ), with an opening statement ཐེ་ཚོམ་ཡུལ་མིན་མདོ་འདི་…རིག་པར་བདག་གིས་དབྱེ; the sūtra it divides is carried within these files and no separate copy of it is in our corpus. Ha_3CFG/H/I/J are later volumes of this same work, not its root."
+  },
+  "Ha_3CFG.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Vol. 2 (opens at བམ་པོ་བཅུ་བཞི་པ) of the same topic-divided 25,000-line sūtra as Ha_3CFF.md; the named root ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ has no separate file in our corpus. Ha_3CFF.md is an earlier volume of the same work, not its root."
+  },
+  "Ha_3CFH.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Vol. 3 (opens at བམ་པོ་སུམ་ཅུ་གཉིས་པ) of the same topic-divided 25,000-line sūtra as Ha_3CFF.md; the named root ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ has no separate file in our corpus."
+  },
+  "Ha_3CFI.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Vol. 4 (opens at བམ་པོ་བཞི་བཅུ་དགུ་པ) of the same topic-divided 25,000-line sūtra as Ha_3CFF.md; the named root ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ has no separate file in our corpus."
+  },
+  "Ha_3CFJ.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Last volume (opens at བམ་པོ་དྲུག་ཅུ་གཅིག་པ, ends with the sūtra's own colophon) of the same topic-divided 25,000-line sūtra as Ha_3CFF.md; the named root ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ has no separate file in our corpus."
+  },
+  "Ha_3CFK.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པ (title: …བརྒྱད་སྟོང་པའི་བཤད་པ་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ); no file in our corpus is the 8,000-line sūtra, and the Abhisamayālaṃkāra it also follows is not in the corpus either. Its overlap with Ha_3CFN.md is a sibling commentary on the same treatise."
+  },
+  "Ha_3CFL.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Lower volume (སྨད་ཆ) of the same work as Ha_3CFK.md, naming its root as འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པ; no file in our corpus is the 8,000-line sūtra. Its 44% overlap with Ha_3CFN.md is a sibling commentary on the Abhisamayālaṃkāra, not its root."
+  },
+  "Ha_3CFM.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པ; the phrase ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པ occurs in no other file of our corpus and no file shares its verses."
+  },
+  "Ha_3CFN.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན (the Abhisamayālaṃkāra); no file in our corpus is that treatise — its verses (e.g. ཉན་ཐོས་ཞི་བ་ཚོལ་རྣམས) occur only inside commentaries (Ar_3CFE, Ha_3CFF, Ha_3CFK)."
+  },
+  "Gu_3CFP.md": {
+    "commentary_of": "As_3CDn_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon name བྱང་ཆུབ་སེམས་དཔའི་སའི་འགྲེལ་པ, a commentary on བྱང་ཆུབ་སེམས་དཔའི་ས, which is As_3CDn_.md (རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་བྱང་ཆུབ་སེམས་དཔའི་ས); about 67 of 156 lemmas it glosses (… ཞེས་བྱ་བ་ནི) are found verbatim in As_3CDn_.md."
+  },
+  "Gu_3CFQ.md": {
+    "commentary_of": "As_3CDn_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon name བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུ་བཤད་པ, the śīla chapter of the བྱང་ཆུབ་སེམས་དཔའི་ས (As_3CDn_.md, which contains ཚུལ་ཁྲིམས་ཀྱི་ལེའུ); its first lemma ཡོན་ཏན་བཞི་དང་ལྡན་པ and about 11 of 23 glossed lemmas are found in As_3CDn_.md. Gu_3CFP.md's colophon (ཚུལ་ཁྲིམས་རིམ་པར་ཕྱེ་བ་ནི་གོང་དུ་ཕྱུང་བ་ཡིན) is consistent with this chapter being commented separately."
+  },
+  "Gu_3CFR.md": {
+    "commentary_of": "Va_3CEP.md",
+    "link_confidence": "high",
+    "link_evidence": "Title ཕུང་པོ་ལྔའི་རྣམ་པར་འགྲེལ་པ and opening ཕུང་པོ་ལྔ་ཞེས་བྱ་བ་འདི་ནི་ཆོས་མངོན་པའི་བསྟན་བཅོས་སོ name the ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ; it contains 65% of Va_3CEP.md's text against only 11% of the same-titled Ch_3CCX.md, and more of its glossed lemmas match Va_3CEP.md (14) than Ch_3CCX.md (6)."
+  },
+  "Gu_3CFU.md": {
+    "commentary_of": "Gu_3CFS.md",
+    "link_confidence": "high",
+    "link_evidence": "Title names འདུལ་བའི་མདོའི་འགྲེལ་པ…རང་གི་རྣམ་པར་བཤད་པ and the opening verse says འདུལ་བའི་མདོ་རྣམས་…རང་གིས་དེ་ཉིད་རྣམ་བཤད་བྱ, then quotes and glosses the first sūtra; it contains 26% of Gu_3CFS.md (འདུལ་བའི་མདོ), its top overlap."
+  },
+  "Gu_3CFV.md": {
+    "commentary_of": "Gu_3CFS.md",
+    "link_confidence": "high",
+    "link_evidence": "Vol. 2 of འདུལ་བའི་མདོའི་འགྲེལ་པ་མངོན་པར་བརྗོད་པ་རང་གི་རྣམ་པར་བཤད་པ, quoting and glossing sūtra lines throughout (… ཞེས་བྱ་བ་ལ། … ཞེས་བྱ་བ་ནི); it contains 28% of Gu_3CFS.md (འདུལ་བའི་མདོ), its top overlap."
+  }
+}

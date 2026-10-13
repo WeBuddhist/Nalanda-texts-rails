@@ -1,29 +1,3 @@
----
-title: ཤ་ཟ་གནོད་སྦྱིན་མཁའ་འགྲོ་ཀུན་ནས་འཁྱིལ་པའི་རྟོགས་པ་ལས་བྱུང་བའི་གྭ་ཐབས་ཞེས་བྱ་བ།
-alt_titles:
-  - bo: ""
-  - en: ""
-author:
-author_in_english:
-translator:
-date:
-language: Tibetan
-script: Unicode Tibetan
-file_type: root-text
-lang_tag: bo
-verse_id_format:
-related_commentaries:
-  - 1-SOURCES/Text/Na_3CAa_.md
-collected_works: Nagarjuna
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 18) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ང༽ .docx (01-Nagarjuna)"
-source: https://wb.pub/3CAZ
-bdrc_work_id:
-openpecha_text_id:
-license:
-category_id:
-category:
----
-
 ## ༄༅། །ཤ་ཟ་གནོད་སྦྱིན་མཁའ་འགྲོ་ཀུན་ནས་འཁྱིལ་པའི་རྟོགས་པ་ལས་བྱུང་བའི་གྭ་ཐབས་ཞེས་བྱ་བ།
 
 ༄། གནོད་སྦྱིན་མོ་ཀུན་ནས་འཁྱིལ་པ་མཆེད་གསུམ་གྱི་སྒྲུབ་ཐབས་བཞུགས་སོ། །

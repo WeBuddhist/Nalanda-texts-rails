@@ -1,0 +1,77 @@
+{
+  "Va_3CE7.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Title and colophon name its root as the dhāraṇī འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས; no file in our corpus has this title (Va_3CE1.md, which shares 73% of its text, is another copy of this same commentary, not the root)."
+  },
+  "Va_3CE8.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the sūtra འཕགས་པ་ཆོས་བཞི་པ (opening quotes … ཞེས་བྱ་བའི་མདོ་འདི་ཅིའི་ཕྱིར་བརྩམས་ཤེ་ན); no file in our corpus has this title, and its text-reuse is low (≤13%) and spread over unrelated files."
+  },
+  "Va_3CE9.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Opening and colophon name its root as འཕགས་པ་ག་ཡ་མགོའི་རི་ཞེས་བྱ་བའི་མདོ; no file in our corpus has this title or shares its text (overlaps are only shared phrasing with other Vasubandhu commentaries)."
+  },
+  "Va_3CEA.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the sūtra འཕགས་པ་ས་བཅུ་པ (colophon: འཕགས་པ་ས་བཅུ་པ་ལས … ས་བཅུ་རྣམ་པར་བཤད་པ་རྫོགས་སོ); no file in our corpus has this title, and the overlaps are with other commentaries, not a root."
+  },
+  "Va_3CEB.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "First half of a commentary on the sūtra འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པ (named in the title); no file in our corpus has this title (its continuation is Va_3CEC.md, another part of the same commentary)."
+  },
+  "Va_3CEC.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Second half of Va_3CEB.md; colophon reads འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པའི་བཤད་པ་རྫོགས་སོ, naming the sūtra འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པ, which is not in our corpus."
+  },
+  "Va_3CED.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Colophon names its root as རྟེན་ཅིང་འབྲེལ་བར་འབྱུང་བ་དང་པོ་དང་རྣམ་པར་འབྱེད་པའི་མདོ་སྡེ; no file in our corpus has this title (its 14–18% overlaps with Va_3CES.md, Na_3CAv_.md etc. are shared doctrinal phrasing, not a quoted root)."
+  },
+  "Va_3CEE.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the prayer འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ; no root-text file in our corpus has this title (Na_3CB9.md and Di_3CEm_.md are other commentaries on the same prayer; At_3CHE.md is a recitation ritual that only mentions the prayer)."
+  },
+  "Va_3CEF.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Chapter colophons name its root as བསྟན་བཅོས་དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པ (verse text དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་ཚིག་ལེའུར་བྱས་པ); no file in our corpus has this title or shares its text."
+  },
+  "Va_3CEG.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Opening promises to explain བསྟན་བཅོས་འདི and the title names its root as ཆོས་དང་ཆོས་ཉིད་རྣམ་པར་འབྱེད་པ; no file in our corpus has this title or shares its text."
+  },
+  "Va_3CEH.md": {
+    "commentary_of": "As_3CDu_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon ཐེག་པ་ཆེན་པོ་བསྡུས་པའི་འགྲེལ་པ name ཐེག་པ་ཆེན་པོ་བསྡུས་པ, the title of As_3CDu_.md; it contains 29% of As_3CDu_.md's text, its top reuse match."
+  },
+  "Va_3CEI.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the sūtra དམ་པའི་ཆོས་པདྨ་དཀར་པོ (opening: དམ་པའི་ཆོས་པུཎྜ་རཱི་ཀའི་འགྲེལ་པ; མདོ་སྡེ་འདི་བཤད་པ་ལ); no file in our corpus has this title. Note the colophon attributes it to སའི་རྩ་ལག, not Vasubandhu."
+  },
+  "Va_3CEJ.md": {
+    "commentary_of": "Va_3CEX.md",
+    "link_confidence": "high",
+    "link_evidence": "Title ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ and opening verse ཆོས་མངོན་མཛོད་ཀྱི་བསྟན་བཅོས་རབ་བཤད་བྱ name the Kośa, whose verse text is Va_3CEX.md (ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ); it contains 29% of Va_3CEX.md. Its larger overlap with Di_3CEo_.md is with another commentary, not the root."
+  },
+  "Va_3CEK.md": {
+    "commentary_of": "Va_3CEX.md",
+    "link_confidence": "high",
+    "link_evidence": "Second half of Va_3CEJ.md; colophon ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ … རྫོགས་སོ names the Kośa, and the opening quotes its verses (རྣམ་རིག་བྱེད་ནི་ཐམས་ཅད་ལ། །…); it contains 39% of Va_3CEX.md."
+  },
+  "Va_3CEN.md": {
+    "commentary_of": "Va_3CEM.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon ཉི་ཤུ་པའི་འགྲེལ་པ name ཉི་ཤུ་པ, the work of Va_3CEM.md (ཉི་ཤུ་པའི་ཚིག་ལེའུར་བྱས་པ); it contains 66% of Va_3CEM.md's text."
+  }
+}
