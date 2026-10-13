@@ -8,8 +8,8 @@ parser payloads in 4-SYSTEM/scripts/parser-root-text/output/<id>/ in this order:
     2. POST /v2/texts/{text_id}/editions       <- <id>.edition.json    -> edition_id
     3. POST /v2/editions/{edition_id}/table-of-contents
                                                <- <id>.toc.json        -> toc_id
-    4. POST /v2/editions/{edition_id}/durchens <- <id>.durchens.json   a list, atomic, in batches
-                                                                       of 500; one id per note
+    4. POST /v2/editions/{edition_id}/durchens <- <id>.durchens.json   all notes in one atomic
+                                                                       request; one id per note
     5. POST /v2/editions/{edition_id}/yigchungs <- <id>.yigchungs.json only when the file exists
 
 After each successful step the id is written into the source frontmatter
@@ -66,7 +66,6 @@ SOURCES = lint.SOURCES
 PARSE_OUT = lint.PARSE_OUT
 LEDGER = lint.UPLOAD_STATUS
 STEPS = ("text", "edition", "toc", "durchens", "yigchungs")
-DURCHEN_BATCH = 500  # notes per POST; the endpoint is atomic per request
 
 
 def _load_env():
@@ -394,17 +393,29 @@ def upload_one(tid, payloads, paths, entry, ledger):
             if len(live) != posted:
                 raise RuntimeError(f"resume: live edition has {len(live)} durchens, ledger records {posted} — "
                                    f"check before posting more (a response may have been lost)")
-        # the endpoint takes a list and is atomic: each batch is created whole or not at all,
-        # and returns one id per note, in order
-        todo = [i for i, x in enumerate(ids) if not x]
-        for start in range(0, len(todo), DURCHEN_BATCH):
-            batch = todo[start:start + DURCHEN_BATCH]
-            res = call("POST", f"/v2/editions/{eid}/durchens", [notes[i] for i in batch])
+        # the endpoint takes a list and is atomic, returning one id per note in order: send every
+        # note in one request, so a text gets all its durchens or none. Only if the server refuses
+        # the request as too large (413, nothing created) is it split in halves and retried.
+        def post(batch):
+            try:
+                res = call("POST", f"/v2/editions/{eid}/durchens", [notes[i] for i in batch])
+            except ApiError as exc:
+                if "HTTP 413 " in str(exc) and len(batch) > 1:
+                    half = len(batch) // 2
+                    print(f"    durchens  {len(batch)} too large for one request — splitting")
+                    post(batch[:half])
+                    post(batch[half:])
+                    return
+                raise
             if len(res) != len(batch):
                 raise RuntimeError(f"durchens: sent {len(batch)}, got {len(res)} ids back")
             for i, r in zip(batch, res):
                 ids[i] = r["id"]
             save()
+
+        todo = [i for i, x in enumerate(ids) if not x]
+        if todo:
+            post(todo)
         done("durchens", "durchen_count", len(notes))
 
     marks = (payloads.get("yigchungs") or {}).get("yigchungs", [])

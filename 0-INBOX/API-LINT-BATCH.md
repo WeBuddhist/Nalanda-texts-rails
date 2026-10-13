@@ -67,7 +67,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 45 | As_3CDr_ | medium | 81,613 | done | OK | 0 | 2 | 0 | OK | 201 | 316 | 11 | no | uploaded | yuBW2IlmWGYm59zVKkvof | ✓ | ✓ | 316/316 |  |  |
 | 46 | As_3CDs_ | medium | 104,296 | done | OK | 0 | 1 | 0 | OK | 219 | 435 | 4 | no | uploaded | R8RjEHoQTrfvLQ0JOqIY0 | ✓ | ✓ | 435/435 |  |  |
 | 47 | As_3CDt_ | medium | 86,299 | done | OK | 0 | 1 | 0 | OK | 133 | 341 | 12 | no | uploaded | 3Hwx0gQq1mkH7vvPpOxIi | ✓ | ✓ | 341/341 |  |  |
-| 48 | As_3CDu_ | medium | 170,209 | done | OK | 0 | 2 | 0 | OK | 432 | 722 | 15 | no | uploaded | xqeecMhkpR18pPtnPhgDE | ✓ | ✓ | 722/722 |  |  |
+| 48 | As_3CDu_ | medium | 170,209 | done | OK | 0 | 2 | 0 | OK | 432 | 722 | 15 | no | uploaded | 0IRuOSUQsb5ekznkVG0Nf | ✓ | ✓ | 722/722 |  |  |
 | 49 | As_3CDv_ | large | 306,339 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 50 | As_3CDw_ | small | 26,385 | done | OK | 0 | 1 | 0 | OK | 97 | 122 | 20 | no | uploaded | YG7C9dajerCVWAVAr6Dzd | ✓ | ✓ | 122/122 |  |  |
 | 51 | At_3CFb_ | small | 23,182 | done | OK | 0 | 2 | 0 | OK | 112 | 46 | 9 | no | uploaded | zb3jVYhLJvpDEO51yTxh8 | ✓ | ✓ | 46/46 |  |  |
