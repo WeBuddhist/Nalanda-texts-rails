@@ -1,0 +1,234 @@
+[Gu_3CFY] Chunks: 52 (size=150, overlap=25)
+[Gu_3CFY] Passes 1 & 2 to run: 52 P1, 52 P2 (workers=8)
+  [P1 62.8s] chunk_000 candidates done
+  [P1 105.1s] chunk_001 candidates done
+  [P1 126.4s] chunk_002 candidates done
+  [P1 135.5s] chunk_007 candidates done
+  [P1 35.6s] chunk_009 candidates done
+  [P1 84.8s] chunk_008 candidates done
+  [P1 154.6s] chunk_006 candidates done
+  [P1 40.9s] chunk_010 candidates done
+  [P1 56.2s] chunk_011 candidates done
+  [P1 38.9s] chunk_014 candidates done
+  [P1 53.6s] chunk_012 candidates done
+  [P1 31.6s] chunk_015 candidates done
+  [P1 208.3s] chunk_003 candidates done
+  [P1 223.5s] chunk_005 candidates done
+  [P1 29.3s] chunk_018 candidates done
+  [P1 74.4s] chunk_017 candidates done
+  [P1 74.8s] chunk_019 candidates done
+  [P1 88.8s] chunk_016 candidates done
+  [P1 60.6s] chunk_021 candidates done
+  [P1 88.7s] chunk_020 candidates done
+  [P1 88.5s] chunk_022 candidates done
+  [P1 48.8s] chunk_023 candidates done
+  [P1 322.2s] chunk_004 candidates done
+  [P1 46.6s] chunk_028 candidates done
+  [P1 89.1s] chunk_024 candidates done
+  [P1 95.5s] chunk_025 candidates done
+  [P1 20.2s] chunk_031 candidates done
+  [P1 97.1s] chunk_026 candidates done
+  [P1 81.3s] chunk_029 candidates done
+  [P1 80.9s] chunk_030 candidates done
+  [P1 262.1s] chunk_013 candidates done
+  [P1 151.0s] chunk_027 candidates done
+  [P1 45.7s] chunk_037 candidates done
+  [P1 68.2s] chunk_036 candidates done
+  [P1 85.9s] chunk_035 candidates done
+  [P1 150.4s] chunk_032 candidates done
+  [P1 138.9s] chunk_033 candidates done
+  [P1 107.3s] chunk_038 candidates done
+  [P1 72.0s] chunk_040 candidates done
+  [P1 76.8s] chunk_039 candidates done
+  [P1 91.0s] chunk_042 candidates done
+  [P1 44.9s] chunk_043 candidates done
+  [P1 93.7s] chunk_041 candidates done
+  [P1 183.1s] chunk_034 candidates done
+  [P1 65.9s] chunk_047 candidates done
+  [P1 32.2s] chunk_050 candidates done
+  [P1 35.9s] chunk_051 candidates done
+  [P1 92.3s] chunk_044 candidates done
+  [P1 55.9s] chunk_048 candidates done
+  [P2 28.2s] chunk_000 enumerations done
+  [P2 27.4s] chunk_001 enumerations done
+  [P2 22.6s] chunk_004 enumerations done
+  [P2 59.6s] chunk_003 enumerations done
+  [P2 70.8s] chunk_002 enumerations done
+  [P2 52.9s] chunk_006 enumerations done
+  [P1 151.7s] chunk_046 candidates done
+  [P2 38.1s] chunk_007 enumerations done
+  [P1 159.2s] chunk_045 candidates done
+  [P1 120.4s] chunk_049 candidates done
+  [P2 12.8s] chunk_009 enumerations done
+  [P2 12.1s] chunk_012 enumerations done
+  [P2 22.8s] chunk_010 enumerations done
+  [P2 18.4s] chunk_014 enumerations done
+  [P2 22.9s] chunk_015 enumerations done
+  [P2 32.1s] chunk_011 enumerations done
+  [P2 15.9s] chunk_018 enumerations done
+  [P2 51.1s] chunk_008 enumerations done
+  [P2 15.6s] chunk_019 enumerations done
+  [P2 24.8s] chunk_017 enumerations done
+  [P2 46.3s] chunk_016 enumerations done
+  [P2 19.2s] chunk_024 enumerations done
+  [P2 24.8s] chunk_022 enumerations done
+  [P2 41.1s] chunk_020 enumerations done
+  [P2 34.2s] chunk_021 enumerations done
+  [P2 33.4s] chunk_023 enumerations done
+  [P2 26.8s] chunk_025 enumerations done
+  [P2 152.0s] chunk_005 enumerations done
+  [P2 26.7s] chunk_029 enumerations done
+  [P2 18.1s] chunk_031 enumerations done
+  [P2 35.3s] chunk_028 enumerations done
+  [P2 31.2s] chunk_030 enumerations done
+  [P2 19.6s] chunk_035 enumerations done
+  [P2 41.3s] chunk_034 enumerations done
+  [P2 89.1s] chunk_027 enumerations done
+  [P2 96.2s] chunk_026 enumerations done
+  [P2 24.9s] chunk_038 enumerations done
+  [P2 86.3s] chunk_032 enumerations done
+  [P2 78.4s] chunk_036 enumerations done
+  [P2 31.7s] chunk_039 enumerations done
+  [P2 188.3s] chunk_013 enumerations done
+  [P2 64.1s] chunk_037 enumerations done
+  [P2 33.0s] chunk_041 enumerations done
+  [P2 22.8s] chunk_042 enumerations done
+  [P2 33.8s] chunk_043 enumerations done
+  [P2 21.0s] chunk_047 enumerations done
+  [P2 65.3s] chunk_040 enumerations done
+  [P2 41.8s] chunk_044 enumerations done
+  [P2 56.6s] chunk_045 enumerations done
+  [P2 151.6s] chunk_033 enumerations done
+  [P2 49.9s] chunk_049 enumerations done
+  [P2 50.4s] chunk_051 enumerations done
+  [P2 118.3s] chunk_048 enumerations done
+  [P2 199.7s] chunk_046 enumerations done
+  [P2 243.0s] chunk_050 enumerations done
+[Gu_3CFY] Passes 1 & 2 completed.
+[Gu_3CFY] Running tree build & QC...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Gu_3CFY\Gu_3CFY.units.md --commentary-id Gu_3CFY
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Gu_3CFY\Gu_3CFY.units.md
+Commentary:   Gu_3CFY
+Lines:        6468  ->  52 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFY\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFY\toc-candidates-Gu_3CFY.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFY\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFY\toc-tree-Gu_3CFY.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2650)  [skip — exists]
+  chunk_021 (lines 2626–2775)  [skip — exists]
+  chunk_022 (lines 2751–2900)  [skip — exists]
+  chunk_023 (lines 2876–3025)  [skip — exists]
+  chunk_024 (lines 3001–3150)  [skip — exists]
+  chunk_025 (lines 3126–3275)  [skip — exists]
+  chunk_026 (lines 3251–3400)  [skip — exists]
+  chunk_027 (lines 3376–3525)  [skip — exists]
+  chunk_028 (lines 3501–3650)  [skip — exists]
+  chunk_029 (lines 3626–3775)  [skip — exists]
+  chunk_030 (lines 3751–3900)  [skip — exists]
+  chunk_031 (lines 3876–4025)  [skip — exists]
+  chunk_032 (lines 4001–4150)  [skip — exists]
+  chunk_033 (lines 4126–4275)  [skip — exists]
+  chunk_034 (lines 4251–4400)  [skip — exists]
+  chunk_035 (lines 4376–4525)  [skip — exists]
+  chunk_036 (lines 4501–4650)  [skip — exists]
+  chunk_037 (lines 4626–4775)  [skip — exists]
+  chunk_038 (lines 4751–4900)  [skip — exists]
+  chunk_039 (lines 4876–5025)  [skip — exists]
+  chunk_040 (lines 5001–5150)  [skip — exists]
+  chunk_041 (lines 5126–5275)  [skip — exists]
+  chunk_042 (lines 5251–5400)  [skip — exists]
+  chunk_043 (lines 5376–5525)  [skip — exists]
+  chunk_044 (lines 5501–5650)  [skip — exists]
+  chunk_045 (lines 5626–5775)  [skip — exists]
+  chunk_046 (lines 5751–5900)  [skip — exists]
+  chunk_047 (lines 5876–6025)  [skip — exists]
+  chunk_048 (lines 6001–6150)  [skip — exists]
+  chunk_049 (lines 6126–6275)  [skip — exists]
+  chunk_050 (lines 6251–6400)  [skip — exists]
+  chunk_051 (lines 6376–6468)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2650)  [skip — exists]
+  chunk_021 (lines 2626–2775)  [skip — exists]
+  chunk_022 (lines 2751–2900)  [skip — exists]
+  chunk_023 (lines 2876–3025)  [skip — exists]
+  chunk_024 (lines 3001–3150)  [skip — exists]
+  chunk_025 (lines 3126–3275)  [skip — exists]
+  chunk_026 (lines 3251–3400)  [skip — exists]
+  chunk_027 (lines 3376–3525)  [skip — exists]
+  chunk_028 (lines 3501–3650)  [skip — exists]
+  chunk_029 (lines 3626–3775)  [skip — exists]
+  chunk_030 (lines 3751–3900)  [skip — exists]
+  chunk_031 (lines 3876–4025)  [skip — exists]
+  chunk_032 (lines 4001–4150)  [skip — exists]
+  chunk_033 (lines 4126–4275)  [skip — exists]
+  chunk_034 (lines 4251–4400)  [skip — exists]
+  chunk_035 (lines 4376–4525)  [skip — exists]
+  chunk_036 (lines 4501–4650)  [skip — exists]
+  chunk_037 (lines 4626–4775)  [skip — exists]
+  chunk_038 (lines 4751–4900)  [skip — exists]
+  chunk_039 (lines 4876–5025)  [skip — exists]
+  chunk_040 (lines 5001–5150)  [skip — exists]
+  chunk_041 (lines 5126–5275)  [skip — exists]
+  chunk_042 (lines 5251–5400)  [skip — exists]
+  chunk_043 (lines 5376–5525)  [skip — exists]
+  chunk_044 (lines 5501–5650)  [skip — exists]
+  chunk_045 (lines 5626–5775)  [skip — exists]
+  chunk_046 (lines 5751–5900)  [skip — exists]
+  chunk_047 (lines 5876–6025)  [skip — exists]
+  chunk_048 (lines 6001–6150)  [skip — exists]
+  chunk_049 (lines 6126–6275)  [skip — exists]
+  chunk_050 (lines 6251–6400)  [skip — exists]
+  chunk_051 (lines 6376–6468)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 12 section candidates merged (1 overlap duplicates removed) → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFY\toc-candidates-Gu_3CFY.md
+✓ Pass 2: 5 enumeration blocks across 52 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFY\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+    ! tree attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+    ! tree attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 17s...

@@ -1,0 +1,26 @@
+[Ha_3CFL] using closing-line tree closing-tree-Ha_3CFL.md
+[Ha_3CFL] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFL\toc-tree-Ha_3CFL.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFL\toc-tree-Ha_3CFL.json
+Parsed 25 nodes (1 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFL\toc-tree-Ha_3CFL.json
+  depth  1: 25 nodes
+[Ha_3CFL] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFL\toc-tree-Ha_3CFL.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ha_3CFL\Ha_3CFL.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            25
+  Inserted:               25
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ha_3CFL\Ha_3CFL.toc.md
+[Ha_3CFL] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ha_3CFL.toc.md
+[Ha_3CFL] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ha_3CFL 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ha_3CFL.toc.md...
+Blocks: 3588 (headings: 26, content: 3562)
+Windows: 103
+Windows to process: 103 / 103
+Running 103 windows with 8 worker threads...

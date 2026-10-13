@@ -45,11 +45,11 @@ def main():
             ops = resegment.call_llm_for_window(client, resegment.DEFAULT_MODEL, win)
             resegment.save_window_result(staging_dir, win, ops)
             dt = time.time() - t0
-            print(f"  [{dt:4.1f}s] Window {win['idx']+1}/{len(windows)} done: {len(ops)} op(s)")
+            print(f"  [{dt:4.1f}s] Window {win['idx']+1}/{len(windows)} done: {len(ops)} op(s)", flush=True)
             return win["idx"], len(ops), None
         except Exception as e:
             dt = time.time() - t0
-            print(f"  [{dt:4.1f}s] Window {win['idx']+1}/{len(windows)} FAILED: {e}")
+            print(f"  [{dt:4.1f}s] Window {win['idx']+1}/{len(windows)} FAILED: {e}", flush=True)
             return win["idx"], 0, e
 
     if to_call:

@@ -1,0 +1,134 @@
+[Ha_3CFL] segmenting…
+C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Ha_3CFL_in.md: 3610 segments, 0 flagged for Stage-2 review.
+Quote balance: 13 quote-open / 28 quote-close -> MISMATCH -- check citations for an unclosed or stray quote marker.
+Report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ha_3CFL.segreport.tsv
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Ha_3CFL_out.md
+[Ha_3CFL] Chunks: 61 (size=150, overlap=25)
+[Ha_3CFL] Passes 1 & 2 to run: 61 P1, 61 P2 (workers=8)
+  [P1 86.3s] chunk_003 candidates done
+  [P1 103.4s] chunk_007 candidates done
+  [P1 103.6s] chunk_001 candidates done
+  [P1 112.6s] chunk_005 candidates done
+  [P1 142.4s] chunk_006 candidates done
+  [P1 148.4s] chunk_002 candidates done
+  [P1 151.5s] chunk_004 candidates done
+  [P1 139.9s] chunk_010 candidates done
+  [P1 139.2s] chunk_014 candidates done
+  [P1 154.6s] chunk_012 candidates done
+  [P1 208.6s] chunk_011 candidates done
+  [P1 254.3s] chunk_008 candidates done
+  [P1 262.8s] chunk_009 candidates done
+  [P1 219.2s] chunk_013 candidates done
+    ! chunk attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+  [P1 131.8s] chunk_015 candidates done
+  [P1 49.9s] chunk_020 candidates done
+  [P1 130.3s] chunk_017 candidates done
+  [P1 108.2s] chunk_018 candidates done
+  [P1 78.7s] chunk_021 candidates done
+  [P1 89.1s] chunk_023 candidates done
+  [P1 154.0s] chunk_022 candidates done
+  [P1 258.1s] chunk_016 candidates done
+  [P1 155.8s] chunk_025 candidates done
+  [P1 111.0s] chunk_027 candidates done
+  [P1 71.0s] chunk_029 candidates done
+  [P1 283.9s] chunk_019 candidates done
+  [P1 210.7s] chunk_026 candidates done
+  [P1 139.0s] chunk_028 candidates done
+  [P1 66.0s] chunk_035 candidates done
+  [P1 139.6s] chunk_032 candidates done
+    ! chunk attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 19s...
+  [P1 118.3s] chunk_034 candidates done
+  [P1 161.8s] chunk_031 candidates done
+  [P1 174.2s] chunk_033 candidates done
+    ! chunk attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [P1 239.7s] chunk_030 candidates done
+  [P1 119.5s] chunk_036 candidates done
+  [P1 145.4s] chunk_038 candidates done
+  [P1 169.1s] chunk_039 candidates done
+  [P1 139.3s] chunk_041 candidates done
+  [P1 204.3s] chunk_040 candidates done
+  [P1 281.6s] chunk_037 candidates done
+  [P1 638.1s] chunk_024 candidates done
+  [P1 223.3s] chunk_042 candidates done
+  [P1 1099.3s] chunk_000 candidates done
+  [P1 57.8s] chunk_048 candidates done
+  [P1 95.7s] chunk_047 candidates done
+  [P1 261.3s] chunk_043 candidates done
+  [P1 241.0s] chunk_044 candidates done
+  [P1 131.1s] chunk_049 candidates done
+  [P1 289.7s] chunk_045 candidates done
+  [P1 46.4s] chunk_055 candidates done
+  [P1 84.8s] chunk_053 candidates done
+  [P1 281.9s] chunk_046 candidates done
+  [P1 100.6s] chunk_054 candidates done
+  [P1 40.3s] chunk_056 candidates done
+  [P1 37.2s] chunk_058 candidates done
+  [P1 76.2s] chunk_057 candidates done
+  [P1 54.0s] chunk_059 candidates done
+  [P2 34.6s] chunk_003 enumerations done
+  [P2 80.9s] chunk_002 enumerations done
+  [P2 52.4s] chunk_004 enumerations done
+  [P1 138.9s] chunk_060 candidates done
+  [P2 131.7s] chunk_001 enumerations done
+  [P2 48.5s] chunk_007 enumerations done
+  [P1 370.4s] chunk_051 candidates done
+  [P2 83.7s] chunk_005 enumerations done
+    ! chunk attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+  [P2 51.4s] chunk_011 enumerations done
+  [P2 258.7s] chunk_000 enumerations done
+  [P2 127.3s] chunk_008 enumerations done
+  [P1 443.3s] chunk_052 candidates done
+  [P2 26.2s] chunk_014 enumerations done
+  [P2 44.9s] chunk_013 enumerations done
+  [P2 59.5s] chunk_012 enumerations done
+  [P2 186.6s] chunk_006 enumerations done
+  [P2 121.1s] chunk_010 enumerations done
+  [P2 30.5s] chunk_017 enumerations done
+  [P2 37.8s] chunk_018 enumerations done
+  [P2 68.9s] chunk_015 enumerations done
+  [P2 70.7s] chunk_016 enumerations done
+  [P2 188.3s] chunk_009 enumerations done
+  [P2 28.1s] chunk_023 enumerations done
+  [P2 50.2s] chunk_021 enumerations done
+  [P2 41.3s] chunk_022 enumerations done
+  [P2 21.6s] chunk_025 enumerations done
+  [P2 21.2s] chunk_029 enumerations done
+  [P2 55.8s] chunk_028 enumerations done
+  [P2 76.0s] chunk_027 enumerations done
+  [P2 141.3s] chunk_020 enumerations done
+  [P2 20.0s] chunk_031 enumerations done
+  [P2 30.5s] chunk_033 enumerations done
+  [P2 48.1s] chunk_032 enumerations done
+  [P2 197.0s] chunk_024 enumerations done
+    ! chunk attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 17s...
+  [P2 142.9s] chunk_034 enumerations done
+  [P2 32.7s] chunk_038 enumerations done
+  [P2 85.0s] chunk_037 enumerations done
+  [P2 159.2s] chunk_035 enumerations done
+  [P2 284.4s] chunk_026 enumerations done
+  [P2 267.1s] chunk_030 enumerations done
+  [P2 35.2s] chunk_041 enumerations done
+  [P2 65.0s] chunk_039 enumerations done
+  [P2 401.2s] chunk_019 enumerations done
+  [P2 55.5s] chunk_042 enumerations done
+  [P2 85.5s] chunk_040 enumerations done
+  [P2 62.0s] chunk_043 enumerations done
+  [P2 42.8s] chunk_046 enumerations done
+  [P2 257.6s] chunk_036 enumerations done
+  [P2 49.1s] chunk_047 enumerations done
+  [P2 43.8s] chunk_048 enumerations done
+  [P2 81.0s] chunk_045 enumerations done
+  [P2 61.0s] chunk_049 enumerations done
+  [P2 33.8s] chunk_052 enumerations done
+  [P2 26.3s] chunk_054 enumerations done
+  [P2 40.6s] chunk_053 enumerations done
+  [P2 62.7s] chunk_050 enumerations done
+  [P2 24.5s] chunk_056 enumerations done
+  [P2 144.8s] chunk_044 enumerations done
+  [P2 35.7s] chunk_055 enumerations done
+  [P2 26.1s] chunk_057 enumerations done
+  [P2 32.5s] chunk_060 enumerations done
+  [P2 64.8s] chunk_059 enumerations done
+  [P2 79.5s] chunk_058 enumerations done
+  [P2 154.5s] chunk_051 enumerations done
+    ! chunk attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 39s...

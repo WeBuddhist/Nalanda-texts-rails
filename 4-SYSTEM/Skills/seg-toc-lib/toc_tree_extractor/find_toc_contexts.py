@@ -97,7 +97,7 @@ DEFAULT_MODEL  = "gemini-3.8-flash"
 # counts against max_output_tokens; temperature stays at the API default (Google advises
 # against lowering it on 3.x — it causes looping). A reply cut off at the limit is an
 # error and is retried, never used as an answer.
-GEMINI_THINKING   = "high"
+GEMINI_THINKING   = "medium"
 GEMINI_MAX_OUTPUT = 65536
 
 
@@ -398,13 +398,15 @@ def main():
         parts = dec.split(".")
         return [".".join(parts[:i]) for i in range(1, len(parts))]
 
-    def search_start_for(dec):
+    def search_start_for(entry):
         """
         Best lower bound for the search window:
         - previous sibling's body line + 1   (strongest: section must follow)
         - parent's body line + 1             (fallback)
+        - entry's own numeric line hint - 10 (from candidate extractor)
         - 0                                  (root fallback)
         """
+        dec = entry["dec"]
         cur_parts = dec.split(".")
         # look for preceding sibling
         for e in reversed(entries):
@@ -421,6 +423,9 @@ def main():
             bl = dec_body_line.get(pdec)
             if bl is not None:
                 return bl + 1
+        # hint from tree/candidate extractor
+        if entry.get("ctx") and entry["ctx"].isdigit():
+            return max(0, int(entry["ctx"]) - 10)
         return 0
 
     def prev_siblings_info(dec):
@@ -445,7 +450,7 @@ def main():
         ptitle = dec_title.get(pdec, "") if pdec else None
         prev_sibs = prev_siblings_info(dec)
 
-        start = search_start_for(dec)
+        start = search_start_for(entry)
         snippet   = None
         body_line = None
 

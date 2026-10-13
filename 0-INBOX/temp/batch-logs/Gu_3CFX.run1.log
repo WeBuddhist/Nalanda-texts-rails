@@ -1,0 +1,280 @@
+[Gu_3CFX] Chunks: 49 (size=150, overlap=25)
+[Gu_3CFX] Passes 1 & 2 to run: 49 P1, 49 P2 (workers=8)
+  [P1 29.0s] chunk_003 candidates done
+  [P1 29.9s] chunk_004 candidates done
+  [P1 52.3s] chunk_000 candidates done
+  [P1 64.9s] chunk_005 candidates done
+  [P1 72.7s] chunk_006 candidates done
+  [P1 75.3s] chunk_007 candidates done
+  [P1 96.0s] chunk_002 candidates done
+  [P1 96.2s] chunk_001 candidates done
+  [P1 68.6s] chunk_008 candidates done
+  [P1 83.9s] chunk_010 candidates done
+  [P1 109.0s] chunk_011 candidates done
+  [P1 110.3s] chunk_013 candidates done
+  [P1 162.9s] chunk_009 candidates done
+  [P1 128.2s] chunk_012 candidates done
+  [P1 117.6s] chunk_015 candidates done
+  [P1 124.5s] chunk_016 candidates done
+  [P1 148.0s] chunk_014 candidates done
+  [P1 118.9s] chunk_017 candidates done
+  [P1 130.7s] chunk_019 candidates done
+  [P1 106.0s] chunk_022 candidates done
+  [P1 121.8s] chunk_023 candidates done
+  [P1 92.9s] chunk_025 candidates done
+  [P1 158.8s] chunk_020 candidates done
+  [P1 159.7s] chunk_021 candidates done
+  [P1 202.1s] chunk_018 candidates done
+  [P1 74.0s] chunk_031 candidates done
+  [P1 130.2s] chunk_026 candidates done
+  [P1 99.5s] chunk_030 candidates done
+  [P1 132.4s] chunk_029 candidates done
+  [P1 121.6s] chunk_032 candidates done
+  [P1 292.7s] chunk_024 candidates done
+  [P1 198.4s] chunk_028 candidates done
+  [P1 101.8s] chunk_034 candidates done
+  [P1 122.0s] chunk_033 candidates done
+  [P1 35.5s] chunk_038 candidates done
+  [P1 257.4s] chunk_027 candidates done
+  [P1 32.8s] chunk_041 candidates done
+  [P1 141.8s] chunk_035 candidates done
+  [P1 99.0s] chunk_037 candidates done
+  [P1 62.6s] chunk_039 candidates done
+  [P1 145.0s] chunk_036 candidates done
+  [P1 72.0s] chunk_042 candidates done
+  [P1 112.4s] chunk_040 candidates done
+  [P2 32.6s] chunk_000 enumerations done
+  [P1 87.1s] chunk_045 candidates done
+  [P1 94.5s] chunk_044 candidates done
+  [P2 17.4s] chunk_004 enumerations done
+  [P2 28.4s] chunk_003 enumerations done
+  [P1 104.2s] chunk_047 candidates done
+  [P2 15.0s] chunk_007 enumerations done
+  [P1 138.0s] chunk_046 candidates done
+  [P2 32.1s] chunk_006 enumerations done
+  [P1 119.7s] chunk_048 candidates done
+  [P1 168.5s] chunk_043 candidates done
+  [P2 89.4s] chunk_001 enumerations done
+  [P2 29.8s] chunk_008 enumerations done
+  [P2 87.3s] chunk_002 enumerations done
+  [P2 72.4s] chunk_005 enumerations done
+  [P2 39.7s] chunk_011 enumerations done
+  [P2 41.6s] chunk_015 enumerations done
+  [P2 52.1s] chunk_014 enumerations done
+  [P2 35.3s] chunk_016 enumerations done
+  [P2 40.3s] chunk_017 enumerations done
+  [P2 85.7s] chunk_012 enumerations done
+  [P2 31.4s] chunk_018 enumerations done
+  [P2 100.8s] chunk_013 enumerations done
+  [P2 28.2s] chunk_022 enumerations done
+  [P2 124.9s] chunk_010 enumerations done
+  [P2 63.2s] chunk_019 enumerations done
+  [P2 60.9s] chunk_020 enumerations done
+  [P2 44.9s] chunk_021 enumerations done
+  [P2 33.7s] chunk_023 enumerations done
+  [P2 38.3s] chunk_024 enumerations done
+  [P2 28.3s] chunk_030 enumerations done
+  [P2 31.8s] chunk_029 enumerations done
+  [P2 36.6s] chunk_026 enumerations done
+  [P2 49.5s] chunk_025 enumerations done
+  [P2 20.2s] chunk_033 enumerations done
+  [P2 23.2s] chunk_032 enumerations done
+  [P2 25.5s] chunk_034 enumerations done
+  [P2 39.6s] chunk_031 enumerations done
+  [P2 61.7s] chunk_028 enumerations done
+  [P2 25.9s] chunk_035 enumerations done
+  [P2 10.7s] chunk_041 enumerations done
+  [P2 24.8s] chunk_038 enumerations done
+  [P2 36.9s] chunk_037 enumerations done
+  [P2 39.9s] chunk_040 enumerations done
+  [P2 28.9s] chunk_042 enumerations done
+  [P2 24.5s] chunk_043 enumerations done
+  [P2 58.5s] chunk_036 enumerations done
+  [P2 21.9s] chunk_045 enumerations done
+  [P2 17.4s] chunk_047 enumerations done
+  [P2 31.2s] chunk_046 enumerations done
+  [P2 50.1s] chunk_044 enumerations done
+  [P2 84.7s] chunk_039 enumerations done
+  [P2 45.3s] chunk_048 enumerations done
+  [P2 223.3s] chunk_027 enumerations done
+  [P2 390.5s] chunk_009 enumerations done
+[Gu_3CFX] Passes 1 & 2 completed.
+[Gu_3CFX] Running tree build & QC...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\extract_toc_tree.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Gu_3CFX\Gu_3CFX.units.md --commentary-id Gu_3CFX
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Gu_3CFX\Gu_3CFX.units.md
+Commentary:   Gu_3CFX
+Lines:        6066  ->  49 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-candidates-Gu_3CFX.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2650)  [skip — exists]
+  chunk_021 (lines 2626–2775)  [skip — exists]
+  chunk_022 (lines 2751–2900)  [skip — exists]
+  chunk_023 (lines 2876–3025)  [skip — exists]
+  chunk_024 (lines 3001–3150)  [skip — exists]
+  chunk_025 (lines 3126–3275)  [skip — exists]
+  chunk_026 (lines 3251–3400)  [skip — exists]
+  chunk_027 (lines 3376–3525)  [skip — exists]
+  chunk_028 (lines 3501–3650)  [skip — exists]
+  chunk_029 (lines 3626–3775)  [skip — exists]
+  chunk_030 (lines 3751–3900)  [skip — exists]
+  chunk_031 (lines 3876–4025)  [skip — exists]
+  chunk_032 (lines 4001–4150)  [skip — exists]
+  chunk_033 (lines 4126–4275)  [skip — exists]
+  chunk_034 (lines 4251–4400)  [skip — exists]
+  chunk_035 (lines 4376–4525)  [skip — exists]
+  chunk_036 (lines 4501–4650)  [skip — exists]
+  chunk_037 (lines 4626–4775)  [skip — exists]
+  chunk_038 (lines 4751–4900)  [skip — exists]
+  chunk_039 (lines 4876–5025)  [skip — exists]
+  chunk_040 (lines 5001–5150)  [skip — exists]
+  chunk_041 (lines 5126–5275)  [skip — exists]
+  chunk_042 (lines 5251–5400)  [skip — exists]
+  chunk_043 (lines 5376–5525)  [skip — exists]
+  chunk_044 (lines 5501–5650)  [skip — exists]
+  chunk_045 (lines 5626–5775)  [skip — exists]
+  chunk_046 (lines 5751–5900)  [skip — exists]
+  chunk_047 (lines 5876–6025)  [skip — exists]
+  chunk_048 (lines 6001–6066)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2650)  [skip — exists]
+  chunk_021 (lines 2626–2775)  [skip — exists]
+  chunk_022 (lines 2751–2900)  [skip — exists]
+  chunk_023 (lines 2876–3025)  [skip — exists]
+  chunk_024 (lines 3001–3150)  [skip — exists]
+  chunk_025 (lines 3126–3275)  [skip — exists]
+  chunk_026 (lines 3251–3400)  [skip — exists]
+  chunk_027 (lines 3376–3525)  [skip — exists]
+  chunk_028 (lines 3501–3650)  [skip — exists]
+  chunk_029 (lines 3626–3775)  [skip — exists]
+  chunk_030 (lines 3751–3900)  [skip — exists]
+  chunk_031 (lines 3876–4025)  [skip — exists]
+  chunk_032 (lines 4001–4150)  [skip — exists]
+  chunk_033 (lines 4126–4275)  [skip — exists]
+  chunk_034 (lines 4251–4400)  [skip — exists]
+  chunk_035 (lines 4376–4525)  [skip — exists]
+  chunk_036 (lines 4501–4650)  [skip — exists]
+  chunk_037 (lines 4626–4775)  [skip — exists]
+  chunk_038 (lines 4751–4900)  [skip — exists]
+  chunk_039 (lines 4876–5025)  [skip — exists]
+  chunk_040 (lines 5001–5150)  [skip — exists]
+  chunk_041 (lines 5126–5275)  [skip — exists]
+  chunk_042 (lines 5251–5400)  [skip — exists]
+  chunk_043 (lines 5376–5525)  [skip — exists]
+  chunk_044 (lines 5501–5650)  [skip — exists]
+  chunk_045 (lines 5626–5775)  [skip — exists]
+  chunk_046 (lines 5751–5900)  [skip — exists]
+  chunk_047 (lines 5876–6025)  [skip — exists]
+  chunk_048 (lines 6001–6066)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 6 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-candidates-Gu_3CFX.md
+✓ Pass 2: 4 enumeration blocks across 49 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-candidates-Gu_3CFX.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-qc-Gu_3CFX.md
+[Gu_3CFX] Added frame node I. ཀླད་ཀྱི་དོན།
+[Gu_3CFX] Added frame node b. མཇུག་བྱང།
+[Gu_3CFX] Anchoring tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\find_toc_contexts.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.md C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Gu_3CFX\Gu_3CFX.units.md
+TOC:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.md  (5 entries)
+Source: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Gu_3CFX\Gu_3CFX.units.md  (6066 lines)
+
+  [1] line 3046  ctx: སྲིན་བུའི་སྤོང༌[^3043]བ་ལ་འཆད་དེ། ཆོངས་ཤིག་གདིང་བ་དང་། སྟན་ཕ
+  [2] line 3080  ctx: འབའ་ཞིག་པའི་སྤང་བ་ལ་འཆད་དེ་ལུག་བལ་ནག་པོ་འབའ་ཞིག །དགེ་སློང་གི
+  [3] line 3094  ctx: ཆའི་སྤང་བ་ལ་འཆད་དེ། དེ་དག་ཕྱེད་ལས་ལྷག་ནའོ། །དགེ་སློང་ལུག་བལ་
+  [4] line 3116  ctx: དྲུག་གི་སྤང་བ་ལ་འཆད་དེ། ཆུ་དང་ཞེང་དང་ལྷག་པ་བཅད་དོ། །དགེ་སློང
+  [5] line 3144  ctx: མཐོ་གང་གི་སྤང་བ་ལ་འཆད་དེ་གདིང་བ་རྙིང་པས་སར་པའི་གདིང་བ་ལ་བདེ་
+
+Written -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.md
+Backup  -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.md.bak
+[Gu_3CFX] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.json
+Parsed 7 nodes (2 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.json
+  depth  1: 7 nodes
+[Gu_3CFX] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFX\toc-tree-Gu_3CFX.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Gu_3CFX\Gu_3CFX.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            7
+  Inserted:               7
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Gu_3CFX\Gu_3CFX.toc.md
+[Gu_3CFX] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Gu_3CFX.toc.md
+[Gu_3CFX] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Gu_3CFX 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Gu_3CFX.toc.md...
+Blocks: 3037 (headings: 8, content: 3029)
+Windows: 87
+Windows to process: 87 / 87
+Running 87 windows with 8 worker threads...
+  [334.9s] Window 1/87 done: 8 op(s)
+  [343.9s] Window 7/87 done: 13 op(s)
+  [350.5s] Window 2/87 done: 10 op(s)
+  [358.9s] Window 3/87 done: 11 op(s)
+    ! window-5 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+    ! window-6 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [412.6s] Window 4/87 done: 5 op(s)
+    ! window-8 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  [361.1s] Window 11/87 done: 6 op(s)
+    ! window-9 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+    ! window-12 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
