@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Na_3CAD.md",
+  "validated_at": "2026-10-13T11:12:31.684869+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 113 from 113 footnote definition(s)",
+    "toc: 10 headers found"
+  ],
+  "warnings": [
+    "author 'Nāgārjuna': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT1711",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཕྱག་ན་རྡོ་རྗེའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག"
+    },
+    "alt_titles": [
+      {
+        "bo": "ཕྱག་ན་རྡོ་རྗེའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག།"
+      },
+      {
+        "bo": "ཕྱག་ན་རྡོ་རྗེ་དཀྱིལ་འཁོར་གྱི་ཆོ་ག"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

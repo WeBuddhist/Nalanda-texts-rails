@@ -18,6 +18,10 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "Rrl0usffAJJbYTYe1euws"
 category_name: "Linguistics Treatises / རིག་གནས།"
+text_id: "Yq8vx5UvqnhMx3soVqtIK"
+edition_id: "w6CeVLsKVRgWZoNwqv12S"
+toc_id: "SqYun626bUT3tyrBdsJL5"
+durchen_count: 1
 openpecha_text_id:
 ---
 

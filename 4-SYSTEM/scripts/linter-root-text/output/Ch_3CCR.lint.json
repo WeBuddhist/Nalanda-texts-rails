@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Ch_3CCR.md",
+  "validated_at": "2026-10-13T11:11:15.134609+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 105 from 105 footnote definition(s)",
+    "toc: 9 headers found"
+  ],
+  "warnings": [
+    "author 'Candrakīrti I': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0677",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "རིམ་པ་ལྔའི་དོན་མདོར་བཤད་པ་རྣལ་འབྱོར་པའི་ཡིད་ཀྱི་འཕྲོག"
+      },
+      {
+        "bo": "རིམ་པ་ལྔའི་དོན་མདོར་བཤད་པ་རྣལ་འབྱོར་པའི་ཡིད་ཀྱི་འཕྲོག་ཅེས་བྱ་བ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

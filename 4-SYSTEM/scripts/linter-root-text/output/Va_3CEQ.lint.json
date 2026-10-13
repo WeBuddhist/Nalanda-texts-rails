@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Va_3CEQ.md",
+  "validated_at": "2026-10-13T11:13:40.998782+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 210 from 210 footnote definition(s)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "author 'Vasubandhu': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3398",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྣམ་པར་བཤད་པ་རིགས་པའི་མདོ་སྡེའི་དུམ་བུ་བརྒྱ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "NDXKdNtZe9Kxl6Y4yBMAr",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

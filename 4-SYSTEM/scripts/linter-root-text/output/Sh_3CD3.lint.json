@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Sh_3CD3.md",
+  "validated_at": "2026-10-13T11:13:32.052277+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 341 from 341 footnote definition(s)",
+    "toc: 10 headers found"
+  ],
+  "warnings": [
+    "author 'Bodhisattva': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT1952",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དེ་བཞིན་གཤེགས་པ་བདུན་གྱི་སྔོན་གྱི་སྨོན་ལམ་གྱི་ཁྱད་པར་རྒྱས་པའི་མདོ་སྡེའི་མན་ངག"
+    },
+    "alt_titles": [
+      {
+        "bo": "དེ་བཞིན་གཤེགས་པ་བདུན་གྱི་སྔོན་གྱི་སྨོན་ལམ་གྱི་ཁྱད་པར་རྒྱས་པའི་མདོ་སྡེའི་མན་ངག་བཞུགས།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

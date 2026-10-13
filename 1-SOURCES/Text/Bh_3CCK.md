@@ -18,6 +18,10 @@ license: "public"
 pandita: "04-Bhavaviveka"
 category_id: "4wuvGxIgXNZ5mb0bDWvkC"
 category_name: "Monastic Rules / འདུལ་བ།"
+text_id: "biawaNa00iaPLuZ0hQypP"
+edition_id: "1TlxZail9odNyyZq46JC9"
+toc_id: "Y5ugAUFVdjAdKtLO3QSdt"
+durchen_count: 152
 openpecha_text_id: "ZvKS1O2bndNI4DR2yrxXl"
 ---
 

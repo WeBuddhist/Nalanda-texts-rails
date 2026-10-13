@@ -19,6 +19,10 @@ license: "public"
 pandita: "08-Kamalashila"
 category_id: "JD5ULLPAV1cxg7RSb7L3q"
 category_name: "Middle Way / དབུ་མ།"
+text_id: "ZAhrHIxqnIJc4huG90E3J"
+edition_id: "IRnVNFfSIoC5VG36OEQQJ"
+toc_id: "nWp01zpREoA9JxlaRaYwo"
+durchen_count: 326
 openpecha_text_id: "U6y370Yv98qiMNb7vbaMY"
 ---
 

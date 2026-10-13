@@ -18,6 +18,10 @@ license: "public"
 pandita: "12-Dharmakirti"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "yYBc1qr9qZTxYwcQPjQVD"
+edition_id: "1pFnver41IjQGZE3pt8Gx"
+toc_id: "UTrEo6mdav7B7YEOeuGb6"
+durchen_count: 23
 openpecha_text_id: "Vrdxbl7NtroBuchiPxLYY"
 ---
 

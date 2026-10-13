@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Ar_3CBa_.md",
+  "validated_at": "2026-10-13T11:08:51.276635+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 445 from 445 footnote definition(s)",
+    "toc: 33 headers found"
+  ],
+  "warnings": [
+    "author 'Caryāvratipāda': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0484",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་གདན་བཞི་པ་ཞེས་བྱ་བའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་སྙིང་པོ་མདོར་བསགས་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "རྒྱུད་ཀྱི་རྒྱལ་པོ་དཔལ་གདན་བཞི་པ་ཞེས་བྱ་བའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་སྙིང་པོ་མདོར་བསགས་པ་ཞེས་བྱ་བ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

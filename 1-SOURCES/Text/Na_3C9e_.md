@@ -17,6 +17,10 @@ license: "public"
 pandita: "01-Nagarjuna"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "6kB3PlLWXa1OhEJQ3eMSK"
+edition_id: "kDCK59pwweGXzlBja3Wml"
+toc_id: "2jis57DilYejX1m8SzH79"
+durchen_count: 54
 openpecha_text_id: "YMwWqH4AlPOW2fb4e5e87"
 ---
 

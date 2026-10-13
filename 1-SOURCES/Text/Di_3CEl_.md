@@ -22,6 +22,10 @@ license: "public"
 pandita: "11-Dignaga"
 category_id: "uGpinx0GZlvU1uw44RyYS"
 category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+text_id: "6oVC2fEDXqOQgEGuCYegg"
+edition_id: "9YAWnxQ0B4BCOS7yZfXjc"
+toc_id: "MV8bZII6u9w6TMY3fySa4"
+durchen_count: 42
 openpecha_text_id: "rZPeLU1FuMdeKDxa79jnV"
 ---
 

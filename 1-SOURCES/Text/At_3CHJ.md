@@ -18,6 +18,10 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "SoGlGBaboYkVa7b9qJvvK"
 category_name: "Miscellaneous / སྣ་ཚོགས།"
+text_id: "BVYEiQ5NeZYcI9NzdcPej"
+edition_id: "dsWa5SVYiT7M7Nyr1v2A9"
+toc_id: "u2raWGesUJuOfuTIAB9G7"
+durchen_count: 5
 openpecha_text_id: "CYZaE5Cek0fPN2mNit1U1"
 ---
 

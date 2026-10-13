@@ -18,6 +18,10 @@ license: "public"
 pandita: "11-Dignaga"
 category_id: "v3L4eTn4x2E30znIhHvQe"
 category_name: "Logic / ཚད་མ།"
+text_id: "eaYYK9AL0DvSxWaNPAylc"
+edition_id: "pOB33OJi4RIz48dOVvvXh"
+toc_id: "MPIcs593l8Tml2uzzAigE"
+durchen_count: 84
 openpecha_text_id: "aItTdzPEPszxDkieKP520"
 ---
 

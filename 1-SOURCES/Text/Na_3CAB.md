@@ -18,12 +18,18 @@ license: "public"
 pandita: "01-Nagarjuna"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "YDmLzzxjTr6JZPUUIw4m8"
+edition_id: "f7Cv90aNqfoqbmRf2s1BS"
+toc_id: "8TcJ19XMrzKDocRrU6wFP"
+durchen_count: 10
 openpecha_text_id: "z76a966CUtceC4zUf14sV"
 ---
 
 # ༄༅། །རྡོ་རྗེ་བྱབ་པའི་ལས་ཚོགས། ^0
 
-༄༅༅། །རྡོ་རྗེ་འཛིན་ལ་ཕྱག་འཚལ་ལོ།[^1] །
+## ཀླད་ཀྱི་དོན། ^I-0
+
+༄༅༅། །རྡོ་རྗེ་འཛིན་ལ་ཕྱག་འཚལ་ལོ།[^1] ། ^I-1
 
 ## རྡོ་རྗེ་བྱབ་པའི་ལས་ཚོགས། ^1-0
 

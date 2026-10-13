@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Sh_3CCv_.md",
+  "validated_at": "2026-10-13T11:13:28.258049+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 1 from 1 footnote definition(s)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0051",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བཅོམ་ལྡན་འདས་ལ་བསྟོད་པ་དཔལ་རྡོ་རྗེ་འཛིན་གྱི་དབྱངས།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "SoGlGBaboYkVa7b9qJvvK",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

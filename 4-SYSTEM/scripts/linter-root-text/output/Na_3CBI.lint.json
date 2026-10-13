@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Na_3CBI.md",
+  "validated_at": "2026-10-13T11:13:07.688868+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 259 from 259 footnote definition(s)",
+    "toc: 15 headers found"
+  ],
+  "warnings": [
+    "author 'Nāgārjuna': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3640",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "སྦྱོར་བ་བརྒྱ་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "སྦྱོར་བ་བརྒྱ་པ་བཞུགས།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "Rrl0usffAJJbYTYe1euws",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

@@ -20,6 +20,10 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "sEStEY4RRWU7U23rkiOk5"
 category_name: "Mind Trainings and Advices / བློ་སྦྱོང་དང་བསླབ་བྱ།"
+text_id: "goX1QGRHwWXJ8l9btguGU"
+edition_id: "RqAxGtXa0umL0ePPezlN6"
+toc_id: "R5rxyjkhIEcPVBSpDdQui"
+durchen_count: 31
 openpecha_text_id: "SntbI6bqHNX4LUipG3Zps"
 ---
 

@@ -19,6 +19,10 @@ license: "public"
 pandita: "06-Shantideva"
 category_id: "SoGlGBaboYkVa7b9qJvvK"
 category_name: "Miscellaneous / སྣ་ཚོགས།"
+text_id: "RRp6mExkSiopulaTHiIPU"
+edition_id: "xbMB6IlFBimySrkbu8U25"
+toc_id: "cKtBXPR2tbwiCAInjAGIy"
+durchen_count: 73
 openpecha_text_id: "lNKVYkKFJsPFbvtRrLigu"
 ---
 

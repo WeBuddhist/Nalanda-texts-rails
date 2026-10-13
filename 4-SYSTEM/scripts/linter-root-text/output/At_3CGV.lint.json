@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/At_3CGV.md",
+  "validated_at": "2026-10-13T11:10:01.153090+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 17 from 17 footnote definition(s)",
+    "toc: 8 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "གནོད་སྦྱིན་གྱི་སྡེ་དཔོན་ཆེན་པོ་ལག་ན་རྡོ་རྗེ་གོས་སྔོན་ཅན་གྱི་བསྒྲུབ་ཐབས་ཞེས་བྱ་བ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

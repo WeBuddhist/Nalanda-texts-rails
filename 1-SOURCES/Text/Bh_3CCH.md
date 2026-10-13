@@ -18,6 +18,10 @@ license: "public"
 pandita: "04-Bhavaviveka"
 category_id: "JD5ULLPAV1cxg7RSb7L3q"
 category_name: "Middle Way / དབུ་མ།"
+text_id: "JZxC8nBxIcoU0WkoiOvQZ"
+edition_id: "9evUqi6s078bsBiirG2o3"
+toc_id: "mcROhUX8CWm0r3yWo7BRn"
+durchen_count: 487
 openpecha_text_id: "yWV4pFVUivGaq2w6P4yvU"
 ---
 

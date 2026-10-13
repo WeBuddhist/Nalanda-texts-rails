@@ -17,6 +17,10 @@ license: "public"
 pandita: "14-Haribhadra"
 category_id: "Rrl0usffAJJbYTYe1euws"
 category_name: "Linguistics Treatises / རིག་གནས།"
+text_id: "PuHZG606GKjReCAdhEQ2G"
+edition_id: "lmK3VS3Nhy3pG6hhTnSrX"
+toc_id: "mIZxAUQyWnl8qKiTHfWng"
+durchen_count: 585
 openpecha_text_id: "WIoz1doE1DXt8jtmwaTfM"
 ---
 

@@ -17,6 +17,10 @@ license: "public"
 pandita: "07-Shantarakshita"
 category_id: "SoGlGBaboYkVa7b9qJvvK"
 category_name: "Miscellaneous / སྣ་ཚོགས།"
+text_id: "sf4TOaHeOvvHlxo8u8dC9"
+edition_id: "ijHGwBsWzD9LCqz0BdNAr"
+toc_id: "gvpviR4CzdoHtplyIUJEk"
+durchen_count: 1
 openpecha_text_id: "mCUJrwGC3LQJEnwOx2hzw"
 ---
 

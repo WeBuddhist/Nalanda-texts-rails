@@ -1,0 +1,464 @@
+# Root-text API batch — linter + parser
+
+Runs `linter-root-text` then `parser-root-text` on every root text in `1-SOURCES/Text/`. How to run: the docstring of `0-INBOX/temp/api-lint/run_lint_batch.py`.
+
+Updated 2026-10-13 · 442 texts (small 358 · medium 60 · large 24) · done 406 · failed 0 · **held 13** · to do 23 · **uploaded 390** · upload failed 16
+
+| What | Path |
+|---|---|
+| Status (one entry per text) | `0-INBOX/temp/api-lint/lint-status.json` |
+| **Held texts — never run** (edit to release) | `0-INBOX/temp/api-lint/holds.json` |
+| Log per text | `0-INBOX/temp/api-lint/logs/<id>.log` |
+| Lint result | `4-SYSTEM/scripts/linter-root-text/output/<id>.lint.json` (or `.lint.errors.json`) |
+| API payloads | `4-SYSTEM/scripts/parser-root-text/output/<id>/` (text, edition, toc, yigchungs, durchens) |
+| Why the durchen texts are held | `0-INBOX/durchen-outliers-report.md` |
+| Upload (script; ledger with every id) | `0-INBOX/temp/api-lint/run_upload_batch.py` · `0-INBOX/temp/api-lint/upload-status.json` |
+
+`lint` OK = no errors · `err` / `warn` = linter errors / warnings (the language-list notice not counted) · `dur. warn` = footnote warnings (lemma not matched) · `src changed` = the linter rewrote the source frontmatter. Size from `0-INBOX/ROOT-WORKFLOW-BATCH.md`.
+
+Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id written into the source frontmatter · `ed.` / `toc` ✓ = created (`edition_id` / `toc_id` in the frontmatter) · `dur. up` / `yig. up` = notes sent / notes in the payload.
+
+| # | id | size | chars | status | lint | err | warn | dur. warn | parse | segments | durchens | toc nodes | src changed | upload | text_id | ed. | toc | dur. up | yig. up | note |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Ar_3CBa_ | medium | 108,716 | done | OK | 0 | 1 | 0 | OK | 637 | 445 | 33 | no | uploaded | 4F3fLiT6ZvPqDpgbrB9Ci | ✓ | ✓ | 445/445 |  |  |
+| 2 | Ar_3CBc_ | medium | 190,915 | done | OK | 0 | 2 | 0 | OK | 623 | 572 | 16 | no | uploaded | jhtsov3TZAjnUl934c1sb | ✓ | ✓ | 572/572 |  |  |
+| 3 | Ar_3CBe_ | small | 6,598 | done | OK | 0 | 2 | 0 | OK | 36 | 38 | 8 | no | uploaded | L3ST2FgFYWRkhBEpx2uab | ✓ | ✓ | 38/38 |  |  |
+| 4 | Ar_3CBf_ | small | 3,727 | done | OK | 0 | 2 | 1 | OK | 17 | 12 | 6 | no | uploaded | 82J4tqbVafJjZ45jXoTgq | ✓ | ✓ | 12/12 |  |  |
+| 5 | Ar_3CBg_ | medium | 35,247 | done | OK | 0 | 2 | 0 | OK | 190 | 121 | 10 | no | uploaded | ZM95XEJkBt6VwCqWVZxSW | ✓ | ✓ | 121/121 |  |  |
+| 6 | Ar_3CBh_ | medium | 40,257 | done | OK | 0 | 2 | 0 | OK | 138 | 188 | 11 | no | uploaded | zV1Ny1svv4LDusoiFfvAd | ✓ | ✓ | 188/188 |  |  |
+| 7 | Ar_3CBi_ | small | 21,076 | done | OK | 0 | 3 | 1 | OK | 134 | 75 | 6 | no | uploaded | CPHehmylOiPTOfn5vyOuD | ✓ | ✓ | 75/75 |  |  |
+| 8 | Ar_3CBj_ | small | 10,160 | done | OK | 0 | 2 | 0 | OK | 57 | 28 | 5 | no | uploaded | 5DhL75Gp7PyaR49U9hUcS | ✓ | ✓ | 28/28 |  |  |
+| 9 | Ar_3CBk_ | small | 10,760 | done | OK | 0 | 1 | 0 | OK | 58 | 41 | 7 | no | uploaded | aFvwuFSoj5GtnZz30rlXv | ✓ | ✓ | 41/41 |  |  |
+| 10 | Ar_3CBl_ | small | 7,010 | done | OK | 0 | 2 | 0 | OK | 50 | 25 | 10 | no | uploaded | czhSRGDZlm4CDHCcPjxHQ | ✓ | ✓ | 25/25 |  |  |
+| 11 | Ar_3CBm_ | small | 11,891 | done | OK | 0 | 1 | 0 | OK | 76 | 33 | 8 | no | uploaded | WzmhTJuu3HCVDN3EIvjkI | ✓ | ✓ | 33/33 |  |  |
+| 12 | Ar_3CBn_ | small | 3,356 | done | OK | 0 | 2 | 0 | OK | 18 | 7 | 6 | no | uploaded | pyeb9zpoSDOtU46mn9c40 | ✓ | ✓ | 7/7 |  |  |
+| 13 | Ar_3CBo_ | small | 18,284 | done | OK | 0 | 2 | 0 | OK | 106 | 49 | 6 | no | uploaded | 2hIw2s3BhvIluA9MFvl6I | ✓ | ✓ | 49/49 |  |  |
+| 14 | Ar_3CBp_ | small | 13,028 | done | OK | 0 | 2 | 0 | OK | 46 | 57 | 13 | no | uploaded | encpoWoRKWzfeerIy998U | ✓ | ✓ | 57/57 |  |  |
+| 15 | Ar_3CBq_ | small | 14,473 | done | OK | 0 | 1 | 0 | OK | 45 | 69 | 5 | no | uploaded | 8BaAsCZI0Y1CYeR3S23Sn | ✓ | ✓ | 69/69 |  |  |
+| 16 | Ar_3CBr_ | small | 4,345 | done | OK | 0 | 4 | 2 | OK | 21 | 4 | 5 | no | uploaded | XLROEy9SkjdHMELSQLdgM | ✓ | ✓ | 4/4 |  |  |
+| 17 | Ar_3CBs_ | small | 13,372 | done | OK | 0 | 3 | 1 | OK | 31 | 22 | 10 | no | uploaded | iK3Ql7zzTdLrYfaxI1IMP | ✓ | ✓ | 22/22 |  |  |
+| 18 | Ar_3CBt_ | small | 3,324 | done | OK | 0 | 2 | 0 | OK | 9 | 0 | 5 | no | uploaded | S0neZermDFiPjv4wbdBof | ✓ | ✓ | 0/0 |  |  |
+| 19 | Ar_3CBu_ | small | 5,271 | done | OK | 0 | 2 | 0 | OK | 23 | 3 | 5 | no | uploaded | FOOGvOhIt04351ltaudYi | ✓ | ✓ | 3/3 |  |  |
+| 20 | Ar_3CBv_ | small | 4,291 | done | OK | 0 | 2 | 0 | OK | 9 | 1 | 6 | no | uploaded | UFwBW9yoCVuvgXHYMZoy9 | ✓ | ✓ | 1/1 |  |  |
+| 21 | Ar_3CBw_ | small | 4,795 | done | OK | 0 | 2 | 0 | OK | 27 | 3 | 3 | no | uploaded | 8GobLfF0DGzPkpoGbaC0b | ✓ | ✓ | 3/3 |  |  |
+| 22 | Ar_3CBx_ | small | 3,083 | done | OK | 0 | 3 | 1 | OK | 18 | 1 | 14 | no | uploaded | pUP7NHS69gi0Tfra6ec1W | ✓ | ✓ | 1/1 |  |  |
+| 23 | Ar_3CBy_ | small | 2,592 | done | OK | 0 | 2 | 0 | OK | 11 | 2 | 6 | no | uploaded | ZEQmS0BkpJHCBmNnfoj1y | ✓ | ✓ | 2/2 |  |  |
+| 24 | Ar_3CBz_ | small | 2,424 | done | OK | 0 | 1 | 0 | OK | 11 | 9 | 6 | no | uploaded | cqpHDkj30ct8GfCma4ufR | ✓ | ✓ | 9/9 |  |  |
+| 25 | Ar_3CC1 | medium | 68,707 | done | OK | 0 | 1 | 0 | OK | 426 | 389 | 20 | no | uploaded | HO8etKBBpmeonRsZldUyD | ✓ | ✓ | 389/389 |  |  |
+| 26 | Ar_3CC2 | small | 13,321 | done | OK | 0 | 2 | 0 | OK | 51 | 37 | 16 | no | uploaded | V51V3ga71RtKCVaryl8C3 | ✓ | ✓ | 37/37 |  |  |
+| 27 | Ar_3CC3 | small | 1,906 | done | OK | 0 | 2 | 0 | OK | 10 | 3 | 5 | no | uploaded | Fj3XA5lBa7idF3wI7ZKS6 | ✓ | ✓ | 3/3 |  |  |
+| 28 | Ar_3CC5 | small | 8,464 | done | OK | 0 | 2 | 0 | OK | 20 | 20 | 8 | no | uploaded | TxrvC8Fk4GaCAtnFqBehd | ✓ | ✓ | 20/20 |  |  |
+| 29 | Ar_3CC6 | small | 6,516 | done | OK | 0 | 2 | 0 | OK | 41 | 13 | 12 | no | uploaded | jCXrec9ODNwQLhw6fUspf | ✓ | ✓ | 13/13 |  |  |
+| 30 | Ar_3CC7 | small | 9,132 | done | OK | 0 | 6 | 5 | OK | 43 | 27 | 5 | no | uploaded | orZ6EcRDvzOhXE0INGnPn | ✓ | ✓ | 27/27 |  |  |
+| 31 | Ar_3CC8 | small | 3,897 | done | OK | 0 | 2 | 1 | OK | 18 | 1 | 5 | no | uploaded | alMdVc6jGHbR6OiA08eYC | ✓ | ✓ | 1/1 |  |  |
+| 32 | Ar_3CC9 | small | 2,833 | done | OK | 0 | 2 | 1 | OK | 13 | 1 | 5 | no | uploaded | Hgo2fqd3QsuZFYSh8oU2c | ✓ | ✓ | 1/1 |  |  |
+| 33 | Ar_3CCA | small | 3,568 | done | OK | 0 | 2 | 1 | OK | 17 | 1 | 5 | no | uploaded | B00dbH164vrSqb9nGr7Hx | ✓ | ✓ | 1/1 |  |  |
+| 34 | Ar_3CCB | small | 2,889 | done | OK | 0 | 2 | 1 | OK | 10 | 1 | 6 | no | uploaded | VAeISJ4pMg5H6loIy3r4r | ✓ | ✓ | 1/1 |  |  |
+| 35 | As_3CDc_ | small | 3,817 | done | OK | 0 | 1 | 0 | OK | 22 | 5 | 6 | no | uploaded | F8ik7b0uAOiQOoNt45lAV | ✓ | ✓ | 5/5 |  |  |
+| 36 | As_3CDd_ | small | 8,072 | done | OK | 0 | 7 | 5 | OK | 14 | 43 | 5 | no | uploaded | udEg2T5zWRjYYim0bUkHH | ✓ | ✓ | 43/43 |  |  |
+| 37 | As_3CDe_ | small | 4,314 | done | OK | 0 | 2 | 0 | OK | 14 | 17 | 6 | no | uploaded | Y8NMcBJeBAGZU1qNDh864 | ✓ | ✓ | 17/17 |  |  |
+| 38 | As_3CDk_ | large | 307,534 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 39 | As_3CDl_ | large | 719,661 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 40 | As_3CDm_ | large | 778,561 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 41 | As_3CDn_ | large | 853,127 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 42 | As_3CDo_ | large | 787,106 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 43 | As_3CDp_ | large | 780,493 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 44 | As_3CDq_ | large | 785,649 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 45 | As_3CDr_ | medium | 81,613 | done | OK | 0 | 2 | 0 | OK | 201 | 316 | 11 | no | uploaded | yuBW2IlmWGYm59zVKkvof | ✓ | ✓ | 316/316 |  |  |
+| 46 | As_3CDs_ | medium | 104,296 | done | OK | 0 | 1 | 0 | OK | 219 | 435 | 4 | no | uploaded | R8RjEHoQTrfvLQ0JOqIY0 | ✓ | ✓ | 435/435 |  |  |
+| 47 | As_3CDt_ | medium | 86,299 | done | OK | 0 | 1 | 0 | OK | 133 | 341 | 12 | no | uploaded | 3Hwx0gQq1mkH7vvPpOxIi | ✓ | ✓ | 341/341 |  |  |
+| 48 | As_3CDu_ | medium | 170,209 | done | OK | 0 | 2 | 0 | OK | 432 | 722 | 15 | no | uploaded | xqeecMhkpR18pPtnPhgDE | ✓ | ✓ | 722/722 |  |  |
+| 49 | As_3CDv_ | large | 306,339 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 50 | As_3CDw_ | small | 26,385 | done | OK | 0 | 1 | 0 | OK | 97 | 122 | 20 | no | uploaded | YG7C9dajerCVWAVAr6Dzd | ✓ | ✓ | 122/122 |  |  |
+| 51 | At_3CFb_ | small | 23,182 | done | OK | 0 | 2 | 0 | OK | 112 | 46 | 9 | no | uploaded | zb3jVYhLJvpDEO51yTxh8 | ✓ | ✓ | 46/46 |  |  |
+| 52 | At_3CFc_ | small | 7,916 | done | OK | 0 | 1 | 0 | OK | 32 | 19 | 8 | no | uploaded | rkIzElSVih6GRThZsr7ym | ✓ | ✓ | 19/19 |  |  |
+| 53 | At_3CFd_ | medium | 61,529 | done | OK | 0 | 1 | 0 | OK | 209 | 126 | 10 | no | uploaded | P6FSv6SHTzHts6G6lsqC5 | ✓ | ✓ | 126/126 |  |  |
+| 54 | At_3CFe_ | small | 8,914 | done | OK | 0 | 2 | 0 | OK | 27 | 20 | 6 | no | uploaded | Wgk45WKLo8z3jgypi7Hmr | ✓ | ✓ | 20/20 |  |  |
+| 55 | At_3CFf_ | small | 10,035 | done | OK | 0 | 1 | 0 | OK | 27 | 21 | 14 | no | uploaded | fmF3bWkMUAKO86yTxqM17 | ✓ | ✓ | 21/21 |  |  |
+| 56 | At_3CFg_ | small | 3,891 | done | OK | 0 | 1 | 0 | OK | 8 | 12 | 5 | no | uploaded | uSEe0BLSYzEl99CEI4am9 | ✓ | ✓ | 12/12 |  |  |
+| 57 | At_3CFh_ | small | 6,141 | done | OK | 0 | 2 | 0 | OK | 30 | 19 | 3 | no | uploaded | X4Txa9iyUiKyW6ODSAJvi | ✓ | ✓ | 19/19 |  |  |
+| 58 | At_3CFj_ | small | 5,758 | done | OK | 0 | 2 | 0 | OK | 35 | 7 | 6 | no | uploaded | 8anx96WDUtTTtHj6VhrkM | ✓ | ✓ | 7/7 |  |  |
+| 59 | At_3CFl_ | small | 3,399 | done | OK | 0 | 2 | 0 | OK | 16 | 7 | 6 | no | uploaded | V5vRDyBDyQryAaw1Zqn72 | ✓ | ✓ | 7/7 |  |  |
+| 60 | At_3CFm_ | small | 6,918 | done | OK | 0 | 2 | 0 | OK | 17 | 42 | 5 | no | uploaded | jWwaT3kuQ6efoxP2wgk8E | ✓ | ✓ | 42/42 |  |  |
+| 61 | At_3CFn_ | small | 4,893 | done | OK | 0 | 2 | 0 | OK | 14 | 16 | 5 | no | uploaded | ZlJwtJAsVxcLJ7fsSl2zc | ✓ | ✓ | 16/16 |  |  |
+| 62 | At_3CFo_ | small | 3,881 | done | OK | 0 | 1 | 0 | OK | 17 | 16 | 6 | no | uploaded | Bqf2ZkUjGklqFPLGzWUYN | ✓ | ✓ | 16/16 |  |  |
+| 63 | At_3CFp_ | small | 3,281 | done | OK | 0 | 2 | 0 | OK | 16 | 7 | 6 | no | **failed** |  |  |  |  |  | upload: a live text already has bdrc WA0RT4268: ['V5vRDyBDyQryAaw1Zqn72'] — record its text_id instead of creating a duplicate |
+| 64 | At_3CFq_ | small | 1,667 | done | OK | 0 | 1 | 0 | OK | 6 | 5 | 5 | no | uploaded | 1wfAREBB2mVIVW5kV22n0 | ✓ | ✓ | 5/5 |  |  |
+| 65 | At_3CFr_ | small | 2,989 | done | OK | 0 | 1 | 0 | OK | 10 | 7 | 5 | no | uploaded | 9dr4g2xFDrQ3XvzOGf0Qe | ✓ | ✓ | 7/7 |  |  |
+| 66 | At_3CFs_ | small | 9,768 | done | OK | 0 | 1 | 0 | OK | 16 | 74 | 8 | no | uploaded | bzq5Tzvzvvn1D7giAs2Wh | ✓ | ✓ | 74/74 |  |  |
+| 67 | At_3CFt_ | medium | 42,874 | done | OK | 0 | 1 | 0 | OK | 137 | 124 | 18 | no | uploaded | HbeMU2TruCrQx8kOpeL4u | ✓ | ✓ | 124/124 |  |  |
+| 68 | At_3CFu_ | small | 5,600 | done | OK | 0 | 2 | 0 | OK | 28 | 11 | 8 | no | uploaded | Z1BciTiaznMz4jCh5wJKn | ✓ | ✓ | 11/11 |  |  |
+| 69 | At_3CFv_ | small | 3,882 | done | OK | 0 | 2 | 0 | OK | 23 | 11 | 6 | no | uploaded | lB3YaqON7ZU69zYraU0Ch | ✓ | ✓ | 11/11 |  |  |
+| 70 | At_3CFw_ | small | 3,515 | done | OK | 0 | 1 | 0 | OK | 15 | 11 | 3 | no | uploaded | 5M8ItbuINllQu2mooaJh3 | ✓ | ✓ | 11/11 |  |  |
+| 71 | At_3CFx_ | small | 3,081 | done | OK | 0 | 2 | 0 | OK | 15 | 4 | 5 | no | uploaded | zuzpYegnRblOcTC1wbDVo | ✓ | ✓ | 4/4 |  |  |
+| 72 | At_3CFy_ | small | 3,254 | done | OK | 0 | 1 | 0 | OK | 15 | 9 | 3 | no | uploaded | AmubAh8bcmnmZJZwfb6nD | ✓ | ✓ | 9/9 |  |  |
+| 73 | At_3CFz_ | small | 3,297 | done | OK | 0 | 1 | 0 | OK | 16 | 8 | 5 | no | uploaded | GowuVjXVyeNGh3uHlw0ea | ✓ | ✓ | 8/8 |  |  |
+| 74 | At_3CG0 | small | 7,654 | done | OK | 0 | 1 | 0 | OK | 32 | 34 | 6 | no | uploaded | X4IRyCWyZ3MkYAImED3nQ | ✓ | ✓ | 34/34 |  |  |
+| 75 | At_3CG1 | small | 23,537 | done | OK | 0 | 1 | 0 | OK | 138 | 77 | 10 | no | uploaded | 4tykpOoaBgtcpwTTW0ere | ✓ | ✓ | 77/77 |  |  |
+| 76 | At_3CG2 | small | 1,657 | done | OK | 0 | 1 | 0 | OK | 5 | 5 | 3 | no | uploaded | NaOCkJuCjHboSWClOXS0a | ✓ | ✓ | 5/5 |  |  |
+| 77 | At_3CG3 | small | 3,278 | done | OK | 0 | 1 | 0 | OK | 14 | 11 | 8 | no | uploaded | beyDOFnqSb9zofcfqtBu6 | ✓ | ✓ | 11/11 |  |  |
+| 78 | At_3CG4 | small | 2,946 | done | OK | 0 | 1 | 0 | OK | 11 | 10 | 5 | no | uploaded | ezBA9cEBh4kISMLGR9RmI | ✓ | ✓ | 10/10 |  |  |
+| 79 | At_3CG5 | small | 21,456 | done | OK | 0 | 1 | 0 | OK | 89 | 113 | 7 | no | uploaded | xoTGSfn9kuP1qa8EupWZ9 | ✓ | ✓ | 113/113 |  |  |
+| 80 | At_3CG6 | small | 6,498 | done | OK | 0 | 2 | 0 | OK | 24 | 29 | 9 | no | uploaded | VmshHUukFeIGspVJfsXND | ✓ | ✓ | 29/29 |  |  |
+| 81 | At_3CG7 | small | 2,328 | done | OK | 0 | 1 | 0 | OK | 9 | 4 | 5 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།' in language 'bo' already exists"} |
+| 82 | At_3CG8 | small | 3,298 | done | OK | 0 | 1 | 0 | OK | 13 | 13 | 7 | no | uploaded | Xgkbr8VHzlJXYiV3K9bzk | ✓ | ✓ | 13/13 |  |  |
+| 83 | At_3CG9 | small | 9,377 | done | OK | 0 | 2 | 0 | OK | 27 | 52 | 9 | no | uploaded | WvYhV1irVFx3dCkuaXfNh | ✓ | ✓ | 52/52 |  |  |
+| 84 | At_3CGA | small | 5,476 | done | OK | 0 | 2 | 0 | OK | 38 | 13 | 6 | no | uploaded | pMXozoVDatp9azkNiTWfC | ✓ | ✓ | 13/13 |  |  |
+| 85 | At_3CGB | small | 12,849 | done | OK | 0 | 1 | 0 | OK | 23 | 61 | 6 | no | uploaded | sblarb0OHvJtUnRrBvBDu | ✓ | ✓ | 61/61 |  |  |
+| 86 | At_3CGC | small | 3,908 | done | OK | 0 | 2 | 0 | OK | 17 | 9 | 5 | no | uploaded | rJP5ibF3Juqbih1QtgEyy | ✓ | ✓ | 9/9 |  |  |
+| 87 | At_3CGD | small | 3,474 | done | OK | 0 | 1 | 0 | OK | 14 | 8 | 6 | no | uploaded | Yw93PTPSbqwRerDkZP5As | ✓ | ✓ | 8/8 |  |  |
+| 88 | At_3CGE | small | 5,216 | done | OK | 0 | 2 | 0 | OK | 23 | 15 | 16 | no | uploaded | l7tnW2fEeUZWP3oGN3tM6 | ✓ | ✓ | 15/15 |  |  |
+| 89 | At_3CGF | small | 3,292 | done | OK | 0 | 2 | 0 | OK | 18 | 7 | 7 | no | uploaded | 3uer2XGwajgM5fiuUZhDy | ✓ | ✓ | 7/7 |  |  |
+| 90 | At_3CGG | small | 2,972 | done | OK | 0 | 1 | 0 | OK | 12 | 6 | 4 | no | uploaded | XsuQ2skFgkxhqsDSmeX9n | ✓ | ✓ | 6/6 |  |  |
+| 91 | At_3CGH | small | 3,175 | done | OK | 0 | 1 | 0 | OK | 8 | 9 | 3 | no | uploaded | Sk9mTj5CSWwC6WrnDJqS4 | ✓ | ✓ | 9/9 |  |  |
+| 92 | At_3CGI | small | 2,644 | done | OK | 0 | 1 | 0 | OK | 7 | 10 | 5 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'གཙུག་ཏོར་དྲི་མེད་ཀྱི་གཟུངས་ཆོག' in language 'bo' already exists"} |
+| 93 | At_3CGJ | small | 5,078 | done | OK | 0 | 1 | 0 | OK | 26 | 15 | 8 | no | uploaded | eKTzd8nsIz50stQNTveVJ | ✓ | ✓ | 15/15 |  |  |
+| 94 | At_3CGK | small | 2,757 | done | OK | 0 | 1 | 0 | OK | 8 | 5 | 6 | no | uploaded | AobdNIMloreOgZOan0vP6 | ✓ | ✓ | 5/5 |  |  |
+| 95 | At_3CGL | small | 2,994 | done | OK | 0 | 2 | 0 | OK | 15 | 12 | 6 | no | uploaded | kGlQSTCd7gv7ytQlcWIcf | ✓ | ✓ | 12/12 |  |  |
+| 96 | At_3CGM | small | 6,819 | done | OK | 0 | 2 | 0 | OK | 19 | 34 | 7 | no | uploaded | ysn39XOcUH5TuA7WesuNs | ✓ | ✓ | 34/34 |  |  |
+| 97 | At_3CGN | small | 23,271 | done | OK | 0 | 1 | 0 | OK | 83 | 103 | 26 | no | uploaded | JZopOSKK4zlgO0bYl3aVD | ✓ | ✓ | 103/103 |  |  |
+| 98 | At_3CGO | small | 2,677 | done | OK | 0 | 1 | 0 | OK | 11 | 5 | 6 | no | uploaded | 8rVQGZ4zSHwhAi7Y0Xcn7 | ✓ | ✓ | 5/5 |  |  |
+| 99 | At_3CGP | medium | 34,018 | done | OK | 0 | 1 | 0 | OK | 76 | 156 | 6 | no | uploaded | oWjTBmhilMLk6wmoAlsJl | ✓ | ✓ | 156/156 |  |  |
+| 100 | At_3CGQ | small | 4,780 | done | OK | 0 | 1 | 0 | OK | 14 | 14 | 14 | no | uploaded | Ds5MnCvH1J4lvToC6IpUY | ✓ | ✓ | 14/14 |  |  |
+| 101 | At_3CGR | small | 3,828 | done | OK | 0 | 1 | 0 | OK | 16 | 14 | 6 | no | uploaded | HBFKH2CsSq7GGDjGiqT2P | ✓ | ✓ | 14/14 |  |  |
+| 102 | At_3CGS | small | 14,518 | done | OK | 0 | 1 | 0 | OK | 34 | 21 | 10 | no | uploaded | 469ZYkRrGfCO08NyCLwl0 | ✓ | ✓ | 21/21 |  |  |
+| 103 | At_3CGT | small | 1,619 | done | OK | 0 | 1 | 0 | OK | 5 | 1 | 5 | no | uploaded | r3YWk4Sm1kgCFtoFa1nkp | ✓ | ✓ | 1/1 |  |  |
+| 104 | At_3CGU | small | 3,200 | done | OK | 0 | 2 | 1 | OK | 8 | 3 | 5 | no | uploaded | yr6JWNH2Cbx1O5Sp54KPb | ✓ | ✓ | 3/3 |  |  |
+| 105 | At_3CGV | small | 15,358 | done | OK | 0 | 2 | 0 | OK | 27 | 17 | 8 | no | uploaded | i0VWIpwhsgTVxXuyfr5Ch | ✓ | ✓ | 17/17 |  |  |
+| 106 | At_3CGW | small | 7,655 | done | OK | 0 | 2 | 0 | OK | 12 | 20 | 2 | no | uploaded | G0dtxYZ9iQ78sSFb9bDMi | ✓ | ✓ | 20/20 |  |  |
+| 107 | At_3CGX | small | 4,339 | done | OK | 0 | 2 | 0 | OK | 15 | 11 | 7 | no | uploaded | jJS4tXBEi07iIPEm7ElEl | ✓ | ✓ | 11/11 |  |  |
+| 108 | At_3CGY | small | 5,032 | done | OK | 0 | 2 | 0 | OK | 18 | 11 | 17 | no | uploaded | SFPoixXeWY767jVzKqXSN | ✓ | ✓ | 11/11 |  |  |
+| 109 | At_3CGZ | small | 4,027 | done | OK | 0 | 2 | 0 | OK | 6 | 9 | 5 | no | uploaded | vpmmYgT5QvOujtHCpEdxZ | ✓ | ✓ | 9/9 |  |  |
+| 110 | At_3CGa_ | small | 4,669 | done | OK | 0 | 1 | 0 | OK | 15 | 14 | 14 | no | **failed** |  |  |  |  |  | upload: a live text already has bdrc WA0RT2596: ['Ds5MnCvH1J4lvToC6IpUY'] — record its text_id instead of creating a duplicate |
+| 111 | At_3CGb_ | small | 4,542 | done | OK | 0 | 3 | 1 | OK | 12 | 6 | 9 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'སྦྱིན་སྲེག་གི་ཆོ་ག' in language 'bo' already exists"} |
+| 112 | At_3CGc_ | small | 5,335 | done | OK | 0 | 2 | 0 | OK | 11 | 12 | 8 | no | uploaded | 4FfYdoll3J3isQONFpQFk | ✓ | ✓ | 12/12 |  |  |
+| 113 | At_3CGd_ | small | 3,897 | done | OK | 0 | 2 | 0 | OK | 13 | 2 | 13 | no | uploaded | PPN4hm8z9ItKk7fwQJcIM | ✓ | ✓ | 2/2 |  |  |
+| 114 | At_3CGe_ | small | 3,786 | done | OK | 0 | 2 | 0 | OK | 8 | 4 | 4 | no | uploaded | 1koXHXuCFRHVx4c2rCO62 | ✓ | ✓ | 4/4 |  |  |
+| 115 | At_3CGf_ | small | 4,651 | done | OK | 0 | 2 | 0 | OK | 8 | 10 | 5 | no | uploaded | Mdjxo4TCc6NLSd27VtPbK | ✓ | ✓ | 10/10 |  |  |
+| 116 | At_3CGg_ | small | 6,354 | done | OK | 0 | 1 | 0 | OK | 13 | 13 | 7 | no | uploaded | Ica2tfyyVllRAzngI9qHa | ✓ | ✓ | 13/13 |  |  |
+| 117 | At_3CGh_ | small | 4,363 | done | OK | 0 | 2 | 0 | OK | 11 | 11 | 4 | no | uploaded | ZrphPec8Hh6qKb4dYnlg4 | ✓ | ✓ | 11/11 |  |  |
+| 118 | At_3CGi_ | small | 3,859 | done | OK | 0 | 2 | 0 | OK | 10 | 5 | 3 | no | uploaded | a3vDvc5UzdaJ9tYTTqUtB | ✓ | ✓ | 5/5 |  |  |
+| 119 | At_3CGj_ | small | 11,477 | done | OK | 0 | 2 | 0 | OK | 34 | 17 | 5 | no | uploaded | IWCzT3lfAW9kj0EEQoyl3 | ✓ | ✓ | 17/17 |  |  |
+| 120 | At_3CGk_ | small | 4,444 | done | OK | 0 | 1 | 0 | OK | 21 | 3 | 3 | no | uploaded | aOIripKjNpNLOP2A8Zoye | ✓ | ✓ | 3/3 |  |  |
+| 121 | At_3CGl_ | small | 2,650 | done | OK | 0 | 2 | 0 | OK | 10 | 3 | 8 | no | uploaded | F8Rn23PZC3Gk3RaO8jUbT | ✓ | ✓ | 3/3 |  |  |
+| 122 | At_3CGm_ | small | 4,271 | done | OK | 0 | 2 | 0 | OK | 19 | 7 | 4 | no | uploaded | NLptgng3V7j3XIPGLojEc | ✓ | ✓ | 7/7 |  |  |
+| 123 | At_3CGn_ | small | 4,974 | done | OK | 0 | 2 | 0 | OK | 16 | 2 | 4 | no | uploaded | uNMpgxXuRS5OQ6p9z9OpN | ✓ | ✓ | 2/2 |  |  |
+| 124 | At_3CGo_ | small | 2,638 | done | OK | 0 | 2 | 0 | OK | 10 | 1 | 5 | no | uploaded | dffdNDzK1MqDSnGRdyeHc | ✓ | ✓ | 1/1 |  |  |
+| 125 | At_3CGp_ | small | 2,123 | done | OK | 0 | 1 | 0 | OK | 9 | 1 | 4 | no | uploaded | Yq8vx5UvqnhMx3soVqtIK | ✓ | ✓ | 1/1 |  |  |
+| 126 | At_3CGq_ | medium | 42,360 | done | OK | 0 | 1 | 0 | OK | 165 | 259 | 9 | no | uploaded | 8wwOA682tUjQc4P5pjEZP | ✓ | ✓ | 259/259 |  |  |
+| 127 | At_3CGs_ | small | 5,506 | done | OK | 0 | 1 | 0 | OK | 31 | 11 | 8 | no | uploaded | jKrc5HsSwkCMGwPWrX2ty | ✓ | ✓ | 11/11 |  |  |
+| 128 | At_3CGt_ | small | 4,030 | done | OK | 0 | 1 | 0 | OK | 18 | 9 | 8 | no | uploaded | aNwMPCBba0I7kwqREKwfK | ✓ | ✓ | 9/9 |  |  |
+| 129 | At_3CGu_ | small | 5,123 | done | OK | 0 | 1 | 0 | OK | 12 | 22 | 8 | no | uploaded | Gfw4KPZ2eaVUNPsWwWGK8 | ✓ | ✓ | 22/22 |  |  |
+| 130 | At_3CGv_ | medium | 78,828 | done | OK | 0 | 1 | 0 | OK | 232 | 298 | 22 | no | uploaded | ZhRTHgJUh6gDe4syFBr3k | ✓ | ✓ | 298/298 |  |  |
+| 131 | At_3CGx_ | small | 5,909 | done | OK | 0 | 2 | 0 | OK | 32 | 28 | 5 | no | uploaded | fqo4UsewCy1mWwAbDPv1P | ✓ | ✓ | 28/28 |  |  |
+| 132 | At_3CGy_ | small | 11,344 | done | OK | 0 | 2 | 0 | OK | 66 | 28 | 8 | no | uploaded | cqPOW3F25Cxc8GEtaVzLv | ✓ | ✓ | 28/28 |  |  |
+| 133 | At_3CH0 | small | 3,077 | done | OK | 0 | 2 | 0 | OK | 15 | 4 | 6 | no | uploaded | vu080teLnoM5INsDwkKmF | ✓ | ✓ | 4/4 |  |  |
+| 134 | At_3CH1 | small | 5,124 | done | OK | 0 | 2 | 0 | OK | 23 | 18 | 7 | no | uploaded | 2ep5DCo64XOHN9EVJ5g89 | ✓ | ✓ | 18/18 |  |  |
+| 135 | At_3CH2 | small | 5,209 | done | OK | 0 | 2 | 0 | OK | 45 | 15 | 3 | no | uploaded | sqgqMqVU4WB3RTRe6EKxu | ✓ | ✓ | 15/15 |  |  |
+| 136 | At_3CH3 | small | 8,219 | done | OK | 0 | 2 | 0 | OK | 23 | 34 | 6 | no | uploaded | JmwNie6DNnp6gztoxiDrK | ✓ | ✓ | 34/34 |  |  |
+| 137 | At_3CH4 | small | 6,392 | done | OK | 0 | 2 | 0 | OK | 31 | 21 | 20 | no | uploaded | qKnfmZxsnIAju6u8tbt0t | ✓ | ✓ | 21/21 |  |  |
+| 138 | At_3CH5 | small | 15,769 | done | OK | 0 | 2 | 0 | OK | 69 | 76 | 8 | no | uploaded | x7OS8yLXTAuwpDYyQlZko | ✓ | ✓ | 76/76 |  |  |
+| 139 | At_3CH6 | small | 2,958 | done | OK | 0 | 2 | 0 | OK | 16 | 12 | 6 | no | uploaded | WkFE69m9yi5B75gpzeYuO | ✓ | ✓ | 12/12 |  |  |
+| 140 | At_3CH7 | small | 4,907 | done | OK | 0 | 1 | 0 | OK | 26 | 14 | 9 | no | uploaded | NqHEFDNUBJ7AYog00Tstv | ✓ | ✓ | 14/14 |  |  |
+| 141 | At_3CH8 | small | 10,658 | done | OK | 0 | 1 | 0 | OK | 21 | 43 | 8 | no | uploaded | s7orjqbMDxC5DExlMoj5Y | ✓ | ✓ | 43/43 |  |  |
+| 142 | At_3CH9 | small | 5,092 | done | OK | 0 | 2 | 0 | OK | 19 | 19 | 8 | no | uploaded | TudDBkzyyF3R6KTcrusII | ✓ | ✓ | 19/19 |  |  |
+| 143 | At_3CHA | small | 20,496 | done | OK | 0 | 2 | 0 | OK | 69 | 88 | 11 | no | uploaded | G0kj4K8dMPcLg0QlETGS0 | ✓ | ✓ | 88/88 |  |  |
+| 144 | At_3CHB | small | 4,352 | done | OK | 0 | 2 | 0 | OK | 25 | 10 | 10 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།' in language 'bo' already exists"} |
+| 145 | At_3CHC | small | 13,707 | done | OK | 0 | 2 | 0 | OK | 31 | 36 | 10 | no | uploaded | w3oF4wKG7X7QSQAbDjDRz | ✓ | ✓ | 36/36 |  |  |
+| 146 | At_3CHD | small | 4,404 | done | OK | 0 | 1 | 0 | OK | 6 | 2 | 6 | no | uploaded | vN0L4Gbd4yKRJlq5523AP | ✓ | ✓ | 2/2 |  |  |
+| 147 | At_3CHE | small | 2,826 | done | OK | 0 | 1 | 0 | OK | 6 | 13 | 5 | no | uploaded | cc9zjZQJ2cLAWKkvemUoF | ✓ | ✓ | 13/13 |  |  |
+| 148 | At_3CHF | small | 3,024 | done | OK | 0 | 1 | 0 | OK | 11 | 14 | 6 | no | uploaded | htmfPrMYjfQGpUGNWgBd6 | ✓ | ✓ | 14/14 |  |  |
+| 149 | At_3CHG | small | 3,365 | done | OK | 0 | 2 | 0 | OK | 9 | 13 | 5 | no | uploaded | eg3Nnh5x20aqrAEibknXD | ✓ | ✓ | 13/13 |  |  |
+| 150 | At_3CHH | small | 21,163 | done | OK | 0 | 2 | 0 | OK | 45 | 91 | 13 | no | uploaded | nW13iRrxE99HxkoVeWi0f | ✓ | ✓ | 91/91 |  |  |
+| 151 | At_3CHI | small | 7,953 | done | OK | 0 | 1 | 0 | OK | 62 | 31 | 5 | no | uploaded | goX1QGRHwWXJ8l9btguGU | ✓ | ✓ | 31/31 |  |  |
+| 152 | At_3CHJ | small | 2,239 | done | OK | 0 | 1 | 0 | OK | 13 | 5 | 5 | no | uploaded | BVYEiQ5NeZYcI9NzdcPej | ✓ | ✓ | 5/5 |  |  |
+| 153 | At_3CHK | large | 815,345 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^3806] colophon verses as a footnote (C11) |
+| 154 | At_3CHL | medium | 71,787 | done | OK | 0 | 1 | 0 | OK | 420 | 276 | 14 | no | uploaded | 80TBlQ74VgC0EKWhzXIyX | ✓ | ✓ | 276/276 |  |  |
+| 155 | At_3CHM | small | 5,822 | done | OK | 0 | 1 | 0 | OK | 24 | 27 | 8 | no | uploaded | obCsnBreIKkrPqBdkFZmI | ✓ | ✓ | 27/27 |  |  |
+| 156 | At_3CHN | small | 4,079 | done | OK | 0 | 3 | 1 | OK | 7 | 11 | 5 | no | uploaded | D7fdkR3HBna7QsYh9UdpS | ✓ | ✓ | 11/11 |  |  |
+| 157 | At_3CHO | small | 6,115 | done | OK | 0 | 1 | 0 | OK | 16 | 21 | 5 | no | uploaded | h3EDvNz8FjzIBOZvPl02j | ✓ | ✓ | 21/21 |  |  |
+| 158 | At_3CHP | small | 6,713 | done | OK | 0 | 1 | 0 | OK | 15 | 31 | 5 | no | uploaded | 6tzfkSBpJqMBcuqh5M7h2 | ✓ | ✓ | 31/31 |  |  |
+| 159 | At_3CHQ | small | 5,996 | done | OK | 0 | 1 | 0 | OK | 17 | 21 | 5 | no | uploaded | ihuRtnh00DBQL5CxEesVu | ✓ | ✓ | 21/21 |  |  |
+| 160 | At_3CHR | small | 6,408 | done | OK | 0 | 2 | 0 | OK | 14 | 26 | 9 | no | uploaded | bTdOJefSCgoMBcb9d1J9D | ✓ | ✓ | 26/26 |  |  |
+| 161 | At_3CHS | small | 2,567 | done | OK | 0 | 2 | 0 | OK | 3 | 9 | 5 | no | uploaded | 0BBbF2azDit1Z48UZ3Cgm | ✓ | ✓ | 9/9 |  |  |
+| 162 | At_3CHT | small | 2,630 | done | OK | 0 | 2 | 0 | OK | 6 | 10 | 5 | no | uploaded | 0pbMOeMf6PzTriNUNZ6Nf | ✓ | ✓ | 10/10 |  |  |
+| 163 | At_3CHU | small | 2,364 | done | OK | 0 | 1 | 0 | OK | 6 | 6 | 5 | no | uploaded | 3IICZacVBYQA5oPx0QCh8 | ✓ | ✓ | 6/6 |  |  |
+| 164 | At_3CHV | small | 4,489 | done | OK | 0 | 2 | 0 | OK | 7 | 28 | 7 | no | uploaded | kptfC2w33ZzVcC8fBfXCW | ✓ | ✓ | 28/28 |  |  |
+| 165 | At_3CHW | small | 1,873 | done | OK | 0 | 2 | 0 | OK | 6 | 2 | 5 | no | uploaded | ZvdPnlbVdNrI3pBSFstmF | ✓ | ✓ | 2/2 |  |  |
+| 166 | At_3CHX | small | 4,326 | done | OK | 0 | 2 | 0 | OK | 18 | 13 | 5 | no | uploaded | VvfqG36nfyJ7huTY383Ta | ✓ | ✓ | 13/13 |  |  |
+| 167 | At_3CHY | small | 2,039 | done | OK | 0 | 2 | 0 | OK | 6 | 11 | 5 | no | uploaded | g6lsDq8CApck7JYzful1p | ✓ | ✓ | 11/11 |  |  |
+| 168 | At_3CHZ | small | 3,109 | done | OK | 0 | 1 | 0 | OK | 9 | 15 | 5 | no | uploaded | elqVqwKVyZJV0RBYSyeXa | ✓ | ✓ | 15/15 |  |  |
+| 169 | At_3CHa_ | small | 4,256 | done | OK | 0 | 2 | 0 | OK | 17 | 15 | 6 | no | uploaded | LlncQng2CM4nYcLh9ccv8 | ✓ | ✓ | 15/15 |  |  |
+| 170 | At_3CHb_ | small | 2,300 | done | OK | 0 | 2 | 0 | OK | 6 | 5 | 5 | no | uploaded | a56wyI0Gi6CkvGGmx0oWv | ✓ | ✓ | 5/5 |  |  |
+| 171 | At_3CHc_ | small | 5,962 | done | OK | 0 | 1 | 0 | OK | 26 | 16 | 6 | no | uploaded | mpWs2IkWxHDm6znj6iT8t | ✓ | ✓ | 16/16 |  |  |
+| 172 | At_3CHd_ | small | 3,549 | done | OK | 0 | 2 | 0 | OK | 8 | 16 | 5 | no | uploaded | cvSPLdrdCDUDKQ3G4gQdy | ✓ | ✓ | 16/16 |  |  |
+| 173 | At_3CHe_ | small | 2,278 | done | OK | 0 | 1 | 0 | OK | 5 | 3 | 5 | no | uploaded | VOIwg245Y8Tg3fQ0XHjor | ✓ | ✓ | 3/3 |  |  |
+| 174 | At_3CHf_ | small | 12,334 | done | OK | 0 | 1 | 0 | OK | 48 | 32 | 6 | no | uploaded | P2MiTVDLg93ZwRJUq2yoA | ✓ | ✓ | 32/32 |  |  |
+| 175 | At_3CHg_ | small | 4,122 | done | OK | 0 | 2 | 0 | OK | 5 | 24 | 5 | no | uploaded | oZP2zxQdj6rQxUlDmGwrt | ✓ | ✓ | 24/24 |  |  |
+| 176 | At_3CHh_ | small | 5,683 | done | OK | 0 | 1 | 0 | OK | 21 | 15 | 6 | no | uploaded | FfBozW65JBOlTB9NYZ2f6 | ✓ | ✓ | 15/15 |  |  |
+| 177 | At_3CHi_ | small | 2,366 | done | OK | 0 | 1 | 0 | OK | 6 | 7 | 5 | no | uploaded | qK6ayFTlAhX4FVTJFLDtl | ✓ | ✓ | 7/7 |  |  |
+| 178 | At_3CHj_ | small | 7,555 | done | OK | 0 | 2 | 0 | OK | 24 | 36 | 7 | no | uploaded | 39HBNoJuEq5cbwP92qSIp | ✓ | ✓ | 36/36 |  |  |
+| 179 | At_3CHk_ | small | 9,432 | done | OK | 0 | 1 | 0 | OK | 21 | 44 | 6 | no | uploaded | yv2iCfY5j0PQnToFCAVx9 | ✓ | ✓ | 44/44 |  |  |
+| 180 | At_3CHl_ | small | 9,694 | done | OK | 0 | 1 | 0 | OK | 20 | 42 | 7 | no | uploaded | tzNRdPogqdagBLDifLk7C | ✓ | ✓ | 42/42 |  |  |
+| 181 | At_3CHm_ | small | 10,738 | done | OK | 0 | 2 | 0 | OK | 21 | 47 | 14 | no | uploaded | 2eyWKkAmWFMpma1YdDLlI | ✓ | ✓ | 47/47 |  |  |
+| 182 | At_3CHn_ | small | 22,425 | done | OK | 0 | 2 | 0 | OK | 65 | 114 | 16 | no | uploaded | K1k0SIHqIFzig0Ggou4Mi | ✓ | ✓ | 114/114 |  |  |
+| 183 | At_3CHo_ | small | 2,991 | done | OK | 0 | 1 | 0 | OK | 12 | 8 | 5 | no | uploaded | 9kN1OeCZmIsUoBhsLp3tH | ✓ | ✓ | 8/8 |  |  |
+| 184 | At_3CHp_ | small | 3,665 | done | OK | 0 | 1 | 0 | OK | 14 | 10 | 5 | no | uploaded | uiCGMlpdVBwlKqe3rArMN | ✓ | ✓ | 10/10 |  |  |
+| 185 | At_3CHq_ | small | 3,679 | done | OK | 0 | 1 | 0 | OK | 17 | 11 | 5 | no | uploaded | KLqYkL1aDsUKohLmTZeA7 | ✓ | ✓ | 11/11 |  |  |
+| 186 | At_3CHr_ | small | 3,571 | done | OK | 0 | 1 | 0 | OK | 19 | 4 | 5 | no | uploaded | 4YO8sQoqxRIRbSSBBFrWR | ✓ | ✓ | 4/4 |  |  |
+| 187 | At_3CHs_ | small | 3,599 | done | OK | 0 | 2 | 0 | OK | 17 | 9 | 5 | no | uploaded | Y7oSog98fhwhLab5JvTOr | ✓ | ✓ | 9/9 |  |  |
+| 188 | At_3CHt_ | small | 3,605 | done | OK | 0 | 1 | 0 | OK | 15 | 9 | 5 | no | uploaded | UI8y21V8v60Ea1iN3wNaI | ✓ | ✓ | 9/9 |  |  |
+| 189 | At_3CHu_ | small | 3,518 | done | OK | 0 | 2 | 0 | OK | 21 | 5 | 8 | no | uploaded | qmVjPCHoauf69We8D4rTC | ✓ | ✓ | 5/5 |  |  |
+| 190 | At_3CHv_ | small | 3,649 | done | OK | 0 | 1 | 0 | OK | 14 | 9 | 3 | no | uploaded | STJx4Gt6DhDQlUc2cRTr4 | ✓ | ✓ | 9/9 |  |  |
+| 191 | At_3CHw_ | small | 3,119 | done | OK | 0 | 2 | 0 | OK | 17 | 6 | 5 | no | uploaded | ZTQeHDcKNEnqbMKv0lzRb | ✓ | ✓ | 6/6 |  |  |
+| 192 | At_3CHy_ | small | 6,307 | done | OK | 0 | 1 | 0 | OK | 33 | 26 | 7 | no | uploaded | Ba3CXJTKvlIC5qkPRlnVs | ✓ | ✓ | 26/26 |  |  |
+| 193 | At_3CHz_ | small | 3,808 | done | OK | 0 | 2 | 0 | OK | 8 | 9 | 5 | no | uploaded | qzHLlHfITVc5VJAykjYF7 | ✓ | ✓ | 9/9 |  |  |
+| 194 | At_3CI0 | small | 3,460 | done | OK | 0 | 2 | 0 | OK | 6 | 14 | 5 | no | uploaded | FCQCaJHx2xfvd4RbmdrzI | ✓ | ✓ | 14/14 |  |  |
+| 195 | At_3CI1 | small | 3,765 | done | OK | 0 | 1 | 0 | OK | 8 | 10 | 5 | no | uploaded | NKHGA9GASCbR5b92peiU3 | ✓ | ✓ | 10/10 |  |  |
+| 196 | At_3CI2 | small | 3,854 | done | OK | 0 | 2 | 0 | OK | 7 | 14 | 5 | no | uploaded | txSD3Qsz9aGSrPgK0n99W | ✓ | ✓ | 14/14 |  |  |
+| 197 | At_3CI3 | small | 4,339 | done | OK | 0 | 2 | 0 | OK | 5 | 19 | 5 | no | uploaded | 6OlAuKl3gB2LJioO1HhF5 | ✓ | ✓ | 19/19 |  |  |
+| 198 | At_3CI4 | small | 6,437 | done | OK | 0 | 2 | 0 | OK | 10 | 24 | 5 | no | uploaded | SvDFsIMLecoug6QYFZ9Uh | ✓ | ✓ | 24/24 |  |  |
+| 199 | At_3CI5 | small | 5,866 | done | OK | 0 | 2 | 0 | OK | 17 | 20 | 5 | no | uploaded | fOmj86aCFlnn8oIQbdX66 | ✓ | ✓ | 20/20 |  |  |
+| 200 | At_3CI6 | small | 3,729 | done | OK | 0 | 2 | 0 | OK | 8 | 9 | 5 | no | uploaded | 4xSJ3pEepcBdZ6IGFFLnn | ✓ | ✓ | 9/9 |  |  |
+| 201 | At_3CI7 | small | 16,869 | done | OK | 0 | 1 | 0 | OK | 36 | 87 | 6 | no | uploaded | HS4DCSM0Rug3a5W8Ig0yR | ✓ | ✓ | 87/87 |  |  |
+| 202 | At_3CI8 | small | 6,107 | done | OK | 0 | 2 | 0 | OK | 29 | 15 | 9 | no | uploaded | XecdaEpC5AkUKbFpnSGxf | ✓ | ✓ | 15/15 |  |  |
+| 203 | At_3CI9 | small | 2,293 | done | OK | 0 | 2 | 0 | OK | 9 | 4 | 6 | no | uploaded | YYFtjAhqxVoxJ8aOPg6BB | ✓ | ✓ | 4/4 |  |  |
+| 204 | At_3CIA | small | 5,097 | done | OK | 0 | 2 | 0 | OK | 9 | 25 | 5 | no | uploaded | M9j9q2HjOq4Td0VQ2SSCC | ✓ | ✓ | 25/25 |  |  |
+| 205 | Bh_3CCH | medium | 120,492 | done | OK | 0 | 1 | 0 | OK | 490 | 487 | 12 | no | uploaded | JZxC8nBxIcoU0WkoiOvQZ | ✓ | ✓ | 487/487 |  |  |
+| 206 | Bh_3CCI | medium | 155,405 | done | OK | 0 | 1 | 0 | OK | 952 | 611 | 16 | no | uploaded | tdgf1ZvR64FQ8aqcxZt48 | ✓ | ✓ | 611/611 |  |  |
+| 207 | Bh_3CCJ | small | 3,079 | done | OK | 0 | 3 | 1 | OK | 16 | 10 | 7 | no | uploaded | E2EAsSIgrSX5zzsqAgPAC | ✓ | ✓ | 10/10 |  |  |
+| 208 | Bh_3CCK | medium | 32,065 | done | OK | 0 | 1 | 0 | OK | 53 | 152 | 8 | no | uploaded | biawaNa00iaPLuZ0hQypP | ✓ | ✓ | 152/152 |  |  |
+| 209 | Bh_3CCO | small | 2,969 | done | OK | 0 | 3 | 1 | OK | 17 | 10 | 7 | no | **failed** |  |  |  |  |  | upload: a live text already has bdrc WA0RT3202: ['E2EAsSIgrSX5zzsqAgPAC'] — record its text_id instead of creating a duplicate |
+| 210 | Ch_3CCP | small | 2,541 | done | OK | 0 | 2 | 0 | OK | 12 | 5 | 5 | no | uploaded | 9f5EERECqUI3Ntje1bHHO | ✓ | ✓ | 5/5 |  |  |
+| 211 | Ch_3CCR | medium | 34,468 | done | OK | 0 | 1 | 0 | OK | 131 | 105 | 9 | no | uploaded | EYqawxIsIeS56UOaKB7xs | ✓ | ✓ | 105/105 |  |  |
+| 212 | Ch_3CCS | small | 6,732 | done | OK | 0 | 1 | 0 | OK | 21 | 24 | 9 | no | uploaded | Yr26Oeg7fRct1vD5FpTXw | ✓ | ✓ | 24/24 |  |  |
+| 213 | Ch_3CCU | small | 1,081 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] compiler's note, no ༼…༽ (C1) |
+| 214 | Ch_3CCV | small | 8,189 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] title note after the heading — linter ERROR (C7) |
+| 215 | Ch_3CCX | medium | 101,721 | done | OK | 0 | 1 | 0 | OK | 233 | 318 | 8 | no | uploaded | ACmWFR7EOLCyAS2PEAEyV | ✓ | ✓ | 318/318 |  |  |
+| 216 | Ch_3CCZ | small | 10,801 | done | OK | 0 | 2 | 0 | OK | 72 | 25 | 6 | no | uploaded | FupDtWCtILwxJ1Mdzeiwf | ✓ | ✓ | 25/25 |  |  |
+| 217 | Ch_3CCc_ | medium | 57,376 | done | OK | 0 | 2 | 0 | OK | 336 | 7 | 14 | no | uploaded | ZDSS83Pc809fMMpiFEKho | ✓ | ✓ | 7/7 |  |  |
+| 218 | Ch_3CCd_ | medium | 65,974 | done | OK | 0 | 1 | 0 | OK | 329 | 195 | 14 | no | uploaded | hnrYNx0oZoarKNoayh5Cb | ✓ | ✓ | 195/195 |  |  |
+| 219 | Ch_3CCf_ | small | 4,516 | done | OK | 0 | 1 | 0 | OK | 20 | 24 | 7 | no | uploaded | DIEfkAnKUrZ71uTWXTezv | ✓ | ✓ | 24/24 |  |  |
+| 220 | Dh_3CEy_ | small | 3,706 | done | OK | 0 | 2 | 0 | OK | 14 | 8 | 5 | no | uploaded | hxhekmTAK0LlUbpI1aqCi | ✓ | ✓ | 8/8 |  |  |
+| 221 | Dh_3CF0 | small | 7,309 | done | OK | 0 | 1 | 0 | OK | 8 | 23 | 6 | no | uploaded | yYBc1qr9qZTxYwcQPjQVD | ✓ | ✓ | 23/23 |  |  |
+| 222 | Dh_3CF1 | small | 2,190 | done | OK | 0 | 1 | 0 | OK | 10 | 2 | 4 | no | uploaded | eMLnKHsf69MXpKFJNlLTt | ✓ | ✓ | 2/2 |  |  |
+| 223 | Dh_3CF2 | medium | 84,487 | done | OK | 0 | 1 | 0 | OK | 251 | 429 | 20 | no | uploaded | tmOIAbbaEbQYSNiBi1nuR | ✓ | ✓ | 429/429 |  |  |
+| 224 | Dh_3CF3 | small | 9,296 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^40] bibliographic citation (C8) |
+| 225 | Dh_3CF5 | large | 228,301 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 226 | Dh_3CF6 | large | 329,802 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 227 | Dh_3CF7 | medium | 32,081 | done | OK | 0 | 1 | 0 | OK | 76 | 206 | 7 | no | uploaded | QSBjf0J4F78gRVLBhnbs1 | ✓ | ✓ | 206/206 |  |  |
+| 228 | Dh_3CF8 | medium | 78,209 | done | OK | 0 | 1 | 0 | OK | 148 | 495 | 9 | no | uploaded | kSX57CbbGobn6t1wVwdLg | ✓ | ✓ | 495/495 |  |  |
+| 229 | Dh_3CF9 | small | 4,957 | done | OK | 0 | 2 | 0 | OK | 29 | 18 | 6 | no | uploaded | DCPTSAAarI5EpWc1twNfG | ✓ | ✓ | 18/18 |  |  |
+| 230 | Dh_3CFC | medium | 122,085 | done | OK | 0 | 1 | 0 | OK | 144 | 602 | 8 | no | uploaded | EowsNk9dCvyaQSQANCRux | ✓ | ✓ | 602/602 |  |  |
+| 231 | Dh_3CFD | small | 15,779 | done | OK | 0 | 2 | 0 | OK | 48 | 75 | 6 | no | uploaded | Sv2sLN4W2QbosoNz2rr9K | ✓ | ✓ | 75/75 |  |  |
+| 232 | Di_3CEe_ | medium | 46,742 | done | OK | 0 | 2 | 0 | OK | 286 | 128 | 18 | no | uploaded | ZMheqeCIzN5A4aM5hoV5r | ✓ | ✓ | 128/128 |  |  |
+| 233 | Di_3CEi_ | small | 1,261 | done | OK | 0 | 2 | 0 | OK | 7 | 2 | 4 | no | uploaded | VSJMSQVwbdBeyrg6sRqMs | ✓ | ✓ | 2/2 |  |  |
+| 234 | Di_3CEj_ | small | 1,457 | done | OK | 0 | 3 | 1 | OK | 5 | 1 | 2 | no | uploaded | 8LJ0x9uA1PnvadohqnPfV | ✓ | ✓ | 1/1 |  |  |
+| 235 | Di_3CEk_ | small | 4,305 | done | OK | 0 | 2 | 0 | OK | 22 | 16 | 6 | no | uploaded | ncchYSVu51zrx501nsW5V | ✓ | ✓ | 16/16 |  |  |
+| 236 | Di_3CEl_ | small | 10,640 | done | OK | 0 | 1 | 0 | OK | 60 | 42 | 8 | no | uploaded | 6oVC2fEDXqOQgEGuCYegg | ✓ | ✓ | 42/42 |  |  |
+| 237 | Di_3CEn_ | small | 3,021 | done | OK | 0 | 2 | 0 | OK | 15 | 9 | 6 | no | uploaded | 1W01PQJlASsuGJbteRMm8 | ✓ | ✓ | 9/9 |  |  |
+| 238 | Di_3CEp_ | medium | 37,186 | done | OK | 0 | 1 | 0 | OK | 285 | 7 | 11 | no | uploaded | k5Rlii3bXXISP0r8lUShf | ✓ | ✓ | 7/7 |  |  |
+| 239 | Di_3CEq_ | medium | 34,444 | done | OK | 0 | 2 | 0 | OK | 278 | 30 | 10 | no | uploaded | OvKRGhnkCTPHEL05mgPw9 | ✓ | ✓ | 30/30 |  |  |
+| 240 | Di_3CEs_ | small | 2,461 | done | OK | 0 | 2 | 0 | OK | 11 | 12 | 5 | no | uploaded | J69CJLzdVbQpbqZAIp4qI | ✓ | ✓ | 12/12 |  |  |
+| 241 | Di_3CEu_ | small | 5,725 | done | OK | 0 | 1 | 0 | OK | 36 | 18 | 6 | no | uploaded | 0VLCW7jJtrtPemFEIwmZj | ✓ | ✓ | 18/18 |  |  |
+| 242 | Di_3CEv_ | small | 13,962 | done | OK | 0 | 1 | 0 | OK | 30 | 11 | 11 | no | uploaded | rI4UGNNbc6CwjPS7cjWQb | ✓ | ✓ | 11/11 |  |  |
+| 243 | Di_3CEw_ | small | 17,780 | done | OK | 0 | 1 | 0 | OK | 51 | 84 | 13 | no | uploaded | eaYYK9AL0DvSxWaNPAylc | ✓ | ✓ | 84/84 |  |  |
+| 244 | Di_3CEx_ | small | 3,871 | done | OK | 0 | 2 | 0 | OK | 16 | 15 | 6 | no | uploaded | uGXT67gwO7wRRLKCxGBzK | ✓ | ✓ | 15/15 |  |  |
+| 245 | Gu_3CFS | large | 403,195 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 246 | Gu_3CFT | large | 620,210 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 247 | Ha_3CFF | large | 656,269 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 248 | Ha_3CFG | large | 723,837 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 249 | Ha_3CFH | large | 760,010 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 250 | Ha_3CFI | large | 676,939 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 251 | Ha_3CFJ | large | 675,378 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 252 | Ha_3CFO | medium | 91,033 | done | OK | 0 | 2 | 0 | OK | 202 | 585 | 10 | no | uploaded | PuHZG606GKjReCAdhEQ2G | ✓ | ✓ | 585/585 |  |  |
+| 253 | Ka_3CDK | large | 427,856 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 254 | Ka_3CDL | medium | 113,795 | done | OK | 0 | 2 | 0 | OK | 747 | 351 | 5 | no | uploaded | kCBZNRtdWoWQIE4vJknDJ | ✓ | ✓ | 351/351 |  |  |
+| 255 | Ka_3CDM | medium | 70,394 | done | OK | 0 | 1 | 0 | OK | 167 | 182 | 8 | no | uploaded | HkcRlyi42Ratjw2dKrWNw | ✓ | ✓ | 182/182 |  |  |
+| 256 | Ka_3CDN | small | 9,993 | done | OK | 0 | 1 | 0 | OK | 38 | 0 | 6 | no | uploaded | zz2kQS2yo7ODxYpJRfyFg | ✓ | ✓ | 0/0 |  |  |
+| 257 | Ka_3CDO | medium | 79,685 | done | OK | 0 | 1 | 0 | OK | 113 | 300 | 7 | no | uploaded | 58OA1eyhwif3MctZpEsUE | ✓ | ✓ | 300/300 |  |  |
+| 258 | Ka_3CDP | medium | 61,528 | done | OK | 0 | 1 | 0 | OK | 92 | 364 | 9 | no | uploaded | GYUBWGfiJT0ghNfAOcSH7 | ✓ | ✓ | 364/364 |  |  |
+| 259 | Ka_3CDQ | medium | 57,199 | done | OK | 0 | 1 | 0 | OK | 83 | 326 | 10 | no | uploaded | ZAhrHIxqnIJc4huG90E3J | ✓ | ✓ | 326/326 |  |  |
+| 260 | Ka_3CDR | small | 8,913 | done | OK | 0 | 1 | 0 | OK | 25 | 54 | 8 | no | uploaded | EL6Bc1sSOZjXNTBXRyrTt | ✓ | ✓ | 54/54 |  |  |
+| 261 | Ka_3CDV | small | 7,269 | done | OK | 0 | 1 | 0 | OK | 29 | 11 | 10 | no | uploaded | HE6Yq7NBYcmfq0VFHJ8T3 | ✓ | ✓ | 11/11 |  |  |
+| 262 | Ka_3CDW | small | 18,863 | done | OK | 0 | 1 | 0 | OK | 64 | 111 | 2 | no | uploaded | U9AkzIcp3ZeuXdmRgDqh4 | ✓ | ✓ | 111/111 |  |  |
+| 263 | Ka_3CDY | small | 3,147 | done | OK | 0 | 1 | 0 | OK | 17 | 17 | 2 | no | uploaded | tnbQed5Pi52xZegnSHFOf | ✓ | ✓ | 17/17 |  |  |
+| 264 | Na_3C92 | small | 17,555 | done | OK | 0 | 1 | 0 | OK | 104 | 96 | 6 | no | uploaded | s7YQNeJz1idxD3F18ogcs | ✓ | ✓ | 96/96 |  |  |
+| 265 | Na_3C93 | small | 6,184 | done | OK | 0 | 1 | 0 | OK | 29 | 41 | 6 | no | uploaded | IVZFpJV7rVdSkGPfqjfuM | ✓ | ✓ | 41/41 |  |  |
+| 266 | Na_3C94 | small | 5,485 | done | OK | 0 | 1 | 0 | OK | 30 | 25 | 6 | no | uploaded | 7THDBhvveIXo6ETurTNlx | ✓ | ✓ | 25/25 |  |  |
+| 267 | Na_3C95 | small | 2,230 | done | OK | 0 | 2 | 0 | OK | 10 | 8 | 5 | no | uploaded | OVN29Aw1aZnFck8fMPJj1 | ✓ | ✓ | 8/8 |  |  |
+| 268 | Na_3C96 | small | 3,036 | done | OK | 0 | 1 | 0 | OK | 16 | 13 | 6 | no | uploaded | cIlvIDCi1i9IQ08cReymU | ✓ | ✓ | 13/13 |  |  |
+| 269 | Na_3C97 | small | 2,761 | done | OK | 0 | 1 | 0 | OK | 8 | 8 | 6 | no | uploaded | FprabtEcHcZzkYDPzSC1l | ✓ | ✓ | 8/8 |  |  |
+| 270 | Na_3C99 | small | 4,065 | done | OK | 0 | 2 | 0 | OK | 15 | 5 | 5 | no | uploaded | bpaZHNtpVr86GBS7h7Dlh | ✓ | ✓ | 5/5 |  |  |
+| 271 | Na_3C9A | small | 4,231 | done | OK | 0 | 1 | 0 | OK | 25 | 6 | 6 | no | uploaded | 4MuO1UcCRjzJXQK2L9deD | ✓ | ✓ | 6/6 |  |  |
+| 272 | Na_3C9B | small | 8,910 | done | OK | 0 | 1 | 0 | OK | 57 | 20 | 5 | no | uploaded | ORTIqK39vZHqpRzaVjcDw | ✓ | ✓ | 20/20 |  |  |
+| 273 | Na_3C9C | small | 3,697 | done | OK | 0 | 2 | 0 | OK | 21 | 6 | 5 | no | uploaded | smzFx0l939iJ9MtoaJqq3 | ✓ | ✓ | 6/6 |  |  |
+| 274 | Na_3C9D | small | 2,188 | done | OK | 0 | 1 | 0 | OK | 11 | 4 | 5 | no | uploaded | 2s9FslYMn9HzfDSwYsVz2 | ✓ | ✓ | 4/4 |  |  |
+| 275 | Na_3C9E | small | 2,737 | done | OK | 0 | 1 | 0 | OK | 14 | 3 | 5 | no | uploaded | bILzWWbORE7xEde2P2UWe | ✓ | ✓ | 3/3 |  |  |
+| 276 | Na_3C9F | small | 3,997 | done | OK | 0 | 1 | 0 | OK | 19 | 4 | 5 | no | uploaded | iIM9ZkzdJmyRaX0vuDoBR | ✓ | ✓ | 4/4 |  |  |
+| 277 | Na_3C9G | small | 2,952 | done | OK | 0 | 2 | 0 | OK | 14 | 8 | 5 | no | uploaded | xMIMunHBamjFP1Cc9PIcD | ✓ | ✓ | 8/8 |  |  |
+| 278 | Na_3C9H | small | 2,730 | done | OK | 0 | 4 | 2 | OK | 12 | 9 | 5 | no | uploaded | DWTJwkeBrxf3F2GfoJLlE | ✓ | ✓ | 9/9 |  |  |
+| 279 | Na_3C9I | small | 3,903 | done | OK | 0 | 1 | 0 | OK | 17 | 11 | 5 | no | uploaded | eDQ5bQEwpdmJLZLBHNAga | ✓ | ✓ | 11/11 |  |  |
+| 280 | Na_3C9J | small | 2,357 | done | OK | 0 | 1 | 0 | OK | 11 | 2 | 5 | no | uploaded | tCxsMH9vttBdYUsjvsoKR | ✓ | ✓ | 2/2 |  |  |
+| 281 | Na_3C9K | small | 3,566 | done | OK | 0 | 1 | 0 | OK | 18 | 9 | 5 | no | uploaded | 4657FGa2WU6IiBMmHaeQF | ✓ | ✓ | 9/9 |  |  |
+| 282 | Na_3C9M | small | 5,891 | done | OK | 0 | 2 | 0 | OK | 34 | 16 | 3 | no | uploaded | 5hhjxey5cOjSBkgxdG2NR | ✓ | ✓ | 16/16 |  |  |
+| 283 | Na_3C9N | small | 16,764 | done | OK | 0 | 2 | 0 | OK | 39 | 64 | 8 | no | uploaded | SGthhPNJPNrhmoOVa0r6W | ✓ | ✓ | 64/64 |  |  |
+| 284 | Na_3C9O | small | 4,456 | done | OK | 0 | 2 | 0 | OK | 18 | 21 | 8 | no | uploaded | Nxs2aSA8VT3LS8z3AbhU7 | ✓ | ✓ | 21/21 |  |  |
+| 285 | Na_3C9P | small | 8,449 | done | OK | 0 | 1 | 0 | OK | 34 | 42 | 8 | no | uploaded | sFBKQyUlGTeau1OSjL3cY | ✓ | ✓ | 42/42 |  |  |
+| 286 | Na_3C9Q | small | 12,134 | done | OK | 0 | 1 | 0 | OK | 26 | 52 | 6 | no | uploaded | QIh2pj1QNsYAhUMza8rKL | ✓ | ✓ | 52/52 |  |  |
+| 287 | Na_3C9R | small | 4,185 | done | OK | 0 | 3 | 1 | OK | 14 | 24 | 7 | no | uploaded | tqCk309BX8jEt6CrKNd2m | ✓ | ✓ | 24/24 |  |  |
+| 288 | Na_3C9S | small | 2,844 | done | OK | 0 | 1 | 0 | OK | 14 | 9 | 5 | no | **failed** |  |  |  |  |  | upload: a live text already has bdrc WA0RT0629: ['82J4tqbVafJjZ45jXoTgq'] — record its text_id instead of creating a duplicate |
+| 289 | Na_3C9T | small | 3,240 | done | OK | 0 | 1 | 0 | OK | 10 | 16 | 5 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།' in language 'bo' already exists"} |
+| 290 | Na_3C9U | small | 2,478 | done | OK | 0 | 4 | 2 | OK | 11 | 12 | 3 | no | uploaded | QoxlQmbW2PXeLIGEeMCEQ | ✓ | ✓ | 12/12 |  |  |
+| 291 | Na_3C9V | small | 5,233 | done | OK | 0 | 1 | 0 | OK | 14 | 24 | 5 | no | uploaded | iNsukPJ8ysb1S7seaiM2O | ✓ | ✓ | 24/24 |  |  |
+| 292 | Na_3C9W | small | 6,372 | done | OK | 0 | 1 | 0 | OK | 12 | 60 | 3 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།' in language 'bo' already exists"} |
+| 293 | Na_3C9X | small | 5,853 | done | OK | 0 | 2 | 0 | OK | 14 | 44 | 5 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།' in language 'bo' already exists"} |
+| 294 | Na_3C9Y | small | 4,577 | done | OK | 0 | 2 | 0 | OK | 12 | 17 | 3 | no | uploaded | yyxy8f6evgJciznvXkJpO | ✓ | ✓ | 17/17 |  |  |
+| 295 | Na_3C9a_ | medium | 36,808 | done | OK | 0 | 2 | 0 | OK | 178 | 133 | 17 | no | uploaded | Rw3zayH6qfufG1WNpIR6H | ✓ | ✓ | 133/133 |  |  |
+| 296 | Na_3C9b_ | small | 18,385 | done | OK | 0 | 1 | 0 | OK | 63 | 70 | 7 | no | uploaded | 42bv4SCycJxcnPkyY82Ke | ✓ | ✓ | 70/70 |  |  |
+| 297 | Na_3C9c_ | medium | 84,544 | done | OK | 0 | 2 | 1 | OK | 241 | 358 | 25 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག' in language 'bo' already exists"} |
+| 298 | Na_3C9d_ | small | 12,232 | done | OK | 0 | 2 | 0 | OK | 61 | 38 | 10 | no | uploaded | gnEbZMmbpNrjHmMdyUBVj | ✓ | ✓ | 38/38 |  |  |
+| 299 | Na_3C9e_ | small | 18,276 | done | OK | 0 | 2 | 0 | OK | 112 | 54 | 6 | no | uploaded | 6kB3PlLWXa1OhEJQ3eMSK | ✓ | ✓ | 54/54 |  |  |
+| 300 | Na_3C9h_ | medium | 40,937 | done | OK | 0 | 2 | 0 | OK | 289 | 0 | 9 | no | uploaded | ePS85LknfGury8Fqf7lsM | ✓ | ✓ | 0/0 |  |  |
+| 301 | Na_3C9i_ | small | 26,283 | done | OK | 0 | 1 | 0 | OK | 94 | 127 | 15 | no | uploaded | M8rQxOHetcroBwlyXNoGv | ✓ | ✓ | 127/127 |  |  |
+| 302 | Na_3C9j_ | small | 17,788 | done | OK | 0 | 1 | 0 | OK | 87 | 94 | 17 | no | uploaded | S2NsXdzVxMGiCfVjXiZOt | ✓ | ✓ | 94/94 |  |  |
+| 303 | Na_3C9k_ | medium | 87,652 | done | OK | 0 | 1 | 0 | OK | 375 | 449 | 21 | no | uploaded | Vxo16vSL52zMrcVBkwkb8 | ✓ | ✓ | 449/449 |  |  |
+| 304 | Na_3C9n_ | medium | 37,860 | done | OK | 0 | 1 | 0 | OK | 198 | 176 | 30 | no | uploaded | TMJg8JEc62EXPoKJRh97T | ✓ | ✓ | 176/176 |  |  |
+| 305 | Na_3C9o_ | small | 7,038 | done | OK | 0 | 2 | 0 | OK | 31 | 34 | 10 | no | uploaded | rgptoTET50iGM7n7gX4kA | ✓ | ✓ | 34/34 |  |  |
+| 306 | Na_3C9p_ | small | 5,169 | done | OK | 0 | 2 | 0 | OK | 28 | 21 | 6 | no | uploaded | r5l3pI0EL27hpQS9rhwfE | ✓ | ✓ | 21/21 |  |  |
+| 307 | Na_3C9r_ | small | 10,348 | done | OK | 0 | 2 | 0 | OK | 24 | 38 | 9 | no | uploaded | eNS7bFVkFx1r0SxaqzsU6 | ✓ | ✓ | 38/38 |  |  |
+| 308 | Na_3C9s_ | small | 1,625 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] catalogue side note (C6) |
+| 309 | Na_3C9t_ | small | 3,571 | done | OK | 0 | 2 | 0 | OK | 22 | 6 | 6 | no | uploaded | cS9mwX4QWwT92JPwc1uVp | ✓ | ✓ | 6/6 |  |  |
+| 310 | Na_3C9u_ | small | 19,637 | done | OK | 0 | 1 | 0 | OK | 50 | 97 | 17 | no | uploaded | s3nfzJckVsSrsZWfTWdKe | ✓ | ✓ | 97/97 |  |  |
+| 311 | Na_3C9v_ | small | 1,494 | done | OK | 0 | 2 | 0 | OK | 5 | 2 | 2 | no | uploaded | GaYehLC3WjCIamOgeXN4P | ✓ | ✓ | 2/2 |  |  |
+| 312 | Na_3C9w_ | small | 2,484 | done | OK | 0 | 1 | 0 | OK | 10 | 4 | 5 | no | uploaded | dKW3tuIsjTY4TqV7vEuup | ✓ | ✓ | 4/4 |  |  |
+| 313 | Na_3C9x_ | small | 1,112 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] compiler's note, no ༼…༽ (C2) |
+| 314 | Na_3C9y_ | small | 1,399 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^2] compiler's note, no ༼…༽ (C3) |
+| 315 | Na_3C9z_ | small | 7,576 | done | OK | 0 | 1 | 0 | OK | 46 | 2 | 9 | no | uploaded | eX4kWdrrLm2L6KREWxnVa | ✓ | ✓ | 2/2 |  |  |
+| 316 | Na_3CA0 | small | 1,445 | done | OK | 0 | 1 | 0 | OK | 5 | 2 | 2 | no | uploaded | Sq3XMPkcjK57FVl6tO1eT | ✓ | ✓ | 2/2 |  |  |
+| 317 | Na_3CA1 | small | 1,106 | done | OK | 0 | 2 | 0 | OK | 6 | 1 | 2 | no | uploaded | EnUSEa5YsXGFMF1t6Xq8e | ✓ | ✓ | 1/1 |  |  |
+| 318 | Na_3CA2 | small | 2,357 | done | OK | 0 | 1 | 0 | OK | 14 | 2 | 14 | no | uploaded | xEjc1yrtXKjUMxlafxKtd | ✓ | ✓ | 2/2 |  |  |
+| 319 | Na_3CA3 | small | 8,585 | done | OK | 0 | 2 | 0 | OK | 32 | 34 | 6 | no | uploaded | bKPpKJLp8gSK1NPFSyiMg | ✓ | ✓ | 34/34 |  |  |
+| 320 | Na_3CA5 | small | 4,949 | done | OK | 0 | 1 | 0 | OK | 11 | 22 | 8 | no | uploaded | X6SVSK0s5VCCoxf9LbA8R | ✓ | ✓ | 22/22 |  |  |
+| 321 | Na_3CA6 | medium | 34,298 | done | OK | 0 | 1 | 0 | OK | 75 | 163 | 15 | no | uploaded | Qp7e6IAn3nfffYaOwGGWr | ✓ | ✓ | 163/163 |  |  |
+| 322 | Na_3CA7 | small | 6,531 | done | OK | 0 | 1 | 0 | OK | 25 | 22 | 6 | no | uploaded | 4WpEAg9cK2I4tWenpp33e | ✓ | ✓ | 22/22 |  |  |
+| 323 | Na_3CA8 | small | 3,040 | done | OK | 0 | 2 | 0 | OK | 9 | 9 | 5 | no | uploaded | DDnz5lQyMYqxJXzJXBrpd | ✓ | ✓ | 9/9 |  |  |
+| 324 | Na_3CA9 | small | 4,247 | done | OK | 0 | 1 | 0 | OK | 17 | 21 | 11 | no | uploaded | lKqziUMDdfPDxCjSOWP7R | ✓ | ✓ | 21/21 |  |  |
+| 325 | Na_3CAA | small | 2,409 | done | OK | 0 | 2 | 0 | OK | 8 | 9 | 4 | no | uploaded | 7cZTDSYItdKLKZnUWRzJJ | ✓ | ✓ | 9/9 |  |  |
+| 326 | Na_3CAB | small | 2,260 | done | OK | 0 | 1 | 0 | OK | 7 | 10 | 6 | no | uploaded | YDmLzzxjTr6JZPUUIw4m8 | ✓ | ✓ | 10/10 |  |  |
+| 327 | Na_3CAC | small | 3,231 | done | OK | 0 | 2 | 0 | OK | 13 | 15 | 7 | no | uploaded | oKOJjCV75uWZMNu2SMeKy | ✓ | ✓ | 15/15 |  |  |
+| 328 | Na_3CAD | small | 21,106 | done | OK | 0 | 1 | 0 | OK | 90 | 113 | 10 | no | uploaded | yTz8ttbTfTxgtTWXqsFy5 | ✓ | ✓ | 113/113 |  |  |
+| 329 | Na_3CAE | small | 8,041 | done | OK | 0 | 1 | 0 | OK | 27 | 28 | 8 | no | uploaded | KCS6Ab5J2VcS0x50Jp0S1 | ✓ | ✓ | 28/28 |  |  |
+| 330 | Na_3CAF | medium | 34,759 | done | OK | 0 | 2 | 0 | OK | 96 | 130 | 9 | no | uploaded | g4SRVrGpwiOYpqzwFlhdt | ✓ | ✓ | 130/130 |  |  |
+| 331 | Na_3CAG | small | 8,459 | done | OK | 0 | 1 | 0 | OK | 23 | 28 | 14 | no | uploaded | VbLDOwbMa6SunmmKfijMG | ✓ | ✓ | 28/28 |  |  |
+| 332 | Na_3CAH | small | 2,669 | done | OK | 0 | 1 | 0 | OK | 10 | 9 | 5 | no | uploaded | JdPfV11VsJdhvo0O8MVJS | ✓ | ✓ | 9/9 |  |  |
+| 333 | Na_3CAI | small | 2,172 | done | OK | 0 | 1 | 0 | OK | 7 | 8 | 5 | no | uploaded | BSRvjKSctKln8jc12QbMe | ✓ | ✓ | 8/8 |  |  |
+| 334 | Na_3CAJ | small | 2,543 | done | OK | 0 | 2 | 0 | OK | 9 | 10 | 3 | no | uploaded | pAZzCniQQNudA0cuJ7qV5 | ✓ | ✓ | 10/10 |  |  |
+| 335 | Na_3CAK | small | 1,933 | done | OK | 0 | 2 | 0 | OK | 5 | 8 | 4 | no | uploaded | y1qiFWzbj0mus7OQb5dOD | ✓ | ✓ | 8/8 |  |  |
+| 336 | Na_3CAL | small | 2,416 | done | OK | 0 | 1 | 0 | OK | 7 | 12 | 5 | no | uploaded | xIYNMD7rfCpNjY4gL3LJB | ✓ | ✓ | 12/12 |  |  |
+| 337 | Na_3CAM | small | 8,764 | done | OK | 0 | 1 | 0 | OK | 22 | 75 | 6 | no | uploaded | Uai66Nno1fSD3idavHOXQ | ✓ | ✓ | 75/75 |  |  |
+| 338 | Na_3CAN | small | 11,783 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^75] missing ༼ (B1) |
+| 339 | Na_3CAO | small | 11,002 | done | OK | 0 | 7 | 5 | OK | 43 | 59 | 4 | no | uploaded | A5uH9IYHyQhgzgoxMwHpq | ✓ | ✓ | 59/59 |  |  |
+| 340 | Na_3CAP | small | 3,904 | done | OK | 0 | 2 | 0 | OK | 12 | 11 | 5 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།' in language 'bo' already exists"} |
+| 341 | Na_3CAQ | small | 8,588 | done | OK | 0 | 1 | 0 | OK | 24 | 62 | 10 | no | uploaded | hmSoogOyoLhbEmB0BKRyp | ✓ | ✓ | 62/62 |  |  |
+| 342 | Na_3CAR | small | 7,483 | done | OK | 0 | 2 | 0 | OK | 17 | 22 | 7 | no | uploaded | JSFb5PcdhARm627Uup7ks | ✓ | ✓ | 22/22 |  |  |
+| 343 | Na_3CAS | small | 5,024 | done | OK | 0 | 2 | 0 | OK | 18 | 18 | 6 | no | uploaded | HQUd6eH9jHWnSxtuqiC9j | ✓ | ✓ | 18/18 |  |  |
+| 344 | Na_3CAT | small | 23,314 | done | OK | 0 | 1 | 0 | OK | 86 | 110 | 8 | no | uploaded | 492SYPXh6vYZJfDzLc28s | ✓ | ✓ | 110/110 |  |  |
+| 345 | Na_3CAU | small | 2,803 | done | OK | 0 | 1 | 0 | OK | 15 | 5 | 5 | no | uploaded | ljVwvg0JEVXYxbZddylMq | ✓ | ✓ | 5/5 |  |  |
+| 346 | Na_3CAV | medium | 132,061 | done | OK | 0 | 1 | 0 | OK | 540 | 579 | 34 | no | uploaded | Ed8m1jAOo3oyvUK4Qojfc | ✓ | ✓ | 579/579 |  |  |
+| 347 | Na_3CAW | small | 11,276 | done | OK | 0 | 2 | 0 | OK | 28 | 18 | 12 | no | uploaded | GBCFXGS1862c4giguUWoo | ✓ | ✓ | 18/18 |  |  |
+| 348 | Na_3CAX | medium | 33,290 | done | OK | 0 | 2 | 0 | OK | 181 | 45 | 18 | no | uploaded | 8ev59x1p3lmqe8inQzI9s | ✓ | ✓ | 45/45 |  |  |
+| 349 | Na_3CAY | small | 9,882 | done | OK | 0 | 2 | 0 | OK | 31 | 10 | 8 | no | uploaded | ELUvV4K7szF6ZB8GkX1wr | ✓ | ✓ | 10/10 |  |  |
+| 350 | Na_3CAZ | small | 3,767 | done | OK | 0 | 2 | 0 | OK | 10 | 3 | 7 | no | uploaded | wfIGj8WU1bteMOcNTzGWx | ✓ | ✓ | 3/3 |  |  |
+| 351 | Na_3CAb_ | small | 7,071 | done | OK | 0 | 2 | 0 | OK | 37 | 4 | 7 | no | uploaded | UdX4vmkHLTNdi4sULlWox | ✓ | ✓ | 4/4 |  |  |
+| 352 | Na_3CAc_ | small | 2,552 | done | OK | 0 | 1 | 0 | OK | 12 | 2 | 2 | no | uploaded | YlvDp8aEENCvAAZEsWVF3 | ✓ | ✓ | 2/2 |  |  |
+| 353 | Na_3CAd_ | small | 4,340 | done | OK | 0 | 2 | 0 | OK | 18 | 6 | 5 | no | uploaded | CggzlRkAuCWfbvgeLxhFO | ✓ | ✓ | 6/6 |  |  |
+| 354 | Na_3CAe_ | small | 2,944 | done | OK | 0 | 3 | 1 | OK | 6 | 5 | 6 | no | uploaded | Ng2hTGkjeFRtOdEbKwBx7 | ✓ | ✓ | 5/5 |  |  |
+| 355 | Na_3CAf_ | small | 3,874 | done | OK | 0 | 2 | 0 | OK | 12 | 1 | 6 | no | uploaded | HwtS7xWaP6NM8OYYmLbD2 | ✓ | ✓ | 1/1 |  |  |
+| 356 | Na_3CAg_ | small | 27,987 | done | OK | 0 | 2 | 0 | OK | 147 | 31 | 6 | no | uploaded | RKFoliwQhj3OpPRQgrxnL | ✓ | ✓ | 31/31 |  |  |
+| 357 | Na_3CAh_ | small | 6,970 | done | OK | 0 | 2 | 0 | OK | 25 | 18 | 5 | no | uploaded | VBtZMwTcOQUsAsn6kgOkt | ✓ | ✓ | 18/18 |  |  |
+| 358 | Na_3CAi_ | small | 7,403 | done | OK | 0 | 2 | 0 | OK | 41 | 3 | 9 | no | uploaded | ks7Q7XgIVtmtKsul1MRWG | ✓ | ✓ | 3/3 |  |  |
+| 359 | Na_3CAk_ | medium | 76,267 | done | OK | 0 | 1 | 0 | OK | 480 | 397 | 32 | no | uploaded | vIS4OXrFg7ENZGxlrop73 | ✓ | ✓ | 397/397 |  |  |
+| 360 | Na_3CAl_ | small | 10,891 | done | OK | 0 | 1 | 0 | OK | 65 | 48 | 6 | no | uploaded | Gj3lcC7apXesEsQTEx1Ti | ✓ | ✓ | 48/48 |  |  |
+| 361 | Na_3CAm_ | small | 6,858 | done | OK | 0 | 1 | 0 | OK | 42 | 23 | 6 | no | uploaded | 3nD2S9OOxPvdFT34oTpuR | ✓ | ✓ | 23/23 |  |  |
+| 362 | Na_3CAn_ | small | 13,234 | done | OK | 0 | 1 | 0 | OK | 78 | 65 | 5 | no | uploaded | xRh1pd7lknhgdk1RKtQxw | ✓ | ✓ | 65/65 |  |  |
+| 363 | Na_3CAo_ | small | 12,686 | done | OK | 0 | 1 | 0 | OK | 78 | 64 | 6 | no | uploaded | baDJayFpbksFwHwJAIeTm | ✓ | ✓ | 64/64 |  |  |
+| 364 | Na_3CAu_ | small | 4,426 | done | OK | 0 | 2 | 0 | OK | 27 | 10 | 6 | no | uploaded | Rr8we9F4DE2cyHtjSL73S | ✓ | ✓ | 10/10 |  |  |
+| 365 | Na_3CAv_ | small | 1,562 | done | OK | 0 | 2 | 0 | OK | 13 | 1 | 3 | no | uploaded | ahcb1r39HzEiSMW7e3kow | ✓ | ✓ | 1/1 |  |  |
+| 366 | Na_3CAx_ | small | 2,399 | done | OK | 0 | 1 | 0 | OK | 11 | 7 | 5 | no | uploaded | WfLVXZvMra8UhuKFOHZid | ✓ | ✓ | 7/7 |  |  |
+| 367 | Na_3CAz_ | small | 5,319 | done | OK | 0 | 1 | 0 | OK | 28 | 19 | 9 | no | uploaded | B6k2oIEuzsKHSH19Rn7k8 | ✓ | ✓ | 19/19 |  |  |
+| 368 | Na_3CB0 | small | 4,235 | done | OK | 0 | 1 | 0 | OK | 19 | 19 | 6 | no | uploaded | aNp7BDMo5uF7BDWdLwMRE | ✓ | ✓ | 19/19 |  |  |
+| 369 | Na_3CB1 | small | 4,326 | done | OK | 0 | 1 | 0 | OK | 25 | 15 | 9 | no | uploaded | 3jr5AEz9sAAHkquKVPnbd | ✓ | ✓ | 15/15 |  |  |
+| 370 | Na_3CB2 | small | 7,288 | done | OK | 0 | 2 | 0 | OK | 45 | 24 | 7 | no | uploaded | ZJBAdI9mreypcSTmXtU0T | ✓ | ✓ | 24/24 |  |  |
+| 371 | Na_3CB3 | small | 9,357 | done | OK | 0 | 1 | 0 | OK | 59 | 27 | 5 | no | uploaded | ym2ryCr50bNfzdZ0OwyFj | ✓ | ✓ | 27/27 |  |  |
+| 372 | Na_3CB4 | large | 273,556 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 373 | Na_3CB5 | small | 8,661 | done | OK | 0 | 1 | 0 | OK | 24 | 25 | 11 | no | uploaded | GJ7QLT1jx4VbhIWSW4B13 | ✓ | ✓ | 25/25 |  |  |
+| 374 | Na_3CB6 | small | 12,183 | done | OK | 0 | 2 | 0 | OK | 54 | 67 | 7 | no | uploaded | vWBx0JPRQy2BDfPdXMbaa | ✓ | ✓ | 67/67 |  |  |
+| 375 | Na_3CBB | medium | 52,145 | done | OK | 0 | 1 | 0 | OK | 242 | 316 | 19 | no | uploaded | D4rL3iP5a8iKso8DTYOmt | ✓ | ✓ | 316/316 |  |  |
+| 376 | Na_3CBC | small | 2,725 | done | OK | 0 | 1 | 0 | OK | 6 | 4 | 6 | no | uploaded | RIiNagkrDTtKlHaII1rcA | ✓ | ✓ | 4/4 |  |  |
+| 377 | Na_3CBD | medium | 80,740 | done | OK | 0 | 2 | 0 | OK | 496 | 393 | 10 | no | uploaded | 3TMHFYvVG7KsN7dYJdSae | ✓ | ✓ | 393/393 |  |  |
+| 378 | Na_3CBE | small | 7,044 | done | OK | 0 | 2 | 0 | OK | 36 | 31 | 6 | no | uploaded | RRLvcQE7uMjGzuhnNH0eF | ✓ | ✓ | 31/31 |  |  |
+| 379 | Na_3CBF | small | 4,014 | done | OK | 0 | 3 | 1 | OK | 16 | 18 | 5 | no | uploaded | nWX7367dHFWdSJjohrVaE | ✓ | ✓ | 18/18 |  |  |
+| 380 | Na_3CBG | small | 3,700 | done | OK | 0 | 2 | 0 | OK | 22 | 9 | 6 | no | uploaded | pWFDfyDcRnIQrIxa4VcFp | ✓ | ✓ | 9/9 |  |  |
+| 381 | Na_3CBH | small | 26,677 | done | OK | 0 | 1 | 0 | OK | 122 | 154 | 5 | no | uploaded | VFiGyqlVlUaLniHU8euH4 | ✓ | ✓ | 154/154 |  |  |
+| 382 | Na_3CBI | small | 32,378 | done | OK | 0 | 1 | 0 | OK | 128 | 259 | 15 | no | uploaded | VP5TAhQCVAsUbPtPdkE4M | ✓ | ✓ | 259/259 |  |  |
+| 383 | Na_3CBJ | small | 16,675 | done | OK | 0 | 1 | 0 | OK | 44 | 129 | 4 | no | uploaded | WxCfcP5DtRb7RUqvm2ZVa | ✓ | ✓ | 129/129 |  |  |
+| 384 | Na_3CBK | small | 6,428 | done | OK | 0 | 1 | 0 | OK | 17 | 34 | 9 | no | uploaded | N5s6gh7nco2ibv394skDa | ✓ | ✓ | 34/34 |  |  |
+| 385 | Na_3CBL | small | 1,514 | done | OK | 0 | 1 | 0 | OK | 7 | 0 | 5 | no | uploaded | 0LyrTlJoSu9JBfVot2zHH | ✓ | ✓ | 0/0 |  |  |
+| 386 | Na_3CBM | small | 3,734 | done | OK | 0 | 1 | 0 | OK | 11 | 30 | 5 | no | uploaded | 1RNk3OVsoQkDl9ot4R1cv | ✓ | ✓ | 30/30 |  |  |
+| 387 | Na_3CBN | small | 31,768 | done | OK | 0 | 1 | 0 | OK | 146 | 11 | 17 | no | uploaded | 1ZlVEnzP8JlAovlEkF4uE | ✓ | ✓ | 11/11 |  |  |
+| 388 | Na_3CBO | small | 21,427 | done | OK | 0 | 2 | 0 | OK | 109 | 184 | 6 | no | uploaded | 3va6BxKuyahg8clDlldrN | ✓ | ✓ | 184/184 |  |  |
+| 389 | Na_3CBP | medium | 45,979 | done | OK | 0 | 2 | 0 | OK | 274 | 270 | 6 | no | uploaded | lCpq9au3AgQZV0YrtjfxN | ✓ | ✓ | 270/270 |  |  |
+| 390 | Na_3CBQ | small | 20,846 | done | OK | 0 | 1 | 0 | OK | 88 | 188 | 6 | no | uploaded | NhImmcokbOApK1vJTKRwr | ✓ | ✓ | 188/188 |  |  |
+| 391 | Na_3CBR | small | 3,686 | done | OK | 0 | 2 | 0 | OK | 21 | 0 | 6 | no | uploaded | 1UEcpgAoggctNbZ2SywE2 | ✓ | ✓ | 0/0 |  |  |
+| 392 | Na_3CBS | small | 4,678 | done | OK | 0 | 2 | 0 | OK | 19 | 23 | 5 | no | uploaded | eVTBykaehPykaEA7x9K8d | ✓ | ✓ | 23/23 |  |  |
+| 393 | Na_3CBT | small | 3,076 | done | OK | 0 | 1 | 0 | OK | 11 | 12 | 5 | no | uploaded | KeBKkwFlLrwdFz4GpQ0j1 | ✓ | ✓ | 12/12 |  |  |
+| 394 | Na_3CBU | small | 4,942 | done | OK | 0 | 1 | 0 | OK | 21 | 20 | 2 | no | uploaded | RJWl3r7dfDzDdNyvCmTla | ✓ | ✓ | 20/20 |  |  |
+| 395 | Na_3CBV | small | 4,408 | done | OK | 0 | 1 | 0 | OK | 23 | 0 | 6 | no | uploaded | UNIH8BLETwg5J1S3rnp9k | ✓ | ✓ | 0/0 |  |  |
+| 396 | Na_3CBW | small | 5,887 | done | OK | 0 | 2 | 0 | OK | 23 | 27 | 8 | no | uploaded | defNlAEiXJREjTCNXbEF5 | ✓ | ✓ | 27/27 |  |  |
+| 397 | Na_3CBX | small | 8,296 | done | OK | 0 | 2 | 0 | OK | 34 | 41 | 5 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།' in language 'bo' already exists"} |
+| 398 | Na_3CBY | small | 27,704 | done | OK | 0 | 1 | 0 | OK | 169 | 85 | 5 | no | uploaded | 4sgNlcpfpGX6p6uZusu5R | ✓ | ✓ | 85/85 |  |  |
+| 399 | Na_3CBZ | small | 6,775 | done | OK | 0 | 1 | 0 | OK | 17 | 11 | 5 | no | uploaded | uZCi9u874IVcrBmEdaWLH | ✓ | ✓ | 11/11 |  |  |
+| 400 | Sh_3CCh_ | small | 1,075 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] compiler's note, no ༼…༽ (C4) |
+| 401 | Sh_3CCi_ | small | 1,282 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^2] compiler's note, no ༼…༽ (C5) |
+| 402 | Sh_3CCj_ | small | 1,926 | done | OK | 0 | 2 | 0 | OK | 8 | 5 | 6 | no | uploaded | LcCZ4LagU8OW8EgswLRU9 | ✓ | ✓ | 5/5 |  |  |
+| 403 | Sh_3CCl_ | small | 1,671 | done | OK | 0 | 2 | 0 | OK | 7 | 1 | 5 | no | uploaded | MI7RltmRpWofsM5IXXgoo | ✓ | ✓ | 1/1 |  |  |
+| 404 | Sh_3CCm_ | medium | 159,730 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | held by request (2026-10-13) |
+| 405 | Sh_3CCn_ | small | 3,726 | done | OK | 0 | 1 | 0 | OK | 13 | 7 | 5 | no | uploaded | 29eBkMQJfoTOBoHMk6ocF | ✓ | ✓ | 7/7 |  |  |
+| 406 | Sh_3CCp_ | small | 23,524 | done | OK | 0 | 1 | 0 | OK | 69 | 135 | 5 | no | uploaded | f1kgfnvdn8kRrN4UGhYBJ | ✓ | ✓ | 135/135 |  |  |
+| 407 | Sh_3CCq_ | small | 13,043 | done | OK | 0 | 1 | 0 | OK | 69 | 73 | 2 | no | uploaded | RRp6mExkSiopulaTHiIPU | ✓ | ✓ | 73/73 |  |  |
+| 408 | Sh_3CCr_ | small | 5,384 | done | OK | 0 | 2 | 0 | OK | 32 | 20 | 9 | no | uploaded | lILQJ8ziYDaUjgmc9i1pB | ✓ | ✓ | 20/20 |  |  |
+| 409 | Sh_3CCs_ | large | 269,220 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 410 | Sh_3CCt_ | large | 543,575 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 411 | Sh_3CCu_ | small | 17,975 | done | OK | 0 | 2 | 1 | OK | 66 | 1 | 2 | no | uploaded | b0mux3xub6C5v2HlK6Acu | ✓ | ✓ | 1/1 |  |  |
+| 412 | Sh_3CCv_ | small | 2,109 | done | OK | 0 | 2 | 0 | OK | 10 | 1 | 5 | no | uploaded | sf4TOaHeOvvHlxo8u8dC9 | ✓ | ✓ | 1/1 |  |  |
+| 413 | Sh_3CCx_ | small | 3,898 | done | OK | 0 | 2 | 0 | OK | 20 | 5 | 5 | no | uploaded | PiWHVBdiOcvzJWScOT8Ul | ✓ | ✓ | 5/5 |  |  |
+| 414 | Sh_3CCy_ | small | 4,104 | done | OK | 0 | 1 | 0 | OK | 14 | 4 | 9 | no | uploaded | DGKtIir0lGUCBbtJUK5WE | ✓ | ✓ | 4/4 |  |  |
+| 415 | Sh_3CCz_ | small | 4,183 | done | OK | 0 | 2 | 0 | OK | 15 | 11 | 8 | no | uploaded | 2QOWrMhIt8rfKoMmFdkrz | ✓ | ✓ | 11/11 |  |  |
+| 416 | Sh_3CD1 | medium | 42,824 | done | OK | 0 | 5 | 3 | OK | 58 | 6 | 8 | no | uploaded | myZsK7j5CWY93tpK9LJ3s | ✓ | ✓ | 6/6 |  |  |
+| 417 | Sh_3CD2 | medium | 58,918 | done | OK | 0 | 2 | 0 | OK | 171 | 180 | 35 | no | uploaded | m4RuDDwAIO84WrluJ9YxU | ✓ | ✓ | 180/180 |  |  |
+| 418 | Sh_3CD3 | medium | 105,605 | done | OK | 0 | 1 | 0 | OK | 147 | 341 | 10 | no | uploaded | EoWG5t2TxpWnh0oI8SAI9 | ✓ | ✓ | 341/341 |  |  |
+| 419 | Sh_3CD4 | medium | 78,391 | done | OK | 0 | 1 | 0 | OK | 138 | 265 | 12 | no | uploaded | lnjdvnw1qGlrLEI4LTNm1 | ✓ | ✓ | 265/265 |  |  |
+| 420 | Sh_3CD5 | small | 22,921 | done | OK | 0 | 2 | 0 | OK | 33 | 67 | 8 | no | uploaded | yMY2JjoVmjn30v1UXAy1I | ✓ | ✓ | 67/67 |  |  |
+| 421 | Sh_3CD6 | medium | 80,932 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] source edition citation (C9) |
+| 422 | Sh_3CD7 | medium | 61,215 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] source edition citation (C10) |
+| 423 | Sh_3CD8 | medium | 48,431 | done | OK | 0 | 2 | 0 | OK | 118 | 166 | 6 | no | uploaded | IzOQAnt6OEN9n32H5k3SD | ✓ | ✓ | 166/166 |  |  |
+| 424 | Sh_3CDA | small | 15,187 | done | OK | 0 | 1 | 0 | OK | 100 | 49 | 6 | no | uploaded | 1AQvtom61Uu3yhxNJZdzB | ✓ | ✓ | 49/49 |  |  |
+| 425 | Sh_3CDE | large | 565,719 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 426 | Sh_3CDF | small | 12,172 | done | OK | 0 | 1 | 0 | OK | 60 | 0 | 7 | no | uploaded | BMxOpxX2FSaul3mRQnyI2 | ✓ | ✓ | 0/0 |  |  |
+| 427 | Sh_3CFZ | medium | 52,605 | done | OK | 0 | 1 | 0 | OK | 248 | 325 | 19 | no | **failed** |  |  |  |  |  | upload: a live text already has bdrc WA0RT3462: ['D4rL3iP5a8iKso8DTYOmt'] — record its text_id instead of creating a duplicate |
+| 428 | Va_3CE0 | small | 1,444 | done | OK | 0 | 2 | 0 | OK | 6 | 2 | 5 | no | uploaded | QJIPc1h85yzpU080yQ0rO | ✓ | ✓ | 2/2 |  |  |
+| 429 | Va_3CEL | small | 5,432 | done | OK | 0 | 2 | 0 | OK | 29 | 14 | 7 | no | uploaded | J4ITl7pJpeOIfg5ohX24E | ✓ | ✓ | 14/14 |  |  |
+| 430 | Va_3CEM | small | 4,406 | done | OK | 0 | 2 | 0 | OK | 26 | 13 | 6 | no | uploaded | sGn4yZ2cobBWp7WBqp4uN | ✓ | ✓ | 13/13 |  |  |
+| 431 | Va_3CEO | small | 7,232 | done | OK | 0 | 2 | 0 | OK | 42 | 30 | 8 | no | uploaded | fUw8zOUHL1Bq46xlU5JTV | ✓ | ✓ | 30/30 |  |  |
+| 432 | Va_3CEP | small | 21,740 | done | OK | 0 | 2 | 0 | OK | 156 | 79 | 8 | no | **failed** |  |  |  |  |  | upload: HTTP 422 POST /v2/texts: {"error":"Text with title 'ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།' in language 'bo' already exists"} |
+| 433 | Va_3CEQ | medium | 43,316 | done | OK | 0 | 2 | 0 | OK | 27 | 210 | 5 | no | uploaded | EWUzRJMUZvp8mAg6Tm3US | ✓ | ✓ | 210/210 |  |  |
+| 434 | Va_3CER | large | 431,910 | to do |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 435 | Va_3CES | medium | 41,918 | done | OK | 0 | 2 | 0 | OK | 98 | 164 | 8 | no | uploaded | JwJwfgju6zgrxnw6GXgk6 | ✓ | ✓ | 164/164 |  |  |
+| 436 | Va_3CET | small | 5,547 | done | OK | 0 | 3 | 0 | OK | 19 | 21 | 6 | no | uploaded | cBiXoCqNJ3W8WYUwP3rOA | ✓ | ✓ | 21/21 |  |  |
+| 437 | Va_3CEX | medium | 92,642 | done | OK | 0 | 1 | 0 | OK | 590 | 379 | 13 | no | uploaded | OkZN3zxjraovr2PmeWnXX | ✓ | ✓ | 379/379 |  |  |
+| 438 | Va_3CEY | small | 5,628 | done | OK | 0 | 2 | 0 | OK | 32 | 22 | 9 | no | uploaded | 6VRNBFWMdEWUhh7opvn0g | ✓ | ✓ | 22/22 |  |  |
+| 439 | Va_3CEa_ | small | 4,102 | done | OK | 0 | 2 | 0 | OK | 24 | 12 | 7 | no | uploaded | oPWJd6xHM4ly3JwsMVyJu | ✓ | ✓ | 12/12 |  |  |
+| 440 | Va_3CEb_ | small | 3,347 | done | OK | 0 | 2 | 0 | OK | 15 | 16 | 6 | no | uploaded | 6LTx5dNTDLvKpIg8hziQR | ✓ | ✓ | 16/16 |  |  |
+| 441 | Va_3CEc_ | small | 8,002 | done | OK | 0 | 2 | 0 | OK | 33 | 43 | 8 | no | uploaded | G9x2fOzFrTxDAS8s43PUR | ✓ | ✓ | 43/43 |  |  |
+| 442 | Va_3CEd_ | small | 2,755 | done | OK | 0 | 2 | 0 | OK | 11 | 16 | 5 | no | uploaded | 4DEeMw342tjhHlZ0ZfH7A | ✓ | ✓ | 16/16 |  |  |

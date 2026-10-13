@@ -17,6 +17,10 @@ license: "public"
 pandita: "02-Aryadeva"
 category_id: "JD5ULLPAV1cxg7RSb7L3q"
 category_name: "Middle Way / དབུ་མ།"
+text_id: "V51V3ga71RtKCVaryl8C3"
+edition_id: "np16ygL63jUHgAlbhNppi"
+toc_id: "o11UCl2epD2Zn9hcxU9kU"
+durchen_count: 37
 openpecha_text_id:
 ---
 

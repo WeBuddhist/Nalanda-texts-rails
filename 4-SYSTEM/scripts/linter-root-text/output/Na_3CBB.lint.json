@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Na_3CBB.md",
+  "validated_at": "2026-10-13T11:13:03.447106+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 316 from 316 footnote definition(s)",
+    "toc: 19 headers found"
+  ],
+  "warnings": [
+    "author 'Śākyaprabha': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3462",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "དགེ་ཚུལ་གྱི་བསླབ་པའི་ཚིག་ལེའུར་བྱས་པ་ལྔ་བཅུ་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "4wuvGxIgXNZ5mb0bDWvkC",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

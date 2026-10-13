@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/At_3CFg_.md",
+  "validated_at": "2026-10-13T11:09:25.391729+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 12 from 12 footnote definition(s)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "author 'the tiger rider': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0181",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དཔའ་བོ་གཅིག་པའི་སྒྲུབ་ཐབས།"
+    },
+    "alt_titles": [
+      {
+        "bo": "དཔའ་བོ་གཅིག་པའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

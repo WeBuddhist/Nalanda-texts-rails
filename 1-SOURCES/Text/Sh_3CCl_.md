@@ -17,6 +17,10 @@ license: "public"
 pandita: "06-Shantideva"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "MI7RltmRpWofsM5IXXgoo"
+edition_id: "XOTvBoEfXjLg1DssddQRA"
+toc_id: "ZW2pCEh8iG1aqcxGGabcC"
+durchen_count: 1
 openpecha_text_id:
 ---
 

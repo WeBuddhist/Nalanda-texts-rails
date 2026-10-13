@@ -17,6 +17,10 @@ license: "public"
 pandita: "09-Asanga"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "Y8NMcBJeBAGZU1qNDh864"
+edition_id: "0jOHf2kywBqhIpwR9L7CP"
+toc_id: "1nEeZVjoZMqM8iilAgOEc"
+durchen_count: 17
 openpecha_text_id: "5QN8xHUy0exsXEoxAMEKB"
 ---
 

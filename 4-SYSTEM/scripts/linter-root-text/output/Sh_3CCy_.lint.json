@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Sh_3CCy_.md",
+  "validated_at": "2026-10-13T11:13:29.485332+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 4 from 4 footnote definition(s)",
+    "toc: 9 headers found"
+  ],
+  "warnings": [
+    "author 'Śāntirakṣita': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0447",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཀྱེའི་རྡོ་རྗེ་ལས་བྱུང་བའི་ཀུ་རུ་ཀུ་ལླེའི་མན་ངག་ཆེན་པོ་ལྔ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "ཀྱེའི་རྡོ་རྗེ་ལས་བྱུང་བའི་ཀུ་རུ་ཀུལླེའི་མན་ངག་ཆེན་པོ་ལྔ་།"
+      },
+      {
+        "bo": "ཀྱེའི་རྡོ་རྗེ་ལས་བྱུང་བའི་ཀུ་རུ་ཀུ་ལླེའི་མན་ངག་ཆེན་པོ་ལྔ་།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

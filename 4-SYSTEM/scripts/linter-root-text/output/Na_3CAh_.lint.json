@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Na_3CAh_.md",
+  "validated_at": "2026-10-13T11:12:48.684669+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 18 from 18 footnote definition(s)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "གླང་པོ་རིན་པོ་ཆེ་ལ་ནོར་བླང་བའི་མན་ངག་ཅེས་བྱ་བ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

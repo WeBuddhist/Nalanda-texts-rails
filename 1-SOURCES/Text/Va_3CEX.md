@@ -18,6 +18,10 @@ license: "public"
 pandita: "10-Vasubandhu"
 category_id: "MZUUxphQ0yFwLBon3Vng8"
 category_name: "Systematic Treatises / མངོན་པ།"
+text_id: "OkZN3zxjraovr2PmeWnXX"
+edition_id: "tZEJNurpYILMxAd2OaKjN"
+toc_id: "1rGyWazzwD4OMWMrdwduC"
+durchen_count: 379
 openpecha_text_id: "SuEjB3HRx4X1FM5fgBOsQ"
 ---
 

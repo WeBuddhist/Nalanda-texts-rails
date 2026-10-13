@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/As_3CDd_.md",
+  "validated_at": "2026-10-13T11:09:17.695553+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 43 from 43 footnote definition(s)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "segment 9 (^1-4): footnote [^9] lemma 'ཕྱོགས་སུ་' does not end at the marker — the durchen will span the syllable before it, 'ཕྱོགས༌'",
+    "segment 9 (^1-4): footnote [^18] lemma 'པྲ་ཛྙཱ་པཱ་' does not end at the marker — the durchen will span the syllable before it, 'པཱ༌'",
+    "segment 15 (^1-10): footnote [^40] lemma 'སྔོན་པོའོ། །' does not end at the marker — the durchen will span the syllable before it, 'སྔོན༌'",
+    "segment 16 (^1-11): footnote [^41] lemma 'ཕྱིན་མ་ཡི།' does not end at the marker — the durchen will span the syllable before it, 'མ༌'",
+    "segment 19 (^a-1): footnote [^43] lemma '།། །།' does not end at the marker — the durchen will span the syllable before it, 'སོ།།'",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྒྲུབ་ཐབས།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

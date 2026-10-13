@@ -17,6 +17,10 @@ license: "public"
 pandita: "11-Dignaga"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "VSJMSQVwbdBeyrg6sRqMs"
+edition_id: "O4ZkNr5FMZ8UGYpoK0bFt"
+toc_id: "WvaKOTw4iSEfWIPlci6AI"
+durchen_count: 2
 openpecha_text_id:
 ---
 

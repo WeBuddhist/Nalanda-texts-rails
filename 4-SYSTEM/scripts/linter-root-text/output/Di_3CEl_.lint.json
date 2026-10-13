@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Di_3CEl_.md",
+  "validated_at": "2026-10-13T11:11:32.258073+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 42 from 42 footnote definition(s)",
+    "toc: 8 headers found"
+  ],
+  "warnings": [
+    "author 'Dignāga': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3154",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "ཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་བ།"
+      },
+      {
+        "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིག་ལེའུའར་བྱས་པ།"
+      },
+      {
+        "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིགས་ལེའུར་བྱས་བ།"
+      },
+      {
+        "bo": "ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།"
+      },
+      {
+        "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

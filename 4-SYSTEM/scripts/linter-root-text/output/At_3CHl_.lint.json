@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/At_3CHl_.md",
+  "validated_at": "2026-10-13T11:10:55.575395+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 42 from 42 footnote definition(s)",
+    "toc: 7 headers found"
+  ],
+  "warnings": [
+    "author 'Dīpaṅkarabhadra': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT1870",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "སྒྲ་ལ་མི་གནས་པའི་བསམ་གཏན་ཞེས་བྱ་བ་རྣལ་འབྱོར་པའི་འཁོར་རྐྱེན་དྲུངས་ནས་འདོན་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "སྒྲ་ལ་མི་གནས་པའི་བསམ་གཏན་ཞེས་བྱ་བ་རྣལ་འབྱོར་བའི་འཁོར་རྐྱེན་དྲུངས་ནས་འདོན་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

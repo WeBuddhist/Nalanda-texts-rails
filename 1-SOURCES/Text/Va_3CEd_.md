@@ -17,6 +17,10 @@ license: "public"
 pandita: "10-Vasubandhu"
 category_id: "sEStEY4RRWU7U23rkiOk5"
 category_name: "Mind Trainings and Advices / བློ་སྦྱོང་དང་བསླབ་བྱ།"
+text_id: "4DEeMw342tjhHlZ0ZfH7A"
+edition_id: "BzMcgFcdJKSicg2OyfK76"
+toc_id: "A6nvSlybeL6kWukU8NsFC"
+durchen_count: 16
 openpecha_text_id:
 ---
 

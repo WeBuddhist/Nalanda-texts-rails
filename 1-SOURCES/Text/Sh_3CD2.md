@@ -17,6 +17,10 @@ license: "public"
 pandita: "07-Shantarakshita"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "m4RuDDwAIO84WrluJ9YxU"
+edition_id: "Fk172aJhSesYYlrh284uM"
+toc_id: "oo77TvCQz6BxCmpanM2oZ"
+durchen_count: 180
 openpecha_text_id:
 ---
 

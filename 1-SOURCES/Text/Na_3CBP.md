@@ -17,6 +17,10 @@ license: "public"
 pandita: "01-Nagarjuna"
 category_id: "sEStEY4RRWU7U23rkiOk5"
 category_name: "Mind Trainings and Advices / བློ་སྦྱོང་དང་བསླབ་བྱ།"
+text_id: "lCpq9au3AgQZV0YrtjfxN"
+edition_id: "fbawof2cNitHgFh7rdL7I"
+toc_id: "fm5v7vy8UZhcYvoR0GrNr"
+durchen_count: 270
 openpecha_text_id:
 ---
 

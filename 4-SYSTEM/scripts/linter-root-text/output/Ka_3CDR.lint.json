@@ -1,0 +1,43 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Ka_3CDR.md",
+  "validated_at": "2026-10-13T11:11:42.869765+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 54 from 54 footnote definition(s)",
+    "toc: 8 headers found"
+  ],
+  "warnings": [
+    "author 'kamalashila': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3260",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྣལ་འབྱོར་གསུམ་པ་ལ་འཇུག་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "རྣམ་འབྱོར་བསྒོམ་པ་ལ་འཇུག་པ།"
+      },
+      {
+        "bo": "རྣལ་འབྱོར་བསྒོམ་པ་ལ་འཇུག་པ།"
+      },
+      {
+        "bo": "རྣལ་འབྱོར་སྒོམ་པ་ལ་འཇུག་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

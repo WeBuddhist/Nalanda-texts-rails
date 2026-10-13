@@ -22,6 +22,10 @@ license: "public"
 pandita: "11-Dignaga"
 category_id: "SoGlGBaboYkVa7b9qJvvK"
 category_name: "Miscellaneous / སྣ་ཚོགས།"
+text_id: "ZMheqeCIzN5A4aM5hoV5r"
+edition_id: "Ywfznlv1D10tps5OtGTli"
+toc_id: "1nldDtbjKNDzxub5wgQaI"
+durchen_count: 128
 openpecha_text_id: "tenb88YYccIpgcIvf0uGP"
 ---
 

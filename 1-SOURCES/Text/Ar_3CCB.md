@@ -18,6 +18,10 @@ license: "public"
 pandita: "02-Aryadeva"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "VAeISJ4pMg5H6loIy3r4r"
+edition_id: "DQWzG2wELvSr4FTlZLXyt"
+toc_id: "AIDNI0dsjJSPgdAaZlUR6"
+durchen_count: 1
 openpecha_text_id:
 ---
 
