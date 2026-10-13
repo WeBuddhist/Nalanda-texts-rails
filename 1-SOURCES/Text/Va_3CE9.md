@@ -1,3 +1,30 @@
+---
+title: ག་ཡ་མགོའི་རིའི་རྣམ་པར་བཤད་པ།
+alt_titles:
+  - bo: "ག་ཡ་མགོའི་རིའི་རྣམ་པར་བཤད་པ་བཞུགས་སོ། །"
+  - en: ""
+author:
+author_in_english:
+translator:
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: commentary
+lang_tag: bo
+verse_id_format:
+registered_id:
+root_text:
+covers_verses:
+collected_works: Vasubandhu
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 65) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ག༽ .docx (10-Vasubandhu)"
+source: https://wb.pub/3CE9
+bdrc_work_id:
+openpecha_text_id:
+license:
+category_id:
+category:
+---
+
 ## ༄༅། །ག་ཡ་མགོའི་རིའི་རྣམ་པར་བཤད་པ་བཞུགས་སོ། །
 
 ༄༅༅། །འཕགས་པ་ག་ཡ་མགོའི༌[^1]རི་ཞེས་བྱ་བའི་མདོའི་རྣམ་པར་བཤད་པ། འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །མདོར་བསྡུས་པ་ནི་གླེང་གཞི་དང་མཐུན་པའི་ཉན་པ་པོ་ཕུན་སུམ་ཚོགས་པ་དང་། ཏིང་ངེ་འཛིན་དང་། རྟོགས་པ༌[^2]པོ་རྣམ་པར་དག་པ་དང་། བརྟག་པར་བྱ་བའི་དངོས་པོ་དང་། བཞེངས་པ་དང་། བསྟན་པ་དང་། བྱང་ཆུབ་སེམས་དཔའི་ཡོན་ཏན་གྱི་མཐུ་དང་། སྤྱོད་པ་རྣམ་པར་དབྱེ་བའོ། །སྤྱོད་པ་རྣམ་པར་དབྱེ་བ་དེ་ཡང་བསྡུ་བ་རྣམ་པ་གཉིས་ཀྱིས་བསྡུས་པར་རིག་པར་བྱ་སྟེ། རྒྱུས་བསྡུས་པ་དང་། འབྲས་བུས་བསྡུས་པའོ། །

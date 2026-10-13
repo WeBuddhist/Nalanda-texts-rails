@@ -1,10 +1,7 @@
 
-=== 2026-10-12 15:50:17 gemini-3.8-flash medium
+=== 2026-10-12 15:17:22 gemini-3.8-flash medium
 prose: 3785 sentences, 2138 verse lines in 83 passage(s) · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 246, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
    # ༄༅། །མདོ་ཀུན་ལས་བཏུས་པ་ཆེན་པོ། ^0
    ## ཀླད་ཀྱི་དོན། ^I-0
    ## གཞུང་དངོས། ^1-0
-Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
-Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+{"id": "At_3CHK", "model": "gemini-3.8-flash", "thinking": "medium", "chunks": 126, "units": 15662, "qc4": "0", "pass5_windows": 14, "qc6": 1, "nodes": 29, "parts": 29, "unanchored": 0, "status": "done", "calls": 267, "input_tokens": 2406402, "output_tokens": 20927, "thinking_tokens": 464590, "cost_usd": 3.625, "wall_seconds": 1288}

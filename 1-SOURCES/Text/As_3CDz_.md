@@ -1,3 +1,30 @@
+---
+title: མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྣམ་པར་བཤད་པ།༼སྨད་ཆ།༽
+alt_titles:
+  - bo: ""
+  - en: ""
+author:
+author_in_english:
+translator:
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: commentary
+lang_tag: bo
+verse_id_format:
+registered_id:
+root_text:
+covers_verses:
+collected_works: Asanga
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 62) ཐོགས་མེད་ཀྱི་གསུང་འབུམ། ད༽ .docx (09-Asanga)"
+source: https://wb.pub/3CDz
+bdrc_work_id:
+openpecha_text_id:
+license:
+category_id:
+category:
+---
+
 ### ༄༅། །མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྣམ་པར་བཤད་པ།༼སྨད་ཆ།༽
 
 བཅུ་པ། འཕགས་པ་འཇམ་དཔལ་གྱི་ལེའུ།

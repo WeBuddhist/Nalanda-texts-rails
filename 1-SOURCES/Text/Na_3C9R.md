@@ -1,3 +1,27 @@
+---
+title: དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།
+alt_titles:
+  - bo: ""
+  - en: ""
+author:
+author_in_english:
+translator:
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: root-text
+lang_tag: bo
+verse_id_format:
+collected_works: Nagarjuna
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna)"
+source: https://wb.pub/3C9R
+bdrc_work_id:
+openpecha_text_id:
+license:
+category_id:
+category:
+---
+
 ## ༄༅། །དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཤྲཱི་མ་ཧཱ་ཀཱ་ལ་སཱ་དྷ་ནཾ་ནཱ་མ། བོད་སྐད་དུ། དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ། དཔལ་ལྡན་ཁྲག་འཐུང་འགྲོ་བའི་མགོན། །ལྷ་མོ་དང་བཅས་འཁོར་ལོ་ལ། །བཏུད་དེ་ནག་པོ་ཆེན་པོ་ཡི། །སྒྲུབ་པའི་རིམ་པ་བྲི་བར་བྱ། །དབང་གིས་སྨིན་བྱས་དམ་ཚིག་ལྡན། །བླ་མ་ལ་གུས་སྙིང་བརྩེ་གཏོང་། །ཤེས་རབ་བཟོད་ལྡན་བརྩོན་འགྲུས་ཆེ། །སྒྲུབ་ལ་དཔའ་བའི་སྔགས་པ་ཡིས། །ཡིད་འོང་དབེན་པའི་གནས་དག་གམ། །རི་བོ་དུར༌[^1]ཁྲོད་མ་མོ་དང་། །གཤིན་རྗེ་འཇིགས་སུ་རུང་བ་ཡི། །གནས་སུ་ནག་པོ་བསྒྲུབ་པར་བྱའོ། །

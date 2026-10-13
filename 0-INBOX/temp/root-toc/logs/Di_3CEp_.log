@@ -1,0 +1,10 @@
+
+=== 2026-10-13 11:14:26 gemini-3.8-flash low
+pādas 1066 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), author's colophon, translators' colophon, raw paragraph breaks kept: 11, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །ཚད་མ་ཀུན་ལས་བཏུས་པ་ཞེས་བྱ་བའི་མདོ་བཞུགས་སོ། ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+{"id": "Di_3CEp_", "model": "gemini-3.8-flash", "thinking": "low", "chunks": 18, "units": 2159, "qc4": "0", "pass5_windows": 1, "qc6": 6, "nodes": 6, "parts": 6, "unanchored": 0, "status": "done", "calls": 38, "input_tokens": 146082, "output_tokens": 3520, "thinking_tokens": 458, "cost_usd": 0.124, "wall_seconds": 31}

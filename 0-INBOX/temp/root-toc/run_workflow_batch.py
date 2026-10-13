@@ -23,7 +23,7 @@ Per text <id>:
      order, no block across a heading, a printed paragraph break ¶ or a prose/verse
      change) and asked again once with the error if it fails; then group-join
   4. root_text_build.py finish     → final-<free|prose>.md with block IDs, strict gate
-  5. copied to 0-INBOX/processed/root-gemini/<id>-<free|prose>.md
+  5. copied to 0-INBOX/processed/root-gemini/<id>.md
 
 Status: 0-INBOX/temp/root-toc/workflow-status.json → report 0-INBOX/ROOT-WORKFLOW-BATCH.md.
 Logs: 0-INBOX/temp/root-toc/logs/workflow-<id>.log. Nothing in 0-INBOX/processed/root/ is
@@ -77,7 +77,7 @@ def render(d):
     n = {k: sum(1 for r in d.values() if r["status"] == k) for k in keys}
     rows = []
     for k, (i, r) in enumerate(d.items(), 1):
-        out = f"`processed/root-gemini/{i}-{r['form_out']}.md`" if r["status"] == "done" else ""
+        out = f"`processed/root-gemini/{i}.md`" if r["status"] == "done" else ""
         rows.append(f"| {k} | {i} | {t[i].get('size', '')} | {r['status']} | {r.get('toc', '')} | "
                     f"{r.get('headings', '')} | {r.get('blocks', '')} | {r.get('run', '')} | "
                     f"{r.get('note', '')} | {out} |")
@@ -91,7 +91,7 @@ running {n['running']} · **to do {n['todo']}**
 
 | Where | Path |
 |---|---|
-| Finished files (with block IDs) | `0-INBOX/processed/root-gemini/<id>-<free\\|prose>.md` |
+| Finished files (with block IDs) | `0-INBOX/processed/root-gemini/<id>.md` |
 | Working folder per text | `0-INBOX/temp/root-final/<id>/` (prepared.md, group-in.md, groups-*.json, final-*.md) |
 | Tree used for the headings | `0-INBOX/temp/TOC-<id>/toc-tree-anchored-<id>.md` |
 | Log per text | `0-INBOX/temp/root-toc/logs/workflow-<id>.log` |
@@ -305,7 +305,7 @@ def process(i, kind, thinking):
             tail = (p.stdout + p.stderr).strip().splitlines()[-1:] or [""]
             return {"status": "failed", "note": f"finish failed: {tail[0][:160]}", "headings": heads}
         OUTDIR.mkdir(parents=True, exist_ok=True)
-        shutil.copyfile(final, OUTDIR / f"{i}-{mode}.md")
+        shutil.copyfile(final, OUTDIR / f"{i}.md")
         blocks = len(json.loads((work / f"groups-{mode}.json").read_text(encoding="utf-8"))["stanzas"])
         recs = [json.loads(x) for x in (work / "usage.jsonl").read_text(encoding="utf-8").splitlines()] \
             if (work / "usage.jsonl").exists() else []

@@ -3708,28 +3708,58 @@
   "note": ""
  },
  "As_3CDk_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.53 · 10.4 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 599,
+  "note": ""
  },
  "As_3CDl_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.37 · 26.2 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1733,
+  "note": "breaks-review.md: raw breaks ending mid-sentence"
  },
  "As_3CDm_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.96 · 16.4 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1073,
+  "note": "breaks-review.md: raw breaks ending mid-sentence"
  },
  "As_3CDn_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.04 · 17.9 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1074,
+  "note": ""
  },
  "As_3CDo_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.21 · 22.0 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1460,
+  "note": ""
  },
  "As_3CDp_": {
-  "status": "todo",
-  "toc": "tree"
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.12 · 14.9 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1314,
+  "note": "breaks-review.md: raw breaks ending mid-sentence"
  },
  "Ar_3CBe_": {
   "status": "done",
@@ -3766,5 +3796,185 @@
   "form_out": "free",
   "headings": "—",
   "blocks": 111
+ },
+ "As_3CDq_": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.30 · 20.0 min",
+  "form_out": "prose",
+  "headings": "2 not placed",
+  "blocks": 1236,
+  "note": "REVIEW: heading(s) not placed — insert by hand"
+ },
+ "As_3CDv_": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.63 · 13.6 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1040,
+  "note": ""
+ },
+ "At_3CHK": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $2.29 · 61.0 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1573,
+  "note": ""
+ },
+ "Dh_3CF5": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.38 · 29.7 min",
+  "form_out": "free",
+  "headings": "0 not placed",
+  "blocks": 1179,
+  "note": ""
+ },
+ "Dh_3CF6": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.71 · 15.0 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 943,
+  "note": ""
+ },
+ "Gu_3CFS": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.97 · 19.9 min",
+  "form_out": "prose",
+  "headings": "4 not placed",
+  "blocks": 1275,
+  "note": "REVIEW: heading(s) not placed — insert by hand"
+ },
+ "Gu_3CFT": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.19 · 21.3 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 931,
+  "note": ""
+ },
+ "Ha_3CFF": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.91 · 15.2 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 882,
+  "note": ""
+ },
+ "Ha_3CFG": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.13 · 19.0 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1177,
+  "note": ""
+ },
+ "Ha_3CFH": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.44 · 17.8 min",
+  "note": "",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1084
+ },
+ "Ha_3CFI": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.71 · 10.8 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 801,
+  "note": ""
+ },
+ "Ka_3CDK": {
+  "status": "done",
+  "toc": "no parts",
+  "run": "medium · $0.95 · 19.7 min",
+  "form_out": "prose",
+  "headings": "—",
+  "blocks": 804,
+  "note": ""
+ },
+ "Na_3CB4": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.70 · 13.2 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 382,
+  "note": ""
+ },
+ "Sh_3CCs_": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.94 · 19.9 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 596,
+  "note": ""
+ },
+ "Sh_3CCt_": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $1.28 · 25.4 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1402,
+  "note": ""
+ },
+ "Sh_3CDE": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $3.73 · 84.8 min",
+  "form_out": "free",
+  "headings": "0 not placed",
+  "blocks": 3377,
+  "note": ""
+ },
+ "Va_3CER": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.97 · 17.8 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 1056,
+  "note": ""
+ },
+ "Ha_3CFJ": {
+  "status": "done",
+  "toc": "tree",
+  "run": "medium · $0.75 · 11.8 min",
+  "form_out": "prose",
+  "headings": "0 not placed",
+  "blocks": 772,
+  "note": ""
+ },
+ "Ch_3CCd_": {
+  "status": "done",
+  "toc": "tree",
+  "run": "low · $0.06 · 0.7 min",
+  "form_out": "free",
+  "headings": "0 not placed",
+  "blocks": 326,
+  "note": ""
+ },
+ "Di_3CEp_": {
+  "status": "done",
+  "toc": "tree",
+  "run": "low · $0.07 · 1.0 min",
+  "form_out": "free",
+  "headings": "0 not placed",
+  "blocks": 281,
+  "note": ""
  }
 }

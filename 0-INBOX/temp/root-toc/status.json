@@ -503,10 +503,18 @@
  },
  "As_3CDq_": {
   "source_lines": 3258,
-  "status": "todo",
+  "status": "done",
   "chars": 773663,
   "size": "large",
-  "run": ""
+  "run": "3.8-flash medium · $9.52 · 44.7 min",
+  "note": "Gemini run — review the top-level parts; 6 node(s) without an anchor ([[?]])",
+  "form": "prose",
+  "units": 11970,
+  "chunks": 96,
+  "parts": 1,
+  "nodes": 149,
+  "qc4": "0",
+  "qc6": "24 flags"
  },
  "As_3CDr_": {
   "source_lines": 386,
@@ -570,10 +578,18 @@
  },
  "As_3CDv_": {
   "source_lines": 1791,
-  "status": "todo",
+  "status": "done",
   "chars": 295926,
   "size": "large",
-  "run": ""
+  "run": "3.8-flash medium · $3.48 · 37.5 min",
+  "form": "prose",
+  "units": 7141,
+  "chunks": 57,
+  "parts": 11,
+  "nodes": 153,
+  "qc4": "0",
+  "qc6": "11 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "As_3CDw_": {
   "source_lines": 142,
@@ -2256,10 +2272,18 @@
  },
  "At_3CHK": {
   "source_lines": 4302,
-  "status": "todo",
+  "status": "done",
   "chars": 798440,
   "size": "large",
-  "run": ""
+  "run": "3.8-flash medium · $3.62 · 21.5 min",
+  "form": "prose",
+  "units": 15662,
+  "chunks": 126,
+  "parts": 29,
+  "nodes": 29,
+  "qc4": "0",
+  "qc6": "1 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "At_3CHk_": {
   "source_lines": 56,
@@ -2354,7 +2378,7 @@
  "At_3CHn_": {
   "source_lines": 150,
   "status": "done",
-  "chars": 20461,
+  "chars": 20404,
   "size": "small",
   "run": "3.8-flash low · $0.07 · 0.4 min",
   "note": "Gemini run — review the top-level parts",
@@ -3155,15 +3179,33 @@
  },
  "Dh_3CF5": {
   "source_lines": 1216,
-  "status": "todo",
+  "status": "done",
   "chars": 213273,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $1.22 · 10.1 min",
+  "form": "verse",
+  "units": 11776,
+  "chunks": 95,
+  "parts": 4,
+  "nodes": 4,
+  "qc4": "0",
+  "qc6": "1 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Dh_3CF6": {
   "source_lines": 2177,
-  "status": "todo",
+  "status": "done",
   "chars": 320533,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $1.69 · 14.2 min",
+  "form": "prose",
+  "units": 7409,
+  "chunks": 60,
+  "parts": 1,
+  "nodes": 5,
+  "qc4": "0",
+  "qc6": "0 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Dh_3CF7": {
   "source_lines": 232,
@@ -3414,45 +3456,108 @@
  },
  "Gu_3CFS": {
   "source_lines": 2820,
-  "status": "todo",
+  "status": "done",
   "chars": 390432,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $3.35 · 14.7 min",
+  "note": "Gemini run — review the top-level parts; 4 node(s) without an anchor ([[?]])",
+  "form": "prose",
+  "units": 14838,
+  "chunks": 119,
+  "parts": 40,
+  "nodes": 40,
+  "qc4": "0",
+  "qc6": "36 flags"
  },
  "Gu_3CFT": {
   "source_lines": 3000,
-  "status": "todo",
+  "status": "done",
   "chars": 611367,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $4.41 · 42.7 min",
+  "note": "Gemini run — review the top-level parts",
+  "form": "prose",
+  "units": 8494,
+  "chunks": 68,
+  "parts": 16,
+  "nodes": 133,
+  "qc4": "0",
+  "qc6": "13 flags"
  },
  "Ha_3CFF": {
   "source_lines": 1699,
-  "status": "todo",
+  "status": "done",
   "chars": 645047,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $2.88 · 24.5 min",
+  "form": "prose",
+  "units": 8517,
+  "chunks": 68,
+  "parts": 63,
+  "nodes": 63,
+  "qc4": "0",
+  "qc6": "19 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Ha_3CFG": {
   "source_lines": 1965,
-  "status": "todo",
+  "status": "done",
   "chars": 711330,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $3.38 · 30.8 min",
+  "form": "prose",
+  "units": 10303,
+  "chunks": 83,
+  "parts": 19,
+  "nodes": 22,
+  "qc4": "0",
+  "qc6": "19 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Ha_3CFH": {
   "source_lines": 2298,
-  "status": "todo",
+  "status": "done",
   "chars": 749999,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $3.79 · 38.6 min",
+  "form": "prose",
+  "units": 9694,
+  "chunks": 78,
+  "parts": 14,
+  "nodes": 102,
+  "qc4": "0",
+  "qc6": "71 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Ha_3CFI": {
   "source_lines": 2206,
-  "status": "todo",
+  "status": "done",
   "chars": 670280,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $3.72 · 38.5 min",
+  "form": "prose",
+  "units": 7792,
+  "chunks": 63,
+  "parts": 3,
+  "nodes": 51,
+  "qc4": "0",
+  "qc6": "33 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Ha_3CFJ": {
   "source_lines": 2134,
-  "status": "todo",
+  "status": "done",
   "chars": 667778,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $5.02 · 0.6 min",
+  "note": "Gemini run — review the top-level parts",
+  "form": "prose",
+  "units": 8136,
+  "chunks": 65,
+  "parts": 18,
+  "nodes": 18,
+  "qc4": "0",
+  "qc6": "10 flags"
  },
  "Ha_3CFO": {
   "source_lines": 647,
@@ -3471,9 +3576,18 @@
  },
  "Ka_3CDK": {
   "source_lines": 1670,
-  "status": "todo",
+  "status": "no-parts",
   "chars": 420177,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $0.61 · 2.9 min",
+  "form": "prose",
+  "units": 6304,
+  "chunks": 51,
+  "parts": 0,
+  "nodes": 0,
+  "qc4": "",
+  "qc6": "",
+  "note": ""
  },
  "Ka_3CDL": {
   "source_lines": 433,
@@ -5230,9 +5344,18 @@
  },
  "Na_3CB4": {
   "source_lines": 1483,
-  "status": "todo",
+  "status": "done",
   "chars": 268837,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $1.38 · 14.5 min",
+  "form": "prose",
+  "units": 3761,
+  "chunks": 30,
+  "parts": 17,
+  "nodes": 17,
+  "qc4": "0",
+  "qc6": "0 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Na_3CB5": {
   "source_lines": 35,
@@ -5752,15 +5875,33 @@
  },
  "Sh_3CCs_": {
   "source_lines": 1702,
-  "status": "todo",
+  "status": "done",
   "chars": 262957,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $1.27 · 8.3 min",
+  "form": "prose",
+  "units": 5622,
+  "chunks": 45,
+  "parts": 5,
+  "nodes": 5,
+  "qc4": "0",
+  "qc6": "4 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Sh_3CCt_": {
   "source_lines": 3306,
-  "status": "todo",
+  "status": "done",
   "chars": 528968,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $2.75 · 20.2 min",
+  "form": "prose",
+  "units": 12942,
+  "chunks": 104,
+  "parts": 7,
+  "nodes": 30,
+  "qc4": "0",
+  "qc6": "2 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Sh_3CCu_": {
   "source_lines": 35,
@@ -5974,9 +6115,18 @@
  },
  "Sh_3CDE": {
   "source_lines": 3183,
-  "status": "todo",
+  "status": "done",
   "chars": 521520,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $3.20 · 22.5 min",
+  "form": "verse",
+  "units": 31717,
+  "chunks": 254,
+  "parts": 30,
+  "nodes": 30,
+  "qc4": "0",
+  "qc6": "9 flags",
+  "note": "Gemini run — review the top-level parts"
  },
  "Sh_3CDF": {
   "source_lines": 23,
@@ -6152,9 +6302,18 @@
  },
  "Va_3CER": {
   "source_lines": 2485,
-  "status": "todo",
+  "status": "done",
   "chars": 421757,
-  "size": "large"
+  "size": "large",
+  "run": "3.8-flash medium · $3.05 · 15.3 min",
+  "note": "Gemini run — review the top-level parts",
+  "form": "prose",
+  "units": 8749,
+  "chunks": 70,
+  "parts": 2,
+  "nodes": 20,
+  "qc4": "0",
+  "qc6": "4 flags"
  },
  "Va_3CES": {
   "source_lines": 198,
@@ -6206,6 +6365,36 @@
   "nodes": 4,
   "qc4": "0",
   "qc6": "2 flags",
+  "note": "Gemini run — review the top-level parts"
+ },
+ "Ch_3CCd_": {
+  "source_lines": 267,
+  "status": "done",
+  "run": "3.8-flash low · $0.20 · 0.8 min",
+  "chars": 61146,
+  "size": "medium",
+  "form": "verse",
+  "units": 2875,
+  "chunks": 23,
+  "parts": 10,
+  "nodes": 10,
+  "qc4": "0",
+  "qc6": "1 flags",
+  "note": "Gemini run — review the top-level parts"
+ },
+ "Di_3CEp_": {
+  "source_lines": 37,
+  "status": "done",
+  "run": "3.8-flash low · $0.12 · 0.6 min",
+  "chars": 33174,
+  "size": "medium",
+  "form": "verse",
+  "units": 2159,
+  "chunks": 18,
+  "parts": 6,
+  "nodes": 6,
+  "qc4": "0",
+  "qc6": "6 flags",
   "note": "Gemini run — review the top-level parts"
  }
 }

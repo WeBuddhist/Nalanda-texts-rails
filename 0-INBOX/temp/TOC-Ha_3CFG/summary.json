@@ -1,0 +1,20 @@
+{
+ "id": "Ha_3CFG",
+ "model": "gemini-3.8-flash",
+ "thinking": "medium",
+ "chunks": 83,
+ "units": 10303,
+ "qc4": "0",
+ "pass5_windows": 13,
+ "qc6": 19,
+ "nodes": 22,
+ "parts": 19,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 180,
+ "input_tokens": 2007670,
+ "output_tokens": 24738,
+ "thinking_tokens": 474507,
+ "cost_usd": 3.378,
+ "wall_seconds": 1849
+}

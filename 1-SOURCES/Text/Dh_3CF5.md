@@ -1,3 +1,29 @@
+---
+title: རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ།
+alt_titles:
+  - bo: "རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་བཞུགས་སོ། །"
+  - en: ""
+author: ཆོས་གྲགས།
+author_in_english: Dharmakīrti I
+translator:
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: root-text
+lang_tag: bo
+verse_id_format:
+related_commentaries:
+  - 1-SOURCES/Text/Dh_3CFB.md
+collected_works: Dharmakirti
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 79) ཆོས་གྲགས་ཀྱི་གསུང་འབུམ། ག༽ .docx (12-Dharmakirti)"
+source: https://wb.pub/3CF5
+bdrc_work_id: WA1KG8893
+openpecha_text_id: uN6DbrJPaApfPK3sH7Sat
+license: Public Domain Mark
+category_id: ydyRYjywMRqObgphDY7tQ
+category: Logic / ཚད་མ།
+---
+
 ## ༄༅། །རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་བཞུགས་སོ། །
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། པྲ་མཱ་ཎ་བཱར་ཏི་ཀཱ་ཀཱ་རི་ཀཱ། བོད་སྐད་དུ། ཚད་མ་རྣམ་འགྲེལ་གྱི་ཚིག་ལེའུར་བྱས་པ། འཕགས་པ་འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །རྟོག་པའི་དྲ་བ་རྣམ་བསལ་ཞིང་། །ཟབ་ཅིང་རྒྱ་ཆེའི་སྐུ་མངའ་བ། །ཀུན་ཏུ་བཟང་པོའི་འོད་ཟེར་དག །ཀུན་ནས་འཕྲོ་ལ་ཕྱག་འཚལ་ལོ། ༈ །སྐྱེ་བོ་ཕལ་ཆེར་ཕལ་ལ་ཆགས་ཤིང་ཤེས་རབ་རྩལ་མེད་པས་ན་ལེགས་བཤད་རྣམས། །དོན་དུ་མི་གཉེར་ཁོ་ནར་མ་ཟད་ཕྲག་དོག་དྲི་མ་དག་གིས་སྡང་བར་ཡང་། །ཡོངས་གྱུར་དེས་ན་བདག་ལ་འདི་ནི་གཞན་ལ་ཕན་པ་ཡིན་ཞེས་བསམ་པའང་མེད། །སེམས་ནི་ཡུན་རིང་ལེགས་བཤད་གོམས་པ་ལྷུར་ལེན་བསྐྱེད་ཕྱིར་འདི་ལ་དགའ་བ་སྐྱེས། ༈ །ཕྱོགས་ཆོས་དེ་ཆས་ཁྱབ་པ་ཡི། །གཏན་ཚིགས་དེ་ནི་རྣམ་གསུམ་ཉིད། །མེད་ན་མི་འབྱུང་ངེས་ཕྱིར་རོ། ༈ །

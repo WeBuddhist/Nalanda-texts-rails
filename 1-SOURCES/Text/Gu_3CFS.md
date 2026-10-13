@@ -1,3 +1,33 @@
+---
+title: འདུལ་བའི་མདོ།
+alt_titles:
+  - bo: ""
+  - en: ""
+author: སློབ་དཔོན་ཡོན་ཏན་འོད།
+author_in_english: Guṇaprabha
+translator: ཅོག་རོ་ཀླུའི་རྒྱལ་མཚན།
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: root-text
+lang_tag: bo
+verse_id_format:
+related_commentaries:
+  - 1-SOURCES/Text/Gu_3CFU.md
+  - 1-SOURCES/Text/Gu_3CFV.md
+  - 1-SOURCES/Text/Gu_3CFW.md
+  - 1-SOURCES/Text/Gu_3CFX.md
+  - 1-SOURCES/Text/Gu_3CFY.md
+collected_works: Gunaprabha
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 90) ཡོན་ཏན་འོད་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (15-Gunaprabha)"
+source: https://wb.pub/3CFS
+bdrc_work_id: WA0RT3455
+openpecha_text_id: vPmTubUjrqvnHBtB6q3Nv
+license: Public Domain Mark
+category_id: iRPrnRONBK20qn1Qs1Dbu
+category: Monastic Rules / འདུལ་བ།
+---
+
 ### ༄༅། །འདུལ་བའི་མདོ།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། བི་ན༌[^1]ཡ་སཱུ་ཏྲ། བོད་སྐད་དུ། འདུལ་བའི་མདོ། བམ་པོ་དང་པོ། ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །ངེས་པར་འབྱུང་བའི་ཚུལ་ཁྲིམས་ཀྱི་དབང་དུ་བྱས་ཏེ། དགེ་འདུན་ཐམས་ཅད་འདུས་པ་ན་ཆ་ལུགས་འདི་བཞིན་བྱས། རྒན་རིམས༌[^2]ལ་ཕྱག་འཚལ་ཏེ་ཐལ་མོ་སྦྱར། ཙོག་ཙོག་པོར་འདུག་ཅིང་གསོལ་བ་བཏབ་པར་གྱུར་པ་གསུམ་དང་། གསོལ་བ་དང་བཞིའི་ལས་ཀྱིས་ཅིག་ཅར་རབ་ཏུ་དབྱུང་བ༌[^3]དང་། བསྙེན་པར་རྫོགས་པ་ཉེ་བར་བསྒྲུབས་པར་གྱུར་པ་ལྟ་བུ་ནི་སྔོན་གྱི་ཆོ་གའོ། །
