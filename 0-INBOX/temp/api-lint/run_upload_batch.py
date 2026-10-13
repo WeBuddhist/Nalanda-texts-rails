@@ -8,8 +8,8 @@ parser payloads in 4-SYSTEM/scripts/parser-root-text/output/<id>/ in this order:
     2. POST /v2/texts/{text_id}/editions       <- <id>.edition.json    -> edition_id
     3. POST /v2/editions/{edition_id}/table-of-contents
                                                <- <id>.toc.json        -> toc_id
-    4. POST /v2/editions/{edition_id}/durchens <- <id>.durchens.json   one request per note,
-                                                                       each returns its own id
+    4. POST /v2/editions/{edition_id}/durchens <- <id>.durchens.json   a list, atomic, in batches
+                                                                       of 500; one id per note
     5. POST /v2/editions/{edition_id}/yigchungs <- <id>.yigchungs.json only when the file exists
 
 After each successful step the id is written into the source frontmatter
@@ -66,6 +66,7 @@ SOURCES = lint.SOURCES
 PARSE_OUT = lint.PARSE_OUT
 LEDGER = lint.UPLOAD_STATUS
 STEPS = ("text", "edition", "toc", "durchens", "yigchungs")
+DURCHEN_BATCH = 500  # notes per POST; the endpoint is atomic per request
 
 
 def _load_env():
@@ -349,7 +350,7 @@ def check(tid, paths, entry, live):
 
 # ---------------------------------------------------------------- upload
 
-def upload_one(tid, payloads, paths, entry, ledger, workers):
+def upload_one(tid, payloads, paths, entry, ledger):
     src = SOURCES / f"{tid}.md"
 
     def save():
@@ -393,25 +394,17 @@ def upload_one(tid, payloads, paths, entry, ledger, workers):
             if len(live) != posted:
                 raise RuntimeError(f"resume: live edition has {len(live)} durchens, ledger records {posted} — "
                                    f"check before posting more (a response may have been lost)")
+        # the endpoint takes a list and is atomic: each batch is created whole or not at all,
+        # and returns one id per note, in order
         todo = [i for i, x in enumerate(ids) if not x]
-
-        def post(i):
-            return i, call("POST", f"/v2/editions/{eid}/durchens", notes[i])["id"]
-
-        err = None
-        with ThreadPoolExecutor(max_workers=workers) as pool:
-            futures = [pool.submit(post, i) for i in todo]
-            for k, fut in enumerate(futures, start=1):
-                try:
-                    i, did = fut.result()
-                    ids[i] = did
-                except ApiError as exc:
-                    err = err or exc
-                if k % 50 == 0:
-                    save()
-        save()
-        if err:
-            raise err
+        for start in range(0, len(todo), DURCHEN_BATCH):
+            batch = todo[start:start + DURCHEN_BATCH]
+            res = call("POST", f"/v2/editions/{eid}/durchens", [notes[i] for i in batch])
+            if len(res) != len(batch):
+                raise RuntimeError(f"durchens: sent {len(batch)}, got {len(res)} ids back")
+            for i, r in zip(batch, res):
+                ids[i] = r["id"]
+            save()
         done("durchens", "durchen_count", len(notes))
 
     marks = (payloads.get("yigchungs") or {}).get("yigchungs", [])
@@ -437,7 +430,7 @@ def main():
     ap.add_argument("--sizes", default="small,medium,large", help="size classes to include")
     ap.add_argument("--execute", action="store_true", help="send the requests (default: dry run)")
     ap.add_argument("--no-live", action="store_true", help="skip the read-only checks against the live API")
-    ap.add_argument("--workers", type=int, default=4, help="parallel durchen POSTs per text (default 4)")
+    ap.add_argument("--workers", type=int, default=4, help="parallel durchen DELETEs per text with --delete (default 4)")
     ap.add_argument("--keep-going", action="store_true", help="do not stop at the first failed text")
     ap.add_argument("--report-only", action="store_true", help="just rebuild API-LINT-BATCH.md")
     ap.add_argument("--delete", action="store_true",
@@ -532,7 +525,7 @@ def main():
                 del ledger[tid]
             continue
         try:
-            upload_one(tid, payloads, paths, entry, ledger, args.workers)
+            upload_one(tid, payloads, paths, entry, ledger)
             print(f"      uploaded  text {entry['text_id']} · edition {entry['edition_id']} · toc {entry['toc_id']}")
         except (ApiError, RuntimeError) as exc:
             entry["status"] = "failed" if not entry.get("text_id") else "partial"

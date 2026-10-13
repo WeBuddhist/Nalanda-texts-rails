@@ -2224,49 +2224,74 @@
     "text_id": "qk1hz5QJOV4sWNOXSsGmW",
     "toc_id": "7oTrnnsa42S0YVE7fU0wr",
     "updated": "2026-10-13T16:32:42"
+   },
+   {
+    "date": "2026-10-13",
+    "deleted_at": "2026-10-13T19:33:18",
+    "durchen_count": 12,
+    "durchen_ids": [
+     "ntI96XmG1Jz6FqMy2uTg4",
+     "PRrNyZw2vKQCpfVZKQCiw",
+     "HyRja6DoJEv42Yx6bWUte",
+     "ILWeI0OkjojaZ2hILiYqy",
+     "56MoHeTKqpGMWSy731583",
+     "e8n35FOvvijNrGcZVEyZV",
+     "s2TSXJ3soGklIThkXFXVh",
+     "116pWTJrnmdCOk83w8kdn",
+     "o2ZNi1MKqNfCmvAF2iqH1",
+     "Dtnr8qrZSBaXPkGBG8RpV",
+     "5DpAiqNoLduNUBil7zi4e",
+     "SYBmDQnZKEdcvI0hnzYqi"
+    ],
+    "edition_id": "a0SCCEb2CYsloEQUle3qu",
+    "payload_hash": "8712c7d273820b5909c5522f773c9ccdca5c868348bb724695a4b6cdead4ddf4",
+    "status": "uploaded",
+    "text_id": "82J4tqbVafJjZ45jXoTgq",
+    "toc_id": "QG9cZBgcXrcOe5oJR8Pvj",
+    "updated": "2026-10-13T16:46:07"
    }
   ],
   "durchen_count": 12,
   "durchen_ids": [
-   "ntI96XmG1Jz6FqMy2uTg4",
-   "PRrNyZw2vKQCpfVZKQCiw",
-   "HyRja6DoJEv42Yx6bWUte",
-   "ILWeI0OkjojaZ2hILiYqy",
-   "56MoHeTKqpGMWSy731583",
-   "e8n35FOvvijNrGcZVEyZV",
-   "s2TSXJ3soGklIThkXFXVh",
-   "116pWTJrnmdCOk83w8kdn",
-   "o2ZNi1MKqNfCmvAF2iqH1",
-   "Dtnr8qrZSBaXPkGBG8RpV",
-   "5DpAiqNoLduNUBil7zi4e",
-   "SYBmDQnZKEdcvI0hnzYqi"
+   "DGdjDby4XFcebe79DPG0h",
+   "vmR9O9WQt0jQCKwxPWUoC",
+   "FvVgDBXONbb9liSa2xF3G",
+   "JAg8zKc5efpNf6ywXsCPM",
+   "3YBmfzpgWE5U4ggYXEWnU",
+   "7f1tusLZX76ozvB0f8UZs",
+   "AJfUumdu2jfY3ACKokKzY",
+   "yODDXaNnZvmDMxAUHvKe8",
+   "WkVcJxnRxBJDpSYRNuC4G",
+   "rA95abnZ60oZ00GALK494",
+   "AwuFdGfptKI4tDVK8wIBa",
+   "eGXFrpwC04X0N3JRpQ6iB"
   ],
-  "edition_id": "a0SCCEb2CYsloEQUle3qu",
+  "edition_id": "V74yHvxecZMKBGx0bkKOw",
   "log": [
    {
     "step": "text",
-    "ts": "2026-10-13T16:46:06"
+    "ts": "2026-10-13T19:33:19"
    },
    {
     "chars": 1703,
     "segments": 17,
     "step": "edition",
-    "ts": "2026-10-13T16:46:06"
+    "ts": "2026-10-13T19:33:20"
    },
    {
     "step": "toc",
-    "ts": "2026-10-13T16:46:06"
+    "ts": "2026-10-13T19:33:20"
    },
    {
     "step": "durchens",
-    "ts": "2026-10-13T16:46:07"
+    "ts": "2026-10-13T19:33:21"
    }
   ],
   "payload_hash": "8712c7d273820b5909c5522f773c9ccdca5c868348bb724695a4b6cdead4ddf4",
   "status": "uploaded",
-  "text_id": "82J4tqbVafJjZ45jXoTgq",
-  "toc_id": "QG9cZBgcXrcOe5oJR8Pvj",
-  "updated": "2026-10-13T16:46:07"
+  "text_id": "ZDwz6Ib9GFU6HU5WlSvZr",
+  "toc_id": "zGPtSDDMTy6vktJ06Fh2E",
+  "updated": "2026-10-13T19:33:21"
  },
  "Ar_3CBg_": {
   "date": "2026-10-13",
