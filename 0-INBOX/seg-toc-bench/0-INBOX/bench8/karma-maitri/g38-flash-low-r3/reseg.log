@@ -1,0 +1,23 @@
+Input:      D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\karma-maitri\g38-flash-low-r3\2-after-ingest.md
+ID:         karma-maitri-g38-flash-low-r3
+Vault root: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench
+Staging:    D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\temp\RESEG-karma-maitri-g38-flash-low-r3\windows
+Output:     D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\karma-maitri-g38-flash-low-r3.reseg.md
+
+Blocks: 60  (headings: 26, content: 34)
+Windows: 2  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 5
+  SPLIT block 7 after: 'དང་པོ་ལ་ཉེར་གཅིག་ཡོད་པ་ལས། དང་པོ་ནི།'
+  MERGE [30, 31, 32]
+  MERGE [40, 41]
+  MERGE [51, 52]
+  MERGE [54, 55, 56, 57]
+
+Blocks: 60 → 54
+✓ Integrity check passed
+
+Output:  D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\karma-maitri-g38-flash-low-r3.reseg.md
+Ops log: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\karma-maitri-g38-flash-low-r3.ops.md

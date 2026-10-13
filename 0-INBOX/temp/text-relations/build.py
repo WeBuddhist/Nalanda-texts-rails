@@ -4,7 +4,7 @@ metadata of the OpenPecha record it matches, how well the two texts match, and d
 it in our corpus.
 
 Data only — no interpretation of the texts:
-  - our files:  1-SOURCES/Text/text_catalog.json (title, pandita, wb.pub URL, docx per file)
+  - our files:  1-SOURCES/text_catalog.json (title, pandita, wb.pub URL, docx per file)
   - relations:  the OpenPecha API dump, deleted from the vault; read from git:
                 texts.json as it was before 9de3d6d4 (1,071 records: type, target, authors)
                 and the instance incipit titles as they were before ee311fd8
@@ -218,7 +218,7 @@ def op_meta(i):
 
 
 # ── our files ────────────────────────────────────────────────────────────────
-cat = json.loads((VAULT / "1-SOURCES/Text/text_catalog.json").read_text(encoding="utf-8"))
+cat = json.loads((VAULT / "1-SOURCES/text_catalog.json").read_text(encoding="utf-8"))
 works = sorted((w for p in cat["panditas"] for w in p["works"]), key=lambda w: w["filename"])
 folder = {}
 for sub in ("root", "commentary", "translation"):
@@ -378,7 +378,7 @@ about = {
             "file's own source, the metadata of the OpenPecha record it matches, and the text check "
             "of that match.",
     "built_by": "0-INBOX/temp/text-relations/build.py (re-run to rebuild; edits by hand are lost)",
-    "data": f"titles and panditas: 1-SOURCES/Text/text_catalog.json; relations: OpenPecha API dump "
+    "data": f"titles and panditas: 1-SOURCES/text_catalog.json; relations: OpenPecha API dump "
             f"(texts.json at {TEXTS_COMMIT}, instance incipit titles at {INSTANCES_COMMIT}); "
             "metadata and texts: 1-SOURCES/openpecha-v2-catalog.json and the OpenPecha conversions "
             "removed in 124597e4 / 9de3d6d4",

@@ -9,7 +9,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text: "1-SOURCES/Text/Sh_3CDE.md"
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 51) ཀ་མ་ལ་ཤཱི་ལའི་གསུང་འབུམ། ཆ༽ .docx (08-Kamalashila); https://wb.pub/3CDb"
 bdrc_work_id:

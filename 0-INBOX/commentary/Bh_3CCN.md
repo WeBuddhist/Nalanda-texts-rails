@@ -10,7 +10,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text: "1-SOURCES/Text/Bh_3CCI.md"
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 34) ལེགས་ལྡན་འབྱེད་ཀྱི་གསུང་འབུམ། ཆ .docx (04-Bhavaviveka); https://wb.pub/3CCN"
 bdrc_work_id: "WA0RT3201"

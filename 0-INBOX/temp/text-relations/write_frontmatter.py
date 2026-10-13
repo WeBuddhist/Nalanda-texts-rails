@@ -6,7 +6,8 @@
   record's titles in other languages
 - file_type: the reading in text-relations.json; where it is undecided, the folder
   (0-INBOX/root -> root-text, 0-INBOX/commentary -> commentary)
-- root_text: the file a commentary comments on (commentary_of), as 1-SOURCES/Text/<file>
+- no root_text: the commentary relationship is not written into the texts (decided 2026-10-13);
+  it stays in text-relations.json (commentary_of / commented_by)
 - author, bdrc_work_id, license, category: from the matched OpenPecha record (362 files);
   otherwise the key is kept with an empty value
 - source / source_description: our file's own (the Nalanda printed edition); the OpenPecha
@@ -33,7 +34,7 @@ REPORT = VAULT / "0-INBOX/TEXT-METADATA-BATCH.md"
 FOLDERS = {"0-INBOX/root": "root-text", "0-INBOX/commentary": "commentary"}
 rel = json.loads((VAULT / "0-INBOX/text-relations.json").read_text(encoding="utf-8"))["texts"]
 # the pandita (collected-works volume group) of each file, as text_catalog.json writes it
-_cat = json.loads((VAULT / "1-SOURCES/Text/text_catalog.json").read_text(encoding="utf-8"))
+_cat = json.loads((VAULT / "1-SOURCES/text_catalog.json").read_text(encoding="utf-8"))
 PANDITA = {w["filename"]: w["pandita"] for p in _cat["panditas"] for w in p["works"]}
 
 
@@ -141,7 +142,9 @@ def frontmatter(fn, e, body, folder):
     authors = op.get("author") or []
     a_bo = [person(p, "bo") for p in authors if person(p, "bo")]
     a_en = [person(p, "en") for p in authors if person(p, "en")]
-    ftype = e["file_type"] or FOLDERS[folder]
+    # a text in 0-INBOX/root is a root-text, even where the reading says commentary
+    # (decided 2026-10-13); otherwise the reading, and where undecided the folder
+    ftype = "root-text" if folder == "0-INBOX/root" else (e["file_type"] or FOLDERS[folder])
     root = (e.get("commentary_of") or {}).get("file") if ftype == "commentary" else None
     fields = [
         ("title", title),
@@ -154,7 +157,6 @@ def frontmatter(fn, e, body, folder):
         ("lang_tag", e.get("lang_tag")),
         ("verse_id_format", None),
         ("registered_id", None),
-        ("root_text", f"1-SOURCES/Text/{root}" if isinstance(root, str) else None),
         ("covers_verses", None),
         ("source_description", f"{e.get('source_description')}; {e.get('source')}"),
         ("bdrc_work_id", op.get("bdrc_work_id")),
@@ -209,10 +211,8 @@ for folder in FOLDERS:
         note = []
         if e["file_type"] is None:
             note.append("reading undecided — file_type from the folder")
-        elif ftype != default:
-            note.append(f"reading says {ftype}, folder says {default}")
-        if ftype == "commentary" and not (e.get("commentary_of") or {}).get("file"):
-            note.append("root not in our corpus")
+        elif e["file_type"] != ftype:
+            note.append(f"reading says {e['file_type']}; set to {ftype} (texts in 0-INBOX/root are root-texts)")
         if e.get("duplicate_of"):
             note.append("same text as " + ", ".join(x[:-3] for x in e["duplicate_of"]))
         why = ("" if has_op else
@@ -246,7 +246,7 @@ lack = [r for r in rows if r[4] == "no"]
 match = collections.Counter(r[5] for r in have)
 why_not = collections.Counter(r[5] for r in lack)
 comm = [r for r in rows if r[2] == "commentary"]
-differ = [r for r in rows if "folder says" in r[10]]
+differ = [r for r in rows if "; set to" in r[10]]
 undecided = [r for r in rows if "undecided" in r[10]]
 dups = sorted({tuple(sorted([r[0][:-3]] + re.search(r"same text as ([^;]+)", r[10]).group(1).split(", ")))
                for r in rows if "same text as" in r[10]})
@@ -260,11 +260,11 @@ summary += [
     f"**No OpenPecha metadata — {len(lack)} texts:** "
     + "; ".join(f"{k} ({v})" for k, v in why_not.most_common()) + ".",
     "",
-    f"**Commentaries — {len(comm)}:** `root_text` filled for {sum(bool(r[9]) for r in comm)} "
-    f"(the root is one of our files); for {sum(not r[9] for r in comm)} the root is not in our corpus.",
+    f"**Commentaries — {len(comm)}.** The commentary relationship is not written into the texts "
+    "(no `root_text`); it is kept in `text-relations.json` (`commentary_of`).",
     "",
-    f"**`file_type` differs from the folder — {len(differ)}:** "
-    + (", ".join(f"{r[0][:-3]} ({r[2]} in `{r[1]}`)" for r in differ) or "none") + ".",
+    f"**Reading says commentary, set to root-text because the text is in `0-INBOX/root` — {len(differ)}:** "
+    + (", ".join(r[0][:-3] for r in differ) or "none") + ".",
     "",
     f"**Reading undecided, `file_type` from the folder — {len(undecided)}:** "
     + (", ".join(f"{r[0][:-3]} ({r[2]})" for r in undecided) or "none") + ".",
@@ -314,24 +314,24 @@ lines = [
     "| Field | From |", "|---|---|",
     "| `title` | the file's own heading line, without `༄༅། །` and `བཞུགས་སོ` |",
     "| `alt_titles` | the heading as written (bo) + the OpenPecha record's titles in other languages the backend knows (cmg titles are kept only in `text-relations.json`); `sa` titles transliterated from IAST to Devanagari |",
-    "| `file_type` | the reading (`text-relations.json`); where undecided, the folder |",
-    "| `root_text` | for a commentary: the file it comments on (`commentary_of`), when it is in our corpus |",
+    "| `file_type` | `root-text` for every text in `0-INBOX/root`; for `0-INBOX/commentary` the reading (`text-relations.json`), and where undecided the folder |",
     "| `author`, `author_in_english`, `bdrc_work_id`, `openpecha_text_id` | the matched OpenPecha record (`OpenPecha` = yes); empty otherwise |",
     "| `license` | `public` (OpenPecha's `Public Domain Mark`, and every text without an OpenPecha license) |",
     "| `source` | `https://webuddhist.com/` |",
     "| `source_description` | our file (the Nalanda printed edition: corpus, docx, pandita), then its wb.pub link |",
     "| `category_id`, `category_name` | our backend category, mapped from the matched record's OpenPecha category; empty otherwise |",
-    "| `pandita` | `1-SOURCES/Text/text_catalog.json`, as written there (e.g. `01-Nagarjuna`) |",
+    "| `pandita` | `1-SOURCES/text_catalog.json`, as written there (e.g. `01-Nagarjuna`) |",
     "| `language`, `lang_tag` | our file (the Nalanda printed edition) |",
     "| `date`, `verse_id_format`, `registered_id`, `covers_verses` | not in the data: left empty |", "",
     "`OpenPecha` yes = the file's text was matched to an OpenPecha record (same title, text "
     "checked). `match` = the text check (`same-text`, `part`, `title-only`) or why there is no "
     "metadata.", "",
     *summary,
-    "| # | id | folder | file_type | type from | OpenPecha | match | OpenPecha id | BDRC work | author (OpenPecha) | root_text | note | OpenPecha category | → our category | genre (title) |",
-    "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|",
+    "| # | id | folder | file_type | type from | OpenPecha | match | OpenPecha id | BDRC work | author (OpenPecha) | note | OpenPecha category | → our category | genre (title) |",
+    "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|",
 ]
-lines += [f"| {k} | {r[0][:-3]} | {' | '.join(str(x) for x in r[1:])} |" for k, r in enumerate(rows, 1)]
+lines += [f"| {k} | {r[0][:-3]} | {' | '.join(str(x) for j, x in enumerate(r) if j not in (0, 9))} |"
+          for k, r in enumerate(rows, 1)]
 if skipped:
     lines += ["", "## Not written", ""] + [f"- {fn}: {why}" for fn, why in skipped]
 REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")

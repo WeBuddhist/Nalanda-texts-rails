@@ -10,11 +10,10 @@ author: "སློབ་དཔོན་ཕྱོགས་གླང་།"
 author_in_english: "Dignāga"
 date:
 language: "Tibetan"
-file_type: "commentary"
+file_type: "root-text"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 75) ཕྱོགས་གླང་གི་གསུང་འབུམ། ཀ༽ .docx (11-Dignaga); https://wb.pub/3CEl"
 bdrc_work_id: "WA0RT3154"

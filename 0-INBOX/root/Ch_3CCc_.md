@@ -9,7 +9,6 @@ file_type: "root-text"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 38) དཔལ་ལྡན་ཟླ་བ་གྲགས་པའི་གསུང་འབུམ། ང .docx (05-Chandrakirti); https://wb.pub/3CCc"
 bdrc_work_id:

@@ -9,7 +9,6 @@ file_type: "root-text"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 100) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ག༽ .docx (17-Atisha); https://wb.pub/3CHK"
 bdrc_work_id: "WA0RT3302"

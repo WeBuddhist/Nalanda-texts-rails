@@ -9,7 +9,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text: "1-SOURCES/Text/Va_3CEY.md"
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 74) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ན༽ .docx (10-Vasubandhu); https://wb.pub/3CEZ"
 bdrc_work_id: "WA0RT3441"

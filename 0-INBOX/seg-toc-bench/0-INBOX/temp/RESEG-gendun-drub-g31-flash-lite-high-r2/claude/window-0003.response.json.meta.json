@@ -1,0 +1,12 @@
+{
+ "prompt": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\seg-toc-bench\\0-INBOX\\temp\\RESEG-gendun-drub-g31-flash-lite-high-r2\\claude\\window-0003.prompt.md",
+ "model": "gemini-3.1-flash-lite",
+ "thinking_level": "high",
+ "max_output_tokens": 32768,
+ "finish_reason": "FinishReason.STOP",
+ "seconds": 17.6,
+ "input_tokens": 4370,
+ "output_tokens": 86,
+ "thinking_tokens": 6124,
+ "attempt": 1
+}

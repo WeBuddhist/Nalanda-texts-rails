@@ -1,0 +1,12 @@
+{
+ "prompt": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\seg-toc-bench\\0-INBOX\\temp\\RESEG-sangye-nyenpa-g31-flash-lite-high-r1\\claude\\window-0003.prompt.md",
+ "model": "gemini-3.1-flash-lite",
+ "thinking_level": "high",
+ "max_output_tokens": 32768,
+ "finish_reason": "FinishReason.STOP",
+ "seconds": 12.9,
+ "input_tokens": 5789,
+ "output_tokens": 1,
+ "thinking_tokens": 4300,
+ "attempt": 1
+}

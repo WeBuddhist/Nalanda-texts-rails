@@ -1,0 +1,12 @@
+{
+ "prompt": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\seg-toc-bench\\0-INBOX\\bench8\\karma-maitri\\g31-flash-lite-high-r1\\tree.prompt.md",
+ "model": "gemini-3.1-flash-lite",
+ "thinking_level": "high",
+ "max_output_tokens": 65536,
+ "finish_reason": "FinishReason.STOP",
+ "seconds": 14.4,
+ "input_tokens": 12914,
+ "output_tokens": 1191,
+ "thinking_tokens": 4764,
+ "attempt": 1
+}

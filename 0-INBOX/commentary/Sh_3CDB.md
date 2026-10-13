@@ -10,7 +10,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text: "1-SOURCES/Text/Sh_3CDA.md"
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 44) ཞི་བ་འཚོའི་གསུང་འབུམ། ཁ༽ .docx (07-Shantarakshita); https://wb.pub/3CDB"
 bdrc_work_id: "WA0RT3230"

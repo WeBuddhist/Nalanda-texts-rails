@@ -9,7 +9,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 66) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ང༽ སྟོད་ཆ། .docx (10-Vasubandhu); https://wb.pub/3CEB"
 bdrc_work_id:

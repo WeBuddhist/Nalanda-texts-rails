@@ -10,7 +10,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text: "1-SOURCES/Text/Na_3CAk_.md"
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 37) དཔལ་ལྡན་ཟླ་བ་གྲགས་པའི་གསུང་འབུམ། ག .docx (05-Chandrakirti); https://wb.pub/3CCb"
 bdrc_work_id: "WA0RT3205"

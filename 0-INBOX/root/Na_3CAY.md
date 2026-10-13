@@ -5,11 +5,10 @@ author:
 author_in_english:
 date:
 language: "Tibetan"
-file_type: "commentary"
+file_type: "root-text"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 18) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ང༽ .docx (01-Nagarjuna); https://wb.pub/3CAY"
 bdrc_work_id:

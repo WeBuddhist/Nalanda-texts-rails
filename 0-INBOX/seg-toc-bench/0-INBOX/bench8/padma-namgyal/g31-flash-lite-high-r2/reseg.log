@@ -1,0 +1,23 @@
+Input:      D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\padma-namgyal\g31-flash-lite-high-r2\2-after-ingest.md
+ID:         padma-namgyal-g31-flash-lite-high-r2
+Vault root: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench
+Staging:    D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\temp\RESEG-padma-namgyal-g31-flash-lite-high-r2\windows
+Output:     D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\padma-namgyal-g31-flash-lite-high-r2.reseg.md
+
+Blocks: 69  (headings: 6, content: 63)
+Windows: 2  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 5
+  MERGE [22, 23]
+  SPLIT block 26 after: 'སྨོན་ལམ་ནི། | བདག་གྱུར་ཅིག །'
+  SPLIT block 33 after: 'འགྱུར་ཕྱག་ཡིན།'
+  SPLIT block 61 after: 'བཤད་པ་ཡིན་ལ། '
+  MERGE [62, 63]
+
+Blocks: 69 → 71
+✓ Integrity check passed
+
+Output:  D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\padma-namgyal-g31-flash-lite-high-r2.reseg.md
+Ops log: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\padma-namgyal-g31-flash-lite-high-r2.ops.md

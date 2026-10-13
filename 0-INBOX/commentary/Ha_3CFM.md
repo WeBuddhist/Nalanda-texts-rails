@@ -11,7 +11,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 89) སེངྒེ་བཟང་པོའི་གསུང་འབུམ། ཉ༽ .docx (14-Haribhadra); https://wb.pub/3CFM"
 bdrc_work_id: "WA0RT3137"

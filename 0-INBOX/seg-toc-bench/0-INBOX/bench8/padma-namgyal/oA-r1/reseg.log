@@ -1,0 +1,26 @@
+Input:      D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\padma-namgyal\oA-r1\2-after-ingest.md
+ID:         padma-namgyal-oA-r1
+Vault root: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench
+Staging:    D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\temp\RESEG-padma-namgyal-oA-r1\windows
+Output:     D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\padma-namgyal-oA-r1.reseg.md
+
+Blocks: 79  (headings: 16, content: 63)
+Windows: 3  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 8
+  MERGE [28, 29]
+  SPLIT block 34 after: 'གཞན་དོན་འགྲུབ་པའི་སྨོན་ལམ་ནི། | བདག་གྱུར་ཅིག །'
+  SPLIT block 41 after: 'ཞེས་ལོ་ཙཱ་བའི་འགྱུར་ཕྱག་ཡིན།'
+  SPLIT block 43 after: 'འོག་མ་རྣམས་ལའང་དེ་ལྟར་སྦྱར།'
+  MERGE [53, 54, 55]
+  MERGE [66, 67, 68]
+  SPLIT block 69 after: 'གོ་སླ་བར་བཤད་པ་ཡིན་ལ།'
+  MERGE [73, 74]
+
+Blocks: 79 → 78
+✓ Integrity check passed
+
+Output:  D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\padma-namgyal-oA-r1.reseg.md
+Ops log: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\padma-namgyal-oA-r1.ops.md

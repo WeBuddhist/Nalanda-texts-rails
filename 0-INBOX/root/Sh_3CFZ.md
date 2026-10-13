@@ -10,7 +10,6 @@ file_type: "root-text"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 97) ཤཱཀྱ་འོད་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (16-Shakyaprabha); https://wb.pub/3CFZ"
 bdrc_work_id: "WA0RT3462"

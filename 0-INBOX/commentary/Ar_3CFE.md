@@ -10,7 +10,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 81 འཕགས་པ་གྲོལ་སྡེའི་གསུང་འབུམ། ཀ .docx (13-Arya Vimuktisena); https://wb.pub/3CFE"
 bdrc_work_id:

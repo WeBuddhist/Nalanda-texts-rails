@@ -15,7 +15,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 VAULT = HERE.parents[2]
 rel = json.loads((VAULT / "0-INBOX/text-relations.json").read_text(encoding="utf-8"))["texts"]
-cat = json.loads((VAULT / "1-SOURCES/Text/text_catalog.json").read_text(encoding="utf-8"))
+cat = json.loads((VAULT / "1-SOURCES/text_catalog.json").read_text(encoding="utf-8"))
 pandita = {w["filename"]: w["pandita"] for p in cat["panditas"] for w in p["works"]}
 
 OURS = {  # backend categories (2026-10-13): name -> (id, bo)
