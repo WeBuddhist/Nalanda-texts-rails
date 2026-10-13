@@ -1,0 +1,24 @@
+Input:  0-INBOX\resegmented\At_3CGw_.reseg.md
+ID:     At_3CGw_
+
+Blocks: 32
+
+Step 1 — Deterministic checks...
+  1 flag(s) found.
+  Block 22 — OVER_LENGTH (261 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 1 correction(s):
+    SPLIT block 22 after: 'ལམ་ཆེ་བའི་ཡོན་ཏན་གྱིས་བགྲོད་པའི་མདོ་བསྟན།'
+  ✓ Integrity check passed. Blocks: 32 → 33
+
+Step 3 — Re-checking after repair...
+  0 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\At_3CGw_.reseg.md
+
+QC report: 0-INBOX\resegmented\At_3CGw_.qc.md
+
+────────────────────────────────────────
+Flags before : 1
+Flags after  : 0
+Corrections  : 1

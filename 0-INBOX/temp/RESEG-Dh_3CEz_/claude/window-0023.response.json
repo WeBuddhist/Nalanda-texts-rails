@@ -1,7 +1,8 @@
 [
-  {"op": "merge", "blocks": [809, 810, 811]},
-  {"op": "merge", "blocks": [815, 816, 817, 818, 819, 820, 821, 822, 823]},
-  {"op": "merge", "blocks": [824, 825, 826, 827, 828, 829]},
-  {"op": "merge", "blocks": [835, 836]},
-  {"op": "merge", "blocks": [843, 844, 845]}
+  {"op": "merge", "blocks": [806, 807]},
+  {"op": "merge", "blocks": [809, 810]},
+  {"op": "merge", "blocks": [813, 814]},
+  {"op": "merge", "blocks": [822, 823]},
+  {"op": "merge", "blocks": [833, 834]},
+  {"op": "split", "block": 836, "after": "ལ་དེས་ན་ལུས་དག་པར་བསྟན་ཏོ། །"}
 ]

@@ -1,0 +1,18 @@
+Input:  0-INBOX\resegmented\At_3CFk_.reseg.md
+ID:     At_3CFk_
+
+Blocks: 55
+
+Step 1 — Deterministic checks...
+  3 flag(s) found.
+  Block 14 — CONNECTOR_ENDING
+  Block 26 — CONNECTOR_ENDING
+  Block 28 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: 0-INBOX\resegmented\At_3CFk_.qc.md
+
+────────────────────────────────────────
+Flags before : 3

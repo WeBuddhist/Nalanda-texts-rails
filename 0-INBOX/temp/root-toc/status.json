@@ -15,10 +15,15 @@
  },
  "Ar_3CBe_": {
   "source_lines": 48,
-  "status": "earlier-run",
-  "note": "tree, not anchored (earlier run)",
+  "status": "done",
+  "note": "earlier run: tree was already anchored (saved as toc-tree-Ar_3CBe_.md); copied to toc-tree-anchored-, pass 6 clean; preamble II. རྡོ་རྗེ་དྲིལ་བུ་བྱིན་གྱིས་བརླབ།",
   "chars": 5391,
-  "size": "small"
+  "size": "small",
+  "form": "verse",
+  "parts": "2",
+  "nodes": "11",
+  "qc6": "0 issues",
+  "run": "Claude agents (earlier run)"
  },
  "Ar_3CBf_": {
   "source_lines": 16,
@@ -50,10 +55,17 @@
  },
  "Ar_3CBj_": {
   "source_lines": 44,
-  "status": "earlier-run",
-  "note": "tree, not anchored (earlier run)",
+  "status": "no-parts",
+  "note": "finished with Claude: one implicit candidate (ཤིན་ཏུ་རྙེད་དཀའི་རིམ་དབྱེ་), no enumerations — empty tree",
   "chars": 8792,
-  "size": "small"
+  "size": "small",
+  "form": "verse",
+  "units": "241",
+  "chunks": "1",
+  "parts": "0",
+  "nodes": "0",
+  "qc4": "",
+  "qc6": ""
  },
  "Ar_3CBk_": {
   "source_lines": 65,
@@ -686,18 +698,18 @@
  },
  "At_3CFh_": {
   "source_lines": 25,
-  "status": "done",
+  "status": "no-parts",
   "chars": 5101,
   "size": "small",
-  "run": "3.8-flash low · $0.03 · 0.4 min",
+  "run": "Claude agents (redo)",
   "form": "verse",
-  "units": 241,
-  "chunks": 2,
-  "parts": 1,
-  "nodes": 5,
-  "qc4": "0",
-  "qc6": "4 flags",
-  "note": "Gemini run — review the top-level parts"
+  "units": "105",
+  "chunks": "2",
+  "parts": "0",
+  "nodes": "0",
+  "qc4": "",
+  "qc6": "",
+  "note": "Claude redo: no parts announced (the Gemini tree had made 4 sub-parts from the letters ཤྲཱི ཧེ རུ ཀ; kept as TOC-At_3CFh_.gemini)"
  },
  "At_3CFj_": {
   "source_lines": 11,
@@ -731,18 +743,18 @@
  },
  "At_3CFm_": {
   "source_lines": 48,
-  "status": "done",
+  "status": "no-parts",
   "chars": 6017,
   "size": "small",
-  "run": "3.8-flash low · $0.02 · 0.2 min",
+  "run": "Claude agents (redo)",
   "form": "prose",
-  "units": 150,
-  "chunks": 1,
-  "parts": 2,
-  "nodes": 2,
-  "qc4": "0",
-  "qc6": "1 flags",
-  "note": "Gemini run — review the top-level parts"
+  "units": "37",
+  "chunks": "1",
+  "parts": "0",
+  "nodes": "0",
+  "qc4": "",
+  "qc6": "",
+  "note": "Claude redo: no parts announced (Gemini tree kept as TOC-At_3CFm_.gemini)"
  },
  "At_3CFn_": {
   "source_lines": 22,
@@ -1034,15 +1046,15 @@
   "status": "done",
   "chars": 5381,
   "size": "small",
-  "run": "3.8-flash low · $0.03 · 0.2 min",
+  "run": "Claude agents (redo)",
   "form": "verse",
-  "units": 315,
-  "chunks": 3,
-  "parts": 1,
-  "nodes": 7,
-  "qc4": "0",
-  "qc6": "4 flags",
-  "note": "Gemini run — review the top-level parts"
+  "units": "124",
+  "chunks": "3",
+  "parts": "2",
+  "nodes": "3",
+  "qc4": "0→0",
+  "qc6": "0 issues",
+  "note": "Claude redo: 2 parts (topic headers), preamble II. དམ་ཚིག་ལྷ་བསྐྱེད་པ།; anchors keep the footnote markers (Gemini tree kept as TOC-At_3CG6.gemini)"
  },
  "At_3CG7": {
   "source_lines": 8,
@@ -1330,18 +1342,18 @@
  },
  "At_3CGi_": {
   "source_lines": 15,
-  "status": "done",
+  "status": "no-parts",
   "chars": 3122,
   "size": "small",
-  "run": "3.8-flash low · $0.02 · 0.3 min",
+  "run": "Claude agents (redo)",
   "form": "prose",
-  "units": 45,
-  "chunks": 1,
-  "parts": 13,
-  "nodes": 13,
-  "qc4": "0",
-  "qc6": "13 flags",
-  "note": "Gemini run — review the top-level parts; 14 node(s) without an anchor ([[?]])"
+  "units": "14",
+  "chunks": "1",
+  "parts": "0",
+  "nodes": "0",
+  "qc4": "",
+  "qc6": "",
+  "note": "Claude redo: no parts announced (the Gemini tree had listed the 13 rites of the series; kept as TOC-At_3CGi_.gemini)"
  },
  "At_3CGJ": {
   "source_lines": 25,
@@ -1390,18 +1402,18 @@
  },
  "At_3CGk_": {
   "source_lines": 9,
-  "status": "done",
+  "status": "no-parts",
   "chars": 3469,
   "size": "small",
-  "run": "3.8-flash low · $0.01 · 0.2 min",
+  "run": "Claude agents (redo)",
   "form": "prose",
-  "units": 89,
-  "chunks": 1,
-  "parts": 1,
-  "nodes": 6,
-  "qc4": "0",
-  "qc6": "4 flags",
-  "note": "Gemini run — review the top-level parts; 1 node(s) without an anchor ([[?]])"
+  "units": "8",
+  "chunks": "1",
+  "parts": "0",
+  "nodes": "0",
+  "qc4": "",
+  "qc6": "",
+  "note": "Claude redo: no parts — the list of signs (ཕྱི་/ནང་/མི་འགྲུབ་/ལྡོག་) is content, not parts (Gemini tree kept as TOC-At_3CGk_.gemini)"
  },
  "At_3CGL": {
   "source_lines": 16,
@@ -1573,15 +1585,15 @@
   "status": "done",
   "chars": 39250,
   "size": "medium",
-  "run": "3.8-flash low · $0.18 · 0.9 min",
+  "run": "Claude agents (redo)",
   "form": "verse",
-  "units": 2271,
-  "chunks": 18,
-  "parts": 2,
-  "nodes": 53,
-  "qc4": "0",
-  "qc6": "14 flags",
-  "note": "Gemini run — review the top-level parts"
+  "units": "995",
+  "chunks": "18",
+  "parts": "2",
+  "nodes": "64",
+  "qc4": "1→0",
+  "qc6": "14 accepted title-not-near flags",
+  "note": "Claude redo: 2 parts + II. preamble; repair dropped unattested 2.5.1 (Gemini tree kept as TOC-At_3CGq_.gemini)"
  },
  "At_3CGR": {
   "source_lines": 18,
@@ -1708,15 +1720,15 @@
   "status": "done",
   "chars": 75339,
   "size": "medium",
-  "run": "3.8-flash low · $0.23 · 1.0 min",
+  "run": "Claude agents (redo)",
   "form": "prose",
-  "units": 1634,
-  "chunks": 13,
-  "parts": 14,
-  "nodes": 52,
-  "qc4": "0",
-  "qc6": "31 flags",
-  "note": "Gemini run — review the top-level parts; 15 node(s) without an anchor ([[?]])"
+  "units": "348",
+  "chunks": "13",
+  "parts": "1",
+  "nodes": "37",
+  "qc4": "0→0",
+  "qc6": "1 accepted (1.6.5 title from the enumeration)",
+  "note": "Claude redo: 1 part (14 children) + II. preamble; repair dropped 7 listed-but-not-taken-up nodes (Gemini tree kept as TOC-At_3CGv_.gemini)"
  },
  "At_3CGW": {
   "source_lines": 30,
@@ -2365,11 +2377,18 @@
  },
  "At_3CHn_": {
   "source_lines": 150,
-  "status": "failed",
+  "status": "done",
   "chars": 20461,
   "size": "small",
-  "run": "gemini-3.8-flash low",
-  "note": "segment step wrote no prepared.md — see the log"
+  "run": "3.8-flash low · $0.07 · 0.4 min",
+  "note": "Gemini run — review the top-level parts",
+  "form": "verse",
+  "units": 736,
+  "chunks": 6,
+  "parts": 11,
+  "nodes": 11,
+  "qc4": "0",
+  "qc6": "9 flags"
  },
  "At_3CHO": {
   "source_lines": 31,
@@ -3070,7 +3089,7 @@
  },
  "Ch_3CCZ": {
   "source_lines": 41,
-  "status": "done",
+  "status": "no-parts",
   "chars": 9207,
   "size": "small",
   "run": "3.8-flash low · $0.04 · 0.5 min",
@@ -3081,7 +3100,7 @@
   "nodes": 0,
   "qc4": "0",
   "qc6": "0 flags",
-  "note": "Gemini run — review the top-level parts"
+  "note": "pass 1 found candidates, pass 3 kept none as a part (tree empty)"
  },
  "Dh_3CEy_": {
   "source_lines": 12,
@@ -3133,30 +3152,30 @@
   "status": "done",
   "chars": 80633,
   "size": "medium",
-  "run": "3.8-flash low · $0.23 · 0.8 min",
+  "run": "Claude agents (redo)",
   "form": "prose",
-  "units": 2263,
-  "chunks": 18,
-  "parts": 11,
-  "nodes": 20,
-  "qc4": "0",
-  "qc6": "4 flags",
-  "note": "Gemini run — review the top-level parts"
+  "units": "394",
+  "chunks": "18",
+  "parts": "13",
+  "nodes": "13",
+  "qc4": "0→0",
+  "qc6": "3 accepted closing-line titles",
+  "note": "Claude redo: flat tree, 13 rite sections + II. preamble (Gemini tree kept as TOC-Dh_3CF2.gemini)"
  },
  "Dh_3CF3": {
   "source_lines": 57,
-  "status": "done",
+  "status": "no-parts",
   "chars": 8492,
   "size": "small",
-  "run": "3.8-flash low · $0.03 · 0.3 min",
+  "run": "Claude agents (redo)",
   "form": "prose",
-  "units": 170,
-  "chunks": 2,
-  "parts": 2,
-  "nodes": 4,
-  "qc4": "0",
-  "qc6": "2 flags",
-  "note": "Gemini run — review the top-level parts"
+  "units": "56",
+  "chunks": "2",
+  "parts": "0",
+  "nodes": "0",
+  "qc4": "",
+  "qc6": "",
+  "note": "Claude redo: one untitled candidate dropped as content in pass 3 (Gemini tree kept as TOC-Dh_3CF3.gemini)"
  },
  "Dh_3CF5": {
   "source_lines": 1216,
@@ -3572,7 +3591,7 @@
  },
  "Ka_3CDL": {
   "source_lines": 433,
-  "status": "done",
+  "status": "no-parts",
   "chars": 103971,
   "size": "medium",
   "run": "3.8-flash low · $0.35 · 1.4 min",
@@ -3583,7 +3602,7 @@
   "nodes": 0,
   "qc4": "0",
   "qc6": "0 flags",
-  "note": "Gemini run — review the top-level parts"
+  "note": "pass 1 found candidates, pass 3 kept none as a part (tree empty)"
  },
  "Ka_3CDM": {
   "source_lines": 238,
@@ -3954,10 +3973,17 @@
  },
  "Na_3C9e_": {
   "source_lines": 70,
-  "status": "earlier-run",
-  "note": "tree, not anchored (earlier run)",
+  "status": "no-parts",
+  "note": "finished with Claude: pass 3 kept neither implicit candidate (བྱང་ཆུབ་སེམས་ཀྱི་བསྒོམ་པ་, རྣམ་ཤེས་རང་བཞིན་) — empty tree",
   "chars": 16220,
-  "size": "small"
+  "size": "small",
+  "form": "verse",
+  "units": "452",
+  "chunks": "2",
+  "parts": "0",
+  "nodes": "0",
+  "qc4": "",
+  "qc6": ""
  },
  "Na_3C9F": {
   "source_lines": 10,
@@ -4159,15 +4185,15 @@
   "status": "done",
   "chars": 3394,
   "size": "small",
-  "run": "3.8-flash low · $0.02 · 0.3 min",
+  "run": "Claude agents (redo)",
   "form": "verse",
-  "units": 207,
-  "chunks": 2,
-  "parts": 6,
-  "nodes": 6,
-  "qc4": "0",
-  "qc6": "1 flags",
-  "note": "Gemini run — review the top-level parts"
+  "units": "73",
+  "chunks": "2",
+  "parts": "4",
+  "nodes": "7",
+  "qc4": "0→0",
+  "qc6": "0 issues",
+  "note": "Claude redo: 4 topic-header parts; nodes 1 and 2 share the anchor text (lines 9 and 103) — check node 2 lands on the second (Gemini tree kept as TOC-Na_3C9O.gemini)"
  },
  "Na_3C9o_": {
   "source_lines": 42,
@@ -5141,15 +5167,15 @@
   "status": "done",
   "chars": 124020,
   "size": "medium",
-  "run": "3.8-flash low · $0.43 · 1.5 min",
+  "run": "Claude agents (redo)",
   "form": "prose",
-  "units": 5075,
-  "chunks": 41,
-  "parts": 1,
-  "nodes": 35,
-  "qc4": "0",
-  "qc6": "21 flags",
-  "note": "Gemini run — review the top-level parts"
+  "units": "2237",
+  "chunks": "41",
+  "parts": "27",
+  "nodes": "31",
+  "qc4": "0→0",
+  "qc6": "20 accepted title-not-near flags",
+  "note": "Claude redo: 27 topic-header parts + II. homage preamble; only node 1 has children (Gemini tree kept as TOC-Na_3CAV.gemini)"
  },
  "Na_3CAv_": {
   "source_lines": 5,
@@ -5408,7 +5434,7 @@
  },
  "Na_3CBE": {
   "source_lines": 41,
-  "status": "done",
+  "status": "no-parts",
   "chars": 5816,
   "size": "small",
   "run": "3.8-flash low · $0.02 · 0.2 min",
@@ -5419,7 +5445,7 @@
   "nodes": 0,
   "qc4": "0",
   "qc6": "0 flags",
-  "note": "Gemini run — review the top-level parts"
+  "note": "pass 1 found candidates, pass 3 kept none as a part (tree empty)"
  },
  "Na_3CBF": {
   "source_lines": 24,
@@ -5453,7 +5479,7 @@
  },
  "Na_3CBH": {
   "source_lines": 188,
-  "status": "done",
+  "status": "no-parts",
   "chars": 24344,
   "size": "small",
   "run": "3.8-flash low · $0.08 · 0.3 min",
@@ -5464,7 +5490,7 @@
   "nodes": 0,
   "qc4": "0",
   "qc6": "0 flags",
-  "note": "Gemini run — review the top-level parts"
+  "note": "pass 1 found candidates, pass 3 kept none as a part (tree empty)"
  },
  "Na_3CBI": {
   "source_lines": 311,
@@ -5972,15 +5998,15 @@
   "status": "done",
   "chars": 54599,
   "size": "medium",
-  "run": "3.8-flash low · $0.20 · 1.1 min",
+  "run": "Claude agents (redo)",
   "form": "prose",
-  "units": 1784,
-  "chunks": 15,
-  "parts": 35,
-  "nodes": 44,
-  "qc4": "0",
-  "qc6": "1 flags",
-  "note": "Gemini run — review the top-level parts; 1 node(s) without an anchor ([[?]])"
+  "units": "795",
+  "chunks": "15",
+  "parts": "30",
+  "nodes": "30",
+  "qc4": "0→0",
+  "qc6": "0 issues",
+  "note": "Claude redo: flat tree of 30 rite steps + II. preamble; nodes 2/3 and 5/6 are near-identical paired headers — check (Gemini tree kept as TOC-Sh_3CD2.gemini)"
  },
  "Sh_3CD3": {
   "source_lines": 435,

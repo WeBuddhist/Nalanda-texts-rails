@@ -1,0 +1,10 @@
+[
+  {"op": "merge", "blocks": [246, 247, 248, 249]},
+  {"op": "merge", "blocks": [250, 251, 252, 253]},
+  {"op": "merge", "blocks": [262, 263]},
+  {"op": "merge", "blocks": [268, 269]},
+  {"op": "merge", "blocks": [272, 273, 274, 275]},
+  {"op": "merge", "blocks": [277, 278]},
+  {"op": "split", "block": 280, "after": "མ་མྱོང་བའི་ཕྱིར་རོ། །"},
+  {"op": "merge", "blocks": [281, 282, 283, 284]}
+]

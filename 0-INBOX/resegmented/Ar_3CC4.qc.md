@@ -7,8 +7,8 @@ model: gemini-3.8-flash
 repaired: false
 flags_before: 0
 flags_after: 0
-blocks_before: 31
-blocks_after: 31
+blocks_before: 48
+blocks_after: 48
 ---
 
 # Block QC Report — Ar_3CC4

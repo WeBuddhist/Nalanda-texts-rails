@@ -1,0 +1,117 @@
+{
+  "source": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\temp\\root-final\\At_3CGE\\tree-top.md",
+  "total_nodes": 11,
+  "max_depth": 2,
+  "nodes": [
+    {
+      "decimal_id": "1",
+      "depth": 1,
+      "frame": false,
+      "label": "སྐུ་ལས་སྤྲུལ་པའི་ཁྲོ་བོ་བཅུ་པོ",
+      "block_id": "^1-0",
+      "context": "སྐུ་ལས་སྤྲུལ་པའི་ཁྲོ་བོ་བཅུ་པོ་ནི། །",
+      "context_anchor": "སྐུ་ལས་སྤྲུལ་པའི་ཁྲོ་བོ་བཅུ་པོ་ནི། །",
+      "doc_order": 0
+    },
+    {
+      "decimal_id": "1.1",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་ཤུགས་ཅན",
+      "block_id": "^1-1-0",
+      "context": "རྡོ་རྗེ་ཤུགས་ཅན་སྐུ་མདོག་མཐིང་ནག་སྟེ། །",
+      "context_anchor": "རྡོ་རྗེ་ཤུགས་ཅན་སྐུ་མདོག་མཐིང་ནག་སྟེ། །",
+      "doc_order": 1
+    },
+    {
+      "decimal_id": "1.2",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་ཆགས་ཆེན",
+      "block_id": "^1-2-0",
+      "context": "སྤྲུལ་པའི་ཁྲོ་རྒྱལ་རྡོ་རྗེ་ཆགས་ཆེན་ནི། །",
+      "context_anchor": "སྤྲུལ་པའི་ཁྲོ་རྒྱལ་རྡོ་རྗེ་ཆགས་ཆེན་ནི། །",
+      "doc_order": 2
+    },
+    {
+      "decimal_id": "1.3",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་རྣོན་པོ",
+      "block_id": "^1-3-0",
+      "context": "སྤྲུལ་པའི་ཁྲོ་བོ་རྡོ་རྗེ་རྣོན་པོ་ནི། །",
+      "context_anchor": "སྤྲུལ་པའི་ཁྲོ་བོ་རྡོ་རྗེ་རྣོན་པོ་ནི། །",
+      "doc_order": 3
+    },
+    {
+      "decimal_id": "1.4",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་འབར་བ",
+      "block_id": "^1-4-0",
+      "context": "སྤྲུལ་པའི་ཁྲོ་བོ་རྡོ་རྗེ་འབར་བ་ནི། །",
+      "context_anchor": "སྤྲུལ་པའི་ཁྲོ་བོ་རྡོ་རྗེ་འབར་བ་ནི། །",
+      "doc_order": 4
+    },
+    {
+      "decimal_id": "1.5",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་ཁྲོ་བོ",
+      "block_id": "^1-5-0",
+      "context": "རྡོ་རྗེ་ཁྲོ་བོ་སྐུ་མདོག་སེར་པོ་སྟེ། །",
+      "context_anchor": "རྡོ་རྗེ་ཁྲོ་བོ་སྐུ་མདོག་སེར་པོ་སྟེ། །",
+      "doc_order": 5
+    },
+    {
+      "decimal_id": "1.6",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་གཏུམ་ཆེན",
+      "block_id": "^1-6-0",
+      "context": "རྡོ་རྗེ་གཏུམ་ཆེན་སྐུ་མདོག་ལྗང་ནག་སྟེ། །",
+      "context_anchor": "རྡོ་རྗེ་གཏུམ་ཆེན་སྐུ་མདོག་ལྗང་ནག་སྟེ། །",
+      "doc_order": 6
+    },
+    {
+      "decimal_id": "1.7",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་ཐབས་བདག",
+      "block_id": "^1-7-0",
+      "context": "སྤྲུལ་པའི་ཁྲོ་བོ་རྡོ་རྗེ་ཐབས་བདག་ནི། །",
+      "context_anchor": "སྤྲུལ་པའི་ཁྲོ་བོ་རྡོ་རྗེ་ཐབས་བདག་ནི། །",
+      "doc_order": 7
+    },
+    {
+      "decimal_id": "1.8",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་གཏུམ་ཆེན",
+      "block_id": "^1-8-0",
+      "context": "སྤྲུལ་པའི་ཁྲོ་བོ་རྡོ་རྗེ་གཏུམ་ཆེན༌[^10]ནི། །",
+      "context_anchor": "སྤྲུལ་པའི་ཁྲོ་བོ་རྡོ་རྗེ་གཏུམ་ཆེན༌[^10]ནི། །",
+      "doc_order": 8
+    },
+    {
+      "decimal_id": "1.9",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་རྒྱུ་ཡི་སྟོབས",
+      "block_id": "^1-9-0",
+      "context": "རྡོ་རྗེ་རྒྱུ་ཡི་སྟོབས་ནི་དམར་ནག༌[^11]སྟེ། །",
+      "context_anchor": "རྡོ་རྗེ་རྒྱུ་ཡི་སྟོབས་ནི་དམར་ནག༌[^11]སྟེ། །",
+      "doc_order": 9
+    },
+    {
+      "decimal_id": "1.10",
+      "depth": 2,
+      "frame": false,
+      "label": "རྡོ་རྗེ་རབ་བྱེད",
+      "block_id": "^1-10-0",
+      "context": "རྡོ་རྗེ་རབ་བྱེད་སྣ་ཚོགས་ཕྲིན་ལས་ཀྱིས། །",
+      "context_anchor": "རྡོ་རྗེ་རབ་བྱེད་སྣ་ཚོགས་ཕྲིན་ལས་ཀྱིས། །",
+      "doc_order": 10
+    }
+  ]
+}

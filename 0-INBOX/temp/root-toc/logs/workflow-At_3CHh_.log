@@ -1,0 +1,24 @@
+
+=== 2026-10-12 16:15:28
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\At_3CHh_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHh_
+pādas 102 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 3, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །ཀླུ་ཆེན་པོ་བརྒྱད་མཆོད་པས་མི་བཟད་པའི་ནད་ཡམས་དྲག་པོ་ལས་ཐར་བར་བྱེད་པ། ^0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHh_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CHh_\toc-tree-anchored-At_3CHh_.md
+pādas 102 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 3 · body headings: 0 not placed · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །ཀླུ་ཆེན་པོ་བརྒྱད་མཆོད་པས་མི་བཟད་པའི་ནད་ཡམས་དྲག་པོ་ལས་ཐར་བར་བྱེད་པ། ^0
+   ## དེ་ནས་ཀླུ་ཆེན་པོ་རྣམས་སོ་སོའི་གནས་སུ་སྤྱན་དྲང་བ། ^1-0
+   ## དེ་ནས་བསྟོད་ཅིང་གཏོར་མ་དབུལ་བ། ^2-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHh_
+116 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHh_
+   ✓ final-free.md: identical to At_3CHh_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\At_3CHh_\final-free.md: 20 stanzas — 1 lines ×6, 2 lines ×1, 3 lines ×1, 6 lines ×2, 7 lines ×1, 8 lines ×9
+

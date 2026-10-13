@@ -1,0 +1,44 @@
+Input:        C:\Users\geshe lobzang tseten\AppData\Local\Temp\claude\C--Users-geshe-lobzang-tseten-repos-Nalanda-texts-rails\0794a1fd-7730-4647-aa95-841fcd40be8d\scratchpad\At_3CFi_\body.md
+Commentary:   At_3CFi_
+Lines:        318  ->  8 chunks (size=50, overlap=8)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\toc-candidates-At_3CFi_.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\toc-tree-At_3CFi_.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–50)  [skip — exists]
+  chunk_001 (lines 43–92)  [skip — exists]
+  chunk_002 (lines 85–134)  [skip — exists]
+  chunk_003 (lines 127–176)  [skip — exists]
+  chunk_004 (lines 169–218)  [skip — exists]
+  chunk_005 (lines 211–260)  [skip — exists]
+  chunk_006 (lines 253–302)  [skip — exists]
+  chunk_007 (lines 295–318)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–50)  [skip — exists]
+  chunk_001 (lines 43–92)  [skip — exists]
+  chunk_002 (lines 85–134)  [skip — exists]
+  chunk_003 (lines 127–176)  [skip — exists]
+  chunk_004 (lines 169–218)  [skip — exists]
+  chunk_005 (lines 211–260)  [skip — exists]
+  chunk_006 (lines 253–302)  [skip — exists]
+  chunk_007 (lines 295–318)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 11 section candidates merged (3 overlap duplicates removed) → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\toc-candidates-At_3CFi_.md
+✓ Pass 2: 17 enumeration blocks across 8 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\toc-candidates-At_3CFi_.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\toc-tree-At_3CFi_.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-At_3CFi_\toc-tree-qc-At_3CFi_.md

@@ -1,0 +1,34 @@
+
+=== 2026-10-12 16:24:41
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Di_3CEq_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Di_3CEq_
+pādas 1012 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), translators' colophon, raw paragraph breaks kept: 12, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །ཚད་མ་ཀུན་ལས་བཏུས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Di_3CEq_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEq_\toc-tree-anchored-Di_3CEq_.md
+pādas 1012 · metre 7 syllables · front matter (Sanskrit title, Tibetan title, homage), translators' colophon, raw paragraph breaks kept: 12, first body heading moved up 4 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །ཚད་མ་ཀུན་ལས་བཏུས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## དང་པོ་མངོན་སུམ་གྱི་ལེའུ། ^1-0
+   ## གཉིས་པ་རང་དོན་རྗེས་སུ་དཔག་པའི་ལེའུ། ^2-0
+   ## གསུམ་པ་གཞན་གྱི་དོན་གྱི་རྗེས་སུ་དཔག་པ་བརྟག་པའི་ལེའུ། ^3-0
+   ## ལེའུ་བཞི་པ། ^4-0
+   ## ལེའུ་ལྔ་པ། ^5-0
+   ## ལེའུ་དྲུག་པ། ^6-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Di_3CEq_
+group-in-part1.md: units 1–602 → groups-free-part1.json
+group-in-part2.md: units 603–1012 → groups-free-part2.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Di_3CEq_
+groups-free.json: 275 blocks from 2 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Di_3CEq_
+   ✓ final-free.md: identical to Di_3CEq_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Di_3CEq_\final-free.md: 275 stanzas — 1 lines ×20, 2 lines ×28, 3 lines ×27, 4 lines ×166, 5 lines ×18, 6 lines ×12, 7 lines ×3, 8 lines ×1
+

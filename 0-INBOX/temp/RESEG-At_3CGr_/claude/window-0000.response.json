@@ -1,0 +1,9 @@
+[
+  {"op": "merge", "blocks": [5, 6, 7, 8]},
+  {"op": "merge", "blocks": [9, 10]},
+  {"op": "merge", "blocks": [12, 13]},
+  {"op": "merge", "blocks": [15, 16]},
+  {"op": "merge", "blocks": [18, 19]},
+  {"op": "merge", "blocks": [33, 34]},
+  {"op": "merge", "blocks": [39, 40]}
+]

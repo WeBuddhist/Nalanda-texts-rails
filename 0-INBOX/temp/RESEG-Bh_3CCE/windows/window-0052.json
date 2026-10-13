@@ -1,0 +1,40 @@
+{
+  "window_idx": 52,
+  "start_block": 1821,
+  "end_block": 1860,
+  "operations": [
+    {
+      "op": "split",
+      "block": 1827,
+      "after": "ཞེས་སྨོས་ཅི་དགོས།"
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1829,
+        1830
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1834,
+        1835
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1837,
+        1838
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1853,
+        1854
+      ]
+    }
+  ]
+}

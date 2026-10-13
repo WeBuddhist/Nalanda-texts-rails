@@ -1,0 +1,63 @@
+=== passes 1-2 (parallel)
+     24s  done pass2 chunk_000
+     72s  done pass1 chunk_000
+finished in 72 s; errors: []
+=== merge + tree + QC
+[gem] extract_toc_tree.py: model=gemini-3.8-flash thinking=medium
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Di_3CEg_.units.md
+Commentary:   Di_3CEg_
+Lines:        66  ->  1 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\toc-candidates-Di_3CEg_.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\toc-tree-Di_3CEg_.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–66)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–66)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 4 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\toc-candidates-Di_3CEg_.md
+✓ Pass 2: 0 enumeration blocks across 1 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\toc-candidates-Di_3CEg_.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\toc-tree-Di_3CEg_.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\toc-tree-qc-Di_3CEg_.md
+exit_extract=0
+=== pass 5 anchors
+[gem] find_toc_contexts.py: model=gemini-3.8-flash thinking=medium
+TOC:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\toc-tree-anchored-Di_3CEg_.md  (14 entries)
+Source: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Di_3CEg_.units.md  (66 lines)
+
+  [1] line   12  ctx: རྒྱུ་དང་འབྲས་བུ་གཞན་དོན་གྱིས། །བསྟོད་པའི་དོན་རྣམས་ཐམས་ཅད་བསྡ
+  [1.1] line   20  ctx: གཞན་དོན་བྱང་ཆུབ་སྨོན་ལམ་གྱི། །རང་བཞིན་གྱིས་ནི་བསམ་པ་སྟེ། །
+  [1.2] line   32  ctx: འདིར་ནི་སྦྱོར་བ་རྣམ་གཉིས་བྱས། །སྔ་མའི་ཕ་རོལ་ཕྱིན་པ་བཅུ། །གཞན
+  [1.2.1] line   33  ctx: སྔ་མའི་ཕ་རོལ་ཕྱིན་པ་བཅུ། །གཞན་གྱི་ཕ་རོལ་ཕྱིན་པ་བདུན། །ཚིགས་བ
+  [1.2.2] line   34  ctx: གཞན་གྱི་ཕ་རོལ་ཕྱིན་པ་བདུན། །ཚིགས་བཅད་དྲུག་གིས་དྲུག་རྣམས་སྟོན
+  [1.3] line   45  ctx: དབང་མཛད་ལྔ་ནི་དགོས་བཅས་པར། །གཉིས་གཉིས་གཉིས་གཉིས་གསུམ་གྱིས་སོ
+  [2] line   50  ctx: འབྲས་བུ་གསུམ་སྟེ་བྱང་ཆུབ་དང་། །ཉེས་དང་ཡོན་ཏན་སྤངས་འབྱོར་པའོ།
+  [2.1] NOT FOUND -- kept: 50
+  [2.2] line   52  ctx: ཉེས་དང་ཡོན་ཏན་སྤངས་འབྱོར་པའོ། །གཞན་དོན་གསུམ་སྟེ་ཆོས་བསྟན་དང་
+  [2.3] NOT FOUND -- kept: 52
+  [3] line   53  ctx: གཞན་དོན་གསུམ་སྟེ་ཆོས་བསྟན་དང་། །དེ་མཉམ་པ་དང་ཡུན་རིང་གནས། །ཐ་
+  [3.1] NOT FOUND -- kept: 53
+  [3.2] line   54  ctx: དེ་མཉམ་པ་དང་ཡུན་རིང་གནས། །ཐ་མས་ཡོངས་སུ་བསྔོ་བ་སྟེ། །བསྟོད་པའ
+  [3.3] NOT FOUND -- kept: 54
+
+Written -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-anchored-Di_3CEg_\toc-tree-anchored-Di_3CEg_.md
+Backup  -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEg_\toc-tree-anchored-Di_3CEg_.md.bak
+exit_anchor=0
+=== pass 6 QC vs source
+⚑ 6 issue(s), 0 note(s) → 0-INBOX/temp/TOC-Di_3CEg_/toc-tree-qc-source-Di_3CEg_.md
+=== DONE

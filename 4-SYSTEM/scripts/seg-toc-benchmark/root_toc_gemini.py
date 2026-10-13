@@ -48,6 +48,9 @@ class Gemini:
         from google.genai import types
         cfg = types.GenerateContentConfig(
             system_instruction=system, max_output_tokens=max_output,
+            # no tools are used: switching automatic function calling off silences the
+            # library's "Direct use of automatic function calling (AFC)…" warning
+            automatic_function_calling=types.AutomaticFunctionCallingConfig(disable=True),
             thinking_config=None if self.thinking == "default"
             else types.ThinkingConfig(thinking_level=self.thinking))
         for attempt in range(1, 5):
@@ -248,6 +251,12 @@ def main():
             tree.write_text(strip_fence(ans) + "\n", encoding="utf-8")
             corpus = [str(cand), str(enum), str(src)]
         summary["qc4"] = "→".join(map(str, issues))
+        if not re.search(r"^\s*\*\s+\d", tree.read_text(encoding="utf-8"), re.M):
+            # pass 3 kept none of the candidates as a part (a count, a list of offerings …):
+            # the text announces no parts — no anchors to find, nothing to ingest
+            summary.update(status="no-parts", nodes=0, parts=0,
+                           note="pass 1 found candidates, pass 3 kept none as a part")
+            return finish_summary(summary, out, a, t0)
         # pass 5
         anch = out / f"toc-tree-anchored-{a.id}.md"
         if not anch.exists():
@@ -265,6 +274,11 @@ def main():
         summary["parts"] = len(re.findall(r"^\*\s+\d+\.?\s", t, re.M))
         summary["unanchored"] = t.count("[[?]]")
         summary["status"] = "done"
+    finish_summary(summary, out, a, t0)
+
+
+def finish_summary(summary, out, a, t0):
+    """Totals from usage.jsonl → summary.json (and print it)."""
     recs = [json.loads(l) for l in (out / "usage.jsonl").read_text(encoding="utf-8").splitlines()] \
         if (out / "usage.jsonl").exists() else []
     ti, to, tt = (sum(r[k] for r in recs) for k in ("input", "output", "thought"))

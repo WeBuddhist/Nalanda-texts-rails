@@ -1,0 +1,12 @@
+[
+  {"op": "merge", "blocks": [876, 877]},
+  {"op": "merge", "blocks": [880, 881, 882, 883, 884, 885]},
+  {"op": "merge", "blocks": [887, 888]},
+  {"op": "split", "block": 893, "after": "གནས། །ཞེས་འབྱུང་ངོ་། །"},
+  {"op": "merge", "blocks": [895, 896]},
+  {"op": "merge", "blocks": [897, 898]},
+  {"op": "merge", "blocks": [899, 900, 901, 902, 903]},
+  {"op": "merge", "blocks": [907, 908, 909]},
+  {"op": "merge", "blocks": [911, 912]},
+  {"op": "merge", "blocks": [914, 915]}
+]

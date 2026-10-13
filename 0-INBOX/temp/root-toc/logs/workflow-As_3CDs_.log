@@ -1,0 +1,24 @@
+
+=== 2026-10-12 16:08:43
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\As_3CDs_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_
+prose: 1045 sentences, 30 verse lines in 7 passage(s) · raw paragraph breaks kept: 26, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄། །རྣམ་གྲངས་བསྡུ་བ་བཞུགས། ^0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDs_\toc-tree-anchored-As_3CDs_.md
+prose: 1045 sentences, 30 verse lines in 7 passage(s) · raw paragraph breaks kept: 26 · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄། །རྣམ་གྲངས་བསྡུ་བ་བཞུགས། ^0
+   ## དཀར་པོའི་ཕྱོགས། ^1-0
+   ## ནག་པོའི་ཕྱོགས། ^2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_
+group-in-part1.md: units 1–624 → groups-prose-part1.json
+group-in-part2.md: units 625–1075 → groups-prose-part2.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_
+groups-prose.json: 226 blocks from 2 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_
+   ✓ final-prose.md: letters identical; 803 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_\final-prose.md: 219 paragraphs (sentences per paragraph: 1 ×21, 2 ×15, 3 ×33, 4 ×34, 5 ×38, 6 ×28, 7 ×18, 8 ×21, 9 ×6, 10 ×4, 13 ×1) · 7 stanzas (4 lines ×6, 6 lines ×1)
+

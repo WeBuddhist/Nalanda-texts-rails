@@ -1,0 +1,58 @@
+# TOC tree vs. source QC report
+
+issues: 48
+
+## Issues
+
+- 1 གཞུང་དོན།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.8 ཚིགས་བཅད་བདུན་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.9 ཚིགས་བཅད་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.10 ཚིགས་བཅད་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.11 ཚིགས་བཅད་བཅུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.12 ཚིགས་བཅད་བཅུ་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.14 ཚིགས་བཅད་བཅུ་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.15 ཚིགས་བཅད་བཅུ་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.18 ཚིགས་བཅད་བཅུ་བདུན་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.19 ཚིགས་བཅད་བཅོ་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.20 ཚིགས་བཅད་བཅུ་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.21 ཚིགས་བཅད་ཉི་ཤུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.22 ཚིགས་བཅད་ཉེར་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.23 ཚིགས་བཅད་ཉེར་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.24 ཚིགས་བཅད་ཉེར་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.25 ཚིགས་བཅད་ཉེར་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.26 ཚིགས་བཅད་ཉེར་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.27 ཚིགས་བཅད་ཉེར་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.28 ཚིགས་བཅད་ཉེར་བདུན་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.29 ཚིགས་བཅད་ཉེར་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.30 ཚིགས་བཅད་ཉེར་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.31 ཚིགས་བཅད་སུམ་ཅུ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.32 ཚིགས་བཅད་སོ་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.33 ཚིགས་བཅད་སོ་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.34 ཚིགས་བཅད་སོ་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.35 ཚིགས་བཅད་སོ་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.36 ཚིགས་བཅད་སོ་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.37 ཚིགས་བཅད་སོ་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.38 ཚིགས་བཅད་སོ་བདུན་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.39 ཚིགས་བཅད་སོ་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.40 ཚིགས་བཅད་སོ་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.41 ཚིགས་བཅད་བཞི་བཅུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.42 ཚིགས་བཅད་ཞེ་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.43 ཚིགས་བཅད་ཞེ་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.44 ཚིགས་བཅད་ཞེ་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.45 ཚིགས་བཅད་ཞེ་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.46 ཚིགས་བཅད་ཞེ་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.47 ཚིགས་བཅད་ཞེ་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.48 ཚིགས་བཅད་ཞེ་བདུན་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.49 ཚིགས་བཅད་ཞེ་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.50 ཚིགས་བཅད་ཞེ་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.51 ཚིགས་བཅད་ལྔ་བཅུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.54 ཚིགས་བཅད་ང་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.56 ཚིགས་བཅད་ང་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.57 ཚིགས་བཅད་ང་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 1.58 ཚིགས་བཅད་ང་བདུན་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.59 ཚིགས་བཅད་ང་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 1.60 ཚིགས་བཅད་ང་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+
+## Notes (not counted as issues)
+
+- (none)

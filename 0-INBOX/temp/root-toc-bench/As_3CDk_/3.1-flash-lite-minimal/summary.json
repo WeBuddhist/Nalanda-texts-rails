@@ -1,0 +1,20 @@
+{
+ "id": "As_3CDk_",
+ "model": "gemini-3.1-flash-lite",
+ "thinking": "minimal",
+ "chunks": 42,
+ "units": 5192,
+ "qc4": "17→17→17",
+ "pass5_windows": 6,
+ "qc6": 969,
+ "nodes": 988,
+ "parts": 267,
+ "unanchored": 371,
+ "status": "done",
+ "calls": 93,
+ "input_tokens": 1675431,
+ "output_tokens": 167904,
+ "thinking_tokens": 0,
+ "cost_usd": 0.671,
+ "wall_seconds": 295
+}

@@ -1,0 +1,43 @@
+=== STEP 3 ingest
+Summary
+  Total nodes:            29
+  Inserted:               29
+  Already present:        0
+  Blocks split at a node: 4 ['1.12', '1.19', '1.20', '1.25']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: 0-INBOX\segmented\Dh_3CFA.toc.md
+=== STEP 4 reseg
+     93s  window 2: 8 op(s)
+    112s  window 1: 4 op(s)
+finished in 112 s; errors: []
+
+Operations to apply: 22
+
+Blocks: 129 → 64
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Dh_3CFA.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Dh_3CFA.ops.md
+# Block Resegmentation Log — Dh_3CFA
+
+Original blocks : 129
+Result blocks   : 64
+Ops applied     : 22
+Errors skipped  : 0
+Conflicts       : 0
+footnotes restored 115 lines
+
+QC report: 0-INBOX\resegmented\Dh_3CFA.qc.md
+
+────────────────────────────────────────
+Flags before : 12
+footnotes restored 115 lines
+=== STEP 5 IDs
+  spacing: source ' ' → output '' at …ྱིར་རོ།།|ཁ
+✓ Dh_3CFA.reseg.md: letters identical; 1 spacing difference(s) restored from the source — now identical (letters and spacing)
+exit_stamp=0
+dup IDs: 0
+headings: 30  IDs: 60
+=== ALL DONE

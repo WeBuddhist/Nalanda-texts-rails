@@ -1,0 +1,264 @@
+  ! qc-repair attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+Warning: there are non-text parts in the response: ['function_call'], returning concatenated text result from text parts. Check the full candidates.content.parts accessor to get the full model response.
+  ! QC LLM JSON parse error (Expecting value: line 1 column 1 (char 0)) — treating as []
+Input:  0-INBOX\resegmented\Bh_3CCN.reseg.md
+ID:     Bh_3CCN
+
+Blocks: 2154
+
+Step 1 — Deterministic checks...
+  245 flag(s) found.
+  Block 14 — CONNECTOR_ENDING
+  Block 15 — CONNECTOR_ENDING
+  Block 22 — CONNECTOR_ENDING
+  Block 34 — SHORT_FRAGMENT (3 syl)
+  Block 39 — CONNECTOR_ENDING
+  Block 40 — OVER_LENGTH (353 syl)
+  Block 61 — CONNECTOR_ENDING
+  Block 69 — CONNECTOR_ENDING
+  Block 87 — CONNECTOR_ENDING
+  Block 90 — CONNECTOR_ENDING
+  Block 94 — SHORT_FRAGMENT (3 syl)
+  Block 109 — CONNECTOR_ENDING
+  Block 136 — SHORT_FRAGMENT (3 syl)
+  Block 157 — OVER_LENGTH (267 syl)
+  Block 168 — CONNECTOR_ENDING
+  Block 192 — OVER_LENGTH (292 syl)
+  Block 222 — CONNECTOR_ENDING
+  Block 225 — CONNECTOR_ENDING
+  Block 228 — CONNECTOR_ENDING
+  Block 233 — OVER_LENGTH (264 syl)
+  Block 251 — OVER_LENGTH (306 syl)
+  Block 258 — OBJECTION_REPLY_FUSED
+  Block 264 — SHORT_FRAGMENT (3 syl)
+  Block 267 — SHORT_FRAGMENT (2 syl)
+  Block 324 — OVER_LENGTH (258 syl)
+  Block 328 — SHORT_FRAGMENT (3 syl)
+  Block 333 — SHORT_FRAGMENT (3 syl)
+  Block 343 — SHORT_FRAGMENT (3 syl)
+  Block 354 — OBJECTION_REPLY_FUSED
+  Block 361 — SHORT_FRAGMENT (3 syl)
+  Block 374 — OVER_LENGTH (451 syl)
+  Block 375 — SHORT_FRAGMENT (3 syl)
+  Block 394 — SHORT_FRAGMENT (3 syl)
+  Block 396 — OBJECTION_REPLY_FUSED
+  Block 397 — SHORT_FRAGMENT (2 syl)
+  Block 402 — SHORT_FRAGMENT (3 syl)
+  Block 408 — OBJECTION_REPLY_FUSED
+  Block 420 — CONNECTOR_ENDING
+  Block 431 — SHORT_FRAGMENT (3 syl)
+  Block 441 — OBJECTION_REPLY_FUSED
+  Block 447 — OBJECTION_REPLY_FUSED
+  Block 447 — OVER_LENGTH (290 syl)
+  Block 450 — OBJECTION_REPLY_FUSED
+  Block 453 — OVER_LENGTH (305 syl)
+  Block 462 — SHORT_FRAGMENT (3 syl)
+  Block 489 — OVER_LENGTH (376 syl)
+  Block 498 — SHORT_FRAGMENT (3 syl)
+  Block 503 — CONNECTOR_ENDING
+  Block 510 — OBJECTION_REPLY_FUSED
+  Block 518 — OVER_LENGTH (290 syl)
+  Block 533 — SHORT_FRAGMENT (3 syl)
+  Block 539 — CONNECTOR_ENDING
+  Block 544 — SHORT_FRAGMENT (3 syl)
+  Block 547 — SHORT_FRAGMENT (3 syl)
+  Block 552 — SHORT_FRAGMENT (3 syl)
+  Block 555 — OBJECTION_REPLY_FUSED
+  Block 568 — CONNECTOR_ENDING
+  Block 571 — CONNECTOR_ENDING
+  Block 577 — OVER_LENGTH (257 syl)
+  Block 578 — SHORT_FRAGMENT (3 syl)
+  Block 590 — SHORT_FRAGMENT (3 syl)
+  Block 603 — CONNECTOR_ENDING
+  Block 616 — SHORT_FRAGMENT (3 syl)
+  Block 628 — CONNECTOR_ENDING
+  Block 631 — SHORT_FRAGMENT (3 syl)
+  Block 634 — OVER_LENGTH (318 syl)
+  Block 637 — OVER_LENGTH (319 syl)
+  Block 643 — CONNECTOR_ENDING
+  Block 654 — CONNECTOR_ENDING
+  Block 657 — CONNECTOR_ENDING
+  Block 660 — CONNECTOR_ENDING
+  Block 663 — CONNECTOR_ENDING
+  Block 672 — CONNECTOR_ENDING
+  Block 677 — SHORT_FRAGMENT (3 syl)
+  Block 716 — OVER_LENGTH (338 syl)
+  Block 722 — CONNECTOR_ENDING
+  Block 732 — SHORT_FRAGMENT (3 syl)
+  Block 741 — CONNECTOR_ENDING
+  Block 758 — CONNECTOR_ENDING
+  Block 761 — OVER_LENGTH (369 syl)
+  Block 765 — SHORT_FRAGMENT (3 syl)
+  Block 778 — CONNECTOR_ENDING
+  Block 792 — CONNECTOR_ENDING
+  Block 802 — SHORT_FRAGMENT (3 syl)
+  Block 828 — CONNECTOR_ENDING
+  Block 851 — CONNECTOR_ENDING
+  Block 872 — CONNECTOR_ENDING
+  Block 877 — CONNECTOR_ENDING
+  Block 879 — CONNECTOR_ENDING
+  Block 881 — CONNECTOR_ENDING
+  Block 888 — SHORT_FRAGMENT (2 syl)
+  Block 891 — SHORT_FRAGMENT (2 syl)
+  Block 896 — SHORT_FRAGMENT (3 syl)
+  Block 899 — SHORT_FRAGMENT (3 syl)
+  Block 906 — SHORT_FRAGMENT (3 syl)
+  Block 915 — CONNECTOR_ENDING
+  Block 939 — OVER_LENGTH (323 syl)
+  Block 943 — CONNECTOR_ENDING
+  Block 948 — SHORT_FRAGMENT (3 syl)
+  Block 957 — SHORT_FRAGMENT (3 syl)
+  Block 959 — CONNECTOR_ENDING
+  Block 962 — SHORT_FRAGMENT (3 syl)
+  Block 991 — CONNECTOR_ENDING
+  Block 993 — OVER_LENGTH (324 syl)
+  Block 994 — CONNECTOR_ENDING
+  Block 999 — OVER_LENGTH (283 syl)
+  Block 1029 — SHORT_FRAGMENT (3 syl)
+  Block 1054 — SHORT_FRAGMENT (3 syl)
+  Block 1060 — CONNECTOR_ENDING
+  Block 1068 — CONNECTOR_ENDING
+  Block 1071 — SHORT_FRAGMENT (3 syl)
+  Block 1083 — OVER_LENGTH (257 syl)
+  Block 1084 — CONNECTOR_ENDING
+  Block 1086 — OVER_LENGTH (310 syl)
+  Block 1087 — CONNECTOR_ENDING
+  Block 1087 — OVER_LENGTH (328 syl)
+  Block 1100 — CONNECTOR_ENDING
+  Block 1102 — OBJECTION_REPLY_FUSED
+  Block 1109 — CONNECTOR_ENDING
+  Block 1114 — OVER_LENGTH (291 syl)
+  Block 1115 — SHORT_FRAGMENT (3 syl)
+  Block 1128 — SHORT_FRAGMENT (3 syl)
+  Block 1134 — CONNECTOR_ENDING
+  Block 1140 — OBJECTION_REPLY_FUSED
+  Block 1146 — CONNECTOR_ENDING
+  Block 1149 — CONNECTOR_ENDING
+  Block 1152 — CONNECTOR_ENDING
+  Block 1155 — SHORT_FRAGMENT (3 syl)
+  Block 1162 — CONNECTOR_ENDING
+  Block 1178 — SHORT_FRAGMENT (3 syl)
+  Block 1181 — CONNECTOR_ENDING
+  Block 1186 — SHORT_FRAGMENT (3 syl)
+  Block 1188 — OVER_LENGTH (269 syl)
+  Block 1189 — OVER_LENGTH (265 syl)
+  Block 1190 — CONNECTOR_ENDING
+  Block 1196 — CONNECTOR_ENDING
+  Block 1209 — OVER_LENGTH (278 syl)
+  Block 1224 — CONNECTOR_ENDING
+  Block 1261 — CONNECTOR_ENDING
+  Block 1267 — CONNECTOR_ENDING
+  Block 1271 — OVER_LENGTH (454 syl)
+  Block 1276 — CONNECTOR_ENDING
+  Block 1280 — CONNECTOR_ENDING
+  Block 1283 — OVER_LENGTH (383 syl)
+  Block 1310 — CONNECTOR_ENDING
+  Block 1312 — OVER_LENGTH (298 syl)
+  Block 1315 — CONNECTOR_ENDING
+  Block 1319 — SHORT_FRAGMENT (3 syl)
+  Block 1326 — CONNECTOR_ENDING
+  Block 1331 — SHORT_FRAGMENT (3 syl)
+  Block 1344 — SHORT_FRAGMENT (3 syl)
+  Block 1358 — OVER_LENGTH (801 syl)
+  Block 1365 — SHORT_FRAGMENT (3 syl)
+  Block 1368 — SHORT_FRAGMENT (3 syl)
+  Block 1371 — CONNECTOR_ENDING
+  Block 1375 — CONNECTOR_ENDING
+  Block 1394 — OVER_LENGTH (318 syl)
+  Block 1398 — CONNECTOR_ENDING
+  Block 1399 — CONNECTOR_ENDING
+  Block 1422 — CONNECTOR_ENDING
+  Block 1429 — SHORT_FRAGMENT (3 syl)
+  Block 1432 — SHORT_FRAGMENT (3 syl)
+  Block 1445 — SHORT_FRAGMENT (1 syl)
+  Block 1489 — OVER_LENGTH (261 syl)
+  Block 1501 — SHORT_FRAGMENT (3 syl)
+  Block 1504 — SHORT_FRAGMENT (3 syl)
+  Block 1507 — CONNECTOR_ENDING
+  Block 1512 — CONNECTOR_ENDING
+  Block 1521 — SHORT_FRAGMENT (3 syl)
+  Block 1524 — SHORT_FRAGMENT (3 syl)
+  Block 1529 — SHORT_FRAGMENT (3 syl)
+  Block 1532 — SHORT_FRAGMENT (3 syl)
+  Block 1553 — CONNECTOR_ENDING
+  Block 1573 — CONNECTOR_ENDING
+  Block 1580 — CONNECTOR_ENDING
+  Block 1593 — CONNECTOR_ENDING
+  Block 1598 — SHORT_FRAGMENT (3 syl)
+  Block 1605 — OVER_LENGTH (344 syl)
+  Block 1615 — SHORT_FRAGMENT (3 syl)
+  Block 1618 — SHORT_FRAGMENT (3 syl)
+  Block 1653 — SHORT_FRAGMENT (3 syl)
+  Block 1656 — SHORT_FRAGMENT (3 syl)
+  Block 1671 — SHORT_FRAGMENT (3 syl)
+  Block 1682 — SHORT_FRAGMENT (3 syl)
+  Block 1683 — CONNECTOR_ENDING
+  Block 1691 — SHORT_FRAGMENT (3 syl)
+  Block 1694 — SHORT_FRAGMENT (3 syl)
+  Block 1707 — SHORT_FRAGMENT (3 syl)
+  Block 1712 — CONNECTOR_ENDING
+  Block 1718 — SHORT_FRAGMENT (3 syl)
+  Block 1731 — SHORT_FRAGMENT (3 syl)
+  Block 1737 — SHORT_FRAGMENT (3 syl)
+  Block 1740 — SHORT_FRAGMENT (3 syl)
+  Block 1746 — CONNECTOR_ENDING
+  Block 1751 — SHORT_FRAGMENT (3 syl)
+  Block 1773 — SHORT_FRAGMENT (3 syl)
+  Block 1778 — SHORT_FRAGMENT (3 syl)
+  Block 1799 — SHORT_FRAGMENT (1 syl)
+  Block 1804 — SHORT_FRAGMENT (1 syl)
+  Block 1823 — CONNECTOR_ENDING
+  Block 1826 — SHORT_FRAGMENT (2 syl)
+  Block 1829 — SHORT_FRAGMENT (3 syl)
+  Block 1846 — CONNECTOR_ENDING
+  Block 1855 — SHORT_FRAGMENT (3 syl)
+  Block 1861 — SHORT_FRAGMENT (3 syl)
+  Block 1864 — SHORT_FRAGMENT (3 syl)
+  Block 1867 — SHORT_FRAGMENT (3 syl)
+  Block 1884 — CONNECTOR_ENDING
+  Block 1897 — SHORT_FRAGMENT (3 syl)
+  Block 1920 — SHORT_FRAGMENT (1 syl)
+  Block 1923 — SHORT_FRAGMENT (3 syl)
+  Block 1936 — OVER_LENGTH (942 syl)
+  Block 1937 — SHORT_FRAGMENT (3 syl)
+  Block 1939 — OVER_LENGTH (304 syl)
+  Block 1946 — CONNECTOR_ENDING
+  Block 1957 — SHORT_FRAGMENT (3 syl)
+  Block 1959 — OVER_LENGTH (428 syl)
+  Block 1962 — OVER_LENGTH (265 syl)
+  Block 1988 — SHORT_FRAGMENT (3 syl)
+  Block 2009 — CONNECTOR_ENDING
+  Block 2011 — OVER_LENGTH (290 syl)
+  Block 2014 — OVER_LENGTH (371 syl)
+  Block 2015 — SHORT_FRAGMENT (3 syl)
+  Block 2017 — CONNECTOR_ENDING
+  Block 2022 — SHORT_FRAGMENT (3 syl)
+  Block 2037 — OVER_LENGTH (421 syl)
+  Block 2063 — SHORT_FRAGMENT (1 syl)
+  Block 2067 — OVER_LENGTH (283 syl)
+  Block 2075 — OVER_LENGTH (259 syl)
+  Block 2078 — OVER_LENGTH (397 syl)
+  Block 2086 — OVER_LENGTH (384 syl)
+  Block 2098 — OVER_LENGTH (298 syl)
+  Block 2107 — OBJECTION_REPLY_FUSED
+  Block 2111 — OVER_LENGTH (285 syl)
+  Block 2123 — OVER_LENGTH (405 syl)
+  Block 2128 — OVER_LENGTH (347 syl)
+  Block 2131 — OVER_LENGTH (311 syl)
+  Block 2136 — OVER_LENGTH (624 syl)
+  Block 2138 — SHORT_FRAGMENT (1 syl)
+  Block 2143 — OVER_LENGTH (565 syl)
+  Block 2147 — OVER_LENGTH (269 syl)
+  Block 2148 — OVER_LENGTH (642 syl)
+  Block 2151 — OVER_LENGTH (1043 syl)
+  Block 2152 — OVER_LENGTH (1371 syl)
+  Block 2153 — OVER_LENGTH (2065 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: 0-INBOX\resegmented\Bh_3CCN.qc.md
+
+────────────────────────────────────────
+Flags before : 245
+exit=0

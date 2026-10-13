@@ -1,9 +1,11 @@
 [
+  {"op": "merge", "blocks": [982, 983]},
+  {"op": "merge", "blocks": [986, 987]},
   {"op": "merge", "blocks": [988, 989]},
-  {"op": "merge", "blocks": [994, 995]},
-  {"op": "merge", "blocks": [997, 998, 999, 1000]},
-  {"op": "merge", "blocks": [1002, 1003, 1004, 1005]},
-  {"op": "merge", "blocks": [1009, 1010, 1011, 1012, 1013, 1014]},
-  {"op": "merge", "blocks": [1017, 1018]},
-  {"op": "merge", "blocks": [1019, 1020]}
+  {"op": "merge", "blocks": [990, 991]},
+  {"op": "merge", "blocks": [992, 993, 994]},
+  {"op": "merge", "blocks": [996, 997]},
+  {"op": "split", "block": 1011, "after": "ཐམས་ཅད་བྱ་བ་ཁོ་ན་ཡིན་ནོ། །"},
+  {"op": "merge", "blocks": [1012, 1013]},
+  {"op": "merge", "blocks": [1018, 1019]}
 ]

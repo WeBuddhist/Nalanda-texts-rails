@@ -1,0 +1,255 @@
+    224s  done pass1 chunk_011
+    226s  done pass1 chunk_009
+    239s  done pass1 chunk_008
+    255s  done pass1 chunk_007
+    276s  done pass1 chunk_006
+    217s  done pass1 chunk_015
+    219s  done pass1 chunk_005
+    229s  done pass1 chunk_000
+    233s  done pass1 chunk_018
+    240s  done pass1 chunk_017
+    244s  done pass1 chunk_016
+    246s  done pass1 chunk_010
+    259s  done pass1 chunk_012
+    263s  done pass1 chunk_003
+    265s  done pass1 chunk_001
+    273s  done pass1 chunk_013
+    277s  done pass1 chunk_004
+    310s  done pass1 chunk_002
+    394s  done pass1 chunk_014
+    412s  done pass1 chunk_020
+    434s  done pass1 chunk_019
+    439s  done pass1 chunk_021
+    452s  done pass1 chunk_026
+    466s  done pass1 chunk_025
+    469s  done pass1 chunk_022
+    476s  done pass1 chunk_023
+    480s  done pass1 chunk_028
+    482s  done pass1 chunk_027
+    498s  done pass1 chunk_024
+    529s  done pass1 chunk_031
+    579s  done pass1 chunk_032
+    580s  done pass1 chunk_029
+    588s  done pass1 chunk_030
+    624s  done pass1 chunk_033
+    626s  done pass1 chunk_035
+    636s  done pass1 chunk_036
+    661s  done pass1 chunk_039
+    664s  done pass1 chunk_041
+    706s  done pass1 chunk_037
+    712s  done pass1 chunk_042
+    756s  done pass1 chunk_040
+    779s  done pass1 chunk_044
+    787s  done pass1 chunk_045
+    803s  done pass1 chunk_043
+    817s  done pass1 chunk_047
+    830s  done pass1 chunk_048
+    832s  done pass1 chunk_046
+    871s  done pass1 chunk_038
+    ! chunk attempt 1/8 error: [WinError 10065] A socket operation was attempted to an unreachable host; retrying in 9s...
+    ! chunk attempt 1/8 error: [WinError 10065] A socket operation was attempted to an unreachable host; retrying in 9s...
+    ! chunk attempt 1/8 error: [WinError 10065] A socket operation was attempted to an unreachable host; retrying in 10s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 17s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 20s...
+    ! chunk attempt 1/8 error: [WinError 10065] A socket operation was attempted to an unreachable host; retrying in 8s...
+    ! chunk attempt 1/8 error: [WinError 10065] A socket operation was attempted to an unreachable host; retrying in 10s...
+    ! chunk attempt 1/8 error: [WinError 10065] A socket operation was attempted to an unreachable host; retrying in 9s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 19s...
+    ! chunk attempt 1/8 error: [WinError 10065] A socket operation was attempted to an unreachable host; retrying in 9s...
+    ! chunk attempt 1/8 error: [WinError 10065] A socket operation was attempted to an unreachable host; retrying in 10s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 18s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 18s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 18s...
+    ! chunk attempt 1/8 error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond; retrying in 9s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 39s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 18s...
+    ! chunk attempt 1/8 error: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond; retrying in 9s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 17s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 33s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 37s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 20s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 38s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 17s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 40s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 39s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 38s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 39s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 35s...
+    ! chunk attempt 1/8 error: [WinError 10053] An established connection was aborted by the software in your host machine; retrying in 8s...
+    ! chunk attempt 1/8 error: [WinError 10053] An established connection was aborted by the software in your host machine; retrying in 10s...
+    ! chunk attempt 1/8 error: [WinError 10053] An established connection was aborted by the software in your host machine; retrying in 8s...
+    ! chunk attempt 1/8 error: [WinError 10053] An established connection was aborted by the software in your host machine; retrying in 9s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 34s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 17s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 17s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 78s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 18s...
+    ! chunk attempt 2/8 error: [Errno 11001] getaddrinfo failed; retrying in 18s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 76s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 78s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 72s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 69s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 38s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 74s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 40s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 35s...
+    ! chunk attempt 3/8 error: [Errno 11001] getaddrinfo failed; retrying in 34s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 68s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 70s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 80s...
+    ! chunk attempt 4/8 error: [Errno 11001] getaddrinfo failed; retrying in 76s...
+   8871s  done pass1 chunk_055
+   8871s  done pass1 chunk_049
+   8871s  done pass1 chunk_050
+   8872s  done pass1 chunk_054
+   8874s  done pass1 chunk_051
+   8878s  done pass1 chunk_057
+   8883s  done pass1 chunk_064
+   8885s  done pass1 chunk_058
+   8887s  done pass1 chunk_065
+   8887s  done pass1 chunk_059
+   8887s  done pass1 chunk_053
+   8892s  done pass1 chunk_052
+   8895s  done pass1 chunk_056
+   8903s  done pass1 chunk_060
+   8905s  done pass1 chunk_068
+   8907s  done pass1 chunk_073
+   8912s  done pass1 chunk_074
+   8920s  done pass1 chunk_075
+   8922s  done pass1 chunk_067
+   8928s  done pass1 chunk_077
+   8933s  done pass1 chunk_076
+   8938s  done pass1 chunk_066
+   8940s  done pass1 chunk_071
+   8940s  done pass1 chunk_072
+   8944s  done pass1 chunk_061
+   8944s  done pass1 chunk_080
+   8945s  done pass1 chunk_063
+   8951s  done pass1 chunk_079
+   8953s  done pass1 chunk_081
+   8967s  done pass1 chunk_090
+   8969s  done pass1 chunk_078
+   8970s  done pass1 chunk_062
+   8972s  done pass1 chunk_082
+   8974s  done pass1 chunk_083
+   8976s  done pass1 chunk_089
+   8980s  done pass1 chunk_084
+   8982s  done pass1 chunk_034
+   8983s  done pass1 chunk_092
+   8984s  done pass1 chunk_070
+   8984s  done pass1 chunk_091
+   8990s  done pass1 chunk_096
+   8991s  done pass1 chunk_093
+   8993s  done pass1 chunk_095
+   8999s  done pass2 chunk_000
+   8999s  done pass1 chunk_094
+   9003s  done pass1 chunk_085
+   9004s  done pass1 chunk_098
+   9005s  done pass1 chunk_099
+   9008s  done pass2 chunk_002
+   9010s  done pass2 chunk_005
+   9011s  done pass2 chunk_008
+   9012s  done pass2 chunk_006
+   9014s  done pass2 chunk_007
+   9016s  done pass2 chunk_003
+   9017s  done pass2 chunk_009
+   9019s  done pass1 chunk_100
+   9020s  done pass1 chunk_086
+   9020s  done pass2 chunk_004
+   9021s  done pass1 chunk_088
+   9021s  done pass1 chunk_087
+   9023s  done pass2 chunk_011
+   9025s  done pass2 chunk_010
+   9026s  done pass1 chunk_069
+   9029s  done pass2 chunk_020
+   9029s  done pass1 chunk_097
+   9030s  done pass2 chunk_001
+   9030s  done pass2 chunk_019
+   9032s  done pass2 chunk_014
+   9035s  done pass2 chunk_018
+   9037s  done pass2 chunk_015
+   9039s  done pass2 chunk_013
+   9040s  done pass2 chunk_021
+   9041s  done pass2 chunk_024
+   9043s  done pass2 chunk_030
+   9044s  done pass2 chunk_022
+   9045s  done pass2 chunk_027
+   9048s  done pass2 chunk_025
+   9048s  done pass2 chunk_032
+   9049s  done pass2 chunk_017
+   9051s  done pass2 chunk_035
+   9052s  done pass2 chunk_034
+   9053s  done pass2 chunk_036
+   9056s  done pass2 chunk_026
+   9056s  done pass2 chunk_033
+   9057s  done pass2 chunk_016
+   9059s  done pass2 chunk_037
+   9061s  done pass2 chunk_028
+   9067s  done pass2 chunk_031
+   9068s  done pass2 chunk_042
+   9068s  done pass2 chunk_043
+   9076s  done pass2 chunk_023
+   9077s  done pass2 chunk_039
+   9077s  done pass2 chunk_048
+   9078s  done pass2 chunk_047
+   9081s  done pass2 chunk_029
+   9081s  done pass2 chunk_041
+   9083s  done pass2 chunk_049
+   9085s  done pass2 chunk_054
+   9085s  done pass2 chunk_012
+   9086s  done pass2 chunk_053
+   9087s  done pass2 chunk_038
+   9090s  done pass2 chunk_050
+   9093s  done pass2 chunk_040
+   9093s  done pass2 chunk_055
+   9094s  done pass2 chunk_059
+   9094s  done pass2 chunk_051
+   9095s  done pass2 chunk_044
+   9096s  done pass2 chunk_058
+   9096s  done pass2 chunk_060
+   9096s  done pass2 chunk_052
+   9098s  done pass2 chunk_061
+   9099s  done pass2 chunk_064
+   9101s  done pass2 chunk_062
+   9101s  done pass2 chunk_065
+   9106s  done pass2 chunk_057
+   9107s  done pass2 chunk_069
+   9109s  done pass2 chunk_068
+   9109s  done pass2 chunk_056
+   9109s  done pass2 chunk_063
+   9114s  done pass2 chunk_074
+   9116s  done pass2 chunk_077
+   9118s  done pass2 chunk_076
+   9119s  done pass2 chunk_079
+   9120s  done pass2 chunk_066
+   9121s  done pass2 chunk_073
+   9121s  done pass2 chunk_075
+   9123s  done pass2 chunk_080
+   9124s  done pass2 chunk_067
+   9124s  done pass2 chunk_081
+   9126s  done pass2 chunk_083
+   9128s  done pass2 chunk_070
+   9129s  done pass2 chunk_045
+   9130s  done pass2 chunk_071
+   9131s  done pass2 chunk_072
+   9131s  done pass2 chunk_085
+   9133s  done pass2 chunk_084
+   9136s  done pass2 chunk_093
+   9137s  done pass2 chunk_082
+   9138s  done pass2 chunk_092
+   9140s  done pass2 chunk_087
+   9142s  done pass2 chunk_088
+   9143s  done pass2 chunk_078
+   9144s  done pass2 chunk_094
+   9145s  done pass2 chunk_091
+   9148s  done pass2 chunk_098
+   9149s  done pass2 chunk_095
+   9151s  done pass2 chunk_090
+   9161s  done pass2 chunk_099
+   9169s  done pass2 chunk_097
+   9175s  done pass2 chunk_100
+   9180s  done pass2 chunk_096
+   9199s  done pass2 chunk_089
+   9213s  done pass2 chunk_086
+   9293s  done pass2 chunk_046
+finished in 9293 s; errors: []

@@ -1,0 +1,67 @@
+{
+  "source": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\temp\\root-final\\Ar_3CC6\\tree-top.md",
+  "total_nodes": 6,
+  "max_depth": 2,
+  "nodes": [
+    {
+      "decimal_id": "II",
+      "depth": 1,
+      "frame": true,
+      "label": "དངོས་དང་དངོས་མེད་ལས་གྲོལ་བ།",
+      "block_id": "^II-0",
+      "context": "དངོས་དང་དངོས་མེད་ལས་གྲོལ་ཞིང་། །",
+      "context_anchor": "དངོས་དང་དངོས་མེད་ལས་གྲོལ་ཞིང་། །",
+      "doc_order": 0
+    },
+    {
+      "decimal_id": "1",
+      "depth": 1,
+      "frame": false,
+      "label": "སངས་རྒྱས་ཆོས་",
+      "block_id": "^1-0",
+      "context": "སངས་རྒྱས་ཆོས་ནི་རྣམ་པ་བཞིར། །",
+      "context_anchor": "སངས་རྒྱས་ཆོས་ནི་རྣམ་པ་བཞིར། །",
+      "doc_order": 1
+    },
+    {
+      "decimal_id": "1.1",
+      "depth": 2,
+      "frame": false,
+      "label": "བྱེ་བྲག་སྨྲ་བ",
+      "block_id": "^1-1-0",
+      "context": "ནམ་མཁའ་འགོག་པ་གཉིས་དག་སྟེ།",
+      "context_anchor": "ནམ་མཁའ་འགོག་པ་གཉིས་དག་སྟེ།",
+      "doc_order": 2
+    },
+    {
+      "decimal_id": "1.2",
+      "depth": 2,
+      "frame": false,
+      "label": "མདོ་སྡེ་པ",
+      "block_id": "^1-2-0",
+      "context": "མཐོང་བ་དབང་པོའི་ཡུལ་མིན་ཏེ། །",
+      "context_anchor": "མཐོང་བ་དབང་པོའི་ཡུལ་མིན་ཏེ། །",
+      "doc_order": 3
+    },
+    {
+      "decimal_id": "1.3",
+      "depth": 2,
+      "frame": false,
+      "label": "རྣལ་འབྱོར་སྤྱོད་པ",
+      "block_id": "^1-3-0",
+      "context": "ཆ་ཤས་ཅན་ཞེས་བྱ་མེད་ཅིང་། །",
+      "context_anchor": "ཆ་ཤས་ཅན་ཞེས་བྱ་མེད་ཅིང་། །",
+      "doc_order": 4
+    },
+    {
+      "decimal_id": "1.4",
+      "depth": 2,
+      "frame": false,
+      "label": "དབུ་མ་པ",
+      "block_id": "^1-4-0",
+      "context": "རྣམ་ཤེས་དམ་པའི་དོན་ལྡན་པ། །",
+      "context_anchor": "རྣམ་ཤེས་དམ་པའི་དོན་ལྡན་པ། །",
+      "doc_order": 5
+    }
+  ]
+}

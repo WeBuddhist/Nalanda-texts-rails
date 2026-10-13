@@ -4,7 +4,7 @@ Running `root-text-toc-extract` on every root text in `0-INBOX/root/`, one text 
 **No ingest yet**: the headings are put into the texts later, together with the updated
 segmentation. This document says where everything is and how to continue.
 
-Updated 2026-10-12 · 440 texts · done 249 · no parts announced 168 · earlier run 22 · failed 1 · running 0 · **to do 0**
+Updated 2026-10-13 · 440 texts · done 242 · no parts announced 179 · earlier run 19 · failed 0 · running 0 · **to do 0**
 
 Size classes (characters of `0-INBOX/root/<id>.md`): small < 30,000 · medium 30,000–199,999 · large ≥ 200,000 — small 358 · medium 58 · large 24. How to run the rest with Gemini: `0-INBOX/temp/root-toc/README.md`.
 
@@ -57,12 +57,12 @@ words end up mid-line under the new rules is placed by hand.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Ar_3CBa_ | medium | 98701 | 613 | earlier-run |  |  |  |  |  |  |  | anchored tree from an earlier run |  |  |
 | 2 | Ar_3CBc_ | medium | 184118 | 914 | earlier-run |  |  |  |  |  |  |  | anchored tree from an earlier run |  |  |
-| 3 | Ar_3CBe_ | small | 5391 | 48 | earlier-run |  |  |  |  |  |  |  | tree, not anchored (earlier run) |  |  |
+| 3 | Ar_3CBe_ | small | 5391 | 48 | done | verse |  |  | 2 | 11 |  | 0 issues | earlier run: tree was already anchored (saved as toc-tree-Ar_3CBe_.md); copied to toc-tree-anchored-, pass 6 clean; preamble II. རྡོ་རྗེ་དྲིལ་བུ་བྱིན་གྱིས་བརླབ། | Claude agents (earlier run) | `TOC-Ar_3CBe_/toc-tree-anchored-Ar_3CBe_.md` |
 | 4 | Ar_3CBf_ | small | 2686 | 16 | earlier-run |  |  |  |  |  |  |  | no tree (earlier run: no parts found) |  |  |
 | 5 | Ar_3CBg_ | medium | 32477 | 181 | earlier-run |  |  |  |  |  |  |  | anchored tree from an earlier run |  |  |
 | 6 | Ar_3CBh_ | medium | 38181 | 262 | earlier-run |  |  |  |  |  |  |  | anchored tree from an earlier run |  |  |
 | 7 | Ar_3CBi_ | small | 18829 | 117 | earlier-run |  |  |  |  |  |  |  | no tree (earlier run: no parts found) |  |  |
-| 8 | Ar_3CBj_ | small | 8792 | 44 | earlier-run |  |  |  |  |  |  |  | tree, not anchored (earlier run) |  |  |
+| 8 | Ar_3CBj_ | small | 8792 | 44 | no-parts | verse | 241 | 1 | 0 | 0 |  |  | finished with Claude: one implicit candidate (ཤིན་ཏུ་རྙེད་དཀའི་རིམ་དབྱེ་), no enumerations — empty tree |  |  |
 | 9 | Ar_3CBk_ | small | 9268 | 65 | earlier-run |  |  |  |  |  |  |  | anchored tree from an earlier run |  |  |
 | 10 | Ar_3CBl_ | small | 5656 | 37 | earlier-run |  |  |  |  |  |  |  | anchored tree from an earlier run |  |  |
 | 11 | Ar_3CBm_ | small | 10396 | 63 | done | prose | 113 | 4 | 4 | 4 | 0→0 | 1 accepted (closing-line title) | four modes of explanation (ཚུལ་བཞི); ཆོས་བདུན list dropped as subject matter |  | `TOC-Ar_3CBm_/toc-tree-anchored-Ar_3CBm_.md` |
@@ -111,10 +111,10 @@ words end up mid-line under the new rules is placed by hand.
 | 54 | At_3CFe_ | small | 7891 | 28 | done | prose | 134 | 1 | 1 | 1 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.2 min | `TOC-At_3CFe_/toc-tree-anchored-At_3CFe_.md` |
 | 55 | At_3CFf_ | small | 8629 | 29 | done | prose | 189 | 2 | 10 | 10 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.04 · 0.4 min | `TOC-At_3CFf_/toc-tree-anchored-At_3CFf_.md` |
 | 56 | At_3CFg_ | small | 2980 | 18 | done | prose | 62 | 1 | 1 | 1 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.2 min | `TOC-At_3CFg_/toc-tree-anchored-At_3CFg_.md` |
-| 57 | At_3CFh_ | small | 5101 | 25 | done | verse | 241 | 2 | 1 | 5 | 0 | 4 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.4 min | `TOC-At_3CFh_/toc-tree-anchored-At_3CFh_.md` |
+| 57 | At_3CFh_ | small | 5101 | 25 | no-parts | verse | 105 | 2 | 0 | 0 |  |  | Claude redo: no parts announced (the Gemini tree had made 4 sub-parts from the letters ཤྲཱི ཧེ རུ ཀ; kept as TOC-At_3CFh_.gemini) | Claude agents (redo) |  |
 | 58 | At_3CFj_ | small | 4646 | 11 | no-parts | verse | 219 | 2 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
 | 59 | At_3CFl_ | small | 2453 | 13 | no-parts | verse | 125 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
-| 60 | At_3CFm_ | small | 6017 | 48 | done | prose | 150 | 1 | 2 | 2 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.2 min | `TOC-At_3CFm_/toc-tree-anchored-At_3CFm_.md` |
+| 60 | At_3CFm_ | small | 6017 | 48 | no-parts | prose | 37 | 1 | 0 | 0 |  |  | Claude redo: no parts announced (Gemini tree kept as TOC-At_3CFm_.gemini) | Claude agents (redo) |  |
 | 61 | At_3CFn_ | small | 4017 | 22 | no-parts | prose | 88 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
 | 62 | At_3CFo_ | small | 2854 | 20 | no-parts | verse | 172 | 2 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
 | 63 | At_3CFp_ | small | 2454 | 13 | no-parts | verse | 125 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
@@ -134,7 +134,7 @@ words end up mid-line under the new rules is placed by hand.
 | 77 | At_3CG3 | small | 2167 | 15 | done | verse | 125 | 1 | 1 | 3 | 0 | 2 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.3 min | `TOC-At_3CG3/toc-tree-anchored-At_3CG3.md` |
 | 78 | At_3CG4 | small | 1997 | 14 | no-parts | verse | 110 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 79 | At_3CG5 | small | 19489 | 129 | done | verse | 1129 | 9 | 2 | 27 | 0 | 10 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.09 · 0.5 min | `TOC-At_3CG5/toc-tree-anchored-At_3CG5.md` |
-| 80 | At_3CG6 | small | 5381 | 37 | done | verse | 315 | 3 | 1 | 7 | 0 | 4 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.2 min | `TOC-At_3CG6/toc-tree-anchored-At_3CG6.md` |
+| 80 | At_3CG6 | small | 5381 | 37 | done | verse | 124 | 3 | 2 | 3 | 0→0 | 0 issues | Claude redo: 2 parts (topic headers), preamble II. དམ་ཚིག་ལྷ་བསྐྱེད་པ།; anchors keep the footnote markers (Gemini tree kept as TOC-At_3CG6.gemini) | Claude agents (redo) | `TOC-At_3CG6/toc-tree-anchored-At_3CG6.md` |
 | 81 | At_3CG7 | small | 1447 | 8 | no-parts | verse | 94 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 82 | At_3CG8 | small | 2298 | 17 | done | verse | 141 | 1 | 3 | 3 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.2 min | `TOC-At_3CG8/toc-tree-anchored-At_3CG8.md` |
 | 83 | At_3CG9 | small | 8206 | 60 | done | prose | 160 | 2 | 4 | 4 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.3 min | `TOC-At_3CG9/toc-tree-anchored-At_3CG9.md` |
@@ -155,11 +155,11 @@ words end up mid-line under the new rules is placed by hand.
 | 98 | At_3CGH | small | 2255 | 15 | no-parts | prose | 51 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
 | 99 | At_3CGh_ | small | 3571 | 17 | done | prose | 55 | 1 | 2 | 8 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.4 min | `TOC-At_3CGh_/toc-tree-anchored-At_3CGh_.md` |
 | 100 | At_3CGI | small | 1933 | 14 | earlier-run |  |  |  |  |  |  |  | no tree (earlier run: no parts found) |  |  |
-| 101 | At_3CGi_ | small | 3122 | 15 | done | prose | 45 | 1 | 13 | 13 | 0 | 13 flags | Gemini run — review the top-level parts; 14 node(s) without an anchor ([[?]]) | 3.8-flash low · $0.02 · 0.3 min | `TOC-At_3CGi_/toc-tree-anchored-At_3CGi_.md` |
+| 101 | At_3CGi_ | small | 3122 | 15 | no-parts | prose | 14 | 1 | 0 | 0 |  |  | Claude redo: no parts announced (the Gemini tree had listed the 13 rites of the series; kept as TOC-At_3CGi_.gemini) | Claude agents (redo) |  |
 | 102 | At_3CGJ | small | 3902 | 25 | done | verse | 231 | 2 | 4 | 4 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.2 min | `TOC-At_3CGJ/toc-tree-anchored-At_3CGJ.md` |
 | 103 | At_3CGj_ | small | 10468 | 29 | no-parts | prose | 141 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
 | 104 | At_3CGK | small | 1849 | 9 | done | prose | 33 | 1 | 2 | 2 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.2 min | `TOC-At_3CGK/toc-tree-anchored-At_3CGK.md` |
-| 105 | At_3CGk_ | small | 3469 | 9 | done | prose | 89 | 1 | 1 | 6 | 0 | 4 flags | Gemini run — review the top-level parts; 1 node(s) without an anchor ([[?]]) | 3.8-flash low · $0.01 · 0.2 min | `TOC-At_3CGk_/toc-tree-anchored-At_3CGk_.md` |
+| 105 | At_3CGk_ | small | 3469 | 9 | no-parts | prose | 8 | 1 | 0 | 0 |  |  | Claude redo: no parts — the list of signs (ཕྱི་/ནང་/མི་འགྲུབ་/ལྡོག་) is content, not parts (Gemini tree kept as TOC-At_3CGk_.gemini) | Claude agents (redo) |  |
 | 106 | At_3CGL | small | 2100 | 16 | no-parts | verse | 122 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 107 | At_3CGl_ | small | 1722 | 7 | done | prose | 49 | 1 | 4 | 4 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.2 min | `TOC-At_3CGl_/toc-tree-anchored-At_3CGl_.md` |
 | 108 | At_3CGM | small | 5842 | 44 | done | prose | 114 | 1 | 2 | 4 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.2 min | `TOC-At_3CGM/toc-tree-anchored-At_3CGM.md` |
@@ -171,7 +171,7 @@ words end up mid-line under the new rules is placed by hand.
 | 114 | At_3CGP | medium | 32563 | 182 | done | prose | 890 | 7 | 2 | 21 | 0 | 2 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.10 · 0.5 min | `TOC-At_3CGP/toc-tree-anchored-At_3CGP.md` |
 | 115 | At_3CGp_ | small | 1233 | 5 | no-parts | verse | 79 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 116 | At_3CGQ | small | 3596 | 18 | done | prose | 84 | 1 | 9 | 9 | 0 | 3 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.3 min | `TOC-At_3CGQ/toc-tree-anchored-At_3CGQ.md` |
-| 117 | At_3CGq_ | medium | 39250 | 291 | done | verse | 2271 | 18 | 2 | 53 | 0 | 14 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.18 · 0.9 min | `TOC-At_3CGq_/toc-tree-anchored-At_3CGq_.md` |
+| 117 | At_3CGq_ | medium | 39250 | 291 | done | verse | 995 | 18 | 2 | 64 | 1→0 | 14 accepted title-not-near flags | Claude redo: 2 parts + II. preamble; repair dropped unattested 2.5.1 (Gemini tree kept as TOC-At_3CGq_.gemini) | Claude agents (redo) | `TOC-At_3CGq_/toc-tree-anchored-At_3CGq_.md` |
 | 118 | At_3CGR | small | 2846 | 18 | no-parts | verse | 186 | 2 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
 | 119 | At_3CGS | small | 13245 | 41 | done | prose | 219 | 2 | 1 | 23 | 0 | 2 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.06 · 0.6 min | `TOC-At_3CGS/toc-tree-anchored-At_3CGS.md` |
 | 120 | At_3CGs_ | small | 4295 | 17 | done | verse | 273 | 2 | 1 | 7 | 0 | 2 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.3 min | `TOC-At_3CGs_/toc-tree-anchored-At_3CGs_.md` |
@@ -180,7 +180,7 @@ words end up mid-line under the new rules is placed by hand.
 | 123 | At_3CGU | small | 2338 | 9 | no-parts | prose | 47 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
 | 124 | At_3CGu_ | small | 4149 | 32 | done | prose | 68 | 1 | 1 | 3 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.2 min | `TOC-At_3CGu_/toc-tree-anchored-At_3CGu_.md` |
 | 125 | At_3CGV | small | 14308 | 45 | done | prose | 161 | 2 | 3 | 17 | 0 | 9 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.05 · 0.5 min | `TOC-At_3CGV/toc-tree-anchored-At_3CGV.md` |
-| 126 | At_3CGv_ | medium | 75339 | 358 | done | prose | 1634 | 13 | 14 | 52 | 0 | 31 flags | Gemini run — review the top-level parts; 15 node(s) without an anchor ([[?]]) | 3.8-flash low · $0.23 · 1.0 min | `TOC-At_3CGv_/toc-tree-anchored-At_3CGv_.md` |
+| 126 | At_3CGv_ | medium | 75339 | 358 | done | prose | 348 | 13 | 1 | 37 | 0→0 | 1 accepted (1.6.5 title from the enumeration) | Claude redo: 1 part (14 children) + II. preamble; repair dropped 7 listed-but-not-taken-up nodes (Gemini tree kept as TOC-At_3CGv_.gemini) | Claude agents (redo) | `TOC-At_3CGv_/toc-tree-anchored-At_3CGv_.md` |
 | 127 | At_3CGW | small | 6906 | 30 | done | prose | 112 | 1 | 1 | 1 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.4 min | `TOC-At_3CGW/toc-tree-anchored-At_3CGW.md` |
 | 128 | At_3CGX | small | 3442 | 15 | done | prose | 73 | 1 | 1 | 7 | 1→1→1 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.41 · 9.7 min | `TOC-At_3CGX/toc-tree-anchored-At_3CGX.md` |
 | 129 | At_3CGx_ | small | 4784 | 34 | no-parts | verse | 284 | 3 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
@@ -224,7 +224,7 @@ words end up mid-line under the new rules is placed by hand.
 | 167 | At_3CHM | small | 4634 | 35 | done | verse | 281 | 3 | 4 | 6 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.2 min | `TOC-At_3CHM/toc-tree-anchored-At_3CHM.md` |
 | 168 | At_3CHm_ | small | 9226 | 59 | done | prose | 145 | 1 | 1 | 10 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.04 · 0.5 min | `TOC-At_3CHm_/toc-tree-anchored-At_3CHm_.md` |
 | 169 | At_3CHN | small | 3291 | 21 | no-parts | prose | 67 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
-| 170 | At_3CHn_ | small | 20461 | 150 | failed |  |  |  |  |  |  |  | segment step wrote no prepared.md — see the log | gemini-3.8-flash low |  |
+| 170 | At_3CHn_ | small | 20461 | 150 | done | verse | 736 | 6 | 11 | 11 | 0 | 9 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.07 · 0.4 min | `TOC-At_3CHn_/toc-tree-anchored-At_3CHn_.md` |
 | 171 | At_3CHO | small | 5051 | 31 | no-parts | prose | 71 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 172 | At_3CHo_ | small | 2053 | 12 | no-parts | verse | 134 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 173 | At_3CHP | small | 5662 | 43 | no-parts | prose | 103 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
@@ -272,12 +272,12 @@ words end up mid-line under the new rules is placed by hand.
 | 215 | Ch_3CCU | small | 447 | 15 | earlier-run |  |  |  |  |  |  |  | no tree (earlier run: no parts found) |  |  |
 | 216 | Ch_3CCV | small | 7054 | 29 | done | verse | 317 | 3 | 3 | 3 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.2 min | `TOC-Ch_3CCV/toc-tree-anchored-Ch_3CCV.md` |
 | 217 | Ch_3CCX | medium | 98834 | 438 | done | prose | 2010 | 16 | 3 | 56 | 0 | 3 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.36 · 1.5 min | `TOC-Ch_3CCX/toc-tree-anchored-Ch_3CCX.md` |
-| 218 | Ch_3CCZ | small | 9207 | 41 | done | verse | 593 | 5 | 0 | 0 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.04 · 0.5 min | `TOC-Ch_3CCZ/toc-tree-anchored-Ch_3CCZ.md` |
+| 218 | Ch_3CCZ | small | 9207 | 41 | no-parts | verse | 593 | 5 | 0 | 0 | 0 | 0 flags | pass 1 found candidates, pass 3 kept none as a part (tree empty) | 3.8-flash low · $0.04 · 0.5 min |  |
 | 219 | Dh_3CEy_ | small | 2748 | 12 | no-parts | verse | 120 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 220 | Dh_3CF0 | small | 6361 | 37 | no-parts | prose | 53 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
 | 221 | Dh_3CF1 | small | 1227 | 6 | no-parts | verse | 90 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
-| 222 | Dh_3CF2 | medium | 80633 | 489 | done | prose | 2263 | 18 | 11 | 20 | 0 | 4 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.23 · 0.8 min | `TOC-Dh_3CF2/toc-tree-anchored-Dh_3CF2.md` |
-| 223 | Dh_3CF3 | small | 8492 | 57 | done | prose | 170 | 2 | 2 | 4 | 0 | 2 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.3 min | `TOC-Dh_3CF3/toc-tree-anchored-Dh_3CF3.md` |
+| 222 | Dh_3CF2 | medium | 80633 | 489 | done | prose | 394 | 18 | 13 | 13 | 0→0 | 3 accepted closing-line titles | Claude redo: flat tree, 13 rite sections + II. preamble (Gemini tree kept as TOC-Dh_3CF2.gemini) | Claude agents (redo) | `TOC-Dh_3CF2/toc-tree-anchored-Dh_3CF2.md` |
+| 223 | Dh_3CF3 | small | 8492 | 57 | no-parts | prose | 56 | 2 | 0 | 0 |  |  | Claude redo: one untitled candidate dropped as content in pass 3 (Gemini tree kept as TOC-Dh_3CF3.gemini) | Claude agents (redo) |  |
 | 224 | Dh_3CF5 | large | 213273 | 1216 | done | verse | 11776 | 95 | 4 | 4 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash medium · $1.22 · 10.1 min | `TOC-Dh_3CF5/toc-tree-anchored-Dh_3CF5.md` |
 | 225 | Dh_3CF6 | large | 320533 | 2177 | done | prose | 7409 | 60 | 1 | 5 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash medium · $1.69 · 14.2 min | `TOC-Dh_3CF6/toc-tree-anchored-Dh_3CF6.md` |
 | 226 | Dh_3CF7 | medium | 30574 | 232 | done | prose | 558 | 5 | 3 | 23 | 0 | 4 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.10 · 0.7 min | `TOC-Dh_3CF7/toc-tree-anchored-Dh_3CF7.md` |
@@ -306,7 +306,7 @@ words end up mid-line under the new rules is placed by hand.
 | 249 | Ha_3CFJ | large | 667778 | 2134 | done | prose | 8136 | 65 | 18 | 18 | 0 | 10 flags | Gemini run — review the top-level parts | 3.8-flash medium · $5.02 · 0.6 min | `TOC-Ha_3CFJ/toc-tree-anchored-Ha_3CFJ.md` |
 | 250 | Ha_3CFO | medium | 88486 | 647 | done | prose | 2881 | 23 | 8 | 8 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.28 · 0.7 min | `TOC-Ha_3CFO/toc-tree-anchored-Ha_3CFO.md` |
 | 251 | Ka_3CDK | large | 420177 | 1670 | no-parts | prose | 6304 | 51 | 0 | 0 |  |  |  | 3.8-flash medium · $0.61 · 2.9 min |  |
-| 252 | Ka_3CDL | medium | 103971 | 433 | done | verse | 6805 | 55 | 0 | 0 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.35 · 1.4 min | `TOC-Ka_3CDL/toc-tree-anchored-Ka_3CDL.md` |
+| 252 | Ka_3CDL | medium | 103971 | 433 | no-parts | verse | 6805 | 55 | 0 | 0 | 0 | 0 flags | pass 1 found candidates, pass 3 kept none as a part (tree empty) | 3.8-flash low · $0.35 · 1.4 min |  |
 | 253 | Ka_3CDM | medium | 68150 | 238 | done | prose | 1060 | 9 | 3 | 12 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.16 · 0.6 min | `TOC-Ka_3CDM/toc-tree-anchored-Ka_3CDM.md` |
 | 254 | Ka_3CDN | small | 8828 | 9 | earlier-run |  |  |  |  |  |  |  | no tree (earlier run: no parts found) |  |  |
 | 255 | Ka_3CDO | medium | 77906 | 362 | done | prose | 1424 | 12 | 3 | 35 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.22 · 0.9 min | `TOC-Ka_3CDO/toc-tree-anchored-Ka_3CDO.md` |
@@ -332,7 +332,7 @@ words end up mid-line under the new rules is placed by hand.
 | 275 | Na_3C9D | small | 1251 | 8 | no-parts | verse | 86 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
 | 276 | Na_3C9d_ | small | 10605 | 54 | done | verse | 660 | 6 | 5 | 14 | 3→3→3 | 8 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.07 · 0.5 min | `TOC-Na_3C9d_/toc-tree-anchored-Na_3C9d_.md` |
 | 277 | Na_3C9E | small | 1707 | 7 | no-parts | verse | 107 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
-| 278 | Na_3C9e_ | small | 16220 | 70 | earlier-run |  |  |  |  |  |  |  | tree, not anchored (earlier run) |  |  |
+| 278 | Na_3C9e_ | small | 16220 | 70 | no-parts | verse | 452 | 2 | 0 | 0 |  |  | finished with Claude: pass 3 kept neither implicit candidate (བྱང་ཆུབ་སེམས་ཀྱི་བསྒོམ་པ་, རྣམ་ཤེས་རང་བཞིན་) — empty tree |  |  |
 | 279 | Na_3C9F | small | 2933 | 10 | no-parts | verse | 158 | 2 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
 | 280 | Na_3C9G | small | 1998 | 12 | no-parts | verse | 108 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
 | 281 | Na_3C9H | small | 1865 | 13 | no-parts | verse | 93 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
@@ -346,7 +346,7 @@ words end up mid-line under the new rules is placed by hand.
 | 289 | Na_3C9M | small | 4771 | 24 | no-parts | verse | 306 | 3 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
 | 290 | Na_3C9N | small | 15579 | 82 | done | prose | 352 | 3 | 1 | 8 | 0 | 2 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.05 · 0.2 min | `TOC-Na_3C9N/toc-tree-anchored-Na_3C9N.md` |
 | 291 | Na_3C9n_ | medium | 34047 | 236 | done | prose | 1812 | 15 | 26 | 45 | 0 | 21 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.16 · 0.9 min | `TOC-Na_3C9n_/toc-tree-anchored-Na_3C9n_.md` |
-| 292 | Na_3C9O | small | 3394 | 27 | done | verse | 207 | 2 | 6 | 6 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.3 min | `TOC-Na_3C9O/toc-tree-anchored-Na_3C9O.md` |
+| 292 | Na_3C9O | small | 3394 | 27 | done | verse | 73 | 2 | 4 | 7 | 0→0 | 0 issues | Claude redo: 4 topic-header parts; nodes 1 and 2 share the anchor text (lines 9 and 103) — check node 2 lands on the second (Gemini tree kept as TOC-Na_3C9O.gemini) | Claude agents (redo) | `TOC-Na_3C9O/toc-tree-anchored-Na_3C9O.md` |
 | 293 | Na_3C9o_ | small | 5741 | 42 | done | verse | 338 | 3 | 6 | 7 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.3 min | `TOC-Na_3C9o_/toc-tree-anchored-Na_3C9o_.md` |
 | 294 | Na_3C9P | small | 7044 | 52 | done | verse | 422 | 4 | 3 | 3 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.2 min | `TOC-Na_3C9P/toc-tree-anchored-Na_3C9P.md` |
 | 295 | Na_3C9p_ | small | 4062 | 31 | done | verse | 277 | 3 | 2 | 5 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.2 min | `TOC-Na_3C9p_/toc-tree-anchored-Na_3C9p_.md` |
@@ -412,7 +412,7 @@ words end up mid-line under the new rules is placed by hand.
 | 355 | Na_3CAT | small | 21284 | 140 | done | verse | 1054 | 9 | 4 | 10 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.07 · 0.3 min | `TOC-Na_3CAT/toc-tree-anchored-Na_3CAT.md` |
 | 356 | Na_3CAU | small | 1802 | 9 | done | verse | 109 | 1 | 3 | 3 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.2 min | `TOC-Na_3CAU/toc-tree-anchored-Na_3CAU.md` |
 | 357 | Na_3CAu_ | small | 3326 | 16 | no-parts | verse | 214 | 2 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
-| 358 | Na_3CAV | medium | 124020 | 731 | done | prose | 5075 | 41 | 1 | 35 | 0 | 21 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.43 · 1.5 min | `TOC-Na_3CAV/toc-tree-anchored-Na_3CAV.md` |
+| 358 | Na_3CAV | medium | 124020 | 731 | done | prose | 2237 | 41 | 27 | 31 | 0→0 | 20 accepted title-not-near flags | Claude redo: 27 topic-header parts + II. homage preamble; only node 1 has children (Gemini tree kept as TOC-Na_3CAV.gemini) | Claude agents (redo) | `TOC-Na_3CAV/toc-tree-anchored-Na_3CAV.md` |
 | 359 | Na_3CAv_ | small | 710 | 5 | no-parts | prose | 57 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 360 | Na_3CAW | small | 9954 | 36 | done | prose | 150 | 1 | 8 | 8 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.4 min | `TOC-Na_3CAW/toc-tree-anchored-Na_3CAW.md` |
 | 361 | Na_3CAX | medium | 30125 | 81 | done | verse | 1947 | 16 | 13 | 18 | 1→0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.14 · 0.7 min | `TOC-Na_3CAX/toc-tree-anchored-Na_3CAX.md` |
@@ -430,10 +430,10 @@ words end up mid-line under the new rules is placed by hand.
 | 373 | Na_3CBB | medium | 47793 | 376 | done | verse | 2258 | 18 | 15 | 24 | 0 | 8 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.17 · 0.7 min | `TOC-Na_3CBB/toc-tree-anchored-Na_3CBB.md` |
 | 374 | Na_3CBC | small | 1759 | 8 | done | prose | 36 | 1 | 3 | 3 | 0 | 2 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.2 min | `TOC-Na_3CBC/toc-tree-anchored-Na_3CBC.md` |
 | 375 | Na_3CBD | medium | 74311 | 491 | done | verse | 4449 | 36 | 5 | 17 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.26 · 1.0 min | `TOC-Na_3CBD/toc-tree-anchored-Na_3CBD.md` |
-| 376 | Na_3CBE | small | 5816 | 41 | done | verse | 309 | 3 | 0 | 0 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.2 min | `TOC-Na_3CBE/toc-tree-anchored-Na_3CBE.md` |
+| 376 | Na_3CBE | small | 5816 | 41 | no-parts | verse | 309 | 3 | 0 | 0 | 0 | 0 flags | pass 1 found candidates, pass 3 kept none as a part (tree empty) | 3.8-flash low · $0.02 · 0.2 min |  |
 | 377 | Na_3CBF | small | 3035 | 24 | no-parts | verse | 142 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
 | 378 | Na_3CBG | small | 2634 | 15 | no-parts | verse | 167 | 2 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.1 min |  |
-| 379 | Na_3CBH | small | 24344 | 188 | done | verse | 1160 | 10 | 0 | 0 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.08 · 0.3 min | `TOC-Na_3CBH/toc-tree-anchored-Na_3CBH.md` |
+| 379 | Na_3CBH | small | 24344 | 188 | no-parts | verse | 1160 | 10 | 0 | 0 | 0 | 0 flags | pass 1 found candidates, pass 3 kept none as a part (tree empty) | 3.8-flash low · $0.08 · 0.3 min |  |
 | 380 | Na_3CBI | small | 29938 | 311 | earlier-run |  |  |  |  |  |  |  | anchored tree from an earlier run |  |  |
 | 381 | Na_3CBJ | small | 15332 | 153 | done | verse | 547 | 5 | 2 | 2 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.06 · 0.6 min | `TOC-Na_3CBJ/toc-tree-anchored-Na_3CBJ.md` |
 | 382 | Na_3CBK | small | 5199 | 44 | done | prose | 188 | 2 | 5 | 5 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.02 · 0.3 min | `TOC-Na_3CBK/toc-tree-anchored-Na_3CBK.md` |
@@ -469,7 +469,7 @@ words end up mid-line under the new rules is placed by hand.
 | 412 | Sh_3CCy_ | small | 2904 | 16 | done | prose | 92 | 1 | 5 | 5 | 0 | 5 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.2 min | `TOC-Sh_3CCy_/toc-tree-anchored-Sh_3CCy_.md` |
 | 413 | Sh_3CCz_ | small | 3061 | 17 | done | prose | 97 | 1 | 3 | 3 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.01 · 0.2 min | `TOC-Sh_3CCz_/toc-tree-anchored-Sh_3CCz_.md` |
 | 414 | Sh_3CD1 | medium | 41236 | 42 | done | prose | 436 | 4 | 4 | 4 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.09 · 0.3 min | `TOC-Sh_3CD1/toc-tree-anchored-Sh_3CD1.md` |
-| 415 | Sh_3CD2 | medium | 54599 | 212 | done | prose | 1784 | 15 | 35 | 44 | 0 | 1 flags | Gemini run — review the top-level parts; 1 node(s) without an anchor ([[?]]) | 3.8-flash low · $0.20 · 1.1 min | `TOC-Sh_3CD2/toc-tree-anchored-Sh_3CD2.md` |
+| 415 | Sh_3CD2 | medium | 54599 | 212 | done | prose | 795 | 15 | 30 | 30 | 0→0 | 0 issues | Claude redo: flat tree of 30 rite steps + II. preamble; nodes 2/3 and 5/6 are near-identical paired headers — check (Gemini tree kept as TOC-Sh_3CD2.gemini) | Claude agents (redo) | `TOC-Sh_3CD2/toc-tree-anchored-Sh_3CD2.md` |
 | 416 | Sh_3CD3 | medium | 103089 | 435 | done | prose | 1065 | 9 | 1 | 16 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.26 · 0.9 min | `TOC-Sh_3CD3/toc-tree-anchored-Sh_3CD3.md` |
 | 417 | Sh_3CD4 | medium | 75968 | 345 | done | prose | 1145 | 9 | 10 | 10 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.17 · 0.5 min | `TOC-Sh_3CD4/toc-tree-anchored-Sh_3CD4.md` |
 | 418 | Sh_3CD5 | small | 21691 | 93 | done | prose | 281 | 3 | 6 | 6 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.06 · 0.3 min | `TOC-Sh_3CD5/toc-tree-anchored-Sh_3CD5.md` |

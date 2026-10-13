@@ -1,0 +1,3 @@
+# Raw paragraph breaks that end mid-sentence — kept as breaks like all others; listed for a look (a real mid-sentence page break would split one sentence in two)
+
+- …ཀྱེ་ཧོ་སེམས་ནི་ཡེ་ཤེས་ཆེན་པོ་སྟེ། ། ‖ འདི་ལས་གུད་ན་སངས་རྒྱས་མེད། །…

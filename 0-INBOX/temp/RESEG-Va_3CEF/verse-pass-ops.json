@@ -1,0 +1,449 @@
+[
+ {
+  "op": "split",
+  "block": 10,
+  "after": "དེ་ལ་ཡང་ནི་དེ་ཡོད་དོ། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   9,
+   "10.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 17,
+  "after": "ད་ནི་རང་གི་མཚན་ཉིད་བརྗོད་དོ། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   16,
+   "17.a"
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "17.b",
+   18
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 70,
+  "after": "མཚན་མ་མེད་དང་དོན་དམ་དང་།[^37] །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   69,
+   "70.a",
+   "70.b"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 82,
+  "after": "གང་ཕྱིར་དེ་ཡང་སྟོང་པ་ཉིད། །"
+ },
+ {
+  "op": "split",
+  "block": 83,
+  "after": "དགེ་བ་མི་ཟད་བྱ་བའི་ཕྱིར། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   81,
+   "82.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "82.b",
+   "83.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "83.b",
+   84
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 91,
+  "after": "དེ་ནི་དེ་ལས་སྟོང་ཉིད་གཞན། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   90,
+   "91.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "91.b",
+   92
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   173,
+   174
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 221,
+  "after": "མིང་ནི་ཀུན་བརྟགས་པར་བསྡུའོ། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   220,
+   "221.a"
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   232,
+   233
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 258,
+  "after": "དེ་ཡི་རྒྱུ་ནི་སྒྲུབ་པ་ཡིན། །"
+ },
+ {
+  "op": "split",
+  "block": 260,
+  "after": "གཉེན་པོའི་ཕྱིར་ལམ་གྱི་བདེན་པའོ། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "258.b",
+   259,
+   "260.a"
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "split",
+  "block": 262,
+  "after": "ཐ་མ་ཉིད་དུ་བཤད་པ་ཡིན། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "262.b",
+   263
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "split",
+  "block": 271,
+  "after": "འདི་ལྟར།"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "271.b",
+   272
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 279,
+  "after": "འདི་དག་ཉེས་པ་ལྔར་འདོད་དོ།[^211] །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   278,
+   "279.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 281,
+  "after": "རྒྱུ་དང་འབྲས་བུ་ཉིད་དུའོ། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "281.b",
+   282
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "split",
+  "block": 286,
+  "after": "དེ་དག་ལས་ཇི་ལྟར་རྣམ་པར་གཞག་ཅེ་ན།"
+ },
+ {
+  "op": "split",
+  "block": 287,
+  "after": "མི་འཕྲོ་རྣམ་པར་འབྱེད་ཀྱང་ངོ་། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "286.b",
+   "287.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "287.b",
+   288
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   312,
+   313
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 316,
+  "after": "ཆོས་ཀྱི་དབྱིངས་ལ་རྣམ་གསུམ་སྟེ། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   315,
+   "316.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   324,
+   325
+  ],
+  "join": "line"
+ },
+ {
+  "op": "unline",
+  "block": 327
+ },
+ {
+  "op": "split",
+  "block": 339,
+  "after": "ཁྱད་པར་ཅན་དང་ཁྱད་པར་མེད། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   338,
+   "339.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 345,
+  "after": "དེའི་ཕྱིར༌[^260]དམ་པའི་དོན་གྱིས་ནི།[^261] །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "345.a",
+   "345.b"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 349,
+  "after": "འདི་དག་ཕ་རོལ་ཕྱིན་པ་བཅུ།[^266] །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   348,
+   "349.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   351,
+   352
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   364,
+   365
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 369,
+  "after": "ཁྱད་པར་ཕྱིར་དང་མི་ཟད་ཕྱིར། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "369.b",
+   370
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   376,
+   377
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   387,
+   388
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 400,
+  "after": "ཀུན་ནས་ཉོན་མོངས་རྣམ་དག་མེད། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "400.a",
+   "400.b"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "split",
+  "block": 405,
+  "after": "རྡོ་རྗེའི་ཚིག་ལྷག་མ་རྣམས་སོ། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   404,
+   "405.a"
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "405.b",
+   406
+  ],
+  "join": "line"
+ },
+ {
+  "op": "unline",
+  "block": 409
+ },
+ {
+  "op": "split",
+  "block": 422,
+  "after": "རྣམ་པར་བྱང་ལ་གཉིས་དང་གསུམ། །"
+ },
+ {
+  "op": "split",
+  "block": 423,
+  "after": "ཞི་བྱེད་སྐྲག་བྱ་དེ་ལ༌[^326]འཇིགས། །"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   420,
+   421,
+   "422.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "422.b",
+   "423.a"
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   "423.b",
+   424
+  ],
+  "join": "line"
+ },
+ {
+  "op": "unline",
+  "block": 428
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   428,
+   429
+  ],
+  "join": "prose"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   457,
+   458
+  ],
+  "join": "line"
+ },
+ {
+  "op": "merge",
+  "blocks": [
+   462,
+   463
+  ],
+  "join": "line"
+ }
+]

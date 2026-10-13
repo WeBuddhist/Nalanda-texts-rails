@@ -1,0 +1,31 @@
+[wrapper] GEMINI_THINKING=medium
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\As_3CDh_.units.md
+Commentary:   As_3CDh_
+Lines:        38  ->  1 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\toc-candidates-As_3CDh_.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\toc-tree-As_3CDh_.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–38)  → Gemini ...
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–38)  → Gemini ...
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 0 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\toc-candidates-As_3CDh_.md
+✓ Pass 2: 0 enumeration blocks across 1 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\toc-candidates-As_3CDh_.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\toc-tree-As_3CDh_.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDh_\toc-tree-qc-As_3CDh_.md

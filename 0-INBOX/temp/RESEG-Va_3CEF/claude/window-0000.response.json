@@ -1,0 +1,14 @@
+[
+  {"op": "merge", "blocks": [6, 7]},
+  {"op": "merge", "blocks": [12, 13]},
+  {"op": "merge", "blocks": [15, 16, 17, 18]},
+  {"op": "merge", "blocks": [20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]},
+  {"op": "merge", "blocks": [35, 36, 37, 38, 39, 40]},
+  {"op": "merge", "blocks": [42, 43]},
+  {"op": "merge", "blocks": [47, 48, 49, 50]},
+  {"op": "merge", "blocks": [54, 55, 56]},
+  {"op": "merge", "blocks": [60, 61]},
+  {"op": "merge", "blocks": [65, 66]},
+  {"op": "merge", "blocks": [70, 71, 72]},
+  {"op": "merge", "blocks": [76, 77, 78, 79, 80]}
+]

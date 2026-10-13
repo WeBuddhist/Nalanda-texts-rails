@@ -1,0 +1,28 @@
+
+=== 2026-10-12 16:37:46
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Na_3CAD.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAD
+prose: 64 sentences, 199 verse lines in 26 passage(s) · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 11, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །ཕྱག་ན་རྡོ་རྗེའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAD --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAD\toc-tree-anchored-Na_3CAD.md
+prose: 65 sentences, 199 verse lines in 26 passage(s) · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 11, first body heading moved up 5 pāda(s) to follow the front matter, 1 unit(s) split by a heading inside them · body headings: 0 not placed · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །ཕྱག་ན་རྡོ་རྗེའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## སྔོན་དུ་བསྙེན་པ་བྱ་བ། ^1-0
+   ## སའི་ཆོ་ག། ^2-0
+   ## ལྷ་ལ་གསོལ་བ་གདབ་པའི་ཆོ་ག། ^3-0
+   ## ལྷ་ལྷག་པར་གནས་པར་བྱ་བ། ^4-0
+   ## བུམ་པ་ལྷག་པར་གནས་པ། ^5-0
+   ## སློབ་མ་ལྷག་པར་གནས་པ། ^6-0
+   ## ཚོན་དགྱེ་བ། ^7-0
+   ## དཀྱིལ་འཁོར་དུ་འཇུག་ཅིང་དབང་བསྐུར་བ། ^8-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAD
+297 lines — no split needed: one subagent on group-in.md → groups-prose.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAD
+   ✓ final-prose.md: letters identical; 16 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAD\final-prose.md: 49 paragraphs (sentences per paragraph: 1 ×33, 2 ×16) · 39 stanzas (3 lines ×1, 4 lines ×20, 5 lines ×4, 6 lines ×7, 7 lines ×4, 8 lines ×1, 9 lines ×2)
+

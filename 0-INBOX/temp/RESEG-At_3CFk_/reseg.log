@@ -1,0 +1,29 @@
+Input:      0-INBOX\temp\segmented-commentary-with-toc\At_3CFk_.toc.md
+ID:         At_3CFk_
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-At_3CFk_\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\At_3CFk_.reseg.md
+
+Blocks: 71  (headings: 15, content: 56)
+Windows: 2  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 11
+  MERGE [12, 13]
+  MERGE [14, 15, 16]
+  MERGE [33, 34]
+  MERGE [39, 40]
+  MERGE [45, 46]
+  MERGE [47, 48, 49]
+  MERGE [51, 52]
+  MERGE [53, 54]
+  MERGE [57, 58, 59]
+  MERGE [62, 63, 64, 65]
+  MERGE [66, 67]
+
+Blocks: 71 → 55
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\At_3CFk_.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\At_3CFk_.ops.md

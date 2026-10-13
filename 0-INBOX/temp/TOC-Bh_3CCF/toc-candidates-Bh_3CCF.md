@@ -2,7 +2,7 @@
 source: Bh_3CCF
 skill: commentary-toc-extract
 stage: candidates
-date: 2026-10-12
+date: 2026-10-13
 model: gemini-3.8-flash
 total_candidates: 0
 duplicates_removed: 0
@@ -36,6 +36,6 @@ duplicates_removed: 0
 
 <!-- no candidates -->
 
-<!-- chunk 007 | lines 876–923 | source: Bh_3CCF -->
+<!-- chunk 007 | lines 876–926 | source: Bh_3CCF -->
 
 <!-- no candidates -->

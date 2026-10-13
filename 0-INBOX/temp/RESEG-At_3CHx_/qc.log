@@ -1,0 +1,38 @@
+Input:  0-INBOX\resegmented\At_3CHx_.reseg.md
+ID:     At_3CHx_
+
+Blocks: 97
+
+Step 1 — Deterministic checks...
+  12 flag(s) found.
+  Block 13 — CONNECTOR_ENDING
+  Block 20 — CONNECTOR_ENDING
+  Block 22 — CONNECTOR_ENDING
+  Block 24 — CONNECTOR_ENDING
+  Block 27 — CONNECTOR_ENDING
+  Block 40 — SHORT_FRAGMENT (3 syl)
+  Block 44 — SHORT_FRAGMENT (2 syl)
+  Block 49 — SHORT_FRAGMENT (2 syl)
+  Block 51 — SHORT_FRAGMENT (3 syl)
+  Block 54 — CONNECTOR_ENDING
+  Block 82 — CONNECTOR_ENDING
+  Block 97 — OVER_LENGTH (319 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 4 correction(s):
+    MERGE [39, 40]
+    MERGE [44, 45]
+    MERGE [48, 49]
+    MERGE [51, 52]
+  ✓ Integrity check passed. Blocks: 97 → 93
+
+Step 3 — Re-checking after repair...
+  8 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\At_3CHx_.reseg.md
+
+QC report: 0-INBOX\resegmented\At_3CHx_.qc.md
+
+────────────────────────────────────────
+Flags before : 12
+Flags after  : 8
+Corrections  : 4

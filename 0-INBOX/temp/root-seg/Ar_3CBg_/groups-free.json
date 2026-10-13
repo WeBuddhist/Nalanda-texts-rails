@@ -1,0 +1,1204 @@
+{
+ "stanzas": [
+  [
+   1,
+   8
+  ],
+  [
+   9,
+   12
+  ],
+  [
+   13,
+   17
+  ],
+  [
+   18,
+   22
+  ],
+  [
+   23,
+   23
+  ],
+  [
+   24,
+   28
+  ],
+  [
+   29,
+   31
+  ],
+  [
+   32,
+   35
+  ],
+  [
+   36,
+   37
+  ],
+  [
+   38,
+   46
+  ],
+  [
+   47,
+   49
+  ],
+  [
+   50,
+   54
+  ],
+  [
+   55,
+   55
+  ],
+  [
+   56,
+   59
+  ],
+  [
+   60,
+   65
+  ],
+  [
+   66,
+   71
+  ],
+  [
+   72,
+   75
+  ],
+  [
+   76,
+   80
+  ],
+  [
+   81,
+   84
+  ],
+  [
+   85,
+   86
+  ],
+  [
+   87,
+   92
+  ],
+  [
+   93,
+   97
+  ],
+  [
+   98,
+   103
+  ],
+  [
+   104,
+   108
+  ],
+  [
+   109,
+   112
+  ],
+  [
+   113,
+   116
+  ],
+  [
+   117,
+   118
+  ],
+  [
+   119,
+   122
+  ],
+  [
+   123,
+   126
+  ],
+  [
+   127,
+   130
+  ],
+  [
+   131,
+   132
+  ],
+  [
+   133,
+   137
+  ],
+  [
+   138,
+   142
+  ],
+  [
+   143,
+   146
+  ],
+  [
+   147,
+   149
+  ],
+  [
+   150,
+   153
+  ],
+  [
+   154,
+   160
+  ],
+  [
+   161,
+   164
+  ],
+  [
+   165,
+   170
+  ],
+  [
+   171,
+   175
+  ],
+  [
+   176,
+   179
+  ],
+  [
+   180,
+   183
+  ],
+  [
+   184,
+   191
+  ],
+  [
+   192,
+   196
+  ],
+  [
+   197,
+   199
+  ],
+  [
+   200,
+   204
+  ],
+  [
+   205,
+   208
+  ],
+  [
+   209,
+   211
+  ],
+  [
+   212,
+   214
+  ],
+  [
+   215,
+   218
+  ],
+  [
+   219,
+   220
+  ],
+  [
+   221,
+   223
+  ],
+  [
+   224,
+   227
+  ],
+  [
+   228,
+   231
+  ],
+  [
+   232,
+   235
+  ],
+  [
+   236,
+   238
+  ],
+  [
+   239,
+   242
+  ],
+  [
+   243,
+   246
+  ],
+  [
+   247,
+   249
+  ],
+  [
+   250,
+   255
+  ],
+  [
+   256,
+   259
+  ],
+  [
+   260,
+   263
+  ],
+  [
+   264,
+   267
+  ],
+  [
+   268,
+   270
+  ],
+  [
+   271,
+   274
+  ],
+  [
+   275,
+   278
+  ],
+  [
+   279,
+   281
+  ],
+  [
+   282,
+   285
+  ],
+  [
+   286,
+   289
+  ],
+  [
+   290,
+   293
+  ],
+  [
+   294,
+   298
+  ],
+  [
+   299,
+   302
+  ],
+  [
+   303,
+   307
+  ],
+  [
+   308,
+   311
+  ],
+  [
+   312,
+   315
+  ],
+  [
+   316,
+   318
+  ],
+  [
+   319,
+   322
+  ],
+  [
+   323,
+   326
+  ],
+  [
+   327,
+   330
+  ],
+  [
+   331,
+   334
+  ],
+  [
+   335,
+   338
+  ],
+  [
+   339,
+   342
+  ],
+  [
+   343,
+   345
+  ],
+  [
+   346,
+   349
+  ],
+  [
+   350,
+   353
+  ],
+  [
+   354,
+   356
+  ],
+  [
+   357,
+   360
+  ],
+  [
+   361,
+   364
+  ],
+  [
+   365,
+   367
+  ],
+  [
+   368,
+   371
+  ],
+  [
+   372,
+   375
+  ],
+  [
+   376,
+   377
+  ],
+  [
+   378,
+   379
+  ],
+  [
+   380,
+   383
+  ],
+  [
+   384,
+   387
+  ],
+  [
+   388,
+   391
+  ],
+  [
+   392,
+   395
+  ],
+  [
+   396,
+   399
+  ],
+  [
+   400,
+   403
+  ],
+  [
+   404,
+   407
+  ],
+  [
+   408,
+   411
+  ],
+  [
+   412,
+   415
+  ],
+  [
+   416,
+   419
+  ],
+  [
+   420,
+   423
+  ],
+  [
+   424,
+   427
+  ],
+  [
+   428,
+   432
+  ],
+  [
+   433,
+   435
+  ],
+  [
+   436,
+   438
+  ],
+  [
+   439,
+   441
+  ],
+  [
+   442,
+   442
+  ],
+  [
+   443,
+   447
+  ],
+  [
+   448,
+   448
+  ],
+  [
+   449,
+   452
+  ],
+  [
+   453,
+   455
+  ],
+  [
+   456,
+   456
+  ],
+  [
+   457,
+   461
+  ],
+  [
+   462,
+   462
+  ],
+  [
+   463,
+   467
+  ],
+  [
+   468,
+   468
+  ],
+  [
+   469,
+   473
+  ],
+  [
+   474,
+   474
+  ],
+  [
+   475,
+   479
+  ],
+  [
+   480,
+   480
+  ],
+  [
+   481,
+   485
+  ],
+  [
+   486,
+   486
+  ],
+  [
+   487,
+   491
+  ],
+  [
+   492,
+   492
+  ],
+  [
+   493,
+   495
+  ],
+  [
+   496,
+   496
+  ],
+  [
+   497,
+   499
+  ],
+  [
+   500,
+   500
+  ],
+  [
+   501,
+   503
+  ],
+  [
+   504,
+   504
+  ],
+  [
+   505,
+   507
+  ],
+  [
+   508,
+   508
+  ],
+  [
+   509,
+   510
+  ],
+  [
+   511,
+   511
+  ],
+  [
+   512,
+   514
+  ],
+  [
+   515,
+   515
+  ],
+  [
+   516,
+   518
+  ],
+  [
+   519,
+   519
+  ],
+  [
+   520,
+   520
+  ],
+  [
+   521,
+   525
+  ],
+  [
+   526,
+   526
+  ],
+  [
+   527,
+   529
+  ],
+  [
+   530,
+   531
+  ],
+  [
+   532,
+   534
+  ],
+  [
+   535,
+   535
+  ],
+  [
+   536,
+   540
+  ],
+  [
+   541,
+   543
+  ],
+  [
+   544,
+   544
+  ],
+  [
+   545,
+   549
+  ],
+  [
+   550,
+   550
+  ],
+  [
+   551,
+   552
+  ],
+  [
+   553,
+   553
+  ],
+  [
+   554,
+   556
+  ],
+  [
+   557,
+   557
+  ],
+  [
+   558,
+   562
+  ],
+  [
+   563,
+   563
+  ],
+  [
+   564,
+   566
+  ],
+  [
+   567,
+   567
+  ],
+  [
+   568,
+   570
+  ],
+  [
+   571,
+   571
+  ],
+  [
+   572,
+   573
+  ],
+  [
+   574,
+   574
+  ],
+  [
+   575,
+   575
+  ],
+  [
+   576,
+   578
+  ],
+  [
+   579,
+   579
+  ],
+  [
+   580,
+   582
+  ],
+  [
+   583,
+   583
+  ],
+  [
+   584,
+   585
+  ],
+  [
+   586,
+   586
+  ],
+  [
+   587,
+   590
+  ],
+  [
+   591,
+   591
+  ],
+  [
+   592,
+   596
+  ],
+  [
+   597,
+   597
+  ],
+  [
+   598,
+   602
+  ],
+  [
+   603,
+   603
+  ],
+  [
+   604,
+   605
+  ],
+  [
+   606,
+   606
+  ],
+  [
+   607,
+   608
+  ],
+  [
+   609,
+   609
+  ],
+  [
+   610,
+   614
+  ],
+  [
+   615,
+   615
+  ],
+  [
+   616,
+   618
+  ],
+  [
+   619,
+   619
+  ],
+  [
+   620,
+   622
+  ],
+  [
+   623,
+   623
+  ],
+  [
+   624,
+   626
+  ],
+  [
+   627,
+   627
+  ],
+  [
+   628,
+   630
+  ],
+  [
+   631,
+   631
+  ],
+  [
+   632,
+   633
+  ],
+  [
+   634,
+   634
+  ],
+  [
+   635,
+   636
+  ],
+  [
+   637,
+   637
+  ],
+  [
+   638,
+   640
+  ],
+  [
+   641,
+   641
+  ],
+  [
+   642,
+   642
+  ],
+  [
+   643,
+   647
+  ],
+  [
+   648,
+   648
+  ],
+  [
+   649,
+   656
+  ],
+  [
+   657,
+   657
+  ],
+  [
+   658,
+   661
+  ],
+  [
+   662,
+   667
+  ],
+  [
+   668,
+   668
+  ],
+  [
+   669,
+   672
+  ],
+  [
+   673,
+   676
+  ],
+  [
+   677,
+   680
+  ],
+  [
+   681,
+   684
+  ],
+  [
+   685,
+   688
+  ],
+  [
+   689,
+   691
+  ],
+  [
+   692,
+   695
+  ],
+  [
+   696,
+   700
+  ],
+  [
+   701,
+   704
+  ],
+  [
+   705,
+   708
+  ],
+  [
+   709,
+   712
+  ],
+  [
+   713,
+   716
+  ],
+  [
+   717,
+   720
+  ],
+  [
+   721,
+   724
+  ],
+  [
+   725,
+   728
+  ],
+  [
+   729,
+   732
+  ],
+  [
+   733,
+   736
+  ],
+  [
+   737,
+   740
+  ],
+  [
+   741,
+   742
+  ],
+  [
+   743,
+   748
+  ],
+  [
+   749,
+   754
+  ],
+  [
+   755,
+   758
+  ],
+  [
+   759,
+   762
+  ],
+  [
+   763,
+   764
+  ],
+  [
+   765,
+   770
+  ],
+  [
+   771,
+   774
+  ],
+  [
+   775,
+   779
+  ],
+  [
+   780,
+   783
+  ],
+  [
+   784,
+   787
+  ],
+  [
+   788,
+   792
+  ],
+  [
+   793,
+   793
+  ],
+  [
+   794,
+   797
+  ],
+  [
+   798,
+   799
+  ],
+  [
+   800,
+   804
+  ],
+  [
+   805,
+   808
+  ],
+  [
+   809,
+   812
+  ],
+  [
+   813,
+   817
+  ],
+  [
+   818,
+   822
+  ],
+  [
+   823,
+   823
+  ],
+  [
+   824,
+   824
+  ],
+  [
+   825,
+   825
+  ],
+  [
+   826,
+   830
+  ],
+  [
+   831,
+   834
+  ],
+  [
+   835,
+   838
+  ],
+  [
+   839,
+   843
+  ],
+  [
+   844,
+   846
+  ],
+  [
+   847,
+   848
+  ],
+  [
+   849,
+   851
+  ],
+  [
+   852,
+   854
+  ],
+  [
+   855,
+   855
+  ],
+  [
+   856,
+   859
+  ]
+ ],
+ "notes": {
+  "1": "P4 ends in connective ཏེ (homage to Nagarjuna); the sentence closes at བཤད་པར་བྱ (P8)",
+  "13": "prose sentence (setting, posture, mandala) runs through connectives to བྱའོ (P17)",
+  "18": "lead line དེ་སྐད་དུ་ཡང་ attaches to the quoted stanza it introduces",
+  "23": "prose rubric ཅེས་གསུངས་པའི་ཕྱིར་རོ stands alone",
+  "24": "prose: right-hand visualization runs through connectives to བྱའོ (P28)",
+  "29": "prose: left-hand visualization closes at བྱའོ (P31)",
+  "36": "prose: throat/tongue purification closes at སྦྱང་ངོ (P37)",
+  "38": "long prose visualization of Vajrasattva, split where the description ends (བསམས་ལ)",
+  "47": "mantra recitation and burning of obstacles, closing at བསམ་མོ (P49)",
+  "50": "lead line དེ་སྐད་དུ attaches to the quoted stanza",
+  "55": "prose rubric ཞེས་པས་བཤད་པས་སོ stands alone",
+  "60": "summoning and samaya-mudra, one sentence closing at བྱའོ (P65)",
+  "66": "lead line (offer the seat) plus the offering sentence, ending before the bell",
+  "76": "self-offering instruction with its three mantras",
+  "85": "short refuge sentence closes at སྐྱབས་སུ་མཆི (P86); P87 starts a new refuge",
+  "87": "second refuge sentence runs to སྐྱབས་སུ་མཆི (P92)",
+  "93": "lead line (recite the bodhicitta verse) attaches to the stanza",
+  "98": "prose: emptiness meditation with mantra, closing at ཞེས་བརྗོད་དོ (P103)",
+  "104": "prose: elements, Meru and palace, introducing the verse description",
+  "117": "banners on the gates, sentence closes at P118; P119 begins the gate-by-gate list",
+  "131": "two-line closing remark on the colours; seats follow as a new unit",
+  "133": "seats of the centre and four cardinal directions",
+  "138": "seats of the intermediate directions and the gates",
+  "147": "prose: protection wheel (fence, net, stakes)",
+  "154": "lead line (four goddesses exhort) with its six exhortation-mantra lines",
+  "165": "mantra with the purification sentence that follows, ending before the lead line དེ་ནས",
+  "171": "lead line དེ་ནས attaches to the first stanza of the deity description",
+  "184": "right then left hands: P187 ends in connective ཞིང, the sentence closes at བསྒོམ་པར་བྱ (P191)",
+  "192": "P195 ends in ནས་སུ; the consort's embrace closes at ཐིམ་པར་མཛད (P196)",
+  "197": "consort's ornaments and union, closing at བཞུགས (P199)",
+  "200": "lead line (place eight syllables) attaches to the first four syllables",
+  "209": "prose: summoning and offering to the jnana-dakini, closes at མཆོད་དོ (P211)",
+  "212": "mantra with its prose sentence, closing at བྱའོ (P214)",
+  "219": "prose instruction with its mantra",
+  "221": "prose introduction to the emanation of the mandala, ending in སྟེ",
+  "236": "summoning to the east with the deity's mantra closing the unit",
+  "247": "sentence closes at བསྣམས (P249); P250 ends in connective པས",
+  "250": "seat, garments, placement in the north and the closing mantra",
+  "268": "closing meditation line with the deity's mantra",
+  "279": "hands and ornaments close at བརྒྱན (P281); garments follow",
+  "294": "hands, placement and the deity's mantra",
+  "303": "hands, garments, placement and the deity's mantra",
+  "316": "garments, direction and the deity's mantra",
+  "343": "placement at the east gate and the deity's mantra",
+  "354": "light, direction and the deity's mantra",
+  "365": "function, direction and the deity's mantra",
+  "376": "two-line closing: radiance and placement in the south",
+  "378": "two-line introduction to the second ring",
+  "428": "prose: inviting the jnana-mandala and entering, one sentence to བྱའོ (P432)",
+  "433": "prose: dharma- and karma-mudra and the empowerment, closing at བྱའོ (P435)",
+  "436": "lead line plus the statement of the name-mantras",
+  "439": "mudra verse with its mantra",
+  "442": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "443": "mudra verse with its mantra",
+  "448": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "453": "conclusion of the mudra with its mantra",
+  "456": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "457": "mudra verse with its mantra",
+  "462": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "463": "mudra verse with its mantra",
+  "468": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "469": "mudra verse with its mantra",
+  "474": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "475": "mudra verse with its mantra",
+  "480": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "481": "mudra verse with its mantra",
+  "486": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "487": "mudra verse with its mantra",
+  "492": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "493": "mudra verse with its mantra",
+  "496": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "497": "mudra verse with its mantra",
+  "500": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "501": "mudra verse with its mantra",
+  "504": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "505": "mudra verse with its mantra",
+  "508": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "509": "mudra verse with its mantra",
+  "511": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "512": "mudra verse with its mantra",
+  "515": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "516": "mudra verse with its mantra",
+  "519": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "520": "summary rubric for the thirteen inner goddesses",
+  "521": "mudra verse with its mantra",
+  "526": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "527": "mudra verse with its mantra",
+  "530": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "532": "mudra verse with its mantra",
+  "535": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "536": "mudra verse (ending in its own label line) with its mantra",
+  "541": "mudra verse with its mantra",
+  "544": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "545": "mudra verse with its mantra",
+  "550": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "551": "mudra verse with its mantra",
+  "553": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "554": "mudra verse with its mantra",
+  "557": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "558": "mudra verse with its mantra",
+  "563": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "564": "mudra verse with its mantra",
+  "567": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "568": "mudra verse with its mantra",
+  "571": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "572": "mudra verse with its mantra",
+  "574": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "575": "summary rubric for the twenty goddesses",
+  "576": "mudra verse with its mantra",
+  "579": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "580": "mudra verse with its mantra",
+  "583": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "584": "mudra verse with its mantra",
+  "586": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "591": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "592": "mudra verse with its mantra",
+  "597": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "598": "mudra verse with its mantra",
+  "603": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "604": "mudra verse with its mantra",
+  "606": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "607": "mudra verse with its mantra",
+  "609": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "610": "mudra verse with its mantra",
+  "615": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "616": "mudra verse with its mantra",
+  "619": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "620": "mudra verse with its mantra",
+  "623": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "624": "mudra verse with its mantra",
+  "627": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "628": "mudra verse with its mantra",
+  "631": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "632": "mudra verse with its mantra",
+  "634": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "635": "mudra verse with its mantra",
+  "637": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "638": "mudra verse with its mantra",
+  "641": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "642": "prose summary sentence of the twenty offerings stands alone",
+  "643": "prose: nectar offering with its mantra",
+  "648": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "649": "prose instruction with its six mantra lines",
+  "657": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "662": "last mudra couplet with the bell mantra",
+  "668": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "689": "list of offering gestures (one long sentence) split so P692's genitive stays with P693",
+  "696": "lead line (then praise) attaches to the first quatrain",
+  "741": "two-line closing instruction of the praise",
+  "743": "lead line plus the first song strophe ending in the ཏེ་ཏེ་ཧཱུྃ refrain",
+  "749": "song strophe ending in the ཏེ་ན་ན་ཏེ་ཏེ་ཧཱུྃ refrain",
+  "763": "last two song lines",
+  "765": "lead line plus the first strophe of the outer yoginis' song, ending in ཧཱུྃ",
+  "775": "song strophe ending in ཧཱུྃ",
+  "788": "prose lead line attaches to the praise stanza",
+  "793": "prose rubric stands alone",
+  "798": "prose: meditation in four sessions, closes at བྱའོ (P799)",
+  "800": "lead line (recitation) attaches to the stanza",
+  "813": "dismissal mudra couplet with its three mantra lines",
+  "818": "mudra verse with its mantra",
+  "823": "label 'mantra and mudra of ...' stands alone as a rubric",
+  "824": "mantra for sending off the worldly gods, followed by its rubric",
+  "825": "rubric stands alone",
+  "826": "prose: dissolution and armour, one sentence to བྱའོ (P830)",
+  "839": "end of the hundred-syllable mantra with the empowerment clause",
+  "844": "armour, request and rising, closing at ལྡང་བར་བྱའོ (P846)",
+  "847": "two-line closing sentence of the practice",
+  "849": "three-line verse sentence closing at བསྒྲུབ་པར་བྱ (P851)",
+  "852": "seed-syllable mantra lines",
+  "855": "prose rubric stands alone"
+ }
+}

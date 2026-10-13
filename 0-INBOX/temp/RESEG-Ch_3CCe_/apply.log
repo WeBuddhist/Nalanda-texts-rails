@@ -1,0 +1,582 @@
+Input:      0-INBOX\temp\segmented-commentary-with-toc\Ch_3CCe_.toc.md
+ID:         Ch_3CCe_
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-Ch_3CCe_\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ch_3CCe_.reseg.md
+
+Blocks: 2710  (headings: 19, content: 2691)
+Windows: 78  (size=40, overlap=5)
+
+  Window 1/78 (blocks 1–40): already staged (7 op(s)) — skipping
+  Window 2/78 (blocks 36–75): already staged (8 op(s)) — skipping
+  Window 3/78 (blocks 71–110): already staged (7 op(s)) — skipping
+  Window 4/78 (blocks 106–145): already staged (5 op(s)) — skipping
+  Window 5/78 (blocks 141–180): already staged (6 op(s)) — skipping
+  Window 6/78 (blocks 176–215): already staged (6 op(s)) — skipping
+  Window 7/78 (blocks 211–250): already staged (5 op(s)) — skipping
+  Window 8/78 (blocks 246–285): already staged (6 op(s)) — skipping
+  Window 9/78 (blocks 281–320): already staged (6 op(s)) — skipping
+  Window 10/78 (blocks 316–355): already staged (5 op(s)) — skipping
+  Window 11/78 (blocks 351–390): already staged (9 op(s)) — skipping
+  Window 12/78 (blocks 386–425): already staged (7 op(s)) — skipping
+  Window 13/78 (blocks 421–460): already staged (8 op(s)) — skipping
+  Window 14/78 (blocks 456–495): already staged (5 op(s)) — skipping
+  Window 15/78 (blocks 491–530): already staged (9 op(s)) — skipping
+  Window 16/78 (blocks 526–565): already staged (7 op(s)) — skipping
+  Window 17/78 (blocks 561–600): already staged (9 op(s)) — skipping
+  Window 18/78 (blocks 596–635): already staged (9 op(s)) — skipping
+  Window 19/78 (blocks 631–670): already staged (8 op(s)) — skipping
+  Window 20/78 (blocks 666–705): already staged (6 op(s)) — skipping
+  Window 21/78 (blocks 701–740): already staged (9 op(s)) — skipping
+  Window 22/78 (blocks 736–775): already staged (7 op(s)) — skipping
+  Window 23/78 (blocks 771–810): already staged (7 op(s)) — skipping
+  Window 24/78 (blocks 806–845): already staged (4 op(s)) — skipping
+  Window 25/78 (blocks 841–880): already staged (7 op(s)) — skipping
+  Window 26/78 (blocks 876–915): already staged (7 op(s)) — skipping
+  Window 27/78 (blocks 911–950): already staged (6 op(s)) — skipping
+  Window 28/78 (blocks 946–985): already staged (7 op(s)) — skipping
+  Window 29/78 (blocks 981–1020): already staged (10 op(s)) — skipping
+  Window 30/78 (blocks 1016–1055): already staged (9 op(s)) — skipping
+  Window 31/78 (blocks 1051–1090): already staged (6 op(s)) — skipping
+  Window 32/78 (blocks 1086–1125): already staged (7 op(s)) — skipping
+  Window 33/78 (blocks 1121–1160): already staged (5 op(s)) — skipping
+  Window 34/78 (blocks 1156–1195): already staged (9 op(s)) — skipping
+  Window 35/78 (blocks 1191–1230): already staged (5 op(s)) — skipping
+  Window 36/78 (blocks 1226–1265): already staged (4 op(s)) — skipping
+  Window 37/78 (blocks 1261–1300): already staged (5 op(s)) — skipping
+  Window 38/78 (blocks 1296–1335): already staged (6 op(s)) — skipping
+  Window 39/78 (blocks 1331–1370): already staged (7 op(s)) — skipping
+  Window 40/78 (blocks 1366–1405): already staged (9 op(s)) — skipping
+  Window 41/78 (blocks 1401–1440): already staged (9 op(s)) — skipping
+  Window 42/78 (blocks 1436–1475): already staged (7 op(s)) — skipping
+  Window 43/78 (blocks 1471–1510): already staged (6 op(s)) — skipping
+  Window 44/78 (blocks 1506–1545): already staged (2 op(s)) — skipping
+  Window 45/78 (blocks 1541–1580): already staged (3 op(s)) — skipping
+  Window 46/78 (blocks 1576–1615): already staged (5 op(s)) — skipping
+  Window 47/78 (blocks 1611–1650): already staged (9 op(s)) — skipping
+  Window 48/78 (blocks 1646–1685): already staged (10 op(s)) — skipping
+  Window 49/78 (blocks 1681–1720): already staged (7 op(s)) — skipping
+  Window 50/78 (blocks 1716–1755): already staged (9 op(s)) — skipping
+  Window 51/78 (blocks 1751–1790): already staged (8 op(s)) — skipping
+  Window 52/78 (blocks 1786–1825): already staged (4 op(s)) — skipping
+  Window 53/78 (blocks 1821–1860): already staged (5 op(s)) — skipping
+  Window 54/78 (blocks 1856–1895): already staged (9 op(s)) — skipping
+  Window 55/78 (blocks 1891–1930): already staged (6 op(s)) — skipping
+  Window 56/78 (blocks 1926–1965): already staged (5 op(s)) — skipping
+  Window 57/78 (blocks 1961–2000): already staged (11 op(s)) — skipping
+  Window 58/78 (blocks 1996–2035): already staged (8 op(s)) — skipping
+  Window 59/78 (blocks 2031–2070): already staged (8 op(s)) — skipping
+  Window 60/78 (blocks 2066–2105): already staged (9 op(s)) — skipping
+  Window 61/78 (blocks 2101–2140): already staged (5 op(s)) — skipping
+  Window 62/78 (blocks 2136–2175): already staged (6 op(s)) — skipping
+  Window 63/78 (blocks 2171–2210): already staged (9 op(s)) — skipping
+  Window 64/78 (blocks 2206–2245): already staged (5 op(s)) — skipping
+  Window 65/78 (blocks 2241–2280): already staged (7 op(s)) — skipping
+  Window 66/78 (blocks 2276–2315): already staged (10 op(s)) — skipping
+  Window 67/78 (blocks 2311–2350): already staged (8 op(s)) — skipping
+  Window 68/78 (blocks 2346–2385): already staged (8 op(s)) — skipping
+  Window 69/78 (blocks 2381–2420): already staged (6 op(s)) — skipping
+  Window 70/78 (blocks 2416–2455): already staged (5 op(s)) — skipping
+  Window 71/78 (blocks 2451–2490): already staged (4 op(s)) — skipping
+  Window 72/78 (blocks 2486–2525): already staged (3 op(s)) — skipping
+  Window 73/78 (blocks 2521–2560): already staged (4 op(s)) — skipping
+  Window 74/78 (blocks 2556–2595): already staged (3 op(s)) — skipping
+  Window 75/78 (blocks 2591–2630): already staged (10 op(s)) — skipping
+  Window 76/78 (blocks 2626–2665): already staged (0 op(s)) — skipping
+  Window 77/78 (blocks 2661–2700): already staged (6 op(s)) — skipping
+  Window 78/78 (blocks 2696–2710): already staged (1 op(s)) — skipping
+
+Operations to apply: 444
+  MERGE [6, 7]
+  MERGE [12, 13]
+  MERGE [15, 16, 17]
+  MERGE [18, 19]
+  MERGE [21, 22]
+  MERGE [32, 33, 34]
+  MERGE [38, 39]
+  MERGE [40, 41, 42, 43, 44, 45, 46]
+  MERGE [49, 50]
+  MERGE [52, 53, 54, 55]
+  MERGE [56, 57, 58, 59, 60]
+  MERGE [61, 62]
+  MERGE [65, 66, 67, 68]
+  MERGE [70, 71]
+  MERGE [73, 74]
+  MERGE [75, 76]
+  MERGE [81, 82]
+  MERGE [85, 86, 87]
+  MERGE [92, 93, 94, 95, 96, 97, 98, 99, 100]
+  MERGE [101, 102, 103, 104, 105, 106]
+  MERGE [108, 109]
+  MERGE [110, 111, 112]
+  MERGE [113, 114]
+  MERGE [117, 118, 119, 120, 121, 122]
+  MERGE [123, 124, 125, 126, 127]
+  MERGE [128, 129]
+  MERGE [158, 159]
+  MERGE [161, 162]
+  MERGE [165, 166]
+  MERGE [170, 171]
+  SPLIT block 173 after: 'དང་པོ་སྦྱིན་པ་ཉིད་ནི་ལྷག་པར་འགྱུར། །'
+  MERGE [179, 180]
+  MERGE [186, 187, 188]
+  MERGE [189, 190, 191, 192]
+  SPLIT block 193 after: 'རྩ་བ༌[^138]ཡིན། །'
+  MERGE [197, 198, 199, 200, 201]
+  MERGE [208, 209, 210, 211]
+  MERGE [212, 213]
+  MERGE [219, 220, 221, 222, 223, 224, 225, 226]
+  MERGE [230, 231, 232, 233, 234, 235, 236]
+  MERGE [239, 240, 241, 242, 243, 244, 245]
+  MERGE [246, 247, 248, 249]
+  MERGE [254, 255]
+  MERGE [258, 259, 260]
+  MERGE [269, 270]
+  MERGE [276, 277]
+  MERGE [280, 281, 282]
+  MERGE [283, 284, 285, 286]
+  MERGE [287, 288, 289, 290]
+  MERGE [305, 306, 307, 308]
+  SPLIT block 313 after: 'དེར་ཡེ་ཤེས་ཀྱི་སྣང་བ་འབྱུང་ངོ་། །'
+  MERGE [315, 316, 317]
+  MERGE [323, 324]
+  MERGE [330, 331]
+  MERGE [338, 339, 340]
+  MERGE [355, 356]
+  MERGE [357, 358, 359, 360, 361, 362, 363]
+  MERGE [365, 366, 367, 368, 369]
+  MERGE [370, 371, 372]
+  MERGE [373, 374, 375, 376, 377]
+  MERGE [378, 379, 380, 381, 382, 383, 384, 385, 386]
+  MERGE [387, 388]
+  MERGE [389, 390, 391]
+  MERGE [392, 393, 394, 395, 396, 397, 398]
+  MERGE [399, 400, 401]
+  MERGE [404, 405, 406, 407, 408, 409, 410]
+  MERGE [414, 415, 416]
+  MERGE [420, 421, 422]
+  MERGE [427, 428, 429, 430]
+  MERGE [431, 432, 433, 434, 435, 436, 437, 438, 439]
+  MERGE [440, 441]
+  MERGE [445, 446, 447]
+  MERGE [448, 449]
+  MERGE [453, 454]
+  MERGE [456, 457, 458, 459, 460]
+  MERGE [462, 463]
+  MERGE [465, 466]
+  MERGE [468, 469, 470, 471, 472, 473, 474, 475, 476, 477]
+  MERGE [479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495]
+  MERGE [499, 500]
+  MERGE [506, 507]
+  MERGE [508, 509]
+  MERGE [511, 512]
+  MERGE [513, 514]
+  MERGE [517, 518]
+  MERGE [519, 520, 521, 522]
+  MERGE [528, 529, 530, 531, 532, 533]
+  MERGE [536, 537]
+  MERGE [538, 539, 540, 541, 542]
+  MERGE [545, 546, 547, 548, 549, 550, 551]
+  MERGE [553, 554, 555, 556]
+  MERGE [557, 558, 559]
+  MERGE [560, 561, 562, 563, 564, 565]
+  MERGE [566, 567]
+  MERGE [569, 570, 571]
+  MERGE [574, 575]
+  MERGE [579, 580, 581, 582, 583]
+  MERGE [584, 585]
+  MERGE [586, 587, 588, 589]
+  MERGE [590, 591, 592, 593, 594]
+  MERGE [595, 596, 597]
+  MERGE [601, 602, 603, 604]
+  MERGE [609, 610]
+  MERGE [611, 612, 613, 614]
+  MERGE [616, 617, 618, 619, 620, 621]
+  MERGE [623, 624]
+  MERGE [625, 626]
+  MERGE [629, 630]
+  MERGE [632, 633]
+  MERGE [635, 636, 637, 638, 639, 640, 641]
+  MERGE [643, 644, 645]
+  MERGE [646, 647]
+  MERGE [650, 651]
+  SPLIT block 652 after: 'འདི་ནི་མི་རུང་ངོ་། ། | བསྟན་པའི་ཕྱིར་བཤད་པ།  | གཉི'
+  MERGE [653, 654]
+  MERGE [662, 663, 664]
+  MERGE [670, 671, 672]
+  MERGE [677, 678, 679, 680]
+  MERGE [682, 683, 684, 685, 686, 687, 688]
+  MERGE [691, 692, 693]
+  MERGE [696, 697, 698, 699, 700, 701]
+  MERGE [704, 705]
+  MERGE [708, 709, 710, 711]
+  MERGE [712, 713]
+  MERGE [715, 716, 717]
+  MERGE [718, 719, 720, 721, 722]
+  MERGE [723, 724, 725]
+  MERGE [728, 729, 730, 731, 732]
+  SPLIT block 734 after: 'གཟིགས་སོ་ཞེས་བརྗོད༌[^537]'
+  MERGE [735, 736, 737, 738, 739, 740]
+  MERGE [741, 742]
+  MERGE [745, 746, 747]
+  MERGE [753, 754]
+  MERGE [757, 758, 759, 760, 761]
+  MERGE [764, 765, 766]
+  MERGE [769, 770, 771]
+  MERGE [772, 773, 774]
+  MERGE [780, 781]
+  MERGE [784, 785, 786]
+  MERGE [793, 794, 795]
+  MERGE [796, 797, 798, 799]
+  MERGE [803, 804]
+  MERGE [810, 811]
+  MERGE [834, 835]
+  MERGE [843, 844]
+  SPLIT block 850 after: 'ཞེས་འབྱུང་ངོ་། །'
+  MERGE [852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862]
+  MERGE [868, 869, 870]
+  MERGE [871, 872]
+  MERGE [874, 875]
+  MERGE [880, 881]
+  MERGE [884, 885]
+  MERGE [893, 894]
+  MERGE [900, 901, 902, 903]
+  MERGE [909, 910]
+  MERGE [913, 914]
+  MERGE [917, 918, 919, 920, 921, 922, 923]
+  MERGE [928, 929]
+  MERGE [938, 939, 940]
+  MERGE [945, 946]
+  MERGE [947, 948]
+  MERGE [966, 967]
+  MERGE [970, 971]
+  MERGE [972, 973]
+  MERGE [976, 977]
+  SPLIT block 978 after: 'དེའི་ཕྱིར་འདི་མི་འགྲུབ་པོ། །'
+  MERGE [979, 980, 981, 982]
+  MERGE [985, 986, 987, 988]
+  MERGE [989, 990]
+  MERGE [992, 993, 994]
+  MERGE [997, 998]
+  MERGE [999, 1000]
+  MERGE [1001, 1002]
+  MERGE [1006, 1007]
+  MERGE [1010, 1011, 1012, 1013]
+  MERGE [1016, 1017, 1018]
+  MERGE [1021, 1022]
+  MERGE [1025, 1026]
+  MERGE [1029, 1030]
+  MERGE [1033, 1034]
+  MERGE [1040, 1041]
+  MERGE [1043, 1044]
+  MERGE [1045, 1046, 1047, 1048]
+  MERGE [1051, 1052, 1053]
+  MERGE [1058, 1059, 1060]
+  MERGE [1061, 1062, 1063, 1064, 1065, 1066, 1067, 1068, 1069, 1070, 1071, 1072]
+  MERGE [1075, 1076, 1077]
+  MERGE [1080, 1081]
+  MERGE [1084, 1085]
+  MERGE [1092, 1093]
+  MERGE [1096, 1097, 1098, 1099]
+  MERGE [1100, 1101, 1102]
+  MERGE [1103, 1104, 1105, 1106, 1107, 1108, 1109, 1110]
+  MERGE [1113, 1114, 1115]
+  MERGE [1118, 1119, 1120, 1121]
+  MERGE [1124, 1125, 1126]
+  MERGE [1129, 1130, 1131]
+  SPLIT block 1138 after: 'འདི་ཡང་ཡོད་པ་ཉིད་དུ་འདོད་པར་གྱིས་ཤིག'
+  SPLIT block 1146 after: 'དེ་ལས་ཉམས་པས་ཐར་པ་གྲུབ་ཡོད་མིན། །'
+  MERGE [1148, 1149]
+  MERGE [1164, 1165]
+  MERGE [1168, 1169, 1170]
+  MERGE [1172, 1173]
+  MERGE [1174, 1175]
+  MERGE [1178, 1179]
+  MERGE [1182, 1183]
+  MERGE [1185, 1186]
+  MERGE [1188, 1189]
+  MERGE [1191, 1192]
+  MERGE [1195, 1196, 1197, 1198, 1199, 1200, 1201, 1202, 1203, 1204, 1205]
+  MERGE [1213, 1214, 1215]
+  MERGE [1221, 1222, 1223, 1224]
+  MERGE [1227, 1228, 1229]
+  MERGE [1232, 1233, 1234, 1235]
+  MERGE [1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244, 1245, 1246, 1247, 1248, 1249, 1250, 1251, 1252, 1253, 1254]
+  MERGE [1255, 1256, 1257, 1258, 1259, 1260, 1261, 1262, 1263, 1264, 1265, 1266, 1267]
+  MERGE [1268, 1269, 1270, 1271]
+  MERGE [1274, 1275, 1276, 1277]
+  MERGE [1281, 1282]
+  MERGE [1284, 1285]
+  MERGE [1300, 1301, 1302, 1303, 1304, 1305]
+  MERGE [1310, 1311]
+  MERGE [1313, 1314]
+  MERGE [1316, 1317, 1318, 1319]
+  MERGE [1326, 1327, 1328]
+  MERGE [1332, 1333]
+  MERGE [1345, 1346]
+  MERGE [1347, 1348, 1349, 1350, 1351, 1352, 1353, 1354]
+  MERGE [1356, 1357, 1358, 1359, 1360, 1361]
+  MERGE [1362, 1363, 1364]
+  MERGE [1365, 1366]
+  MERGE [1367, 1368]
+  MERGE [1370, 1371]
+  MERGE [1372, 1373, 1374, 1375, 1376]
+  MERGE [1377, 1378, 1379, 1380, 1381]
+  MERGE [1384, 1385, 1386, 1387, 1388]
+  MERGE [1391, 1392, 1393, 1394, 1395]
+  MERGE [1397, 1398]
+  MERGE [1399, 1400]
+  MERGE [1401, 1402, 1403, 1404, 1405, 1406, 1407, 1408, 1409, 1410, 1411]
+  MERGE [1413, 1414, 1415]
+  MERGE [1416, 1417, 1418]
+  MERGE [1419, 1420, 1421, 1422, 1423]
+  MERGE [1424, 1425, 1426]
+  MERGE [1428, 1429]
+  MERGE [1431, 1432]
+  MERGE [1433, 1434]
+  MERGE [1438, 1439]
+  MERGE [1443, 1444]
+  MERGE [1447, 1448, 1449]
+  MERGE [1455, 1456]
+  MERGE [1460, 1461]
+  MERGE [1465, 1466, 1467]
+  MERGE [1468, 1469, 1470, 1471]
+  MERGE [1472, 1473]
+  MERGE [1477, 1478]
+  MERGE [1489, 1490]
+  MERGE [1494, 1495]
+  MERGE [1503, 1504]
+  MERGE [1529, 1530]
+  MERGE [1543, 1544, 1545, 1546, 1547, 1548, 1549, 1550, 1551, 1552, 1553]
+  MERGE [1558, 1559, 1560, 1561, 1562, 1563, 1564, 1565, 1566, 1567, 1568, 1569, 1570]
+  MERGE [1571, 1572, 1573, 1574, 1575, 1576, 1577, 1578]
+  MERGE [1580, 1581, 1582, 1583, 1584, 1585, 1586, 1587, 1588, 1589, 1590, 1591, 1592, 1593]
+  MERGE [1594, 1595, 1596, 1597, 1598, 1599, 1600, 1601, 1602, 1603, 1604]
+  MERGE [1605, 1606, 1607]
+  MERGE [1610, 1611, 1612]
+  MERGE [1615, 1616, 1617, 1618]
+  MERGE [1619, 1620]
+  MERGE [1624, 1625]
+  MERGE [1628, 1629]
+  MERGE [1632, 1633, 1634]
+  MERGE [1637, 1638, 1639]
+  SPLIT block 1643 after: 'ལྟ་བར་གསུངས་སོ་ཞེས་སྨྲས་སོ།[^1155] །'
+  MERGE [1645, 1646, 1647, 1648, 1649]
+  MERGE [1652, 1653]
+  MERGE [1654, 1655, 1656]
+  MERGE [1659, 1660]
+  MERGE [1661, 1662]
+  MERGE [1665, 1666, 1667, 1668]
+  MERGE [1669, 1670]
+  MERGE [1673, 1674]
+  MERGE [1676, 1677]
+  MERGE [1681, 1682]
+  MERGE [1688, 1689]
+  MERGE [1691, 1692, 1693]
+  MERGE [1694, 1695, 1696, 1697, 1698, 1699, 1700]
+  MERGE [1701, 1702, 1703]
+  MERGE [1709, 1710, 1711, 1712]
+  MERGE [1715, 1716, 1717]
+  MERGE [1723, 1724, 1725]
+  SPLIT block 1726 after: 'བཞེད་མ་ཡིན། །'
+  MERGE [1733, 1734, 1735]
+  MERGE [1736, 1737]
+  MERGE [1743, 1744]
+  MERGE [1746, 1747, 1748]
+  MERGE [1749, 1750, 1751]
+  MERGE [1752, 1753, 1754]
+  MERGE [1755, 1756]
+  MERGE [1758, 1759]
+  MERGE [1762, 1763]
+  MERGE [1765, 1766, 1767]
+  MERGE [1769, 1770, 1771]
+  MERGE [1775, 1776]
+  MERGE [1778, 1779, 1780, 1781, 1782, 1783, 1784]
+  MERGE [1790, 1791, 1792]
+  MERGE [1795, 1796]
+  MERGE [1805, 1806, 1807, 1808]
+  MERGE [1814, 1815, 1816, 1817, 1818, 1819, 1820]
+  MERGE [1828, 1829]
+  MERGE [1833, 1834]
+  MERGE [1845, 1846, 1847, 1848, 1849]
+  MERGE [1850, 1851]
+  MERGE [1856, 1857, 1858]
+  MERGE [1861, 1862]
+  MERGE [1870, 1871, 1872]
+  MERGE [1873, 1874]
+  MERGE [1879, 1880]
+  MERGE [1881, 1882]
+  MERGE [1884, 1885, 1886, 1887]
+  MERGE [1888, 1889, 1890, 1891]
+  MERGE [1892, 1893]
+  MERGE [1895, 1896, 1897, 1898]
+  MERGE [1902, 1903]
+  MERGE [1909, 1910, 1911]
+  MERGE [1918, 1919, 1920, 1921, 1922]
+  MERGE [1943, 1944, 1945]
+  MERGE [1951, 1952, 1953]
+  MERGE [1955, 1956]
+  MERGE [1957, 1958, 1959, 1960, 1961, 1962, 1963]
+  MERGE [1964, 1965]
+  MERGE [1967, 1968, 1969, 1970, 1971]
+  MERGE [1974, 1975, 1976]
+  MERGE [1977, 1978, 1979, 1980]
+  MERGE [1981, 1982]
+  MERGE [1983, 1984]
+  MERGE [1985, 1986, 1987]
+  MERGE [1989, 1990, 1991]
+  MERGE [1998, 1999]
+  MERGE [2000, 2001]
+  MERGE [2002, 2003, 2004]
+  MERGE [2006, 2007, 2008, 2009]
+  MERGE [2010, 2011, 2012]
+  MERGE [2014, 2015, 2016, 2017, 2018]
+  MERGE [2023, 2024, 2025]
+  MERGE [2034, 2035, 2036]
+  MERGE [2037, 2038, 2039]
+  MERGE [2042, 2043, 2044, 2045]
+  MERGE [2046, 2047, 2048, 2049]
+  MERGE [2051, 2052, 2053, 2054]
+  MERGE [2055, 2056]
+  MERGE [2057, 2058]
+  MERGE [2061, 2062]
+  MERGE [2072, 2073]
+  MERGE [2075, 2076]
+  MERGE [2079, 2080]
+  MERGE [2082, 2083]
+  MERGE [2086, 2087]
+  MERGE [2089, 2090]
+  MERGE [2092, 2093, 2094]
+  MERGE [2097, 2098, 2099]
+  MERGE [2107, 2108, 2109, 2110]
+  MERGE [2120, 2121, 2122]
+  MERGE [2126, 2127, 2128]
+  MERGE [2131, 2132, 2133]
+  MERGE [2135, 2136, 2137, 2138, 2139]
+  MERGE [2143, 2144]
+  MERGE [2154, 2155, 2156, 2157, 2158, 2159, 2160, 2161]
+  MERGE [2162, 2163, 2164, 2165, 2166]
+  MERGE [2167, 2168, 2169, 2170, 2171, 2172]
+  MERGE [2173, 2174, 2175]
+  MERGE [2176, 2177, 2178, 2179, 2180, 2181]
+  MERGE [2182, 2183, 2184, 2185, 2186, 2187]
+  MERGE [2188, 2189, 2190, 2191]
+  MERGE [2192, 2193, 2194, 2195, 2196]
+  MERGE [2197, 2198]
+  MERGE [2199, 2200, 2201, 2202]
+  MERGE [2203, 2204, 2205, 2206]
+  MERGE [2207, 2208, 2209, 2210, 2211, 2212]
+  MERGE [2213, 2214, 2215, 2216, 2217]
+  MERGE [2218, 2219, 2220, 2221, 2222, 2223, 2224, 2225, 2226, 2227, 2228, 2229]
+  MERGE [2230, 2231, 2232, 2233, 2234, 2235, 2236]
+  MERGE [2238, 2239, 2240, 2241, 2242, 2243, 2244, 2245, 2246]
+  MERGE [2247, 2248, 2249, 2250, 2251, 2252, 2253, 2254, 2255]
+  MERGE [2256, 2257, 2258, 2259, 2260, 2261, 2262]
+  MERGE [2263, 2264]
+  MERGE [2265, 2266, 2267, 2268, 2269]
+  MERGE [2275, 2276]
+  MERGE [2279, 2280, 2281, 2282]
+  MERGE [2285, 2286]
+  MERGE [2288, 2289]
+  MERGE [2292, 2293]
+  MERGE [2296, 2297]
+  MERGE [2298, 2299]
+  MERGE [2303, 2304, 2305]
+  SPLIT block 2306 after: 'མ་ཡིན་ནོ་ཞེས་བཤད་པ།  | འགྲོ་བ་མགོན་མེད་པ་ལ་སྙིང་རྗ'
+  MERGE [2308, 2309, 2310]
+  MERGE [2312, 2313, 2314, 2315]
+  MERGE [2319, 2320, 2321, 2322]
+  MERGE [2327, 2328]
+  MERGE [2330, 2331, 2332]
+  MERGE [2333, 2334, 2335]
+  MERGE [2337, 2338]
+  MERGE [2339, 2340, 2341]
+  MERGE [2344, 2345, 2346, 2347, 2348, 2349, 2350]
+  MERGE [2352, 2353, 2354, 2355, 2356]
+  MERGE [2363, 2364]
+  MERGE [2371, 2372]
+  MERGE [2374, 2375, 2376, 2377]
+  MERGE [2379, 2380, 2381]
+  MERGE [2382, 2383]
+  MERGE [2386, 2387, 2388, 2389]
+  MERGE [2392, 2393, 2394]
+  MERGE [2398, 2399]
+  MERGE [2405, 2406, 2407]
+  MERGE [2410, 2411, 2412, 2413, 2414]
+  MERGE [2421, 2422, 2423]
+  MERGE [2426, 2427]
+  MERGE [2436, 2437]
+  MERGE [2447, 2448, 2449, 2450, 2451]
+  MERGE [2452, 2453, 2454, 2455, 2456, 2457, 2458]
+  MERGE [2461, 2462, 2463, 2464, 2465, 2466, 2467, 2468]
+  MERGE [2471, 2472, 2473, 2474, 2475, 2476, 2477, 2478]
+  MERGE [2481, 2482, 2483, 2484, 2485, 2486, 2487, 2488, 2489, 2490, 2491, 2492, 2493]
+  MERGE [2496, 2497, 2498, 2499, 2500, 2501, 2502, 2503, 2504, 2505, 2506, 2507, 2508, 2509, 2510, 2511, 2512, 2513, 2514, 2515, 2516, 2517, 2518, 2519, 2520, 2521]
+  MERGE [2524, 2525, 2526, 2527, 2528, 2529, 2530, 2531]
+  MERGE [2532, 2533, 2534, 2535, 2536, 2537, 2538, 2539]
+  MERGE [2542, 2543, 2544, 2545, 2546, 2547]
+  MERGE [2548, 2549, 2550, 2551, 2552, 2553, 2554, 2555, 2556, 2557, 2558, 2559, 2560, 2561, 2562, 2563, 2564, 2565, 2566, 2567, 2568, 2569, 2570, 2571, 2572]
+  MERGE [2575, 2576, 2577, 2578, 2579, 2580, 2581]
+  MERGE [2582, 2583, 2584, 2585, 2586, 2587, 2588, 2589, 2590, 2591, 2592, 2593]
+  MERGE [2596, 2597, 2598]
+  MERGE [2599, 2600, 2601, 2602, 2603]
+  MERGE [2606, 2607, 2608, 2609, 2610]
+  MERGE [2611, 2612, 2613, 2614, 2615, 2616, 2617, 2618]
+  MERGE [2619, 2620]
+  SPLIT block 2623 after: 'རྟོགས་པར་འགྱུར་བ་ལྟ་ཅི་སྨོས།'
+  MERGE [2625, 2626]
+  SPLIT block 2630 after: 'དབང་དུ་བྱས་ནས་བཤད་པ། | ཐུགས་རྗེས་མྱ་ངན་འདས་པར་བཀྲི'
+  MERGE [2672, 2673]
+  MERGE [2674, 2675, 2676]
+  MERGE [2678, 2679]
+  MERGE [2683, 2684, 2685]
+  MERGE [2699, 2700, 2701, 2702, 2703, 2704, 2705, 2706, 2707, 2708, 2709, 2710]
+
+Overlap disagreements (32) — boundary kept:
+  - Blocks 39 | 40: windows [0, 1], joined by [1]
+  - Blocks 107 | 108: windows [2, 3], joined by [3]
+  - Blocks 109 | 110: windows [2, 3], joined by [3]
+  - Blocks 211 | 212: windows [5, 6], joined by [5]
+  - Blocks 282 | 283: windows [7, 8], joined by [7]
+  - Blocks 422 | 423: windows [11, 12], joined by [12]
+  - Blocks 597 | 598: windows [16, 17], joined by [17]
+  - Blocks 631 | 632: windows [17, 18], joined by [18]
+  - Blocks 771 | 772: windows [21, 22], joined by [21]
+  - Blocks 807 | 808: windows [22, 23], joined by [22]
+  - Blocks 841 | 842: windows [23, 24], joined by [23]
+  - Blocks 877 | 878: windows [24, 25], joined by [24]
+  - Blocks 876 | 877: windows [24, 25], joined by [25]
+  - Blocks 948 | 949: windows [26, 27], joined by [27]
+  - Blocks 949 | 950: windows [26, 27], joined by [27]
+  - Blocks 1053 | 1054: windows [29, 30], joined by [29]
+  - Blocks 1192 | 1193: windows [33, 34], joined by [33]
+  - Blocks 1471 | 1472: windows [41, 42], joined by [41]
+  - Blocks 1473 | 1474: windows [41, 42], joined by [41]
+  - Blocks 1508 | 1509: windows [42, 43], joined by [42]
+  - Blocks 1579 | 1580: windows [44, 45], joined by [45]
+  - Blocks 1926 | 1927: windows [54, 55], joined by [54]
+  - Blocks 1996 | 1997: windows [56, 57], joined by [56]
+  - Blocks 2033 | 2034: windows [57, 58], joined by [57]
+  - Blocks 2067 | 2068: windows [58, 59], joined by [59]
+  - Blocks 2172 | 2173: windows [61, 62], joined by [62]
+  - Blocks 2384 | 2385: windows [67, 68], joined by [67]
+  - Blocks 2451 | 2452: windows [69, 70], joined by [70]
+  - Blocks 2627 | 2628: windows [74, 75], joined by [74]
+  - Blocks 2662 | 2663: windows [75, 76], joined by [76]
+  - Blocks 2663 | 2664: windows [75, 76], joined by [76]
+  - Blocks 2698 | 2699: windows [76, 77], joined by [77]
+
+Split conflicts in overlap zone (1) — not applied:
+  - Block 351: windows [9, 10]
+
+Blocks: 2710 → 1539
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ch_3CCe_.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ch_3CCe_.ops.md
+
+⚑ 1 split conflict(s) require manual review — see ops log.
+  Edit the relevant staging file(s) and re-run with --apply-only.
+
+32 overlap disagreement(s) resolved by keeping the boundary — see ops log.
+exit=0

@@ -1,0 +1,188 @@
+[wrapper] GEMINI_THINKING=medium
+Input:      0-INBOX\temp\segmented-commentary-with-toc\As_3CDj_.toc.md
+ID:         As_3CDj_
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-As_3CDj_\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDj_.reseg.md
+
+Blocks: 1087  (headings: 38, content: 1049)
+Windows: 31  (size=40, overlap=5)
+
+  Window 1/31 (blocks 1–40): already staged (4 op(s)) — skipping
+  Window 2/31 (blocks 36–75): already staged (6 op(s)) — skipping
+  Window 3/31 (blocks 71–110): already staged (6 op(s)) — skipping
+  Window 4/31 (blocks 106–145): already staged (7 op(s)) — skipping
+  Window 5/31 (blocks 141–180): already staged (6 op(s)) — skipping
+  Window 6/31 (blocks 176–215): already staged (6 op(s)) — skipping
+  Window 7/31 (blocks 211–250): already staged (5 op(s)) — skipping
+  Window 8/31 (blocks 246–285): already staged (5 op(s)) — skipping
+  Window 9/31 (blocks 281–320): already staged (5 op(s)) — skipping
+  Window 10/31 (blocks 316–355): already staged (6 op(s)) — skipping
+  Window 11/31 (blocks 351–390): already staged (5 op(s)) — skipping
+  Window 12/31 (blocks 386–425): already staged (3 op(s)) — skipping
+  Window 13/31 (blocks 421–460): already staged (4 op(s)) — skipping
+  Window 14/31 (blocks 456–495): already staged (7 op(s)) — skipping
+  Window 15/31 (blocks 491–530): already staged (3 op(s)) — skipping
+  Window 16/31 (blocks 526–565): already staged (5 op(s)) — skipping
+  Window 17/31 (blocks 561–600): already staged (7 op(s)) — skipping
+  Window 18/31 (blocks 596–635): already staged (4 op(s)) — skipping
+  Window 19/31 (blocks 631–670): already staged (5 op(s)) — skipping
+  Window 20/31 (blocks 666–705): already staged (5 op(s)) — skipping
+  Window 21/31 (blocks 701–740): already staged (6 op(s)) — skipping
+  Window 22/31 (blocks 736–775): already staged (6 op(s)) — skipping
+  Window 23/31 (blocks 771–810): already staged (3 op(s)) — skipping
+  Window 24/31 (blocks 806–845): already staged (0 op(s)) — skipping
+  Window 25/31 (blocks 841–880): already staged (3 op(s)) — skipping
+  Window 26/31 (blocks 876–915): already staged (3 op(s)) — skipping
+  Window 27/31 (blocks 911–950): already staged (3 op(s)) — skipping
+  Window 28/31 (blocks 946–985): already staged (3 op(s)) — skipping
+  Window 29/31 (blocks 981–1020): already staged (2 op(s)) — skipping
+  Window 30/31 (blocks 1016–1055): already staged (1 op(s)) — skipping
+  Window 31/31 (blocks 1051–1087): already staged (3 op(s)) — skipping
+
+Operations to apply: 117
+  MERGE [6, 7, 8, 9, 10, 11, 12]
+  MERGE [16, 17, 18, 19, 20, 21]
+  MERGE [22, 23]
+  MERGE [38, 39, 40, 41, 42, 43, 44, 45, 46]
+  MERGE [50, 51, 52, 53]
+  MERGE [56, 57, 58]
+  MERGE [63, 64]
+  MERGE [69, 70]
+  MERGE [74, 75, 76]
+  MERGE [78, 79]
+  MERGE [81, 82, 83, 84, 85]
+  MERGE [88, 89]
+  MERGE [92, 93, 94, 95, 96, 97, 98, 99, 100, 101]
+  MERGE [109, 110]
+  MERGE [112, 113]
+  MERGE [115, 116]
+  MERGE [117, 118, 119]
+  MERGE [120, 121, 122, 123, 124]
+  MERGE [125, 126]
+  MERGE [127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141]
+  MERGE [146, 147, 148, 149, 150, 151, 152]
+  MERGE [154, 155]
+  MERGE [157, 158, 159, 160]
+  MERGE [163, 164, 165]
+  MERGE [171, 172, 173, 174]
+  MERGE [178, 179]
+  MERGE [182, 183]
+  MERGE [187, 188, 189, 190, 191, 192, 193, 194, 195]
+  MERGE [197, 198]
+  MERGE [200, 201, 202, 203, 204, 205]
+  SPLIT block 217 after: 'ལྷུན་གྲུབ་རྣམ་པར་མི་རྟོག་ཕྱིར། །'
+  MERGE [218, 219, 220]
+  MERGE [221, 222]
+  MERGE [235, 236, 237]
+  MERGE [239, 240, 241, 242, 243, 244]
+  MERGE [250, 251, 252]
+  MERGE [263, 264, 265, 266, 267]
+  MERGE [273, 274]
+  MERGE [279, 280, 281]
+  MERGE [282, 283]
+  MERGE [291, 292, 293, 294, 295]
+  MERGE [296, 297, 298, 299, 300, 301]
+  MERGE [303, 304, 305, 306]
+  MERGE [310, 311, 312, 313]
+  MERGE [320, 321, 322]
+  MERGE [329, 330]
+  MERGE [331, 332]
+  MERGE [334, 335, 336]
+  MERGE [344, 345, 346, 347, 348]
+  MERGE [361, 362, 363, 364, 365, 366, 367, 368]
+  MERGE [371, 372, 373, 374, 375, 376, 377, 378, 379]
+  MERGE [380, 381]
+  MERGE [387, 388, 389, 390, 391]
+  MERGE [398, 399, 400]
+  MERGE [409, 410]
+  MERGE [428, 429]
+  MERGE [432, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445]
+  MERGE [446, 447]
+  MERGE [450, 451, 452, 453]
+  MERGE [460, 461, 462]
+  MERGE [464, 465, 466]
+  MERGE [467, 468, 469, 470]
+  MERGE [471, 472, 473, 474, 475]
+  MERGE [477, 478, 479, 480]
+  MERGE [482, 483, 484, 485, 486, 487, 488, 489, 490, 491]
+  MERGE [496, 497, 498, 499]
+  SPLIT block 512 after: 'བྱང་ཆུབ་སེམས་དཔའི་ཁྱད་དེ་ཉིད། །'
+  MERGE [525, 526, 527, 528]
+  MERGE [533, 534, 535, 536]
+  MERGE [544, 545, 546, 547, 548]
+  MERGE [553, 554]
+  MERGE [561, 562, 563, 564]
+  MERGE [566, 567, 568, 569]
+  MERGE [571, 572, 573, 574, 575, 576]
+  MERGE [578, 579]
+  SPLIT block 583 after: 'མཆོག་མཚུངས་པ་ཉིད། །'
+  SPLIT block 586 after: 'སྒྲིབ་པ་དེ་ནི་འཇོམས་པར་མཛད། །'
+  SPLIT block 593 after: 'དགའ་བའི་རོ་སྟེར་འགྱུར་བ་མིན། །'
+  SPLIT block 601 after: 'དྲང་སྲོང་ཡང་དག་བལྟམས། །'
+  SPLIT block 604 after: 'ཆོས་འཐོན་འཕེལ་བར་འགྱུར་བ་ཡིན། །'
+  SPLIT block 611 after: 'སྡུག་བསྔལ་བཞི༌[^666]ལ་གནས། །'
+  MERGE [618, 619]
+  MERGE [636, 637]
+  MERGE [652, 653, 654]
+  MERGE [657, 658, 659, 660, 661]
+  MERGE [664, 665]
+  MERGE [670, 671]
+  MERGE [672, 673]
+  MERGE [681, 682, 683]
+  MERGE [693, 694]
+  MERGE [698, 699, 700, 701, 702, 703, 704, 705, 706, 707]
+  MERGE [708, 709, 710, 711, 712, 713, 714]
+  MERGE [715, 716]
+  MERGE [720, 721, 722, 723, 724]
+  MERGE [725, 726, 727]
+  MERGE [728, 729, 730, 731, 732, 733]
+  SPLIT block 737 after: 'སྨྲས་པ། '
+  MERGE [751, 752, 753]
+  MERGE [755, 756]
+  MERGE [758, 759]
+  MERGE [763, 764]
+  SPLIT block 779 after: 'བརྩམས༌[^859]ཏེ་ཚིགས་སུ་བཅད་པ། '
+  SPLIT block 791 after: 'འདི་ནི་གཞན་གྱི༌[^873]དོན་ཕུན་སུམ་ཚོགས་པ་'
+  MERGE [859, 860, 861]
+  SPLIT block 874 after: 'གང་ཡིན་པ་རྡོ་རྗེ་བཞིན། ། '
+  SPLIT block 876 after: 'གང་དུའང་ཐོགས་པ་མེད། །'
+  SPLIT block 883 after: 'སངས་རྒྱས་རྣམས་ཀྱིས་བརྙེས། ། | འཇིག་རྟེན་དག་ན་ཐུན་མ'
+  MERGE [911, 912, 913]
+  MERGE [915, 916]
+  SPLIT block 918 after: 'རྣམ་པར་འཐོར། །'
+  MERGE [955, 956, 957, 958, 959, 960]
+  MERGE [968, 969, 970]
+  MERGE [996, 997]
+  MERGE [1046, 1047, 1048]
+  SPLIT block 1072 after: 'བདག་བསྲུང་བའི༌[^1168]ཐབས་ལས་བརྩམས་ཏེ་ཚིགས་སུ་བཅད་པ'
+  SPLIT block 1074 after: 'ཉམས་པའི་རྒྱུ་ལས་བརྩམས་ཏེ་ཚིགས་སུ་བཅད་པ། ། | དགྲ་བཅ'
+  MERGE [1078, 1079]
+
+Overlap disagreements (11) — boundary kept:
+  - Blocks 211 | 212: windows [5, 6], joined by [5]
+  - Blocks 212 | 213: windows [5, 6], joined by [5]
+  - Blocks 213 | 214: windows [5, 6], joined by [5]
+  - Blocks 214 | 215: windows [5, 6], joined by [5]
+  - Blocks 316 | 317: windows [8, 9], joined by [9]
+  - Blocks 317 | 318: windows [8, 9], joined by [9]
+  - Blocks 352 | 353: windows [9, 10], joined by [10]
+  - Blocks 492 | 493: windows [13, 14], joined by [13]
+  - Blocks 493 | 494: windows [13, 14], joined by [13]
+  - Blocks 494 | 495: windows [13, 14], joined by [13]
+  - Blocks 631 | 632: windows [17, 18], joined by [18]
+
+Split conflicts in overlap zone (2) — not applied:
+  - Block 771: windows [21, 22]
+  - Block 985: windows [27, 28]
+
+Blocks: 1087 → 812
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDj_.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\As_3CDj_.ops.md
+
+⚑ 2 split conflict(s) require manual review — see ops log.
+  Edit the relevant staging file(s) and re-run with --apply-only.
+
+11 overlap disagreement(s) resolved by keeping the boundary — see ops log.

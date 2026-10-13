@@ -1,0 +1,12 @@
+{
+  "window_idx": 13,
+  "start_block": 456,
+  "end_block": 495,
+  "operations": [
+    {
+      "op": "split",
+      "block": 456,
+      "after": "བརྡ༌[^374]ཡིས་རྒྱས་བཏབ་སྦས་པར་བཤད། །"
+    }
+  ]
+}
