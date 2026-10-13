@@ -1,3 +1,30 @@
+---
+title: ཡི་གེ་བརྒྱ་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།
+alt_titles:
+  - bo: ""
+  - en: ""
+author: སློབ་དཔོན་ཀླུ་སྒྲུབ།
+author_in_english: Nāgārjuna
+translator: ལོ་ཙཱ་བ་བནྡེ་གཞོན་ནུ་ཤེས་རབ།
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: commentary
+lang_tag: bo
+verse_id_format:
+registered_id:
+root_text: 1-SOURCES/Text/Na_3CAv_.md
+covers_verses:
+collected_works: Nagarjuna
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 20) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཆ༽ སྨད་ཆ། .docx (01-Nagarjuna)"
+source: https://wb.pub/3CAw
+bdrc_work_id: WA0RT3180
+openpecha_text_id: J4FvXlJwc21CrA78CGfUG
+license: Public Domain Mark
+category_id: kj8dljKGdBUuL4GkkVXbB
+category: Middle Way / དབུ་མ།
+---
+
 ## ༄༅། །ཡི་གེ་བརྒྱ་པ་ཞེས་བྱ་བའི་འགྲེལ་པ།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཨཀྵ་ར་ཤ༌[^1]ཏི་ཀ༌[^2]ནཱ་མ་བྲྀཏྟི། བོད་སྐད་དུ། ཡི་གེ་བརྒྱ་པ་ཞེས་བྱ་བའི་འགྲེལ་པ། འཇམ་པའི་རྡོ་རྗེ་ལ་ཕྱག་འཚལ་ལོ། །ཐམས་ཅད་ཐམས་ཅད་ཀྱི་བདག་ཉིད་དོ། །ཞེས་དམ་བཅའ་བ་གང་ངམ། གང་དག་གམ། གང་རྣམས་འདོད་པ་དེ་དག་གི་གཏན་ཚིགས་ལས་གྲུབ་པར་མི་འགྱུར་གྱི། གཏན་ཚིགས་ཉིད་མེད་པར་འགྲུབ་པར་འགྱུར་རོ། །འདི་སྙམ་དུ་ཐམས་ཅད་ཐམས་ཅད་ཀྱི་བདག་ཉིད་དོ་ཞེས་བྱ་བར་དམ་བཅའ་བ་ནི། གཏན་ཚིགས་ཁོ་ན་ལས་དེ་ཡོད་པར་མཚུངས་པའི་ཕྱིར་རོ་ཞེས་བྱ་བ་ནི་གཏན་ཚིགས་སོ། །དཔེ་གང་ཞེ་ན། བུམ་པ་དང་སྣམ་བུ་ལ་སོགས་པ་བཞིན་ནོ། །ཇི་ལྟར་བུམ་པ་དང་སྣམ་བུ་ལ་སོགས་པ་བཞིན་དུ་དངོས་པོ་ཐམས་ཅད་ཀྱང༌[^3]ཡོད་པ་ཉིད་དུ་མཚུངས་པར་འཇུག་སྟེ། དེ་ལྟ་བས་ན་དངོས་པོ་རྣམས་གཅིག་པར་གྲུབ་པར་འདོད་དོ་ཞེ་ན། སྨྲས་པ། དངོས་པོ་རྣམས་གཅིག་པ་མ་ཡིན་ནོ། །

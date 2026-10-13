@@ -1,3 +1,30 @@
+---
+title: གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ།
+alt_titles:
+  - bo: ""
+  - en: ""
+author: ཟླ་བ་གྲགས་པ།
+author_in_english: Candrakīrti I
+translator:
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: commentary
+lang_tag: bo
+verse_id_format:
+registered_id:
+root_text:
+covers_verses:
+collected_works: Chandrakirti
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 35) དཔལ་ལྡན་ཟླ་བ་གྲགས་པའི་གསུང་འབུམ། ཀ .docx (05-Chandrakirti)"
+source: https://wb.pub/3CCT
+bdrc_work_id: WA0RT0680
+openpecha_text_id: em3gguVpIUyFWz4E0feXg
+license: Public Domain Mark
+category_id: yteMP9CDaB50HjkAfiPQg
+category: Tantras / རྒྱུད་སྡེ།
+---
+
 ## ༄༅། །གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། ས་མཱ་ཛཿཨ་བྷི་ས་མ་ཡ་ཨཱ་ལངྐ་ར་བྲྀཏྟི། བོད་སྐད་དུ། གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ། བཅོམ་ལྡན་འདས་རྡོ་རྗེ་སེམས་དཔའ་ལ་ཕྱག་འཚལ་ལོ། །གང་ཞིག་མུན་འདྲས་གཏིབས་ཤིང་ཡང་དག་སྒྲོན་མ་མེད། །དེ་ཡི་སྒྲོན་མ་བྱ་ཕྱིར་རྟག་ཏུ་དགའ་བའི་མཆོག་སྐྱེས་ནས། །བཅོམ་ལྡན་རྡོ་རྗེ་སེམས་དཔའ་དེ་ལ་རབ་བཏུད་དེ། །མངོན་པར་རྟོགས་པའི་དོན་ནི་ཟླ་བ༌[^1]གྲགས་པས་བཤད། །གསང་སྔགས་ཐམས་ཅད་ནི་བསྡུ་ན་རྣམ་པ་གཉིས་ཏེ། དེ་བས་ན་དེ་བསྟན་པའི་ཕྱིར་ལམ་དང་འབྲས་བུར་བཅས་པའོ་ཞེས༌[^2]ལམ་དང་འབྲས་བུ་དག་ནི་གཉིས་ཁོ་ནའོ། །འོ་ན་རྣལ་འབྱོར་གྱི་མཚན་ཉིད་དང་གསུམ་དུ་མི་འགྱུར་རམ་ཞེ་ན། མི་འགྱུར་ཏེ། འདི་ལྟར་ཐེག་པ་ཆེན་པོའི་རིགས་ཅན་ནི་ས་བོན་ཐོབ་པར་བྱེད་པས་ཐབས་སུ་བསྡུའོ། །

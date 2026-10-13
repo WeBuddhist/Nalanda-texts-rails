@@ -1,3 +1,30 @@
+---
+title: དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།
+alt_titles:
+  - bo: ""
+  - en: ""
+author: སློབ་དཔོན་ལེགས་ལྡན་འབྱེད།
+author_in_english: Bhāviveka
+translator: ནག་ཚོ་ལོ་ཙཱ་བ།
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: commentary
+lang_tag: bo
+verse_id_format:
+registered_id:
+root_text: 1-SOURCES/Text/Bh_3CCI.md
+covers_verses:
+collected_works: Bhavaviveka
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 34) ལེགས་ལྡན་འབྱེད་ཀྱི་གསུང་འབུམ། ཆ .docx (04-Bhavaviveka)"
+source: https://wb.pub/3CCN
+bdrc_work_id: WA0RT3201
+openpecha_text_id: JIWy0RrzXBStUOgDb4dSJ
+license: Public Domain Mark
+category_id: kj8dljKGdBUuL4GkkVXbB
+category: Middle Way / དབུ་མ།
+---
+
 ## ༄༅། །དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།
 
 ## ༼སྨད་ཆ།​༽

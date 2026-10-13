@@ -1,3 +1,27 @@
+---
+title: ཁྲོ་བོ་རེག་ཚིག་གི་གཏོར་ཆོག
+alt_titles:
+  - bo: ""
+  - en: ""
+author:
+author_in_english:
+translator:
+date:
+language: Tibetan
+script: Unicode Tibetan
+file_type: root-text
+lang_tag: bo
+verse_id_format:
+collected_works: Aryadeva
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 27) འཕགས་པ་ལྷའི་གསུང་འབུམ། ཁ༽ .docx (02-Aryadeva)"
+source: https://wb.pub/3CBx
+bdrc_work_id:
+openpecha_text_id:
+license:
+category_id:
+category:
+---
+
 ## ༄༅། །ཁྲོ་བོ་རེག་ཚིག་གི་གཏོར་ཆོག
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། བྷ་ལི་དྷ་བྷི་ཏི་ན་མ། །བོད་སྐད་དུ། གཏོར་མའི་ཆོ་ག་ཞེས་བྱ་བ། ཁྲོ་བོ་རེག་ཚིག་གི་གཏོར་མ། རང་ན་བྷུ་རུ་ལ་ཕྱག་འཚལ་ལོ། །བཤམ་དང་སྦྱང་དང་བསང་བ་དང་། །བསྐྱེད་དང་བྱིན་གྱིས་བརླབས་པ་དང་། །དགྲ་བགེགས་བཀུག་བསྟིམ་སྤྱན་དྲང་དང་། །དེ་བཞིན་གཏོར་མ་དབུལ་བ་དང་། །བསྟོད་ཅིང་གསོལ་གདབ་གཤེགས་གསོལ་ལོ། །འབྲུ་སྣ་ལྔ་ཡི་ཟན་ལ་ནི། །ཟུར་གསུམ་ཟུར་རྣོ་རྩ་བ་བརྟན། །དཀྱིལ་མཐུག་དཔལ་བྱས་དཀྱིལ་དུ་གཟུགས། །དེ་ཡི་མཐའ་མ་འཐེབ་སྐྱུས་དགང་། །ར་ཁྱི་ཕག་གསུམ་རོག་པོ་ཡི། །ཤ་དང་ཁྲག་གིས་བརྒྱན་པ་སྟེ། །ཆུས་སྦྱངས་བཤམ་སྣོད་ཐོད་པའོ། །
