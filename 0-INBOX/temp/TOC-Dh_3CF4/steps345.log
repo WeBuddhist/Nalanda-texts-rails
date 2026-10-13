@@ -10,3 +10,35 @@ Summary
 Commentary updated: 0-INBOX\segmented\Dh_3CF4.toc.md
 === STEP 4 reseg
     ! window-15 attempt 1/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 9s...
+   1869s  window 182: 1 op(s)
+   1878s  window 174: 8 op(s)
+finished in 1878 s; errors: []
+
+Blocks: 6385 → 4513
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Dh_3CF4.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Dh_3CF4.ops.md
+
+125 overlap disagreement(s) resolved by keeping the boundary — see ops log.
+# Block Resegmentation Log — Dh_3CF4
+
+Original blocks : 6385
+Result blocks   : 4513
+Ops applied     : 961
+Errors skipped  : 0
+Conflicts       : 125
+footnotes restored 3990 lines
+
+────────────────────────────────────────
+Flags before : 81
+Flags after  : 80
+Corrections  : 1
+footnotes restored 3990 lines
+=== STEP 5 IDs
+  spacing: source ' ' → output '' at …ྱུས་སོ།།|མ
+✓ Dh_3CF4.reseg.md: letters identical; 45 spacing difference(s) restored from the source — now identical (letters and spacing)
+exit_stamp=0
+dup IDs: 0
+headings: 41  IDs: 4475
+=== ALL DONE

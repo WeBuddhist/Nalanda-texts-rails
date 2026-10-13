@@ -41,7 +41,7 @@ root-text workflow).
 | `mode` | `sabcad` / `verses` / `top` / `labels` — see `commentary-toc-extract` |
 
 Decide `quotes` and `mode` before starting (look at the vault's other commentaries on the
-same root, or the editor's sample); if unclear, ask.
+same root, or the reference sample in `0-INBOX/temp/segmented-commentary-with-toc/Dh_3CEz_.toc.md`); if unclear, ask.
 
 ## Output
 
@@ -80,6 +80,22 @@ Everything stays in `0-INBOX/` until a domain specialist approves it.
 
 ---
 
+## Reference Text (Human-Corrected Benchmark)
+
+The canonical golden reference for a human-corrected table of contents and commentary segmentation is:
+
+- **Path:** `0-INBOX/temp/segmented-commentary-with-toc/Dh_3CEz_.toc.md`
+- **Text:** རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་སྤྱན་འབྱེད། (*Netravibhaṅga* commentary on the Hevajra Tantra; ID: `Dh_3CEz_`)
+- **What it exemplifies:**
+  - **TOC Heading Structure:** Complete multi-level *sa bcad* heading hierarchy (`##` down to `######`) with decimal numbering and header block IDs (`^1-0`, `^1-1-0`, `^1-1-1-0`, `^1-1-1-1-0`, etc.).
+  - **Segmentation Granularity:** Calibrated unit lengths (median ~56 syllables vs 27 from mechanical cuts). Sentences forming a single explanatory thought remain joined; boundaries mark genuine functional shifts (e.g. `ཡང་ན་`, `ཁ་ཅིག་`, `འོ་ན་`, `དེ་སྐད་དུ་`).
+  - **Quotation Isolation:** Clean layout for root verses (`separate` style) and cited scripture references.
+  - **Framing Elements:** Standard front matter (`## ༄༅། །...`, `## ཀླད་ཀྱི་དོན།`, title, homage, Sanskrit/Tibetan designations) and back matter structure.
+
+Consult this file as the benchmark standard when calibrating pipeline parameters, verifying segmentation units, or reviewing TOC ingestion output.
+
+---
+
 ## Rules (across all steps)
 
 1. **No character changes.** Every script asserts the text (whitespace, headings and IDs
@@ -96,6 +112,8 @@ Everything stays in `0-INBOX/` until a domain specialist approves it.
 5. **Recommended segmentation flags** (benchmark v2): `--units --root <root> --enum-chain
    broad --quotes <separate|inline> --colophon-guard` (+ `--stanza-breaks` for commentaries
    that gloss the root line by line).
+6. **Reference benchmark:** Use `0-INBOX/temp/segmented-commentary-with-toc/Dh_3CEz_.toc.md`
+   to calibrate expected block sizing, heading depth, and quote layouts.
 
 ---
 

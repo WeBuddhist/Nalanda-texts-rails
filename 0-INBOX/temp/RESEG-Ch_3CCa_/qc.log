@@ -1,0 +1,185 @@
+Input:  0-INBOX\resegmented\Ch_3CCa_.reseg.md
+ID:     Ch_3CCa_
+
+Blocks: 2524
+
+Step 1 — Deterministic checks...
+  155 flag(s) found.
+  Block 63 — CONNECTOR_ENDING
+  Block 64 — CONNECTOR_ENDING
+  Block 66 — SHORT_FRAGMENT (3 syl)
+  Block 170 — CONNECTOR_ENDING
+  Block 195 — OVER_LENGTH (265 syl)
+  Block 196 — SHORT_FRAGMENT (3 syl)
+  Block 212 — CONNECTOR_ENDING
+  Block 217 — SHORT_FRAGMENT (3 syl)
+  Block 222 — SHORT_FRAGMENT (1 syl)
+  Block 224 — SHORT_FRAGMENT (1 syl)
+  Block 226 — SHORT_FRAGMENT (1 syl)
+  Block 228 — SHORT_FRAGMENT (1 syl)
+  Block 230 — SHORT_FRAGMENT (1 syl)
+  Block 232 — SHORT_FRAGMENT (1 syl)
+  Block 235 — SHORT_FRAGMENT (1 syl)
+  Block 237 — SHORT_FRAGMENT (1 syl)
+  Block 239 — SHORT_FRAGMENT (1 syl)
+  Block 241 — SHORT_FRAGMENT (1 syl)
+  Block 243 — SHORT_FRAGMENT (1 syl)
+  Block 245 — SHORT_FRAGMENT (1 syl)
+  Block 247 — SHORT_FRAGMENT (1 syl)
+  Block 249 — SHORT_FRAGMENT (1 syl)
+  Block 251 — SHORT_FRAGMENT (1 syl)
+  Block 253 — SHORT_FRAGMENT (1 syl)
+  Block 255 — SHORT_FRAGMENT (1 syl)
+  Block 257 — SHORT_FRAGMENT (1 syl)
+  Block 259 — SHORT_FRAGMENT (1 syl)
+  Block 261 — SHORT_FRAGMENT (1 syl)
+  Block 265 — SHORT_FRAGMENT (2 syl)
+  Block 267 — SHORT_FRAGMENT (1 syl)
+  Block 269 — SHORT_FRAGMENT (1 syl)
+  Block 271 — SHORT_FRAGMENT (1 syl)
+  Block 273 — SHORT_FRAGMENT (1 syl)
+  Block 275 — SHORT_FRAGMENT (1 syl)
+  Block 277 — SHORT_FRAGMENT (1 syl)
+  Block 279 — SHORT_FRAGMENT (1 syl)
+  Block 281 — SHORT_FRAGMENT (1 syl)
+  Block 283 — SHORT_FRAGMENT (1 syl)
+  Block 285 — SHORT_FRAGMENT (1 syl)
+  Block 287 — SHORT_FRAGMENT (1 syl)
+  Block 289 — SHORT_FRAGMENT (1 syl)
+  Block 291 — SHORT_FRAGMENT (1 syl)
+  Block 293 — SHORT_FRAGMENT (1 syl)
+  Block 295 — SHORT_FRAGMENT (1 syl)
+  Block 297 — SHORT_FRAGMENT (1 syl)
+  Block 300 — SHORT_FRAGMENT (2 syl)
+  Block 327 — CONNECTOR_ENDING
+  Block 328 — CONNECTOR_ENDING
+  Block 340 — OVER_LENGTH (294 syl)
+  Block 394 — CONNECTOR_ENDING
+  Block 444 — SHORT_FRAGMENT (2 syl)
+  Block 489 — OBJECTION_REPLY_FUSED
+  Block 495 — OBJECTION_REPLY_FUSED
+  Block 532 — CONNECTOR_ENDING
+  Block 568 — OVER_LENGTH (297 syl)
+  Block 569 — OVER_LENGTH (291 syl)
+  Block 570 — CONNECTOR_ENDING
+  Block 608 — CONNECTOR_ENDING
+  Block 634 — CONNECTOR_ENDING
+  Block 635 — CONNECTOR_ENDING
+  Block 639 — OVER_LENGTH (257 syl)
+  Block 646 — CONNECTOR_ENDING
+  Block 656 — CONNECTOR_ENDING
+  Block 662 — OVER_LENGTH (270 syl)
+  Block 667 — CONNECTOR_ENDING
+  Block 688 — CONNECTOR_ENDING
+  Block 701 — SHORT_FRAGMENT (3 syl)
+  Block 726 — CONNECTOR_ENDING
+  Block 727 — CONNECTOR_ENDING
+  Block 733 — CONNECTOR_ENDING
+  Block 734 — CONNECTOR_ENDING
+  Block 747 — CONNECTOR_ENDING
+  Block 750 — SHORT_FRAGMENT (3 syl)
+  Block 771 — CONNECTOR_ENDING
+  Block 793 — CONNECTOR_ENDING
+  Block 802 — CONNECTOR_ENDING
+  Block 836 — CONNECTOR_ENDING
+  Block 859 — OVER_LENGTH (290 syl)
+  Block 882 — CONNECTOR_ENDING
+  Block 899 — CONNECTOR_ENDING
+  Block 908 — OVER_LENGTH (298 syl)
+  Block 918 — OVER_LENGTH (368 syl)
+  Block 932 — CONNECTOR_ENDING
+  Block 934 — SHORT_FRAGMENT (3 syl)
+  Block 947 — CONNECTOR_ENDING
+  Block 952 — SHORT_FRAGMENT (3 syl)
+  Block 987 — CONNECTOR_ENDING
+  Block 1015 — OVER_LENGTH (298 syl)
+  Block 1054 — OVER_LENGTH (281 syl)
+  Block 1064 — CONNECTOR_ENDING
+  Block 1115 — OVER_LENGTH (370 syl)
+  Block 1117 — OVER_LENGTH (293 syl)
+  Block 1119 — OVER_LENGTH (271 syl)
+  Block 1120 — CONNECTOR_ENDING
+  Block 1143 — OVER_LENGTH (323 syl)
+  Block 1148 — CONNECTOR_ENDING
+  Block 1158 — CONNECTOR_ENDING
+  Block 1214 — OVER_LENGTH (336 syl)
+  Block 1220 — OVER_LENGTH (261 syl)
+  Block 1227 — OVER_LENGTH (357 syl)
+  Block 1235 — OVER_LENGTH (273 syl)
+  Block 1240 — CONNECTOR_ENDING
+  Block 1243 — CONNECTOR_ENDING
+  Block 1263 — OVER_LENGTH (257 syl)
+  Block 1268 — CONNECTOR_ENDING
+  Block 1275 — CONNECTOR_ENDING
+  Block 1284 — CONNECTOR_ENDING
+  Block 1291 — CONNECTOR_ENDING
+  Block 1306 — OVER_LENGTH (292 syl)
+  Block 1390 — OVER_LENGTH (293 syl)
+  Block 1398 — OVER_LENGTH (277 syl)
+  Block 1399 — OVER_LENGTH (255 syl)
+  Block 1442 — OVER_LENGTH (309 syl)
+  Block 1467 — CONNECTOR_ENDING
+  Block 1474 — CONNECTOR_ENDING
+  Block 1475 — CONNECTOR_ENDING
+  Block 1482 — CONNECTOR_ENDING
+  Block 1531 — OVER_LENGTH (320 syl)
+  Block 1651 — OVER_LENGTH (581 syl)
+  Block 1703 — CONNECTOR_ENDING
+  Block 1739 — OVER_LENGTH (322 syl)
+  Block 1851 — OVER_LENGTH (258 syl)
+  Block 1864 — OVER_LENGTH (257 syl)
+  Block 1997 — SHORT_FRAGMENT (3 syl)
+  Block 2000 — SHORT_FRAGMENT (2 syl)
+  Block 2009 — OVER_LENGTH (278 syl)
+  Block 2074 — OVER_LENGTH (257 syl)
+  Block 2152 — CONNECTOR_ENDING
+  Block 2174 — CONNECTOR_ENDING
+  Block 2212 — CONNECTOR_ENDING
+  Block 2233 — SHORT_FRAGMENT (3 syl)
+  Block 2272 — CONNECTOR_ENDING
+  Block 2286 — OVER_LENGTH (306 syl)
+  Block 2298 — SHORT_FRAGMENT (3 syl)
+  Block 2307 — CONNECTOR_ENDING
+  Block 2316 — CONNECTOR_ENDING
+  Block 2329 — OVER_LENGTH (309 syl)
+  Block 2381 — OVER_LENGTH (271 syl)
+  Block 2383 — OVER_LENGTH (274 syl)
+  Block 2426 — OVER_LENGTH (255 syl)
+  Block 2447 — SHORT_FRAGMENT (2 syl)
+  Block 2448 — CONNECTOR_ENDING
+  Block 2453 — OVER_LENGTH (262 syl)
+  Block 2464 — OVER_LENGTH (252 syl)
+  Block 2466 — OVER_LENGTH (287 syl)
+  Block 2477 — OVER_LENGTH (278 syl)
+  Block 2480 — OVER_LENGTH (353 syl)
+  Block 2487 — SHORT_FRAGMENT (2 syl)
+  Block 2504 — OVER_LENGTH (257 syl)
+  Block 2516 — SHORT_FRAGMENT (3 syl)
+  Block 2518 — OVER_LENGTH (470 syl)
+  Block 2519 — OVER_LENGTH (565 syl)
+  Block 2521 — CONNECTOR_ENDING
+  Block 2521 — SHORT_FRAGMENT (1 syl)
+  Block 2524 — OVER_LENGTH (1760 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 7 correction(s):
+    MERGE [899, 900]
+    MERGE [1064, 1065]
+    MERGE [1120, 1121]
+    MERGE [2174, 2175]
+    MERGE [2212, 2213]
+    MERGE [2316, 2317]
+    MERGE [2447, 2448]
+  ✓ Integrity check passed. Blocks: 2524 → 2517
+
+Step 3 — Re-checking after repair...
+  148 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\Ch_3CCa_.reseg.md
+
+QC report: 0-INBOX\resegmented\Ch_3CCa_.qc.md
+
+────────────────────────────────────────
+Flags before : 155
+Flags after  : 148
+Corrections  : 7
+exit=0
