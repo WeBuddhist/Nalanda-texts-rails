@@ -1,0 +1,5 @@
+{"label": "group-p1-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 96.1, "input": 40855, "output": 2764, "thought": 17396}
+{"label": "group-p2-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 327.9, "input": 39781, "output": 2450, "thought": 50165}
+{"label": "group-p3-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 99.3, "input": 44031, "output": 3082, "thought": 12130}
+{"label": "group-p4-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 134.5, "input": 43640, "output": 3291, "thought": 17177}
+{"label": "group-p5-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 241.9, "input": 33816, "output": 2097, "thought": 39078}

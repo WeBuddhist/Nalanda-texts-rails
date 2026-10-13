@@ -1,0 +1,11 @@
+
+=== 2026-10-12 15:54:49 gemini-3.8-flash medium
+prose: 6284 sentences, 82 verse lines in 8 passage(s) · front matter (Sanskrit title, Tibetan title, homage), translators' colophon, raw paragraph breaks kept: 362, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །འདུལ་བའི་མདོ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+=== 2026-10-12 17:43:10 gemini-3.8-flash medium
+{"id": "Gu_3CFS", "model": "gemini-3.8-flash", "thinking": "medium", "chunks": 119, "units": 14838, "qc4": "0", "pass5_windows": 7, "qc6": 36, "nodes": 40, "parts": 40, "unanchored": 4, "status": "done", "calls": 246, "input_tokens": 1370945, "output_tokens": 18367, "thinking_tokens": 600087, "cost_usd": 3.347, "wall_seconds": 880}

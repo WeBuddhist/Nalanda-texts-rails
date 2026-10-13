@@ -1,0 +1,12 @@
+{"label": "group-p1-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 176.3, "input": 55573, "output": 2293, "thought": 23202}
+{"label": "group-p2-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 217.0, "input": 74484, "output": 2236, "thought": 31724}
+{"label": "group-p3-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 249.6, "input": 51716, "output": 2069, "thought": 39794}
+{"label": "group-p4-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 270.8, "input": 48951, "output": 2597, "thought": 48375}
+{"label": "group-p5-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 359.1, "input": 43492, "output": 2387, "thought": 59199}
+{"label": "group-p6-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.MAX_TOKENS", "seconds": 387.2, "input": 55908, "output": 2622, "thought": 62910}
+{"label": "group-p6-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 3, "finish": "FinishReason.STOP", "seconds": 322.0, "input": 55908, "output": 2719, "thought": 45117}
+{"label": "group-p7-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 178.8, "input": 23105, "output": 2643, "thought": 28323}
+{"label": "group-p8-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 315.8, "input": 50034, "output": 2166, "thought": 50372}
+{"label": "group-p9-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 2, "finish": "FinishReason.STOP", "seconds": 218.3, "input": 52854, "output": 2602, "thought": 31957}
+{"label": "group-p10-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 254.5, "input": 62806, "output": 2643, "thought": 39110}
+{"label": "group-p11-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 52.9, "input": 6953, "output": 343, "thought": 7561}

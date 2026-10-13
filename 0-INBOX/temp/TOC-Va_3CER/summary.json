@@ -1,0 +1,20 @@
+{
+ "id": "Va_3CER",
+ "model": "gemini-3.8-flash",
+ "thinking": "medium",
+ "chunks": 70,
+ "units": 8749,
+ "qc4": "0",
+ "pass5_windows": 8,
+ "qc6": 4,
+ "nodes": 20,
+ "parts": 2,
+ "unanchored": 0,
+ "status": "done",
+ "calls": 149,
+ "input_tokens": 1276040,
+ "output_tokens": 16226,
+ "thinking_tokens": 542346,
+ "cost_usd": 3.052,
+ "wall_seconds": 916
+}

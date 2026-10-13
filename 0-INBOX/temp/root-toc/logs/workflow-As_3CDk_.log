@@ -1,0 +1,30 @@
+
+=== 2026-10-12 22:28:51
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py segment /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/root/As_3CDk_.md /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/As_3CDk_
+prose: 2032 sentences, 36 verse lines in 7 passage(s) · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 115, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་དངོས་གཞིའི་ས་མང་པོ།༼སྟོད་ཆ།༽ ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py toc-ingest /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/As_3CDk_ --tree /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/TOC-As_3CDk_/toc-tree-anchored-As_3CDk_.md
+prose: 2032 sentences, 36 verse lines in 7 passage(s) · front matter (Sanskrit title, Tibetan title, homage), raw paragraph breaks kept: 115 · body headings: 0 not placed · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་དངོས་གཞིའི་ས་མང་པོ།༼སྟོད་ཆ།༽ ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## རྣལ་འབྱོར་སྤྱོད་པའི་ས་བཅུ་བདུན་མདོར་བསྟན་པ། ^II-0
+   ## རྣམ་པར་ཤེས་པའི་ཚོགས་ལྔ་དང་ལྡན་པའི་ས། ^1-0
+   ## ཡིད་ཀྱི་ས། ^2-0
+   ## རྟོག་པ་དང་བཅས་ཤིང་དཔྱོད་པ་དང་བཅས་པའི་ས་དང་རྟོག་པ་མེད་ཅིང་དཔྱོད་པ་ཙམ་གྱི་ས་དང་རྟོག་པ་ཡང་མེད་ལ་དཔྱོད་པ་ཡང་མེད་པའི་ས། ^3-0
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py group-split /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/As_3CDk_
+group-in-part1.md: units 1–586 → groups-prose-part1.json
+group-in-part2.md: units 587–1167 → groups-prose-part2.json
+group-in-part3.md: units 1168–1733 → groups-prose-part3.json
+group-in-part4.md: units 1734–2068 → groups-prose-part4.json
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py group-join /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/As_3CDk_
+groups-prose.json: 599 blocks from 4 parts
+
+$ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/seg-toc-lib/root_text_build.py finish /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/As_3CDk_
+   ✓ final-prose.md: letters identical; 1121 spacing difference(s) restored from the source — now identical (letters and spacing)
+/Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/As_3CDk_/final-prose.md: 592 paragraphs (sentences per paragraph: 1 ×72, 2 ×197, 3 ×98, 4 ×82, 5 ×54, 6 ×36, 7 ×25, 8 ×8, 9 ×6, 10 ×6, 11 ×3, 12 ×2, 14 ×1, 15 ×1, 19 ×1) · 7 stanzas (4 lines ×5, 8 lines ×2)
+
