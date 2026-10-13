@@ -17,6 +17,10 @@ license: "public"
 pandita: "12-Dharmakirti"
 category_id: "SoGlGBaboYkVa7b9qJvvK"
 category_name: "Miscellaneous / སྣ་ཚོགས།"
+text_id: "hxhekmTAK0LlUbpI1aqCi"
+edition_id: "ICzRJK7cN4ofnfragbe1N"
+toc_id: "OTcaOdk9Z5C3YyyHWhHUK"
+durchen_count: 8
 openpecha_text_id: "x6WuGXMGHTaiIf4iGD9Vw"
 ---
 

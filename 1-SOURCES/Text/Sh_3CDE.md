@@ -18,6 +18,10 @@ license: "public"
 pandita: "07-Shantarakshita"
 category_id: "v3L4eTn4x2E30znIhHvQe"
 category_name: "Logic / ཚད་མ།"
+text_id: "ZXnSIFwTdHCQtMXw6ExUa"
+edition_id: "04mn1pAmGtIxHDP4D1qSk"
+toc_id: "P29uiOI2TyNYn3sIal31Y"
+durchen_count: 2663
 openpecha_text_id: "HwufutQgHWKfxUL6RO9eY"
 ---
 

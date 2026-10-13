@@ -17,6 +17,10 @@ license: "public"
 pandita: "10-Vasubandhu"
 category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
 category_name: "Mind-only Treatises / སེམས་ཙམ།"
+text_id: "sGn4yZ2cobBWp7WBqp4uN"
+edition_id: "bmwkVckIor4TV6TDjdZaS"
+toc_id: "mEOP2K4Bw9AjKXirC0mgq"
+durchen_count: 13
 openpecha_text_id: "Km5PN6Sx9ue5F7qAwtaRm"
 ---
 

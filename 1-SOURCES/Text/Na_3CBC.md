@@ -18,6 +18,10 @@ license: "public"
 pandita: "01-Nagarjuna"
 category_id: "4wuvGxIgXNZ5mb0bDWvkC"
 category_name: "Monastic Rules / འདུལ་བ།"
+text_id: "RIiNagkrDTtKlHaII1rcA"
+edition_id: "j5HSnWndeP8Cjsd8SkRrr"
+toc_id: "tB8YqLxIs8E2YVSs5l4h0"
+durchen_count: 4
 openpecha_text_id: "5VknhFEePdazJv7LSiklS"
 ---
 

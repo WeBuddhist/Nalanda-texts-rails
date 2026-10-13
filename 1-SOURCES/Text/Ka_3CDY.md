@@ -20,6 +20,10 @@ license: "public"
 pandita: "08-Kamalashila"
 category_id: "SoGlGBaboYkVa7b9qJvvK"
 category_name: "Miscellaneous / སྣ་ཚོགས།"
+text_id: "tnbQed5Pi52xZegnSHFOf"
+edition_id: "FK2fNEnR0fzIz95MLNeO8"
+toc_id: "UTU2HxbJFZBUWdyQvnMum"
+durchen_count: 17
 openpecha_text_id: "kXw5ncwU0390dkRN0yqjf"
 ---
 

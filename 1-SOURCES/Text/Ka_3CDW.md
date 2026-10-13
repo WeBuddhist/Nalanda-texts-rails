@@ -18,6 +18,10 @@ license: "public"
 pandita: "08-Kamalashila"
 category_id: "sEStEY4RRWU7U23rkiOk5"
 category_name: "Mind Trainings and Advices / བློ་སྦྱོང་དང་བསླབ་བྱ།"
+text_id: "U9AkzIcp3ZeuXdmRgDqh4"
+edition_id: "A9iFEPyEiFrEc6R8buLbQ"
+toc_id: "RAi7MJgk9djeKoHT3SjUp"
+durchen_count: 111
 openpecha_text_id: "cGBN1UauBpEBLLSYgVLPj"
 ---
 

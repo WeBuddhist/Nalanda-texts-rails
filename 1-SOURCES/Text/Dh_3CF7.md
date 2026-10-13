@@ -18,6 +18,10 @@ license: "public"
 pandita: "12-Dharmakirti"
 category_id: "v3L4eTn4x2E30znIhHvQe"
 category_name: "Logic / ཚད་མ།"
+text_id: "YS7pmQGI3dnobFzBMXDn2"
+edition_id: "TnFczqSeyM1BXEWrwYKoN"
+toc_id: "l8U7Jo2A388UWnb0AfoKz"
+durchen_count: 206
 openpecha_text_id: "ABbmpzyTWAQY8LNXzpxCZ"
 ---
 
@@ -179,13 +183,11 @@ openpecha_text_id: "ABbmpzyTWAQY8LNXzpxCZ"
 
 རིགས་པའི༌[^205]ཐིགས་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ་རྫོགས་སོ།། །། ^3-50
 
-པཎྜི་ཏ་གཞན་ལ་ཕན་པ་བཟང་པོ་ལ་སོགས་པ་དང་། ^3-51
-
 ## མཇུག་བྱང། ^a-0
 
 ### འགྱུར་བྱང། ^a-1-0
 
-བོད་ཀྱི་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ།། །།[^206] ^a-1
+པཎྜི་ཏ་གཞན་ལ་ཕན་པ་བཟང་པོ་ལ་སོགས་པ་དང་། བོད་ཀྱི་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ།། །།[^206] ^a-1
 
 [^1]: འཁྲུག་པ་ ༼སྣར།༽ འཁྲུགས་པ་ ༼པེ།༽ འཁྲུལ་པ་
 [^2]: སྐྱེས་པའི་ ༼སྣར། པེ།༽ བསྐྱེད་པའི་

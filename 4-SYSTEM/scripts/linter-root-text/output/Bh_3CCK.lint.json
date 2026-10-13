@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Bh_3CCK.md",
+  "validated_at": "2026-10-13T11:11:12.786872+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 152 from 152 footnote definition(s)",
+    "toc: 8 headers found"
+  ],
+  "warnings": [
+    "author 'Bhāviveka': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3477",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "སྡེ་པ་ཐ་དད་པར་བྱེད་པ་དང་རྣམ་པར་བཤད་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "སྡེ་པ་ཐ་དད་པར་འབྱེད་པ་དང་རྣམ་པར་བཤད་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "4wuvGxIgXNZ5mb0bDWvkC",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

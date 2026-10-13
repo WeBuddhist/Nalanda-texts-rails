@@ -18,6 +18,10 @@ license: "public"
 pandita: "12-Dharmakirti"
 category_id: "v3L4eTn4x2E30znIhHvQe"
 category_name: "Logic / ཚད་མ།"
+text_id: "xNRsZOBmR1HcMH4im8i1a"
+edition_id: "jlCoT30FzbK3XlxP7GTVr"
+toc_id: "BtPRxWcECNWXjIBazY2fc"
+durchen_count: 1068
 openpecha_text_id: "uN6DbrJPaApfPK3sH7Sat"
 ---
 

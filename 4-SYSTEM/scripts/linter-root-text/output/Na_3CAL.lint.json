@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Na_3CAL.md",
+  "validated_at": "2026-10-13T14:49:39.547977+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 12 from 12 footnote definition(s)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT2187",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ལྷ་མོ་རིགས་བྱེད་མའི་སྒྲུབ་པའི་ཐབས།"
+    },
+    "alt_titles": [
+      {
+        "bo": "ལྷ་མོ་རིག་བྱེད་མའི་སྒྲུབ་ཐབས།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

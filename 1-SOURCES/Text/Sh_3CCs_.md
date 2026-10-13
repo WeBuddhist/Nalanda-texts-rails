@@ -17,6 +17,10 @@ license: "public"
 pandita: "06-Shantideva"
 category_id: "JD5ULLPAV1cxg7RSb7L3q"
 category_name: "Middle Way / དབུ་མ།"
+text_id: "8Rny2ucutFoSoG5TmR9q5"
+edition_id: "mAj7vTPEOGDJG8tnX5Yq2"
+toc_id: "4fgrVkDOJXGWstCGgYQ85"
+durchen_count: 1466
 openpecha_text_id: "BxD11EMUttisysWt8JUyi"
 ---
 

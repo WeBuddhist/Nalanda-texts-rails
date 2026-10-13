@@ -17,6 +17,10 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "XfCwZpoJMtfO7s0laQkdK"
 category_name: "Discourses / མདོ་སྡེ།"
+text_id: "nW13iRrxE99HxkoVeWi0f"
+edition_id: "VJA7i9U8C4hqCetnZEehU"
+toc_id: "kvJq39zZdcGSl3XdsfZ4M"
+durchen_count: 91
 openpecha_text_id: "OpgvprsftCoC5mSBAth9g"
 ---
 

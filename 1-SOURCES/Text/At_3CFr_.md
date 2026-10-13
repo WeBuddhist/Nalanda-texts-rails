@@ -18,6 +18,10 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "YMBiOLaK5MAbrzHMsVHaE"
+edition_id: "6x0yWIagKkndVBZCDZFyb"
+toc_id: "N2KfuC44rAmwURM3QXOXM"
+durchen_count: 7
 openpecha_text_id: "3ZDfmvnJLbsVl5Qt3jsdR"
 ---
 
@@ -43,13 +47,11 @@ openpecha_text_id: "3ZDfmvnJLbsVl5Qt3jsdR"
 
 བྱང་ཆུབ་ཀྱི་སེམས་བདེ་བ་ཆེན་པོའི་མན་ངག་རྫོགས་སོ།། །། ^1-6
 
-རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀཱ་ར་ཤྲཱི་ཛྙཱ་ན་ཉིད་དང་། ^1-7
-
 ## མཇུག་བྱང། ^a-0
 
 ### འགྱུར་བྱང། ^a-1-0
 
-ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་དགེ་བའི་བློ་གྲོས་ཀྱིས་བསྒྱུར་ཅིང་གཏན་ལ་ཕབ་ཕོ་བྲང་བྱང་ཆུབ་འོད་ཀྱིས་ཞུས་པའོ། ། ^a-1
+རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀཱ་ར་ཤྲཱི་ཛྙཱ་ན་ཉིད་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་དགེ་བའི་བློ་གྲོས་ཀྱིས་བསྒྱུར་ཅིང་གཏན་ལ་ཕབ་ཕོ་བྲང་བྱང་ཆུབ་འོད་ཀྱིས་ཞུས་པའོ། ། ^a-1
 
 [^1]: ལྟ་ ༼སྣར། པེ།༽ བལྟ་
 [^2]: བའོ། ༼སྣར། པེ།༽ ལོ།

@@ -17,6 +17,10 @@ license: "public"
 pandita: "11-Dignaga"
 category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
 category_name: "Mind-only Treatises / སེམས་ཙམ།"
+text_id: "1W01PQJlASsuGJbteRMm8"
+edition_id: "GujEmn9grAdeWy85ZcUQD"
+toc_id: "AjgYmFGFVP6fNyxNrnZHI"
+durchen_count: 9
 openpecha_text_id: "X40QOqH14JmqHqzZQSunu"
 ---
 

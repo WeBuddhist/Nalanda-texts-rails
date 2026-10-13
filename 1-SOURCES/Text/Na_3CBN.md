@@ -18,6 +18,10 @@ license: "public"
 pandita: "01-Nagarjuna"
 category_id: "Rrl0usffAJJbYTYe1euws"
 category_name: "Linguistics Treatises / རིག་གནས།"
+text_id: "1ZlVEnzP8JlAovlEkF4uE"
+edition_id: "3PXKHCzhLY1qeCG41Xwau"
+toc_id: "UUFq9MMC0qCWQm2ZQzfCK"
+durchen_count: 11
 openpecha_text_id:
 ---
 

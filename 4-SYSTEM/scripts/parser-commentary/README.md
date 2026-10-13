@@ -20,7 +20,7 @@ output/
   <stem>/                  # one folder per source file, named after it
     <stem>.text.json        # text_input payload (with commentary_of)
     <stem>.edition.json     # edition metadata, content and segments
-    <stem>.yigchungs.json   # yigchung (small-script) annotation spans
+    <stem>.yigchungs.json   # yigchung (small-script) annotation spans — only when the text has <small>
     <stem>.durchens.json    # durchen (variant-reading) notes with their spans
     <stem>.toc.json         # nested TOC with character spans
     <stem>.alignment.json   # commentary → root-text alignments

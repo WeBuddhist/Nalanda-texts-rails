@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Sh_3CCn_.md",
+  "validated_at": "2026-10-13T11:13:24.911101+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 7 from 7 footnote definition(s)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "author 'Śāntideva': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3282",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ཡི་གེ་བརྒྱ་པའི་བསྲུང་བ་དང་སྡིག་པ་བཤགས་པའི་ཆོ་ག"
+    },
+    "alt_titles": [
+      {
+        "bo": "དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ཡི་གེ་བརྒྱ་པའི་བསྲུང་བ་དང་སྡིག་པ་བཤགས་པའི་ཆོ་ག །"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

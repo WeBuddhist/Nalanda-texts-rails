@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Na_3CAz_.md",
+  "validated_at": "2026-10-13T11:12:58.819911+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 19 from 19 footnote definition(s)",
+    "toc: 9 headers found"
+  ],
+  "warnings": [
+    "author 'Nāgārjuna': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3183",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "མ་རྟོགས་པ་རྟོགས་པར་བྱེད་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "མ་རྟོགས་པ་རྟོགས་པར་བྱེད་པའི་རབ་ཏུ་བྱེད་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

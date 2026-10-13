@@ -18,6 +18,10 @@ license: "public"
 pandita: "06-Shantideva"
 category_id: "Rrl0usffAJJbYTYe1euws"
 category_name: "Linguistics Treatises / རིག་གནས།"
+text_id: "f1kgfnvdn8kRrN4UGhYBJ"
+edition_id: "D2oONAsg3j4tKkkpcF0ct"
+toc_id: "9myrCZ4Bp5a7PGLNeLpGY"
+durchen_count: 135
 openpecha_text_id:
 ---
 

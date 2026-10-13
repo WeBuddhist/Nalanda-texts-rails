@@ -17,6 +17,10 @@ license: "public"
 pandita: "10-Vasubandhu"
 category_id: "SoGlGBaboYkVa7b9qJvvK"
 category_name: "Miscellaneous / སྣ་ཚོགས།"
+text_id: "QJIPc1h85yzpU080yQ0rO"
+edition_id: "k6lYhk4g6tvVcB9SJxIuk"
+toc_id: "bxBhrtzIM0ld7WvgaHiCX"
+durchen_count: 2
 openpecha_text_id: "rh48q6V0VIfwvJNemxE3R"
 ---
 

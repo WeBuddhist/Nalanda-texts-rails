@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/At_3CGD.md",
+  "validated_at": "2026-10-13T11:09:49.815336+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 8 from 8 footnote definition(s)",
+    "toc: 6 headers found"
+  ],
+  "warnings": [
+    "author 'Atiśa': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT1883",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཁྲོ་བོ་རྒྱལ་པོ་འཕགས་པ་མི་གཡོ་བ་ལ་བསྟོད་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "ཁྲོ་བོའི་རྒྱལ་པོ་འཕགས་པ་མི་གཡོ་བ་ལ་བསྟོད་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

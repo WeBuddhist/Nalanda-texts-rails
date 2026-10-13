@@ -19,6 +19,10 @@ license: "public"
 pandita: "05-Chandrakirti"
 category_id: "JD5ULLPAV1cxg7RSb7L3q"
 category_name: "Middle Way / དབུ་མ།"
+text_id: "ACmWFR7EOLCyAS2PEAEyV"
+edition_id: "wFIXWQWegtc300L0A2Tce"
+toc_id: "9Y0ljQApn3QIixn27foaj"
+durchen_count: 318
 openpecha_text_id: "y3OWTxHecw6qI92cafRoo"
 ---
 

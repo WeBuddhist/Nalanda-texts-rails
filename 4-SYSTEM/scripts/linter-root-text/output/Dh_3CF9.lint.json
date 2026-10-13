@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Dh_3CF9.md",
+  "validated_at": "2026-10-13T11:11:27.112603+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 18 from 18 footnote definition(s)",
+    "toc: 6 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "author 'Dharmakīrti I': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3551",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འབྲེལ་པ་བརྟག་པའི་རབ་ཏུ་བྱེད་པ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "v3L4eTn4x2E30znIhHvQe",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

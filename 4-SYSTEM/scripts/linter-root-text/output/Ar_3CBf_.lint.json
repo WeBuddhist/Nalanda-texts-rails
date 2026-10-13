@@ -1,0 +1,41 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Ar_3CBf_.md",
+  "validated_at": "2026-10-13T11:08:53.193761+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 12 from 12 footnote definition(s)",
+    "toc: 6 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "segment 23 (^a-2): footnote [^12] lemma 'བསྟན་འགྱུར་དཔེ་བསྡུར་མ། རྒྱུད།' does not end at the marker — the durchen will span the syllable before it, 'བའོ།།  །།'"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0629",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དཔལ་མགོན་པོའི་ནང་སྒྲུབ་ཅེས་བྱ་བ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "དཔལ་མགོན་པོའི་ནང་སྒྲུབ་ཅེས་བྱ་བ་བཞུགས་སོ།།"
+      },
+      {
+        "bo": "དཔལ་མགོན་པོའི་ནང་སྒྲུབ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

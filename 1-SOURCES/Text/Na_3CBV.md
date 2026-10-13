@@ -18,6 +18,10 @@ license: "public"
 pandita: "01-Nagarjuna"
 category_id: "SoGlGBaboYkVa7b9qJvvK"
 category_name: "Miscellaneous / སྣ་ཚོགས།"
+text_id: "UNIH8BLETwg5J1S3rnp9k"
+edition_id: "zUHVU3aZiINkWTmeAHjPm"
+toc_id: "e2BwWu0vamBsCBPtUCUZr"
+durchen_count: 0
 openpecha_text_id: "lcLwc8oOHrUsAzRbVa3Qt"
 ---
 

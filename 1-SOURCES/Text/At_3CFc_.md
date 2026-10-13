@@ -18,6 +18,10 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "rkIzElSVih6GRThZsr7ym"
+edition_id: "QPIpf7QqDLllJSeRQWPXc"
+toc_id: "6BkkHJ4qRYjgvjo5yFimZ"
+durchen_count: 19
 openpecha_text_id: "De4TGIGzuj6LcdG5YNQ9a"
 ---
 

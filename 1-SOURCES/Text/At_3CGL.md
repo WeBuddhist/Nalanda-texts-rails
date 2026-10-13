@@ -17,6 +17,10 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "LCorCb2K98p3TICt3UCDm"
 category_name: "Liturgy / ཞལ་འདོན།"
+text_id: "kGlQSTCd7gv7ytQlcWIcf"
+edition_id: "DJLEAaWOfy9RHdCReUSds"
+toc_id: "nHqcQgNg5FjS1qVNORPr4"
+durchen_count: 12
 openpecha_text_id:
 ---
 

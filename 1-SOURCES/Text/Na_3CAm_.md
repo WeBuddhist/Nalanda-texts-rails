@@ -18,6 +18,10 @@ license: "public"
 pandita: "01-Nagarjuna"
 category_id: "JD5ULLPAV1cxg7RSb7L3q"
 category_name: "Middle Way / དབུ་མ།"
+text_id: "3nD2S9OOxPvdFT34oTpuR"
+edition_id: "vXO7bA4PjX778C5wRJQPM"
+toc_id: "TefGFWCQCE447xMdEWAeh"
+durchen_count: 23
 openpecha_text_id: "dsjfWmqjrOiwS2QjOq7nX"
 ---
 

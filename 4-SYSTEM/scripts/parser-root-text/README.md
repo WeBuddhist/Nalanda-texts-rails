@@ -18,7 +18,7 @@ output/
   <stem>/                  # one folder per source file, named after it
     <stem>.text.json        # text_input payload
     <stem>.edition.json     # edition metadata, content and segments
-    <stem>.yigchungs.json   # yigchung (small-script) annotation spans
+    <stem>.yigchungs.json   # yigchung (small-script) annotation spans — only when the text has <small>
     <stem>.durchens.json    # durchen (variant-reading) notes with their spans
     <stem>.toc.json         # nested TOC with character spans
     <stem>.alignment.json   # translation/commentary → root-text alignments
@@ -70,7 +70,7 @@ Yigchung (ཡིག་ཆུང་, small-script gloss) is written `<small>…</
 - A run never carries past the end of its block
 - `<small>` in a heading: the tags are dropped from the TOC title, and no yigchung is recorded, since headings are not edition content (warning)
 - Stray tags (a `<small>` not closed by the end of its block or heading, a `</small>` with no open run, a `<small>` inside an open run) are caught by the **linter**, which lists each one as an error. The parser keeps a safety stop, since it also accepts a `.lint.errors.json`: on a stray tag it names the first one, writes no `edition.json` or `yigchungs.json`, and exits with status 1. Tags are matched case-insensitively
-- The file is written even when there are no runs (`{"yigchungs": []}`), so a file that loses its markup does not leave a stale payload
+- **No file when there are no runs**: a text without `<small>` gets no `yigchungs.json`, and one left from an earlier run is deleted, so a file that loses its markup does not leave a stale payload
 - The API does not check for duplicates: before re-uploading an edition that already has yigchungs, delete or check the existing marks. `PATCH /v2/editions/{id}/content` shifts existing marks itself
 
 Worked example: `སྒྲོལ་མ་<small>ལྗང་མོ་</small>འཁོར་བཅས་<small>ཉི་ཤུ་རྩ་གཅིག་པོ་</small>གཤེགས་སུ་གསོལ། ། ^II-2` gives the line `སྒྲོལ་མ་ལྗང་མོ་འཁོར་བཅས་ཉི་ཤུ་རྩ་གཅིག་པོ་གཤེགས་སུ་གསོལ། །` (57 code points) and two yigchungs at `[8,15)` ལྗང་མོ་ and `[24,41)` ཉི་ཤུ་རྩ་གཅིག་པོ་ relative to that line; the payload holds them plus the line's start in the content.
