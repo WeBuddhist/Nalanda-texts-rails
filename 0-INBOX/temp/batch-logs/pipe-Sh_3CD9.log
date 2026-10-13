@@ -45,3 +45,80 @@ Running 30 windows with 8 worker threads...
   [76.1s] Window 19/30 done: 5 op(s)
   [96.5s] Window 18/30 done: 10 op(s)
   [122.4s] Window 16/30 done: 7 op(s)
+  [107.2s] Window 23/30 done: 7 op(s)
+  [103.0s] Window 25/30 done: 7 op(s)
+  [143.7s] Window 22/30 done: 8 op(s)
+  [107.7s] Window 26/30 done: 8 op(s)
+  [251.9s] Window 17/30 done: 7 op(s)
+  [67.5s] Window 27/30 done: 6 op(s)
+  [47.9s] Window 30/30 done: 4 op(s)
+  [177.9s] Window 24/30 done: 8 op(s)
+  [244.2s] Window 20/30 done: 10 op(s)
+  [252.2s] Window 21/30 done: 12 op(s)
+  [107.7s] Window 29/30 done: 9 op(s)
+  [144.3s] Window 28/30 done: 10 op(s)
+
+Combining operations...
+Operations to apply: 196
+Blocks: 1046 -> 617
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CD9.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CD9.ops.md
+[Sh_3CD9] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CD9.reseg.md --commentary-id Sh_3CD9
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CD9.reseg.md
+ID:     Sh_3CD9
+
+Blocks: 617
+
+Step 1 — Deterministic checks...
+  16 flag(s) found.
+  Block 38 — OVER_LENGTH (297 syl)
+  Block 40 — OVER_LENGTH (345 syl)
+  Block 128 — OVER_LENGTH (355 syl)
+  Block 132 — OBJECTION_REPLY_FUSED
+  Block 168 — CONNECTOR_ENDING
+  Block 170 — OVER_LENGTH (361 syl)
+  Block 174 — CONNECTOR_ENDING
+  Block 190 — OBJECTION_REPLY_FUSED
+  Block 190 — OVER_LENGTH (442 syl)
+  Block 285 — OVER_LENGTH (302 syl)
+  Block 373 — CONNECTOR_ENDING
+  Block 393 — OVER_LENGTH (313 syl)
+  Block 410 — CONNECTOR_ENDING
+  Block 425 — OBJECTION_REPLY_FUSED
+  Block 458 — OBJECTION_REPLY_FUSED
+  Block 552 — OVER_LENGTH (264 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 1 correction(s):
+    SPLIT block 425 after: 'གཉིས་ཀྱི་ངོ་བོ་དེ་ལྟ་བུ་ཁོ་ནར་སྐྱེད་དོ་ཞེ་ན།'
+  ✓ Integrity check passed. Blocks: 617 → 618
+
+Step 3 — Re-checking after repair...
+  15 flag(s) remain after repair.
+  Updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CD9.reseg.md
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CD9.qc.md
+
+────────────────────────────────────────
+Flags before : 16
+Flags after  : 15
+Corrections  : 1
+[Sh_3CD9] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CD9\toc-tree-Sh_3CD9.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CD9.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Sh_3CD9.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            90
+  Inserted:               0
+  Already present:        90
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CD9.reseg.md
+✓ Sh_3CD9.reseg.md: identical to Sh_3CD9.md (letters and spacing; only breaks, headings, IDs added)
+[Sh_3CD9] ALL STEPS COMPLETED SUCCESSFULLY!
+[Sh_3CD9] DONE in 843s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Sh_3CD9.toc.md
+
+Finished. Failed: none

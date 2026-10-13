@@ -1,0 +1,35 @@
+[Sh_3CDD] using closing-line tree closing-tree-Sh_3CDD.md
+[Sh_3CDD] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CDD\toc-tree-Sh_3CDD.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CDD\toc-tree-Sh_3CDD.json
+Parsed 51 nodes (5 frame), max depth 5.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CDD\toc-tree-Sh_3CDD.json
+  depth  1: 9 nodes
+  depth  2: 26 nodes
+  depth  3: 3 nodes
+  depth  4: 5 nodes
+  depth  5: 8 nodes
+[Sh_3CDD] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CDD\toc-tree-Sh_3CDD.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Sh_3CDD\Sh_3CDD.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            51
+  Inserted:               51
+  Already present:        0
+  Blocks split at a node: 2 ['1', '5.8']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Sh_3CDD\Sh_3CDD.toc.md
+[Sh_3CDD] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Sh_3CDD.toc.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Sh_3CDD 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Sh_3CDD.toc.md...
+Blocks: 2379 (headings: 52, content: 2327)
+Windows: 68
+Windows to process: 68 / 68
+Running 68 windows with 8 worker threads...
+  [130.0s] Window 4/68 done: 10 op(s)
+  [141.3s] Window 1/68 done: 8 op(s)
+  [145.0s] Window 2/68 done: 7 op(s)
+  [158.8s] Window 3/68 done: 6 op(s)
+  [204.4s] Window 5/68 done: 13 op(s)
+  [230.2s] Window 7/68 done: 13 op(s)

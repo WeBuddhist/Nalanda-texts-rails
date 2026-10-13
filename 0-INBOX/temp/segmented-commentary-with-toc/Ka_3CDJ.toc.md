@@ -21,7 +21,7 @@ category_name: "Middle Way / དབུ་མ།"
 openpecha_text_id: "2s3G9cWCpRgjzSYd5arxW"
 ---
 
-## ༄༅། །དབུ་མའི་རྒྱན་གྱི་དཀའ་འགྲེལ།
+# ༄༅། །དབུ་མའི་རྒྱན་གྱི་དཀའ་འགྲེལ།
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 
