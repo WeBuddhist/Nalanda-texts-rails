@@ -49,3 +49,108 @@ Ch_3CCa_: 5418 blocks, 155 windows, 155 to call
    1566s  window 41: 11 op(s)
    1601s  window 45: 8 op(s)
    1631s  window 46: 9 op(s)
+   1708s  window 44: 7 op(s)
+   1733s  window 50: 7 op(s)
+   1745s  window 48: 10 op(s)
+   1761s  window 49: 6 op(s)
+    ! window-12 attempt 4/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 70s...
+    ! window-47 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+   1880s  window 54: 3 op(s)
+   1902s  window 51: 10 op(s)
+   1940s  window 52: 10 op(s)
+   1951s  window 55: 7 op(s)
+   1964s  window 47: 6 op(s)
+   2041s  window 56: 8 op(s)
+    ! window-53 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+   2106s  window 57: 8 op(s)
+   2210s  window 62: 8 op(s)
+   2255s  window 61: 12 op(s)
+   2287s  window 58: 7 op(s)
+   2298s  window 60: 13 op(s)
+    ! window-59 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+   2326s  window 63: 11 op(s)
+   2381s  window 64: 6 op(s)
+    ! window-53 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 20s...
+   2497s  window 65: 6 op(s)
+   2521s  window 67: 5 op(s)
+   2534s  window 12: 7 op(s)
+   2535s  window 68: 7 op(s)
+   2545s  window 69: 8 op(s)
+    ! window-66 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+   2713s  window 74: 5 op(s)
+   2873s  window 53: 10 op(s)
+   2883s  window 72: 8 op(s)
+    ! window-71 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! window-70 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+    ! window-73 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! window-59 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 17s...
+   2967s  window 75: 5 op(s)
+    ! window-66 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 18s...
+   3116s  window 76: 7 op(s)
+   3117s  window 77: 8 op(s)
+   3120s  window 78: 5 op(s)
+   3188s  window 71: 12 op(s)
+   3213s  window 70: 7 op(s)
+   3241s  window 81: 8 op(s)
+   3333s  window 82: 7 op(s)
+   3370s  window 73: 10 op(s)
+    ! window-59 attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 34s...
+   3387s  window 79: 9 op(s)
+   3390s  window 83: 10 op(s)
+   3435s  window 66: 12 op(s)
+   3450s  window 84: 11 op(s)
+   3509s  window 86: 9 op(s)
+    ! window-80 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+   3628s  window 59: 6 op(s)
+   3650s  window 87: 9 op(s)
+   3673s  window 90: 5 op(s)
+   3685s  window 91: 6 op(s)
+   3719s  window 85: 12 op(s)
+   3723s  window 88: 7 op(s)
+   3766s  window 89: 10 op(s)
+   3828s  window 93: 6 op(s)
+   3839s  window 92: 11 op(s)
+   3861s  window 95: 8 op(s)
+   3877s  window 94: 6 op(s)
+   3906s  window 80: 12 op(s)
+   3931s  window 96: 6 op(s)
+   3936s  window 100: 6 op(s)
+   3980s  window 102: 2 op(s)
+    ! window-97 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+   4122s  window 98: 6 op(s)
+   4148s  window 105: 5 op(s)
+   4179s  window 103: 9 op(s)
+   4182s  window 99: 7 op(s)
+   4233s  window 101: 4 op(s)
+   4268s  window 110: 6 op(s)
+   4277s  window 104: 4 op(s)
+   4332s  window 106: 4 op(s)
+   4340s  window 97: 3 op(s)
+   4342s  window 109: 7 op(s)
+   4403s  window 107: 5 op(s)
+   4487s  window 108: 7 op(s)
+   4539s  window 111: 2 op(s)
+   4543s  window 114: 7 op(s)
+   4573s  window 117: 7 op(s)
+   4626s  window 113: 5 op(s)
+   4627s  window 112: 3 op(s)
+   4641s  window 115: 8 op(s)
+    ! window-116 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+   4808s  window 124: 9 op(s)
+   4860s  window 119: 8 op(s)
+    ! window-118 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+    ! window-121 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+   4958s  window 123: 10 op(s)
+    ! window-120 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+   5032s  window 122: 9 op(s)
+   5051s  window 125: 8 op(s)
+   5070s  window 116: 8 op(s)
+   5225s  window 120: 11 op(s)
+   5234s  window 126: 7 op(s)
+   5259s  window 121: 11 op(s)
+   5265s  window 130: 9 op(s)
+    ! window-118 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 19s...
+   5356s  window 128: 7 op(s)
+    ! window-127 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+   5409s  window 131: 12 op(s)
+   5417s  window 129: 9 op(s)
