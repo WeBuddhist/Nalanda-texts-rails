@@ -1,3 +1,27 @@
+---
+title: "དྲི་མ་མེད་པ་རིན་པོ་ཆེའི་སྤྲིང་ཡིག"
+alt_titles:
+  - bo: "དྲི་མ་མེད་པ་རིན་པོ་ཆེའི་སྤྲིང་ཡིག།"
+  - bo: "དྲི་མ་མེད་པའི་རིན་པོ་ཆེའི་ཕྲིན་ཡིག་ཅེས་བྱ་བ།"
+  - bo: "དྲི་མ་མེད་པ་རིན་པོ་ཆེའི་སྤྲིང་ཡིག་ཅེས་བྱ་བ།"
+author:
+author_in_english: "Atiśa"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx (17-Atisha); https://wb.pub/3CHI"
+bdrc_work_id: "WA0RT3526"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "17-Atisha"
+category_id: "sEStEY4RRWU7U23rkiOk5"
+category_name: "Mind Trainings and Advices / བློ་སྦྱོང་དང་བསླབ་བྱ།"
+openpecha_text_id: "SntbI6bqHNX4LUipG3Zps"
+---
 
 # ༄༅། །དྲི་མ་མེད་པ་རིན་པོ་ཆེའི་སྤྲིང་ཡིག། ^0
 

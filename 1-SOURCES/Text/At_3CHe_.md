@@ -1,3 +1,25 @@
+---
+title: "གཟའ་བརྒྱད་ཀྱི་ལས་མ་གྲུབ་པ་རྣམས་གྲུབ་པར་བྱེད་པའི་ཆོ་ག་འདོད་པ་རབ་ཏུ་ཞི་བ་ཞེས་བྱ་བ།"
+alt_titles:
+  - bo: "གཟའ་བརྒྱད་ཀྱི་ལས་མ་གྲུབ་པ་རྣམས་གྲུབ་པར་བྱེད་པའི་ཆོ་ག་འདོད་པ་རབ་ཏུ་ཞི་བ།"
+author: "མར་མེ་མཛད་བཟང་པོ།"
+author_in_english: "Dīpaṅkarabhadra"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx (17-Atisha); https://wb.pub/3CHe"
+bdrc_work_id: "WA0RT1858"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "17-Atisha"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id: "zzvlrSCcYdQbEYyo7BobX"
+---
 
 # ༄༅། །གཟའ་བརྒྱད་ཀྱི་ལས་མ་གྲུབ་པ་རྣམས་གྲུབ་པར་བྱེད་པའི་ཆོ་ག་འདོད་པ་རབ་ཏུ་ཞི་བ་ཞེས་བྱ་བ། ^0
 

@@ -1,3 +1,25 @@
+---
+title: "རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མའི་སྒྲུབས་ཐབས།"
+alt_titles:
+  - bo: "རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།"
+author: "ཀ་མ་ལ་ཤཱི་ལ།"
+author_in_english: "kamalashila"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CGJ"
+bdrc_work_id: "WA0RT1165"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "17-Atisha"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id: "1KiKAhp15ugTUjgAAEvoT"
+---
 
 # ༄༅། །རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མའི་སྒྲུབས་ཐབས། ^0
 

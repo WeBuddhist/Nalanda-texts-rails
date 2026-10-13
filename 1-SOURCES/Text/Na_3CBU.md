@@ -1,3 +1,28 @@
+---
+title: "རྒྱལ་པོ་ལ་གཏམ་བྱ་བ་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས་བྱུང་བའི་སྨོན་ལམ་ཚིགས་སུ་བཅད་པ་ཉི་ཤུ་པ།"
+alt_titles:
+  - bo: "རྒྱལ་པོ་ལ་གཏམ་བྱ་བ་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས་བྱུང་བའི་སྨོན་ལམ་ཚིགས་སུ་བཅད་པ་ཉི་ཤུ་པ་བཞུགས་སོ། །"
+  - bo: "རྒྱལ་པོ་ལ་གཏམ་བྱ་བ་རིན་པོ་ཆེའི་ཕྲེང་བ་ཞེས་བྱ་བ་ལས་འབྱུང་བའི་སྨོན་ལམ་ཚིགས་སུ་བཅད་པ་ཉི་ཤུ་པ།"
+  - sa: "[राजपरिकथारत्नावल्युद्भवप्रणिधानगाथविंशक]"
+  - sa: "राजपरिकथारत्नावलिनामोद्भवप्रणिधानगाथाविंशक"
+author: "སློབ་དཔོན་ཀླུ་སྒྲུབ།"
+author_in_english: "Nāgārjuna"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 21) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཇ༽ .docx (01-Nagarjuna); https://wb.pub/3CBU"
+bdrc_work_id: "WA0RT3722"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "01-Nagarjuna"
+category_id: "SoGlGBaboYkVa7b9qJvvK"
+category_name: "Miscellaneous / སྣ་ཚོགས།"
+openpecha_text_id: "cWtUjH8TyOEv1qxnVtg0i"
+---
 
 # ༄༅། །རྒྱལ་པོ་ལ་གཏམ་བྱ་བ་རིན་པོ་ཆེའི་ཕྲེང་བ་ལས་བྱུང་བའི་སྨོན་ལམ་ཚིགས་སུ་བཅད་པ་ཉི་ཤུ་པ་བཞུགས་སོ། ། ^0
 

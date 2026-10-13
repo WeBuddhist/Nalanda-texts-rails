@@ -1,3 +1,24 @@
+---
+title: "རྣམ་དབྱེའི་ཚིག་ལེའུར་བྱས་པ།"
+alt_titles:
+author: "པཎྜི་ཏ་ས་དབང་བཟང་པོ།"
+author_in_english: "Mahīndrabhadra"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 89) སེངྒེ་བཟང་པོའི་གསུང་འབུམ། ཉ༽ .docx (14-Haribhadra); https://wb.pub/3CFO"
+bdrc_work_id: "WA0RT3609"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "14-Haribhadra"
+category_id: "Rrl0usffAJJbYTYe1euws"
+category_name: "Linguistics Treatises / རིག་གནས།"
+openpecha_text_id: "WIoz1doE1DXt8jtmwaTfM"
+---
 
 # ༄༅། །རྣམ་དབྱེའི་ཚིག་ལེའུར་བྱས་པ། ^0
 

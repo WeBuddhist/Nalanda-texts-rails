@@ -1,3 +1,28 @@
+---
+title: "ཐེག་པ་ཆེན་པོའི་ཆོས་བརྒྱ་གསལ་བའི་སྒོའི་བསྟན་བཅོས།"
+alt_titles:
+author:
+  - "སློབ་དཔོན་དབྱིག་གཉེན།"
+  - "གསེར་གླིང་རྒྱལ་པོ་དཔལ་ལྡན་ཆོས་སྐྱོང་།"
+author_in_english:
+  - "Vasubandhu"
+  - "Śrīdharmapāla"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 72) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ཐ༽ .docx (10-Vasubandhu); https://wb.pub/3CET"
+bdrc_work_id: "WA0RT3401"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "10-Vasubandhu"
+category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
+category_name: "Mind-only Treatises / སེམས་ཙམ།"
+openpecha_text_id: "5iuVGHNVLXLSbP3NQXQST"
+---
 
 # ༄༅། །ཐེག་པ་ཆེན་པོའི་ཆོས་བརྒྱ་གསལ་བའི་སྒོའི་བསྟན་བཅོས། ^0
 

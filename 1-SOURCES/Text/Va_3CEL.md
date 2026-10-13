@@ -1,3 +1,24 @@
+---
+title: "སུམ་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ།"
+alt_titles:
+author: "སློབ་དཔོན་དབྱིག་གཉེན།"
+author_in_english: "Vasubandhu"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 72) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ཐ༽ .docx (10-Vasubandhu); https://wb.pub/3CEL"
+bdrc_work_id: "WA0RT3394"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "10-Vasubandhu"
+category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
+category_name: "Mind-only Treatises / སེམས་ཙམ།"
+openpecha_text_id: "4y0MSVJO2snT3ClMluqDw"
+---
 
 # ༄༅། །སུམ་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ། ^0
 

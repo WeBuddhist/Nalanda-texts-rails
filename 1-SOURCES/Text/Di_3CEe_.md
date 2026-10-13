@@ -1,3 +1,29 @@
+---
+title: "སྤེལ་མར་བསྟོད་པ།"
+alt_titles:
+  - bo: "སྤེལ་མར་བསྟོད་པ་ཞེས་བྱ་བ།"
+author:
+  - "སློབ་དཔོན་མ་ཏི་ཙི་ཊ།"
+  - "སློབ་དཔོན་ཕྱོགས་གླང་།"
+author_in_english:
+  - "maticitra"
+  - "Dignāga"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 75) ཕྱོགས་གླང་གི་གསུང་འབུམ། ཀ༽ .docx (11-Dignaga); https://wb.pub/3CEe"
+bdrc_work_id: "WA0RT0041"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "11-Dignaga"
+category_id: "SoGlGBaboYkVa7b9qJvvK"
+category_name: "Miscellaneous / སྣ་ཚོགས།"
+openpecha_text_id: "tenb88YYccIpgcIvf0uGP"
+---
 
 # ༄༅། །སྤེལ་མར་བསྟོད་པ། ^0
 

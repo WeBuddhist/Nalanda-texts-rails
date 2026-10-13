@@ -1,3 +1,26 @@
+---
+title: "ཀྱེའི་རྡོ་རྗེ་ལས་བྱུང་བའི་ཀུ་རུ་ཀུ་ལླེའི་མན་ངག་ཆེན་པོ་ལྔ།"
+alt_titles:
+  - bo: "ཀྱེའི་རྡོ་རྗེ་ལས་བྱུང་བའི་ཀུ་རུ་ཀུལླེའི་མན་ངག་ཆེན་པོ་ལྔ་།"
+  - bo: "ཀྱེའི་རྡོ་རྗེ་ལས་བྱུང་བའི་ཀུ་རུ་ཀུ་ལླེའི་མན་ངག་ཆེན་པོ་ལྔ་།"
+author: "མཁན་ཆེན་ཞི་བ་འཚོ།"
+author_in_english: "Śāntirakṣita"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 43) ཞི་བ་འཚོའི་གསུང་འབུམ། ཀ༽ .docx (07-Shantarakshita); https://wb.pub/3CCy"
+bdrc_work_id: "WA0RT0447"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "07-Shantarakshita"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id: "UcsuenMGXroHmJJtK0Jey"
+---
 
 # ༄༅། །ཀྱེའི་རྡོ་རྗེ་ལས་བྱུང་བའི་ཀུ་རུ་ཀུ་ལླེའི་མན་ངག་ཆེན་པོ་ལྔ། ^0
 

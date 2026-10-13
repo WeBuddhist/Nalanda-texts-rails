@@ -1,3 +1,24 @@
+---
+title: "རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་འདུལ་བ་བསྡུ་བ།"
+alt_titles:
+author: "སློབ་དཔོན་ཐོགས་མེད།"
+author_in_english: "asanga"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 59) ཐོགས་མེད་ཀྱི་གསུང་འབུམ། ཉ༽ .docx (09-Asanga); https://wb.pub/3CDr"
+bdrc_work_id: "WA0RT3379"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "09-Asanga"
+category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
+category_name: "Mind-only Treatises / སེམས་ཙམ།"
+openpecha_text_id: "Qg5O4UsM0FM4DZ3CUW8y3"
+---
 
 # ༄༅། །རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་འདུལ་བ་བསྡུ་བ། ^0
 

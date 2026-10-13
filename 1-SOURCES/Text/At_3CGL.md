@@ -1,3 +1,24 @@
+---
+title: "འཕགས་མ་ལྷ་མོ་སྒྲོལ་མ་ལ་བསྟོད་པ།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CGL"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "17-Atisha"
+category_id: "LCorCb2K98p3TICt3UCDm"
+category_name: "Liturgy / ཞལ་འདོན།"
+openpecha_text_id:
+---
 
 # ༄༅། །འཕགས་མ་ལྷ་མོ་སྒྲོལ་མ་ལ་བསྟོད་པ། ^0
 

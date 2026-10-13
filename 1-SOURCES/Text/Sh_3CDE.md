@@ -1,3 +1,25 @@
+---
+title: "དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ།"
+alt_titles:
+  - bo: "དེ་ཁོ་ན་ཉིད་བསྡུས་པ།"
+author: "མཁན་ཆེན་ཞི་བ་འཚོ།"
+author_in_english: "Śāntirakṣita"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 45) ཞི་བ་འཚོའི་གསུང་འབུམ། ག༽ .docx (07-Shantarakshita); https://wb.pub/3CDE"
+bdrc_work_id: "WA0RT3601"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "07-Shantarakshita"
+category_id: "v3L4eTn4x2E30znIhHvQe"
+category_name: "Logic / ཚད་མ།"
+openpecha_text_id: "HwufutQgHWKfxUL6RO9eY"
+---
 
 # ༄༅། །དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ། ^0
 

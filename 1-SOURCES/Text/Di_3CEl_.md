@@ -1,3 +1,29 @@
+---
+title: "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ།"
+alt_titles:
+  - bo: "ཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་བ།"
+  - bo: "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིག་ལེའུའར་བྱས་པ།"
+  - bo: "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིགས་ལེའུར་བྱས་བ།"
+  - bo: "ཤེར་ཕྱིན་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་འགྲེལ།"
+  - bo: "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ།"
+author: "སློབ་དཔོན་ཕྱོགས་གླང་།"
+author_in_english: "Dignāga"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 75) ཕྱོགས་གླང་གི་གསུང་འབུམ། ཀ༽ .docx (11-Dignaga); https://wb.pub/3CEl"
+bdrc_work_id: "WA0RT3154"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "11-Dignaga"
+category_id: "uGpinx0GZlvU1uw44RyYS"
+category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+openpecha_text_id: "rZPeLU1FuMdeKDxa79jnV"
+---
 
 # ༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་མ་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ། ^0
 

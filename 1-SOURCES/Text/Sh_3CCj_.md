@@ -1,3 +1,24 @@
+---
+title: "ལྷན་ཅིག་སྐྱེས་པའི་གླུ།"
+alt_titles:
+author: "ཞི་བ་ལྷ།"
+author_in_english: "Śāntideva"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 41) ཞི་བ་ལྷའི་གསུང་འབུམ། ཀ༽ .docx (06-Shantideva); https://wb.pub/3CCj"
+bdrc_work_id: "WA0RT1168"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "06-Shantideva"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id: "AZo2M7i7VqJkN9wvblwJN"
+---
 
 # ༄༅། །ལྷན་ཅིག་སྐྱེས་པའི་གླུ། ^0
 

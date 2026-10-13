@@ -5,7 +5,7 @@ author: "སློབ་དཔོན་ཀླུ་སྒྲུབ།"
 author_in_english: "Nāgārjuna"
 date:
 language: "Tibetan"
-file_type: "commentary"
+file_type: "root-text"
 lang_tag: "bo"
 verse_id_format:
 registered_id:

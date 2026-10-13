@@ -1,3 +1,25 @@
+---
+title: "ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ།"
+alt_titles:
+  - bo: "ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ་བཞུགས།"
+author: "སློབ་དཔོན་དབྱིག་གཉེན།"
+author_in_english: "Vasubandhu"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 74) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ན༽ .docx (10-Vasubandhu); https://wb.pub/3CEX"
+bdrc_work_id: "WA0RT3427"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "10-Vasubandhu"
+category_id: "MZUUxphQ0yFwLBon3Vng8"
+category_name: "Systematic Treatises / མངོན་པ།"
+openpecha_text_id: "SuEjB3HRx4X1FM5fgBOsQ"
+---
 
 # ༄༅། །ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ་བཞུགས། ^0
 

@@ -1,3 +1,25 @@
+---
+title: "དེ་བཞིན་གཤེགས་པ་བདུན་གྱི་སྔོན་གྱི་སྨོན་ལམ་གྱི་ཁྱད་པར་རྒྱས་པའི་གཟུངས་བཀླག་པའི་ཆོ་ག་མདོ་སྡེ་ལས་བཏུས་པ།"
+alt_titles:
+  - bo: "དེ་བཞིན་གཤེགས་པ་བདུན་གྱི་སྔོན་གྱི་སྨོན་ལམ་གྱི་ཁྱད་པར་རྒྱས་པའི་གཟུངས་བཀླག་པའི་ཆོ་ག་མདོ་སྡེ་ལས་བསྡུས་པ།"
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 43) ཞི་བ་འཚོའི་གསུང་འབུམ། ཀ༽ .docx (07-Shantarakshita); https://wb.pub/3CD4"
+bdrc_work_id: "WA0RT1953"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "07-Shantarakshita"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id: "xbDDEXXjWISDhPHtMGq2b"
+---
 
 # ༄༅། །དེ་བཞིན་གཤེགས་པ་བདུན་གྱི་སྔོན་གྱི་སྨོན་ལམ་གྱི་ཁྱད་པར་རྒྱས་པའི་གཟུངས་བཀླག་པའི་ཆོ་ག་མདོ་སྡེ་ལས་བཏུས་པ། ^0
 

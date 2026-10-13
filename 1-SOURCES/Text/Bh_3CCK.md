@@ -1,3 +1,25 @@
+---
+title: "སྡེ་པ་ཐ་དད་པར་བྱེད་པ་དང་རྣམ་པར་བཤད་པ།"
+alt_titles:
+  - bo: "སྡེ་པ་ཐ་དད་པར་འབྱེད་པ་དང་རྣམ་པར་བཤད་པ།"
+author: "སློབ་དཔོན་ལེགས་ལྡན་འབྱེད།"
+author_in_english: "Bhāviveka"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 31) ལེགས་ལྡན་འབྱེད་ཀྱི་གསུང་འབུམ། ག .docx (04-Bhavaviveka); https://wb.pub/3CCK"
+bdrc_work_id: "WA0RT3477"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "04-Bhavaviveka"
+category_id: "4wuvGxIgXNZ5mb0bDWvkC"
+category_name: "Monastic Rules / འདུལ་བ།"
+openpecha_text_id: "ZvKS1O2bndNI4DR2yrxXl"
+---
 
 # ༄༅། །སྡེ་པ་ཐ་དད་པར་བྱེད་པ་དང་རྣམ་པར་བཤད་པ། ^0
 

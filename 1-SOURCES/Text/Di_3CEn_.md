@@ -1,3 +1,24 @@
+---
+title: "རྣལ་འབྱོར་ལ་འཇུག་པ།"
+alt_titles:
+author: "སློབ་དཔོན་ཕྱོགས་གླང་།"
+author_in_english: "Dignāga"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 75) ཕྱོགས་གླང་གི་གསུང་འབུམ། ཀ༽ .docx (11-Dignaga); https://wb.pub/3CEn"
+bdrc_work_id: "WA0RT3412"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "11-Dignaga"
+category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
+category_name: "Mind-only Treatises / སེམས་ཙམ།"
+openpecha_text_id: "X40QOqH14JmqHqzZQSunu"
+---
 
 # ༄༅། །རྣལ་འབྱོར་ལ་འཇུག་པ། ^0
 

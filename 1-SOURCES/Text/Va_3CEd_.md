@@ -1,3 +1,24 @@
+---
+title: "འདོད་པའི་ཡོན་ཏན་ལྔའི་ཉེས་དམིགས་བཤད་པ།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 74) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ན༽ .docx (10-Vasubandhu); https://wb.pub/3CEd"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "10-Vasubandhu"
+category_id: "sEStEY4RRWU7U23rkiOk5"
+category_name: "Mind Trainings and Advices / བློ་སྦྱོང་དང་བསླབ་བྱ།"
+openpecha_text_id:
+---
 
 # ༄༅། །འདོད་པའི་ཡོན་ཏན་ལྔའི་ཉེས་དམིགས་བཤད་པ། ^0
 

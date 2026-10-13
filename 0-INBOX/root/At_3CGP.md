@@ -6,7 +6,7 @@ author:
 author_in_english: "Atiśa"
 date:
 language: "Tibetan"
-file_type: "commentary"
+file_type: "root-text"
 lang_tag: "bo"
 verse_id_format:
 registered_id:

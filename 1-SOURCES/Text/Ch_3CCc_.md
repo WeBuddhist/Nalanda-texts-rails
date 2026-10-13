@@ -1,3 +1,24 @@
+---
+title: "དབུ་མ་ལ་འཇུག་པའི་ཚིག་ལེའུར་བྱས་པ།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 38) དཔལ་ལྡན་ཟླ་བ་གྲགས་པའི་གསུང་འབུམ། ང .docx (05-Chandrakirti); https://wb.pub/3CCc"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "05-Chandrakirti"
+category_id: "JD5ULLPAV1cxg7RSb7L3q"
+category_name: "Middle Way / དབུ་མ།"
+openpecha_text_id:
+---
 
 # ༄༅། །དབུ་མ་ལ་འཇུག་པའི་ཚིག་ལེའུར་བྱས་པ། ^0
 

@@ -1,3 +1,24 @@
+---
+title: "འཕགས་པ་སཱ་ལུ་ལྗང་པའི་ཚིག་ལེའུར་བྱས་པ།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 21) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཇ༽ .docx (01-Nagarjuna); https://wb.pub/3CB6"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "01-Nagarjuna"
+category_id: "XfCwZpoJMtfO7s0laQkdK"
+category_name: "Discourses / མདོ་སྡེ།"
+openpecha_text_id:
+---
 
 # ༄༅། །འཕགས་པ་སཱ་ལུ་ལྗང་པའི་ཚིག་ལེའུར་བྱས་པ། ^0
 

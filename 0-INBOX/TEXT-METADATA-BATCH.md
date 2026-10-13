@@ -2,13 +2,13 @@
 
 Every text in `0-INBOX/root` and `0-INBOX/commentary` got a YAML frontmatter block from `0-INBOX/text-relations.json`. This document says which texts carry OpenPecha metadata and which do not. How to re-run: `venv\Scripts\python.exe -X utf8 0-INBOX\temp\text-relations\write_frontmatter.py` (re-runnable: it replaces only the block it wrote; the text body is never changed).
 
-Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-text 430 · with OpenPecha metadata 362 · without OpenPecha metadata 203
+Updated 2026-10-13 · 565 texts · file_type commentary 123 · file_type root-text 442 · with OpenPecha metadata 362 · without OpenPecha metadata 203
 
 | Field | From |
 |---|---|
 | `title` | the file's own heading line, without `༄༅། །` and `བཞུགས་སོ` |
 | `alt_titles` | the heading as written (bo) + the OpenPecha record's titles in other languages the backend knows (cmg titles are kept only in `text-relations.json`); `sa` titles transliterated from IAST to Devanagari |
-| `file_type` | the reading (`text-relations.json`); where undecided, the folder |
+| `file_type` | `root-text` for every text in `0-INBOX/root`; for `0-INBOX/commentary` the reading (`text-relations.json`), and where undecided the folder |
 | `author`, `author_in_english`, `bdrc_work_id`, `openpecha_text_id` | the matched OpenPecha record (`OpenPecha` = yes); empty otherwise |
 | `license` | `public` (OpenPecha's `Public Domain Mark`, and every text without an OpenPecha license) |
 | `source` | `https://webuddhist.com/` |
@@ -24,17 +24,17 @@ Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-te
 
 | Folder | Texts | root-text | commentary | with OpenPecha metadata | without |
 |---|---|---|---|---|---|
-| `0-INBOX/root` | 442 | 430 | 12 | 290 | 152 |
+| `0-INBOX/root` | 442 | 442 | 0 | 290 | 152 |
 | `0-INBOX/commentary` | 123 | 0 | 123 | 72 | 51 |
-| **all** | 565 | 430 | 135 | 362 | 203 |
+| **all** | 565 | 442 | 123 | 362 | 203 |
 
 **OpenPecha metadata — 362 texts.** Text check of the match: same-text 357, part 4, title-only 1. Of these, 340 have an author and 361 a BDRC work id.
 
 **No OpenPecha metadata — 203 texts:** no OpenPecha record has this title (183); title matched, text check: different (13); title matched, text check: fragment (7).
 
-**Commentaries — 135.** The commentary relationship is not written into the texts (no `root_text`); it is kept in `text-relations.json` (`commentary_of`).
+**Commentaries — 123.** The commentary relationship is not written into the texts (no `root_text`); it is kept in `text-relations.json` (`commentary_of`).
 
-**`file_type` differs from the folder — 12:** Ar_3CBm_ (commentary in `root`), At_3CFd_ (commentary in `root`), At_3CGP (commentary in `root`), At_3CHH (commentary in `root`), Di_3CEl_ (commentary in `root`), Ha_3CFF (commentary in `root`), Ha_3CFG (commentary in `root`), Ha_3CFH (commentary in `root`), Ha_3CFI (commentary in `root`), Ha_3CFJ (commentary in `root`), Na_3CAF (commentary in `root`), Na_3CAY (commentary in `root`).
+**Reading says commentary, set to root-text because the text is in `0-INBOX/root` — 12:** Ar_3CBm_, At_3CFd_, At_3CGP, At_3CHH, Di_3CEl_, Ha_3CFF, Ha_3CFG, Ha_3CFH, Ha_3CFI, Ha_3CFJ, Na_3CAF, Na_3CAY.
 
 **Reading undecided, `file_type` from the folder — 3:** At_3CGq_ (root-text), Di_3CEh_ (commentary), Na_3C9L (commentary).
 
@@ -79,7 +79,7 @@ Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-te
 | 8 | Ar_3CBj_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) |  |
 | 9 | Ar_3CBk_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) |  |
 | 10 | Ar_3CBl_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) | ritual (`ཆོ་ག`) |
-| 11 | Ar_3CBm_ | root | commentary | context | no | no OpenPecha record has this title |  |  |  | reading says commentary, folder says root-text |  | Tantras (reading) |  |
+| 11 | Ar_3CBm_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) |  | Tantras (reading) |  |
 | 12 | Ar_3CBn_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Middle Way (reading) |  |
 | 13 | Ar_3CBo_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) |  |
 | 14 | Ar_3CBp_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) | ritual (`ཆོག`) |
@@ -121,7 +121,7 @@ Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-te
 | 50 | As_3CDw_ | root | root-text | context | yes | same-text | LnroVeizznKtitIAwYvF0 | WA0RT3411 | asanga |  | Mind-only Treatises / སེམས་ཙམ། | Mind-only Treatises (openpecha) |  |
 | 51 | At_3CFb_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) | sādhana (`སྒྲུབ་ཐབས`) |
 | 52 | At_3CFc_ | root | root-text | context | yes | same-text | De4TGIGzuj6LcdG5YNQ9a | WA0RT0418 | Atiśa |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | torma ritual (`གཏོར་མ`) |
-| 53 | At_3CFd_ | root | commentary | context | yes | same-text | uuWC41Y72QYUfy28FzOur | WA0RT0205 | Atiśa | reading says commentary, folder says root-text | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | sādhana (`མངོན་པར་རྟོགས་པ`) |
+| 53 | At_3CFd_ | root | root-text | context | yes | same-text | uuWC41Y72QYUfy28FzOur | WA0RT0205 | Atiśa | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | sādhana (`མངོན་པར་རྟོགས་པ`) |
 | 54 | At_3CFe_ | root | root-text | context | yes | same-text | K3hfHt5kxokRQtOBoDr2z | WA0RT0206 | Atiśa |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | sādhana (`སྒྲུབ་ཐབས`) |
 | 55 | At_3CFf_ | root | root-text | context | yes | same-text | 8rQXayWpQpU8SRB5aiD8t | WA0RT0207 | Atiśa |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | sādhana (`མངོན་པར་རྟོགས་པ`) |
 | 56 | At_3CFg_ | root | root-text | context | yes | same-text | auVmEBt1TAqO3VxLdodtK | WA0RT0181 | the tiger rider |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | sādhana (`སྒྲུབ་ཐབས`) |
@@ -182,7 +182,7 @@ Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-te
 | 111 | At_3CGn_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) |  |
 | 112 | At_3CGO | root | root-text | context | yes | same-text | aq4SrzPHY79HFWEYcnevb | WA0RT2560 | Atiśa |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | praise (`བསྟོད`) |
 | 113 | At_3CGo_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) | praise (`བསྟོད`) |
-| 114 | At_3CGP | root | commentary | context | yes | same-text | gtSMW4FTcKrYh97M9Im2u | WA0RT2595 | Atiśa | reading says commentary, folder says root-text | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | torma ritual (`གཏོར་མ`) |
+| 114 | At_3CGP | root | root-text | context | yes | same-text | gtSMW4FTcKrYh97M9Im2u | WA0RT2595 | Atiśa | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | torma ritual (`གཏོར་མ`) |
 | 115 | At_3CGp_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Linguistics Treatises (reading) |  |
 | 116 | At_3CGQ | root | root-text | context | yes | same-text | 7wyRsny8NkbD6yJF3XybU | WA0RT2596 | Atiśa | same text as At_3CGa_ | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | ritual (`ཆོ་ག`) |
 | 117 | At_3CGq_ | root | root-text | folder | yes | same-text | MB7llOAAPUjdcaerSQcsF | WA0RT3149 | Atiśa | reading undecided — file_type from the folder | Perfection of Wisdom / ཤེར་ཕྱིན། | Prajñāpāramitā (openpecha) |  |
@@ -225,7 +225,7 @@ Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-te
 | 154 | At_3CHf_ | root | root-text | context | yes | same-text | FANIHNA9DPvT12KoJXk0Z | WA0RT1859 | Dīpaṅkarabhadra |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | ritual (`ཆོ་ག`) |
 | 155 | At_3CHG | root | root-text | context | yes | same-text | zNb8Wyp76h2cSu9MWKnx7 | WA0RT3317 | Atiśa |  | Middle Way / དབུ་མ། | Middle Way (openpecha) |  |
 | 156 | At_3CHg_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) |  |
-| 157 | At_3CHH | root | commentary | context | yes | same-text | OpgvprsftCoC5mSBAth9g | WA0RT3347 | Atiśa | reading says commentary, folder says root-text | Discourses / མདོ་སྡེ། | Discourses (openpecha) | ritual (`ཆོ་ག`) |
+| 157 | At_3CHH | root | root-text | context | yes | same-text | OpgvprsftCoC5mSBAth9g | WA0RT3347 | Atiśa | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) | Discourses / མདོ་སྡེ། | Discourses (openpecha) | ritual (`ཆོ་ག`) |
 | 158 | At_3CHh_ | root | root-text | context | yes | same-text | gRcyr8121dmMBgGe5FIcq | WA0RT1862 | Dīpaṅkarabhadra |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | offering (`མཆོད་པ`) |
 | 159 | At_3CHI | root | root-text | context | yes | same-text | SntbI6bqHNX4LUipG3Zps | WA0RT3526 | Atiśa |  | Mind Trainings and Advices / བློ་སྦྱོང་དང་བསླབ་བྱ། | Mind Trainings and Advices (openpecha) |  |
 | 160 | At_3CHi_ | root | root-text | context | yes | same-text | mAJt2TmQsd22Xqexyf3xo | WA0RT1863 | Dīpaṅkarabhadra |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) |  |
@@ -304,7 +304,7 @@ Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-te
 | 233 | Di_3CEi_ | root | root-text | context | no | title matched, text check: fragment |  |  |  |  |  | Tantras (reading) |  |
 | 234 | Di_3CEj_ | root | root-text | context | no | title matched, text check: fragment |  |  |  |  |  | Tantras (reading) |  |
 | 235 | Di_3CEk_ | root | root-text | context | yes | same-text | 5ZzdMPqpulraE8pWOMxQj | WA0RT1535 | Dignāga |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | praise (`བསྟོད`) |
-| 236 | Di_3CEl_ | root | commentary | context | yes | same-text | rZPeLU1FuMdeKDxa79jnV | WA0RT3154 | Dignāga | reading says commentary, folder says root-text | Perfection of Wisdom / ཤེར་ཕྱིན། | Prajñāpāramitā (openpecha) |  |
+| 236 | Di_3CEl_ | root | root-text | context | yes | same-text | rZPeLU1FuMdeKDxa79jnV | WA0RT3154 | Dignāga | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) | Perfection of Wisdom / ཤེར་ཕྱིན། | Prajñāpāramitā (openpecha) |  |
 | 237 | Di_3CEn_ | root | root-text | context | yes | same-text | X40QOqH14JmqHqzZQSunu | WA0RT3412 | Dignāga |  | Mind-only Treatises / སེམས་ཙམ། | Mind-only Treatises (openpecha) |  |
 | 238 | Di_3CEp_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Logic (reading) |  |
 | 239 | Di_3CEq_ | root | root-text | context | no | title matched, text check: different |  |  |  |  |  | Logic (reading) |  |
@@ -315,11 +315,11 @@ Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-te
 | 244 | Di_3CEx_ | root | root-text | context | yes | same-text | YlCMmu1JLSVa3o4yFOx3K | WA0RT3546 | Dignāga |  | Logic / ཚད་མ། | Logic (openpecha) |  |
 | 245 | Gu_3CFS | root | root-text | context | yes | same-text | vPmTubUjrqvnHBtB6q3Nv | WA0RT3455 | Guṇaprabha |  | Monastic Rules / འདུལ་བ། | Monastic Rules (openpecha) |  |
 | 246 | Gu_3CFT | root | root-text | context | yes | same-text | vyi9wS8ZMCVOLRS7gxOzn | WA0RT3456 | Guṇaprabha |  | Monastic Rules / འདུལ་བ། | Monastic Rules (openpecha) |  |
-| 247 | Ha_3CFF | root | commentary | context | no | no OpenPecha record has this title |  |  |  | reading says commentary, folder says root-text |  | Prajñāpāramitā (reading) |  |
-| 248 | Ha_3CFG | root | commentary | context | no | no OpenPecha record has this title |  |  |  | reading says commentary, folder says root-text |  | Prajñāpāramitā (reading) |  |
-| 249 | Ha_3CFH | root | commentary | context | no | no OpenPecha record has this title |  |  |  | reading says commentary, folder says root-text |  | Prajñāpāramitā (reading) |  |
-| 250 | Ha_3CFI | root | commentary | context | no | no OpenPecha record has this title |  |  |  | reading says commentary, folder says root-text |  | Prajñāpāramitā (reading) |  |
-| 251 | Ha_3CFJ | root | commentary | context | no | no OpenPecha record has this title |  |  |  | reading says commentary, folder says root-text |  | Prajñāpāramitā (reading) |  |
+| 247 | Ha_3CFF | root | root-text | context | no | no OpenPecha record has this title |  |  |  | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) |  | Prajñāpāramitā (reading) |  |
+| 248 | Ha_3CFG | root | root-text | context | no | no OpenPecha record has this title |  |  |  | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) |  | Prajñāpāramitā (reading) |  |
+| 249 | Ha_3CFH | root | root-text | context | no | no OpenPecha record has this title |  |  |  | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) |  | Prajñāpāramitā (reading) |  |
+| 250 | Ha_3CFI | root | root-text | context | no | no OpenPecha record has this title |  |  |  | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) |  | Prajñāpāramitā (reading) |  |
+| 251 | Ha_3CFJ | root | root-text | context | no | no OpenPecha record has this title |  |  |  | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) |  | Prajñāpāramitā (reading) |  |
 | 252 | Ha_3CFO | root | root-text | context | yes | same-text | WIoz1doE1DXt8jtmwaTfM | WA0RT3609 | Mahīndrabhadra |  | Linguistics Treatises / རིག་གནས། | Linguistics Treatises (openpecha) |  |
 | 253 | Ka_3CDK | root | root-text | context | yes | same-text | 6bQE06u6AEcl9ByI6Vsi8 | WA0RT3232 | kamalashila |  | Middle Way / དབུ་མ། | Middle Way (openpecha) |  |
 | 254 | Ka_3CDL | root | root-text | context | yes | same-text | GydntTc4QtxjMuNNFwlz8 | WA0RT3233 | kamalashila |  | Middle Way / དབུ་མ། | Middle Way (openpecha) |  |
@@ -402,7 +402,7 @@ Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-te
 | 331 | Na_3CAd_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Liturgy (reading) | praise (`བསྟོད`) |
 | 332 | Na_3CAE | root | root-text | context | yes | same-text | IJrODW0eXdqDi2hyKyGDc | WA0RT4299 | Nāgārjuna |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) | sādhana (`སྒྲུབ་ཐབས`) |
 | 333 | Na_3CAe_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) | sādhana (`སྒྲུབ་ཐབས`) |
-| 334 | Na_3CAF | root | commentary | context | yes | same-text | ZDJO2kHEvOsvmcbQjeAcu | WA0RT1890 | Nāgārjuna | reading says commentary, folder says root-text | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) |  |
+| 334 | Na_3CAF | root | root-text | context | yes | same-text | ZDJO2kHEvOsvmcbQjeAcu | WA0RT1890 | Nāgārjuna | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) |  |
 | 335 | Na_3CAf_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) | sādhana (`སྒྲུབ་ཐབས`) |
 | 336 | Na_3CAG | root | root-text | context | yes | same-text | 1PQIQSYdYz4d0eFlKNp3s | WA0RT1937 | Nāgārjuna |  | Tantras / རྒྱུད་སྡེ། | Tantras (openpecha) |  |
 | 337 | Na_3CAg_ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) | torma ritual (`གཏོར་མ`) |
@@ -433,7 +433,7 @@ Updated 2026-10-13 · 565 texts · file_type commentary 135 · file_type root-te
 | 362 | Na_3CAW | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) |  |
 | 363 | Na_3CAX | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) | sādhana (`སྒྲུབ་ཐབས`) |
 | 364 | Na_3CAx_ | root | root-text | context | yes | same-text | kVYtjG3jPQk0vcHmlUYxs | WA0RT3181 | Nāgārjuna |  | Middle Way / དབུ་མ། | Middle Way (openpecha) |  |
-| 365 | Na_3CAY | root | commentary | context | no | no OpenPecha record has this title |  |  |  | reading says commentary, folder says root-text |  | Tantras (reading) |  |
+| 365 | Na_3CAY | root | root-text | context | no | no OpenPecha record has this title |  |  |  | reading says commentary; set to root-text (texts in 0-INBOX/root are root-texts) |  | Tantras (reading) |  |
 | 366 | Na_3CAZ | root | root-text | context | no | no OpenPecha record has this title |  |  |  |  |  | Tantras (reading) |  |
 | 367 | Na_3CAz_ | root | root-text | context | yes | same-text | Rlit7LejXaO8eqIQxRslv | WA0RT3183 | Nāgārjuna |  | Middle Way / དབུ་མ། | Middle Way (openpecha) |  |
 | 368 | Na_3CB0 | root | root-text | context | yes | same-text | bDjeT1Kq1pXUA4e2j4egd | WA0RT3184 | Nāgārjuna |  | Middle Way / དབུ་མ། | Middle Way (openpecha) |  |

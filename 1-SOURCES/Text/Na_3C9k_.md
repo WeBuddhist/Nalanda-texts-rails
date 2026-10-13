@@ -1,3 +1,26 @@
+---
+title: "དེ་ཁོ་ན་ཉིད་སྒྲོན་མ།"
+alt_titles:
+  - bo: "དེ་ཁོ་ན་ཉིད་སྒྲོན་མ་ཞེས་བྱ་བ་ཕྱག་ན་རྡོ་རྗེའི་སྒྲུབ་ཐབས་ཐམས་ཅད་རྫོགས་པའི་རྒྱན།"
+  - bo: "དེ་ཁོ་ན་ཉིད་སྒྲོན་མ་ཞེས་བྱ་བ་ཕྱག་ན་རྡོ་རྗེའི་སྒྲུབ་ཐམས་ཅད་རྫོགས་པའི་རྒྱན།"
+author: "སློབ་དཔོན་ཀླུ་སྒྲུབ།"
+author_in_english: "Nāgārjuna"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 16) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཁ༽ .docx (01-Nagarjuna); https://wb.pub/3C9k"
+bdrc_work_id: "WA0RT1047"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "01-Nagarjuna"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id: "xCy9XnwIvL2NTg70ik4oL"
+---
 
 # ༄༅། །དེ་ཁོ་ན་ཉིད་སྒྲོན་མ། ^0
 

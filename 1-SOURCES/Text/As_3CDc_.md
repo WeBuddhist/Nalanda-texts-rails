@@ -1,3 +1,26 @@
+---
+title: "ཆོས་ཀྱི་སྐུ་ལ་གནས་པའི་ཡོན་ཏན་ལ་བསྟོད་པ།"
+alt_titles:
+  - bo: "ཆོས་ཀྱི་སྐུ་ལ་གནས་པའི་ཡོན་ཏན་ལ་བསྟོད་པ་བཞུགས།"
+  - bo: "ཆོས་ཀྱི་སྐུ་ལ་གནས་པའི་ཡོན་ཏན་ཐུན་མོང་མ་ཡིན་པ་ལ་བསྟོད་པ།"
+author: "སློབ་དཔོན་ཐོགས་མེད།"
+author_in_english: "asanga"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 52) ཐོགས་མེད་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (09-Asanga); https://wb.pub/3CDc"
+bdrc_work_id: "WA0RT0007"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "09-Asanga"
+category_id: "SoGlGBaboYkVa7b9qJvvK"
+category_name: "Miscellaneous / སྣ་ཚོགས།"
+openpecha_text_id: "MVkHUVRd20sSBptTUtSrD"
+---
 
 # ༄། །ཆོས་ཀྱི་སྐུ་ལ་གནས་པའི་ཡོན་ཏན་ལ་བསྟོད་པ་བཞུགས། ^0
 

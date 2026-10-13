@@ -1,3 +1,25 @@
+---
+title: "དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ཡི་གེ་བརྒྱ་པའི་བསྲུང་བ་དང་སྡིག་པ་བཤགས་པའི་ཆོ་ག"
+alt_titles:
+  - bo: "དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ཡི་གེ་བརྒྱ་པའི་བསྲུང་བ་དང་སྡིག་པ་བཤགས་པའི་ཆོ་ག །"
+author: "ཞི་བ་ལྷ།"
+author_in_english: "Śāntideva"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 41) ཞི་བ་ལྷའི་གསུང་འབུམ། ཀ༽ .docx (06-Shantideva); https://wb.pub/3CCn"
+bdrc_work_id: "WA0RT3282"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "06-Shantideva"
+category_id: "JD5ULLPAV1cxg7RSb7L3q"
+category_name: "Middle Way / དབུ་མ།"
+openpecha_text_id: "Re3ja5iKsqgx9utDs0gNc"
+---
 
 # ༄༅། །དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་ཡི་གེ་བརྒྱ་པའི་བསྲུང་བ་དང་སྡིག་པ་བཤགས་པའི་ཆོ་ག ། ^0
 

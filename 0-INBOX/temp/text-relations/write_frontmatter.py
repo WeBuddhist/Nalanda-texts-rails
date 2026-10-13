@@ -142,7 +142,9 @@ def frontmatter(fn, e, body, folder):
     authors = op.get("author") or []
     a_bo = [person(p, "bo") for p in authors if person(p, "bo")]
     a_en = [person(p, "en") for p in authors if person(p, "en")]
-    ftype = e["file_type"] or FOLDERS[folder]
+    # a text in 0-INBOX/root is a root-text, even where the reading says commentary
+    # (decided 2026-10-13); otherwise the reading, and where undecided the folder
+    ftype = "root-text" if folder == "0-INBOX/root" else (e["file_type"] or FOLDERS[folder])
     root = (e.get("commentary_of") or {}).get("file") if ftype == "commentary" else None
     fields = [
         ("title", title),
@@ -209,8 +211,8 @@ for folder in FOLDERS:
         note = []
         if e["file_type"] is None:
             note.append("reading undecided — file_type from the folder")
-        elif ftype != default:
-            note.append(f"reading says {ftype}, folder says {default}")
+        elif e["file_type"] != ftype:
+            note.append(f"reading says {e['file_type']}; set to {ftype} (texts in 0-INBOX/root are root-texts)")
         if e.get("duplicate_of"):
             note.append("same text as " + ", ".join(x[:-3] for x in e["duplicate_of"]))
         why = ("" if has_op else
@@ -244,7 +246,7 @@ lack = [r for r in rows if r[4] == "no"]
 match = collections.Counter(r[5] for r in have)
 why_not = collections.Counter(r[5] for r in lack)
 comm = [r for r in rows if r[2] == "commentary"]
-differ = [r for r in rows if "folder says" in r[10]]
+differ = [r for r in rows if "; set to" in r[10]]
 undecided = [r for r in rows if "undecided" in r[10]]
 dups = sorted({tuple(sorted([r[0][:-3]] + re.search(r"same text as ([^;]+)", r[10]).group(1).split(", ")))
                for r in rows if "same text as" in r[10]})
@@ -261,8 +263,8 @@ summary += [
     f"**Commentaries — {len(comm)}.** The commentary relationship is not written into the texts "
     "(no `root_text`); it is kept in `text-relations.json` (`commentary_of`).",
     "",
-    f"**`file_type` differs from the folder — {len(differ)}:** "
-    + (", ".join(f"{r[0][:-3]} ({r[2]} in `{r[1]}`)" for r in differ) or "none") + ".",
+    f"**Reading says commentary, set to root-text because the text is in `0-INBOX/root` — {len(differ)}:** "
+    + (", ".join(r[0][:-3] for r in differ) or "none") + ".",
     "",
     f"**Reading undecided, `file_type` from the folder — {len(undecided)}:** "
     + (", ".join(f"{r[0][:-3]} ({r[2]})" for r in undecided) or "none") + ".",
@@ -312,7 +314,7 @@ lines = [
     "| Field | From |", "|---|---|",
     "| `title` | the file's own heading line, without `༄༅། །` and `བཞུགས་སོ` |",
     "| `alt_titles` | the heading as written (bo) + the OpenPecha record's titles in other languages the backend knows (cmg titles are kept only in `text-relations.json`); `sa` titles transliterated from IAST to Devanagari |",
-    "| `file_type` | the reading (`text-relations.json`); where undecided, the folder |",
+    "| `file_type` | `root-text` for every text in `0-INBOX/root`; for `0-INBOX/commentary` the reading (`text-relations.json`), and where undecided the folder |",
     "| `author`, `author_in_english`, `bdrc_work_id`, `openpecha_text_id` | the matched OpenPecha record (`OpenPecha` = yes); empty otherwise |",
     "| `license` | `public` (OpenPecha's `Public Domain Mark`, and every text without an OpenPecha license) |",
     "| `source` | `https://webuddhist.com/` |",
