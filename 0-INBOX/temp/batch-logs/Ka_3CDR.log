@@ -1,0 +1,77 @@
+[Ka_3CDR] archived TOC-Ka_3CDR
+[Ka_3CDR] segmenting…
+C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Ka_3CDR_in.md: 42 segments, 0 flagged for Stage-2 review.
+Quote balance: 0 quote-open / 1 quote-close -> MISMATCH -- check citations for an unclosed or stray quote marker.
+Report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDR.segreport.tsv
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Ka_3CDR_out.md
+[Ka_3CDR] Chunks: 1 (size=150, overlap=25)
+[Ka_3CDR] Passes 1 & 2 to run: 1 P1, 1 P2 (workers=8)
+  [P2 10.4s] chunk_000 enumerations done
+  [P1 18.3s] chunk_000 candidates done
+[Ka_3CDR] Passes 1 & 2 completed.
+Running: C:\Program Files\Python314\python.exe -X utf8 -c import sys; sys.path.insert(0, sys.argv[1]); import extract_toc_tree as e; e.GEMINI_THINKING = 'medium'; sys.argv = ['extract_toc_tree.py', sys.argv[2], '--commentary-id', sys.argv[3]]; e.main() C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDR\Ka_3CDR.units.md Ka_3CDR
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDR\Ka_3CDR.units.md
+Commentary:   Ka_3CDR
+Lines:        96  ->  1 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-candidates-Ka_3CDR.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-tree-Ka_3CDR.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–96)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–96)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 0 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-candidates-Ka_3CDR.md
+✓ Pass 2: 1 enumeration blocks across 1 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-candidates-Ka_3CDR.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-tree-Ka_3CDR.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-tree-qc-Ka_3CDR.md
+[Ka_3CDR] Added frame node I. ཀླད་ཀྱི་དོན། [[༄༅༅། །རྒྱ་གར་སྐད་དུ། བྷཱ་བ་ན་ཡ…]]
+[Ka_3CDR] tree has no section nodes — frame nodes only
+[Ka_3CDR] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-tree-Ka_3CDR.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-tree-Ka_3CDR.json
+Parsed 2 nodes (2 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-tree-Ka_3CDR.json
+  depth  1: 2 nodes
+[Ka_3CDR] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-tree-Ka_3CDR.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDR\Ka_3CDR.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            2
+  Inserted:               2
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDR\Ka_3CDR.toc.md
+[Ka_3CDR] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDR.toc.md
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDR\toc-tree-Ka_3CDR.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDR\Ka_3CDR.final.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\1-SOURCES\Text\Ka_3CDR.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            2
+  Inserted:               0
+  Already present:        2
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDR\Ka_3CDR.final.md
+✓ Ka_3CDR.final.md: identical to Ka_3CDR.md (letters and spacing; only breaks, headings, IDs added)
+[Ka_3CDR] DONE in 55s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDR.toc.md
+
+Finished. Failed: none

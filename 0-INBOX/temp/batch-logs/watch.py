@@ -1,5 +1,5 @@
 import time, re, pathlib, sys
-ids = sys.argv[1:]; seen = set(); pat = re.compile(r"Running resegment QC|DONE in|FAILED|Traceback|INTEGRITY|WARNING|missing windows")
+ids = sys.argv[1:]; seen = set(); pat = re.compile(r"Running tree|Anchoring|Ingesting|Stamping|Not found:|letters|Running resegment QC|DONE in|FAILED|Traceback|INTEGRITY|WARNING|missing windows")
 d = pathlib.Path(__file__).parent
 while True:
     for c in ids:

@@ -1,0 +1,109 @@
+[Ka_3CDJ] Chunks: 21 (size=150, overlap=25)
+[Ka_3CDJ] Passes 1 & 2 to run: 0 P1, 0 P2 (workers=8)
+[Ka_3CDJ] Passes 1 & 2 completed.
+Running: C:\Program Files\Python314\python.exe -X utf8 -c import sys; sys.path.insert(0, sys.argv[1]); import extract_toc_tree as e; e.GEMINI_THINKING = 'medium'; sys.argv = ['extract_toc_tree.py', sys.argv[2], '--commentary-id', sys.argv[3]]; e.main() C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.units.md Ka_3CDJ
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.units.md
+Commentary:   Ka_3CDJ
+Lines:        2578  ->  21 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-candidates-Ka_3CDJ.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2578)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2578)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 0 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-candidates-Ka_3CDJ.md
+✓ Pass 2: 3 enumeration blocks across 21 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-candidates-Ka_3CDJ.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-qc-Ka_3CDJ.md
+[Ka_3CDJ] Added frame node I. ཀླད་ཀྱི་དོན། [[༄༅༅། །རྒྱ་གར་སྐད་དུ། མདྷྱཱ་ལཾ་…]]
+[Ka_3CDJ] tree has no section nodes — frame nodes only
+[Ka_3CDJ] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.json
+Parsed 2 nodes (2 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.json
+  depth  1: 2 nodes
+[Ka_3CDJ] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            2
+  Inserted:               2
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.toc.md
+[Ka_3CDJ] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDJ.toc.md
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.final.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Ka_3CDJ.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            2
+  Inserted:               0
+  Already present:        2
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.final.md
+✓ Ka_3CDJ.final.md: identical to Ka_3CDJ.md (letters and spacing; only breaks, headings, IDs added)
+[Ka_3CDJ] DONE in 40s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDJ.toc.md
+
+Finished. Failed: none

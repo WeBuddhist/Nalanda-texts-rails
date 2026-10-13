@@ -1,0 +1,90 @@
+[Ka_3CDG] using closing-line tree closing-tree-Ka_3CDG.md
+[Ka_3CDG] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.json
+Parsed 8 nodes (2 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.json
+  depth  1: 8 nodes
+[Ka_3CDG] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDG\Ka_3CDG.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            8
+  Inserted:               8
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDG\Ka_3CDG.toc.md
+[Ka_3CDG] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDG.toc.md
+[Ka_3CDG] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ka_3CDG 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDG.toc.md...
+Blocks: 1881 (headings: 9, content: 1872)
+Windows: 54
+Windows to process: 2 / 54
+Running 2 windows with 8 worker threads...
+  [120.1s] Window 47/54 done: 9 op(s)
+  [260.1s] Window 52/54 done: 12 op(s)
+
+Combining operations...
+Operations to apply: 438
+Blocks: 1881 -> 1006
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDG.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDG.ops.md
+[Ka_3CDG] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDG.reseg.md --commentary-id Ka_3CDG
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDG.reseg.md
+ID:     Ka_3CDG
+
+Blocks: 1006
+
+Step 1 — Deterministic checks...
+  44 flag(s) found.
+  Block 56 — SHORT_FRAGMENT (3 syl)
+  Block 82 — CONNECTOR_ENDING
+  Block 90 — OVER_LENGTH (338 syl)
+  Block 170 — OBJECTION_REPLY_FUSED
+  Block 183 — OVER_LENGTH (264 syl)
+  Block 185 — CONNECTOR_ENDING
+  Block 196 — SHORT_FRAGMENT (3 syl)
+  Block 198 — SHORT_FRAGMENT (3 syl)
+  Block 199 — OBJECTION_REPLY_FUSED
+  Block 231 — CONNECTOR_ENDING
+  Block 242 — OBJECTION_REPLY_FUSED
+  Block 255 — OBJECTION_REPLY_FUSED
+  Block 281 — OBJECTION_REPLY_FUSED
+  Block 311 — OBJECTION_REPLY_FUSED
+  Block 328 — CONNECTOR_ENDING
+  Block 350 — SHORT_FRAGMENT (3 syl)
+  Block 383 — OBJECTION_REPLY_FUSED
+  Block 384 — OBJECTION_REPLY_FUSED
+  Block 436 — OVER_LENGTH (278 syl)
+  Block 438 — OBJECTION_REPLY_FUSED
+  Block 454 — SHORT_FRAGMENT (3 syl)
+  Block 477 — OVER_LENGTH (274 syl)
+  Block 487 — OBJECTION_REPLY_FUSED
+  Block 565 — OBJECTION_REPLY_FUSED
+  Block 579 — OBJECTION_REPLY_FUSED
+  Block 587 — OVER_LENGTH (262 syl)
+  Block 620 — OBJECTION_REPLY_FUSED
+  Block 624 — OBJECTION_REPLY_FUSED
+  Block 663 — OBJECTION_REPLY_FUSED
+  Block 668 — SHORT_FRAGMENT (3 syl)
+  Block 673 — OVER_LENGTH (269 syl)
+  Block 675 — OVER_LENGTH (281 syl)
+  Block 699 — OVER_LENGTH (260 syl)
+  Block 730 — OBJECTION_REPLY_FUSED
+  Block 738 — OBJECTION_REPLY_FUSED
+  Block 739 — OBJECTION_REPLY_FUSED
+  Block 740 — OBJECTION_REPLY_FUSED
+  Block 744 — CONNECTOR_ENDING
+  Block 753 — OVER_LENGTH (274 syl)
+  Block 796 — OBJECTION_REPLY_FUSED
+  Block 817 — CONNECTOR_ENDING
+  Block 889 — OBJECTION_REPLY_FUSED
+  Block 925 — OBJECTION_REPLY_FUSED
+  Block 948 — OBJECTION_REPLY_FUSED
+
+Step 2 — LLM repair...

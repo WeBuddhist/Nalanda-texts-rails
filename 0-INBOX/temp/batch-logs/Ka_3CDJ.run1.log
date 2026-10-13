@@ -1,0 +1,129 @@
+[Ka_3CDJ] segmenting…
+C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Ka_3CDJ_in.md: 1273 segments, 0 flagged for Stage-2 review.
+Quote balance: 4 quote-open / 3 quote-close -> MISMATCH -- check citations for an unclosed or stray quote marker.
+Report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDJ.segreport.tsv
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Ka_3CDJ_out.md
+[Ka_3CDJ] Chunks: 21 (size=150, overlap=25)
+[Ka_3CDJ] Passes 1 & 2 to run: 21 P1, 21 P2 (workers=8)
+  [P1 13.3s] chunk_001 candidates done
+  [P1 19.1s] chunk_002 candidates done
+  [P1 20.3s] chunk_005 candidates done
+  [P1 21.5s] chunk_003 candidates done
+  [P1 22.3s] chunk_006 candidates done
+  [P1 27.0s] chunk_007 candidates done
+  [P1 27.4s] chunk_004 candidates done
+  [P1 18.5s] chunk_008 candidates done
+  [P1 18.9s] chunk_009 candidates done
+  [P1 39.1s] chunk_000 candidates done
+  [P1 14.5s] chunk_013 candidates done
+  [P1 19.2s] chunk_012 candidates done
+  [P1 13.3s] chunk_015 candidates done
+  [P1 18.3s] chunk_014 candidates done
+  [P1 26.3s] chunk_010 candidates done
+  [P1 27.5s] chunk_011 candidates done
+  [P1  8.7s] chunk_019 candidates done
+  [P1 13.3s] chunk_016 candidates done
+  [P1 13.7s] chunk_017 candidates done
+  [P1  9.9s] chunk_020 candidates done
+  [P1 15.6s] chunk_018 candidates done
+  [P2 15.2s] chunk_001 enumerations done
+  [P2 10.7s] chunk_005 enumerations done
+  [P2  8.6s] chunk_007 enumerations done
+  [P2 15.1s] chunk_006 enumerations done
+  [P2  9.0s] chunk_009 enumerations done
+  [P2 24.8s] chunk_003 enumerations done
+  [P2 24.9s] chunk_004 enumerations done
+  [P2 11.2s] chunk_010 enumerations done
+  [P2  6.9s] chunk_013 enumerations done
+  [P2  8.3s] chunk_015 enumerations done
+  [P2 25.1s] chunk_008 enumerations done
+  [P2 16.3s] chunk_012 enumerations done
+  [P2 14.2s] chunk_014 enumerations done
+  [P2 42.9s] chunk_002 enumerations done
+  [P2  9.0s] chunk_017 enumerations done
+  [P2  9.4s] chunk_020 enumerations done
+  [P2 30.7s] chunk_011 enumerations done
+  [P2 19.8s] chunk_016 enumerations done
+  [P2 17.4s] chunk_018 enumerations done
+  [P2 19.2s] chunk_019 enumerations done
+  [P2 65.1s] chunk_000 enumerations done
+[Ka_3CDJ] Passes 1 & 2 completed.
+Running: C:\Program Files\Python314\python.exe -X utf8 -c import sys; sys.path.insert(0, sys.argv[1]); import extract_toc_tree as e; e.GEMINI_THINKING = 'medium'; sys.argv = ['extract_toc_tree.py', sys.argv[2], '--commentary-id', sys.argv[3]]; e.main() C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.units.md Ka_3CDJ
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.units.md
+Commentary:   Ka_3CDJ
+Lines:        2578  ->  21 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-candidates-Ka_3CDJ.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2578)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2578)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 0 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-candidates-Ka_3CDJ.md
+✓ Pass 2: 3 enumeration blocks across 21 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-candidates-Ka_3CDJ.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-qc-Ka_3CDJ.md
+[Ka_3CDJ] Added frame node I. ཀླད་ཀྱི་དོན།
+[Ka_3CDJ] Added frame node b. མཇུག་བྱང།
+[Ka_3CDJ] Anchoring tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\find_toc_contexts.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.md C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.units.md
+No TOC entries found.
+[Ka_3CDJ] FAILED: Command failed with code 1: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\find_toc_contexts.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDJ\toc-tree-Ka_3CDJ.md C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDJ\Ka_3CDJ.units.md
+
+Finished. Failed: ['Ka_3CDJ']

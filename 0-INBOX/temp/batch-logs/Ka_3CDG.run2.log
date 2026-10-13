@@ -1,0 +1,166 @@
+[Ka_3CDG] archived TOC-Ka_3CDG
+[Ka_3CDG] archived RESEG-Ka_3CDG
+[Ka_3CDG] Chunks: 31 (size=150, overlap=25)
+[Ka_3CDG] Passes 1 & 2 to run: 31 P1, 31 P2 (workers=8)
+  [P1 13.1s] chunk_007 candidates done
+  [P1 17.0s] chunk_001 candidates done
+  [P1 17.3s] chunk_004 candidates done
+  [P1 18.8s] chunk_002 candidates done
+  [P1 18.9s] chunk_003 candidates done
+  [P1 20.2s] chunk_000 candidates done
+  [P1 21.2s] chunk_005 candidates done
+  [P1 16.3s] chunk_008 candidates done
+  [P1 31.3s] chunk_006 candidates done
+  [P1 14.3s] chunk_010 candidates done
+  [P1 12.8s] chunk_013 candidates done
+  [P1 13.1s] chunk_014 candidates done
+  [P1 15.5s] chunk_012 candidates done
+  [P1 18.5s] chunk_011 candidates done
+  [P1 25.0s] chunk_009 candidates done
+  [P1 12.9s] chunk_015 candidates done
+  [P1 12.3s] chunk_017 candidates done
+  [P1 14.3s] chunk_018 candidates done
+  [P1 17.5s] chunk_019 candidates done
+  [P1 10.3s] chunk_022 candidates done
+  [P1 21.1s] chunk_016 candidates done
+  [P1 21.4s] chunk_020 candidates done
+  [P1 19.8s] chunk_021 candidates done
+  [P1 17.5s] chunk_023 candidates done
+  [P1 12.7s] chunk_028 candidates done
+  [P1  9.1s] chunk_030 candidates done
+  [P1 22.4s] chunk_024 candidates done
+  [P1 14.6s] chunk_027 candidates done
+  [P1 12.0s] chunk_029 candidates done
+  [P1 17.1s] chunk_026 candidates done
+  [P1 22.6s] chunk_025 candidates done
+  [P2  7.0s] chunk_001 enumerations done
+  [P2  8.4s] chunk_003 enumerations done
+  [P2 16.0s] chunk_000 enumerations done
+  [P2  9.5s] chunk_004 enumerations done
+  [P2 15.6s] chunk_002 enumerations done
+  [P2 12.8s] chunk_007 enumerations done
+  [P2 16.9s] chunk_006 enumerations done
+  [P2  9.7s] chunk_011 enumerations done
+  [P2 10.5s] chunk_010 enumerations done
+  [P2 13.3s] chunk_009 enumerations done
+  [P2  8.5s] chunk_012 enumerations done
+  [P2 10.9s] chunk_013 enumerations done
+  [P2  9.4s] chunk_017 enumerations done
+  [P2 13.2s] chunk_016 enumerations done
+  [P2  9.9s] chunk_018 enumerations done
+  [P2 28.1s] chunk_008 enumerations done
+  [P2 32.8s] chunk_005 enumerations done
+  [P2 17.3s] chunk_014 enumerations done
+  [P2 12.4s] chunk_019 enumerations done
+  [P2  9.3s] chunk_024 enumerations done
+  [P2  7.1s] chunk_025 enumerations done
+  [P2 12.8s] chunk_022 enumerations done
+  [P2 29.4s] chunk_015 enumerations done
+  [P2 16.8s] chunk_021 enumerations done
+  [P2 11.5s] chunk_026 enumerations done
+  [P2 17.4s] chunk_023 enumerations done
+  [P2 20.3s] chunk_020 enumerations done
+  [P2  8.2s] chunk_027 enumerations done
+  [P2  9.8s] chunk_028 enumerations done
+  [P2  5.5s] chunk_030 enumerations done
+  [P2 17.3s] chunk_029 enumerations done
+[Ka_3CDG] Passes 1 & 2 completed.
+Running: C:\Program Files\Python314\python.exe -X utf8 -c import sys; sys.path.insert(0, sys.argv[1]); import extract_toc_tree as e; e.GEMINI_THINKING = 'medium'; sys.argv = ['extract_toc_tree.py', sys.argv[2], '--commentary-id', sys.argv[3]]; e.main() C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDG\Ka_3CDG.units.md Ka_3CDG
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDG\Ka_3CDG.units.md
+Commentary:   Ka_3CDG
+Lines:        3807  ->  31 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-candidates-Ka_3CDG.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2650)  [skip — exists]
+  chunk_021 (lines 2626–2775)  [skip — exists]
+  chunk_022 (lines 2751–2900)  [skip — exists]
+  chunk_023 (lines 2876–3025)  [skip — exists]
+  chunk_024 (lines 3001–3150)  [skip — exists]
+  chunk_025 (lines 3126–3275)  [skip — exists]
+  chunk_026 (lines 3251–3400)  [skip — exists]
+  chunk_027 (lines 3376–3525)  [skip — exists]
+  chunk_028 (lines 3501–3650)  [skip — exists]
+  chunk_029 (lines 3626–3775)  [skip — exists]
+  chunk_030 (lines 3751–3807)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2650)  [skip — exists]
+  chunk_021 (lines 2626–2775)  [skip — exists]
+  chunk_022 (lines 2751–2900)  [skip — exists]
+  chunk_023 (lines 2876–3025)  [skip — exists]
+  chunk_024 (lines 3001–3150)  [skip — exists]
+  chunk_025 (lines 3126–3275)  [skip — exists]
+  chunk_026 (lines 3251–3400)  [skip — exists]
+  chunk_027 (lines 3376–3525)  [skip — exists]
+  chunk_028 (lines 3501–3650)  [skip — exists]
+  chunk_029 (lines 3626–3775)  [skip — exists]
+  chunk_030 (lines 3751–3807)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 0 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-candidates-Ka_3CDG.md
+✓ Pass 2: 1 enumeration blocks across 31 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-candidates-Ka_3CDG.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-qc-Ka_3CDG.md
+[Ka_3CDG] Added frame node I. ཀླད་ཀྱི་དོན།
+[Ka_3CDG] Added frame node b. མཇུག་བྱང།
+[Ka_3CDG] Anchoring tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\find_toc_contexts.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.md C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDG\Ka_3CDG.units.md
+No TOC entries found.
+[Ka_3CDG] FAILED: Command failed with code 1: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor\find_toc_contexts.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDG\toc-tree-Ka_3CDG.md C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDG\Ka_3CDG.units.md
+
+Finished. Failed: ['Ka_3CDG']

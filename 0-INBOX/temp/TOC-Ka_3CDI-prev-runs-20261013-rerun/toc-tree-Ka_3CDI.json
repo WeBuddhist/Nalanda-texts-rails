@@ -1,0 +1,27 @@
+{
+  "source": "C:\\Users\\geshe lobzang tseten\\repos\\Nalanda-texts-rails\\0-INBOX\\temp\\TOC-Ka_3CDI\\toc-tree-Ka_3CDI.md",
+  "total_nodes": 2,
+  "max_depth": 1,
+  "nodes": [
+    {
+      "decimal_id": "I",
+      "depth": 1,
+      "frame": true,
+      "label": "ཀླད་ཀྱི་དོན།",
+      "block_id": "^I-0",
+      "context": "༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་འགྲེལ་པ་ཀ་མ་ལ་ཤཱི་ལས་མཛད་པ་བཞུགས་སོ",
+      "context_anchor": "༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་འགྲེལ་པ་ཀ་མ་ལ་ཤ",
+      "doc_order": 0
+    },
+    {
+      "decimal_id": "b",
+      "depth": 1,
+      "frame": true,
+      "label": "མཇུག་བྱང།",
+      "block_id": "^b-0",
+      "context": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་འགྲེལ་པ། སློབ་དཔོན་ཀ་མ་ལ་ཤཱི་ལས་མཛད་པ་རྫོ",
+      "context_anchor": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་སྙིང་པོའི་འགྲེལ་པ། སློབ་དཔོན་ཀ",
+      "doc_order": 1
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+[Ka_3CDW] archived TOC-Ka_3CDW
+[Ka_3CDW] segmenting…
+C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Ka_3CDW_in.md: 111 segments, 0 flagged for Stage-2 review.
+Quote balance: 0 quote-open / 0 quote-close -> OK
+Report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDW.segreport.tsv
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Ka_3CDW_out.md
+[Ka_3CDW] Chunks: 4 (size=150, overlap=25)
+[Ka_3CDW] Passes 1 & 2 to run: 4 P1, 4 P2 (workers=8)
+  [P2  4.8s] chunk_000 enumerations done
+  [P1  5.1s] chunk_003 candidates done
+  [P1  6.1s] chunk_000 candidates done
+  [P2  6.1s] chunk_001 enumerations done
+  [P2  7.0s] chunk_003 enumerations done
+  [P2  7.5s] chunk_002 enumerations done
+  [P1 11.2s] chunk_001 candidates done
+  [P1 11.7s] chunk_002 candidates done
+[Ka_3CDW] Passes 1 & 2 completed.
+Running: C:\Program Files\Python314\python.exe -X utf8 -c import sys; sys.path.insert(0, sys.argv[1]); import extract_toc_tree as e; e.GEMINI_THINKING = 'medium'; sys.argv = ['extract_toc_tree.py', sys.argv[2], '--commentary-id', sys.argv[3]]; e.main() C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDW\Ka_3CDW.units.md Ka_3CDW
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDW\Ka_3CDW.units.md
+Commentary:   Ka_3CDW
+Lines:        451  ->  4 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-candidates-Ka_3CDW.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-tree-Ka_3CDW.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–451)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–451)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 0 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-candidates-Ka_3CDW.md
+✓ Pass 2: 0 enumeration blocks across 4 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-candidates-Ka_3CDW.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-tree-Ka_3CDW.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-tree-qc-Ka_3CDW.md
+[Ka_3CDW] Added frame node I. ཀླད་ཀྱི་དོན། [[༄༅༅། །སེམས་ཅན་དམ་པའི་ཆོས་ལ་དད་…]]
+[Ka_3CDW] tree has no section nodes — frame nodes only
+[Ka_3CDW] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-tree-Ka_3CDW.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-tree-Ka_3CDW.json
+Parsed 1 nodes (1 frame), max depth 1.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-tree-Ka_3CDW.json
+  depth  1: 1 nodes
+[Ka_3CDW] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-tree-Ka_3CDW.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDW\Ka_3CDW.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            1
+  Inserted:               1
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDW\Ka_3CDW.toc.md
+[Ka_3CDW] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDW.toc.md
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDW\toc-tree-Ka_3CDW.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDW\Ka_3CDW.final.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\1-SOURCES\Text\Ka_3CDW.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            1
+  Inserted:               0
+  Already present:        1
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDW\Ka_3CDW.final.md
+✓ Ka_3CDW.final.md: identical to Ka_3CDW.md (letters and spacing; only breaks, headings, IDs added)
+[Ka_3CDW] DONE in 30s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDW.toc.md
+
+Finished. Failed: none

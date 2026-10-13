@@ -1,83 +1,129 @@
-[Ka_3CDH] using closing-line tree closing-tree-Ka_3CDH.md
-[Ka_3CDH] Parsing tree...
-Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-tree-Ka_3CDH.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-tree-Ka_3CDH.json
-Parsed 6 nodes (2 frame), max depth 1.
-JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-tree-Ka_3CDH.json
-  depth  1: 6 nodes
-[Ka_3CDH] Ingesting TOC headings...
-Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-tree-Ka_3CDH.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDH\Ka_3CDH.toc.md --split-frame-nodes
-Tree order matches the text — nothing reordered.
-Summary
-  Total nodes:            6
-  Inserted:               6
-  Already present:        0
-  Blocks split at a node: 0 
-  Not found:              0
-  Integrity: text unchanged ✓
+[Ka_3CDH] archived TOC-Ka_3CDH
+[Ka_3CDH] archived RESEG-Ka_3CDH
+[Ka_3CDH] Chunks: 25 (size=150, overlap=25)
+[Ka_3CDH] Passes 1 & 2 to run: 25 P1, 25 P2 (workers=8)
+  [P1 17.6s] chunk_005 candidates done
+  [P1 26.7s] chunk_004 candidates done
+  [P1 29.3s] chunk_007 candidates done
+  [P1 19.2s] chunk_008 candidates done
+  [P1 47.4s] chunk_003 candidates done
+  [P1 48.5s] chunk_000 candidates done
+  [P1 49.1s] chunk_001 candidates done
+  [P1 51.7s] chunk_006 candidates done
+  [P1 52.2s] chunk_009 candidates done
+  [P1 62.4s] chunk_010 candidates done
+  [P1 57.6s] chunk_012 candidates done
+  [P1 42.9s] chunk_016 candidates done
+  [P1 27.2s] chunk_018 candidates done
+  [P1 41.1s] chunk_017 candidates done
+  [P1 12.4s] chunk_019 candidates done
+  [P1 88.4s] chunk_013 candidates done
+  [P1 100.0s] chunk_011 candidates done
+  [P1 13.5s] chunk_021 candidates done
+  [P1 102.9s] chunk_014 candidates done
+  [P1 156.8s] chunk_002 candidates done
+  [P1 25.6s] chunk_020 candidates done
+  [P1 35.0s] chunk_022 candidates done
+  [P2 17.2s] chunk_001 enumerations done
+  [P1 125.9s] chunk_015 candidates done
+  [P1 41.6s] chunk_024 candidates done
+  [P2  9.3s] chunk_005 enumerations done
+  [P2 35.0s] chunk_000 enumerations done
+  [P2  6.8s] chunk_008 enumerations done
+  [P2  9.9s] chunk_007 enumerations done
+  [P1 52.6s] chunk_023 candidates done
+  [P2 44.9s] chunk_003 enumerations done
+  [P2 21.5s] chunk_010 enumerations done
+  [P2 27.9s] chunk_009 enumerations done
+  [P2 43.3s] chunk_004 enumerations done
+  [P2 28.4s] chunk_011 enumerations done
+  [P2 20.9s] chunk_014 enumerations done
+  [P2 21.0s] chunk_015 enumerations done
+  [P2 42.9s] chunk_012 enumerations done
+  [P2 12.2s] chunk_018 enumerations done
+  [P2 28.7s] chunk_016 enumerations done
+  [P2 11.2s] chunk_019 enumerations done
+  [P2 43.1s] chunk_017 enumerations done
+  [P2 57.4s] chunk_013 enumerations done
+  [P2 83.0s] chunk_006 enumerations done
+  [P2 30.8s] chunk_020 enumerations done
+  [P2 27.3s] chunk_021 enumerations done
+  [P2 27.4s] chunk_023 enumerations done
+  [P2 117.7s] chunk_002 enumerations done
+  [P2 45.4s] chunk_022 enumerations done
+  [P2 31.5s] chunk_024 enumerations done
+[Ka_3CDH] Passes 1 & 2 completed.
+Running: C:\Program Files\Python314\python.exe -X utf8 -c import sys; sys.path.insert(0, sys.argv[1]); import extract_toc_tree as e; e.GEMINI_THINKING = 'medium'; sys.argv = ['extract_toc_tree.py', sys.argv[2], '--commentary-id', sys.argv[3]]; e.main() C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_extractor C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDH\Ka_3CDH.units.md Ka_3CDH
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDH\Ka_3CDH.units.md
+Commentary:   Ka_3CDH
+Lines:        3080  ->  25 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-candidates-Ka_3CDH.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-tree-Ka_3CDH.md
 
-Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDH\Ka_3CDH.toc.md
-[Ka_3CDH] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDH.toc.md
-[Ka_3CDH] Running resegmentation...
-Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ka_3CDH 8
-Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDH.toc.md...
-Blocks: 1521 (headings: 7, content: 1514)
-Windows: 44
-Windows to process: 5 / 44
-Running 5 windows with 8 worker threads...
-  [63.3s] Window 44/44 done: 3 op(s)
-  [146.6s] Window 4/44 done: 6 op(s)
-  [189.7s] Window 41/44 done: 12 op(s)
-  [198.6s] Window 39/44 done: 7 op(s)
-  [227.7s] Window 25/44 done: 10 op(s)
+Pass 1 — section candidates:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2650)  [skip — exists]
+  chunk_021 (lines 2626–2775)  [skip — exists]
+  chunk_022 (lines 2751–2900)  [skip — exists]
+  chunk_023 (lines 2876–3025)  [skip — exists]
+  chunk_024 (lines 3001–3080)  [skip — exists]
 
-Combining operations...
-Operations to apply: 308
-Blocks: 1521 -> 794
-Integrity check passed!
-Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDH.reseg.md
-Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDH.ops.md
-[Ka_3CDH] Running resegment QC...
-Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDH.reseg.md --commentary-id Ka_3CDH
-Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDH.reseg.md
-ID:     Ka_3CDH
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–400)  [skip — exists]
+  chunk_003 (lines 376–525)  [skip — exists]
+  chunk_004 (lines 501–650)  [skip — exists]
+  chunk_005 (lines 626–775)  [skip — exists]
+  chunk_006 (lines 751–900)  [skip — exists]
+  chunk_007 (lines 876–1025)  [skip — exists]
+  chunk_008 (lines 1001–1150)  [skip — exists]
+  chunk_009 (lines 1126–1275)  [skip — exists]
+  chunk_010 (lines 1251–1400)  [skip — exists]
+  chunk_011 (lines 1376–1525)  [skip — exists]
+  chunk_012 (lines 1501–1650)  [skip — exists]
+  chunk_013 (lines 1626–1775)  [skip — exists]
+  chunk_014 (lines 1751–1900)  [skip — exists]
+  chunk_015 (lines 1876–2025)  [skip — exists]
+  chunk_016 (lines 2001–2150)  [skip — exists]
+  chunk_017 (lines 2126–2275)  [skip — exists]
+  chunk_018 (lines 2251–2400)  [skip — exists]
+  chunk_019 (lines 2376–2525)  [skip — exists]
+  chunk_020 (lines 2501–2650)  [skip — exists]
+  chunk_021 (lines 2626–2775)  [skip — exists]
+  chunk_022 (lines 2751–2900)  [skip — exists]
+  chunk_023 (lines 2876–3025)  [skip — exists]
+  chunk_024 (lines 3001–3080)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
 
-Blocks: 794
+✓ Pass 1: 30 section candidates merged (3 overlap duplicates removed) → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\toc-candidates-Ka_3CDH.md
+✓ Pass 2: 37 enumeration blocks across 25 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDH\enumerations
 
-Step 1 — Deterministic checks...
-  34 flag(s) found.
-  Block 50 — OVER_LENGTH (262 syl)
-  Block 60 — OVER_LENGTH (347 syl)
-  Block 88 — OVER_LENGTH (267 syl)
-  Block 96 — OVER_LENGTH (319 syl)
-  Block 118 — OBJECTION_REPLY_FUSED
-  Block 124 — OVER_LENGTH (285 syl)
-  Block 129 — OVER_LENGTH (254 syl)
-  Block 133 — OVER_LENGTH (257 syl)
-  Block 164 — CONNECTOR_ENDING
-  Block 167 — SHORT_FRAGMENT (3 syl)
-  Block 170 — SHORT_FRAGMENT (3 syl)
-  Block 177 — OVER_LENGTH (265 syl)
-  Block 212 — OBJECTION_REPLY_FUSED
-  Block 218 — OVER_LENGTH (270 syl)
-  Block 250 — OVER_LENGTH (279 syl)
-  Block 253 — OBJECTION_REPLY_FUSED
-  Block 254 — SHORT_FRAGMENT (3 syl)
-  Block 265 — OVER_LENGTH (327 syl)
-  Block 280 — OBJECTION_REPLY_FUSED
-  Block 363 — OBJECTION_REPLY_FUSED
-  Block 475 — SHORT_FRAGMENT (3 syl)
-  Block 558 — OVER_LENGTH (252 syl)
-  Block 569 — OVER_LENGTH (253 syl)
-  Block 592 — OVER_LENGTH (251 syl)
-  Block 598 — OVER_LENGTH (273 syl)
-  Block 608 — OVER_LENGTH (254 syl)
-  Block 633 — OVER_LENGTH (252 syl)
-  Block 650 — OVER_LENGTH (276 syl)
-  Block 654 — CONNECTOR_ENDING
-  Block 685 — CONNECTOR_ENDING
-  Block 696 — SHORT_FRAGMENT (2 syl)
-  Block 704 — CONNECTOR_ENDING
-  Block 779 — OVER_LENGTH (275 syl)
-  Block 789 — SHORT_FRAGMENT (3 syl)
-
-Step 2 — LLM repair...
+Building TOC tree from candidates + enumerations → Gemini ...
+    ! tree attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! tree attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 16s...
+    ! tree attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 38s...
+    ! tree attempt 4/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 72s...
