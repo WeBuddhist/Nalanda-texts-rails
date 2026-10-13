@@ -1,30 +1,3 @@
----
-title: ཆ་ཤས་ཀྱི་ཡན་ལག་ཅེས་བྱ་བའི་རབ་ཏུ་བྱེད་པའི་འགྲེལ་པ།
-alt_titles:
-  - bo: ""
-  - en: ""
-author:
-author_in_english:
-translator:
-date:
-language: Tibetan
-script: Unicode Tibetan
-file_type: commentary
-lang_tag: bo
-verse_id_format:
-registered_id:
-root_text: 1-SOURCES/Text/Ar_3CBz_.md
-covers_verses:
-collected_works: Aryadeva
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 27) འཕགས་པ་ལྷའི་གསུང་འབུམ། ཁ༽ .docx (02-Aryadeva)"
-source: https://wb.pub/3CC0
-bdrc_work_id:
-openpecha_text_id:
-license:
-category_id:
-category:
----
-
 ## ༄༅། །ཆ་ཤས་ཀྱི་ཡན་ལག་ཅེས་བྱ་བའི་རབ་ཏུ་བྱེད་པའི་འགྲེལ་པ།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཧསྟ་བཱ་ས་ནཱ་མ་པྲ་ཀ་ར་ཎ་བྲྀཏྟི། བོད་སྐད་དུ། ཆ་ཤས་ཀྱི་ཡན་ལག་ཅེས་བྱ་བའི་རབ་ཏུ་བྱེད་པའི་འགྲེལ་པ། འཕགས་པ་འཇམ་དཔལ་ཡེ་ཤེས་སེམས་དཔའ་ལ་ཕྱག་འཚལ་ལོ། །ཁམས་གསུམ་པའི་ཐ་སྙད་ཙམ་ལ་ཡང་དག་པའི་དོན་དུ་ཀུན་དུ་རྟོགས་པའི་ཕྱིར། དེ་ཁོ་ན་ཉིད་ཀྱི་དོན་ཁོང་དུ་མ་ཆུད་པའི་སེམས་ཅན་རྣམས་ལ་དངོས་པོའི་རང་བཞིན་རབ་ཏུ་དབྱེ་བའི་སྒོ་ནས། ཕྱིན་ཅི་མ་ལོག་པའི་ཤེས་པ་ཡང་དག་པར་སྒྲུབ་པའི༌[^1]ཕྱིར་འདི་བརྩམས་སོ། །

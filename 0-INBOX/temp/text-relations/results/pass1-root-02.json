@@ -1,0 +1,177 @@
+{
+  "Na_3C9T.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Title and colophon དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ༌ཐབས་རྫོགས་སོ; a prose sādhana giving visualisation, mantra and rites in its own voice, no gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9U.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Title and colophon ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་རྫོགས་སོ; prose sādhana instructing visualisation and mantra recitation (བཟླས་པར་བྱའོ), no gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9V.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise (79% metrical, no gloss markers) titled དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ with colophon naming ཀླུ་སྒྲུབ as author; the mutual overlap with Na_3C9X.md (66-69%) and Na_3C9W.md (33%) shows they are versions of the same praise, not root and commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9W.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise (90% metrical, no gloss markers) with the same title as Na_3C9V.md and Na_3C9X.md and a ~33% mutual overlap with each, i.e. another version of the same praise; colophon བསྟོད་པ༌རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ། སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས༌མཛད་པའོ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9X.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise (80% metrical, no gloss markers) with translator colophon; mutual overlap with Na_3C9V.md (66-69%) and Na_3C9W.md (~33%) marks it as a version of the same praise, not a commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9Y.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise (84% metrical, no gloss markers) titled རྡོ་རྗེ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་བརྒྱད་པ, addressed to the deity in its own voice; contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9a_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse sādhana (90% metrical, no gloss markers) whose opening states its own intent (མདོར་བསྡུས་བདག་གིས་བཤད་པར་བྱ) to condense the practice of the དཔལ་ལྡན་འདུས་པའི་རྒྱུད, not to gloss a text line by line; the ~41-43% mutual overlap with Na_3CAX.md is a shared sādhana text, not quotation of a shorter root.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9b_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A generation-stage sādhana that, per its opening, is compiled from the tantra's chapters (ལེའུ་བཅུ་བདུན་པ་ལས་བཏུས་ཏེ་བསྡུ་བར་བྱའོ) and cites them with ཞེས་གསུངས་པ as support for its own practice sequence rather than glossing them; contains no other file, and its text is quoted by commentaries (Ch_3CCa_.md, Bh_3CCE.md, Bh_3CCD.md).",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9c_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A maṇḍala ritual manual (དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག) whose opening states its own subject (བཏུད་ནས་དཀྱིལ་འཁོར་ཆོ་ག་བཤད) and which runs through the rite up to consecration; negligible gloss markers (0.18/1000), contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9d_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "An independent verse treatise (94% metrical) on the fourth empowerment, opening with its own statement of intent (དབང་བཞིའི་རབ་ཏུ་བྱེད་པའི་གདམས་ངག་བྲི) and closing with author/translator colophon; negligible gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9e_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Although titled བྱང་ཆུབ་སེམས་ཀྱི་འགྲེལ་པ, it is a 94% metrical treatise on bodhicitta with no gloss markers that contains no other file; it states its own subject rather than explaining another text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9h_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse treatise (90% metrical) on the completion-stage stages (རིམ་པ་ལྔ་པ), opening with its own intent (རྡོ་རྗེ་བཟླས་པའི་རིམ་བཤད་བྱ) and following the tantra in general (རྣལ་འབྱོར་རྒྱུད་ཀྱི་རྗེས་འབྲངས་ནས) without glossing it; negligible gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9i_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse maṇḍala ritual (87% metrical) that announces its own subject (དེ་ཡི་དཀྱིལ་འཁོར་ཆོ་ག་བཤད) and runs through site preparation to dismissal; negligible gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9j_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A sādhana (ཕྱག་ན་རྡོ་རྗེའི་ལམ་ཡན་ལག་བརྒྱད་པ) in mixed verse and prose giving its own practice instructions; it says it follows a scripture (གཏུམ་པོ་ཁྲོས་པའི་གཞུང་བཞིན་བྱ) but does not quote and gloss it, has no gloss markers and contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9k_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A long verse sādhana (88% metrical) for Vajrapāṇi, opening with its own intent and closing as a སྒྲུབ༌ཐབས་ཆེན་པོ by ཀླུ་སྒྲུབ; very few gloss markers (0.2/1000) and contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9n_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A maṇḍala ritual (84% metrical) that states its own subject (དཀྱིལ་འཁོར་ཆོ་ག་བདག་གིས་བཤད); its ཞེས་པ་ནི markers label its own mantras and verses (e.g. ཞེས་པ་ནི་མན་ངག་གོ, ཞེས་པ་ནི་དབུ་རྒྱན་གྱི...) rather than gloss another work, and it contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9o_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse sādhana (91% metrical) on mantra practice that announces its own subject (དེ་ཉིད་སྔགས་ནི་བཤད་པར་བྱ) and closes with author colophon སྔགས་ཀྱི་རྒྱན་ནཱ་གཱརྫུ་ནས་མཛད་པ; no gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9p_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse consecration ritual (81% metrical) opening with its own intent (རབ་ཏུ་གནས་པ་བཤད་པར་བྱ) and giving the rite in its own voice; no gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9r_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A short prose treatise establishing the four mudrās, opening with its own intent (ཕྱག་རྒྱ་དགོད་པ་མདོར་བསྡུས་པ། །བདག་ཉིད་གོ་བྱའི་དོན་དུ་བྲི) and following the tantra in general (རྒྱུད་ཀྱི་རྗེས་སུ་འབྲངས་ནས); its few ཞེས་བྱ་བ་ནི markers define its own terms and quoted phrases rather than tracking one text, and it contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9s_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A single four-line verse (101 syllables) with a transmission note (ས་ར་ཧའི་ཞབས་དང་བར་མ་ཆད་པ། དཔལ་ཀླུ་སྒྲུབ་ཀྱིས་རྒྱ་མཚོ་ལས་ཕྱུང་བའོ) and translator colophon; it states doctrine directly and comments on nothing.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9t_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A Madhyamaka verse treatise (86% metrical, no gloss markers) on the non-arising of entities, with author and translator colophon; the ~20% mutual overlap with Ar_3CBn_.md is shared verses, not a commentary relation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9u_.md": {
+    "file_type": "root-text",
+    "confidence": "low",
+    "evidence": "The file opens with its own verses of similes (attributed to ཀླུ་སྒྲུབ་སྙིང་པོ) and then tells, in prose, the story behind each simile, labelling each as a མན་ངག; it explains only its own verses, not another file, and the colophon names the whole as ཚིགས་སུ་བཅད་པ་ཕྱེད་དང་ལྔ. The verse-plus-prose structure could alternatively be read as a self-contained auto-explanation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9v_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A short song in verse (ཀླུ་སྒྲུབ་ཀྱི་གླུ་རྫོགས་སོ) giving tantric instruction directly; no gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9w_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "An allegorical verse instruction (the temple and the pigeon) titled རང་བཞིན་གྲུབ་པ་མེད་པའི་གཞིའི་མན་ངག with author colophon; no gloss markers, contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3C9x_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A five-line verse (44 syllables) introduced as ནཱ་གཱརྫུ་ནས་གསུངས་པ and ending གསུང་ངོ, stating doctrine on the nature of mind directly; it explains no other text.",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

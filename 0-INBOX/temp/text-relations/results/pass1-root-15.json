@@ -1,0 +1,177 @@
+{
+  "At_3CFp_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse praise (83% metrical, no gloss markers) with homage and colophon རྡོ་རྗེ་རྣལ་འབྱོར་མ་ལ་བསྟོད་པ་...མཛད་པ་རྫོགས་སོ; it and At_3CFl_.md contain each other at 96%, so they are copies of one praise, not root and commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFq_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short praise in four-line verses to Tārā as Buddha, Dharma and Saṅgha (each ending སྒྲོལ་མ་...ཁྱོད་ཕྱག་འཚལ), title སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ; no glossing and no other text contained.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFr_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Prose instruction (མན་ངག) on transference at death, stating its own subject (བྱང་ཆུབ་ཀྱི་སེམས་འདའ་ཀ་མའི་མན་ངག་འདི་ལྟར་ལགས་ཏེ); no gloss markers, no contained text; colophon names only itself.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFs_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Torma ritual for Mahākāla (དཔལ་མགོན་པོའི་གཏོར་མ) giving procedural steps; the script's 'commentary' guess comes from ཞེས་བྱ་བ marking mantras to recite (e.g. ...ཞེས་བྱ་བ་ལན་གསུམ), not from quoting another text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFt_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Sādhana of Lokeśvara written according to the Guhyasamāja system (opening: རྒྱུད་རྒྱལ་རིམ་པ་ལ་བརྟེན་ཏེ། ...སྒྲུབ་པ་ཡི། །རིམ་པ་མདོར་བསྡུས་གསལ་བར་བྲི); it contains 48% of At_3CG3.md's verses but incorporates them as ritual steps without any gloss markers, so it does not comment on that text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFu_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Sādhana of Avalokiteśvara with its own statement of intent (དེ་ཡི་སྒྲུབ་ཐབས་བྲི་བར་བྱ) and colophon; no gloss markers, no contained text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFv_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse praise (86% metrical) of the Guhyasamāja deities, each stanza ending ...ལ་ཕྱག་འཚལ་ལོ; colophon དཔལ་གསང་བ་འདུས་པའི་བསྟོད་པ; no glossing.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFw_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse sādhana of Gaurī with homage and statement of intent (གཽ་རཱིའི་སྒྲུབ་ཐབས་བཤད་པར་བྱ); no gloss markers, no contained text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFx_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse sādhana of Daṇḍa Yamāntaka with statement of intent (མཆོག་གི་དངོས་གྲུབ་བསྒྲུབ་ཕྱིར་བཤད་པར་བྱ) and colophon; no glossing.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFy_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse sādhana of Khaḍga Yamāntaka (རལ་གྲི་ཆེ་ལ་བཏུད་དེ་བཤད་པར་བྱ) with mantras and colophon; no gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CFz_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse sādhana of Padma Yamāntaka (དེ་ཡི་སྒྲུབ་ཐབས་བཤད་པར་བྱ); closing says it was written from the guru's words and the tantras (རྒྱུད་ལས་མཐོང་བ་བྲིས་པ), not as an explanation of one text; no glossing.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG0.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse song (གླུ) on renunciation of saṃsāra, addressing ཀྱེ་ཀྱེ་ཀྭའི་གྲོགས་པོ་དག; 82% metrical, no gloss markers, no contained text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG1.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Long verse work (95% metrical) on viewing the dharmadhātu, stating its own aim (ཆོས་དབྱིངས་ལྟ་ཞིང་...རིམ་བཞིན་བརྗོད་པར་བྱ); no gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG2.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short Dharma song (ཆོས་ཀྱི་གླུ) urging vigilance (refrain ཀྱེ་སྙོམ་ལས་མ་བྱེད་སེམས་ཀྱི་མེལ་ཚེ་གྱིས); no glossing, no contained text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG3.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse chapter on the accumulations for samādhi (ཏིང་ངེ་འཛིན་གྱི་ཚོགས་ཀྱི་ལེའུ) listing its own topics; no gloss markers; its verses are found in At_3CFt_.md (a sādhana that reuses them), which does not make this a commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG4.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse ritual of the supramundane seven-limbed practice (each limb defined in verse, e.g. དེ་འདིར་སྔགས་པའི་ཕྱག་ཡིན་ཏེ); no gloss markers, no contained text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG5.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Long verse consecration ritual (སྒྲིབ་སྦྱོང་རབ་གནས་བྲི་བར་བྱ) based on tantras and guru's instructions; no gloss markers, no contained text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG6.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse sādhana of Akṣobhya with its own statement of intent (དེ་ཡི་སྒྲུབ་ཐབས་བྲི་བར་བྱ); colophon calls it the extensive sādhana (སྒྲུབ་ཐབས་རྒྱས་པ); it shares 28% of the shorter At_3CG7.md as parallel ritual verses, with no glossing.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG7.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short verse sādhana of Akṣobhya (80% metrical) giving ritual steps; no gloss markers; its text partly recurs in At_3CG6.md, a longer sādhana.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG8.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse fire-offering ritual (སྦྱིན་སྲེག་གི་ཆོ་ག) with procedural steps and mantras; no glossing, no contained text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CG9.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Prose sādhana of Mañjughoṣa giving visualisation and mantras; the only ཞེས་བྱ་བ་ནི occurrence introduces a recitation mantra (...ཞེས་བྱ་བ་ནི་བཟླས་པའི་སྔགས་སོ), not a quoted root line.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGA.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse praise of Vajrapāṇi (87% metrical), colophon དཔལ་ཕྱག་ན་རྡོ་རྗེ་ལ་དོན་རྟགས་ཀྱི་སྒོ་ནས་བསྟོད་པ; no gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGB.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Prose sādhana of Hayagrīva beginning with its own instruction (འཕགས་པ་རྟ་མགྲིན་བསྒྲུབ་པར་འདོད་པས་ཐོག་མར་སྔགས་འདི་བརྗོད་པར་བྱའོ); shares 15% of Na_3CAE.md (another Hayagrīva sādhana), likely common mantras and ritual phrases, with no gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGC.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Sādhana of Hayagrīva in verse and mantras describing the practice place, preliminaries and visualisation; no gloss markers, no contained text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGD.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse praise of Acala (ཁྲོ་བོའི་རྒྱལ་པོ་མི་གཡོ་བ་ལ་བསྟོད་པ) ending with supplication; no gloss markers, no contained text.",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

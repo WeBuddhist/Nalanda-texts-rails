@@ -1,0 +1,177 @@
+{
+  "Na_3CAu_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Independent verse work (90% metrical, no gloss markers) with its own homage and subject; colophon: ཐེག་པ་ཆེན་པོ་ཉི་ཤུ་པ་སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་མཛད་པ་རྫོགས་སོ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAv_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short series of aphoristic statements on its own subject, no gloss markers, colophon ཡི་གེ་བརྒྱ་པ་རྫོགས་སོ; its text is found in Na_3CAw_.md, titled ཡི་གེ་བརྒྱ་པ་ཞེས་བྱ་བའི་འགྲེལ་པ, i.e. this is the root of that commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAx_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short verse treatise (73% metrical, no gloss markers) on the twelve links with its own homage; colophon names it as Nāgārjuna's own ཚིག་ལེའུར་བྱས་པ; its text is found in Na_3CAy_.md (a རྣམ་པར་ ... commentary) and Bh_3CCH.md.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CAz_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Independent prakaraṇa (title and colophon རབ་ཏུ་བྱེད་པ) that states its own subject (དེ་ཉིད་མ་རྟོགས་རྟོགས་བྱེད་པ ... བྲི་བར་བྱ) and proceeds by objection and refutation; the gloss-marker count comes from a single ཞེས་བྱ་བ་ནི explaining a cited verse, not from following one text through; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CB0.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse work (88% metrical, no gloss markers) with its own homage and subject; colophon སྐྱེ་མེད་རིན་པོ་ཆེའི་མཛོད་ཅེས་བྱ་བ་འཕགས་པ་ཀླུ་སྒྲུབ་སྙིང་པོས་མཛད་པ་རྫོགས་སོ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CB1.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (87% metrical, no gloss markers) in chapters (བདེན་པ་གཉིས་བསྟན་པའི་ལེའུ་སྟེ་ལྔ་པའོ) on its own subject; colophon དབུ་མ་སྲིད་པའི་འཕོ་བ་ཞེས་བྱ་བ་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CB2.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (93% metrical, no gloss markers) on the three natures, stating its own subject from the first verse; colophon མཚན་ཉིད་གསུམ་ལ་འཇུག་པ་ ... ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་མཛད་པ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CB3.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse meditation treatise (94% metrical, no gloss markers) with its own homage and subject; colophon ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་མཛད་པའི་བསྒོམ་པའི་རིམ་པ་རྫོགས་སོ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CB4.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Anthology that quotes many sūtras by name (དམ་པའི་ཆོས་པདྨ་དཀར་པོ་ལས་འབྱུང་བ, རྣམ་པར་གཏན་ལ་དབབ་པའི་རྒྱལ་པོའི་མདོ་ལས་འབྱུང་བ) in support of its own topics rather than following one text; colophon མདོ་སྡེ་སྣ་ཚོགས་ལས་བཏུས་པ; near-zero gloss markers (0.13/1000).",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CB5.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Liturgical ritual (confession, aspiration and dedication formulas, དེ་སྐད་ལན་གསུམ་བཟླས) with no gloss markers; colophon བྱང་ཆུབ་ཏུ་སེམས་བསྐྱེད་པའི་ཆོ་ག ... ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་མཛད་པ; part of its text recurs in Sh_3CD1.md but it contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CB6.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Verse recasting (95% metrical, no gloss markers) of the Śālistamba narrative, announced as ཚིག་ལེའུར་བྱས་པ་བཤད་པར་བྱ and colophon འཕགས་པ་སཱ་ལུ་ལྗང་པའི་མདོ་ཚིག་ལེའུར་བྱས་པ; it retells rather than quotes-and-glosses, its sūtra is not in the corpus, and its own text is found in Na_3CB7.md (61%), which looks like a commentary on it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBB.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Long verse treatise (93% metrical, no gloss markers) in chapters on novice discipline (འདུལ་བ་མདོར་བསྡུས་ཏེ་བཅོ་ལྔ་པའོ); colophon ascribes it to ཤཱཀྱ་འོད; it and Sh_3CFZ.md contain each other at 96%, i.e. they are copies of one text, not commentary and root.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBC.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Ritual liturgy of refuge and precepts (སློབ་དཔོན་དགོངས་སུ་གསོལ ... ལན་གཉིས་ལན་གསུམ་དུའོ) with no gloss markers; colophon བསླབ་པ་བཅུའི་ཆོ་ག་ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་གསུངས་པ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBD.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Long verse treatise (97% metrical, no gloss markers) addressed to a king (རྒྱལ་པོ་ཁྱོད་ལ་ཆོས་སྒྲུབ་ཕྱིར) in five chapters; colophon རྒྱལ་པོ་ལ་གཏམ་བྱ་བ་རིན་པོ་ཆེའི་ཕྲེང་བ་ ... ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ; the contained Na_3CBU.md is titled as drawn from this work (… རིན་པོ་ཆེའི་ཕྲེང་བ་ལས་བྱུང), so it is an excerpt of this root, not its root.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBE.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse instruction (92% metrical, no gloss markers) with its own homage and subject; colophon རྨི་ལམ་ཡིད་བཞིན་ནོར་བུའི་གཏམ་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBF.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse discourse in praise of giving (90% metrical, no gloss markers); colophon སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་སྦྱིན་པའི་གཏམ་རྫོགས་སོ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBG.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (85% metrical, no gloss markers) arguing its own Madhyamaka subject; colophon སྲིད་པ་ལས་འདས་པའི་གཏམ་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBH.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse letter (98% metrical, no gloss markers) addressed to a king; colophon བཤེས་པའི་སྤྲིང་ཡིག་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས། །མཛའ་བོ་རྒྱལ་པོ་བདེ་སྤྱོད་ལ་བསྐུར་བ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBI.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Medical verse compendium of formulas (73% metrical, no gloss markers) announcing its own aim (སྦྱོར་བ་བརྒྱ་ཡིས་བཅིང་བར་བྱ); the translator's colophon mentions consulting འགྲེལ་པ་གསུམ, but the text itself is the root; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBJ.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Medical verse work (91% metrical, no gloss markers) stating its own subject (འཚོ་བའི་དོན་ཙམ་བསྟན་པར་བྱ); colophon སྨན་འཚོ་བའི་མདོ་ཚིགས་སུ་བཅད་པ་རྫོགས་སོ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBK.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Medical ritual/procedure text (indications, auspicious dates, recipes) with no gloss markers; the title word བཤད་པ means 'taught by' (སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱིས་བཤད་པ), not an explanation of another work; colophon སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ་སྨན་ཨ་བའི་ཆོ་ག.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBL.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Very short incense recipe in verse with its own homage, no gloss markers; colophon སྤོས་སྦྱོར་རིན་པོ་ཆེའི་ཕྲེང་བ་ཞེས་བྱ་བ། སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBM.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Perfume/incense recipes in verse addressed to the reader (ཁོ་བོས་ཁྱོད་ལ་ཕན་པར་བྱ་ཕྱིར), no gloss markers; colophon དྲི་སྦྱར་བའི་མིག་མང་རིས་ཀྱི་སྦྱོར་བ་ཚིག་ལེའུར་བྱས་པ་སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBN.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Mixed verse and prose manual on drawing and reading a wheel of the twelve links (ཡན་ལག་བཅུ་གཉིས་འཁོར་ལོ་བྲི), stating its own subject; no gloss markers anywhere in the file and contains no other corpus text; colophon ཡན་ལག་བཅུ་གཉིས་ཀྱི་རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་འཁོར་ལོ ... ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་ཀྱི་མཛད་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Na_3CBO.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise of a hundred stanzas (94% metrical, no gloss markers) that announces itself (འདི་ནི་ཚིགས་སུ་བཅད་པ་བརྒྱ། །ཤེས་རབ་བརྒྱ་པ་ཞེས་བྱའོ); colophon ཤེས་རབ་བརྒྱ་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ ... ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ; contains no other corpus text.",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

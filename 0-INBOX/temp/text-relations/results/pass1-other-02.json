@@ -1,0 +1,177 @@
+{
+  "Bh_3CCD.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and opening name it a ṭīkā on another work: སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་བཤད་པའི་ཊཱི་ཀཱ; closing glosses lines with ཞེས་པ་ནི (6.49/1000) and the colophon reads སྒྲོན་མ་གསལ་བའི་ཊཱི་ཀཱ་ལས་ལེའུ་གསུམ་པའོ. A sub-commentary on the Pradīpoddyotana (in the corpus as Ch_3CCa_.md, not in its 'contains' list); contained shares (Na_3C9b_ 16%, Ch_3CCR 17%) are cited material, not its direct root.",
+    "named_root": "སྒྲོན་མ་གསལ་བར་བྱེད་པ",
+    "root_candidates": []
+  },
+  "Bh_3CCE.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Second volume (བར་ཆ) of the same ṭīkā: opening 'ལེའུ་བཞི་པའི་བཤད་པ་རྩོམ་པར་བྱེད་དེ' and glosses phrase by phrase with ཞེས་པ་ནི (18.25/1000); colophon སྒྲོན་མ་གསལ་བར་བྱེད་པའི་འགྲེལ་པའི་ཊཱི་ཀཱ་ལས་ལེའུ་བཅུ་བཞི་པའི་རྒྱ་ཆེར་བཤད་པའོ. Sub-commentary on the Pradīpoddyotana (Ch_3CCa_.md by title), which is not in its 'contains' list.",
+    "named_root": "སྒྲོན་མ་གསལ་བར་བྱེད་པ",
+    "root_candidates": []
+  },
+  "Bh_3CCF.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དཀའ་བ་བཏུས་པའི་འགྲེལ་པ; opening glosses word after word with ཞེས་བྱ་བ་ནི (21.15/1000); colophon སྒྲོན་མ་གསལ་བར་བྱེད་པའི་རྡོ་རྗེའི་ཚིག་གི་དཀའ་བ་བཏུས་ཏེ་བཤད་པ. 18% of its text is found in Ch_3CCa_.md (the Pradīpoddyotana by title), which is its likely root but not in its 'contains' list.",
+    "named_root": "སྒྲོན་མ་གསལ་བར་བྱེད་པ",
+    "root_candidates": []
+  },
+  "Bh_3CCG.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title རིམ་པ་ལྔ་པའི་དཀའ་འགྲེལ; closing glosses with ཞེས་བྱ་བ་ལ་སོགས་པས་ནི (10/1000) and the colophon names the root: སློབ་དཔོན་ཆེན་པོ་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པའི་རིམ་པ་ལྔ་པའི་དཀའ་འགྲེལ. No root file in 'contains'.",
+    "named_root": "རིམ་པ་ལྔ་པ",
+    "root_candidates": []
+  },
+  "Bh_3CCL.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཤེས་རབ་སྒྲོན་མ; opening explains the master's ཚིག་ལེའུར་བྱས་པ; contains 59% of Na_3CAk_.md (the root verses དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ). Other contained files (Na_3CAp_, Bu_3CCC, Ch_3CCb_) are fellow commentaries sharing the root verses.",
+    "named_root": "དབུ་མ་རྩ་བ",
+    "root_candidates": ["Na_3CAk_.md"]
+  },
+  "Bh_3CCM.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ; opening introduces the treatise's first verses ('བསྟན་བཅོས་ཀྱི་དང་པོར།' then quotes them); contains 34% of Bh_3CCI.md (དབུ་མའི་སྙིང་པོའི་ཚིག་ལེའུ་བྱས་པ). The high shares of Bh_3CCK (69%) and Ar_3CC5 (59%) look like passages also circulated separately, not its root.",
+    "named_root": "དབུ་མའི་སྙིང་པོ",
+    "root_candidates": ["Bh_3CCI.md"]
+  },
+  "Bh_3CCN.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Second half (སྨད་ཆ, from བམ་པོ་བཅུ་དྲུག་པ) of དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ; contains 46% of Bh_3CCI.md (the root verses དབུ་མའི་སྙིང་པོའི་ཚིག་ལེའུ་བྱས་པ); colophon དབུ་མའི་སྙིང་པོ་རྟོག་གེ་འབར་བ.",
+    "named_root": "དབུ་མའི་སྙིང་པོ",
+    "root_candidates": ["Bh_3CCI.md"]
+  },
+  "Ch_3CCQ.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon སྦྱོར་བ་ཡན་ལག་དྲུག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ; opening quotes a root line and explains it ('འདོད་པ་སོ་སོར་སྡུད་པས་ན། །ཞེས་བྱ་བ་ནི'). The quoted line matches the verse text Na_3CAY.md (རྣལ་འབྱོར་ཡན་ལག་དྲུག་པ, which holds 17% of this file) though Na_3CAY is not in its 'contains' list; 70% of this text is also found inside Ch_3CCa_.md.",
+    "named_root": "སྦྱོར་བ་ཡན་ལག་དྲུག་པ",
+    "root_candidates": []
+  },
+  "Ch_3CCT.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ; the file quotes verse lines and explains each ('…ཞེས་པ་ནི', e.g. 'རྣམ་པ་གཉིས་སུ་ཤེས་པར་བྱ། །ཞེས་པ་ནི'). No root file in 'contains'.",
+    "named_root": "གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན",
+    "root_candidates": []
+  },
+  "Ch_3CCW.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title རིགས་པ་དྲུག་ཅུ་པའི་འགྲེལ་པ; opening verse vows to explain the རིགས་པ་དྲུག་ཅུ་པ ('བདག་གིས་དབུ་མའི་ཚུལ་གྱིས་དེ་རྣམས་དབྱེ'); contains 40% of Na_3CAl_.md (རིགས་པ་དྲུག་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ).",
+    "named_root": "རིགས་པ་དྲུག་ཅུ་པ",
+    "root_candidates": ["Na_3CAl_.md"]
+  },
+  "Ch_3CCY.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title སྟོང་ཉིད་བདུན་ཅུ་པའི་འགྲེལ་པ; opening vows to explain it ('བདུན་ཅུ་པར། །བསྟན་དོན་བདག་གིས་ཡང་དག་དབྱེ'), colophon names the treatise by འཕགས་པ་ཀླུ་སྒྲུབ; contains 40% of Na_3CAn_.md (སྟོང་པ་ཉིད་བདུན་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ).",
+    "named_root": "སྟོང་ཉིད་བདུན་ཅུ་པ",
+    "root_candidates": ["Na_3CAn_.md"]
+  },
+  "Ch_3CCa_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title སྒྲོན་མ་གསལ་བར་བྱེད་པ་ཞེས་བྱ་བའི་རྒྱ་ཆེར་བཤད་པ; colophon 'དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་སྐུ་དང་གསུང་དང་ཐུགས་ཀྱི་གསང་བ་འདུས་པའི་རྒྱ་ཆེར་བཤད་པ'; heavy glossing (12.25/1000) and contains 25% of Na_3C9b_.md (the Guhyasamāja tantra). Other contained files (Ch_3CCQ 70%, Na_3CAY, Ch_3CCS, Bh_3CCF, Ch_3CCR) are embedded or related material.",
+    "named_root": "དེ་བཞིན་གཤེགས་པ་ཐམས་ཅད་ཀྱི་སྐུ་དང་གསུང་དང་ཐུགས་ཀྱི་གསང་བ་འདུས་པ",
+    "root_candidates": ["Na_3C9b_.md"]
+  },
+  "Ch_3CCb_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཚིག་གསལ་བ; opening pays homage to ཀླུ་སྒྲུབ and announces 'དེའི། །ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ'; contains 72% of Na_3CAk_.md (དབུ་མ་རྩ་བའི་ཚིག་ལེའུར་བྱས་པ). Other contained files are fellow commentaries.",
+    "named_root": "དབུ་མ་རྩ་བ",
+    "root_candidates": ["Na_3CAk_.md"]
+  },
+  "Ch_3CCd_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse text (96% metrical, no gloss markers) titled དབུ་མ་ལ་འཇུག་པ་ཞེས་བྱ་བ, opening with its own homage to compassion; 76% of it is found in the commentary Ch_3CCe_.md, and it and Ch_3CCc_.md contain each other at ~60% (two versions of the same verses). The closing note says the root was collated with the root inside the commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Ch_3CCe_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title དབུ་མ་ལ་འཇུག་པའི་བཤད་པ; opening introduces the verses ('དབུ་མ་ལ་འཇུག་པ་རྩོམ་པར་འདོད་པས…') and then quotes them; contains 76% of Ch_3CCd_.md and 57% of Ch_3CCc_.md (the root verses). An auto-commentary.",
+    "named_root": "དབུ་མ་ལ་འཇུག་པ",
+    "root_candidates": ["Ch_3CCd_.md", "Ch_3CCc_.md"]
+  },
+  "Ch_3CCg_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title བྱང་ཆུབ་སེམས་དཔའི་རྣལ་འབྱོར་སྤྱོད་པ་བཞི་བརྒྱ་པའི་རྒྱ་ཆེར་འགྲེལ་པ; opening states it explains 'སློབ་དཔོན་འཕགས་པ་ལྷས་ཉེ་བར་སྦྱར་བ་བྱང་ཆུབ་སེམས་དཔའི་རྣལ་འབྱོར་སྤྱོད་པ་བཞི་བརྒྱ་པའི་བསྟན་བཅོས་ཀྱི་…ཚིག་ལེའུར་བྱས་པའི་དོན'; contains 68% of Ar_3CC1.md (བསྟན་བཅོས་བཞི་བརྒྱ་པ་ཞེས་བྱ་བའི་ཚིག་ལེའུར་བྱས).",
+    "named_root": "བྱང་ཆུབ་སེམས་དཔའི་རྣལ་འབྱོར་སྤྱོད་པ་བཞི་བརྒྱ་པ",
+    "root_candidates": ["Ar_3CC1.md"]
+  },
+  "Sh_3CCk_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Opening announces 'བདེ་མཆོག་འཁོར་ལོའི་བསྒྲུབ་པའི་ཐབས། །དེ་དོན་ཅུང་ཞིག་བཀྲོལ་བར་བྱ' (the sādhana by བྷུ་སུ་ཀུ) and lays out a ས་བཅད (ལོ་རྒྱུས་དང་གཞུང་); closing 'ཅེས་པས་བསྟན་ཏོ… གཞུང་ལེགས་པར་བསྟན་ཏོ', colophon བདེ་མཆོག་འཁོར་ལོའི་ཊ་ཀི; contains 36% of Sh_3CCl_.md (བདེ་གཤེགས་འཁོར་ལོའི་སྒྲུབ་པའི་ཐབས).",
+    "named_root": "བདེ་མཆོག་འཁོར་ལོའི་བསྒྲུབ་ཐབས",
+    "root_candidates": ["Sh_3CCl_.md"]
+  },
+  "Sh_3CCo_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title འཕགས་པ་འདའ་ཀ་ཡེ་ཤེས་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོའི་འགྲེལ་པ; opening vows to clarify the sūtra's meaning and then quotes and explains its phrases ('འདི་སྐད་བདག་གིས་ཐོས་པའི་དུས་གཅིག་ན་ཞེས་བྱ་བ་ལ་སོགས་པ་གསུངས་ཏེ'). The sūtra is not in 'contains'.",
+    "named_root": "འཕགས་པ་འདའ་ཀ་ཡེ་ཤེས་ཞེས་བྱ་བ་ཐེག་པ་ཆེན་པོའི་མདོ",
+    "root_candidates": []
+  },
+  "Sh_3CCw_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title བཅོམ་ལྡན་འདས་ལ་བསྟོད་པ་དཔལ་རྡོ་རྗེ་འཛིན་གྱི་དབྱངས་ཀྱི་རྒྱ་ཆེར་བཤད་པ; opening quotes the praise's first line ('མཉམ་མེད་མི་གཡོ་མཉམ་ཉིད་ཆོས་མཆོག་ཅན། ཞེས་བྱ་བ་ལ་སོགས་པའི་བསྟོད་པ་ནི') and explains it; contains 39% of Sh_3CCv_.md (the praise).",
+    "named_root": "བཅོམ་ལྡན་འདས་ལ་བསྟོད་པ་དཔལ་རྡོ་རྗེ་འཛིན་གྱི་དབྱངས",
+    "root_candidates": ["Sh_3CCv_.md"]
+  },
+  "Sh_3CD0.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས་ཀྱི་བཤད་པ; opening 'དེ་ཡི་གཞུང་འགྲེལ་བྱ་བར་འདོད། །དེ་ལ་མདོ་སྡེ་འདི་འཆད་པར་འདོད་པས' with an outline; closing glosses lines ('…ཞེས་བྱ་བ་ནི', 'ཞེས་པ་ལ་རྒྱལ་པོ་ཞེས་བྱ་བ་ནི'). The dhāraṇī is not in 'contains'.",
+    "named_root": "རྡོ་རྗེ་རྣམ་པར་འཇོམས་པ་ཞེས་བྱ་བའི་གཟུངས",
+    "root_candidates": []
+  },
+  "Sh_3CD9.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title བདེན་པ་གཉིས་རྣམ་པར་འབྱེད་པའི་དཀའ་འགྲེལ; opening 'བདེན་གཉིས་རྣམ་པར་དབྱེ་བ་ཡིས། །དཀའ་འགྲེལ་འདི་ནི་མདོར་བསྡུ་བྱ' then quotes the treatise's homage verse and explains it; glossing 7.38/1000. Its root is not in 'contains'.",
+    "named_root": "བདེན་པ་གཉིས་རྣམ་པར་འབྱེད་པ",
+    "root_candidates": []
+  },
+  "Sh_3CDB.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title དབུ་མའི་རྒྱན་གྱི་འགྲེལ་པ; contains 70% of Sh_3CDA.md (དབུ་མ་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པ), i.e. it carries the root verses with prose explanation. Same author as the verses (auto-commentary).",
+    "named_root": "དབུ་མའི་རྒྱན",
+    "root_candidates": ["Sh_3CDA.md"]
+  },
+  "Sh_3CDC.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon སྡོམ་པ་ཉི་ཤུ་པའི་འགྲེལ་པ; opening vows 'སྡོམ་པའི་མཆོག །ཉི་ཤུ་པ་ནི་གསལ་བར་དགྲོལ', then quotes root verses and explains them ('…ཞེས་བྱ་བ་འདིས་…བསྟན་ཏེ'); closing '…ཅེས་བྱ་བ་འདི་བཤད་དོ'. No root file in 'contains' (58% of it is found in As_3CDn_, the Bodhisattvabhūmi it draws on).",
+    "named_root": "སྡོམ་པ་ཉི་ཤུ་པ",
+    "root_candidates": []
+  },
+  "Sh_3CDD.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon རྩོད་པའི་རིགས་པའི་འགྲེལ་པ་དོན་རྣམ་པར་འབྱེད་པ; opening states its purpose of explaining 'རབ་ཏུ་བྱེད་པ་འདི'; glossing 4.46/1000; contains 22% of Dh_3CFC.md (རྩོད་པའི་རིགས་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ).",
+    "named_root": "རྩོད་པའི་རིགས་པ",
+    "root_candidates": ["Dh_3CFC.md"]
+  },
+  "Ka_3CDG.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ་རྒྱ་ཆེར་བཤད་པ; opening quotes the sūtra's words and explains them ('འདི་སྐད་ཅེས་བྱ་བ་ལ་སོགས་པ་ནི'); glossing 6.38/1000. The sūtra is not in 'contains'.",
+    "named_root": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ",
+    "root_candidates": []
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "At_3CH5.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse instruction (94% metrical, 0 gloss markers) stating its own subject; colophon calls itself ཐེག་པ་ལམ་གྱི་སྒྲུབ་ཐབས་ཡང་དག་ཡི་གེར་བསྡུས་འདི. Shares 34% of At_3CH6.md as a longer version of the same verses, not by glossing it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CH6.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short verse text (71% metrical, 0 gloss markers) with homage and its own closing aspiration (ཐེག་ཆེན་སྒྲུབ་ཐབས་བསྡུས་འདི་ལ); comments on no other text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CH7.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse self-exhortation (83% metrical, 0 gloss markers) written for the author's own recollection (རང་གི་དྲན་པའི་ཕྱིར་དུ་འདི། །བྱས་པས); no other text quoted or explained.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CH8.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Instruction compiled from the sūtras (title མདོ་སྡེའི་དོན་ཀུན་ལས་བཏུས་པའི་མན་ངག; opening: fifty dharmas of bodhisattvas, explained in turn) with scriptural citations as support; 0 gloss markers and no single text followed.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CH9.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Independent exposition of the ten non-virtues: opening sets out its own list in verse and says འདི་རྣམས་རབ་ཏུ་ཕྱེ་ནས་བཤད་པར་བྱ; the ཞེས་བྱ་བ་ནི markers define its own terms (བརྫུན་དུ་སྨྲ་བ་ཞེས་བྱ་བ་ནི …), and sūtras are only cited as support at the close.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHA.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Treatise on distinguishing karma (ལས་རྣམ་པར་འབྱེད་པ) with its own statement of intent (བདག་ཉིད་ཁོ་ན་དྲན་ཕྱིར་བྲི་བར་བྱ) and dedication; near-zero gloss markers, no other text contained.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHB.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse work (84% metrical, 0 gloss markers) on bodhisattva conduct with its own intent (མདོ་ཙམ་བདག་གིས་བཤད་པར་བྱ) and a colophon about its composition in Nepal; comments on no specific text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHC.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Ritual for bodhicitta and vows (title ཆོ་གའི་རིམ་པ; opening སྡོམ་པའི་རིམ་པ་བྲི་བར་བྱ) giving procedure and recitations; few gloss markers. 19% of its text recurs in As_3CDn_.md, which reflects ritual wording it shares with that source, not a line-by-line explanation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHD.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Confession ritual (ལྟུང་བ་བཤགས་པའི་ཆོ་ག) consisting of recitation formulas (དགེ་འདུན་བཙུན་པ་རྣམས་དགོངས་སུ་གསོལ …); 0 gloss markers, no text explained.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHE.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short ritual to perform before recitation or reading a volume (ཁ་ཏོན་དང་གླེགས་བམ་ཀླག་པའི་སྔོན་དུ་བྱ་བའི་ཆོ་ག), giving procedure and words to recite three times; 0 gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHF.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Ritual for making tsatsas (ཚ་ཚ་གདབ་པའི་ཆོ་ག): dhāraṇī, procedure and closing prayer; 0 gloss markers, no other text explained.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHG.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Procedural instruction for the teacher (བླ་མའི་བྱ་བའི་རིམ་པ) in conferring bodhicitta; closing calls it a brief sequence (གོ་རིམས་ཆེ་ལོང་ཙམ་བསྟན་པ); 0 gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHH.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title ལས་ཀྱི་སྒྲིབ་པ་རྣམ་པར་སྦྱོང་བའི་ཆོ་ག་བཤད་པ (Skt. …vidhi-bhāṣyaṃ); the body takes the confession rite it names (བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པའི་ཆོ་ག་འདིས) and explains it phrase by phrase in order: བདག་མིང་འདི་ཞེས་བགྱི་བ་སངས་རྒྱས་ལ་སྐྱབས་སུ་མཆིའོ་ཞེས་བྱ་བ་ལ་སོགས་པ, ཤཱཀྱ་ཐུབ་པ་ལ་ཕྱག་འཚལ་ལོ་ཞེས་བྱ་བ་ལ་སོགས་པ, མཆོད་རྟེན་གྱི་དཀོར་རམ་ཞེས་བྱ་བ་ལ་སོགས་པ, calling it མདོ་འདི. No corpus file is contained.",
+    "named_root": "བྱང་ཆུབ་སེམས་དཔའི་ལྟུང་བ་བཤགས་པའི་ཆོ་ག",
+    "root_candidates": []
+  },
+  "At_3CHI.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse letter to King Nirya-pāla (དྲི་མ་མེད་པ་རིན་པོ་ཆེའི་སྤྲིང་ཡིག; colophon རྒྱལ་པོ་ནིརྱ་ཕ་ལ་ལ་བརྫོངས་པ, ཤློ་ཀ་བཞི་བཅུ་པ); 0 gloss markers. Its overlap with At_3CH2.md runs both ways (44%/29%), which means the two share verses, not that one comments on the other.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CHJ.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short verse aspiration prayer (རིགས་ཀྱི་སྨོན་ལམ) built of chained ཤོག lines; 0 gloss markers, no other text explained.",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

@@ -1,30 +1,3 @@
----
-title: དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ།
-alt_titles:
-  - bo: ""
-  - en: ""
-author:
-author_in_english:
-translator:
-date:
-language: Tibetan
-script: Unicode Tibetan
-file_type: commentary
-lang_tag: bo
-verse_id_format:
-registered_id:
-root_text:
-covers_verses:
-collected_works: Vasubandhu
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 68) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ཆ༽ .docx (10-Vasubandhu)"
-source: https://wb.pub/3CEF
-bdrc_work_id:
-openpecha_text_id: JNwkKtmUZaerroM2TNY7F
-license: Public Domain Mark
-category_id: D91TlgRqpZGCOfywaHRvV
-category:
----
-
 ### ༄༅། །དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། མ་དྷྱཱན་ཏ་བི་བྷ་ག་ཊཱི་ཀ །བོད་སྐད་དུ། དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ། བམ་པོ་དང་པོ། འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ་ཕྱག་འཚལ་ལོ། །བསྟན་བཅོས་འདི་ནི་རབ་མཛད་པ། །བདེ་གཤེགས་ཉིད་སྐྱེས་བདག་སོགས་ལ། །འཆད་པ་ལ་ཡང་མངོན་མཆོད་ནས། །དོན་རྣམས་དབྱེ་ཕྱིར་འབད་པར་བྱ། །དེ་ལ་ཐོག་མ་ཁོ་ནར་བསྟན་བཅོས་ཀྱི་ལུས་རྣམ་པར་གཞག༌[^1]སྟེ། མཚན་ཉིད་སྒྲིབ་པ་དེ་ཁོ་ན། །གཉེན་པོ་དག་ནི་བསྒོམ་པ་དང་། །དེ་ཡི་གནས་དང་འབྲས་བུ་ཐོབ། །ཐེག་པ་བླ་ན་མེད་པའོ། །ཞེས་བྱ་བ་དོན་བདུན་པོ་འདི་དག་བསྟན་བཅོས་འདི་ལས་འཆད་དོ། །འདི་ལྟ་སྟེ། མཚན་ཉིད་དང་། སྒྲིབ་པ་དང་། དེ་ཁོ་ན་དང་། གཉེན་པོ་བསྒོམ་པ་དང་། གཉེན་པོ་བསྒོམ་པ་དེ་ཉིད་ཀྱི་གནས་དང་། འབྲས་བུ་ཐོབ་པ་དང་། ཐེག་པ་བླ་ན་མེད་པ་སྟེ་དོན་བདུན་པའོ། །

@@ -1,0 +1,77 @@
+{
+  "Ka_3CDb_.md": {
+    "commentary_of": "Sh_3CDE.md",
+    "link_confidence": "high",
+    "link_evidence": "Title names དེ་ཁོ་ན་ཉིད་བསྡུས་པ, the work of Sh_3CDE.md (དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་ཚིག་ལེའུར་བྱས་པ); its closing glosses the root's final verses in a different translation (commentary ཇི་ལྟར་ཁྱོད་ཀྱིས / རྣམ་པ་མེད་སོགས་བསམ་པ་ནི vs root ཇི་ལྟར་ཁྱེད་ཀྱི་ཤེས་པ་ནི / རྣམ་པ་མེད་སོགས་དཔྱད་པ་ནི) and repeatedly names the root's last chapter དབང་པོ་ལས་འདས་པའི་དོན་མཐོང་བ. Its low text-reuse share is because the root and commentary use different Tibetan translations of the verses, and its 31% share of Dh_3CF7.md comes from citations."
+  },
+  "As_3CDf_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the sūtra འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པ (opening: དགོངས་པ་ངེས་པར་འགྲེལ་པ་ཐེག་པ་ཆེན་པོའི་མདོའི་གླེང་གཞི་ནི); no root-text file in our corpus has this title. As_3CDx_/y_/z_ are other commentaries on the same sūtra, not its root."
+  },
+  "As_3CDg_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Explains the Buddha-recollection formula (…སངས་རྒྱས་བཅོམ་ལྡན་འདས་ཞེས་བྱ་བ་ལ), named སངས་རྒྱས་རྗེས་སུ་དྲན་པ; no file in our corpus has this title or contains the formula as a text of its own. Va_3CE5.md is a parallel commentary on the same formula, not its root."
+  },
+  "As_3CDh_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Explains the Dharma-recollection formula, called ཆོས་རྗེས་སུ་དྲན་པ (…ཡང་དག་པར་བསྟན་པ་ཞེས་བྱ་བ་ལ་སོགས་པའི་མདོའི་རིམ་པ), a sūtra passage; no file in our corpus has this title or shares its text (the top reuse share is 5%)."
+  },
+  "As_3CDi_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Explains the Saṅgha-recollection formula (བཅོམ་ལྡན་འདས་ཀྱི་ཉན་ཐོས་ཀྱི་དགེ་འདུན་ནི། ལེགས་པར་ཞུགས་པ…), named དགེ་འདུན་རྗེས་སུ་དྲན་པ; no file in our corpus has this title or shares its text (the top reuse share is 10%, from a sibling commentary)."
+  },
+  "As_3CDj_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས (colophon: འཕགས་པ་མགོན་པོ་བྱམས་པས་མཛད་པ); no file in our corpus has this title, and the root verse it opens with (…རྡོ་རྗེ་ཡི་ནི་གནས་བདུན་འདི་དག་གོ) occurs in no other file."
+  },
+  "As_3CDx_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the sūtra འཕགས་པ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོ (opening: …མདོ་འདི་ནི་མདོར་བསྡུ་ན་དོན་རྣམ་པ་ལྔས་བསྟན་ཏེ); no root-text file in our corpus has this title. Its overlap with As_3CDf_.md comes from a sibling commentary on the same sūtra."
+  },
+  "As_3CDy_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "The file holds only a contents list (headings with page numbers) for the middle volume (༼བར་ཆ།༽) of the commentary on མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོ; that sūtra is not in our corpus. The file has no body text, and it is the same work as As_3CDx_.md."
+  },
+  "As_3CDz_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "The file holds only a contents list (headings with page numbers) for the lower volume (༼སྨད་ཆ།༽) of the commentary on མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོ; that sūtra is not in our corpus. The file has no body text, and it is the same work as As_3CDx_.md."
+  },
+  "Va_3CE1.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the dhāraṇī འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས (opening: གཟུངས་འདི་ནི་དོན་དྲུག་ལ་བརྩམས་ནས་གསུངས་པར་མངོན་ཏེ); no root-text file has this title. Va_3CE7.md, which shares 77% of its text, is another copy of the same commentary, not its root."
+  },
+  "Va_3CE2.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as three sūtras together: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་པ་དང་། ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་། ཁྲི་བརྒྱད་སྟོང་པ. No root-text file in our corpus has these titles. The only related files are Ha_3CFF–Ha_3CFJ (ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ, typed as commentary in pass 1), which contain some of the sūtra phrases this commentary glosses, such as སེམས་ཤིན་ཏུ་རྣམ་པར་གྲོལ་བ. They do not appear in the reuse figures, so a person should check them by hand."
+  },
+  "Va_3CE3.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "This is the lower part of the same commentary on འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་པ་དང་། ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་། ཁྲི་བརྒྱད་སྟོང་པ, and no root-text file has these titles. Some lemmas (e.g. བདེ་བར་གཤེགས་པ་དེ་ནི་མ་ལགས་སོ) also occur in the 25,000-line sūtra files Ha_3CFG.md/Ha_3CFI.md, but not consistently enough to settle a link."
+  },
+  "Va_3CE4.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the sūtra འཕགས་པ་བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་རྡོ་རྗེ་གཅོད་པ; no root-text file in our corpus has this title. Ka_3CDH.md is a sibling commentary on the same sūtra; the colophon names it only as an aid in revising the translation (ཀ་མ་ལ་ཤཱི་ལས་མཛད་པའི་འགྲེལ་པར…), not as the root."
+  },
+  "Va_3CE5.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Explains the Buddha-recollection formula itself, glossing its words (བཅོམ་ལྡན་འདས་ཞེས་བྱ་བ་འདིས་ནི…), and names its root as སངས་རྒྱས་རྗེས་སུ་དྲན་པ, which is not a file in our corpus. Its 22% share of As_3CDg_.md comes from a parallel explanation of the same formula; it never quotes or names As_3CDg_.md as its root, so it is not linked as a sub-commentary."
+  },
+  "Va_3CE6.md": {
+    "commentary_of": "Va_3CEY.md",
+    "link_confidence": "high",
+    "link_evidence": "The colophon says it comes from བསྟན་བཅོས་ཚིགས་སུ་བཅད་པ་བསྡུས་པ, the title of Va_3CEY.md, and the one verse it explains (སྐྱེས་བུ་ཁྱུ་མཆོག་…ལྷ་ཡུལ་ས་ལ…ཀུན་ཏུ་བསྐོར་ཀྱང་ག་ལ་ཡོད) is the opening verse of Va_3CEY.md. The same explanation recurs inside Va_3CEZ.md, the full commentary on Va_3CEY.md."
+  }
+}

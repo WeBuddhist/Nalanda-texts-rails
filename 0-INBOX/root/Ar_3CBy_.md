@@ -1,3 +1,26 @@
+---
+title: "ལྷ་ཆེན་པོ་གསུམ་གྱི་བསྒྲུབ་ཐབས།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+root_text:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 27) འཕགས་པ་ལྷའི་གསུང་འབུམ། ཁ༽ .docx (02-Aryadeva); https://wb.pub/3CBy"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "02-Aryadeva"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id:
+---
+
 ## ༄༅། །ལྷ་ཆེན་པོ་གསུམ་གྱི་བསྒྲུབ་ཐབས།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། མ་ཧཱ་དྷེ་བ་ཏྲ་ས་ན་ཙ་ན། བོད་སྐད་དུ། ལྷ་ཆེན་པོ་གསུམ་གྱི་བསྒྲུབ་ཐབས། དེའི་སྡེ་དཔོན་རེག་ཚིག་ལ་ཕྱག་འཚལ་ལོ། །རེག་ཚིག་ཚོགས་ལ་ཕྱག་འཚལ་ཏེ། །དེ་ཡི་ལས་བྱེད་བསྒྲུབ་ཐབས་བྲི། །རྟེན་ལ་བསྙེན་ཏེ་གཟུགས་ལ་བསྒྲུབ། །གཟུགས་གཉིས་དག་གིས་ལས་སྦྱར་སྦད། །ལྷ་ཆེན་དམིགས་པ་འབྲིང་ཀླུ་མགོ་མངམ་ཟའི་སྙིང་། །རྟེན་བྱས་འདི་རྣམས་བརྗོད་པར་བྱ། །ལོ་ཀི་ཤ་རི་དྷ་བ་བྷྲ་མ་བྷད་ཏྲ་བྷད་ཏྲུ་ཧྲི་ཏཾ་ཛ། ཞག་བཅུ་བསྙེན་པ་འདི་བྱའོ། །

@@ -1,0 +1,177 @@
+{
+  "At_3CGE.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise (85% metrical, no gloss markers) addressed directly to the deity; the colophon names it འཕགས་པ་ཁྲོ་བོའི་རྒྱལ་པོ་མི་གཡོ་བ་ལ་བསྟོད་པ, a work by མར་མེ་མཛད་ཡེ་ཤེས, with no other text named.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGF.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse sādhana with its own homage and intent (དྲི་མེད་སྙིང་པོ་སྒྲུབ་ཐབས་བཤད) that sets out its own practice steps; it has no gloss markers, and the colophon calls it a སྒྲུབ་ཐབས, not an explanation of another work.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGG.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A ritual for setting up sāccha (མཆོད་རྟེན་ལྔ་གདབ) in verse and prose; it gives its own instructions, has no gloss markers, contains no other file's text and names no work it explains.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGH.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A prose dhāraṇī ritual giving direct instructions (… བྱའོ); it has no gloss markers, and the colophon reads གཙུག་ཏོར་དྲི་མ་མེད་པའི་གཟུངས་ཀྱི་ཆོ་ག་རྫོགས་སོ. It does not quote and explain another text; 23% of it is found in Sh_3CD1.md, which does not make it a commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGI.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A prose ritual for the same dhāraṇī that gives its own procedure step by step; it has no gloss markers, and the colophon names it a གཙུག་ཏོར་དྲི་མ་མེད་པའི་གཟུངས་ཀྱི་ཆོ་ག by མར་མེ་མཛད་ཡེ་ཤེས.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGJ.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A verse Tārā sādhana with its own statement of intent (བསྒོམ་བྱ་ཕྱིར་བཤད) and no gloss markers. It contains 53% of Ch_3CCP.md (a Tārā praise), but that is because the sādhana embeds the praise verses (སྒྲོལ་མ་ལ་ནི་ཕྱག་འཚལ་བསྟོད) without explaining them; the colophon calls it a སྒྲོལ་མའི་སྒྲུབ་ཐབས.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGK.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A prose meditation instruction on Tārā (ལྷ་མོ་སྒྲོལ་མ་བསྒོམ་པར་བྱའོ) that gives its own steps; it has no gloss markers, and the colophon names it འཇིགས་པ་བརྒྱད་ལས་སྐྱོབ་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGL.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise to Tārā with a refrain (ཕྱག་འཚལ་ལོ) and no gloss markers; the colophon names it རྗེ་བཙུན་མ་སྒྲོལ་མ་ལ་བསྟོད་པ by དཱི་པཾ་ཀཱ་ར་ཤྲཱི་ཛྙཱ་ན.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGM.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A Tārā sādhana whose opening verse states its own intent (སྒྲུབ་ཐབས་ཆོ་ག་བསྡུས་པ་བཤད་པར་བྱ), drawn from the guru's instruction rather than from a text. It has no gloss markers, and the closing verse and colophon name it འཕགས་མ་སྒྲོལ་མའི་སྒྲུབ་ཐབས.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGN.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "An independent treatise on the samaya vows that sets out its own subject (རྒྱུད་ལས་གསུངས་པ་བྲི་བར་བྱ). It cites Nāgārjuna and the tantras as support but does not follow any one text through, and it has no gloss markers. The closing verses say it was compiled from scripture and the guru's instruction (དམ་ཚིག་ཐམས་ཅད་བསྡུས་ནས་བྲིས).",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGO.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse praise and supplication to Gaṇapati with no gloss markers; the closing says it is recited before the mantra and torma (ཅེས་བསྟོད་ལ་གསོལ་བ་གདབ་པ), and the colophon names it a བསྟོད་པ. 26% of it is found in At_3CGm_.md, which does not change its type.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGP.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "The opening verse states the intent to explain the ritual (བདུད་རྩི་འབྱུང་བའི་ཆོ་ག་གསལ་བར་བཤད་པར་བྱ). The body quotes a torma ritual's words and glosses them one by one (གཏོར་མའི་ནང་ཞེས་པ་ནི …, ཡི་གེ་རཾ་ཞེས་པ་ནི …, … ཞེས་པ་ལ་སོགས་པ་སྨོས་སོ, … ཞེས་པའི་དོན་ཏོ) at 20.6 markers per 1000 syllables. It contains no other corpus file, so the glossed ritual is probably not in our corpus, or the commentary may be on Atiśa's own ritual.",
+    "named_root": "བདུད་རྩི་འབྱུང་བའི་ཆོ་ག",
+    "root_candidates": []
+  },
+  "At_3CGQ.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A prose water-torma ritual that gives its own procedure (… བྱའོ) and has no gloss markers; the colophon names it ཆུ་གཏོར་དྲི་མ་མེད་པའི་གཞུང by མར་མེ་མཛད་ཡེ་ཤེས. It shares 87% of its text both ways with At_3CGa_.md, so the two are copies of one text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGR.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A verse ritual for the nāga torma that gives its own procedure and has no gloss markers; the colophon names it ཀླུའི་གཏོར་ཆེན by དཔལ་མར་མེ་མཛད་ཡེ་ཤེས.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGS.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A prose gaṇacakra and torma offering ritual that opens by listing its own parts (ཆང་བྱིན་གྱིས་བརླབ་པ་དང་ …) and gives instructions; it has almost no gloss markers (0.3 per 1000), and the colophon names it a གཏོར་མས་མཆོད་པའི་ཆོ་ག by མར་མེ་མཛད་ཡེ་ཤེས.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGT.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A very short sādhana of the white Khecarī (མཁའ་སྤྱོད་མ་དཀར་མོའི་སྒྲུབ་ཐབས) that gives its own visualisation; it has no gloss markers and the colophon names no other work.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGU.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A prose sādhana of the six-syllable mantra that gives its own steps (refuge, mantra recitation) and has no gloss markers; the colophon names it ཡི་གེ་དྲུག་པའི་སྒྲུབ་ཐབས by དཔལ་མར་མེ་མཛད.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGV.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "This is the Vajrapāṇi sādhana itself (title and colophon: … ཕྱག་ན་རྡོ་རྗེ་བསྒྲུབ་པའི་ཐབས by མར་མེ་མཛད་ཡེ་ཤེས) with interlinear notes and outline headings worked into the lines (ཀླད་ཀྱི་དོན་ལ་གཉིས་ལས, oral glosses ending … གསུང). It has no ཞེས་པ་ནི glossing of a separate work and contains no other file. I take it as an annotated copy of the root rather than a commentary on another text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGW.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "An independent treatise on entering secret mantra. A preface says it was written to refute a claim that the mantra vehicle is not the Buddha's word, and the opening states its own subject (གསང་སྔགས་ལ་འཇུག་པར་འདིར་བཤད་པར་བྱའོ). It has almost no gloss markers (0.61 per 1000), and the colophon names it སྔགས་ཀྱི་དོན་འཇུག་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGX.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "This is the instruction on empowerment itself, with title and colophon དབང་གི་མན་ངག by ཏི་པཾ་ཀ་ར་ཤྲི་ཛྙ. Its verse lines have interlinear explanatory notes inserted (e.g. ཆུ་དང་རྡོ་རྗེ་ནས་རྡོ་རྗེ་སློབ་དཔོན་གྱི་དབང་ཡན་ཆོད), but it has no gloss markers and names or contains no other text. I take it as an annotated root.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGY.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A work that sets out thirteen vajra samayas (དེ་ནི་དམ་ཚིག་བཅུ་གསུམ་པའོ), with title and colophon དམ་ཚིག་སྦས་པ by ཏི་པཾ་ཀ་ར. Explanatory notes are worked into the verse lines, but there are no gloss markers and no other work is named or contained. I take it as an annotated root.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGZ.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A maṇḍala-offering instruction titled གཞལ་ཡས་ཁང་སྦྱིན་པ, with interlinear explanatory notes in the lines and scripture cited at the end (ལུང་ལས། …); there are no gloss markers and no other work is named or contained.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGa_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "A copy of the water-torma ritual in At_3CGQ.md (87% shared both ways, with the same opening and colophon ཆུ་གཏོར་དྲི་མ་མེད་པའི་གཞུང). It gives its own procedure and has no gloss markers.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGb_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A prose fire-offering ritual (སྦྱིན་སྲེག་གི་ཆོ་ག) that gives its own procedure (hearth measurements, visualisation), with a few interlinear notes; it has no gloss markers and names or contains no other text.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "At_3CGc_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "A ritual for offering to the deity (ལྷ་མཆོད་པའི་རིམ་པ), with interlinear outline notes on its own parts (དང་པོ་སྟེ་ལྷ་མཆོད་པའི་དགོས་པ་སྟོན, དྲུག་པ་སྟེ་པུ་ཙའི་ཕན་ཡོན). It has few gloss markers (0.96 per 1000), names no other text and contains no other file.",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

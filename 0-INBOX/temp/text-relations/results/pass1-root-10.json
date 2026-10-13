@@ -1,0 +1,177 @@
+{
+  "As_3CDk_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening gives the translated-title formula རྣལ་འབྱོར་སྤྱོད་པའི་ས and states its own subject (ས་བཅུ་བདུན) with its own summary verse (སྤྱི་སྡོམ); prose exposition with almost no gloss markers (0.22/1000) and no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDl_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Continues the same treatise (opens at བམ་པོ་བརྒྱད་པ with its own question-and-answer exposition); closing colophon རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་ཕུང་པོ་མེད་པའི་ས་རྫོགས་ཏེ་ས་མང་པོ་རྫོགས་སོ marks it as part of the work itself, not an explanation of another; no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDm_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening sets out its own subject with its own summary verses (ཉན་ཐོས་ཀྱི་ས་ཐམས་ཅད་ཀྱི་བསྡུས་པའི་སྡོམ) and expounds it in ... གང་ཞེ་ན form; closing is a translator colophon; few gloss markers and no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDn_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening lists its own ten topics (གཞི་དང་། རྟགས་དང་ ...) with a summary verse and expounds them; closing བྱང་ཆུབ་སེམས་དཔའི་སའི་གོ་རིམས་རྫོགས་སོ with translator colophon. The overlaps listed (Sh_3CDC, Gu_3CFQ, Gu_3CFP) are commentaries that quote this text, not texts it comments on.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDo_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Opening ས་རྣམས་ནི་བཤད་ཟིན་ཏོ། །འདི་མན་ཆད་ནི་ས་དེ་དག་ཉིད་ཀྱི་རྣམ་པར་གཏན་ལ་དབབ་པ presents it as a further section of the same Yogācārabhūmi treatise discussing topics in its own voice, not a line-by-line gloss (0.2/1000 markers); the 17% overlap with Va_3CEP is shared doctrinal lists.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDp_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Continuation of the same treatise (opens at བམ་པོ་ཉི་ཤུ་རྩ་གསུམ་པ, closes རྣལ་འབྱོར་སྤྱོད་པའི་ས་རྣམ་པར་གཏན་ལ་དབབ་པ་བསྡུས་པ་རྫོགས་སོ with translator colophon); topical exposition with very few gloss markers. The 17% overlap with As_3CDf_ (a commentary) is not a sign that this text comments on it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDq_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Opening གཞི་བསྡུ་བ་གང་ཞེ་ན sets out its own classification of sūtra, vinaya and mātṛkā topics; closing marks it as a section of རྣལ་འབྱོར་སྤྱོད་པའི་ས with translator colophon; few gloss markers, no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDr_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Opening gives its own summary verses (འདུལ་བ་མ་མོའི་སྡོམ) and expounds vinaya topics in its own voice; closing འདུལ་བ་མ་མོ་རྫོགས་ཏེ། འདུལ་བ་བསྡུ་བ་རྫོགས་སོ with translator colophon; few gloss markers, no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDs_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Its ཞེས་བྱ་བ་ནི markers (6.58/1000) define individual terms (e.g. དོན་ཞེས་བྱ་བ་ནི), and the closing says the synonym lists were gathered from sūtras (མདོ་སྡེ་ལས་བཏུས་ནས), so it does not follow one specific text; it is a section of རྣལ་འབྱོར་སྤྱོད་པའི་ས per opening and colophon. No contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDt_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Despite རྣམ་པར་བཤད་པ in the title, the opening sets out its own subject: a method for explaining sūtras in general (མདོ་སྡེའི་ལུས, རྣམ་པར་བཤད་པ་གང་ཞེ་ན ... རྣམ་པ་ལྔ), with its own summary verse; it names no single text it explains and contains no file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDu_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Translated-title formula ཐེག་པ་ཆེན་པོ་བསྡུས་པ, states its own subject (the ten distinctions of the Mahāyāna), colophon ... ཐོགས་མེད་ཀྱིས་མཛད་པ་རྫོགས་སོ; its text is found in Va_3CEH (ཐེག་པ་ཆེན་པོ་བསྡུས་པའི་འགྲེལ་པ). The 66% overlap with the short praise As_3CDc_ is a passage shared with that praise, not glossed.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDv_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Translated-title formula ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པ with its own summary verse and exposition of skandhas etc.; closing calls itself བསྟན་བཅོས་འདི and names author ཐོགས་མེད; gloss markers 0.05/1000. The 28% overlap with Va_3CEP is shared Abhidharma definitions.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "As_3CDw_.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Translated-title formula བསམ་གཏན་གྱི་སྒྲོན་མ་ཞེས་བྱ་བའི་མན་ངག, opens with its own summary verse (སྡོམ་ནི) on śamatha practice and expounds it, citing support with ཇི་སྐད་དུ; colophon names it as Asaṅga's own work; no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CE0.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short verse praise (དཀོན་མཆོག་གསུམ་གྱི་བསྟོད་པ) with translated-title formula and author colophon; no gloss markers, no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CEL.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (88% metrical) with translated-title formula སུམ་ཅུ་པའི་ཚིག་ལེའུར་བྱས་པ, author and translator colophon; no gloss markers, no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CEM.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (87% metrical) ཉི་ཤུ་པའི་ཚིག་ལེའུར་བྱས་པ with its own argument and author colophon; no gloss markers; its text is found in Va_3CEN (ཉི་ཤུ་པའི་འགྲེལ་པ), i.e. it is the root of that commentary.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CEO.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (91% metrical) རང་བཞིན་གསུམ་ངེས་པར་བསྟན་པ stating its own subject (the three natures), author and translator colophon; no gloss markers, no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CEP.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Prose treatise ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ defining the five skandhas in its own voice, zero gloss markers, author colophon; its text is found in Gu_3CFR (ཕུང་པོ་ལྔའི་རྣམ་པར་འགྲེལ་པ) and Va_3CEW (ཕུང་པོ་ལྔའི་བཤད་པ), commentaries on it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CEQ.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Despite རྣམ་པར་བཤད་པ in the title, the text is a compilation of sūtra passages (opening ཆོས་གང་དག་ཐོག་མར་དགེ་བ ..., closing lists the twelve scriptural divisions) with zero gloss markers; it explains nothing. Its passages are found in Va_3CER (31%), which explains them.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CER.md": {
+    "file_type": "root-text",
+    "confidence": "medium",
+    "evidence": "Opening states its own purpose (མདོ་རྣམས་འཆད་འདོད་དེ་དག་ལ ... མན་ངག་ཅུང་ཟད་བསྟན་པར་བྱ): a manual on how to explain sūtras. It glosses sūtra phrases (ཞེས་བྱ་བ་ནི, 2.66/1000) and contains 31% of the sūtra-passage anthology Va_3CEQ, but it presents them as quotations from sūtras (མདོ་ལས), not as explanation of a named work; reviewers may want to check the Va_3CEQ relation.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CES.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Translated-title formula ལས་གྲུབ་པའི་རབ་ཏུ་བྱེད་པ; an independent argument about the three kinds of karma that cites a sūtra (མདོ་ལས) and debates other views; author colophon; low gloss markers, no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CET.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Short treatise ཐེག་པ་ཆེན་པོའི་ཆོས་བརྒྱ་གསལ་བའི་སྒོའི་བསྟན་བཅོས that answers its own question about what ཆོས་ཐམས་ཅད means and lists the dharmas; zero gloss markers, no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CEX.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse treatise (97% metrical) ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ announcing its own composition (ཆོས་མངོན་མཛོད་ཀྱི་བསྟན་བཅོས་རབ་བཤད་བྱ); its text is found in Di_3CEo_, Va_3CEK and Va_3CEJ, commentaries on it.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CEY.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse anthology (83% metrical) བསྟན་བཅོས་ཚིགས་སུ་བཅད་པ་བསྡུས་པ with author colophon and no gloss markers; its text is found in Va_3CEZ (75%), the commentary ཚིགས་སུ་བཅད་པའི་དོན་བསྡུས་པ.",
+    "named_root": null,
+    "root_candidates": []
+  },
+  "Va_3CEa_.md": {
+    "file_type": "root-text",
+    "confidence": "high",
+    "evidence": "Verse work (85% metrical) ཡོན་ཏན་བདུན་ཡོངས་སུ་བརྗོད་པའི་གཏམ stating its own subject (the seven qualities and their causes); author and translator colophon; no gloss markers, no contained file.",
+    "named_root": null,
+    "root_candidates": []
+  }
+}

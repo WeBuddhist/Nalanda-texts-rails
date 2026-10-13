@@ -1,30 +1,3 @@
----
-title: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་བཞི་པ།༽
-alt_titles:
-  - bo: ""
-  - en: ""
-author:
-author_in_english:
-translator:
-date:
-language: Tibetan
-script: Unicode Tibetan
-file_type: commentary
-lang_tag: bo
-verse_id_format:
-registered_id:
-root_text:
-covers_verses:
-collected_works: Haribhadra
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 85) སེངྒེ་བཟང་པོའི་གསུང་འབུམ། ང༽ .docx (14-Haribhadra)"
-source: https://wb.pub/3CFI
-bdrc_work_id:
-openpecha_text_id:
-license:
-category_id:
-category:
----
-
 ## ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་བཞི་པ།༽
 
 ༄༅། །བམ་པོ་བཞི་བཅུ་དགུ་པ། ཤཱ་རིའི་བུས་གསོལ་པ། བཅོམ་ལྡན་འདས་བདག་གིས་བཅོམ་ལྡན་འདས་ཀྱིས་གསུངས་པའི་དོན་འཚལ་བ་ལྟར་ན། བཅོམ་ལྡན་འདས་བྱང༌[^1]ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དང་། ཐབས་མཁས་པ་དང་མ་བྲལ་བའི་བསམ་པ་ཅན་གང་ཡིན་པ་དེ་ནི་བླ་ན་མེད་པ་ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ནི་ཐེ་ཚོམ་མ་མཆིས་སོ་ཞེས་བྱ་བ་ནི་དྲན་པའི་བདག་ཉིད་ཅན་གྱི་ཐར་པའི་ཆ་དང་མཐུན་པའོ། །[^2]

@@ -1,0 +1,177 @@
+{
+  "Di_3CEt_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title, opening and colophon: དམིགས་པ་བརྟག་པའི་འགྲེལ་པ (auto-commentary, colophon names ཕྱོགས་ཀྱི་གླང་པོ); quotes the verse དབང་པོ་རྣམ་པར་རིག་པའི་རྒྱུ། … and explains it (ཡུལ་ཞེས་བྱ་བ་ནི); contains 55% of Di_3CEs_.md (the verse text དམིགས་པ་བརྟག་པ).",
+    "named_root": "དམིགས་པ་བརྟག་པ",
+    "root_candidates": ["Di_3CEs_.md"]
+  },
+  "Dh_3CEz_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་སྤྱན་འབྱེད; the closing verse calls it རྒྱུད་ཀྱི་འགྲེལ་པ་དཀའ་དོན་སྤྱན་འབྱེད; opens by quoting the tantra's first words and explaining them (གླེང་གཞིའི་ངག་དང་པོའོ། །འདི་ཡང་སྒྲའི་ཚུལ་དུ་བཤད་པ); 6.44 gloss markers/1000. The tantra itself is not in the overlap data.",
+    "named_root": "རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེ",
+    "root_candidates": []
+  },
+  "Dh_3CF4.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title སྐྱེས་པའི་རབས་ཀྱི་རྒྱ་ཆེར་བཤད་པ (Skt. ཛཱ་ཏ་ཀ་མཱ་ལཱ་ཊཱི་ཀཱ); opening verse says it explains what སྙན་ངག་མཁན་པོ་འཕགས་པ་དཔའ་བོས་བཀོད, then glosses its first verse (དཔལ་ལྡན་ཞེས་བྱ་བ་ལ་སོགས་པའི་ཚིགས་བཅད་འདི་ནི …); 11.38 gloss markers/1000; colophon སློབ་དཔོན་དཔའ་བོས་མཛད་པའི་སྐྱས་པའི་རབས་རྒྱ་ཆེར་བཤད་པ. No root file in the overlap data.",
+    "named_root": "སྐྱེས་པའི་རབས",
+    "root_candidates": []
+  },
+  "Dh_3CFA.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: འབྲེལ་པ་བརྟག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ (by ཆོས་ཀྱི་གྲགས་པ, an auto-commentary); opening quotes the root's first words (གཞན་དབང་ཁོ་ནར་ཞེས་བྱ་བ་ལ་སོགས་པ་སྨྲས་སོ) and explains them; contains 25% of Dh_3CF9.md (འབྲེལ་པ་བརྟག་པའི་རབ་ཏུ་བྱེད་པ).",
+    "named_root": "འབྲེལ་པ་བརྟག་པ",
+    "root_candidates": ["Dh_3CF9.md"]
+  },
+  "Dh_3CFB.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ and colophon ཚད་མ་རྣམ་འགྲེལ་གྱི་ལེའུ་དང་པོའི་འགྲེལ་པ (by ཆོས་ཀྱི་གྲགས་པ); contains 16% of Dh_3CF5.md (the ཚད་མ་རྣམ་འགྲེལ) and 19% of Dh_3CF6.md (ཚད་མ་རྣམ་པར་ངེས་པ), the latter overlap likely from verses shared between the two treatises. Few gloss markers (0.95/1000) but 16% metrical share of embedded verses.",
+    "named_root": "ཚད་མ་རྣམ་འགྲེལ",
+    "root_candidates": ["Dh_3CF5.md", "Dh_3CF6.md"]
+  },
+  "Ar_3CFE.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and opening: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ; quotes the root verses (ཉན་ཐོས་ཞི་བ་ཚོལ་རྣམས་ …); 2.83 gloss markers/1000. It contains 29% of Ha_3CFN.md and 15% of Ha_3CFF.md, but these are another commentary on the same treatise and the 25,000-line sūtra, so neither is the named root itself.",
+    "named_root": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན",
+    "root_candidates": ["Ha_3CFF.md"]
+  },
+  "Ha_3CFK.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title, opening and colophon: འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པའི་བཤད་པ་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ (upper volume); 11.08 gloss markers/1000; the closing glosses a quoted line (… ཞེས་བྱ་བ་ … ཞེས་བརྗོད་པ་ཡིན་ནོ). It contains 23% of Ha_3CFN.md, probably the shared root verses, not its root. The 8,000-line sūtra is not in the overlap data.",
+    "named_root": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པ",
+    "root_candidates": []
+  },
+  "Ha_3CFL.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: the lower volume (སྨད་ཆ) of འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པའི་བཤད་པ་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་སྣང་བ; the opening continues the exposition mid-text (… བརྗོད་པར་བྱའོ); 11.91 gloss markers/1000. It contains 34% of Ha_3CFN.md, probably the shared root verses.",
+    "named_root": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བརྒྱད་སྟོང་པ",
+    "root_candidates": []
+  },
+  "Ha_3CFM.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ (རྟོགས་པར་སླ་བ); opening verse states intent (དིང་འདིར་ཡང་དག་བཤད་པར་བྱ); 4.23 gloss markers/1000. The root verses are not in the overlap data.",
+    "named_root": "བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པ",
+    "root_candidates": []
+  },
+  "Ha_3CFN.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ; the opening verse states intent to explain it (དེའི་རྒྱན་ཚིག་ལེའུར་བྱས་པ་དག … རྣམ་པར་དབྱེ་ཕྱིར). It has a 22% metrical share of embedded root verses but few gloss markers (0.81/1000). Its text is found in Ha_3CFL/Ar_3CFE/Ha_3CFK, sibling commentaries on the same treatise. The root treatise is not in the overlap data.",
+    "named_root": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན",
+    "root_candidates": []
+  },
+  "Gu_3CFP.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: བྱང་ཆུབ་སེམས་དཔའི་སའི་འགྲེལ་པ (by ཡོན་ཏན་འོད); opening verse states intent (དེ་ཡི་བཤད་པ་བརྩམ་པར་བྱ); 11.24 gloss markers/1000. Its text is found in As_3CDn_.md (16% of this), the བྱང་ཆུབ་སེམས་དཔའི་ས. That is a reverse overlap, not 'contains'.",
+    "named_root": "བྱང་ཆུབ་སེམས་དཔའི་ས",
+    "root_candidates": ["As_3CDn_.md"]
+  },
+  "Gu_3CFQ.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུ་བཤད་པ / …ལེའུའི་འགྲེལ་པ; it quotes lemmas and glosses them (བདག་ལ་ཕན་པ་ཞེས་བྱ་བ་ལ་སོགས་པ་སྨོས་སོ … ཕན་པ་ཞེས་བྱ་བ་ནི); 5.74 gloss markers/1000. Its text is found in As_3CDn_.md (19% of this), the བྱང་ཆུབ་སེམས་དཔའི་ས, which contains the chapter commented on.",
+    "named_root": "བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུ",
+    "root_candidates": ["As_3CDn_.md"]
+  },
+  "Gu_3CFR.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: ཕུང་པོ་ལྔའི་རྣམ་པར་འགྲེལ་པ / ཕུང་པོ་ལྔའི་འགྲེལ་པ; opening introduces the treatise it explains (ཕུང་པོ་ལྔ་ཞེས་བྱ་བ་འདི་ནི་ཆོས་མངོན་པའི་བསྟན་བཅོས་སོ); 6.0 gloss markers/1000; contains 49% of Va_3CEP.md (ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ).",
+    "named_root": "ཕུང་པོ་ལྔ",
+    "root_candidates": ["Va_3CEP.md"]
+  },
+  "Gu_3CFU.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and opening: འདུལ་བའི་མདོའི་འགྲེལ་པ་མངོན་པར་བརྗོད་པ་རང་གི་རྣམ་པར་བཤད་པ (auto-commentary, vol. 1); opening verse (འདུལ་བའི་མདོ་རྣམས་ … རང་གིས་དེ་ཉིད་རྣམ་བཤད་བྱ) then quotes the first sūtra and glosses it; 10.69 gloss markers/1000; contains 23% of Gu_3CFS.md (འདུལ་བའི་མདོ).",
+    "named_root": "འདུལ་བའི་མདོ",
+    "root_candidates": ["Gu_3CFS.md"]
+  },
+  "Gu_3CFV.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: vol. 2 of འདུལ་བའི་མདོའི་འགྲེལ་པ་མངོན་པར་བརྗོད་པ་རང་གི་རྣམ་པར་བཤད་པ; it quotes sūtra lines and glosses them throughout (… ཞེས་བྱ་བ་ལ། སྟན་ནང་ཚངས་ཅན་ཞེས་བྱ་བ་ནི …); 10.12 gloss markers/1000; contains 25% of Gu_3CFS.md (འདུལ་བའི་མདོ).",
+    "named_root": "འདུལ་བའི་མདོ",
+    "root_candidates": ["Gu_3CFS.md"]
+  },
+  "Gu_3CFW.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title: vol. 3 of འདུལ་བའི་མདོའི་འགྲེལ་པ་མངོན་པར་བརྗོད་པ་རང་གི་རྣམ་པར་བཤད་པ; it glosses quoted lines (སྲ་བརྐྱང་གདིང་བར་བྱའོ་ཞེས་བྱ་བ་ལ། སྲ་བརྐྱང་ཞེས་བྱ་བ་ནི …); the colophon calls it རང་གི་རྣམ་བཤད; 14.22 gloss markers/1000; contains 26% of Gu_3CFS.md (འདུལ་བའི་མདོ).",
+    "named_root": "འདུལ་བའི་མདོ",
+    "root_candidates": ["Gu_3CFS.md"]
+  },
+  "Gu_3CFX.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "Title and opening: འདུལ་བའི་མདོའི་འགྲེལ་པ (Skt. བི་ན་ཡ་སཱུ་ཏྲ་བྲྀཏྟི), upper volume. The opening glosses lemma by lemma (གཏོགས་པ་ནི … ངེས་པར་ནི … ཚུལ་ནི …). There is no textual overlap with Gu_3CFS.md and few ཞེས་པ་ནི markers (0.93/1000).",
+    "named_root": "འདུལ་བའི་མདོ",
+    "root_candidates": []
+  },
+  "Gu_3CFY.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "Title འདུལ་བའི་མདོའི་འགྲེལ་པ (lower volume); the colophon calls it འདུལ་བའི་མདོའི་རྩ་བའི་འགྲེལ་པ་ཆུང་བ; the opening explains a quoted rule (ས་རྐོ་བའི་ལྟུང་བ་ལ་འཆད་དེ། བརྐོས་སམ་རྐོར་བཅུག་ནའོ། …). There is no overlap with Gu_3CFS.md and very few gloss markers (0.2/1000).",
+    "named_root": "འདུལ་བའི་མདོ",
+    "root_candidates": []
+  },
+  "Sh_3CFa_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་འོད་ལྡན; opening verse states it explains the དགེ་ཚུལ་ཚིག་ལེའུར་བྱས་པའི་དོན; contains 70% of Sh_3CFZ.md and 69% of Na_3CBB.md (both apparently copies of the root verses).",
+    "named_root": "འཕགས་པ་གཞི་ཐམས་ཅད་ཡོད་པར་སྨྲ་བའི་དགེ་ཚུལ་གྱི་ཚིག་ལེའུར་བྱས་པ",
+    "root_candidates": ["Sh_3CFZ.md", "Na_3CBB.md"]
+  },
+  "At_3CHx_.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "Title རྩ་བའི་ལྟུང་བའི་རྒྱ་ཆེར་འགྲེལ་པ (Skt. མཱུ་ལ་པཏྟི་ཊཱི་ཀཱ); the colophon calls it རྩ་བའི་ལྟུང་བའི་འགྲེལ་པ. The body works through the fourteen downfalls in groups (ལྟུང་བ་དང་པོ་དང་གཉིས་པ …) and quotes verse lines, but it has few gloss markers (0.98/1000) and no overlap with a root file.",
+    "named_root": "རྩ་བའི་ལྟུང་བ",
+    "root_candidates": []
+  },
+  "At_3CFi_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title རྡོ་རྗེ་གདན་གྱི་རྡོ་རྗེའི་གླུའི་འགྲེལ་པ; it quotes the song's opening line and explains it (དཔལ་ལྡན་རྡོ་རྗེ་གདན་སྤོར་སངས་རྒྱས་དང་། །ཞེས་བྱ་བ་ལ་སོགས་པས་མཆོད་པར་བརྗོད་པ་ཡིན་ཏེ); 7.31 gloss markers/1000; contains 30% of At_3CFh_.md (རྡོ་རྗེ་གདན་གྱི་རྡོ་རྗེའི་གླུ).",
+    "named_root": "རྡོ་རྗེ་གདན་གྱི་རྡོ་རྗེའི་གླུ",
+    "root_candidates": ["At_3CFh_.md"]
+  },
+  "At_3CFk_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and colophon: སྤྱོད་པའི་གླུའི་འགྲེལ་པ; it states intent (སྤྱོད་པ་གླུ་ཡི་དོན་དབྱེ་བ། །གཞན་ལ་ཕན་པའི་བློ་ཡིས་བྲི) and quotes the song's words to explain them (གཟུགས་བརྙན་ཅི་འདྲ་ཞེས་བྱ་བ་ལ་སོགས་པ …); 7.52 gloss markers/1000. The root song is not in the overlap data.",
+    "named_root": "སྤྱོད་པའི་གླུ",
+    "root_candidates": []
+  },
+  "At_3CGr_.md": {
+    "file_type": "commentary",
+    "confidence": "medium",
+    "evidence": "Title ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ. The opening frames the work as an explanation of one sūtra (བི་མ་ལ་མི་ཏྲ་ལྟར་ན་དོན་བརྒྱད་ཀྱིས་མདོ་འདིའི་དོན་མ་ལུས་པ་བསྟན་པ); 3.79 gloss markers/1000. The sūtra is not in the overlap data.",
+    "named_root": "ཤེས་རབ་སྙིང་པོ",
+    "root_candidates": []
+  },
+  "At_3CGw_.md": {
+    "file_type": "commentary",
+    "confidence": "low",
+    "evidence": "Title མདོ་ཀུན་ལས་བཏུས་པའི་དོན་བསྡུས་པ; the opening presents it as the meaning of one named work (སློབ་དཔོན་ནཱ་གཱརྫུ་ནས་མཛད་པའི་རིན་པོ་ཆེའི་གཏམ་བརྗོད་པ་མདོ་ཀུན་ལས་བཏུས་པའི་དོན་ནི། …) arranged in seven points. However the body reads as free instruction without quoting lines, and the colophon calls it a ཞལ་ཆེམས (མདོའི་དོན་མན་ངག་ཏུ་བྱས་པ).",
+    "named_root": "མདོ་ཀུན་ལས་བཏུས་པ",
+    "root_candidates": []
+  },
+  "At_3CGz_.md": {
+    "file_type": "commentary",
+    "confidence": "high",
+    "evidence": "Title and opening: བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མའི་དཀའ་འགྲེལ; the opening verse says it clarifies the ལམ་སྒྲོན (འདི་ན་ཅུང་ཟད་མི་གསལ་གང་ཡིན་པ། །ཉི་ཟེར་ལྟ་བུའི་འགྲེལ་པས་ལམ་གསལ་བྱ); contains 29% of At_3CGy_.md (བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མ).",
+    "named_root": "བྱང་ཆུབ་ལམ་གྱི་སྒྲོན་མ",
+    "root_candidates": ["At_3CGy_.md"]
+  }
+}

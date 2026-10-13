@@ -1,27 +1,3 @@
----
-title: སྔགས་ཀྱི་དོན་འཇུག་པ།
-alt_titles:
-  - bo: ""
-  - en: ""
-author:
-author_in_english:
-translator:
-date:
-language: Tibetan
-script: Unicode Tibetan
-file_type: root-text
-lang_tag: bo
-verse_id_format:
-collected_works: Atisha
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha)"
-source: https://wb.pub/3CGW
-bdrc_work_id:
-openpecha_text_id:
-license:
-category_id:
-category:
----
-
 ## ༄༅། །སྔགས་ཀྱི་དོན་འཇུག་པ།
 
 ༄༅༅། རྒྱལ་པོ་ཟ་ཞེས་བྱ་བ་ཞིག་གསང་སྔགས་ཀྱི་ཐེག་པ་བཀའ་མ་ཡིན་ཟེར་བས། དེའི་ལོག་རྟོགས་དགག་པའི་ཆེད་དུ་མཛད་པའོ། །[^1]ཏི་པཾ་ཀ་རའི་སྔགས་ལུགས་བཅུ་གསུམ་བཞུགས་པ་ལགས༌[^2]སྷོ། །

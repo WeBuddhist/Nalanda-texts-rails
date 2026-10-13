@@ -1,3 +1,27 @@
+---
+title: "བདེ་མཆོག་འཁོར་ལོའི་ཊི་ཀ"
+alt_titles:
+  - bo: "བདེ་མཆོག་འཁོར་ལོའི་ཊི་ཀ།"
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+root_text: "1-SOURCES/Text/Sh_3CCl_.md"
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 41) ཞི་བ་ལྷའི་གསུང་འབུམ། ཀ༽ .docx (06-Shantideva); https://wb.pub/3CCk"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "06-Shantideva"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id:
+---
+
 ## ༄༅། །བདེ་མཆོག་འཁོར་ལོའི་ཊི་ཀ།
 
 ༄། སློབ་དཔོན་བྷུ་སུ་ཀུའི་མཛད་པ་བཞུགས་སོ།། ༄༅༅། །རྒྱལ་པོའི་རིགས་ལྡན་ན་ལེན་ཏྲར། །བྱམས་དང་སྙིང་རྗེའི་མེ་ཏོག་ལས། །འཇམ་པའི་མགོན་གྱིས་གེ་སར་གཟིགས། །བྷུ་སུ་སྐུ་ལ་ཕྱག་འཚལ་ལོ། །

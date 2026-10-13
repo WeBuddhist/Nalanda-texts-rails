@@ -1,3 +1,27 @@
+---
+title: "མོ་རྩིས་འཇམ་པའི་དབྱངས་ཞེས་བྱ་བ།"
+alt_titles:
+  - bo: "མོ་རྩིས་འཇམ་པའི་དབྱངས་ཞེས་བྱ་བ་བཞུགས།"
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+root_text:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 41) ཞི་བ་ལྷའི་གསུང་འབུམ། ཀ༽ .docx (06-Shantideva); https://wb.pub/3CCp"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "06-Shantideva"
+category_id: "Rrl0usffAJJbYTYe1euws"
+category_name: "Linguistics Treatises / རིག་གནས།"
+openpecha_text_id:
+---
+
 ## ༄༅། །མོ་རྩིས་འཇམ་པའི་དབྱངས་ཞེས་བྱ་བ་བཞུགས།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཀེ་པ་ལི། བོད་སྐད་དུ། མོ་རྩིས་འཇམ་པའི་དབྱངས་ལ་ཕྱག་འཚལ་ལོ། །མཐའ་ཡས་བྱང་ཕྱོགས་དེ་བཞིན་པཱ་རིཀྴ་ཡི་ཡུལ། །དཔལ་རུ༌[^1]ནམ་གནས་སུ་འཁྲུངས་པའི་ཐུབ་པའི་སྲས། །དཔལ་རཱ་ཨུ་དྷེ་ཞབས་ཀྱིས་གསུངས། །འཇིག་རྟེན་པ་རྣམས་ཀྱིས་ཤེས་པའི་ཕྱིར། །འདས་པ་དང་མ་འོངས་པ་དང་། ད་ལྟར་བ་རྣམས་གསལ་བ་ཅན་གྱི་བསྟན་བཅོས་བཤད་པར་བྱ་སྟེ། དཔྱིད་ཟླ་ར་བའི་མར་ངོའི་ཚེས་བཅུ་བཞིའི་མཚན་མོ་ཐུན་གཉིས་པའི་ནང་དུ། ཀ་པིད་ཤིང་གི་རྩ་བ་བྱང་ངམ། ཤར་དུ་ཟུག་པ་ཡང་དག་པར་བལྟས་ལ། ཨོྃ་ཀྵཱིཾ་ཀྵཱིཾ་སྭཱ་ཧཱ་ཞེས་བརྗོད་ཅིང་བླངས་ཏེ། གྲུ་བཞི་སོར་གཉིས་ཀྱི་ཆེད་དུ་བྱས་བའི་ལོགས་ལ་ཨ་ཝ་ཡ་ད་ཞེས་པའི་ཡི་གེ་བཞི་བྲི་བར་བྱའོ། །

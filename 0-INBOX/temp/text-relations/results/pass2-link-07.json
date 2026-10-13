@@ -1,0 +1,77 @@
+{
+  "Va_3CEU.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as ཐེག་པ་ཆེན་པོ་མདོ་སྡེའི་རྒྱན (title མདོ་སྡེའི་རྒྱན་གྱི་བཤད་པ, chapter colophons ཐེག་པ་ཆེན་པོ་མདོ་སྡེའི་རྒྱན … བཤད་པ་ལས); no file in our corpus has this title, and its overlaps (e.g. 26% of As_3CDc_.md, a praise) are shared verses, not a quoted root."
+  },
+  "Va_3CEV.md": {
+    "commentary_of": "As_3CDu_.md",
+    "link_confidence": "medium",
+    "link_evidence": "Does not name its root, but 97 of 176 lemmas it glosses (… ཞེས་བྱ་བ་ནི, e.g. སྤངས་པའི་ཁྱད་པར, ཉན་ཐོས་ཀྱི་ཐེག་པ་ལས་ཁྱད་པར་དུ་བྱས་པ, བཅོམ་ལྡན་འདས་ཀྱི་སྤྱན་སྔར) occur in As_3CDu_.md (ཐེག་པ་ཆེན་པོ་བསྡུས་པ), in running order through its opening portion; only 60 occur in the commentary Va_3CEH.md."
+  },
+  "Va_3CEW.md": {
+    "commentary_of": "Va_3CEP.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon ཕུང་པོ་ལྔའི་བཤད་པ name the ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ, and it contains 50% of Va_3CEP.md's text; the same-titled Ch_3CCX.md is a different work (different opening) and is not among its top overlaps."
+  },
+  "Va_3CEZ.md": {
+    "commentary_of": "Va_3CEY.md",
+    "link_confidence": "high",
+    "link_evidence": "Its colophon (བསྟན་བཅོས་ཀྱི་ཚིགས་སུ་བཅད་པའི་དོན་བསྡུས་པ) matches the title of Va_3CEY.md (བསྟན་བཅོས་ཚིགས་སུ་བཅད་པ་བསྡུས་པ), and it quotes and explains its verses in order from སྐྱེས་བུ་ཁྱུ་མཆོག་ཁྱོད་འདྲའི … onward, containing 85% of Va_3CEY.md. Va_3CE6.md (73%) is a separate commentary on only the first verse."
+  },
+  "Di_3CEf_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པ and glosses its lines (རྒྱལ་བའི་ཡོན་ཏན་མཐའ་མི་འཚལ …); no root-text in our corpus has this title or shares its text (Di_3CEg_.md is a verse summary of the same praise, not the praise itself)."
+  },
+  "Di_3CEg_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "A verse summary of ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པ (closes བསྟོད་པའི་དོན་ནི་བསྡུས་པ་བསྟན); that praise is not in our corpus. Its topic scheme matches the commentary Di_3CEf_.md (12% of its text appears there), but it summarises the praise, not that commentary."
+  },
+  "Di_3CEl_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "A verse summary of the sūtra it names as ཤེས་རབ་ཕ་རོལ་ཕྱིན་མ་ནི། །བརྒྱད་སྟོང (the Eight Thousand); that sūtra is not in our corpus and no file's text is found in it beyond 10%."
+  },
+  "Di_3CEm_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as ཀུན་ཏུ་བཟང་པོའི་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོ (colophon འཕགས་པ་བཟང་པོ་སྤྱོད་པའི་སྨོན་ལམ་གྱི་རྒྱལ་པོའི་བཤད་པ); the prayer itself is not in our corpus — only other commentaries on it (Na_3CB9.md, Va_3CEE.md, 20% each)."
+  },
+  "Di_3CEo_.md": {
+    "commentary_of": "Va_3CEX.md",
+    "link_confidence": "high",
+    "link_evidence": "Colophon calls it a commentary on དབྱིག་གཉེན་དེས་མཛད་ཆོས་མངོན་མཛོད། །ཚིག་ལེ་འུར་བྱས་པ, the title of Va_3CEX.md (ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ), and it contains 65% of Va_3CEX.md; its overlap with the bhāṣya Va_3CEJ.md/Va_3CEK.md (30–34%) is lower."
+  },
+  "Di_3CEr_.md": {
+    "commentary_of": "Di_3CEp_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title ཚད་མ་ཀུན་ལས་བཏུས་པའི་འགྲེལ་པ names ཚད་མ་ཀུན་ལས་བཏུས་པ, which exists in two copies; it contains 55% of Di_3CEp_.md versus 18% of Di_3CEq_.md, so Di_3CEp_.md is the copy it quotes."
+  },
+  "Di_3CEt_.md": {
+    "commentary_of": "Di_3CEs_.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon དམིགས་པ་བརྟག་པའི་འགྲེལ་པ name དམིགས་པ་བརྟག་པ (Di_3CEs_.md); it quotes the verse དབང་པོ་རྣམ་པར་རིག་པའི་རྒྱུ། … and contains 62% of Di_3CEs_.md."
+  },
+  "Dh_3CEz_.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེ (the tantra); no file in our corpus is this tantra (At_3CFb_.md is only a sādhana) and no file's text is found in it above 14%."
+  },
+  "Dh_3CF4.md": {
+    "commentary_of": null,
+    "link_confidence": null,
+    "link_evidence": "Names its root as the སྐྱེས་པའི་རབས composed by སྙན་ངག་མཁན་པོ་འཕགས་པ་དཔའ་བོ (Skt. ཛཱ་ཏ་ཀ་མཱ་ལཱ); no file in our corpus has this title or shares its text."
+  },
+  "Dh_3CFA.md": {
+    "commentary_of": "Dh_3CF9.md",
+    "link_confidence": "high",
+    "link_evidence": "Title and colophon འབྲེལ་པ་བརྟག་པ་ཞེས་བྱ་བའི་འགྲེལ་པ name Dh_3CF9.md (འབྲེལ་པ་བརྟག་པའི་རབ་ཏུ་བྱེད་པ); it quotes the root's first words (གཞན་དབང་ཁོ་ནར་ཞེས་བྱ་བ་ལ་སོགས་པ) and contains 28% of Dh_3CF9.md."
+  },
+  "Dh_3CFB.md": {
+    "commentary_of": "Dh_3CF5.md",
+    "link_confidence": "high",
+    "link_evidence": "Title ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ and colophon ཚད་མ་རྣམ་འགྲེལ་གྱི་ལེའུ་དང་པོའི་འགྲེལ་པ name Dh_3CF5.md; the Dh_3CF5.md verse lines it contains are concentrated in that file's first third (619 of 1763 long lines there, almost none later), matching a first-chapter commentary, whereas its overlap with Dh_3CF6.md is scattered (shared verses)."
+  }
+}

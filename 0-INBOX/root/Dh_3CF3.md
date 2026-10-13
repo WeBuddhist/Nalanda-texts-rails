@@ -1,3 +1,26 @@
+---
+title: "དཔལ་རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+root_text:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 77) ཆོས་གྲགས་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (12-Dharmakirti); https://wb.pub/3CF3"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "12-Dharmakirti"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id:
+---
+
 ## ༄༅། །དཔལ་རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ།
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། ཤྲཱི་བཛྲ་སཏྭ་ནཱ་མ་སཱ་དྷ་ནཾ། བོད་སྐད་དུ། དཔལ་རྡོ་རྗེ་སེམས་དཔའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ། དཔལ་རྡོ་རྗེ་སེམས་དཔའ་ལ་ཕྱག་འཚལ་ལོ། །རྣལ་འབྱོར་པ་དབང་རྣམ་པ་བཞི་ཚུལ་བཞིན་དུ་ཐོབ་ཅིང་། དམ་ཚིག་རྣམས་སྲོག་གི་ཕྱིར་ཡང་མི་གཏོང་བས། རི་སུལ་དང་། བྲག་ཕུག་དང༌། ཆུ་ཀླུང་དང་། དུར་ཁྲོད་ལ་སོགས་པར་གནས་ལ། ནང་པར་དང་པོར་ཌ་མ་རུའི་སྒྲས་ལྡང་བར་བྱའོ། །དེ་ནས་ལག་པ་གཡས་པ་ཁྲོ་བོའི་སྡིགས་མཛུབ་སྙིང་གར་བསྟན་ལ། ཨོཾ་སུམྦྷ་ནི་སུམྦྷ་ཧཱུཾ་ཧཱུཾ༌[^1]ཕཊ། ཨོཾ་གྲྀཧྣ་གྲྀཧྣ་ཧཱུཾ་ཧཱུཾ༌[^2]ཕཊ། ཨོཾ་གྲྀཧྞ་པ་ཡ་གྲྀཧྞ་པ་ཡ་ཧཱུཾ་ཧཱུཾ༌[^3]ཕཊ། ཨོཾ་ཨཱ་ན་ཡ་ཧོཿབྷ་ག་བཱན་བཛྲ་བིདྱཱ་རཱ་ཛ་ཧཱུཾ་ཧཱུཾ༌[^4]ཕཊ།
