@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Dh_3CF5.md",
+  "validated_at": "2026-10-13T16:26:43.054921+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 1068 from 1068 footnote definition(s)",
+    "toc: 8 headers found"
+  ],
+  "warnings": [
+    "segment 258 (^1-253): footnote [^194] lemma 'བྱས་པའི་ཚིག །' does not end at the marker — the durchen will span the syllable before it, 'བྱས༌'",
+    "segment 1066 (^4-135): footnote [^933] lemma 'གཅལ།' does not end at the marker — the durchen will span the syllable before it, 'བ༌'",
+    "author 'Dharmakīrti I': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA1KG8893",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "རྒྱས་པའི་བསྟན་བཅོས་ཚད་མ་རྣམ་འགྲེལ་བཞུགས་སོ། །"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "v3L4eTn4x2E30znIhHvQe",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

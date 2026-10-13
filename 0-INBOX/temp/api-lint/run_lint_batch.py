@@ -42,6 +42,7 @@ HOLDS = HERE / "holds.json"
 LOGS = HERE / "logs"
 REPORT = VAULT / "0-INBOX" / "API-LINT-BATCH.md"
 UPLOAD_STATUS = HERE / "upload-status.json"  # written by run_upload_batch.py
+REASONS = HERE / "failure-reasons.json"  # id -> reason, written by hand after investigating a failure
 
 
 def _sizes():
@@ -221,7 +222,51 @@ def write_report(status):
             _sent(u, "durchen_ids", "durchen_count"), _sent(u, "yigchung_ids", "yigchung_count"),
             note,
         ]) + " |")
+    lines += _failures_section(status, uploads)
     REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")
+
+
+def _failures_section(status, uploads):
+    """Every text that failed lint, parse or upload, with the recorded error and the verified reason.
+
+    Built from the current state, so a text drops out as soon as it succeeds; its verified reason is
+    then pruned from failure-reasons.json too, so a stale reason never comes back.
+    """
+    reasons = _read_json(REASONS)
+    failed = []
+    for tid, e in sorted(status.items()):
+        u = uploads.get(tid, {})
+        if e.get("hold"):
+            continue
+        if e.get("status") == "failed":
+            stage = "lint" if e.get("lint") != "OK" else "parse"
+            failed.append((tid, stage, e.get("first_error") or "parser failed — see the log"))
+        elif u.get("status") in ("failed", "partial"):
+            failed.append((tid, "upload" if u["status"] == "failed" else "upload (partial)", u.get("error", "")))
+    still = {tid for tid, _, _ in failed}
+    stale = [t for t in reasons if t not in still and t in status]
+    if stale:
+        for t in stale:
+            del reasons[t]
+        tmp = REASONS.with_suffix(".json.tmp")
+        tmp.write_text(json.dumps(reasons, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+        __import__("os").replace(tmp, REASONS)
+
+    out = ["", "## Failures", "",
+           "Every text that failed lint, parse or upload. `error` is what the script recorded; "
+           "`verified reason` is what investigating it found (kept in `0-INBOX/temp/api-lint/failure-reasons.json`). "
+           "A text leaves this list, and its reason is removed, as soon as it succeeds.", ""]
+    if failed:
+        out += ["| id | stage | error | verified reason |", "|---|---|---|---|"]
+        out += ["| " + " | ".join(_cell(v) for v in (tid, stage, err, reasons.get(tid) or "_not yet verified_")) + " |"
+                for tid, stage, err in failed]
+    else:
+        out.append("None.")
+    held = [(t, e["hold"]) for t, e in sorted(status.items()) if e.get("hold")]
+    if held:
+        out += ["", "### Held — never run", "", "Listed in `0-INBOX/temp/api-lint/holds.json`; remove a text there to release it.", "",
+                "| id | reason |", "|---|---|"] + [f"| {_cell(t)} | {_cell(r)} |" for t, r in held]
+    return out
 
 
 def main():

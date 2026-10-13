@@ -279,7 +279,28 @@ def payload_hash(paths):
 _categories = {}
 
 
-def check(tid, paths, entry, live):
+def clash_reason(tid, ledger):
+    """Name the uploaded vault text(s) whose title or BDRC id this text repeats, or None."""
+    def meta(t):
+        p = payload_paths(t)["text"]
+        if not p.exists():
+            return set(), None
+        d = json.loads(p.read_text(encoding="utf-8"))
+        return set((d.get("title") or {}).items()), d.get("bdrc")
+
+    titles, bdrc = meta(tid)
+    found = []
+    for other, e in sorted(ledger.items()):
+        if other == tid or e.get("status") != "uploaded":
+            continue
+        t2, b2 = meta(other)
+        same = [w for w, hit in (("title", titles & t2), (f"BDRC {bdrc}", bdrc and bdrc == b2)) if hit]
+        if same:
+            found.append(f"{other} ({' + '.join(same)})")
+    return ("same " + "; ".join(found) + " as an uploaded text") if found else None
+
+
+def check(tid, paths, entry, live, ledger=None):
     """Return (payloads, problems). Read-only."""
     problems = []
     for k in ("text", "edition", "toc", "durchens"):
@@ -335,7 +356,8 @@ def check(tid, paths, entry, live):
             if not entry.get("text_id") and p["text"].get("bdrc"):
                 hits = call("GET", f"/v2/texts?bdrc={p['text']['bdrc']}&limit=5").get("items", [])
                 if hits:
-                    problems.append(f"a live text already has bdrc {p['text']['bdrc']}: "
+                    problems.append(clash_reason(tid, ledger or {}) or
+                                    f"a live text already has bdrc {p['text']['bdrc']}: "
                                     f"{[h.get('id') for h in hits]} — record its text_id instead of creating a duplicate")
             if entry.get("text_id") and not entry.get("edition_id"):
                 eds = call("GET", f"/v2/texts/{entry['text_id']}/editions")
@@ -513,7 +535,7 @@ def main():
                 entry[key] = fm[key]
 
         paths = payload_paths(tid)
-        payloads, problems = check(tid, paths, entry, live=not args.no_live)
+        payloads, problems = check(tid, paths, entry, live=not args.no_live, ledger=ledger)
         e = status[tid]
         todo = [s for s, key in (("text", "text_id"), ("edition", "edition_id"), ("toc", "toc_id"),
                                  ("durchens", "durchen_count"), ("yigchungs", "yigchung_count"))
@@ -540,7 +562,7 @@ def main():
             print(f"      uploaded  text {entry['text_id']} · edition {entry['edition_id']} · toc {entry['toc_id']}")
         except (ApiError, RuntimeError) as exc:
             entry["status"] = "failed" if not entry.get("text_id") else "partial"
-            entry["error"] = str(exc)[:300]
+            entry["error"] = ((" already exists" in str(exc) and clash_reason(tid, ledger)) or str(exc))[:300]
             save_ledger(ledger)
             print(f"      FAIL {exc}")
             failed += 1
