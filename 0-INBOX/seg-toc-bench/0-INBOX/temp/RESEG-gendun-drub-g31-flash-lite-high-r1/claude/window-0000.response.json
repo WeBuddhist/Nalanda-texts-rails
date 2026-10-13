@@ -1,0 +1,9 @@
+[
+  {"op": "merge", "blocks": [6, 7, 8]},
+  {"op": "merge", "blocks": [10, 11]},
+  {"op": "split", "block": 14, "after": "གསུང་ངོ་། །"},
+  {"op": "merge", "blocks": [15, 16, 17, 18, 19, 20, 21]},
+  {"op": "merge", "blocks": [24, 25, 26, 27, 28]},
+  {"op": "merge", "blocks": [34, 35, 36, 37]},
+  {"op": "merge", "blocks": [39, 40]}
+]

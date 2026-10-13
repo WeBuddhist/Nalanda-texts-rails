@@ -356,7 +356,11 @@ def unique_anchors(all_lines, keep, text):
     """Only the top-level nodes are ingested, so a kept node whose anchor words occur more
     than once (a refrain opening two rite sections) loses the dropped children that put it
     after the first occurrence. Walk the whole tree in order to find each node's place, and
-    lengthen such an anchor with the text's own following words until it occurs once."""
+    lengthen such an anchor with the text's own following words until it occurs once.
+    Also returns each kept node's place (heading ID → offset in the canonical text), for
+    relocate_headings: the ingest reads only an anchor's first 60 characters, which in a
+    sutra of repeated formulas can be the same for many paragraphs."""
+    spots = {}
     body = "\n".join(l for l in re.split(r"(?m)^\[\^\d+\]:", text)[0].split("\n")
                      if not l.lstrip().startswith("#"))
     flat, idx = [], []
@@ -378,6 +382,9 @@ def unique_anchors(all_lines, keep, text):
     out, longer = [], 0
     for l in keep:
         m = TREE_LINE.match(l)
+        n = re.match(r"^\s*\*\s+(II|\d+(?:\.\d+)*)\.?\s", l)
+        if m and n and l in place:
+            spots["^" + n.group(1).replace(".", "-") + "-0"] = place[l][0]
         if m and l in place and flat.count(flat[place[l][0]:sum(place[l])]) > 1:
             j, end = place[l][0], sum(place[l])
             # the ingest falls back to the anchor's first half inside one block: that half
@@ -391,7 +398,48 @@ def unique_anchors(all_lines, keep, text):
             l = f"{m.group(1)} [[{words}]]"
             longer += 1
         out.append(l)
-    return out, longer
+    return out, longer, spots
+
+
+def relocate_headings(path, spots):
+    """After the ingest: a numbered or II heading that did not land right before the block
+    at its place (spots, from unique_anchors) is moved there. Only block starts count; a
+    place inside a block is left to the ingest. Returns the number of headings moved."""
+    t = path.read_text(encoding="utf-8")
+    m = re.search(r"(?m)^\[\^\d+\]:", t)
+    main, notes = (t[:m.start()], t[m.start():]) if m else (t, "")
+    blocks = [b for b in re.split(r"\n[ \t]*\n", main.strip("\n"))]
+    is_head = lambda b: b.lstrip().startswith("#")
+    starts, c = {}, 0
+    for k, b in enumerate(blocks):
+        if not is_head(b):
+            starts[c] = starts.get(c, k)
+            c += len(ANCHOR_DROP.sub("", "\n".join(l for l in b.split("\n") if not l.lstrip().startswith("#"))))
+    hid = lambda b: (re.search(r"\^(\S+)\s*$", b.strip()) or [None, None])[1]
+    moves = {}
+    for k, b in enumerate(blocks):
+        if not is_head(b) or ("^" + str(hid(b))) not in spots:
+            continue
+        target = starts.get(spots["^" + hid(b)])
+        if target is None:
+            continue
+        j = target - 1
+        while j >= 0 and is_head(blocks[j]) and j != k:
+            j -= 1
+        if j != k:                                   # not in the run of headings before it
+            moves[k] = target
+    if not moves:
+        return 0
+    out = []
+    for k, b in enumerate(blocks):
+        if k in moves:
+            continue
+        out += [blocks[h] for h in sorted(x for x, tg in moves.items() if tg == k)]
+        out.append(b)
+    new = "\n\n".join(out) + "\n" + ("\n" + notes if notes else "")
+    assert no_headings(new) == no_headings(t), "relocate_headings changed the text"
+    path.write_text(new, encoding="utf-8")
+    return len(moves)
 
 
 def prepare(src, work, tree, front_title, body_title, form="auto"):
@@ -570,7 +618,7 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
         child = len([l for l in tl if re.match(r"^\* \d+\. ", l)]) == 1
         keep = [l for l in tl if l.startswith("## ") or not l.strip() or re.match(r"^\* (?:\d+|II)\.? ", l)
                 or (child and re.match(r"^\s+\* \d+\.\d+ ", l))]
-        keep, longer = unique_anchors(tl, keep, prepared.read_text(encoding="utf-8"))
+        keep, longer, spots = unique_anchors(tl, keep, prepared.read_text(encoding="utf-8"))
         if longer:
             report.append(f"{longer} repeated anchor(s) lengthened to their own place")
         tmd.write_text("\n".join(keep) + "\n", encoding="utf-8")
@@ -582,6 +630,9 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
         assert "Integrity: text unchanged" in r.stdout, r.stdout + r.stderr
         m = re.search(r"Not found:\s+(\d+)", r.stdout)
         nf = f"{m.group(1) if m else '?'} not placed"
+        moved = relocate_headings(prepared, spots)
+        if moved:
+            report.append(f"{moved} heading(s) moved to their anchor's own place")
         # the front-matter section holds only its frame blocks: the author's own opening
         # verses belong to the body, so the first body heading moves up to meet them
         if front:

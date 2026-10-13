@@ -9,7 +9,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text: "1-SOURCES/Text/Dh_3CF9.md"
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 80) ཆོས་གྲགས་ཀྱི་གསུང་འབུམ། ང༽ .docx (12-Dharmakirti); https://wb.pub/3CFA"
 bdrc_work_id: "WA0RT3552"

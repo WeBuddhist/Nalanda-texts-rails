@@ -10,7 +10,6 @@ file_type: "root-text"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 79) ཆོས་གྲགས་ཀྱི་གསུང་འབུམ། ག༽ .docx (12-Dharmakirti); https://wb.pub/3CF7"
 bdrc_work_id: "WA0RT3549"

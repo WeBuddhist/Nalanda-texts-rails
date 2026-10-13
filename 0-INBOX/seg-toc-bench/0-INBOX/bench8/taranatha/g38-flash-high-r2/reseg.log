@@ -1,0 +1,63 @@
+Input:      D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\taranatha\g38-flash-high-r2\2-after-ingest.md
+ID:         taranatha-g38-flash-high-r2
+Vault root: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench
+Staging:    D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\temp\RESEG-taranatha-g38-flash-high-r2\windows
+Output:     D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\taranatha-g38-flash-high-r2.reseg.md
+
+Blocks: 212  (headings: 32, content: 180)
+Windows: 6  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 40
+  MERGE [6, 7, 8]
+  MERGE [11, 12, 13, 14, 15, 16, 17]
+  MERGE [25, 26, 27]
+  MERGE [30, 31]
+  MERGE [34, 35, 36, 37]
+  MERGE [41, 42, 43, 44]
+  MERGE [45, 46, 47, 48]
+  MERGE [50, 51, 52, 53, 54]
+  MERGE [55, 56, 57]
+  MERGE [60, 61, 62, 63]
+  MERGE [65, 66]
+  MERGE [70, 71]
+  MERGE [73, 74, 75]
+  MERGE [76, 77]
+  MERGE [79, 80, 81]
+  MERGE [82, 83]
+  MERGE [88, 89, 90, 91, 92, 93]
+  MERGE [94, 95]
+  MERGE [97, 98]
+  MERGE [99, 100]
+  MERGE [102, 103]
+  MERGE [104, 105, 106, 107, 108]
+  MERGE [110, 111, 112, 113, 114, 115]
+  MERGE [116, 117]
+  MERGE [119, 120, 121]
+  MERGE [122, 123]
+  MERGE [125, 126, 127]
+  MERGE [128, 129, 130, 131]
+  MERGE [133, 134, 135, 136, 137]
+  MERGE [144, 145, 146, 147, 148, 149, 150]
+  MERGE [154, 155, 156, 157, 158, 159, 160]
+  MERGE [171, 172]
+  MERGE [173, 174, 175, 176, 177]
+  MERGE [178, 179, 180, 181, 182, 183, 184]
+  MERGE [185, 186, 187, 188, 189, 190]
+  MERGE [191, 192]
+  MERGE [193, 194, 195, 196]
+  MERGE [197, 198]
+  MERGE [199, 200, 201, 202]
+  MERGE [203, 204, 205, 206, 207]
+
+Overlap disagreements (1) — boundary kept:
+  - Blocks 177 | 178: windows [4, 5], joined by [4]
+
+Blocks: 212 → 104
+✓ Integrity check passed
+
+Output:  D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\taranatha-g38-flash-high-r2.reseg.md
+Ops log: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\taranatha-g38-flash-high-r2.ops.md
+
+1 overlap disagreement(s) resolved by keeping the boundary — see ops log.

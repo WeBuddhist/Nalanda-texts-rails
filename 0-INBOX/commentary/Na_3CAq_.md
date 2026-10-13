@@ -10,7 +10,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text: "1-SOURCES/Text/Na_3CAm_.md"
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 19) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཅ༽ .docx (01-Nagarjuna); https://wb.pub/3CAq"
 bdrc_work_id: "WA0RT3175"

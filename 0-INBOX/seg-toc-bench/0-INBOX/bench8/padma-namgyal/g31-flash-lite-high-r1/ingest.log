@@ -1,0 +1,14 @@
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            15
+  Inserted:               14
+  Already present:        0
+  Blocks split at a node: 1 ['II.2']
+  Not found:              1
+
+NOT FOUND — insert manually then re-run to confirm:
+  [II.7] སྐུ་མྱ་ངན་ལས་མི་འདའ་བར་གསོལ་བ་འདེབས་པ།
+       context not found: 'དྲག་པ་སྐུ་མྱ་ངན་ལས་མི་འདའ་བར་གསོལ་བ་འདེབ'
+  Integrity: text unchanged ✓
+
+Commentary updated: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\padma-namgyal\g31-flash-lite-high-r1\2-after-ingest.md

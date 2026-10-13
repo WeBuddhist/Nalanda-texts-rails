@@ -16,7 +16,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 VAULT = HERE.parents[2]
-cat = json.loads((VAULT / "1-SOURCES/Text/text_catalog.json").read_text(encoding="utf-8"))
+cat = json.loads((VAULT / "1-SOURCES/text_catalog.json").read_text(encoding="utf-8"))
 ours = {w["filename"] for p in cat["panditas"] for w in p["works"]}
 TYPES = {"root-text", "commentary", None}
 

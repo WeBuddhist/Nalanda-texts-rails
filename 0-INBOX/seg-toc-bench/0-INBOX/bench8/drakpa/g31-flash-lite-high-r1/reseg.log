@@ -1,0 +1,34 @@
+Input:      D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\drakpa\g31-flash-lite-high-r1\2-after-ingest.md
+ID:         drakpa-g31-flash-lite-high-r1
+Vault root: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench
+Staging:    D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\temp\RESEG-drakpa-g31-flash-lite-high-r1\windows
+Output:     D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\drakpa-g31-flash-lite-high-r1.reseg.md
+
+Blocks: 71  (headings: 8, content: 63)
+Windows: 2  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 9
+  SPLIT block 12 after: 'བསྟོད་པའོ། །'
+  SPLIT block 19 after: 'སྤྱན་ནི་སྐད་ཅིག་གློག་དང་འདྲ་མ། །'
+  SPLIT block 20 after: 'འཇིག་རྟེན་གསུམ་མགོན་ཆུ་སྐྱེས་ཞལ་གྱི། ། | པདྨ་ཁ་བྱེ'
+  MERGE [24, 25, 26]
+  SPLIT block 30 after: 'རྒྱལ་བའི་སྲས་ཀྱིས་ཤིན་ཏུ་བརྟེན་མ། ། | ཤིན་ཏུ་བརྟེན'
+  SPLIT block 36 after: 'མེ་འབར་འཁྲུགས་པ་ཤིན་ཏུ་འབར་མ། ། | མེ་འབར་བའི་དབུས་'
+  SPLIT block 39 after: 'སོར་མོས་ཐུགས་ཀར་རྣམ་པར་བརྒྱན་མ།'
+  MERGE [42, 43]
+  MERGE [54, 55]
+
+Overlap disagreements (2) — boundary kept:
+  - Blocks 36 | 37: windows [0, 1], joined by [1]
+  - Blocks 39 | 40: windows [0, 1], joined by [1]
+
+Blocks: 71 → 80
+✓ Integrity check passed
+
+Output:  D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\drakpa-g31-flash-lite-high-r1.reseg.md
+Ops log: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\drakpa-g31-flash-lite-high-r1.ops.md
+
+2 overlap disagreement(s) resolved by keeping the boundary — see ops log.
+  ! split block 36: substring not found: 'ཆུ་སྐྱེས་ཞལ་ནི་ཁྲོ་གཉེར་ལྡན་མཛད་། །'; keeping block whole

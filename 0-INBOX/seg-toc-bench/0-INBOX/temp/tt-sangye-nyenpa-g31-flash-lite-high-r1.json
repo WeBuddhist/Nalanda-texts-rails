@@ -1,0 +1,707 @@
+{
+  "source": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\seg-toc-bench\\0-INBOX\\bench8\\sangye-nyenpa\\g31-flash-lite-high-r1\\toc-tree-anchored.md",
+  "total_nodes": 70,
+  "max_depth": 3,
+  "nodes": [
+    {
+      "decimal_id": "I",
+      "depth": 1,
+      "frame": true,
+      "label": "མཆོད་བརྗོད།",
+      "block_id": "^I-0",
+      "context": "ཡེ་ཤེས་ལང་ཚོས་གང་བའི་རྗེ་བཙུན་མ། །",
+      "context_anchor": "ཡེ་ཤེས་ལང་ཚོས་གང་བའི་རྗེ་བཙུན་མ། །",
+      "doc_order": 0
+    },
+    {
+      "decimal_id": "II",
+      "depth": 1,
+      "frame": true,
+      "label": "ཕྱག་འཚལ་སྒྲོལ་མ་ཉེར་གཅིག་གི་ཚིག་འགྲེལ་དང་དམིགས་རིམ།",
+      "block_id": "^II-0",
+      "context": "དང་པོ། ཨོཾ་རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མ་ལ་འཚལ་ལོ། ། ཞེས་པ་ལ།",
+      "context_anchor": "དང་པོ། ཨོཾ་རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མ་ལ་འཚལ་ལོ། ། ཞེས་པ་ལ།",
+      "doc_order": 1
+    },
+    {
+      "decimal_id": "1",
+      "depth": 1,
+      "frame": false,
+      "label": "བསྟོད་པ་དངོས།",
+      "block_id": "^1-0",
+      "context": "དང་པོ་། ཨོཾ་རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མ་ལ་འཚལ་ལོ། །",
+      "context_anchor": "དང་པོ་། ཨོཾ་རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མ་ལ་འཚལ་ལོ། །",
+      "doc_order": 2
+    },
+    {
+      "decimal_id": "1.1",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བ།",
+      "block_id": "^1-1-0",
+      "context": "དང་པོ་། ཨོཾ་རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མ་ལ་འཚལ་ལོ། །",
+      "context_anchor": "དང་པོ་། ཨོཾ་རྗེ་བཙུན་མ་འཕགས་མ་སྒྲོལ་མ་ལ་འཚལ་ལོ། །",
+      "doc_order": 3
+    },
+    {
+      "decimal_id": "1.2",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་དང་པོ།",
+      "block_id": "^1-2-0",
+      "context": "ཕྱག་འཚལ་སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། །",
+      "context_anchor": "ཕྱག་འཚལ་སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། །",
+      "doc_order": 4
+    },
+    {
+      "decimal_id": "1.2.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-2-1-0",
+      "context": "ཕྱག་འཚལ་སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། །",
+      "context_anchor": "ཕྱག་འཚལ་སྒྲོལ་མ་མྱུར་མ་དཔའ་མོ། །",
+      "doc_order": 5
+    },
+    {
+      "decimal_id": "1.2.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-2-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 6
+    },
+    {
+      "decimal_id": "1.3",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་གཉིས་པ།",
+      "block_id": "^1-3-0",
+      "context": "ཕྱག་འཚལ་སྟོན་ཀའི་ཟླ་བ་ཀུན་ཏུ། །",
+      "context_anchor": "ཕྱག་འཚལ་སྟོན་ཀའི་ཟླ་བ་ཀུན་ཏུ། །",
+      "doc_order": 7
+    },
+    {
+      "decimal_id": "1.3.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-3-1-0",
+      "context": "ཕྱག་འཚལ་སྟོན་ཀའི་ཟླ་བ་ཀུན་ཏུ། །",
+      "context_anchor": "ཕྱག་འཚལ་སྟོན་ཀའི་ཟླ་བ་ཀུན་ཏུ། །",
+      "doc_order": 8
+    },
+    {
+      "decimal_id": "1.3.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-3-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 9
+    },
+    {
+      "decimal_id": "1.4",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་གསུམ་པ།",
+      "block_id": "^1-4-0",
+      "context": "ཕྱག་འཚལ་གསེར་སྔོ་ཆུ་ནས་སྐྱེས་ཀྱི། །",
+      "context_anchor": "ཕྱག་འཚལ་གསེར་སྔོ་ཆུ་ནས་སྐྱེས་ཀྱི། །",
+      "doc_order": 10
+    },
+    {
+      "decimal_id": "1.4.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-4-1-0",
+      "context": "ཕྱག་འཚལ་གསེར་སྔོ་ཆུ་ནས་སྐྱེས་ཀྱི། །",
+      "context_anchor": "ཕྱག་འཚལ་གསེར་སྔོ་ཆུ་ནས་སྐྱེས་ཀྱི། །",
+      "doc_order": 11
+    },
+    {
+      "decimal_id": "1.4.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-4-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 12
+    },
+    {
+      "decimal_id": "1.5",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཞི་པ།",
+      "block_id": "^1-5-0",
+      "context": "ཕྱག་འཚལ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར། །",
+      "context_anchor": "ཕྱག་འཚལ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར། །",
+      "doc_order": 13
+    },
+    {
+      "decimal_id": "1.5.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-5-1-0",
+      "context": "ཕྱག་འཚལ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར། །",
+      "context_anchor": "ཕྱག་འཚལ་དེ་བཞིན་གཤེགས་པའི་གཙུག་ཏོར། །",
+      "doc_order": 14
+    },
+    {
+      "decimal_id": "1.5.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-5-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 15
+    },
+    {
+      "decimal_id": "1.6",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་ལྔ་པ།",
+      "block_id": "^1-6-0",
+      "context": "ཕྱག་འཚལ་ཏུཏྟཱ་ར་ཧཱུཾ་ཡི་གེས། །",
+      "context_anchor": "ཕྱག་འཚལ་ཏུཏྟཱ་ར་ཧཱུཾ་ཡི་གེས། །",
+      "doc_order": 16
+    },
+    {
+      "decimal_id": "1.6.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-6-1-0",
+      "context": "ཕྱག་འཚལ་ཏུཏྟཱ་ར་ཧཱུཾ་ཡི་གེས། །",
+      "context_anchor": "ཕྱག་འཚལ་ཏུཏྟཱ་ར་ཧཱུཾ་ཡི་གེས། །",
+      "doc_order": 17
+    },
+    {
+      "decimal_id": "1.6.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-6-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 18
+    },
+    {
+      "decimal_id": "1.7",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་དྲུག་པ།",
+      "block_id": "^1-7-0",
+      "context": "ཕྱག་འཚལ་བརྒྱ་བྱིན་མེ་ལྷ་ཚངས་པ། །",
+      "context_anchor": "ཕྱག་འཚལ་བརྒྱ་བྱིན་མེ་ལྷ་ཚངས་པ། །",
+      "doc_order": 19
+    },
+    {
+      "decimal_id": "1.7.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-7-1-0",
+      "context": "ཕྱག་འཚལ་བརྒྱ་བྱིན་མེ་ལྷ་ཚངས་པ། །",
+      "context_anchor": "ཕྱག་འཚལ་བརྒྱ་བྱིན་མེ་ལྷ་ཚངས་པ། །",
+      "doc_order": 20
+    },
+    {
+      "decimal_id": "1.7.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-7-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 21
+    },
+    {
+      "decimal_id": "1.8",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བདུན་པ།",
+      "block_id": "^1-8-0",
+      "context": "ཕྱག་འཚལ་ཏྲཌ་ཅེས་བྱ་དང་ཕཊ་ཀྱིས། །",
+      "context_anchor": "ཕྱག་འཚལ་ཏྲཌ་ཅེས་བྱ་དང་ཕཊ་ཀྱིས། །",
+      "doc_order": 22
+    },
+    {
+      "decimal_id": "1.8.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-8-1-0",
+      "context": "ཕྱག་འཚལ་ཏྲཌ་ཅེས་བྱ་དང་ཕཊ་ཀྱིས། །",
+      "context_anchor": "ཕྱག་འཚལ་ཏྲཌ་ཅེས་བྱ་དང་ཕཊ་ཀྱིས། །",
+      "doc_order": 23
+    },
+    {
+      "decimal_id": "1.8.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-8-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 24
+    },
+    {
+      "decimal_id": "1.9",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བརྒྱད་པ།",
+      "block_id": "^1-9-0",
+      "context": "ཕྱག་འཚལ་ཏུ་རེ་འཇིགས་པ་ཆེན་མོས། །",
+      "context_anchor": "ཕྱག་འཚལ་ཏུ་རེ་འཇིགས་པ་ཆེན་མོས། །",
+      "doc_order": 25
+    },
+    {
+      "decimal_id": "1.9.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-9-1-0",
+      "context": "ཕྱག་འཚལ་ཏུ་རེ་འཇིགས་པ་ཆེན་མོས། །",
+      "context_anchor": "ཕྱག་འཚལ་ཏུ་རེ་འཇིགས་པ་ཆེན་མོས། །",
+      "doc_order": 26
+    },
+    {
+      "decimal_id": "1.9.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-9-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 27
+    },
+    {
+      "decimal_id": "1.10",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་དགུ་པ།",
+      "block_id": "^1-10-0",
+      "context": "ཕྱག་འཚལ་དཀོན་མཆོག་གསུམ་མཚོན་ཕྱག་རྒྱའི། །",
+      "context_anchor": "ཕྱག་འཚལ་དཀོན་མཆོག་གསུམ་མཚོན་ཕྱག་རྒྱའི། །",
+      "doc_order": 28
+    },
+    {
+      "decimal_id": "1.10.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-10-1-0",
+      "context": "ཕྱག་འཚལ་དཀོན་མཆོག་གསུམ་མཚོན་ཕྱག་རྒྱའི། །",
+      "context_anchor": "ཕྱག་འཚལ་དཀོན་མཆོག་གསུམ་མཚོན་ཕྱག་རྒྱའི། །",
+      "doc_order": 29
+    },
+    {
+      "decimal_id": "1.10.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-10-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 30
+    },
+    {
+      "decimal_id": "1.11",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅུ་པ།",
+      "block_id": "^1-11-0",
+      "context": "ཕྱག་འཚལ་རབ་ཏུ་དགའ་བས་བརྗིད་པའི། །",
+      "context_anchor": "ཕྱག་འཚལ་རབ་ཏུ་དགའ་བས་བརྗིད་པའི། །",
+      "doc_order": 31
+    },
+    {
+      "decimal_id": "1.11.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-11-1-0",
+      "context": "ཕྱག་འཚལ་རབ་ཏུ་དགའ་བས་བརྗིད་པའི། །",
+      "context_anchor": "ཕྱག་འཚལ་རབ་ཏུ་དགའ་བས་བརྗིད་པའི། །",
+      "doc_order": 32
+    },
+    {
+      "decimal_id": "1.11.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-11-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 33
+    },
+    {
+      "decimal_id": "1.12",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅུ་གཅིག་པ།",
+      "block_id": "^1-12-0",
+      "context": "ཕྱག་འཚལ་ས་གཞི་སྐྱོང་བའི་ཚོགས་རྣམས། །",
+      "context_anchor": "ཕྱག་འཚལ་ས་གཞི་སྐྱོང་བའི་ཚོགས་རྣམས། །",
+      "doc_order": 34
+    },
+    {
+      "decimal_id": "1.12.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-12-1-0",
+      "context": "ཕྱག་འཚལ་ས་གཞི་སྐྱོང་བའི་ཚོགས་རྣམས། །",
+      "context_anchor": "ཕྱག་འཚལ་ས་གཞི་སྐྱོང་བའི་ཚོགས་རྣམས། །",
+      "doc_order": 35
+    },
+    {
+      "decimal_id": "1.12.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-12-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 36
+    },
+    {
+      "decimal_id": "1.13",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅུ་གཉིས་པ།",
+      "block_id": "^1-13-0",
+      "context": "ཕྱག་འཚལ་ཟླ་བའི་དུམ་བུས་དབུ་རྒྱན། །",
+      "context_anchor": "ཕྱག་འཚལ་ཟླ་བའི་དུམ་བུས་དབུ་རྒྱན། །",
+      "doc_order": 37
+    },
+    {
+      "decimal_id": "1.13.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-13-1-0",
+      "context": "ཕྱག་འཚལ་ཟླ་བའི་དུམ་བུས་དབུ་རྒྱན། །",
+      "context_anchor": "ཕྱག་འཚལ་ཟླ་བའི་དུམ་བུས་དབུ་རྒྱན། །",
+      "doc_order": 38
+    },
+    {
+      "decimal_id": "1.13.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-13-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 39
+    },
+    {
+      "decimal_id": "1.14",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅུ་གསུམ་པ།",
+      "block_id": "^1-14-0",
+      "context": "ཕྱག་འཚལ་བསྐལ་པ་ཐ་མའི་མེ་ལྟར། །",
+      "context_anchor": "ཕྱག་འཚལ་བསྐལ་པ་ཐ་མའི་མེ་ལྟར། །",
+      "doc_order": 40
+    },
+    {
+      "decimal_id": "1.14.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-14-1-0",
+      "context": "ཕྱག་འཚལ་བསྐལ་པ་ཐ་མའི་མེ་ལྟར། །",
+      "context_anchor": "ཕྱག་འཚལ་བསྐལ་པ་ཐ་མའི་མེ་ལྟར། །",
+      "doc_order": 41
+    },
+    {
+      "decimal_id": "1.14.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-14-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 42
+    },
+    {
+      "decimal_id": "1.15",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅུ་བཞི་པ།",
+      "block_id": "^1-15-0",
+      "context": "ཕྱག་འཚལ་ས་གཞིའི་ངོས་ལ་ཕྱག་གི། །",
+      "context_anchor": "ཕྱག་འཚལ་ས་གཞིའི་ངོས་ལ་ཕྱག་གི། །",
+      "doc_order": 43
+    },
+    {
+      "decimal_id": "1.15.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-15-1-0",
+      "context": "ཕྱག་འཚལ་ས་གཞིའི་ངོས་ལ་ཕྱག་གི། །",
+      "context_anchor": "ཕྱག་འཚལ་ས་གཞིའི་ངོས་ལ་ཕྱག་གི། །",
+      "doc_order": 44
+    },
+    {
+      "decimal_id": "1.15.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-15-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 45
+    },
+    {
+      "decimal_id": "1.16",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅོ་ལྔ་པ།",
+      "block_id": "^1-16-0",
+      "context": "ཕྱག་འཚལ་བདེ་མ་དགེ་མ་ཞི་མ། །",
+      "context_anchor": "ཕྱག་འཚལ་བདེ་མ་དགེ་མ་ཞི་མ། །",
+      "doc_order": 46
+    },
+    {
+      "decimal_id": "1.16.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-16-1-0",
+      "context": "ཕྱག་འཚལ་བདེ་མ་དགེ་མ་ཞི་མ། །",
+      "context_anchor": "ཕྱག་འཚལ་བདེ་མ་དགེ་མ་ཞི་མ། །",
+      "doc_order": 47
+    },
+    {
+      "decimal_id": "1.16.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-16-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 48
+    },
+    {
+      "decimal_id": "1.17",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅུ་དྲུག་པ།",
+      "block_id": "^1-17-0",
+      "context": "ཕྱག་འཚལ་ཀུན་ནས་བསྐོར་རབ་དགའ་བའི། །",
+      "context_anchor": "ཕྱག་འཚལ་ཀུན་ནས་བསྐོར་རབ་དགའ་བའི། །",
+      "doc_order": 49
+    },
+    {
+      "decimal_id": "1.17.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-17-1-0",
+      "context": "ཕྱག་འཚལ་ཀུན་ནས་བསྐོར་རབ་དགའ་བའི། །",
+      "context_anchor": "ཕྱག་འཚལ་ཀུན་ནས་བསྐོར་རབ་དགའ་བའི། །",
+      "doc_order": 50
+    },
+    {
+      "decimal_id": "1.17.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-17-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 51
+    },
+    {
+      "decimal_id": "1.18",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅུ་དྲུག་པ།",
+      "block_id": "^1-18-0",
+      "context": "ཕྱག་འཚལ་ཏུ་རེའི་ཞབས་ནི་བརྡབས་པས། །",
+      "context_anchor": "ཕྱག་འཚལ་ཏུ་རེའི་ཞབས་ནི་བརྡབས་པས། །",
+      "doc_order": 52
+    },
+    {
+      "decimal_id": "1.18.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-18-1-0",
+      "context": "ཕྱག་འཚལ་ཏུ་རེའི་ཞབས་ནི་བརྡབས་པས། །",
+      "context_anchor": "ཕྱག་འཚལ་ཏུ་རེའི་ཞབས་ནི་བརྡབས་པས། །",
+      "doc_order": 53
+    },
+    {
+      "decimal_id": "1.18.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-18-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 54
+    },
+    {
+      "decimal_id": "1.19",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅུ་བདུན་པ།",
+      "block_id": "^1-19-0",
+      "context": "ཕྱག་འཚལ་ལྷ་ཡི་མཚོ་ཡི་རྣམ་པའི། །",
+      "context_anchor": "ཕྱག་འཚལ་ལྷ་ཡི་མཚོ་ཡི་རྣམ་པའི། །",
+      "doc_order": 55
+    },
+    {
+      "decimal_id": "1.19.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-19-1-0",
+      "context": "ཕྱག་འཚལ་ལྷ་ཡི་མཚོ་ཡི་རྣམ་པའི། །",
+      "context_anchor": "ཕྱག་འཚལ་ལྷ་ཡི་མཚོ་ཡི་རྣམ་པའི། །",
+      "doc_order": 56
+    },
+    {
+      "decimal_id": "1.19.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-19-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 57
+    },
+    {
+      "decimal_id": "1.20",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅོ་བརྒྱད་པ།",
+      "block_id": "^1-20-0",
+      "context": "ཕྱག་འཚལ་ལྷ་ཡི་ཚོགས་རྣམས་རྒྱལ་པོ། །",
+      "context_anchor": "ཕྱག་འཚལ་ལྷ་ཡི་ཚོགས་རྣམས་རྒྱལ་པོ། །",
+      "doc_order": 58
+    },
+    {
+      "decimal_id": "1.20.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-20-1-0",
+      "context": "ཕྱག་འཚལ་ལྷ་ཡི་ཚོགས་རྣམས་རྒྱལ་པོ། །",
+      "context_anchor": "ཕྱག་འཚལ་ལྷ་ཡི་ཚོགས་རྣམས་རྒྱལ་པོ། །",
+      "doc_order": 59
+    },
+    {
+      "decimal_id": "1.20.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-20-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 60
+    },
+    {
+      "decimal_id": "1.21",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་བཅུ་དགུ་པ།",
+      "block_id": "^1-21-0",
+      "context": "ཕྱག་འཚལ་ཉི་མ་ཟླ་བ་རྒྱས་པའི། །",
+      "context_anchor": "ཕྱག་འཚལ་ཉི་མ་ཟླ་བ་རྒྱས་པའི། །",
+      "doc_order": 61
+    },
+    {
+      "decimal_id": "1.21.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-21-1-0",
+      "context": "ཕྱག་འཚལ་ཉི་མ་ཟླ་བ་རྒྱས་པའི། །",
+      "context_anchor": "ཕྱག་འཚལ་ཉི་མ་ཟླ་བ་རྒྱས་པའི། །",
+      "doc_order": 62
+    },
+    {
+      "decimal_id": "1.21.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-21-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 63
+    },
+    {
+      "decimal_id": "1.22",
+      "depth": 2,
+      "frame": false,
+      "label": "ཕྱག་འཚལ་ཉི་ཤུ་པ།",
+      "block_id": "^1-22-0",
+      "context": "ཕྱག་འཚལ་དེ་ཉིད་གསུམ་རྣམས་བཀོད་པའི། །",
+      "context_anchor": "ཕྱག་འཚལ་དེ་ཉིད་གསུམ་རྣམས་བཀོད་པའི། །",
+      "doc_order": 64
+    },
+    {
+      "decimal_id": "1.22.1",
+      "depth": 3,
+      "frame": false,
+      "label": "ཚིག་འགྲེལ།",
+      "block_id": "^1-22-1-0",
+      "context": "ཕྱག་འཚལ་དེ་ཉིད་གསུམ་རྣམས་བཀོད་པའི། །",
+      "context_anchor": "ཕྱག་འཚལ་དེ་ཉིད་གསུམ་རྣམས་བཀོད་པའི། །",
+      "doc_order": 65
+    },
+    {
+      "decimal_id": "1.22.2",
+      "depth": 3,
+      "frame": false,
+      "label": "གསལ་འདེབས་ཚུལ།",
+      "block_id": "^1-22-2-0",
+      "context": "གསལ་འདེབས་ཚུལ་ནི།",
+      "context_anchor": "གསལ་འདེབས་ཚུལ་ནི།",
+      "doc_order": 66
+    },
+    {
+      "decimal_id": "2",
+      "depth": 1,
+      "frame": false,
+      "label": "གཞུང་གི་དོན་བསྡུ།",
+      "block_id": "^2-0",
+      "context": "གཞུང་གི་དོན་བསྡུ་བ།",
+      "context_anchor": "གཞུང་གི་དོན་བསྡུ་བ།",
+      "doc_order": 67
+    },
+    {
+      "decimal_id": "a",
+      "depth": 1,
+      "frame": true,
+      "label": "མཇུག་བྱང།",
+      "block_id": "^a-0",
+      "context": "ཕྱག་འཚལ་ཉེར་གཅིག་གི་རྒྱས་འགྲེལ་ནི་ཀློག་པ་པོ་ཉུང་ཞིང་དོན་རྟོགས་དཀའ་བ་ལ་རྟེན།",
+      "context_anchor": "ཕྱག་འཚལ་ཉེར་གཅིག་གི་རྒྱས་འགྲེལ་ནི་ཀློག་པ་པོ་ཉུང་ཞིང་དོན་རྟོག",
+      "doc_order": 68
+    },
+    {
+      "decimal_id": "a.1",
+      "depth": 2,
+      "frame": true,
+      "label": "མཛད་བྱང།",
+      "block_id": "^a-1-0",
+      "context": "ཕྱག་འཚལ་ཉེར་གཅིག་གི་རྒྱས་འགྲེལ་ནི་ཀློག་པ་པོ་ཉུང་ཞིང་དོན་རྟོགས་དཀའ་བ་ལ་རྟེན།",
+      "context_anchor": "ཕྱག་འཚལ་ཉེར་གཅིག་གི་རྒྱས་འགྲེལ་ནི་ཀློག་པ་པོ་ཉུང་ཞིང་དོན་རྟོག",
+      "doc_order": 69
+    }
+  ]
+}

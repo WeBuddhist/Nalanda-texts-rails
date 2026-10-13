@@ -9,7 +9,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text:
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 61) ཐོགས་མེད་ཀྱི་གསུང་འབུམ། ཐ༽ .docx (09-Asanga); https://wb.pub/3CDy"
 bdrc_work_id:

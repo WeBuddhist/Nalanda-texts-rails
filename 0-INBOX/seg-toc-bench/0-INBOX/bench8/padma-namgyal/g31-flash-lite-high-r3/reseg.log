@@ -1,0 +1,22 @@
+Input:      D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\padma-namgyal\g31-flash-lite-high-r3\2-after-ingest.md
+ID:         padma-namgyal-g31-flash-lite-high-r3
+Vault root: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench
+Staging:    D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\temp\RESEG-padma-namgyal-g31-flash-lite-high-r3\windows
+Output:     D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\padma-namgyal-g31-flash-lite-high-r3.reseg.md
+
+Blocks: 70  (headings: 7, content: 63)
+Windows: 2  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 4
+  MERGE [21, 22]
+  MERGE [27, 28]
+  SPLIT block 60 after: 'བཤད་པ་ཡིན་ལ།'
+  MERGE [64, 65]
+
+Blocks: 70 → 68
+✓ Integrity check passed
+
+Output:  D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\padma-namgyal-g31-flash-lite-high-r3.reseg.md
+Ops log: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\padma-namgyal-g31-flash-lite-high-r3.ops.md

@@ -1,0 +1,12 @@
+{
+ "prompt": "D:\\Work\\OpenPecha\\Nalanda-texts-rails\\0-INBOX\\seg-toc-bench\\0-INBOX\\temp\\RESEG-padma-namgyal-g31-flash-lite-high-r3\\qc-calls\\call-000.prompt.md",
+ "model": "gemini-3.1-flash-lite",
+ "thinking_level": "high",
+ "max_output_tokens": 32768,
+ "finish_reason": "FinishReason.STOP",
+ "seconds": 15.6,
+ "input_tokens": 7648,
+ "output_tokens": 186,
+ "thinking_tokens": 4188,
+ "attempt": 1
+}

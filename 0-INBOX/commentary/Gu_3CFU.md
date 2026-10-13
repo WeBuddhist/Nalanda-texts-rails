@@ -9,7 +9,6 @@ file_type: "commentary"
 lang_tag: "bo"
 verse_id_format:
 registered_id:
-root_text: "1-SOURCES/Text/Gu_3CFS.md"
 covers_verses:
 source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 92) ཡོན་ཏན་འོད་ཀྱི་གསུང་འབུམ། ག༽ མངོན། ༡ .docx (15-Gunaprabha); https://wb.pub/3CFU"
 bdrc_work_id:

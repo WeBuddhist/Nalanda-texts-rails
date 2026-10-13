@@ -51,7 +51,7 @@ def clip_syl(text, n, from_end=False):
     return ("…" + text[pos[-n]:]).strip() if from_end else (text[:pos[n]] + "…").strip()
 
 
-cat = json.loads((VAULT / "1-SOURCES/Text/text_catalog.json").read_text(encoding="utf-8"))
+cat = json.loads((VAULT / "1-SOURCES/text_catalog.json").read_text(encoding="utf-8"))
 works = [w for p in cat["panditas"] for w in p["works"]]     # catalog order: by pandita, volume
 folder = {}
 for sub in ("root", "commentary", "translation"):

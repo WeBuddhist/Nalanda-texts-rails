@@ -1,0 +1,21 @@
+Input:      D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\sangye-nyenpa\g31-flash-lite-high-r1\2-after-ingest.md
+ID:         sangye-nyenpa-g31-flash-lite-high-r1
+Vault root: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench
+Staging:    D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\temp\RESEG-sangye-nyenpa-g31-flash-lite-high-r1\windows
+Output:     D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\sangye-nyenpa-g31-flash-lite-high-r1.reseg.md
+
+Blocks: 143  (headings: 68, content: 75)
+Windows: 4  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 3
+  MERGE [76, 77, 78]
+  MERGE [96, 97]
+  MERGE [103, 104]
+
+Blocks: 143 → 139
+✓ Integrity check passed
+
+Output:  D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\sangye-nyenpa-g31-flash-lite-high-r1.reseg.md
+Ops log: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\sangye-nyenpa-g31-flash-lite-high-r1.ops.md

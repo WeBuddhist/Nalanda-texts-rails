@@ -1,0 +1,22 @@
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            70
+  Inserted:               65
+  Already present:        0
+  Blocks split at a node: 3 ['II', '1.16.2', '1.20.2']
+  Not found:              5
+
+NOT FOUND — insert manually then re-run to confirm:
+  [1.6] ཕྱག་འཚལ་ལྔ་པ།
+       context not found: 'ཕྱག་འཚལ་ཏུཏྟཱ་ར་ཧཱུཾ་ཡི་གེས\\nའདོད་དང་ཕྱོ'
+  [1.14] ཕྱག་འཚལ་བཅོ་གསུམ་པ།
+       context not found: 'ཕྱག་འཚལ་བསྐལ་པ་ཐ་མའི་མེ་ལྟར\\nའབར་བའི་ཕྲེ'
+  [1.16] ཕྱག་འཚལ་བཅོ་ལྔ་པ།
+       context not found: 'ཕྱག་འཚལ་བདེ་མ་དགེ་མ་ཞི་མ\\nམྱ་ངན་འདས་ཞི་ས'
+  [1.21] ཕྱག་འཚལ་ཉི་ཤུ་པ།
+       context not found: 'ཕྱག་འཚལ་ཉི་མ་ཟླ་བ་རྒྱས་པའི\\nསྤྱན་གཉིས་པོ'
+  [2] གཞུང་གི་དོན་བསྡུ་བ།
+       context not found: 'གཞུང་གི་དོན་བསྡུ་བ\\n\\nརྩ་བའི་སྔགས་ཀྱི་བས'
+  Integrity: text unchanged ✓
+
+Commentary updated: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\sangye-nyenpa\g38-flash-low-r1\2-after-ingest.md

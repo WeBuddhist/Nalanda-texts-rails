@@ -1,0 +1,71 @@
+Input:      D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\taranatha\g31-flash-lite-high-r1\2-after-ingest.md
+ID:         taranatha-g31-flash-lite-high-r1
+Vault root: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench
+Staging:    D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\temp\RESEG-taranatha-g31-flash-lite-high-r1\windows
+Output:     D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\taranatha-g31-flash-lite-high-r1.reseg.md
+
+Blocks: 206  (headings: 26, content: 180)
+Windows: 6  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 42
+  MERGE [6, 7, 8, 9]
+  MERGE [12, 13, 14, 15, 16, 17, 18]
+  MERGE [26, 27, 28]
+  MERGE [31, 32]
+  MERGE [35, 36, 37, 38]
+  MERGE [41, 42, 43, 44]
+  MERGE [45, 46, 47, 48]
+  MERGE [51, 52, 53, 54]
+  MERGE [55, 56, 57]
+  MERGE [60, 61, 62, 63]
+  MERGE [65, 66]
+  SPLIT block 71 after: 'རྗེས་དྲན་གྱི་ཡན་ལག་གོ །'
+  MERGE [72, 73]
+  MERGE [74, 75]
+  MERGE [77, 78, 79]
+  MERGE [80, 81]
+  MERGE [86, 87, 88, 89, 90, 91]
+  MERGE [92, 93]
+  MERGE [95, 96]
+  MERGE [97, 98]
+  MERGE [100, 101]
+  MERGE [102, 103, 104, 105, 106]
+  MERGE [108, 109, 110, 111, 112, 113]
+  MERGE [117, 118, 119]
+  MERGE [120, 121]
+  MERGE [123, 124, 125]
+  MERGE [126, 127, 128, 129]
+  MERGE [131, 132, 133, 134, 135]
+  MERGE [140, 141]
+  MERGE [142, 143]
+  MERGE [149, 150]
+  MERGE [151, 152, 153]
+  MERGE [154, 155]
+  MERGE [158, 159]
+  MERGE [161, 162, 163]
+  MERGE [165, 166, 167]
+  MERGE [168, 169, 170, 171]
+  MERGE [182, 183]
+  MERGE [185, 186]
+  MERGE [193, 194, 195]
+  MERGE [197, 198]
+  MERGE [200, 201]
+
+Overlap disagreements (7) — boundary kept:
+  - Blocks 71 | 72: windows [1, 2], joined by [2]
+  - Blocks 141 | 142: windows [3, 4], joined by [3]
+  - Blocks 143 | 144: windows [3, 4], joined by [3]
+  - Blocks 144 | 145: windows [3, 4], joined by [3]
+  - Blocks 176 | 177: windows [4, 5], joined by [4]
+  - Blocks 177 | 178: windows [4, 5], joined by [4]
+  - Blocks 179 | 180: windows [4, 5], joined by [4]
+
+Blocks: 206 → 122
+✓ Integrity check passed
+
+Output:  D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\taranatha-g31-flash-lite-high-r1.reseg.md
+Ops log: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\taranatha-g31-flash-lite-high-r1.ops.md
+
+7 overlap disagreement(s) resolved by keeping the boundary — see ops log.

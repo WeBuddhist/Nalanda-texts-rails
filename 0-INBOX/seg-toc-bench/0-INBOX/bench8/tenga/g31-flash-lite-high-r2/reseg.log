@@ -1,0 +1,31 @@
+Input:      D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\bench8\tenga\g31-flash-lite-high-r2\2-after-ingest.md
+ID:         tenga-g31-flash-lite-high-r2
+Vault root: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench
+Staging:    D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\temp\RESEG-tenga-g31-flash-lite-high-r2\windows
+Output:     D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\tenga-g31-flash-lite-high-r2.reseg.md
+
+Blocks: 144  (headings: 37, content: 107)
+Windows: 4  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 8
+  MERGE [3, 4]
+  MERGE [6, 7, 8, 9]
+  MERGE [15, 16]
+  MERGE [30, 31, 32, 33]
+  MERGE [35, 36]
+  MERGE [44, 45]
+  SPLIT block 115 after: 'བསྟོད་པ་དང༌།'
+  MERGE [117, 118]
+
+Overlap disagreements (1) — boundary kept:
+  - Blocks 36 | 37: windows [0, 1], joined by [0]
+
+Blocks: 144 → 134
+✓ Integrity check passed
+
+Output:  D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\tenga-g31-flash-lite-high-r2.reseg.md
+Ops log: D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\seg-toc-bench\0-INBOX\resegmented\tenga-g31-flash-lite-high-r2.ops.md
+
+1 overlap disagreement(s) resolved by keeping the boundary — see ops log.
