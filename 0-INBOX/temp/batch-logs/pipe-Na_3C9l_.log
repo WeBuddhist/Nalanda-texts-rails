@@ -1,0 +1,144 @@
+[Na_3C9l_] using closing-line tree closing-tree-Na_3C9l_.md
+[Na_3C9l_] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9l_\toc-tree-Na_3C9l_.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9l_\toc-tree-Na_3C9l_.json
+Parsed 268 nodes (64 frame), max depth 6.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9l_\toc-tree-Na_3C9l_.json
+  depth  1: 11 nodes
+  depth  2: 83 nodes
+  depth  3: 126 nodes
+  depth  4: 38 nodes
+  depth  5: 8 nodes
+  depth  6: 2 nodes
+
+WARNING — sibling headings with the same title (check the tree's numbering):
+  [7.11.6] དམ་ཚིག་རྗེས་སུ་དྲན་པ
+  [7.11.13] དམ་ཚིག་རྗེས་སུ་དྲན་པ
+[Na_3C9l_] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9l_\toc-tree-Na_3C9l_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9l_\Na_3C9l_.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            268
+  Inserted:               268
+  Already present:        0
+  Blocks split at a node: 8 ['2.1.3', '4.3.2', '5.2', '7.4', '8.2.2', '9.1.2', '9.3', '9.4.2']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9l_\Na_3C9l_.toc.md
+[Na_3C9l_] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3C9l_.toc.md
+[Na_3C9l_] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Na_3C9l_ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Na_3C9l_.toc.md...
+Blocks: 3837 (headings: 269, content: 3568)
+Windows: 110
+Windows to process: 110 / 110
+Running 110 windows with 8 worker threads...
+  [38.7s] Window 1/110 done: 2 op(s)
+  [41.4s] Window 6/110 done: 2 op(s)
+  [59.8s] Window 3/110 done: 6 op(s)
+  [74.9s] Window 2/110 done: 4 op(s)
+  [77.4s] Window 5/110 done: 3 op(s)
+  [79.8s] Window 4/110 done: 5 op(s)
+  [56.8s] Window 9/110 done: 3 op(s)
+  [22.9s] Window 14/110 done: 4 op(s)
+  [13.5s] Window 15/110 done: 1 op(s)
+  [116.5s] Window 8/110 done: 3 op(s)
+  [75.6s] Window 10/110 done: 6 op(s)
+  [65.9s] Window 13/110 done: 3 op(s)
+  [152.3s] Window 7/110 done: 3 op(s)
+  [38.3s] Window 19/110 done: 4 op(s)
+  [60.0s] Window 16/110 done: 7 op(s)
+  [108.5s] Window 11/110 done: 6 op(s)
+  [42.7s] Window 20/110 done: 5 op(s)
+  [97.6s] Window 17/110 done: 5 op(s)
+  [62.5s] Window 22/110 done: 7 op(s)
+  [161.9s] Window 12/110 done: 8 op(s)
+  [79.4s] Window 23/110 done: 4 op(s)
+  [181.4s] Window 18/110 done: 7 op(s)
+  [96.3s] Window 26/110 done: 5 op(s)
+  [152.1s] Window 21/110 done: 4 op(s)
+  [73.7s] Window 28/110 done: 9 op(s)
+  [131.3s] Window 25/110 done: 5 op(s)
+  [100.7s] Window 29/110 done: 7 op(s)
+  [133.8s] Window 27/110 done: 6 op(s)
+  [41.9s] Window 34/110 done: 13 op(s)
+  [75.6s] Window 31/110 done: 7 op(s)
+  [96.8s] Window 32/110 done: 7 op(s)
+  [105.7s] Window 30/110 done: 7 op(s)
+  [138.4s] Window 33/110 done: 11 op(s)
+  [131.5s] Window 36/110 done: 7 op(s)
+  [143.0s] Window 35/110 done: 9 op(s)
+  [329.7s] Window 24/110 done: 5 op(s)
+  [107.6s] Window 40/110 done: 9 op(s)
+  [139.4s] Window 38/110 done: 10 op(s)
+  [173.9s] Window 37/110 done: 6 op(s)
+  [66.1s] Window 43/110 done: 5 op(s)
+  [156.6s] Window 39/110 done: 7 op(s)
+  [47.1s] Window 45/110 done: 6 op(s)
+  [86.9s] Window 42/110 done: 3 op(s)
+  [77.6s] Window 44/110 done: 7 op(s)
+  [63.5s] Window 46/110 done: 8 op(s)
+  [36.0s] Window 48/110 done: 8 op(s)
+  [164.7s] Window 41/110 done: 6 op(s)
+  [49.6s] Window 52/110 done: 7 op(s)
+  [47.1s] Window 54/110 done: 4 op(s)
+  [107.5s] Window 47/110 done: 4 op(s)
+  [45.9s] Window 56/110 done: 5 op(s)
+  [129.0s] Window 49/110 done: 10 op(s)
+  [57.4s] Window 57/110 done: 6 op(s)
+  [86.2s] Window 55/110 done: 8 op(s)
+  [154.7s] Window 50/110 done: 6 op(s)
+  [95.2s] Window 58/110 done: 14 op(s)
+  [173.8s] Window 51/110 done: 6 op(s)
+  [169.5s] Window 53/110 done: 5 op(s)
+  [76.9s] Window 60/110 done: 5 op(s)
+  [130.6s] Window 59/110 done: 4 op(s)
+  [60.9s] Window 66/110 done: 4 op(s)
+  [125.3s] Window 61/110 done: 5 op(s)
+  [83.0s] Window 64/110 done: 6 op(s)
+  [73.4s] Window 67/110 done: 4 op(s)
+  [32.2s] Window 69/110 done: 8 op(s)
+  [49.4s] Window 68/110 done: 6 op(s)
+  [111.3s] Window 65/110 done: 6 op(s)
+  [75.9s] Window 70/110 done: 8 op(s)
+  [77.8s] Window 73/110 done: 8 op(s)
+  [96.4s] Window 72/110 done: 7 op(s)
+  [227.5s] Window 63/110 done: 6 op(s)
+  [115.0s] Window 74/110 done: 9 op(s)
+  [75.5s] Window 76/110 done: 5 op(s)
+  [59.0s] Window 77/110 done: 8 op(s)
+  [286.0s] Window 62/110 done: 9 op(s)
+  [65.2s] Window 79/110 done: 4 op(s)
+  [156.1s] Window 75/110 done: 6 op(s)
+  [36.8s] Window 83/110 done: 8 op(s)
+  [60.1s] Window 82/110 done: 7 op(s)
+  [102.5s] Window 81/110 done: 7 op(s)
+  [64.5s] Window 86/110 done: 5 op(s)
+  [156.2s] Window 78/110 done: 9 op(s)
+  [83.4s] Window 85/110 done: 6 op(s)
+  [277.0s] Window 71/110 done: 8 op(s)
+  [93.7s] Window 84/110 done: 6 op(s)
+  [155.4s] Window 80/110 done: 6 op(s)
+  [80.5s] Window 87/110 done: 7 op(s)
+  [31.6s] Window 91/110 done: 6 op(s)
+  [38.5s] Window 96/110 done: 5 op(s)
+  [104.1s] Window 88/110 done: 5 op(s)
+  [96.7s] Window 89/110 done: 5 op(s)
+  [68.7s] Window 95/110 done: 5 op(s)
+  [104.3s] Window 94/110 done: 9 op(s)
+  [36.3s] Window 100/110 done: 5 op(s)
+  [133.5s] Window 93/110 done: 11 op(s)
+  [153.7s] Window 90/110 done: 10 op(s)
+  [70.8s] Window 98/110 done: 5 op(s)
+  [37.6s] Window 102/110 done: 6 op(s)
+  [41.5s] Window 101/110 done: 6 op(s)
+  [172.8s] Window 92/110 done: 8 op(s)
+  [105.7s] Window 97/110 done: 9 op(s)
+  [106.1s] Window 99/110 done: 6 op(s)
+  [86.4s] Window 104/110 done: 5 op(s)
+  [86.0s] Window 109/110 done: 6 op(s)
+  [111.4s] Window 105/110 done: 8 op(s)
+  [94.9s] Window 106/110 done: 5 op(s)
+  [128.1s] Window 103/110 done: 6 op(s)
+  [88.8s] Window 110/110 done: 2 op(s)
+  [127.6s] Window 107/110 done: 6 op(s)

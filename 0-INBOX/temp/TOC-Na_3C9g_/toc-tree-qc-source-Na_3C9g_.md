@@ -1,0 +1,101 @@
+# TOC tree vs. source QC report
+
+issues: 91
+
+## Issues
+
+- 4 དོན་དམ་པའི་བྱང་ཆུབ་ཀྱི་སེམས་ཆེར་གཞག་པ།: title attested in the source but not near pointer [[366]] (found near line 64) — possible cursor loss
+- 5 དངོས་པོ་ཐམས་ཅད་དང་བྲལ་བ་འགྲེལ་བ།: title attested in the source but not near pointer [[422]] (found near line 64) — possible cursor loss
+- 5.2 ཚིགས་བཅད་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 5.5 ཚིགས་བཅད་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 5.6 ཚིགས་བཅད་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 6.3 ཚིགས་བཅད་བཅུ་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 6.5 ཚིགས་བཅད་བཅོ་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 6.7 ཚིགས་བཅད་བཅུ་བདུན་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 6.8 ཚིགས་བཅད་བཅོ་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 6.9 ཚིགས་བཅད་བཅུ་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 6.10 ཚིགས་བཅད་ཉི་ཤུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 6.11 ཚིགས་བཅད་ཉེར་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 6.12 ཚིགས་བཅད་ཉེར་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 6.13 ཚིགས་བཅད་ཉེར་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 6.14 ཚིགས་བཅད་ཉེར་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.1 ཚིགས་བཅད་ཉེར་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 7.2 ཚིགས་བཅད་ཉེར་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.3 ཚིགས་བཅད་ཉེར་བདུན་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.4 ཚིགས་བཅད་ཉེར་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 7.5 ཚིགས་བཅད་ཉེར་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 7.7 ཚིགས་བཅད་སོ་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.8 ཚིགས་བཅད་སོ་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.9 ཚིགས་བཅད་སོ་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.10 ཚིགས་བཅད་སོ་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.11 ཚིགས་བཅད་སོ་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 7.12 ཚིགས་བཅད་སོ་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.13 ཚིགས་བཅད་སོ་བདུན་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.14 ཚིགས་བཅད་སོ་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 7.15 ཚིགས་བཅད་སོ་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 7.16 ཚིགས་བཅད་བཞི་བཅུ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.17 ཚིགས་བཅད་ཞེ་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.18 ཚིགས་བཅད་ཞེ་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.19 ཚིགས་བཅད་ཞེ་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 7.20 ཚིགས་བཅད་ཞེ་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8 རང་གི་སེམས་མ་སྐྱེས་པ་ལ་སོགས་པའི་འགྲེལ་པ།: title attested in the source but not near pointer [[928]] (found near line 64) — possible cursor loss
+- 8.1 ཚིགས་བཅད་ཞེ་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 8.2 ཚིགས་བཅད་ཞེ་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.3 ཚིགས་བཅད་ཞེ་བདུན་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.4 ཚིགས་བཅད་ཞེ་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 8.5 ཚིགས་བཅད་ཞེ་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 8.6 ཚིགས་བཅད་ལྔ་བཅུ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.11 ཚིགས་བཅད་ང་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 8.13 ཚིགས་བཅད་ང་བདུན་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.14 ཚིགས་བཅད་ང་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 8.15 ཚིགས་བཅད་ང་དགུ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.17 ཚིགས་བཅད་རེ་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.18 ཚིགས་བཅད་རེ་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.19 ཚིགས་བཅད་རེ་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.20 ཚིགས་བཅད་རེ་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.21 ཚིགས་བཅད་རེ་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 8.22 ཚིགས་བཅད་རེ་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.23 ཚིགས་བཅད་རེ་བདུན་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 8.24 ཚིགས་བཅད་རེ་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 8.25 ཚིགས་བཅད་རེ་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 8.26 ཚིགས་བཅད་བདུན་ཅུ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 9 ཀུན་རྫོབ་བྱང་ཆུབ་ཀྱི་སེམས་ཆེར་གཞག་པ།: title attested in the source but not near pointer [[1209]] (found near line 64) — possible cursor loss
+- 9.1 ཚིགས་བཅད་དོན་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 9.4 ཚིགས་བཅད་དོན་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 9.5 ཚིགས་བཅད་དོན་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 9.7 ཚིགས་བཅད་དོན་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 9.8 ཚིགས་བཅད་དོན་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 9.9 ཚིགས་བཅད་བརྒྱད་ཅུ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 9.10 ཚིགས་བཅད་གྱ་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 9.11 ཚིགས་བཅད་གྱ་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 9.12 ཚིགས་བཅད་གྱ་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 9.13 ཚིགས་བཅད་གྱ་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.1.1 ཚིགས་བཅད་གྱ་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 10.1.2 ཚིགས་བཅད་གྱ་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.1.3 ཚིགས་བཅད་གྱ་བདུན་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.2.1 ཚིགས་བཅད་གྱ་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 10.2.2 ཚིགས་བཅད་གྱ་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 10.2.4 ཚིགས་བཅད་གོ་གཅིག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.3 དབུགས་དབྱུང་བའི་འགྲེལ་པ།: title attested in the source but not near pointer [[1404]] (found near line 86) — possible cursor loss
+- 10.3.1 ཚིགས་བཅད་གོ་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.3.2 ཚིགས་བཅད་གོ་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.3.3 ཚིགས་བཅད་གོ་བཞི་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.3.4 ཚིགས་བཅད་གོ་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.3.5 ཚིགས་བཅད་གོ་དྲུག་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.3.6 ཚིགས་བཅད་གོ་བདུན་པ།: title not attested anywhere in the source (bigram coverage 40%) — possible hallucination
+- 10.4.1 ཚིགས་བཅད་གོ་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 10.4.2 ཚིགས་བཅད་གོ་དགུ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 10.4.3 ཚིགས་བཅད་བརྒྱ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 11 བྱང་ཆུབ་ཀྱི་སེམས་གཉིས་ཀྱི་ཡོན་ཏན།: title attested in the source but not near pointer [[1525]] (found near line 90) — possible cursor loss
+- 11.1 ཚིགས་བཅད་བརྒྱ་དང་གཉིས་པ།: title not attested anywhere in the source (bigram coverage 33%) — possible hallucination
+- 11.2 ཚིགས་བཅད་བརྒྱ་དང་གསུམ་པ།: title not attested anywhere in the source (bigram coverage 33%) — possible hallucination
+- 11.4 ཚིགས་བཅད་བརྒྱ་དང་ལྔ་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 11.6 ཚིགས་བཅད་བརྒྱ་དང་བདུན་པ།: title not attested anywhere in the source (bigram coverage 33%) — possible hallucination
+- 11.7 ཚིགས་བཅད་བརྒྱ་དང་བརྒྱད་པ།: title not attested anywhere in the source (bigram coverage 0%) — possible hallucination
+- 11.8 ཚིགས་བཅད་བརྒྱ་དང་དགུ་པ།: title not attested anywhere in the source (bigram coverage 33%) — possible hallucination
+- 12 དགེ་བ་བསྔོ་བ།: title attested in the source but not near pointer [[1583]] (found near line 64) — possible cursor loss
+- pointer [[1317]] is shared by 3 nodes (10, 10.1, 10.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+
+## Notes (not counted as issues)
+
+- (none)

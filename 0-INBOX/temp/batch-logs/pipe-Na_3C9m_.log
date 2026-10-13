@@ -1,0 +1,133 @@
+[Na_3C9m_] using closing-line tree closing-tree-Na_3C9m_.md
+[Na_3C9m_] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9m_\toc-tree-Na_3C9m_.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9m_\toc-tree-Na_3C9m_.json
+Parsed 275 nodes (3 frame), max depth 5.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9m_\toc-tree-Na_3C9m_.json
+  depth  1: 9 nodes
+  depth  2: 177 nodes
+  depth  3: 66 nodes
+  depth  4: 12 nodes
+  depth  5: 11 nodes
+
+WARNING — sibling headings with the same title (check the tree's numbering):
+  [1.6] འབྲས་བུ
+  [1.11] འབྲས་བུ
+  [2.4] ཉེ་བར་བསྡུ་བ
+  [2.12] ཉེ་བར་བསྡུ་བ
+[Na_3C9m_] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9m_\toc-tree-Na_3C9m_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9m_\Na_3C9m_.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            275
+  Inserted:               275
+  Already present:        0
+  Blocks split at a node: 14 ['2.2', '3.20.2', '4.1.2', '5.7', '5.15', '6.8', '7.1.1.5', '7.1.1.5.8', '7.1.1.5.9', '7.4.4', '7.4.6', '8.2', '8.24', '8.38']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9m_\Na_3C9m_.toc.md
+[Na_3C9m_] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3C9m_.toc.md
+[Na_3C9m_] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Na_3C9m_ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Na_3C9m_.toc.md...
+Blocks: 3531 (headings: 276, content: 3255)
+Windows: 101
+Windows to process: 101 / 101
+Running 101 windows with 8 worker threads...
+  [65.6s] Window 5/101 done: 7 op(s)
+  [90.0s] Window 1/101 done: 6 op(s)
+  [97.5s] Window 3/101 done: 6 op(s)
+  [100.9s] Window 2/101 done: 12 op(s)
+  [113.3s] Window 6/101 done: 7 op(s)
+  [122.2s] Window 8/101 done: 11 op(s)
+  [138.5s] Window 7/101 done: 8 op(s)
+  [94.4s] Window 9/101 done: 7 op(s)
+  [75.4s] Window 10/101 done: 9 op(s)
+  [76.3s] Window 13/101 done: 5 op(s)
+  [94.6s] Window 11/101 done: 9 op(s)
+  [197.9s] Window 4/101 done: 5 op(s)
+  [51.5s] Window 16/101 done: 6 op(s)
+  [121.4s] Window 12/101 done: 6 op(s)
+  [110.6s] Window 14/101 done: 6 op(s)
+  [51.8s] Window 19/101 done: 8 op(s)
+  [115.6s] Window 15/101 done: 5 op(s)
+  [65.2s] Window 18/101 done: 6 op(s)
+  [105.2s] Window 17/101 done: 13 op(s)
+  [85.4s] Window 21/101 done: 2 op(s)
+  [89.3s] Window 22/101 done: 6 op(s)
+  [68.9s] Window 25/101 done: 5 op(s)
+  [119.2s] Window 23/101 done: 9 op(s)
+  [113.5s] Window 26/101 done: 11 op(s)
+  [56.8s] Window 29/101 done: 6 op(s)
+  [189.1s] Window 20/101 done: 7 op(s)
+  [152.3s] Window 24/101 done: 8 op(s)
+  [104.7s] Window 28/101 done: 6 op(s)
+  [52.0s] Window 33/101 done: 8 op(s)
+  [149.9s] Window 27/101 done: 5 op(s)
+  [44.9s] Window 34/101 done: 7 op(s)
+  [68.3s] Window 32/101 done: 6 op(s)
+  [35.7s] Window 40/101 done: 14 op(s)
+  [43.6s] Window 39/101 done: 10 op(s)
+  [137.6s] Window 31/101 done: 4 op(s)
+  [167.4s] Window 30/101 done: 8 op(s)
+  [101.3s] Window 35/101 done: 8 op(s)
+  [118.2s] Window 36/101 done: 9 op(s)
+  [47.7s] Window 42/101 done: 8 op(s)
+  [56.2s] Window 44/101 done: 9 op(s)
+  [137.0s] Window 37/101 done: 10 op(s)
+  [98.6s] Window 43/101 done: 7 op(s)
+  [122.1s] Window 41/101 done: 7 op(s)
+  [58.3s] Window 48/101 done: 7 op(s)
+  [110.1s] Window 45/101 done: 5 op(s)
+  [92.0s] Window 47/101 done: 7 op(s)
+  [51.4s] Window 50/101 done: 6 op(s)
+  [85.6s] Window 49/101 done: 10 op(s)
+  [250.4s] Window 38/101 done: 7 op(s)
+  [160.1s] Window 46/101 done: 9 op(s)
+  [68.6s] Window 54/101 done: 7 op(s)
+  [59.6s] Window 56/101 done: 5 op(s)
+  [110.1s] Window 51/101 done: 6 op(s)
+  [133.7s] Window 53/101 done: 6 op(s)
+  [109.6s] Window 57/101 done: 11 op(s)
+  [109.4s] Window 58/101 done: 10 op(s)
+  [91.5s] Window 61/101 done: 11 op(s)
+  [55.6s] Window 62/101 done: 9 op(s)
+  [170.6s] Window 55/101 done: 11 op(s)
+  [120.1s] Window 60/101 done: 9 op(s)
+  [162.5s] Window 59/101 done: 7 op(s)
+  [44.6s] Window 67/101 done: 2 op(s)
+  [29.4s] Window 69/101 done: 1 op(s)
+  [67.4s] Window 68/101 done: 1 op(s)
+  [113.2s] Window 66/101 done: 6 op(s)
+  [46.2s] Window 71/101 done: 3 op(s)
+  [73.6s] Window 70/101 done: 2 op(s)
+  [329.6s] Window 52/101 done: 6 op(s)
+  [139.0s] Window 65/101 done: 1 op(s)
+  [147.0s] Window 64/101 done: 5 op(s)
+  [46.9s] Window 78/101 done: 10 op(s)
+  [124.5s] Window 72/101 done: 6 op(s)
+  [95.3s] Window 76/101 done: 12 op(s)
+  [125.9s] Window 74/101 done: 8 op(s)
+  [116.8s] Window 77/101 done: 10 op(s)
+  [152.5s] Window 73/101 done: 10 op(s)
+  [149.6s] Window 75/101 done: 10 op(s)
+  [61.3s] Window 81/101 done: 7 op(s)
+  [123.1s] Window 79/101 done: 4 op(s)
+  [37.2s] Window 85/101 done: 2 op(s)
+  [73.2s] Window 82/101 done: 11 op(s)
+  [29.7s] Window 86/101 done: 9 op(s)
+  [113.6s] Window 80/101 done: 5 op(s)
+  [370.6s] Window 63/101 done: 9 op(s)
+  [62.2s] Window 89/101 done: 6 op(s)
+  [122.0s] Window 84/101 done: 7 op(s)
+  [80.0s] Window 91/101 done: 8 op(s)
+  [170.6s] Window 83/101 done: 6 op(s)
+  [41.0s] Window 93/101 done: 6 op(s)
+  [111.5s] Window 88/101 done: 12 op(s)
+    ! window-98 attempt 1/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 8s...
+  [129.9s] Window 90/101 done: 9 op(s)
+  [103.5s] Window 92/101 done: 7 op(s)
+  [148.5s] Window 87/101 done: 6 op(s)
+  [110.0s] Window 94/101 done: 4 op(s)
+  [81.5s] Window 96/101 done: 8 op(s)
+  [52.6s] Window 100/101 done: 8 op(s)

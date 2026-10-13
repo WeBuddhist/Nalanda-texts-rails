@@ -1,0 +1,92 @@
+[Na_3C9g_] using closing-line tree closing-tree-Na_3C9g_.md
+[Na_3C9g_] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9g_\toc-tree-Na_3C9g_.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9g_\toc-tree-Na_3C9g_.json
+Parsed 143 nodes (18 frame), max depth 4.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9g_\toc-tree-Na_3C9g_.json
+  depth  1: 16 nodes
+  depth  2: 100 nodes
+  depth  3: 21 nodes
+  depth  4: 6 nodes
+[Na_3C9g_] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9g_\toc-tree-Na_3C9g_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9g_\Na_3C9g_.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            143
+  Inserted:               143
+  Already present:        0
+  Blocks split at a node: 12 ['II.3.4.2', '6.12', '7.12', '7.13', '8.3', '8.7', '8.17', '9.3', '9.4', '9.10', '10.2.4', '11.3']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9g_\Na_3C9g_.toc.md
+[Na_3C9g_] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3C9g_.toc.md
+[Na_3C9g_] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Na_3C9g_ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Na_3C9g_.toc.md...
+Blocks: 930 (headings: 144, content: 786)
+Windows: 27
+Windows to process: 27 / 27
+Running 27 windows with 8 worker threads...
+  [20.7s] Window 8/27 done: 5 op(s)
+  [49.8s] Window 6/27 done: 5 op(s)
+  [51.2s] Window 7/27 done: 7 op(s)
+  [59.1s] Window 5/27 done: 10 op(s)
+  [67.3s] Window 1/27 done: 4 op(s)
+  [77.6s] Window 4/27 done: 8 op(s)
+  [79.8s] Window 2/27 done: 6 op(s)
+  [60.1s] Window 9/27 done: 5 op(s)
+  [45.0s] Window 13/27 done: 9 op(s)
+  [91.3s] Window 11/27 done: 7 op(s)
+  [76.1s] Window 14/27 done: 7 op(s)
+  [155.6s] Window 3/27 done: 8 op(s)
+  [85.0s] Window 15/27 done: 6 op(s)
+  [88.9s] Window 16/27 done: 6 op(s)
+  [133.4s] Window 12/27 done: 6 op(s)
+  [84.5s] Window 18/27 done: 9 op(s)
+  [67.8s] Window 22/27 done: 6 op(s)
+  [97.9s] Window 20/27 done: 8 op(s)
+  [172.4s] Window 17/27 done: 8 op(s)
+  [140.9s] Window 19/27 done: 7 op(s)
+  [140.7s] Window 21/27 done: 6 op(s)
+  [118.6s] Window 23/27 done: 7 op(s)
+  [74.4s] Window 25/27 done: 6 op(s)
+  [57.4s] Window 27/27 done: 2 op(s)
+    ! window-10 attempt 1/8 error: [WinError 10054] An existing connection was forcibly closed by the remote host; retrying in 9s...
+  [180.9s] Window 26/27 done: 7 op(s)
+  [215.4s] Window 24/27 done: 7 op(s)
+  [496.6s] Window 10/27 done: 9 op(s)
+
+Combining operations...
+Operations to apply: 153
+Blocks: 930 -> 400
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9g_.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9g_.ops.md
+[Na_3C9g_] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9g_.reseg.md --commentary-id Na_3C9g_
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9g_.reseg.md
+ID:     Na_3C9g_
+
+Blocks: 400
+
+Step 1 — Deterministic checks...
+  17 flag(s) found.
+  Block 26 — OVER_LENGTH (275 syl)
+  Block 30 — CONNECTOR_ENDING
+  Block 33 — OBJECTION_REPLY_FUSED
+  Block 58 — CONNECTOR_ENDING
+  Block 89 — OVER_LENGTH (287 syl)
+  Block 91 — OVER_LENGTH (331 syl)
+  Block 99 — OBJECTION_REPLY_FUSED
+  Block 111 — OVER_LENGTH (296 syl)
+  Block 114 — SHORT_FRAGMENT (2 syl)
+  Block 126 — OBJECTION_REPLY_FUSED
+  Block 129 — OBJECTION_REPLY_FUSED
+  Block 136 — OBJECTION_REPLY_FUSED
+  Block 149 — OBJECTION_REPLY_FUSED
+  Block 164 — CONNECTOR_ENDING
+  Block 213 — OBJECTION_REPLY_FUSED
+  Block 258 — SHORT_FRAGMENT (2 syl)
+  Block 361 — OVER_LENGTH (276 syl)
+
+Step 2 — LLM repair...

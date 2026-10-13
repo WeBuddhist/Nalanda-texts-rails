@@ -1,0 +1,151 @@
+[Na_3C9L] using closing-line tree closing-tree-Na_3C9L.md
+[Na_3C9L] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9L\toc-tree-Na_3C9L.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9L\toc-tree-Na_3C9L.json
+Parsed 12 nodes (5 frame), max depth 2.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9L\toc-tree-Na_3C9L.json
+  depth  1: 4 nodes
+  depth  2: 8 nodes
+[Na_3C9L] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9L\toc-tree-Na_3C9L.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9L\Na_3C9L.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            12
+  Inserted:               12
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9L\Na_3C9L.toc.md
+[Na_3C9L] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3C9L.toc.md
+[Na_3C9L] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Na_3C9L 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Na_3C9L.toc.md...
+Blocks: 221 (headings: 13, content: 208)
+Windows: 7
+Windows to process: 7 / 7
+Running 7 windows with 8 worker threads...
+  [18.0s] Window 7/7 done: 1 op(s)
+  [23.4s] Window 2/7 done: 4 op(s)
+  [42.7s] Window 6/7 done: 3 op(s)
+  [54.7s] Window 4/7 done: 10 op(s)
+  [60.0s] Window 3/7 done: 5 op(s)
+  [72.5s] Window 5/7 done: 4 op(s)
+  [77.6s] Window 1/7 done: 2 op(s)
+
+Combining operations...
+Operations to apply: 24
+Blocks: 221 -> 130
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9L.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9L.ops.md
+[Na_3C9L] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9L.reseg.md --commentary-id Na_3C9L
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9L.reseg.md
+ID:     Na_3C9L
+
+Blocks: 130
+
+Step 1 — Deterministic checks...
+  1 flag(s) found.
+  Block 35 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9L.qc.md
+
+────────────────────────────────────────
+Flags before : 1
+[Na_3C9L] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9L\toc-tree-Na_3C9L.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9L.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Na_3C9L.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            12
+  Inserted:               0
+  Already present:        12
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9L.reseg.md
+  spacing: source ' ' → output '' at …ྱར་བའོ།།|ར
+  spacing: source ' ' → output '' at …ག་ལེའོ།།|ད
+✓ Na_3C9L.reseg.md: letters identical; 2 spacing difference(s) restored from the source — now identical (letters and spacing)
+[Na_3C9L] ALL STEPS COMPLETED SUCCESSFULLY!
+[Na_3C9L] DONE in 125s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3C9L.toc.md
+[Na_3C9f_] using closing-line tree closing-tree-Na_3C9f_.md
+[Na_3C9f_] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9f_\toc-tree-Na_3C9f_.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9f_\toc-tree-Na_3C9f_.json
+Parsed 20 nodes (4 frame), max depth 3.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9f_\toc-tree-Na_3C9f_.json
+  depth  1: 4 nodes
+  depth  2: 8 nodes
+  depth  3: 8 nodes
+[Na_3C9f_] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9f_\toc-tree-Na_3C9f_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9f_\Na_3C9f_.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            20
+  Inserted:               20
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3C9f_\Na_3C9f_.toc.md
+[Na_3C9f_] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3C9f_.toc.md
+[Na_3C9f_] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Na_3C9f_ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Na_3C9f_.toc.md...
+Blocks: 81 (headings: 21, content: 60)
+Windows: 3
+Windows to process: 3 / 3
+Running 3 windows with 8 worker threads...
+  [22.4s] Window 3/3 done: 2 op(s)
+  [43.2s] Window 2/3 done: 8 op(s)
+  [54.0s] Window 1/3 done: 5 op(s)
+
+Combining operations...
+Operations to apply: 13
+Blocks: 81 -> 48
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9f_.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9f_.ops.md
+[Na_3C9f_] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9f_.reseg.md --commentary-id Na_3C9f_
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9f_.reseg.md
+ID:     Na_3C9f_
+
+Blocks: 48
+
+Step 1 — Deterministic checks...
+  3 flag(s) found.
+  Block 9 — SHORT_FRAGMENT (3 syl)
+  Block 15 — SHORT_FRAGMENT (3 syl)
+  Block 27 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9f_.qc.md
+
+────────────────────────────────────────
+Flags before : 3
+[Na_3C9f_] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9f_\toc-tree-Na_3C9f_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9f_.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Na_3C9f_.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            20
+  Inserted:               0
+  Already present:        20
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9f_.reseg.md
+✓ Na_3C9f_.reseg.md: identical to Na_3C9f_.md (letters and spacing; only breaks, headings, IDs added)
+[Na_3C9f_] ALL STEPS COMPLETED SUCCESSFULLY!
+[Na_3C9f_] DONE in 102s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3C9f_.toc.md
+
+Finished. Failed: none
