@@ -90,7 +90,11 @@ P3  <pāda> །
    `…མཛད་པའི་<title>་རྫོགས་སོ།`) → `### མཛད་བྱང།`, translators (`…ལོ་ཙཱ་བ…`,
    `…བསྒྱུར་ཅིང / ཞིང / ནས / ཏེ`, `…གཏན་ལ་ཕབ`) → `### འགྱུར་བྱང།`. Closing verses in another
    metre stay in the body; verse after the translators' colophon (their dedication) stays
-   inside it.
+   inside it. The translators' colophon begins at the Indian scholar or the royal order even
+   when a paragraph break cuts that sentence (`རྒྱ་གར་གྱི་མཁན་པོ་…དང་།` ‖ `…ལོ་ཙཱ་བ་…བསྒྱུར་`;
+   `…བཀའ་ལུང་གིས`, `པཎྜི་ཏ་…དང་།`). After the work's own closing line (`…<title>་རྫོགས་སོ།`)
+   everything is colophon: an author's colophon without `…མཛད་པ་རྫོགས་སོ` (`<title>་ཞེས་བྱ་བ་…
+   འདི་ནི། …ཡིན་ནོ།`) is the མཛད་བྱང་ up to the translators' first clause.
 
 ---
 

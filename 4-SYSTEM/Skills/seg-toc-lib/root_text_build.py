@@ -401,6 +401,43 @@ def unique_anchors(all_lines, keep, text):
     return out, longer, spots
 
 
+MARKS_ONLY = re.compile(r"[༄-༔\s]+")
+FINAL_VERB = re.compile(r"(?:འོ|[སཏནརལདངགབམ]ོ|ཞེ་ན|ཤོག|ཅིག|གྱུར་ན|ནས)[་༌]?\s*[།༔]")
+
+
+def frame_like(block):
+    """A block before the first part that belongs in the front matter: a homage
+    ("…ལ་ཕྱག་འཚལ་ལོ།", ≤ 30 syllables) or a short title clause (≤ 20 syllables, no final
+    verb: "༄༅། །རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་རྣམ་གྲངས་བསྡུ་བ། སྤྱི་སྡོམ་ནི།")."""
+    b = re.sub(r"\[\^\d+\]|\s*\^\S+\s*$", "", block)
+    n = syl(b)
+    if re.search(r"འཚལ་ལོ", b):
+        return n <= 30
+    return n <= 20 and not FINAL_VERB.search(b)
+
+
+def marks_into_part(path):
+    """The ingest cuts a block at a part's anchor, so opening marks ("༄༅༅། །") left in front
+    of a heading stand alone. The heading goes above them and the marks open the part's
+    first block again ("## … ^1-0" / "༄༅༅། །མནོས་ནས་སུ།"). Returns how many were joined."""
+    t = path.read_text(encoding="utf-8")
+    m = re.search(r"(?m)^\[\^\d+\]:", t)
+    main, notes = (t[:m.start()], t[m.start():]) if m else (t, "")
+    bl = re.split(r"\n[ \t]*\n", main.strip("\n"))
+    n, k = 0, 0
+    while k < len(bl) - 2:
+        if MARKS_ONLY.fullmatch(bl[k]) and bl[k + 1].lstrip().startswith("#") \
+                and not bl[k + 2].lstrip().startswith("#"):
+            bl[k:k + 3] = [bl[k + 1], bl[k].strip() + bl[k + 2]]
+            n += 1
+        k += 1
+    if n:
+        new = "\n\n".join(bl) + "\n" + ("\n" + notes if notes else "")
+        assert no_headings(new) == no_headings(t), "marks_into_part changed the text"
+        path.write_text(new, encoding="utf-8")
+    return n
+
+
 def relocate_headings(path, spots):
     """After the ingest: a numbered or II heading that did not land right before the block
     at its place (spots, from unique_anchors) is moved there. Only block starts count; a
@@ -544,6 +581,26 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
         k = next((j for j in range(max(0, len(spans) - 16), len(spans))
                   if is_author(run[spans[j][0]:spans[j][1]]) or is_translator(run[spans[j][0]:spans[j][1]])),
                  len(spans))
+    # the body closes with the work's own closing line ("…འདུལ་བའི་མདོ་རྫོགས་སོ།། །།"):
+    # everything after it is colophon, even an author's colophon without "…མཛད་པ་རྫོགས་སོ"
+    work_closed = False
+    t_core = core(re.sub(r"བཞུགས(?:་སོ)?", "", title_line or ""))
+    if len(t_core.split("་")) >= 2:
+        done = re.compile(re.escape(t_core) + r"[་]*(?:ཞེས་བྱ་བ[་]*)?རྫོགས")
+        j = next((j for j in range(len(spans) - 1, max(-1, len(spans) - 40), -1)
+                  if done.search(norm(run[spans[j][0]:spans[j][1]]))), None)
+        if j is not None and j + 1 < len(spans) and j + 1 < k and is_translator(run[spans[j + 1][0]:]) \
+                and not is_author(run[spans[j][0]:spans[j][1]]):
+            k, work_closed = j + 1, True
+    # the translators' colophon often begins in the clause before its wording, cut by a
+    # paragraph break in mid-sentence: "རྒྱ་གར་གྱི་མཁན་པོ་ཤྲདྡྷ་ཀ་ར་ཝརྨ་དང་།" ‖ "ལོ་ཙཱ་བ་…"
+    while 0 < k < len(spans) and k - 1 >= 0:
+        prev = run[spans[k - 1][0]:spans[k - 1][1]]
+        if re.search(r"དང[་༌]?\s*།\s*$", re.sub(FN, "", prev)) and not is_author(prev) \
+                and re.search(r"མཁན་པོ|པཎྜི་ཏ|བཀའ་ལུང་གིས|ལོ་ཙཱ", norm(prev)):
+            k -= 1
+        else:
+            break
     tail = run[spans[k][0]:].strip() if k < len(spans) else ""
     if tail and not (is_author(tail) or is_translator(tail)):
         k, tail = len(spans), ""                 # out-of-metre lines, but no colophon
@@ -552,6 +609,14 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
         # the author's colophon ends with the first clause that completes its wording
         ends = [m.end() for m in END.finditer(tail)] + [len(tail)]
         cut = next((e for e in ends if is_author(tail[:e])), None)
+        if cut is None and work_closed:
+            # no author wording: the translators' colophon starts at its first clause with
+            # translators' wording, the royal order ("…བཀའ་ལུང་གིས") or the Indian scholar
+            # ("རྒྱ་གར་གྱི་མཁན་པོ…", "པཎྜི་ཏ…"); what comes before it is the author's colophon
+            for s, e2 in zip([0] + ends[:-1], ends):
+                if is_translator(tail[s:e2]) or re.search(r"བཀའ་ལུང་གིས|མཁན་པོ|པཎྜི་ཏ", norm(tail[s:e2])):
+                    cut = s or None              # at the very start: no author's colophon
+                    break
         if cut is not None:
             colophons.append(("author", tail[:cut].strip()))
             rest = tail[cut:].strip()
@@ -569,6 +634,17 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
     else:
         padas, ends = verse_units(run, spans[:k], metre, cuts)
         types = ["P"] * len(padas)
+    # a unit of opening marks only ("༄༅༅། །") is not a sentence or a pāda: it opens the
+    # next one ("༄༅༅། །མནོས་ནས་སུ།"), unless a printed paragraph break comes between them
+    j = 0
+    while j < len(padas) - 1:
+        if re.fullmatch(r"[༄-༔\s]+", padas[j]) and ends[j] not in cuts:
+            gap = " " if run[ends[j] - 1].isspace() else ""
+            padas[j:j + 2] = [padas[j] + gap + padas[j + 1]]
+            types[j:j + 2] = [types[j + 1]]
+            del ends[j]
+        else:
+            j += 1
     # body units followed by a kept raw paragraph break: no block may run across one
     breaks = [i for i, e in enumerate(ends[:-1], 1) if e in cuts]
     body_end = ends[-1] if ends else pos
@@ -633,6 +709,8 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
         moved = relocate_headings(prepared, spots)
         if moved:
             report.append(f"{moved} heading(s) moved to their anchor's own place")
+        if marks_into_part(prepared):
+            report.append("opening marks joined to the first part")
         # the front-matter section holds only its frame blocks: the author's own opening
         # verses belong to the body, so the first body heading moves up to meet them
         if front:
@@ -656,9 +734,27 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
             next((j + 1 for j, x in enumerate(bl) if re.match(r"# ", x)), 0)   # after the title
         if padas and start < len(bl) and not (bl[start].startswith("#")
                                               and not any(s in bl[start] for s in FRAME_SECTIONS)):
-            bl.insert(start, f"## {body_title} ^1-0")
+            # text before the first part (editors' decision, 2026-10-13): a leading homage
+            # ("…ལ་ཕྱག་འཚལ་ལོ།") or title clause is front matter (## ཀླད་ཀྱི་དོན། ^I-0); the
+            # rest of it belongs to the first part, whose heading moves up to it. Only when
+            # no part heading follows at all does the body heading stand there.
+            nxt = next((j for j in range(start, len(bl)) if bl[j].startswith("#")), None)
+            if nxt is not None and not any(s in bl[nxt] for s in FRAME_SECTIONS):
+                lead = 0
+                while start + lead < nxt and frame_like(bl[start + lead]):
+                    lead += 1
+                if lead:
+                    if not front:
+                        bl.insert(start, f"## {front_title} ^I-0")
+                        start, nxt = start + 1, nxt + 1
+                    report.append(f"{lead} opening block(s) before the first part put in the front matter")
+                if start + lead < nxt:
+                    bl.insert(start + lead, bl.pop(nxt))
+                    report.append(f"first part heading moved up {nxt - start - lead} block(s) to the opening text")
+            else:
+                bl.insert(start, f"## {body_title} ^1-0")
+                report.append(f"body heading '{body_title}' added (no TOC part placed before the body)")
             prepared.write_text(f2 + "\n\n".join(bl) + "\n" + ("\n" + n2 if n2 else ""), encoding="utf-8")
-            report.append(f"body heading '{body_title}' added (no TOC part placed before the body)")
 
     # 4. grouping input — one version: free (verse) or prose
     translated = "རྒྱ་གར་སྐད་དུ" in run[:300]
@@ -687,7 +783,8 @@ def prepare(src, work, tree, front_title, body_title, form="auto"):
             new_types.append(types[u])
             if c == cum[u] and (u + 1) in breaks:
                 new_breaks.append(j)
-        report.append(f"{len(body) - len(types)} unit(s) split by a heading inside them")
+        if len(body) > len(types):              # fewer: an opening unit went to the front matter
+            report.append(f"{len(body) - len(types)} unit(s) split by a heading inside them")
         types, breaks = new_types, new_breaks
     lst, n, sec = [], 0, None
     for b in blocks:
@@ -811,6 +908,8 @@ def group_split(work, max_lines=750):
     part at least max_lines − 150 lines (a part with no units joins the one before)."""
     mode = json.loads((work / "state.json").read_text(encoding="utf-8"))["modes"][0]
     lines = (work / "group-in.md").read_text(encoding="utf-8").split("\n")
+    for old in work.glob("group-in-part*.md"):     # parts of an earlier, longer input
+        old.unlink()
     if len(lines) <= max_lines:
         print(f"{len(lines)} lines — no split needed: one subagent on group-in.md → groups-{mode}.json")
         return
