@@ -130,7 +130,7 @@ Results:
 | What | Where |
 |---|---|
 | Report, one row per text | `0-INBOX/ROOT-WORKFLOW-BATCH.md` (status: `0-INBOX/temp/root-toc/workflow-status.json`) |
-| **Finished files with block IDs** | `0-INBOX/processed/root-gemini/<id>-<free\|prose>.md` |
+| **Finished files with block IDs** | `0-INBOX/processed/root-gemini/<id>.md` |
 | Working folder | `0-INBOX/temp/root-final/<id>/` |
 | Log | `0-INBOX/temp/root-toc/logs/workflow-<id>.log` |
 

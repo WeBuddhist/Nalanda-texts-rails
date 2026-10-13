@@ -4,9 +4,9 @@ Running `root-text-toc-extract` on every root text in `0-INBOX/root/`, one text 
 **No ingest yet**: the headings are put into the texts later, together with the updated
 segmentation. This document says where everything is and how to continue.
 
-Updated 2026-10-13 · 440 texts · done 242 · no parts announced 179 · earlier run 19 · failed 0 · running 0 · **to do 0**
+Updated 2026-10-13 · 442 texts · done 244 · no parts announced 179 · earlier run 19 · failed 0 · running 0 · **to do 0**
 
-Size classes (characters of `0-INBOX/root/<id>.md`): small < 30,000 · medium 30,000–199,999 · large ≥ 200,000 — small 358 · medium 58 · large 24. How to run the rest with Gemini: `0-INBOX/temp/root-toc/README.md`.
+Size classes (characters of `0-INBOX/root/<id>.md`): small < 30,000 · medium 30,000–199,999 · large ≥ 200,000 — small 358 · medium 60 · large 24. How to run the rest with Gemini: `0-INBOX/temp/root-toc/README.md`.
 
 ## Where things are
 
@@ -224,7 +224,7 @@ words end up mid-line under the new rules is placed by hand.
 | 167 | At_3CHM | small | 4634 | 35 | done | verse | 281 | 3 | 4 | 6 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.2 min | `TOC-At_3CHM/toc-tree-anchored-At_3CHM.md` |
 | 168 | At_3CHm_ | small | 9226 | 59 | done | prose | 145 | 1 | 1 | 10 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.04 · 0.5 min | `TOC-At_3CHm_/toc-tree-anchored-At_3CHm_.md` |
 | 169 | At_3CHN | small | 3291 | 21 | no-parts | prose | 67 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
-| 170 | At_3CHn_ | small | 20461 | 150 | done | verse | 736 | 6 | 11 | 11 | 0 | 9 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.07 · 0.4 min | `TOC-At_3CHn_/toc-tree-anchored-At_3CHn_.md` |
+| 170 | At_3CHn_ | small | 20404 | 150 | done | verse | 736 | 6 | 11 | 11 | 0 | 9 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.07 · 0.4 min | `TOC-At_3CHn_/toc-tree-anchored-At_3CHn_.md` |
 | 171 | At_3CHO | small | 5051 | 31 | no-parts | prose | 71 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 172 | At_3CHo_ | small | 2053 | 12 | no-parts | verse | 134 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.00 · 0.0 min |  |
 | 173 | At_3CHP | small | 5662 | 43 | no-parts | prose | 103 | 1 | 0 | 0 |  |  |  | 3.8-flash low · $0.01 · 0.1 min |  |
@@ -495,3 +495,5 @@ words end up mid-line under the new rules is placed by hand.
 | 438 | Va_3CET | small | 4474 | 27 | earlier-run |  |  |  |  |  |  |  | anchored tree from an earlier run |  |  |
 | 439 | Va_3CEX | medium | 85088 | 451 | done | verse | 5227 | 42 | 8 | 8 | 0 | 0 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.31 · 1.2 min | `TOC-Va_3CEX/toc-tree-anchored-Va_3CEX.md` |
 | 440 | Va_3CEY | small | 4377 | 30 | done | verse | 250 | 2 | 1 | 4 | 0 | 2 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.03 · 0.5 min | `TOC-Va_3CEY/toc-tree-anchored-Va_3CEY.md` |
+| 441 | Ch_3CCd_ | medium | 61146 | 267 | done | verse | 2875 | 23 | 10 | 10 | 0 | 1 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.20 · 0.8 min | `TOC-Ch_3CCd_/toc-tree-anchored-Ch_3CCd_.md` |
+| 442 | Di_3CEp_ | medium | 33174 | 37 | done | verse | 2159 | 18 | 6 | 6 | 0 | 6 flags | Gemini run — review the top-level parts | 3.8-flash low · $0.12 · 0.6 min | `TOC-Di_3CEp_/toc-tree-anchored-Di_3CEp_.md` |
