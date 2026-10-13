@@ -1,0 +1,43 @@
+=== STEP 3 ingest
+Summary
+  Total nodes:            38
+  Inserted:               38
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: 0-INBOX\segmented\Di_3CEf_.toc.md
+=== STEP 4 reseg
+     46s  window 1: 2 op(s)
+    101s  window 3: 3 op(s)
+finished in 101 s; errors: []
+
+Operations to apply: 11
+
+Blocks: 123 → 109
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Di_3CEf_.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Di_3CEf_.ops.md
+# Block Resegmentation Log — Di_3CEf_
+
+Original blocks : 123
+Result blocks   : 109
+Ops applied     : 11
+Errors skipped  : 0
+Conflicts       : 0
+footnotes restored 22 lines
+
+QC report: 0-INBOX\resegmented\Di_3CEf_.qc.md
+
+────────────────────────────────────────
+Flags before : 1
+footnotes restored 22 lines
+=== STEP 5 IDs
+Commentary updated: 0-INBOX\resegmented\Di_3CEf_.reseg.md
+✓ Di_3CEf_.reseg.md: identical to Di_3CEf_.md (letters and spacing; only breaks, headings, IDs added)
+exit_stamp=0
+dup IDs: 0
+headings: 39  IDs: 106
+=== ALL DONE

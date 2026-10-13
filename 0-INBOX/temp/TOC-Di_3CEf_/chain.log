@@ -1,0 +1,96 @@
+=== passes 1-2 (parallel)
+     14s  done pass2 chunk_001
+     40s  done pass1 chunk_001
+     52s  done pass2 chunk_000
+     59s  done pass1 chunk_000
+finished in 59 s; errors: []
+=== merge + tree + QC
+[gem] extract_toc_tree.py: model=gemini-3.8-flash thinking=medium
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Di_3CEf_.units.md
+Commentary:   Di_3CEf_
+Lines:        192  ->  2 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\toc-candidates-Di_3CEf_.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\toc-tree-Di_3CEf_.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–192)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–192)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 9 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\toc-candidates-Di_3CEf_.md
+✓ Pass 2: 7 enumeration blocks across 2 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\toc-candidates-Di_3CEf_.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\toc-tree-Di_3CEf_.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\toc-tree-qc-Di_3CEf_.md
+exit_extract=0
+=== pass 5 anchors
+[gem] find_toc_contexts.py: model=gemini-3.8-flash thinking=medium
+TOC:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\toc-tree-anchored-Di_3CEf_.md  (39 entries)
+Source: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Di_3CEf_.units.md  (192 lines)
+
+  [1] line    5  ctx: རྒྱལ་བའི་ཡོན་ཏན་མཐའ་མི་འཚལ་ཞེས་བྱ་བ་གླེང་བསླང་བའི་ཚིགས་སུ་བཅ
+  [1.1] line    7  ctx: དེ་ལ་དང་པོས་ནི་ཡོན་ཏན་ཡོངས་སུ་མི་ཤེས་པ་བསྟན་ཏོ། །
+  [1.2] line    9  ctx: གང་སླད་འགྲོ་འདིས་ཁྱོད་ལ་བསྟོད་པ་བགྱིས་ཀྱང་ཞེས་བྱ་བ་འདིས་ནི་ས
+  [1.3] line   11  ctx: རབ་ཏུ་ཆུང་ཡང་ཞེས་བྱ་བ་འདིས་ནི་ང་རྒྱལ་མེད་པ་ཉིད་དོ། །
+  [1.4] line   13  ctx: དོན་འདིར་བདག་ནི་བློ་གྲོས་རབ་ཏུ་ཆུང་ཡང་བརྩོན་པ་ལགས། ཞེས་བྱ་བ་
+  [2] line   19  ctx: དེ་ཡང་གནས་སྐབས་གསུམ་པོ་རྒྱུའི་གནས་སྐབས་དང་། འབྲས་བུའི་གནས་སྐ
+  [2.1] line   27  ctx: དེ་ལ་རྒྱུའི་གནས་སྐབས་ནི་བསམ་པའི་གནས་སྐབས་དང་། སྦྱོར་བའི་གནས་
+  [2.1.1] line   29  ctx: བསམ་པའི་གནས་སྐབས་ནི་གཞན་གྱི་དོན་ལ་འཇུག་པར་འགྱུར་བའི་སྨོན་ལམ་
+  [2.1.1.1] line   31  ctx: དེའི་ཉེ་བར་བསྟན་པ་ཡང་བཞི་སྟེ། སྡུག་བསྔལ་བསྐྱེད་པ་ལ་སོ་སོར་རྟ
+  [2.1.1.1.1] line   44  ctx: རེ་ཞིག་དེ་ལ་སྡུག་བསྔལ་རྣམས་ཀྱིས༌[^3]སྨས་པའི་སེམས་ཅན་ལ་ཞེས་བྱ
+  [2.1.1.1.2] line   46  ctx: མ་རིག་ལྡོངས་པས༌[^4]ཞེས་བྱ་བ་འདི་དག་ནི་ཕན་བཏགས་པ་ལ་སོ་སོར་རྟོ
+  [2.1.1.1.3] line   48  ctx: སྔོན་ཆད་འཁོར་བར་ཞེས་བྱ་བ་འདི་དག་ནི་གྲོགས་བྱས་པ་ལ་སོ་སོར་རྟོག
+  [2.1.1.1.4] line   50  ctx: ལོངས་སྤྱད་འདས་དགོངས་ཞེས་བྱ་བ་འདི་དག་ནི་ཡང་དག་པར་ལོངས་སྤྱད་པ་
+  [2.1.2] line   64  ctx: སྦྱོར་བའི་གནས་སྐབས་ཞེས་བྱ་བ་ཡང་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོན་པ་ཇི་སྙེ
+  [2.1.2.1] line   68  ctx: དེ་ལ་རེ་ཞིག་མོས་པས་སྤྱོད་པ་རྣམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ནི་བཅུ་ས
+  [2.1.2.1.1] line   70  ctx: དེ་ལ་གང་ཞིག་སྐྱེ་བོ་དམན་དང་ཕོངས་པ་རེ་བའི་བསམ་ལྡན་མཐོང་ན་ཡང་།
+  [2.1.2.1.2] line   72  ctx: རིགས་པར་ལྡན་པའི་ཚིག་སྨྲ་ཡང་ཞེས་བྱ་བ་འདི་དག་གིས་ནི་ཚུལ་ཁྲིམས་
+  [2.1.2.1.3] line   74  ctx: གང་སླད་མཁས་པ་རྣམས་ཀྱི་མི་དགེའི༌[^6]ལས་ཀྱང་ཞེས་བྱ་བ་འདི་དག་གི
+  [2.1.2.1.4] line   76  ctx: བདག་ཉིད་ཞི་བར་བགྱི༌[^7]སླད་ཅེས་བྱ་བ་འདི་དག་གིས་ནི་བརྩོན་འགྲུ
+  [2.1.2.1.5] line   78  ctx: སྦྱིན་པར་བཞེད་པ་མ་སྤངས་ཞེས་བྱ་བ་འདི་དག་གིས་ནི་མི་མཐུན་པའི་ཕྱ
+  [2.1.2.1.6] line   80  ctx: བདག་བསྟོད་མ་མཛད་ལ་ཞེས་བྱ་བ་འདི་དག་གིས་ནི་མི་མཐུན་པའི་ཕྱོགས་ས
+  [2.1.2.1.7] line   82  ctx: སྲིད་དང་ཉོན་མོངས་སྐྱོ་བས་ཞེས་བྱ་བ་འདི་དག་དང་། ཤེས་རབ་ལ་སོགས་
+  [2.1.2.1.8] line   84  ctx: དུས་འགའ་འང་བྱུང་མ་གྱུར་ཞེས་བྱ་བ་འདི་དག་གིས་ནི་ཕུན་སུམ་ཚོགས་པ
+  [2.1.2.1.9] line   86  ctx: མཚན་མོ་སྟོན་ཀའི་ཟླ་བ་ཞེས་བྱ་བ་འདི་དག་གིས་ནི་སྟོབས་ཀྱི་ཕ་རོལ་
+  [2.1.2.1.10] line   88  ctx: འཇིག་རྟེན་སྡུག་བསྔལ་དག་གིས་སྨས༌[^8]ཚེ་ཞེས་བྱ་བ་འདི་དག་གིས་ནི
+  [2.1.2.2] line   92  ctx: ས་ཐོབ་པ་རྣམས་ཀྱི་སྦྱིན་པ་ནི་ཕུན་སུམ་ཚོགས་པ་རྫོགས་པ་བཞི་དང་ལྡ
+  [2.1.2.2.1] line  100  ctx: སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའོ། །
+  [2.1.2.2.1.1] not found in window, sliding +50 lines …
+  [2.1.2.2.1.1] NOT FOUND -- kept: 94
+  [2.1.2.2.1.2] not found in window, sliding +50 lines …
+  [2.1.2.2.1.2] NOT FOUND -- kept: 96
+  [2.1.2.2.1.3] not found in window, sliding +50 lines …
+  [2.1.2.2.1.3] NOT FOUND -- kept: 98
+  [2.1.2.2.1.4] not found in window, sliding +50 lines …
+  [2.1.2.2.1.4] NOT FOUND -- kept: 100
+  [2.1.3] line  118  ctx: དེ་ལ་མངའ་དབང་མཛད་པ་ནི་ལྔ་སྟེ། ཉོན་མོངས་པ་དང་། སྐྱེ་བ་དང་། ལས
+  [2.1.3.1] line  120  ctx: དེ་ལ་ཉོན་མོངས་བས༌[^10]པས་བྱང་ཆུབ་ཅེས་བྱ་བ་འདི་དག་གིས་ནི་ཉོན་
+  [2.1.3.2] line  124  ctx: འགྲོ་བ་ཉོན་མོངས་གྱུར་ཞེས་བྱ་བ་འདི་དག་གིས་ནི་སྐྱེ་བ་ལ་མངའ་དབང
+  [2.1.3.3] line  128  ctx: སྔོན་གྱི་མི་དགེའི་ཕྲིན་ལས་ཞེས་བྱ་བ་འདི་དག་གིས་ནི་ལས་ལ་མངའ་དབ
+  [2.1.3.4] line  132  ctx: མ་བཞིན་རེས་འགའ་ཐུགས་རྗེ་དག་དང་མ་བྲལ་ཞེས་བྱ་བ་འདི་དག་གིས་ནི་ཐ
+  [2.1.3.5] line  136  ctx: ཁ་ཅིག་བྱང་ཆུབ་གསུམ་ལ་བློ་གྲོས་ཅི་རིགས་ཞུགས་ཞེས་བྱ་བ་འདི་དག་ག
+  [2.2] line  144  ctx: འཇིག་རྟེན་མ་རིག་ལྡོངས༌[^16]གྱུར་ལ། །ཞེས་བྱ་བ་འདི་དག་གིས་ནི་ལ
+  [2.3] line  152  ctx: དེ་ལ་ནམ་མཁའི་དཀྱིལ་ན་ཞེས་བྱ་བ་འདི་དག་གིས་ནི་ཆོས་ཀྱི་འཁོར་ལོ་
+
+Written -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-anchored-Di_3CEf_\toc-tree-anchored-Di_3CEf_.md
+Backup  -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Di_3CEf_\toc-tree-anchored-Di_3CEf_.md.bak
+exit_anchor=0
+=== pass 6 QC vs source
+⚑ 11 issue(s), 0 note(s) → 0-INBOX/temp/TOC-Di_3CEf_/toc-tree-qc-source-Di_3CEf_.md
+=== DONE
