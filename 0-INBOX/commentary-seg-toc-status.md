@@ -3,11 +3,11 @@
 Generated 2026-10-13 by `4-SYSTEM/scripts/check_commentary_seg_toc.py`.
 
 - Commentaries in `0-INBOX/commentary/`: **123**
-- Segmented (`0-INBOX/segmented/` or temp): **46**
-- Resegmented (`0-INBOX/resegmented/`): **39**
-- Segmented with TOC (`0-INBOX/temp/segmented-commentary-with-toc/`): **42**
+- Segmented (`0-INBOX/segmented/` or temp): **53**
+- Resegmented (`0-INBOX/resegmented/`): **40**
+- Segmented with TOC (`0-INBOX/temp/segmented-commentary-with-toc/`): **43**
 - TOC files with issues: **2**
-- Not yet in TOC folder: **81**
+- Not yet in TOC folder: **80**
 
 Depth = deepest heading ID segment count (e.g. `^2-1-1-0` → 3). Units = non-heading paragraph blocks.
 
@@ -44,7 +44,7 @@ Depth = deepest heading ID segment count (e.g. `^2-1-1-0` → 3). Units = non-he
 | Ch_3CCT | ✅ | ✅ | ✅ | 9 | 2 | 746 | OK | done |
 | Ch_3CCW | ✅ | ✅ | ✅ | 67 | 2 | 360 | OK | done |
 | Ch_3CCY | ✅ | ✅ | ✅ | 78 | 2 | 732 | OK | done |
-| Ch_3CCa_ | ✅ | ❌ | ✅ | 21 | 2 | 5396 | OK | done |
+| Ch_3CCa_ | ✅ | ✅ | ✅ | 21 | 2 | 5396 | OK | done |
 | Ch_3CCb_ | ✅ | ✅ | ✅ | 32 | 2 | 4849 | OK | done |
 | Ch_3CCe_ | ✅ | ✅ | ✅ | 18 | 2 | 2691 | OK | done |
 | Ch_3CCg_ | ✅ | ✅ | ✅ | 20 | 2 | 4533 | OK | done |
@@ -56,17 +56,17 @@ Depth = deepest heading ID segment count (e.g. `^2-1-1-0` → 3). Units = non-he
 | Di_3CEg_ | ✅ | ✅ | ✅ | 10 | 2 | 20 | OK | done |
 | Di_3CEh_ | ✅ | ✅ | ✅ | 5 | 2 | 6 | OK | done |
 | Di_3CEm_ | ✅ | ✅ | ✅ | 73 | 3 | 431 | OK | done |
-| Di_3CEo_ | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
+| Di_3CEo_ | ✅ | ❌ | ✅ | 322 | 4 | 4120 | OK | done |
 | Di_3CEr_ | ✅ | ✅ | ✅ | 150 | 4 | 1947 | OK | done |
 | Di_3CEt_ | ✅ | ✅ | ✅ | 12 | 2 | 42 | OK | done |
-| Gu_3CFP | ❌ | ❌ | ❌ | | | |  | not started |
+| Gu_3CFP | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
 | Gu_3CFQ | ✅ | ❌ | ✅ | 39 | 3 | 125 | OK | done |
-| Gu_3CFR | ❌ | ❌ | ❌ | | | |  | not started |
-| Gu_3CFU | ❌ | ❌ | ❌ | | | |  | not started |
-| Gu_3CFV | ❌ | ❌ | ❌ | | | |  | not started |
-| Gu_3CFW | ❌ | ❌ | ❌ | | | |  | not started |
-| Gu_3CFX | ❌ | ❌ | ❌ | | | |  | not started |
-| Gu_3CFY | ❌ | ❌ | ❌ | | | |  | not started |
+| Gu_3CFR | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
+| Gu_3CFU | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
+| Gu_3CFV | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
+| Gu_3CFW | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
+| Gu_3CFX | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
+| Gu_3CFY | ✅ | ❌ | ❌ | | | |  | segmented, needs TOC |
 | Ha_3CFK | ❌ | ❌ | ❌ | | | |  | not started |
 | Ha_3CFL | ❌ | ❌ | ❌ | | | |  | not started |
 | Ha_3CFM | ❌ | ❌ | ❌ | | | |  | not started |

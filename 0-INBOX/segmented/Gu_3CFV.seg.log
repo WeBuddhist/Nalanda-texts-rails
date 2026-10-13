@@ -1,0 +1,37 @@
+=== Step 1 Segmentation: Gu_3CFV ===
+Exit: 0
+Stdout:
+C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Gu_3CFV_in.md: 5042 segments, 0 flagged for Stage-2 review.
+Quote balance: 77 quote-open / 28 quote-close -> MISMATCH -- check citations for an unclosed or stray quote marker.
+Report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Gu_3CFV.segreport.tsv
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Gu_3CFV_out.md
+
+Stderr:
+
+
+=== Verify Report ===
+Exit: 0
+# Segmentation content check
+
+- Source: `C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Gu_3CFV.md`
+- Final:  `C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Gu_3CFV.units.md`
+
+| | Source | Final |
+|---|---|---|
+| Content characters compared | 764,521 | 764,521 |
+| Text blocks | 309 | 4883 |
+| Heading lines | 1 | 1 |
+| Block IDs | 0 | 0 |
+| Block size min / median / max (syllables) | 46 / 567 / 1339 | 2 / 28 / 392 |
+| Footnote definitions | 3465 | 3465 |
+
+## Text content: ✓ IDENTICAL
+
+Every syllable, shad and footnote marker of the source is present in the final file, in the same order; only structure (headings, IDs, line breaks) differs.
+
+
+## Footnotes: ✓ OK
+
+
+## Result: ✓ PASS
+

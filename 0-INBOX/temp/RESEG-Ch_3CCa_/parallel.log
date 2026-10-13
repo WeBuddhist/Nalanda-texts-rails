@@ -154,3 +154,38 @@ Ch_3CCa_: 5418 blocks, 155 windows, 155 to call
     ! window-127 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
    5409s  window 131: 12 op(s)
    5417s  window 129: 9 op(s)
+   5485s  window 132: 8 op(s)
+   5575s  window 137: 6 op(s)
+   5608s  window 134: 5 op(s)
+   5633s  window 133: 10 op(s)
+   5645s  window 136: 9 op(s)
+   5691s  window 139: 11 op(s)
+   5729s  window 127: 11 op(s)
+    ! window-135 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! window-118 attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 40s...
+   5779s  window 138: 8 op(s)
+   5904s  window 144: 13 op(s)
+   5933s  window 142: 8 op(s)
+   5955s  window 140: 5 op(s)
+   5976s  window 143: 7 op(s)
+    ! window-141 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+   6102s  window 145: 9 op(s)
+   6141s  window 135: 10 op(s)
+   6180s  window 149: 9 op(s)
+   6204s  window 118: 10 op(s)
+    ! window-146 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! window-147 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+    ! window-148 attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+    ! window-141 attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 17s...
+   6473s  window 153: 3 op(s)
+   6514s  window 150: 9 op(s)
+   6520s  window 151: 10 op(s)
+   6572s  window 152: 9 op(s)
+   6587s  window 148: 8 op(s)
+   6691s  window 146: 7 op(s)
+   6744s  window 147: 10 op(s)
+   6763s  window 154: 0 op(s)
+    ! window-141 attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 34s...
+   7065s  window 155: 1 op(s)
+   7194s  window 141: 8 op(s)
+finished in 7194 s; errors: []
