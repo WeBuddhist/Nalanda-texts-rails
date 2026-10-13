@@ -1,5 +1,29 @@
 # Durchen outliers: footnotes with no `༼…༽` witness
 
+## Update 2026-10-13: current `1-SOURCES/Text/` (442 root texts)
+
+`1-SOURCES/Text/` was replaced by the processed root texts, which have frontmatter, block IDs and headings, so **the line numbers further down are out of date**. The current state:
+
+- **12 of the 24 notes are still in root texts.** Their current lines are below. All 12 texts are held from the API linter/parser batch (`0-INBOX/temp/api-lint/holds.json`), together with `Sh_3CCm_` (held by request).
+- **The other 12 are no longer in `1-SOURCES/Text/`.** Those files are commentaries: `Di_3CEo_`, `Di_3CEr_`, `Ha_3CFM`, `Sh_3CDC`, `Va_3CEA`, `Va_3CEK`. They cover all 9 lemma-only notes (A1–A9) plus C12, C13 and C14. Fix them wherever the commentaries now live.
+
+| Ref | File | Note | Marker line | Def line |
+|---|---|---|---|---|
+| B1 | `Na_3CAN.md` | `[^75]` | 151 | 245 |
+| C1 | `Ch_3CCU.md` | `[^1]` | 36 | 38 |
+| C2 | `Na_3C9x_.md` | `[^1]` | 38 | 40 |
+| C3 | `Na_3C9y_.md` | `[^2]` | 41 | 44 |
+| C4 | `Sh_3CCh_.md` | `[^1]` | 37 | 39 |
+| C5 | `Sh_3CCi_.md` | `[^2]` | 37 | 40 |
+| C6 | `Na_3C9s_.md` | `[^1]` | 44 | 46 |
+| C7 | `Ch_3CCV.md` | `[^1]` | 29 | 189 |
+| C8 | `Dh_3CF3.md` | `[^40]` | 92 | 133 |
+| C9 | `Sh_3CD6.md` | `[^1]` | 270 | 272 |
+| C10 | `Sh_3CD7.md` | `[^1]` | 264 | 266 |
+| C11 | `At_3CHK.md` | `[^3806]` | 4894 | 8701 |
+
+---
+
 Generated 2026-10-13 from `1-SOURCES/Text/` (553 root texts, 217,233 footnotes).
 
 The durchen tools (`4-SYSTEM/scripts/linter-*`, `parser-*`, shared logic in `durchen.py`) expect every footnote to read:
