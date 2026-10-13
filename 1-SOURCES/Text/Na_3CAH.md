@@ -18,9 +18,9 @@ license: "public"
 pandita: "01-Nagarjuna"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
-text_id: "JdPfV11VsJdhvo0O8MVJS"
-edition_id: "oMOlYpL4lA8aQR1v36ur4"
-toc_id: "iADKSAlPni16MEI4R00V7"
+text_id: "d2ivbyO2OCVYf6GYgJ5Id"
+edition_id: "w1vAp2jlPcRynV43ssVfS"
+toc_id: "81ayvI0UPiHz44ufywHsi"
 durchen_count: 9
 openpecha_text_id: "1xdvkvyHnPsNZk1p7Bwxl"
 ---
@@ -47,13 +47,11 @@ openpecha_text_id: "1xdvkvyHnPsNZk1p7Bwxl"
 
 ཨོཾ་ཨཱཿབིགྷྣཱནྟ་ཀྲྀཏ་ཧཱུཾ་ཕཊ། བགེགས་དགྲའི་སྒྲུབ་པའི་ཐབས་རྫོགས་སོ། ། ^1-6
 
-པཎྜི་ཏ་དོན་ཡོད་རྡོ་རྗེ་དང་། ^1-7
-
 ## མཇུག་བྱང། ^a-0
 
 ### འགྱུར་བྱང། ^a-1-0
 
-ཁམས་པ་ལོ་ཙཱ་བ་དགེ་སློང་བ་རིས་བསྒྱུར་ཅིང་ཞུས་སོ། ། ^a-1
+པཎྜི་ཏ་དོན་ཡོད་རྡོ་རྗེ་དང་། ཁམས་པ་ལོ་ཙཱ་བ་དགེ་སློང་བ་རིས་བསྒྱུར་ཅིང་ཞུས་སོ། ། ^a-1
 
 [^1]: སྒྲུབ་པའི་ ༼སྣར། པེ།༽ སྒྲུབ་
 [^2]: དང་པོ་ ༼སྣར། པེ།༽ དང་པོར་

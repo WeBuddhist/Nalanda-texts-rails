@@ -18,9 +18,9 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
-text_id: "1wfAREBB2mVIVW5kV22n0"
-edition_id: "x4Q7AHHh44YD2fUmCR5k3"
-toc_id: "pZDgkJcW4UazLfXA2EexR"
+text_id: "WbRmdvp8FLhFfIJElL9n7"
+edition_id: "tSMWlwA4yo6D1DwASxkgA"
+toc_id: "P8VA5I0hGEAx6UkocTVIy"
 durchen_count: 5
 openpecha_text_id: "nYaRRtvzttT0iH4ZvpCX3"
 ---
@@ -48,13 +48,13 @@ openpecha_text_id: "nYaRRtvzttT0iH4ZvpCX3"
 འདུས་པའི་ཡེ་ཤེས་མཁའ་འགྲོ་མ། །
 སྒྲོལ་མ་དགེ་འདུན་ཁྱོད་ཕྱག་འཚལ། ། ^1-3
 
-སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ། རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀ་ར་ཤྲཱི་ཛྙཱ་ནའི་ཞལ་སྔ་ནས་དང་། ^1-4
+སྒྲོལ་མ་དཀོན་མཆོག་གསུམ་ལ་བསྟོད་པ། ^1-4
 
 ## མཇུག་བྱང། ^a-0
 
 ### འགྱུར་བྱང། ^a-1-0
 
-བོད་ཀྱི་ལོ་ཙཱ་བ་ནག་ཚོ་ཚུལ་ཁྲིམས་རྒྱལ་བས་བི་ཀྲ༌[^4]མ་ཤཱི་ལའི་གཙུག་ལག་ཁང་དུ་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ། [^5] ^a-1
+རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀ་ར་ཤྲཱི་ཛྙཱ་ནའི་ཞལ་སྔ་ནས་དང་། བོད་ཀྱི་ལོ་ཙཱ་བ་ནག་ཚོ་ཚུལ་ཁྲིམས་རྒྱལ་བས་བི་ཀྲ༌[^4]མ་ཤཱི་ལའི་གཙུག་ལག་ཁང་དུ་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ། [^5] ^a-1
 
 [^1]: རྟོག་ ༼སྣར། པེ།༽ ཏོག་
 [^2]: ཚུལ། ༼སྣར། པེ།༽ ཆུ།

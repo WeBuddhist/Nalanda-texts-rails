@@ -17,9 +17,9 @@ license: "public"
 pandita: "07-Shantarakshita"
 category_id: "SoGlGBaboYkVa7b9qJvvK"
 category_name: "Miscellaneous / སྣ་ཚོགས།"
-text_id: "sf4TOaHeOvvHlxo8u8dC9"
-edition_id: "ijHGwBsWzD9LCqz0BdNAr"
-toc_id: "gvpviR4CzdoHtplyIUJEk"
+text_id: "E5WOrkGUaKFOX3s9oajIu"
+edition_id: "QDAxD9HLq6AHL1hJuNZz6"
+toc_id: "V1UhoVXFXXJ0qHCEKxvgr"
 durchen_count: 1
 openpecha_text_id: "mCUJrwGC3LQJEnwOx2hzw"
 ---
@@ -61,12 +61,10 @@ openpecha_text_id: "mCUJrwGC3LQJEnwOx2hzw"
 
 བཅོམ་ལྡན་འདས་ལ་བསྟོད་པ་དཔལ་རྡོ་རྗེ་འཛིན་གྱི་དབྱངས་རྫོགས་སོ།། །། ^1-6
 
-རྒྱ་གར་གྱི་མཁན་པོ་བིདྱཱ་ཀ་ར་པྲ་བྷ་དང་། ^1-7
-
 ## མཇུག་བྱང། ^a-0
 
 ### འགྱུར་བྱང། ^a-1-0
 
-ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ་དཔལ་བརྩེགས་ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ། ། ^a-1
+རྒྱ་གར་གྱི་མཁན་པོ་བིདྱཱ་ཀ་ར་པྲ་བྷ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ་དཔལ་བརྩེགས་ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པ། ། ^a-1
 
 [^1]: སྩོལ། ༼སྣར།༽ རྩོལ།
