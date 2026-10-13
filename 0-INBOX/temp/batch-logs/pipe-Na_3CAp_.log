@@ -1,0 +1,304 @@
+[Na_3CAp_] using closing-line tree closing-tree-Na_3CAp_.md
+[Na_3CAp_] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAp_\toc-tree-Na_3CAp_.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAp_\toc-tree-Na_3CAp_.json
+Parsed 31 nodes (4 frame), max depth 2.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAp_\toc-tree-Na_3CAp_.json
+  depth  1: 29 nodes
+  depth  2: 2 nodes
+[Na_3CAp_] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAp_\toc-tree-Na_3CAp_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3CAp_\Na_3CAp_.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            31
+  Inserted:               31
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3CAp_\Na_3CAp_.toc.md
+[Na_3CAp_] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3CAp_.toc.md
+[Na_3CAp_] moved ^25-0 above its lead-in in Na_3CAp_.toc.md
+[Na_3CAp_] moved ^25-0 above its lead-in in Na_3CAp_.toc.md
+[Na_3CAp_] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Na_3CAp_ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Na_3CAp_.toc.md...
+Blocks: 1914 (headings: 32, content: 1882)
+Windows: 55
+Windows to process: 55 / 55
+Running 55 windows with 8 worker threads...
+  [22.5s] Window 6/55 done: 4 op(s)
+  [39.0s] Window 7/55 done: 5 op(s)
+  [47.4s] Window 4/55 done: 4 op(s)
+  [60.9s] Window 8/55 done: 5 op(s)
+  [73.0s] Window 5/55 done: 5 op(s)
+  [54.9s] Window 9/55 done: 9 op(s)
+  [35.9s] Window 11/55 done: 3 op(s)
+  [95.5s] Window 2/55 done: 11 op(s)
+  [57.0s] Window 10/55 done: 4 op(s)
+  [51.1s] Window 12/55 done: 6 op(s)
+  [122.8s] Window 3/55 done: 8 op(s)
+  [66.8s] Window 14/55 done: 4 op(s)
+  [63.7s] Window 15/55 done: 4 op(s)
+  [63.7s] Window 16/55 done: 7 op(s)
+  [99.6s] Window 13/55 done: 5 op(s)
+  [71.2s] Window 18/55 done: 4 op(s)
+  [42.2s] Window 22/55 done: 2 op(s)
+  [58.9s] Window 20/55 done: 3 op(s)
+  [57.1s] Window 21/55 done: 6 op(s)
+  [33.5s] Window 23/55 done: 1 op(s)
+  [206.3s] Window 1/55 done: 4 op(s)
+  [90.2s] Window 19/55 done: 2 op(s)
+  [120.0s] Window 17/55 done: 6 op(s)
+  [26.1s] Window 30/55 done: 7 op(s)
+  [27.6s] Window 31/55 done: 4 op(s)
+  [59.0s] Window 29/55 done: 6 op(s)
+  [63.1s] Window 26/55 done: 3 op(s)
+  [74.8s] Window 28/55 done: 8 op(s)
+  [44.4s] Window 32/55 done: 4 op(s)
+  [107.3s] Window 24/55 done: 6 op(s)
+  [98.0s] Window 25/55 done: 8 op(s)
+  [41.6s] Window 35/55 done: 4 op(s)
+  [53.4s] Window 34/55 done: 6 op(s)
+  [52.9s] Window 36/55 done: 4 op(s)
+  [131.5s] Window 27/55 done: 5 op(s)
+  [46.5s] Window 38/55 done: 6 op(s)
+  [36.8s] Window 40/55 done: 6 op(s)
+  [33.6s] Window 41/55 done: 6 op(s)
+  [76.1s] Window 37/55 done: 6 op(s)
+  [119.2s] Window 33/55 done: 6 op(s)
+  [36.9s] Window 42/55 done: 3 op(s)
+  [43.2s] Window 43/55 done: 3 op(s)
+  [40.9s] Window 46/55 done: 4 op(s)
+  [34.0s] Window 47/55 done: 3 op(s)
+  [104.0s] Window 39/55 done: 3 op(s)
+  [27.8s] Window 50/55 done: 2 op(s)
+  [55.0s] Window 49/55 done: 6 op(s)
+  [84.3s] Window 45/55 done: 5 op(s)
+  [69.0s] Window 48/55 done: 9 op(s)
+  [45.4s] Window 54/55 done: 4 op(s)
+  [73.3s] Window 52/55 done: 7 op(s)
+  [63.4s] Window 55/55 done: 3 op(s)
+  [103.7s] Window 51/55 done: 4 op(s)
+  [119.0s] Window 53/55 done: 6 op(s)
+  [227.6s] Window 44/55 done: 4 op(s)
+
+Combining operations...
+Operations to apply: 242
+Blocks: 1914 -> 1536
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CAp_.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CAp_.ops.md
+[Na_3CAp_] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CAp_.reseg.md --commentary-id Na_3CAp_
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CAp_.reseg.md
+ID:     Na_3CAp_
+
+Blocks: 1536
+
+Step 1 — Deterministic checks...
+  169 flag(s) found.
+  Block 10 — OVER_LENGTH (391 syl)
+  Block 13 — OVER_LENGTH (286 syl)
+  Block 31 — OVER_LENGTH (277 syl)
+  Block 56 — OVER_LENGTH (279 syl)
+  Block 60 — SHORT_FRAGMENT (3 syl)
+  Block 65 — CONNECTOR_ENDING
+  Block 91 — SHORT_FRAGMENT (3 syl)
+  Block 103 — SHORT_FRAGMENT (3 syl)
+  Block 116 — SHORT_FRAGMENT (3 syl)
+  Block 146 — SHORT_FRAGMENT (2 syl)
+  Block 153 — SHORT_FRAGMENT (1 syl)
+  Block 155 — SHORT_FRAGMENT (1 syl)
+  Block 169 — SHORT_FRAGMENT (3 syl)
+  Block 172 — SHORT_FRAGMENT (3 syl)
+  Block 176 — SHORT_FRAGMENT (3 syl)
+  Block 181 — CONNECTOR_ENDING
+  Block 206 — CONNECTOR_ENDING
+  Block 216 — CONNECTOR_ENDING
+  Block 226 — CONNECTOR_ENDING
+  Block 237 — OVER_LENGTH (253 syl)
+  Block 247 — SHORT_FRAGMENT (3 syl)
+  Block 256 — SHORT_FRAGMENT (3 syl)
+  Block 273 — SHORT_FRAGMENT (3 syl)
+  Block 276 — CONNECTOR_ENDING
+  Block 312 — OVER_LENGTH (612 syl)
+  Block 313 — SHORT_FRAGMENT (3 syl)
+  Block 324 — SHORT_FRAGMENT (3 syl)
+  Block 327 — SHORT_FRAGMENT (3 syl)
+  Block 331 — SHORT_FRAGMENT (3 syl)
+  Block 358 — SHORT_FRAGMENT (3 syl)
+  Block 365 — SHORT_FRAGMENT (3 syl)
+  Block 368 — CONNECTOR_ENDING
+  Block 371 — CONNECTOR_ENDING
+  Block 374 — CONNECTOR_ENDING
+  Block 389 — SHORT_FRAGMENT (3 syl)
+  Block 400 — SHORT_FRAGMENT (3 syl)
+  Block 434 — SHORT_FRAGMENT (3 syl)
+  Block 436 — SHORT_FRAGMENT (3 syl)
+  Block 441 — SHORT_FRAGMENT (3 syl)
+  Block 450 — SHORT_FRAGMENT (3 syl)
+  Block 456 — SHORT_FRAGMENT (3 syl)
+  Block 471 — SHORT_FRAGMENT (3 syl)
+  Block 477 — SHORT_FRAGMENT (3 syl)
+  Block 482 — SHORT_FRAGMENT (3 syl)
+  Block 485 — SHORT_FRAGMENT (3 syl)
+  Block 489 — SHORT_FRAGMENT (3 syl)
+  Block 501 — SHORT_FRAGMENT (3 syl)
+  Block 505 — SHORT_FRAGMENT (3 syl)
+  Block 509 — SHORT_FRAGMENT (3 syl)
+  Block 520 — CONNECTOR_ENDING
+  Block 526 — CONNECTOR_ENDING
+  Block 533 — CONNECTOR_ENDING
+  Block 536 — SHORT_FRAGMENT (3 syl)
+  Block 541 — CONNECTOR_ENDING
+  Block 557 — CONNECTOR_ENDING
+  Block 569 — SHORT_FRAGMENT (3 syl)
+  Block 584 — SHORT_FRAGMENT (3 syl)
+  Block 599 — SHORT_FRAGMENT (3 syl)
+  Block 605 — SHORT_FRAGMENT (3 syl)
+  Block 609 — SHORT_FRAGMENT (3 syl)
+  Block 612 — CONNECTOR_ENDING
+  Block 619 — SHORT_FRAGMENT (3 syl)
+  Block 622 — CONNECTOR_ENDING
+  Block 626 — SHORT_FRAGMENT (3 syl)
+  Block 630 — SHORT_FRAGMENT (3 syl)
+  Block 643 — SHORT_FRAGMENT (3 syl)
+  Block 650 — SHORT_FRAGMENT (3 syl)
+  Block 659 — CONNECTOR_ENDING
+  Block 670 — CONNECTOR_ENDING
+  Block 695 — SHORT_FRAGMENT (3 syl)
+  Block 705 — SHORT_FRAGMENT (3 syl)
+  Block 709 — SHORT_FRAGMENT (3 syl)
+  Block 713 — SHORT_FRAGMENT (3 syl)
+  Block 715 — OBJECTION_REPLY_FUSED
+  Block 717 — SHORT_FRAGMENT (3 syl)
+  Block 737 — SHORT_FRAGMENT (3 syl)
+  Block 741 — SHORT_FRAGMENT (3 syl)
+  Block 748 — SHORT_FRAGMENT (3 syl)
+  Block 752 — SHORT_FRAGMENT (3 syl)
+  Block 756 — SHORT_FRAGMENT (3 syl)
+  Block 758 — OBJECTION_REPLY_FUSED
+  Block 763 — CONNECTOR_ENDING
+  Block 767 — SHORT_FRAGMENT (3 syl)
+  Block 771 — SHORT_FRAGMENT (3 syl)
+  Block 785 — OVER_LENGTH (298 syl)
+  Block 786 — SHORT_FRAGMENT (3 syl)
+  Block 803 — OBJECTION_REPLY_FUSED
+  Block 820 — CONNECTOR_ENDING
+  Block 837 — CONNECTOR_ENDING
+  Block 853 — SHORT_FRAGMENT (3 syl)
+  Block 857 — SHORT_FRAGMENT (3 syl)
+  Block 864 — SHORT_FRAGMENT (3 syl)
+  Block 889 — SHORT_FRAGMENT (3 syl)
+  Block 898 — SHORT_FRAGMENT (3 syl)
+  Block 910 — OVER_LENGTH (282 syl)
+  Block 915 — CONNECTOR_ENDING
+  Block 917 — CONNECTOR_ENDING
+  Block 924 — SHORT_FRAGMENT (3 syl)
+  Block 927 — OBJECTION_REPLY_FUSED
+  Block 928 — SHORT_FRAGMENT (3 syl)
+  Block 932 — SHORT_FRAGMENT (3 syl)
+  Block 940 — SHORT_FRAGMENT (3 syl)
+  Block 944 — SHORT_FRAGMENT (3 syl)
+  Block 949 — SHORT_FRAGMENT (3 syl)
+  Block 953 — SHORT_FRAGMENT (3 syl)
+  Block 961 — SHORT_FRAGMENT (3 syl)
+  Block 965 — SHORT_FRAGMENT (3 syl)
+  Block 969 — SHORT_FRAGMENT (3 syl)
+  Block 973 — SHORT_FRAGMENT (3 syl)
+  Block 977 — SHORT_FRAGMENT (3 syl)
+  Block 984 — SHORT_FRAGMENT (3 syl)
+  Block 993 — CONNECTOR_ENDING
+  Block 995 — CONNECTOR_ENDING
+  Block 1022 — SHORT_FRAGMENT (3 syl)
+  Block 1033 — SHORT_FRAGMENT (3 syl)
+  Block 1038 — SHORT_FRAGMENT (3 syl)
+  Block 1042 — SHORT_FRAGMENT (3 syl)
+  Block 1059 — SHORT_FRAGMENT (3 syl)
+  Block 1072 — CONNECTOR_ENDING
+  Block 1078 — SHORT_FRAGMENT (3 syl)
+  Block 1080 — OVER_LENGTH (343 syl)
+  Block 1082 — SHORT_FRAGMENT (3 syl)
+  Block 1104 — SHORT_FRAGMENT (3 syl)
+  Block 1117 — SHORT_FRAGMENT (3 syl)
+  Block 1121 — SHORT_FRAGMENT (3 syl)
+  Block 1125 — SHORT_FRAGMENT (3 syl)
+  Block 1127 — OBJECTION_REPLY_FUSED
+  Block 1132 — SHORT_FRAGMENT (3 syl)
+  Block 1134 — OVER_LENGTH (512 syl)
+  Block 1136 — SHORT_FRAGMENT (3 syl)
+  Block 1140 — SHORT_FRAGMENT (3 syl)
+  Block 1144 — SHORT_FRAGMENT (3 syl)
+  Block 1152 — SHORT_FRAGMENT (3 syl)
+  Block 1156 — SHORT_FRAGMENT (3 syl)
+  Block 1161 — SHORT_FRAGMENT (3 syl)
+  Block 1165 — SHORT_FRAGMENT (3 syl)
+  Block 1169 — SHORT_FRAGMENT (3 syl)
+  Block 1173 — SHORT_FRAGMENT (3 syl)
+  Block 1177 — SHORT_FRAGMENT (3 syl)
+  Block 1191 — SHORT_FRAGMENT (3 syl)
+  Block 1198 — SHORT_FRAGMENT (3 syl)
+  Block 1209 — SHORT_FRAGMENT (3 syl)
+  Block 1212 — SHORT_FRAGMENT (3 syl)
+  Block 1220 — CONNECTOR_ENDING
+  Block 1227 — SHORT_FRAGMENT (3 syl)
+  Block 1241 — SHORT_FRAGMENT (3 syl)
+  Block 1251 — SHORT_FRAGMENT (3 syl)
+  Block 1266 — CONNECTOR_ENDING
+  Block 1274 — CONNECTOR_ENDING
+  Block 1279 — SHORT_FRAGMENT (3 syl)
+  Block 1294 — CONNECTOR_ENDING
+  Block 1361 — SHORT_FRAGMENT (3 syl)
+  Block 1365 — SHORT_FRAGMENT (3 syl)
+  Block 1368 — OBJECTION_REPLY_FUSED
+  Block 1381 — SHORT_FRAGMENT (3 syl)
+  Block 1391 — SHORT_FRAGMENT (2 syl)
+  Block 1398 — SHORT_FRAGMENT (3 syl)
+  Block 1404 — CONNECTOR_ENDING
+  Block 1408 — SHORT_FRAGMENT (3 syl)
+  Block 1412 — SHORT_FRAGMENT (3 syl)
+  Block 1429 — SHORT_FRAGMENT (2 syl)
+  Block 1436 — SHORT_FRAGMENT (3 syl)
+  Block 1448 — SHORT_FRAGMENT (1 syl)
+  Block 1467 — CONNECTOR_ENDING
+  Block 1490 — SHORT_FRAGMENT (2 syl)
+  Block 1510 — CONNECTOR_ENDING
+  Block 1512 — CONNECTOR_ENDING
+  Block 1519 — CONNECTOR_ENDING
+  Block 1525 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+  LLM suggested 1 correction(s):
+    MERGE [434, 435]
+  ✓ Integrity check passed. Blocks: 1536 → 1535
+
+Step 3 — Re-checking after repair...
+  168 flag(s) remain after repair.
+  Updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CAp_.reseg.md
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CAp_.qc.md
+
+────────────────────────────────────────
+Flags before : 169
+Flags after  : 168
+Corrections  : 1
+[Na_3CAp_] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAp_\toc-tree-Na_3CAp_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CAp_.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Na_3CAp_.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            31
+  Inserted:               0
+  Already present:        31
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CAp_.reseg.md
+  spacing: source '' → output ' ' at …ུས་པ་ལས།|[
+  spacing: source '' → output ' ' at …ི༌[^306]|ག
+  spacing: source '' → output ' ' at …ད་གསུངས།|[
+  spacing: source '' → output ' ' at …༌[^1061]|ག
+✓ Na_3CAp_.reseg.md: letters identical; 4 spacing difference(s) restored from the source — now identical (letters and spacing)
+[Na_3CAp_] ALL STEPS COMPLETED SUCCESSFULLY!
+[Na_3CAp_] DONE in 954s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3CAp_.toc.md

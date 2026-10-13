@@ -23,6 +23,6 @@ def ordinal(n: int) -> str:
 
 p = Path(sys.argv[1])
 t = p.read_text(encoding="utf-8")
-t, n = re.subn(r"ཚིགས་བཅད་\{(\d+)\}", lambda m: "ཚིགས་བཅད་" + ordinal(int(m.group(1))), t)
+t, n = re.subn(r"ཚིགས་བཅད་\{?(\d+)\}?(?=།)",lambda m: "ཚིགས་བཅད་" + ordinal(int(m.group(1))), t)
 p.write_text(t, encoding="utf-8")
 print(f"filled {n} placeholders; left: {len(re.findall(r'\{\d+\}', t))}")

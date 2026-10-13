@@ -1,0 +1,37 @@
+=== Step 1 Segmentation: Na_3C9Z ===
+Exit: 0
+Stdout:
+C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Na_3C9Z_in.md: 1068 segments, 0 flagged for Stage-2 review.
+Quote balance: 2 quote-open / 5 quote-close -> MISMATCH -- check citations for an unclosed or stray quote marker.
+Report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Na_3C9Z.segreport.tsv
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Na_3C9Z_out.md
+
+Stderr:
+
+
+=== Verify Report ===
+Exit: 0
+# Segmentation content check
+
+- Source: `C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Na_3C9Z.md`
+- Final:  `C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Na_3C9Z.units.md`
+
+| | Source | Final |
+|---|---|---|
+| Content characters compared | 153,842 | 153,842 |
+| Text blocks | 79 | 1043 |
+| Heading lines | 1 | 1 |
+| Block IDs | 0 | 0 |
+| Block size min / median / max (syllables) | 183 / 390 / 943 | 3 / 25 / 224 |
+| Footnote definitions | 620 | 620 |
+
+## Text content: ✓ IDENTICAL
+
+Every syllable, shad and footnote marker of the source is present in the final file, in the same order; only structure (headings, IDs, line breaks) differs.
+
+
+## Footnotes: ✓ OK
+
+
+## Result: ✓ PASS
+

@@ -131,3 +131,163 @@ Running 101 windows with 8 worker threads...
   [110.0s] Window 94/101 done: 4 op(s)
   [81.5s] Window 96/101 done: 8 op(s)
   [52.6s] Window 100/101 done: 8 op(s)
+  [91.1s] Window 98/101 done: 3 op(s)
+  [67.0s] Window 99/101 done: 7 op(s)
+  [123.6s] Window 95/101 done: 4 op(s)
+  [127.7s] Window 101/101 done: 5 op(s)
+  [161.9s] Window 97/101 done: 6 op(s)
+
+Combining operations...
+Operations to apply: 620
+Blocks: 3531 -> 1858
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9m_.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9m_.ops.md
+[Na_3C9m_] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9m_.reseg.md --commentary-id Na_3C9m_
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9m_.reseg.md
+ID:     Na_3C9m_
+
+Blocks: 1858
+
+Step 1 — Deterministic checks...
+  99 flag(s) found.
+  Block 33 — SHORT_FRAGMENT (3 syl)
+  Block 63 — CONNECTOR_ENDING
+  Block 72 — CONNECTOR_ENDING
+  Block 102 — OVER_LENGTH (365 syl)
+  Block 118 — OVER_LENGTH (328 syl)
+  Block 132 — CONNECTOR_ENDING
+  Block 154 — OVER_LENGTH (312 syl)
+  Block 155 — OVER_LENGTH (290 syl)
+  Block 156 — OVER_LENGTH (314 syl)
+  Block 160 — OVER_LENGTH (350 syl)
+  Block 162 — OVER_LENGTH (264 syl)
+  Block 164 — OVER_LENGTH (284 syl)
+  Block 213 — SHORT_FRAGMENT (3 syl)
+  Block 241 — OVER_LENGTH (289 syl)
+  Block 252 — SHORT_FRAGMENT (2 syl)
+  Block 258 — CONNECTOR_ENDING
+  Block 264 — OVER_LENGTH (259 syl)
+  Block 336 — CONNECTOR_ENDING
+  Block 347 — OVER_LENGTH (258 syl)
+  Block 353 — OVER_LENGTH (266 syl)
+  Block 356 — CONNECTOR_ENDING
+  Block 373 — SHORT_FRAGMENT (3 syl)
+  Block 383 — CONNECTOR_ENDING
+  Block 389 — SHORT_FRAGMENT (3 syl)
+  Block 391 — OVER_LENGTH (284 syl)
+  Block 399 — OVER_LENGTH (273 syl)
+  Block 442 — CONNECTOR_ENDING
+  Block 444 — SHORT_FRAGMENT (3 syl)
+  Block 449 — SHORT_FRAGMENT (3 syl)
+  Block 460 — CONNECTOR_ENDING
+  Block 466 — CONNECTOR_ENDING
+  Block 487 — CONNECTOR_ENDING
+  Block 551 — OVER_LENGTH (264 syl)
+  Block 580 — OVER_LENGTH (306 syl)
+  Block 587 — OVER_LENGTH (368 syl)
+  Block 599 — OVER_LENGTH (265 syl)
+  Block 603 — CONNECTOR_ENDING
+  Block 607 — OVER_LENGTH (263 syl)
+  Block 661 — OVER_LENGTH (295 syl)
+  Block 669 — SHORT_FRAGMENT (3 syl)
+  Block 674 — SHORT_FRAGMENT (3 syl)
+  Block 697 — SHORT_FRAGMENT (3 syl)
+  Block 742 — OVER_LENGTH (325 syl)
+  Block 774 — CONNECTOR_ENDING
+  Block 774 — OVER_LENGTH (312 syl)
+  Block 783 — CONNECTOR_ENDING
+  Block 816 — CONNECTOR_ENDING
+  Block 820 — OVER_LENGTH (285 syl)
+  Block 821 — CONNECTOR_ENDING
+  Block 838 — OVER_LENGTH (325 syl)
+  Block 843 — OVER_LENGTH (359 syl)
+  Block 844 — OVER_LENGTH (380 syl)
+  Block 894 — OVER_LENGTH (322 syl)
+  Block 899 — OVER_LENGTH (493 syl)
+  Block 925 — CONNECTOR_ENDING
+  Block 934 — OVER_LENGTH (303 syl)
+  Block 961 — CONNECTOR_ENDING
+  Block 979 — OVER_LENGTH (256 syl)
+  Block 1013 — OBJECTION_REPLY_FUSED
+  Block 1060 — OVER_LENGTH (329 syl)
+  Block 1062 — CONNECTOR_ENDING
+  Block 1072 — CONNECTOR_ENDING
+  Block 1100 — CONNECTOR_ENDING
+  Block 1123 — CONNECTOR_ENDING
+  Block 1228 — SHORT_FRAGMENT (3 syl)
+  Block 1232 — CONNECTOR_ENDING
+  Block 1232 — SHORT_FRAGMENT (2 syl)
+  Block 1241 — CONNECTOR_ENDING
+  Block 1247 — CONNECTOR_ENDING
+  Block 1275 — CONNECTOR_ENDING
+  Block 1288 — CONNECTOR_ENDING
+  Block 1295 — CONNECTOR_ENDING
+  Block 1324 — CONNECTOR_ENDING
+  Block 1331 — CONNECTOR_ENDING
+  Block 1390 — OVER_LENGTH (270 syl)
+  Block 1398 — OVER_LENGTH (327 syl)
+  Block 1409 — OVER_LENGTH (251 syl)
+  Block 1441 — CONNECTOR_ENDING
+  Block 1448 — OVER_LENGTH (355 syl)
+  Block 1482 — OVER_LENGTH (251 syl)
+  Block 1540 — OVER_LENGTH (256 syl)
+  Block 1560 — CONNECTOR_ENDING
+  Block 1574 — OVER_LENGTH (283 syl)
+  Block 1588 — SHORT_FRAGMENT (3 syl)
+  Block 1595 — OBJECTION_REPLY_FUSED
+  Block 1596 — SHORT_FRAGMENT (3 syl)
+  Block 1599 — OBJECTION_REPLY_FUSED
+  Block 1617 — OVER_LENGTH (319 syl)
+  Block 1667 — OVER_LENGTH (278 syl)
+  Block 1679 — OVER_LENGTH (306 syl)
+  Block 1743 — OVER_LENGTH (303 syl)
+  Block 1753 — SHORT_FRAGMENT (3 syl)
+  Block 1768 — SHORT_FRAGMENT (3 syl)
+  Block 1799 — SHORT_FRAGMENT (3 syl)
+  Block 1833 — OVER_LENGTH (271 syl)
+  Block 1834 — CONNECTOR_ENDING
+  Block 1836 — CONNECTOR_ENDING
+  Block 1838 — CONNECTOR_ENDING
+  Block 1853 — OVER_LENGTH (256 syl)
+
+Step 2 — LLM repair...
+  ! qc-repair attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  LLM suggested 3 correction(s):
+    SPLIT block 1013 after: 'འོ་ན་གལ་ཏེ་དེ་ལྟར་ཡིན་ན་གང་སྦྱིན་པ་དང་། གང་ལ་སྦྱིན'
+    SPLIT block 1595 after: 'འོ་ན་ཅིའི་ཕྱིར་སེམས་ཅན་རྣམས་གྲོལ་བར་མ་གྱུར་ཞེ་ན།'
+    SPLIT block 1599 after: 'འོ་ན་བྱང་ཆུབ་སེམས་དཔའ༌[^1604]ནི་འགྲོ་བའི་དོན་ཇི་ལྟ'
+  ✓ Integrity check passed. Blocks: 1858 → 1861
+
+Step 3 — Re-checking after repair...
+  99 flag(s) remain after repair.
+  Updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9m_.reseg.md
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9m_.qc.md
+
+────────────────────────────────────────
+Flags before : 99
+Flags after  : 99
+Corrections  : 3
+[Na_3C9m_] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9m_\toc-tree-Na_3C9m_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9m_.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Na_3C9m_.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            275
+  Inserted:               0
+  Already present:        275
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9m_.reseg.md
+  spacing: source '' → output ' ' at …ོ༌[^535]|ལ
+  spacing: source '' → output ' ' at …སུངས་སོ།|[
+  spacing: source '' → output ' ' at …བབ་པ་ལས།|[
+  spacing: source '' → output ' ' at …ི་བོ་ལས།|[
+✓ Na_3C9m_.reseg.md: letters identical; 4 spacing difference(s) restored from the source — now identical (letters and spacing)
+[Na_3C9m_] ALL STEPS COMPLETED SUCCESSFULLY!
+[Na_3C9m_] DONE in 2058s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3C9m_.toc.md
+
+Finished. Failed: none

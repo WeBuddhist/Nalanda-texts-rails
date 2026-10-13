@@ -1,0 +1,47 @@
+[Ka_3CDZ] using closing-line tree closing-tree-Ka_3CDZ.md
+[Ka_3CDZ] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDZ\toc-tree-Ka_3CDZ.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDZ\toc-tree-Ka_3CDZ.json
+Parsed 38 nodes (4 frame), max depth 4.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDZ\toc-tree-Ka_3CDZ.json
+  depth  1: 22 nodes
+  depth  2: 4 nodes
+  depth  3: 2 nodes
+  depth  4: 10 nodes
+[Ka_3CDZ] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDZ\toc-tree-Ka_3CDZ.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDZ\Ka_3CDZ.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            38
+  Inserted:               38
+  Already present:        0
+  Blocks split at a node: 1 ['II']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDZ\Ka_3CDZ.toc.md
+[Ka_3CDZ] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDZ.toc.md
+[Ka_3CDZ] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ka_3CDZ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDZ.toc.md...
+Blocks: 3876 (headings: 39, content: 3837)
+Windows: 111
+Windows to process: 111 / 111
+Running 111 windows with 8 worker threads...
+  [115.8s] Window 4/111 done: 9 op(s)
+  [129.7s] Window 8/111 done: 9 op(s)
+  [145.2s] Window 3/111 done: 12 op(s)
+  [159.9s] Window 1/111 done: 6 op(s)
+  [175.2s] Window 7/111 done: 7 op(s)
+  [189.2s] Window 6/111 done: 9 op(s)
+  [190.9s] Window 2/111 done: 14 op(s)
+  [195.5s] Window 5/111 done: 9 op(s)
+  [32.6s] Window 13/111 done: 5 op(s)
+  [146.5s] Window 9/111 done: 8 op(s)
+  [132.4s] Window 11/111 done: 5 op(s)
+  [132.4s] Window 16/111 done: 6 op(s)
+  [153.8s] Window 14/111 done: 7 op(s)
+  [221.5s] Window 10/111 done: 3 op(s)
+  [91.6s] Window 19/111 done: 9 op(s)
+  [238.9s] Window 12/111 done: 5 op(s)
+  [212.2s] Window 15/111 done: 11 op(s)
+  [203.0s] Window 17/111 done: 10 op(s)

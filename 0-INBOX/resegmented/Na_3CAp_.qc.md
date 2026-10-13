@@ -1,0 +1,361 @@
+---
+source: Na_3CAp_
+skill: commentary-resegment
+stage: qc
+date: 2026-10-13
+model: gemini-3.8-flash
+repaired: true
+flags_before: 169
+flags_after: 168
+blocks_before: 1536
+blocks_after: 1535
+---
+
+# Block QC Report — Na_3CAp_
+
+## Flags found  (before repair)
+
+- Block 10 — **OVER_LENGTH** (391 syllables)  `ཞེས་བྱ་བ་ནི་གང་གིས་གདུལ་བའི་སེམས་ཅན་དབང་ཕྱུག་དང་། སྐྱེས་བུ་དང་། གཉི་ག་དང་། དུས་དང་། རང་བཞིན་དང་། ངེས་པ་དང་། ངོ་བོ་ཉིད་དང…`
+- Block 13 — **OVER_LENGTH** (286 syllables)  `ཡང་ན་འགག་པ་ཞེས་བྱ་བའི་མིང་ལ་དངོས་པོར་མངོན་པར་ཞེན་པ་རྣམས་ཀྱི་མངོན་པར་ཞེན་པ་དེ་སྤང་པའི་ཕྱིར་ཏེ། བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་…`
+- Block 31 — **OVER_LENGTH** (277 syllables)  `འདིར་བཤད་པ། མིང་དང་མིང་ཅན་དག་རབ་ཏུ་གྲུབ་ན་ནི་འགག་པ་ལ་སོགས་པ་དེ་དག་གི༌[^29]མིང་གི་ཁྱད་པར་དག་ཀྱང་རབ་ཏུ་འགྲུབ་པར་འགྱུར་གྲང་…`
+- Block 56 — **OVER_LENGTH** (279 syllables)  `དངོས་པོ་རྣམས་ཀྱི་ཞེས་བྱ་བ་ནི་ཆོས་རྣམས་ཀྱིའོ། །རང་བཞིན་ནི་ཞེས་བྱ་བ་ནི། རང་གི་དངོས་པོ་ནི་རང་བཞིན་ཏེ། བདག་ཉིད་ཀྱི་དངོས་པོ་ཞ…`
+- Block 60 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 65 — **CONNECTOR_ENDING**  `འདི་དག་ལ་བརྟེན་ནས་དངོས་པོ་རྣམས་སྐྱེ་བས་ན། དེའི་ཕྱིར་འདི་དག་རྐྱེན་དུ་སྟོན་ཅེས་གྲག་པས་དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 91 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 103 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 116 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 146 — **SHORT_FRAGMENT** (2 syllables)  `དེ༌[^125]ནི།`
+- Block 153 — **SHORT_FRAGMENT** (1 syllables)  `[^127] །`
+- Block 155 — **SHORT_FRAGMENT** (1 syllables)  `[^128] །`
+- Block 169 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 172 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 176 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 181 — **CONNECTOR_ENDING**  `གང་གི་ཚེ་ཅུང་ཟད་ཀྱང་མི་ལྟ་བ་ནི་ལྟ་བར་བྱེད་པ་མ་ཡིན་ནོ། །ལྟ་བས་ལྟ་བ༌[^153]བྱེད་ཅེས་བྱར་ཡང་། དེ་ཇི་ལྟར་རིགས་པར་འགྱུར་ཏེ།`
+- Block 206 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་གཟུགས་ནི་རྒྱུ་མེད་པ་ཡིན་པར་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 216 — **CONNECTOR_ENDING**  `ཚོར་བ་དང་འདུ་ཤེས་དང་འདུ་བྱེད་དང་། སེམས་ཀྱི་ཕུང་པོ་རྣམས་དང་། དངོས་པོ་ཐམས་ཅད་ཀྱང་རྣམ་པ་ཐམས་ཅད་དུ་རྒྱུ་དང་འབྲས་བུ་ལ་འཇུག་པ་…`
+- Block 226 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་གལ་ཏེ་ཡོད་པར་གྱུར་ན་སྔོན༌[^181]ཅིར་འགྱུར་སྙམ་དུ་སེམས་ན་དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 237 — **OVER_LENGTH** (253 syllables)  `མཚན་ཉིད་མེད་པའི་དོན་ལ་ཡང་མཚན་ཉིད་མི་འཇུག་སྟེ། དོན་གང་ལ་མཚན་ཉིད་འཇུག་པར་འགྱུར་བ་དེ་གང་ཡིན། ཅིའི་ཕྱིར་ཞེ་ན། འདི་ན༌[^185]གླ…`
+- Block 247 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 256 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 273 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 276 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་ལྷན་ཅིག་ཉིད་དུ་སྐྱེ་ན། སྐྱོན་ཅིར་འགྱུར་སྙམ་དུ་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 312 — **OVER_LENGTH** (612 syllables)  `འདི་ལ་ཆོས་གང་ཡང་རུང་བ་ཞིག་སྐྱེ་བ་ན་དེ་བདག་ཉིད་དང་བཅོ་ལྔ་སྐྱེ་སྟེ། རྣམ་པར་ཤེས་པའམ་ཚོར་བའམ་འདུ་ཤེས་ལ་སོགས་པ་ཆོས་དེ་དང་། ཆོ…`
+- Block 313 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 324 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 327 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 331 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 358 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 365 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 368 — **CONNECTOR_ENDING**  `ཡང་གཞན་ཡང་། ཁྱོད་ཀྱིས་སྔར་སྐྱེ་བས་སྐྱེ་བཞིན་པ་སྐྱེད་པར་བྱེད་དོ་ཞེས་གང་སྨྲས་པ་དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 371 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་སྐྱེ་བ་གཞན་ཞིག་གིས་སྐྱེ་བ་དེས༌[^284]སྐྱེད་པར་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 374 — **CONNECTOR_ENDING**  `ཅི་སྟེ་འདི་སྙམ་དུ་སྐྱེ་བཞིན་པ་སྐྱེད་པར་བྱེད་པའི་སྐྱེ་བ་དེ་ནི་སྐྱེད་པ༌[^287]གཞན་མེད་པ་ཁོ་ནར་སྐྱེས་པར་སེམས་ན། དེ་ལ་བཤད་པར་…`
+- Block 389 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 400 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 434 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 436 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 441 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 450 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 456 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 471 — **SHORT_FRAGMENT** (3 syllables)  `དེ་ལྟར་ན།`
+- Block 477 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 482 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 485 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 489 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 501 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 505 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 509 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 520 — **CONNECTOR_ENDING**  `ཅི་སྟེ༌[^372]འདི་སྙམ་དུ་མེ་དང་བུད་ཤིང་དག་གཞན་ཉིད་ཡིན་པར་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 526 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་ཅིའི་ཕྱིར་འབར་བྱེད་མེད་པའི་རྒྱུ་ལས་བྱུང་བ་དང་། རྩོམ་པ་དོན་མེད་པ་ཉིད་དུ་ཐལ་བར་འགྱུར་སྙམ་དུ་སེམས་ན། དེ་ལ་བ…`
+- Block 533 — **CONNECTOR_ENDING**  `འདིར་སྨྲས་པ། མེ་གཞན་ཡིན་ན་བུད་ཤིང་དང་མི་ཕྲད་པར་འགྱུར་རོ་ཞེས་གང་བཤད་པ་དེ་ལ་སྨྲ་བར་བྱ་སྟེ།`
+- Block 536 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 541 — **CONNECTOR_ENDING**  `གལ་ཏེ་བུད་ཤིང་ལ་ལྟོས་ནས་མེ་ཡིན་ལ། མེ་ལ་ལྟོས་ནས་བུད་ཤིང་ཡིན་ན་གང་ལ་ལྟོས་ནས་མེ་ཡིན་པར་འགྱུར་བའམ། བུད་ཤིང་ཡིན་པར་འགྱུར་བ་དེ…`
+- Block 557 — **CONNECTOR_ENDING**  `མེ་ནི་གཞན་ལས་མི་འོང་སྟེ་གཞན་ལས་འོང་བར་བརྟག་པ༌[^395]དེ་ཡང་བུད་ཤིང་དང་བཅས་པར་རམ་བུད་ཤིང་མེད་པར་འོང་བར་མི་འཐད་པའི་ཕྱིར་རོ། …`
+- Block 569 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད༌[^415]པ།`
+- Block 584 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 599 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 605 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 609 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 612 — **CONNECTOR_ENDING**  `གང་ཟག་གཞན་གྱིས་སྡུག་བསྔལ་བྱས་སོ་ཞེས་གང་སྨྲས་པ་དེ་ལ་ཡང་བཤད་པར་བྱ་སྟེ།`
+- Block 619 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 622 — **CONNECTOR_ENDING**  `སྡུག་བསྔལ་རྣམ་གྲངས་ལས་གཞན་གྱིས་བྱས་སོ་ཞེས་གང་སྨྲས་པ་དེ་ལ་ཡང་དཔྱད་པར་བྱ་སྟེ།`
+- Block 626 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 630 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 643 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 650 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 659 — **CONNECTOR_ENDING**  `ཅི་སྟེ་འདི་སྙམ་དུ་གཞན་ཞིག་གཞན་དུ་འགྱུར་བར་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 670 — **CONNECTOR_ENDING**  `བལྟ་བར་བྱ་བ་ནི་དབང་པོའི་དོན་ཏོ། །ལྟ་བ་ནི་དབང་པོའོ། །ལྟ་བ་པོ་ནི་བདག་གོ། །བལྟ་བར་བྱ་བ་དང་ལྟ་བ་དང་ལྟ་བ་པོ་གསུམ་པོ་དེ་དག་ནི་…`
+- Block 695 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 705 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 709 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 713 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 715 — **OBJECTION_REPLY_FUSED**  `གལ་ཏེ་དངོས་པོ་ཁས་བླངས་པ་དེ་རབ་ཏུ་མ་གྲུབ་ན། འོ་ན་དེ་ལྟ་ན་དངོས་པོ་མེད་པ་ཡང་རབ་ཏུ་འགྲུབ་པར་མི་འགྱུར་བ་མ་ཡིན་ནམ། ཅིའི་ཕྱིར་ཞ…`
+- Block 717 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 737 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 741 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 748 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 752 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 756 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 758 — **OBJECTION_REPLY_FUSED**  `གལ་ཏེ་ཉེ་བར་ལེན་པ་འཆིང་བ་ཡིན་པར་སེམས་ན། དེ་ལྟ་ན་ཉེ་བར་ལེན་པ་དང་བཅས་པ་ནི་འཆིང་བར་མི་འགྱུར་ཏེ། ཅིའི་ཕྱིར་ཞེ་ན། ཉེ་བར་ལེན་པ…`
+- Block 763 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་གལ་ཏེ་བཅིངས་པ་གྲོལ་བར༌[^534]འགྱུར་ན། དེས་སྐྱོན་ཅིར་འགྱུར་སྙམ་དུ་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 767 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 771 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 785 — **OVER_LENGTH** (298 syllables)  `ངག་ཅེས་བྱ་བ་ནི་ངག་གི་ལས་རྣམ་པ་བཞིའོ། །བསྐྱོད་པ་ཞེས་བྱ་བ་ནི་ལུས་ཀྱི་གཡོ་བ་རྣམ་པ་གསུམ་མོ། །མི་སྤོང་བའི་རྣམ་པར་རིག་བྱེད་མ་ཡ…`
+- Block 786 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 803 — **OBJECTION_REPLY_FUSED**  `འོ་ན་ཇི་ལྟ་བུར་འཐད་ཅེ་ན། སྨྲས་པ། སངས་རྒྱས་རྣམས་དང་རང་རྒྱལ་དང་། །ཉན་ཐོས་རྣམས་ཀྱིས་གང༌[^585]གསུངས་པ།[^586] །`
+- Block 820 — **CONNECTOR_ENDING**  `ཆུད་མི་ཟ་བ་དེ་ནི་འབྲས་བུ་འཕོས་པར་གྱུར་པ་དང་། ཤི་བར་གྱུར་ན་འགག་པར་འགྱུར་ཏེ། དེ་ལ་འབྲས་བུ་འཕོས་པར་གྱུར་པ་ནི་བསྒོམ་པས་སྤང་བ…`
+- Block 837 — **CONNECTOR_ENDING**  `ལས་མ་བྱས་པ་ལ་འབྲས་བུ་མྱོང་བ་ཡོད་པར་རྟོག་ན་སྐྱོན་འདིར་ཡང་འགྱུར་ཏེ།`
+- Block 853 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 857 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 864 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 889 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 898 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 910 — **OVER_LENGTH** (282 syllables)  `ཡང་ན་ཐམས་ཅད་ལ༌[^694]ཡང་དག་ཅེས་བྱ་བ་ནི། བཅོམ་ལྡན་འདས་ཀྱིས་ཉོན་མོངས་པའི་སྒྲིབ་པ་སྤང་པའི་ཕྱིར་ནང་དང་ཕྱི་རོལ་གྱི་སྐྱེ་མཆེད་བ…`
+- Block 915 — **CONNECTOR_ENDING**  `འདི་ཡང་དེ་ཁོ་ནའི་མཚན་ཉིད་གཞན་ཡིན་ཏེ།`
+- Block 917 — **CONNECTOR_ENDING**  `འདི་ལྟར་གང་ལ༌[^708]བརྟེན་ཏེ་གང་བྱུང་བ་དེ་མིན༌[^709]ཞིག་དེ་ཉིད་ཀྱང་མ་ཡིན་ལ། དེ་ལས་གཞན་པ་ཡང་མ་ཡིན་པའི་ཕྱིར་ཆད་པ་ཡང་མ་ཡིན་ལ…`
+- Block 924 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 927 — **OBJECTION_REPLY_FUSED**  `འདིར་སྨྲས་པ། ད་ལྟར་བྱུང་བ་དང་མ་འོངས་པ་དག་འདས་པའི་དུས་དེ་ན་ཡོད་པ་མ་ཡིན་ཏེ། འོ་ན་ཇི་ཞེ་ན། དེ་ལ་ལྟོས་ནས་འགྲུབ་པ་ཡིན་ནོ། །`
+- Block 928 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 932 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ། །`
+- Block 940 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 944 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 949 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 953 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 961 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 965 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 969 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 973 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 977 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 984 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 993 — **CONNECTOR_ENDING**  `འབྲས་བུ་འདས་པ་ནི་རྒྱུ་འདས་པ་དང་མ་སྐྱེས་པ་དང་ལྷན་ཅིག་ཕྲད་པར་འགྱུར་བ༌[^758]ནམ་ཡང་ཡོད་པ་མ་ཡིན་ཏེ། འདས་པ་དང་མ་འོངས་པ་དག་གིས༌…`
+- Block 995 — **CONNECTOR_ENDING**  `འབྲས་བུ་མ་སྐྱེས་པ་ནི་རྒྱུ་མ་སྐྱེས་པ་དང་འདས་པ་དང་ལྷན་ཅིག་ཕྲད་པར་འགྱུར་བ་ནམ་ཡང་ཡོད་པ་མ་ཡིན་ཏེ། འདས་པ་དང་མ་འོངས་པ་དག་གིས༌[^…`
+- Block 1022 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1033 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1038 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1042 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1059 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1072 — **CONNECTOR_ENDING**  `དེ་དག་མེད་ན་དུས་ལ་སོགས་པ་དག་ཡོད་པར་ག་ལ་འགྱུར་ཏེ།`
+- Block 1078 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1080 — **OVER_LENGTH** (343 syllables)  `གང་རྒྱུན་ཏུ་འཇིག་ཅིང་ཉི་མ་རེ་རེའི་སྐད་ཅིག་སྐད་ཅིག་ལ་ཟད་ཅིང་འབྲལ་བར་འགྱུར་བ་དེ་ནི་ཟད་པ་ཞེས་བྱ་སྟེ། ཆུ་བོའི་རྒྱུན་བཞིན་དུ་…`
+- Block 1082 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1104 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1117 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1121 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1125 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1127 — **OBJECTION_REPLY_FUSED**  `གལ་ཏེ་འགག་བཞིན་པ་དང་སྐྱེ་བཞིན་པ་ཞེས་བྱ་བ་དེ་གཉིས་དུས་གཅིག་ན་ཡོད་པ་མ་ཡིན་གྱི། འདི་ལྟར་སྲིད་པ་ཐ་མ་འགག༌[^847]བཞིན་པ་ན། སྲིད…`
+- Block 1132 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1134 — **OVER_LENGTH** (512 syllables)  `འདི་ལ་གལ་ཏེ་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་འགའ་ཞིག་ཡོད་པར་གྱུར་ན། དེ་ཕུང་པོ་རྣམས་ཉིད་དམ། ཕུང་པོ་རྣམས་ལས་གཞན་ནམ། དེ་ལ་ཕུང་པོ་རྣ…`
+- Block 1136 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1140 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1144 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1152 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1156 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1161 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1165 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1169 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1173 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1177 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1191 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1198 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1209 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1212 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1220 — **CONNECTOR_ENDING**  `ཅི་སྟེ་འདི་སྙམ་དུ་བདག་གང་ཡང་མེད་པར་ཉོན་མོངས་པ་རྣམས་ཡོད་པར་སེམས་ན་དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 1227 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1241 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1251 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1266 — **CONNECTOR_ENDING**  `གལ་ཏེ༌[^919]འདི་སྙམ་དུ་བདག་དང་སྡུག་པ་དང་རྟག་པ་དང་། བདེ་བ་ཞེས་བྱ་བ་བཞི་པོ་དེ་དག་ནི་ཡོད་པ་མ་ཡིན་གྱི་བདག་མེད་པ་ལ་སོགས་པ་བཞི…`
+- Block 1274 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་ཉོན་མོངས་པ་རྣམས༌[^926]ངོ་བོ་ཉིད་ཀྱིས་མེད་པ་ཡིན་ཏེ། ངོ་བོ་ཉིད་ཀྱིས་མེད་པ་དེ་དག་སྤོང་བར་སེམས་ན། དེ་ལ་བཤད་པ…`
+- Block 1279 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1294 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་སྨྲ་བར་འདོད་པའི་དོན༌[^934]ཆོས་ཐམས་ཅད་སྐྱེ་བ་མེད་པ་ཞེས་བྱ་བ་དོན་དམ་པའི་བདེན་པ་དེ༌[^935]ཉིད་ཡིན་ན། ཐ་སྙད་ཀ…`
+- Block 1361 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1365 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1368 — **OBJECTION_REPLY_FUSED**  `འོ་ན་ཇི་ལྟ་བུ་ཞེ་ན།`
+- Block 1381 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1391 — **SHORT_FRAGMENT** (2 syllables)  `བཤད་པ།`
+- Block 1398 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1404 — **CONNECTOR_ENDING**  `དེ་ནི་མི་འདོད་པས་དེའི་ཕྱིར་མྱ་ངན་ལས་འདས་པ་དངོས་པོ་དང་དངོས་པོ་མེད་པ་གཉི་ག་ཡིན་ནོ་ཞེས་བྱ་བ་དེ་རིགས་པ་མ་ཡིན་ཏེ། ཡང་གཞན་ཡང་།…`
+- Block 1408 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1412 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1429 — **SHORT_FRAGMENT** (2 syllables)  `དེ་ལ།`
+- Block 1436 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1448 — **SHORT_FRAGMENT** (1 syllables)  `[^1021] །`
+- Block 1467 — **CONNECTOR_ENDING**  `དེ་དག་ནི་མི་འཐད་དེ། རིགས་པ་གང་གིས་ཤེ་ན། བཤད་པར་བྱ་སྟེ།`
+- Block 1490 — **SHORT_FRAGMENT** (2 syllables)  `ད་ནི།`
+- Block 1510 — **CONNECTOR_ENDING**  `དེ་གཉིས་ཅིའི་ཕྱིར་མི་འཐད་ཅེ་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 1512 — **CONNECTOR_ENDING**  `གང་གི་ཕྱིར་ཕུང་པོ་རྣམས་ཀྱི་རྒྱུན་འདི་ནི་མར་མེའི་འོད་དང་མཚུངས་པར་རྒྱུ་དང་རྐྱེན་གྱིས༌[^1059]ཚོགས་པའི་དབང་གིས་འབྱུང་བ་དེའི་…`
+- Block 1519 — **CONNECTOR_ENDING**  `ད་ནི་འཇིག་རྟེན་མཐའ་ཡོད་ཀྱང་ཡོད་ལ་མཐའ་མེད་ཀྱང་མེད་ཅེས་བྱ་བ་དེ་ཡང་མི་འཐད་དོ།[^1060] །ཅིའི་ཕྱིར་ཞེ་ན། བཤད་པར་བྱ་སྟེ།`
+- Block 1525 — **CONNECTOR_ENDING**  `ད་ནི་འཇིག་རྟེན་མཐའ་ཡོད་པ་ཡང་མ་ཡིན་མཐའ་མེད་པ་ཡང་མ་ཡིན་ཞེས་བྱ་བ་དེ༌[^1063]ཡང་མི་འཐད་དེ། ཅིའི་ཕྱིར་ཞེ་ན། བཤད་པར་བྱ་སྟེ།`
+
+## Corrections applied
+
+- **MERGE** blocks [434, 435]
+
+## Flags remaining after repair
+
+- Block 10 — **OVER_LENGTH** (391 syllables)  `ཞེས་བྱ་བ་ནི་གང་གིས་གདུལ་བའི་སེམས་ཅན་དབང་ཕྱུག་དང་། སྐྱེས་བུ་དང་། གཉི་ག་དང་། དུས་དང་། རང་བཞིན་དང་། ངེས་པ་དང་། ངོ་བོ་ཉིད་དང…`
+- Block 13 — **OVER_LENGTH** (286 syllables)  `ཡང་ན་འགག་པ་ཞེས་བྱ་བའི་མིང་ལ་དངོས་པོར་མངོན་པར་ཞེན་པ་རྣམས་ཀྱི་མངོན་པར་ཞེན་པ་དེ་སྤང་པའི་ཕྱིར་ཏེ། བཅོམ་ལྡན་འདས་མ་ཤེས་རབ་ཀྱི་…`
+- Block 31 — **OVER_LENGTH** (277 syllables)  `འདིར་བཤད་པ། མིང་དང་མིང་ཅན་དག་རབ་ཏུ་གྲུབ་ན་ནི་འགག་པ་ལ་སོགས་པ་དེ་དག་གི༌[^29]མིང་གི་ཁྱད་པར་དག་ཀྱང་རབ་ཏུ་འགྲུབ་པར་འགྱུར་གྲང་…`
+- Block 56 — **OVER_LENGTH** (279 syllables)  `དངོས་པོ་རྣམས་ཀྱི་ཞེས་བྱ་བ་ནི་ཆོས་རྣམས་ཀྱིའོ། །རང་བཞིན་ནི་ཞེས་བྱ་བ་ནི། རང་གི་དངོས་པོ་ནི་རང་བཞིན་ཏེ། བདག་ཉིད་ཀྱི་དངོས་པོ་ཞ…`
+- Block 60 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 65 — **CONNECTOR_ENDING**  `འདི་དག་ལ་བརྟེན་ནས་དངོས་པོ་རྣམས་སྐྱེ་བས་ན། དེའི་ཕྱིར་འདི་དག་རྐྱེན་དུ་སྟོན་ཅེས་གྲག་པས་དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 91 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 103 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 116 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 146 — **SHORT_FRAGMENT** (2 syllables)  `དེ༌[^125]ནི།`
+- Block 153 — **SHORT_FRAGMENT** (1 syllables)  `[^127] །`
+- Block 155 — **SHORT_FRAGMENT** (1 syllables)  `[^128] །`
+- Block 169 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 172 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 176 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 181 — **CONNECTOR_ENDING**  `གང་གི་ཚེ་ཅུང་ཟད་ཀྱང་མི་ལྟ་བ་ནི་ལྟ་བར་བྱེད་པ་མ་ཡིན་ནོ། །ལྟ་བས་ལྟ་བ༌[^153]བྱེད་ཅེས་བྱར་ཡང་། དེ་ཇི་ལྟར་རིགས་པར་འགྱུར་ཏེ།`
+- Block 206 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་གཟུགས་ནི་རྒྱུ་མེད་པ་ཡིན་པར་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 216 — **CONNECTOR_ENDING**  `ཚོར་བ་དང་འདུ་ཤེས་དང་འདུ་བྱེད་དང་། སེམས་ཀྱི་ཕུང་པོ་རྣམས་དང་། དངོས་པོ་ཐམས་ཅད་ཀྱང་རྣམ་པ་ཐམས་ཅད་དུ་རྒྱུ་དང་འབྲས་བུ་ལ་འཇུག་པ་…`
+- Block 226 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་གལ་ཏེ་ཡོད་པར་གྱུར་ན་སྔོན༌[^181]ཅིར་འགྱུར་སྙམ་དུ་སེམས་ན་དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 237 — **OVER_LENGTH** (253 syllables)  `མཚན་ཉིད་མེད་པའི་དོན་ལ་ཡང་མཚན་ཉིད་མི་འཇུག་སྟེ། དོན་གང་ལ་མཚན་ཉིད་འཇུག་པར་འགྱུར་བ་དེ་གང་ཡིན། ཅིའི་ཕྱིར་ཞེ་ན། འདི་ན༌[^185]གླ…`
+- Block 247 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 256 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 273 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 276 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་ལྷན་ཅིག་ཉིད་དུ་སྐྱེ་ན། སྐྱོན་ཅིར་འགྱུར་སྙམ་དུ་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 312 — **OVER_LENGTH** (612 syllables)  `འདི་ལ་ཆོས་གང་ཡང་རུང་བ་ཞིག་སྐྱེ་བ་ན་དེ་བདག་ཉིད་དང་བཅོ་ལྔ་སྐྱེ་སྟེ། རྣམ་པར་ཤེས་པའམ་ཚོར་བའམ་འདུ་ཤེས་ལ་སོགས་པ་ཆོས་དེ་དང་། ཆོ…`
+- Block 313 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 324 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 327 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 331 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 358 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 365 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 368 — **CONNECTOR_ENDING**  `ཡང་གཞན་ཡང་། ཁྱོད་ཀྱིས་སྔར་སྐྱེ་བས་སྐྱེ་བཞིན་པ་སྐྱེད་པར་བྱེད་དོ་ཞེས་གང་སྨྲས་པ་དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 371 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་སྐྱེ་བ་གཞན་ཞིག་གིས་སྐྱེ་བ་དེས༌[^284]སྐྱེད་པར་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 374 — **CONNECTOR_ENDING**  `ཅི་སྟེ་འདི་སྙམ་དུ་སྐྱེ་བཞིན་པ་སྐྱེད་པར་བྱེད་པའི་སྐྱེ་བ་དེ་ནི་སྐྱེད་པ༌[^287]གཞན་མེད་པ་ཁོ་ནར་སྐྱེས་པར་སེམས་ན། དེ་ལ་བཤད་པར་…`
+- Block 389 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 400 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 435 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 440 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 449 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 455 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 470 — **SHORT_FRAGMENT** (3 syllables)  `དེ་ལྟར་ན།`
+- Block 476 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 481 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 484 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 488 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 500 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 504 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 508 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 519 — **CONNECTOR_ENDING**  `ཅི་སྟེ༌[^372]འདི་སྙམ་དུ་མེ་དང་བུད་ཤིང་དག་གཞན་ཉིད་ཡིན་པར་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 525 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་ཅིའི་ཕྱིར་འབར་བྱེད་མེད་པའི་རྒྱུ་ལས་བྱུང་བ་དང་། རྩོམ་པ་དོན་མེད་པ་ཉིད་དུ་ཐལ་བར་འགྱུར་སྙམ་དུ་སེམས་ན། དེ་ལ་བ…`
+- Block 532 — **CONNECTOR_ENDING**  `འདིར་སྨྲས་པ། མེ་གཞན་ཡིན་ན་བུད་ཤིང་དང་མི་ཕྲད་པར་འགྱུར་རོ་ཞེས་གང་བཤད་པ་དེ་ལ་སྨྲ་བར་བྱ་སྟེ།`
+- Block 535 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 540 — **CONNECTOR_ENDING**  `གལ་ཏེ་བུད་ཤིང་ལ་ལྟོས་ནས་མེ་ཡིན་ལ། མེ་ལ་ལྟོས་ནས་བུད་ཤིང་ཡིན་ན་གང་ལ་ལྟོས་ནས་མེ་ཡིན་པར་འགྱུར་བའམ། བུད་ཤིང་ཡིན་པར་འགྱུར་བ་དེ…`
+- Block 556 — **CONNECTOR_ENDING**  `མེ་ནི་གཞན་ལས་མི་འོང་སྟེ་གཞན་ལས་འོང་བར་བརྟག་པ༌[^395]དེ་ཡང་བུད་ཤིང་དང་བཅས་པར་རམ་བུད་ཤིང་མེད་པར་འོང་བར་མི་འཐད་པའི་ཕྱིར་རོ། …`
+- Block 568 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད༌[^415]པ།`
+- Block 583 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 598 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 604 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 608 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 611 — **CONNECTOR_ENDING**  `གང་ཟག་གཞན་གྱིས་སྡུག་བསྔལ་བྱས་སོ་ཞེས་གང་སྨྲས་པ་དེ་ལ་ཡང་བཤད་པར་བྱ་སྟེ།`
+- Block 618 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 621 — **CONNECTOR_ENDING**  `སྡུག་བསྔལ་རྣམ་གྲངས་ལས་གཞན་གྱིས་བྱས་སོ་ཞེས་གང་སྨྲས་པ་དེ་ལ་ཡང་དཔྱད་པར་བྱ་སྟེ།`
+- Block 625 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 629 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 642 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 649 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 658 — **CONNECTOR_ENDING**  `ཅི་སྟེ་འདི་སྙམ་དུ་གཞན་ཞིག་གཞན་དུ་འགྱུར་བར་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 669 — **CONNECTOR_ENDING**  `བལྟ་བར་བྱ་བ་ནི་དབང་པོའི་དོན་ཏོ། །ལྟ་བ་ནི་དབང་པོའོ། །ལྟ་བ་པོ་ནི་བདག་གོ། །བལྟ་བར་བྱ་བ་དང་ལྟ་བ་དང་ལྟ་བ་པོ་གསུམ་པོ་དེ་དག་ནི་…`
+- Block 694 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 704 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 708 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 712 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 714 — **OBJECTION_REPLY_FUSED**  `གལ་ཏེ་དངོས་པོ་ཁས་བླངས་པ་དེ་རབ་ཏུ་མ་གྲུབ་ན། འོ་ན་དེ་ལྟ་ན་དངོས་པོ་མེད་པ་ཡང་རབ་ཏུ་འགྲུབ་པར་མི་འགྱུར་བ་མ་ཡིན་ནམ། ཅིའི་ཕྱིར་ཞ…`
+- Block 716 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 736 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 740 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 747 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 751 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 755 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 757 — **OBJECTION_REPLY_FUSED**  `གལ་ཏེ་ཉེ་བར་ལེན་པ་འཆིང་བ་ཡིན་པར་སེམས་ན། དེ་ལྟ་ན་ཉེ་བར་ལེན་པ་དང་བཅས་པ་ནི་འཆིང་བར་མི་འགྱུར་ཏེ། ཅིའི་ཕྱིར་ཞེ་ན། ཉེ་བར་ལེན་པ…`
+- Block 762 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་གལ་ཏེ་བཅིངས་པ་གྲོལ་བར༌[^534]འགྱུར་ན། དེས་སྐྱོན་ཅིར་འགྱུར་སྙམ་དུ་སེམས་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 766 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 770 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 784 — **OVER_LENGTH** (298 syllables)  `ངག་ཅེས་བྱ་བ་ནི་ངག་གི་ལས་རྣམ་པ་བཞིའོ། །བསྐྱོད་པ་ཞེས་བྱ་བ་ནི་ལུས་ཀྱི་གཡོ་བ་རྣམ་པ་གསུམ་མོ། །མི་སྤོང་བའི་རྣམ་པར་རིག་བྱེད་མ་ཡ…`
+- Block 785 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 802 — **OBJECTION_REPLY_FUSED**  `འོ་ན་ཇི་ལྟ་བུར་འཐད་ཅེ་ན། སྨྲས་པ། སངས་རྒྱས་རྣམས་དང་རང་རྒྱལ་དང་། །ཉན་ཐོས་རྣམས་ཀྱིས་གང༌[^585]གསུངས་པ།[^586] །`
+- Block 819 — **CONNECTOR_ENDING**  `ཆུད་མི་ཟ་བ་དེ་ནི་འབྲས་བུ་འཕོས་པར་གྱུར་པ་དང་། ཤི་བར་གྱུར་ན་འགག་པར་འགྱུར་ཏེ། དེ་ལ་འབྲས་བུ་འཕོས་པར་གྱུར་པ་ནི་བསྒོམ་པས་སྤང་བ…`
+- Block 836 — **CONNECTOR_ENDING**  `ལས་མ་བྱས་པ་ལ་འབྲས་བུ་མྱོང་བ་ཡོད་པར་རྟོག་ན་སྐྱོན་འདིར་ཡང་འགྱུར་ཏེ།`
+- Block 852 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 856 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 863 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 888 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 897 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 909 — **OVER_LENGTH** (282 syllables)  `ཡང་ན་ཐམས་ཅད་ལ༌[^694]ཡང་དག་ཅེས་བྱ་བ་ནི། བཅོམ་ལྡན་འདས་ཀྱིས་ཉོན་མོངས་པའི་སྒྲིབ་པ་སྤང་པའི་ཕྱིར་ནང་དང་ཕྱི་རོལ་གྱི་སྐྱེ་མཆེད་བ…`
+- Block 914 — **CONNECTOR_ENDING**  `འདི་ཡང་དེ་ཁོ་ནའི་མཚན་ཉིད་གཞན་ཡིན་ཏེ།`
+- Block 916 — **CONNECTOR_ENDING**  `འདི་ལྟར་གང་ལ༌[^708]བརྟེན་ཏེ་གང་བྱུང་བ་དེ་མིན༌[^709]ཞིག་དེ་ཉིད་ཀྱང་མ་ཡིན་ལ། དེ་ལས་གཞན་པ་ཡང་མ་ཡིན་པའི་ཕྱིར་ཆད་པ་ཡང་མ་ཡིན་ལ…`
+- Block 923 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 926 — **OBJECTION_REPLY_FUSED**  `འདིར་སྨྲས་པ། ད་ལྟར་བྱུང་བ་དང་མ་འོངས་པ་དག་འདས་པའི་དུས་དེ་ན་ཡོད་པ་མ་ཡིན་ཏེ། འོ་ན་ཇི་ཞེ་ན། དེ་ལ་ལྟོས་ནས་འགྲུབ་པ་ཡིན་ནོ། །`
+- Block 927 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 931 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ། །`
+- Block 939 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 943 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 948 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 952 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 960 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 964 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 968 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 972 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 976 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 983 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 992 — **CONNECTOR_ENDING**  `འབྲས་བུ་འདས་པ་ནི་རྒྱུ་འདས་པ་དང་མ་སྐྱེས་པ་དང་ལྷན་ཅིག་ཕྲད་པར་འགྱུར་བ༌[^758]ནམ་ཡང་ཡོད་པ་མ་ཡིན་ཏེ། འདས་པ་དང་མ་འོངས་པ་དག་གིས༌…`
+- Block 994 — **CONNECTOR_ENDING**  `འབྲས་བུ་མ་སྐྱེས་པ་ནི་རྒྱུ་མ་སྐྱེས་པ་དང་འདས་པ་དང་ལྷན་ཅིག་ཕྲད་པར་འགྱུར་བ་ནམ་ཡང་ཡོད་པ་མ་ཡིན་ཏེ། འདས་པ་དང་མ་འོངས་པ་དག་གིས༌[^…`
+- Block 1021 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1032 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1037 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1041 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1058 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1071 — **CONNECTOR_ENDING**  `དེ་དག་མེད་ན་དུས་ལ་སོགས་པ་དག་ཡོད་པར་ག་ལ་འགྱུར་ཏེ།`
+- Block 1077 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1079 — **OVER_LENGTH** (343 syllables)  `གང་རྒྱུན་ཏུ་འཇིག་ཅིང་ཉི་མ་རེ་རེའི་སྐད་ཅིག་སྐད་ཅིག་ལ་ཟད་ཅིང་འབྲལ་བར་འགྱུར་བ་དེ་ནི་ཟད་པ་ཞེས་བྱ་སྟེ། ཆུ་བོའི་རྒྱུན་བཞིན་དུ་…`
+- Block 1081 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1103 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1116 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1120 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1124 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1126 — **OBJECTION_REPLY_FUSED**  `གལ་ཏེ་འགག་བཞིན་པ་དང་སྐྱེ་བཞིན་པ་ཞེས་བྱ་བ་དེ་གཉིས་དུས་གཅིག་ན་ཡོད་པ་མ་ཡིན་གྱི། འདི་ལྟར་སྲིད་པ་ཐ་མ་འགག༌[^847]བཞིན་པ་ན། སྲིད…`
+- Block 1131 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1133 — **OVER_LENGTH** (512 syllables)  `འདི་ལ་གལ་ཏེ་དེ་བཞིན་གཤེགས་པ་ཞེས་བྱ་བ་འགའ་ཞིག་ཡོད་པར་གྱུར་ན། དེ་ཕུང་པོ་རྣམས་ཉིད་དམ། ཕུང་པོ་རྣམས་ལས་གཞན་ནམ། དེ་ལ་ཕུང་པོ་རྣ…`
+- Block 1135 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1139 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1143 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1151 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1155 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1160 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1164 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1168 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1172 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1176 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1190 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1197 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1208 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1211 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1219 — **CONNECTOR_ENDING**  `ཅི་སྟེ་འདི་སྙམ་དུ་བདག་གང་ཡང་མེད་པར་ཉོན་མོངས་པ་རྣམས་ཡོད་པར་སེམས་ན་དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 1226 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1240 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1250 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1265 — **CONNECTOR_ENDING**  `གལ་ཏེ༌[^919]འདི་སྙམ་དུ་བདག་དང་སྡུག་པ་དང་རྟག་པ་དང་། བདེ་བ་ཞེས་བྱ་བ་བཞི་པོ་དེ་དག་ནི་ཡོད་པ་མ་ཡིན་གྱི་བདག་མེད་པ་ལ་སོགས་པ་བཞི…`
+- Block 1273 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་ཉོན་མོངས་པ་རྣམས༌[^926]ངོ་བོ་ཉིད་ཀྱིས་མེད་པ་ཡིན་ཏེ། ངོ་བོ་ཉིད་ཀྱིས་མེད་པ་དེ་དག་སྤོང་བར་སེམས་ན། དེ་ལ་བཤད་པ…`
+- Block 1278 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1293 — **CONNECTOR_ENDING**  `དེ་ལ་འདི་སྙམ་དུ་སྨྲ་བར་འདོད་པའི་དོན༌[^934]ཆོས་ཐམས་ཅད་སྐྱེ་བ་མེད་པ་ཞེས་བྱ་བ་དོན་དམ་པའི་བདེན་པ་དེ༌[^935]ཉིད་ཡིན་ན། ཐ་སྙད་ཀ…`
+- Block 1360 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་སྨྲས་པ།`
+- Block 1364 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1367 — **OBJECTION_REPLY_FUSED**  `འོ་ན་ཇི་ལྟ་བུ་ཞེ་ན།`
+- Block 1380 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1390 — **SHORT_FRAGMENT** (2 syllables)  `བཤད་པ།`
+- Block 1397 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1403 — **CONNECTOR_ENDING**  `དེ་ནི་མི་འདོད་པས་དེའི་ཕྱིར་མྱ་ངན་ལས་འདས་པ་དངོས་པོ་དང་དངོས་པོ་མེད་པ་གཉི་ག་ཡིན་ནོ་ཞེས་བྱ་བ་དེ་རིགས་པ་མ་ཡིན་ཏེ། ཡང་གཞན་ཡང་།…`
+- Block 1407 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1411 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1428 — **SHORT_FRAGMENT** (2 syllables)  `དེ་ལ།`
+- Block 1435 — **SHORT_FRAGMENT** (3 syllables)  `འདིར་བཤད་པ།`
+- Block 1447 — **SHORT_FRAGMENT** (1 syllables)  `[^1021] །`
+- Block 1466 — **CONNECTOR_ENDING**  `དེ་དག་ནི་མི་འཐད་དེ། རིགས་པ་གང་གིས་ཤེ་ན། བཤད་པར་བྱ་སྟེ།`
+- Block 1489 — **SHORT_FRAGMENT** (2 syllables)  `ད་ནི།`
+- Block 1509 — **CONNECTOR_ENDING**  `དེ་གཉིས་ཅིའི་ཕྱིར་མི་འཐད་ཅེ་ན། དེ་ལ་བཤད་པར་བྱ་སྟེ།`
+- Block 1511 — **CONNECTOR_ENDING**  `གང་གི་ཕྱིར་ཕུང་པོ་རྣམས་ཀྱི་རྒྱུན་འདི་ནི་མར་མེའི་འོད་དང་མཚུངས་པར་རྒྱུ་དང་རྐྱེན་གྱིས༌[^1059]ཚོགས་པའི་དབང་གིས་འབྱུང་བ་དེའི་…`
+- Block 1518 — **CONNECTOR_ENDING**  `ད་ནི་འཇིག་རྟེན་མཐའ་ཡོད་ཀྱང་ཡོད་ལ་མཐའ་མེད་ཀྱང་མེད་ཅེས་བྱ་བ་དེ་ཡང་མི་འཐད་དོ།[^1060] །ཅིའི་ཕྱིར་ཞེ་ན། བཤད་པར་བྱ་སྟེ།`
+- Block 1524 — **CONNECTOR_ENDING**  `ད་ནི་འཇིག་རྟེན་མཐའ་ཡོད་པ་ཡང་མ་ཡིན་མཐའ་མེད་པ་ཡང་མ་ཡིན་ཞེས་བྱ་བ་དེ༌[^1063]ཡང་མི་འཐད་དེ། ཅིའི་ཕྱིར་ཞེ་ན། བཤད་པར་བྱ་སྟེ།`

@@ -1,0 +1,20 @@
+C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Sh_3CCw__in.md: 169 segments, 0 flagged for Stage-2 review.
+Quote balance: 0 quote-open / 0 quote-close -> OK
+Report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Sh_3CCw_.segreport.tsv
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Sh_3CCw__out.md
+10 | 163 |
+| Heading lines | 1 | 1 |
+| Block IDs | 0 | 0 |
+| Block size min / median / max (syllables) | 332 / 459 / 690 | 3 / 26 / 89 |
+| Footnote definitions | 54 | 54 |
+
+## Text content: ✓ IDENTICAL
+
+Every syllable, shad and footnote marker of the source is present in the final file, in the same order; only structure (headings, IDs, line breaks) differs.
+
+
+## Footnotes: ✓ OK
+
+
+## Result: ✓ PASS
+[Sh_3CCw_] PASSED=True

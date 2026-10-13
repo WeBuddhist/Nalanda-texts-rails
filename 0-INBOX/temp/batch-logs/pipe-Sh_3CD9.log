@@ -1,0 +1,47 @@
+[Sh_3CD9] using closing-line tree closing-tree-Sh_3CD9.md
+[Sh_3CD9] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CD9\toc-tree-Sh_3CD9.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CD9\toc-tree-Sh_3CD9.json
+Parsed 90 nodes (4 frame), max depth 4.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CD9\toc-tree-Sh_3CD9.json
+  depth  1: 3 nodes
+  depth  2: 78 nodes
+  depth  3: 4 nodes
+  depth  4: 5 nodes
+[Sh_3CD9] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CD9\toc-tree-Sh_3CD9.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Sh_3CD9\Sh_3CD9.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            90
+  Inserted:               90
+  Already present:        0
+  Blocks split at a node: 12 ['1.5', '1.8', '1.11', '1.16', '1.23', '1.25.3', '1.36', '1.51', '1.60', '1.70', '1.73', '1.76']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Sh_3CD9\Sh_3CD9.toc.md
+[Sh_3CD9] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Sh_3CD9.toc.md
+[Sh_3CD9] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Sh_3CD9 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Sh_3CD9.toc.md...
+Blocks: 1046 (headings: 91, content: 955)
+Windows: 30
+Windows to process: 30 / 30
+Running 30 windows with 8 worker threads...
+  [75.7s] Window 8/30 done: 7 op(s)
+  [78.6s] Window 3/30 done: 3 op(s)
+  [92.6s] Window 2/30 done: 4 op(s)
+  [112.6s] Window 7/30 done: 5 op(s)
+  [161.0s] Window 1/30 done: 6 op(s)
+  [86.0s] Window 10/30 done: 8 op(s)
+  [165.3s] Window 4/30 done: 10 op(s)
+  [242.9s] Window 6/30 done: 8 op(s)
+  [84.7s] Window 15/30 done: 9 op(s)
+  [164.2s] Window 11/30 done: 6 op(s)
+  [111.0s] Window 14/30 done: 7 op(s)
+  [295.7s] Window 5/30 done: 8 op(s)
+  [204.1s] Window 12/30 done: 10 op(s)
+  [166.6s] Window 13/30 done: 12 op(s)
+  [258.5s] Window 9/30 done: 5 op(s)
+  [76.1s] Window 19/30 done: 5 op(s)
+  [96.5s] Window 18/30 done: 10 op(s)
+  [122.4s] Window 16/30 done: 7 op(s)

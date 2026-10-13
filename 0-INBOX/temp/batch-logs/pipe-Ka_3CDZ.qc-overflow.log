@@ -1,0 +1,319 @@
+[Ka_3CDZ] using closing-line tree closing-tree-Ka_3CDZ.md
+[Ka_3CDZ] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDZ\toc-tree-Ka_3CDZ.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDZ\toc-tree-Ka_3CDZ.json
+Parsed 38 nodes (4 frame), max depth 4.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDZ\toc-tree-Ka_3CDZ.json
+  depth  1: 22 nodes
+  depth  2: 4 nodes
+  depth  3: 2 nodes
+  depth  4: 10 nodes
+[Ka_3CDZ] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Ka_3CDZ\toc-tree-Ka_3CDZ.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDZ\Ka_3CDZ.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            38
+  Inserted:               38
+  Already present:        0
+  Blocks split at a node: 1 ['II']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Ka_3CDZ\Ka_3CDZ.toc.md
+[Ka_3CDZ] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Ka_3CDZ.toc.md
+[Ka_3CDZ] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Ka_3CDZ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Ka_3CDZ.toc.md...
+Blocks: 3876 (headings: 39, content: 3837)
+Windows: 111
+Windows to process: 93 / 111
+Running 93 windows with 8 worker threads...
+  [119.4s] Window 20/111 done: 9 op(s)
+  [147.6s] Window 24/111 done: 9 op(s)
+  [149.1s] Window 25/111 done: 7 op(s)
+  [161.6s] Window 23/111 done: 11 op(s)
+  [186.8s] Window 18/111 done: 10 op(s)
+  [211.2s] Window 26/111 done: 11 op(s)
+  [222.4s] Window 21/111 done: 11 op(s)
+  [240.9s] Window 22/111 done: 9 op(s)
+  [112.1s] Window 29/111 done: 11 op(s)
+  [168.1s] Window 27/111 done: 12 op(s)
+  [139.9s] Window 28/111 done: 12 op(s)
+  [135.8s] Window 30/111 done: 11 op(s)
+  [131.1s] Window 31/111 done: 7 op(s)
+  [110.5s] Window 34/111 done: 9 op(s)
+  [69.4s] Window 38/111 done: 6 op(s)
+  [153.4s] Window 33/111 done: 10 op(s)
+  [147.0s] Window 37/111 done: 11 op(s)
+  [223.5s] Window 32/111 done: 11 op(s)
+  [118.0s] Window 39/111 done: 9 op(s)
+  [84.5s] Window 40/111 done: 8 op(s)
+  [203.8s] Window 35/111 done: 9 op(s)
+  [181.4s] Window 36/111 done: 8 op(s)
+  [154.1s] Window 41/111 done: 9 op(s)
+  [148.8s] Window 42/111 done: 15 op(s)
+  [96.1s] Window 46/111 done: 8 op(s)
+  [113.7s] Window 44/111 done: 9 op(s)
+  [106.1s] Window 48/111 done: 10 op(s)
+  [98.6s] Window 50/111 done: 10 op(s)
+  [208.5s] Window 43/111 done: 11 op(s)
+  [212.8s] Window 45/111 done: 11 op(s)
+  [138.4s] Window 51/111 done: 11 op(s)
+  [213.8s] Window 47/111 done: 10 op(s)
+  [162.2s] Window 49/111 done: 12 op(s)
+  [130.6s] Window 53/111 done: 9 op(s)
+  [212.5s] Window 52/111 done: 10 op(s)
+  [142.2s] Window 55/111 done: 9 op(s)
+  [132.5s] Window 57/111 done: 12 op(s)
+  [106.0s] Window 60/111 done: 8 op(s)
+  [193.7s] Window 54/111 done: 13 op(s)
+  [171.1s] Window 56/111 done: 12 op(s)
+  [160.8s] Window 58/111 done: 13 op(s)
+  [87.6s] Window 62/111 done: 9 op(s)
+  [119.4s] Window 66/111 done: 8 op(s)
+  [125.4s] Window 67/111 done: 8 op(s)
+  [170.1s] Window 64/111 done: 13 op(s)
+  [173.6s] Window 65/111 done: 14 op(s)
+  [344.7s] Window 59/111 done: 9 op(s)
+  [169.2s] Window 68/111 done: 8 op(s)
+  [313.4s] Window 61/111 done: 12 op(s)
+  [91.6s] Window 72/111 done: 6 op(s)
+  [167.1s] Window 69/111 done: 5 op(s)
+  [106.5s] Window 73/111 done: 9 op(s)
+  [331.4s] Window 63/111 done: 14 op(s)
+  [176.5s] Window 71/111 done: 10 op(s)
+  [85.0s] Window 76/111 done: 10 op(s)
+  [134.2s] Window 74/111 done: 11 op(s)
+  [247.6s] Window 70/111 done: 10 op(s)
+  [72.0s] Window 81/111 done: 8 op(s)
+  [119.2s] Window 79/111 done: 8 op(s)
+  [220.8s] Window 75/111 done: 10 op(s)
+  [141.1s] Window 82/111 done: 13 op(s)
+  [191.0s] Window 78/111 done: 7 op(s)
+  [183.5s] Window 80/111 done: 9 op(s)
+  [242.2s] Window 77/111 done: 10 op(s)
+  [142.7s] Window 83/111 done: 11 op(s)
+  [117.1s] Window 84/111 done: 8 op(s)
+  [152.5s] Window 85/111 done: 10 op(s)
+  [83.7s] Window 89/111 done: 9 op(s)
+  [150.2s] Window 86/111 done: 12 op(s)
+  [137.6s] Window 87/111 done: 6 op(s)
+  [165.6s] Window 88/111 done: 7 op(s)
+  [149.4s] Window 91/111 done: 9 op(s)
+  [80.7s] Window 95/111 done: 4 op(s)
+  [172.5s] Window 92/111 done: 10 op(s)
+  [203.6s] Window 90/111 done: 8 op(s)
+  [157.9s] Window 94/111 done: 11 op(s)
+  [180.0s] Window 93/111 done: 11 op(s)
+  [103.6s] Window 99/111 done: 7 op(s)
+  [180.2s] Window 96/111 done: 12 op(s)
+  [101.6s] Window 101/111 done: 10 op(s)
+  [138.6s] Window 100/111 done: 10 op(s)
+  [177.1s] Window 97/111 done: 7 op(s)
+  [176.5s] Window 98/111 done: 9 op(s)
+  [157.5s] Window 103/111 done: 8 op(s)
+  [126.0s] Window 105/111 done: 13 op(s)
+  [121.3s] Window 107/111 done: 14 op(s)
+  [165.9s] Window 104/111 done: 12 op(s)
+  [144.7s] Window 106/111 done: 5 op(s)
+  [235.6s] Window 102/111 done: 12 op(s)
+  [93.3s] Window 111/111 done: 7 op(s)
+  [220.8s] Window 108/111 done: 11 op(s)
+  [259.5s] Window 109/111 done: 10 op(s)
+  [198.9s] Window 110/111 done: 13 op(s)
+
+Combining operations...
+Operations to apply: 910
+  ! split block 1445: substring not found: 'དཔེ་འདི་སྟོང་པ་ཉིད་ཡིན་ནོ།'; keeping block whole
+Blocks: 3876 -> 1808
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDZ.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDZ.ops.md
+[Ka_3CDZ] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDZ.reseg.md --commentary-id Ka_3CDZ
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDZ.reseg.md
+ID:     Ka_3CDZ
+
+Blocks: 1808
+
+Step 1 — Deterministic checks...
+  175 flag(s) found.
+  Block 25 — OBJECTION_REPLY_FUSED
+  Block 27 — CONNECTOR_ENDING
+  Block 57 — OBJECTION_REPLY_FUSED
+  Block 59 — OVER_LENGTH (255 syl)
+  Block 67 — OVER_LENGTH (311 syl)
+  Block 73 — OVER_LENGTH (253 syl)
+  Block 77 — OVER_LENGTH (272 syl)
+  Block 100 — OVER_LENGTH (366 syl)
+  Block 111 — SHORT_FRAGMENT (3 syl)
+  Block 152 — OVER_LENGTH (287 syl)
+  Block 157 — OVER_LENGTH (392 syl)
+  Block 158 — SHORT_FRAGMENT (3 syl)
+  Block 160 — SHORT_FRAGMENT (3 syl)
+  Block 163 — OVER_LENGTH (459 syl)
+  Block 173 — OVER_LENGTH (276 syl)
+  Block 179 — OBJECTION_REPLY_FUSED
+  Block 179 — OVER_LENGTH (473 syl)
+  Block 189 — OVER_LENGTH (346 syl)
+  Block 200 — SHORT_FRAGMENT (3 syl)
+  Block 204 — SHORT_FRAGMENT (3 syl)
+  Block 211 — OBJECTION_REPLY_FUSED
+  Block 218 — OVER_LENGTH (379 syl)
+  Block 219 — OBJECTION_REPLY_FUSED
+  Block 225 — SHORT_FRAGMENT (3 syl)
+  Block 238 — OBJECTION_REPLY_FUSED
+  Block 238 — OVER_LENGTH (258 syl)
+  Block 244 — OBJECTION_REPLY_FUSED
+  Block 250 — SHORT_FRAGMENT (3 syl)
+  Block 257 — OVER_LENGTH (272 syl)
+  Block 263 — SHORT_FRAGMENT (3 syl)
+  Block 266 — OVER_LENGTH (255 syl)
+  Block 267 — OVER_LENGTH (296 syl)
+  Block 272 — OVER_LENGTH (260 syl)
+  Block 287 — OBJECTION_REPLY_FUSED
+  Block 290 — OBJECTION_REPLY_FUSED
+  Block 295 — OBJECTION_REPLY_FUSED
+  Block 295 — OVER_LENGTH (338 syl)
+  Block 296 — OVER_LENGTH (281 syl)
+  Block 335 — OVER_LENGTH (286 syl)
+  Block 361 — OBJECTION_REPLY_FUSED
+  Block 369 — OBJECTION_REPLY_FUSED
+  Block 382 — OBJECTION_REPLY_FUSED
+  Block 406 — OBJECTION_REPLY_FUSED
+  Block 440 — OBJECTION_REPLY_FUSED
+  Block 450 — CONNECTOR_ENDING
+  Block 455 — OBJECTION_REPLY_FUSED
+  Block 461 — OVER_LENGTH (253 syl)
+  Block 462 — OBJECTION_REPLY_FUSED
+  Block 465 — OBJECTION_REPLY_FUSED
+  Block 469 — OVER_LENGTH (272 syl)
+  Block 475 — SHORT_FRAGMENT (3 syl)
+  Block 483 — SHORT_FRAGMENT (3 syl)
+  Block 490 — CONNECTOR_ENDING
+  Block 496 — OBJECTION_REPLY_FUSED
+  Block 504 — SHORT_FRAGMENT (3 syl)
+  Block 526 — SHORT_FRAGMENT (3 syl)
+  Block 536 — OBJECTION_REPLY_FUSED
+  Block 546 — OBJECTION_REPLY_FUSED
+  Block 584 — OBJECTION_REPLY_FUSED
+  Block 595 — OBJECTION_REPLY_FUSED
+  Block 601 — OVER_LENGTH (271 syl)
+  Block 603 — OBJECTION_REPLY_FUSED
+  Block 603 — OVER_LENGTH (311 syl)
+  Block 637 — OVER_LENGTH (308 syl)
+  Block 666 — OBJECTION_REPLY_FUSED
+  Block 682 — OBJECTION_REPLY_FUSED
+  Block 688 — OBJECTION_REPLY_FUSED
+  Block 689 — OBJECTION_REPLY_FUSED
+  Block 689 — OVER_LENGTH (252 syl)
+  Block 693 — SHORT_FRAGMENT (3 syl)
+  Block 703 — OBJECTION_REPLY_FUSED
+  Block 717 — OBJECTION_REPLY_FUSED
+  Block 718 — OBJECTION_REPLY_FUSED
+  Block 721 — OBJECTION_REPLY_FUSED
+  Block 734 — SHORT_FRAGMENT (3 syl)
+  Block 738 — OBJECTION_REPLY_FUSED
+  Block 743 — SHORT_FRAGMENT (3 syl)
+  Block 752 — OBJECTION_REPLY_FUSED
+  Block 774 — SHORT_FRAGMENT (3 syl)
+  Block 796 — OVER_LENGTH (316 syl)
+  Block 816 — OBJECTION_REPLY_FUSED
+  Block 826 — SHORT_FRAGMENT (3 syl)
+  Block 833 — OBJECTION_REPLY_FUSED
+  Block 834 — OBJECTION_REPLY_FUSED
+  Block 846 — CONNECTOR_ENDING
+  Block 856 — OBJECTION_REPLY_FUSED
+  Block 858 — OBJECTION_REPLY_FUSED
+  Block 883 — SHORT_FRAGMENT (3 syl)
+  Block 893 — OBJECTION_REPLY_FUSED
+  Block 908 — SHORT_FRAGMENT (3 syl)
+  Block 920 — SHORT_FRAGMENT (3 syl)
+  Block 924 — OBJECTION_REPLY_FUSED
+  Block 924 — OVER_LENGTH (437 syl)
+  Block 928 — OVER_LENGTH (337 syl)
+  Block 954 — OBJECTION_REPLY_FUSED
+  Block 958 — OVER_LENGTH (308 syl)
+  Block 972 — OBJECTION_REPLY_FUSED
+  Block 983 — OBJECTION_REPLY_FUSED
+  Block 993 — OBJECTION_REPLY_FUSED
+  Block 1006 — OBJECTION_REPLY_FUSED
+  Block 1010 — OBJECTION_REPLY_FUSED
+  Block 1017 — OVER_LENGTH (320 syl)
+  Block 1020 — OVER_LENGTH (299 syl)
+  Block 1021 — OBJECTION_REPLY_FUSED
+  Block 1042 — OVER_LENGTH (252 syl)
+  Block 1044 — OBJECTION_REPLY_FUSED
+  Block 1047 — OBJECTION_REPLY_FUSED
+  Block 1048 — CONNECTOR_ENDING
+  Block 1053 — OVER_LENGTH (277 syl)
+  Block 1058 — SHORT_FRAGMENT (3 syl)
+  Block 1065 — OVER_LENGTH (729 syl)
+  Block 1066 — OVER_LENGTH (393 syl)
+  Block 1068 — SHORT_FRAGMENT (3 syl)
+  Block 1076 — SHORT_FRAGMENT (3 syl)
+  Block 1191 — OBJECTION_REPLY_FUSED
+  Block 1194 — OBJECTION_REPLY_FUSED
+  Block 1197 — OVER_LENGTH (332 syl)
+  Block 1203 — OBJECTION_REPLY_FUSED
+  Block 1215 — OBJECTION_REPLY_FUSED
+  Block 1219 — OVER_LENGTH (299 syl)
+  Block 1229 — OBJECTION_REPLY_FUSED
+  Block 1231 — OVER_LENGTH (336 syl)
+  Block 1233 — OVER_LENGTH (253 syl)
+  Block 1235 — OVER_LENGTH (413 syl)
+  Block 1236 — OBJECTION_REPLY_FUSED
+  Block 1238 — SHORT_FRAGMENT (3 syl)
+  Block 1241 — SHORT_FRAGMENT (3 syl)
+  Block 1245 — SHORT_FRAGMENT (3 syl)
+  Block 1247 — OBJECTION_REPLY_FUSED
+  Block 1248 — SHORT_FRAGMENT (3 syl)
+  Block 1257 — OVER_LENGTH (253 syl)
+  Block 1258 — SHORT_FRAGMENT (2 syl)
+  Block 1272 — OVER_LENGTH (283 syl)
+  Block 1274 — OVER_LENGTH (258 syl)
+  Block 1285 — OBJECTION_REPLY_FUSED
+  Block 1299 — OBJECTION_REPLY_FUSED
+  Block 1302 — OBJECTION_REPLY_FUSED
+  Block 1346 — OBJECTION_REPLY_FUSED
+  Block 1374 — OBJECTION_REPLY_FUSED
+  Block 1376 — OBJECTION_REPLY_FUSED
+  Block 1377 — OVER_LENGTH (318 syl)
+  Block 1378 — OVER_LENGTH (423 syl)
+  Block 1409 — OBJECTION_REPLY_FUSED
+  Block 1420 — OBJECTION_REPLY_FUSED
+  Block 1434 — OVER_LENGTH (272 syl)
+  Block 1446 — SHORT_FRAGMENT (2 syl)
+  Block 1450 — SHORT_FRAGMENT (3 syl)
+  Block 1467 — OVER_LENGTH (264 syl)
+  Block 1468 — OVER_LENGTH (324 syl)
+  Block 1471 — OBJECTION_REPLY_FUSED
+  Block 1508 — OBJECTION_REPLY_FUSED
+  Block 1509 — OBJECTION_REPLY_FUSED
+  Block 1549 — OBJECTION_REPLY_FUSED
+  Block 1550 — OVER_LENGTH (271 syl)
+  Block 1555 — OVER_LENGTH (504 syl)
+  Block 1564 — OVER_LENGTH (309 syl)
+  Block 1565 — OBJECTION_REPLY_FUSED
+  Block 1576 — OBJECTION_REPLY_FUSED
+  Block 1600 — OVER_LENGTH (322 syl)
+  Block 1605 — OVER_LENGTH (359 syl)
+  Block 1616 — OBJECTION_REPLY_FUSED
+  Block 1624 — OVER_LENGTH (281 syl)
+  Block 1664 — OBJECTION_REPLY_FUSED
+  Block 1676 — SHORT_FRAGMENT (3 syl)
+  Block 1701 — SHORT_FRAGMENT (3 syl)
+  Block 1711 — SHORT_FRAGMENT (3 syl)
+  Block 1744 — OVER_LENGTH (303 syl)
+  Block 1762 — OVER_LENGTH (261 syl)
+  Block 1765 — OBJECTION_REPLY_FUSED
+  Block 1774 — OBJECTION_REPLY_FUSED
+  Block 1775 — OVER_LENGTH (289 syl)
+  Block 1777 — OVER_LENGTH (322 syl)
+  Block 1780 — OBJECTION_REPLY_FUSED
+  Block 1787 — OBJECTION_REPLY_FUSED
+  Block 1807 — OVER_LENGTH (280 syl)
+
+Step 2 — LLM repair...
+  ! qc-repair attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 8s...
+  ! qc-repair attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 18s...
+  ! qc-repair attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 38s...

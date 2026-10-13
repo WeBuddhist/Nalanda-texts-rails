@@ -1,0 +1,37 @@
+=== Step 1 Segmentation: Sh_3CDC ===
+Exit: 0
+Stdout:
+C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Sh_3CDC_in.md: 342 segments, 1 flagged for Stage-2 review.
+Quote balance: 0 quote-open / 0 quote-close -> OK
+Report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Sh_3CDC.segreport.tsv
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Sh_3CDC_out.md
+
+Stderr:
+
+
+=== Verify Report ===
+Exit: 0
+# Segmentation content check
+
+- Source: `C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Sh_3CDC.md`
+- Final:  `C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Sh_3CDC.units.md`
+
+| | Source | Final |
+|---|---|---|
+| Content characters compared | 65,781 | 65,781 |
+| Text blocks | 31 | 336 |
+| Heading lines | 1 | 1 |
+| Block IDs | 0 | 0 |
+| Block size min / median / max (syllables) | 164 / 452 / 1009 | 4 / 26 / 309 |
+| Footnote definitions | 331 | 331 |
+
+## Text content: ✓ IDENTICAL
+
+Every syllable, shad and footnote marker of the source is present in the final file, in the same order; only structure (headings, IDs, line breaks) differs.
+
+
+## Footnotes: ✓ OK
+
+
+## Result: ✓ PASS
+

@@ -1,0 +1,74 @@
+[Na_3CA4] using closing-line tree closing-tree-Na_3CA4.md
+[Na_3CA4] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CA4\toc-tree-Na_3CA4.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CA4\toc-tree-Na_3CA4.json
+Parsed 26 nodes (5 frame), max depth 2.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CA4\toc-tree-Na_3CA4.json
+  depth  1: 8 nodes
+  depth  2: 18 nodes
+[Na_3CA4] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CA4\toc-tree-Na_3CA4.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3CA4\Na_3CA4.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            26
+  Inserted:               26
+  Already present:        0
+  Blocks split at a node: 2 ['1', 'b']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Na_3CA4\Na_3CA4.toc.md
+[Na_3CA4] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3CA4.toc.md
+[Na_3CA4] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Na_3CA4 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Na_3CA4.toc.md...
+Blocks: 169 (headings: 27, content: 142)
+Windows: 5
+Windows to process: 5 / 5
+Running 5 windows with 8 worker threads...
+  [27.3s] Window 5/5 done: 2 op(s)
+  [65.6s] Window 1/5 done: 2 op(s)
+  [68.9s] Window 3/5 done: 7 op(s)
+  [70.8s] Window 4/5 done: 8 op(s)
+  [110.9s] Window 2/5 done: 5 op(s)
+
+Combining operations...
+Operations to apply: 20
+Blocks: 169 -> 139
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CA4.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CA4.ops.md
+[Na_3CA4] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CA4.reseg.md --commentary-id Na_3CA4
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CA4.reseg.md
+ID:     Na_3CA4
+
+Blocks: 139
+
+Step 1 — Deterministic checks...
+  1 flag(s) found.
+  Block 108 — OVER_LENGTH (254 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CA4.qc.md
+
+────────────────────────────────────────
+Flags before : 1
+[Na_3CA4] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CA4\toc-tree-Na_3CA4.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CA4.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Na_3CA4.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            26
+  Inserted:               0
+  Already present:        26
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3CA4.reseg.md
+✓ Na_3CA4.reseg.md: identical to Na_3CA4.md (letters and spacing; only breaks, headings, IDs added)
+[Na_3CA4] ALL STEPS COMPLETED SUCCESSFULLY!
+[Na_3CA4] DONE in 143s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3CA4.toc.md
+
+Finished. Failed: none

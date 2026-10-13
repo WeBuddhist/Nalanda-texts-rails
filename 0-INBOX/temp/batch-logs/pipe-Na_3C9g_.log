@@ -90,3 +90,45 @@ Step 1 — Deterministic checks...
   Block 361 — OVER_LENGTH (276 syl)
 
 Step 2 — LLM repair...
+  ! qc-repair attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  LLM suggested 6 correction(s):
+    SPLIT block 33 after: 'འོ་ན་ཇི་ལྟ་བུ་ཞིག་གི་ངོ་བོ་ཉིད་ཡིན་ཞེ་ན།'
+    SPLIT block 126 after: '[^263]གཟུགས་ཀྱི་མཐའ་རྡུལ་ཕྲ་རབ་རྫས་སུ་འདོད་དོ་ཞེ་ན'
+    SPLIT block 129 after: 'འོ་ན། གང་གིས་བསྐྱེད་ཅེ་ན། །'
+    SPLIT block 136 after: 'འོ་ན་གནས་ཀྱི་ཚད་མ་དང་། རིགས་ཀྱི་ཚད་མ་དང་། དུས་ཀྱི་'
+    SPLIT block 149 after: 'འོ་ན་བཅོམ་ལྡན་འདས་ཀྱིས་ཅིའི་ཕྱིར་ཕུང་པོ་ལ་སོགས་པ་བ'
+    SPLIT block 213 after: 'འོ་ན་ཇི་ལྟར་ཞེ་ན།'
+  ✓ Integrity check passed. Blocks: 400 → 406
+
+Step 3 — Re-checking after repair...
+  17 flag(s) remain after repair.
+  Updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9g_.reseg.md
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9g_.qc.md
+
+────────────────────────────────────────
+Flags before : 17
+Flags after  : 17
+Corrections  : 6
+[Na_3C9g_] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3C9g_\toc-tree-Na_3C9g_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9g_.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Na_3C9g_.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            143
+  Inserted:               0
+  Already present:        143
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Na_3C9g_.reseg.md
+  spacing: source '' → output ' ' at …ེད་པ་ལས།|[
+  spacing: source ' ' → output '' at …ྡད་པའོ།།|ད
+  spacing: source ' ' → output '' at …ྱིར་རོ།།|ད
+  spacing: source ' ' → output '' at …ྱེད་དོ།།|ད
+  spacing: source '' → output ' ' at …་བྱ་བའོ།|[
+✓ Na_3C9g_.reseg.md: letters identical; 10 spacing difference(s) restored from the source — now identical (letters and spacing)
+[Na_3C9g_] ALL STEPS COMPLETED SUCCESSFULLY!
+[Na_3C9g_] DONE in 1409s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Na_3C9g_.toc.md
+
+Finished. Failed: none

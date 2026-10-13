@@ -1,0 +1,33 @@
+{
+  "window_idx": 16,
+  "start_block": 561,
+  "end_block": 600,
+  "operations": [
+    {
+      "op": "merge",
+      "blocks": [
+        567,
+        568,
+        569,
+        570
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        572,
+        573
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        589,
+        590,
+        591,
+        592,
+        593
+      ]
+    }
+  ]
+}
