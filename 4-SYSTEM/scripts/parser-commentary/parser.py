@@ -608,9 +608,14 @@ def build_edition(source_path, lint_path):
 def write_yigchungs(stem, content, yigchungs):
     """Write the yigchung payload: one POST body per unbroken run, sorted by
     start. Each item is exactly the body of
-    POST /v2/editions/{edition_id}/yigchungs. Written even when empty, so a
-    file that loses its <small> markup does not leave a stale payload.
+    POST /v2/editions/{edition_id}/yigchungs. Not written when there are no
+    runs; a file left from an earlier run is removed, so a source that loses
+    its <small> markup does not leave a stale payload.
     """
+    out_path = _out_dir(stem) / f"{stem}.yigchungs.json"
+    if not yigchungs:
+        out_path.unlink(missing_ok=True)
+        return None, None
     yigchungs = sorted(yigchungs, key=lambda y: (y["start"], y["end"]))
     for y in yigchungs:
         if not (0 <= y["start"] < y["end"] <= len(content)):
@@ -620,7 +625,6 @@ def write_yigchungs(stem, content, yigchungs):
             {"span": {"start": y["start"], "end": y["end"]}} for y in yigchungs
         ],
     }
-    out_path = _out_dir(stem) / f"{stem}.yigchungs.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     return out_path, out
 
@@ -834,8 +838,9 @@ def main(argv=None):
         print(f"  headings (toc)   : {len(headings)}")
         for t, n in sorted(by_type.items()):
             print(f"    {t}: {n}")
-        print(f"OK    {source_path}  ->  {yig_out}")
-        print(f"  yigchungs        : {len(yigchungs)}")
+        if yig_out:
+            print(f"OK    {source_path}  ->  {yig_out}")
+        print(f"  yigchungs        : {len(yigchungs)}" + ("" if yig_out else " (no file written)"))
         print(f"OK    {source_path}  ->  {dur_out}")
         print(f"  durchens         : {len(durchens)}")
     except Exception as exc:
