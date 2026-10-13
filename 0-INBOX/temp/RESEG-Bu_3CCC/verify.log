@@ -1,15 +1,2 @@
-Traceback (most recent call last):
-  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\verify_text.py", line 123, in <module>
-    main()
-    ~~~~^^
-  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\verify_text.py", line 102, in main
-    issues, examples, fixed = walk(src.read_text(encoding="utf-8"), out.read_text(encoding="utf-8"), fix)
-                                                                    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\Python314\Lib\pathlib\__init__.py", line 787, in read_text
-    with self.open(mode='r', encoding=encoding, errors=errors, newline=newline) as f:
-         ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "C:\Program Files\Python314\Lib\pathlib\__init__.py", line 771, in open
-    return io.open(self, mode, buffering, encoding, errors, newline)
-           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-FileNotFoundError: [Errno 2] No such file or directory: '0-INBOX\\resegmented\\Bu_3CCC.reseg.md'
-exit=1
+✓ Bu_3CCC.reseg.md: identical to Bu_3CCC.md (letters and spacing; only breaks, headings, IDs added)
+exit=0

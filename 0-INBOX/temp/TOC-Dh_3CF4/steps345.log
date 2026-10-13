@@ -1,0 +1,12 @@
+=== STEP 3 ingest
+Summary
+  Total nodes:            40
+  Inserted:               40
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: 0-INBOX\segmented\Dh_3CF4.toc.md
+=== STEP 4 reseg
+    ! window-15 attempt 1/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 9s...

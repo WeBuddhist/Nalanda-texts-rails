@@ -1,0 +1,63 @@
+=== passes 1-2 (parallel)
+     12s  done pass1 chunk_002
+     12s  done pass2 chunk_002
+     19s  done pass2 chunk_001
+     20s  done pass1 chunk_000
+     30s  done pass2 chunk_000
+     38s  done pass1 chunk_001
+finished in 38 s; errors: []
+=== merge + tree + QC
+[gem] extract_toc_tree.py: model=gemini-3.8-flash thinking=medium
+Input:        C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Dh_3CFA.units.md
+Commentary:   Dh_3CFA
+Lines:        304  ->  3 chunks (size=150, overlap=25)
+Model:        gemini-3.8-flash
+Staging dir:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\candidates
+Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\toc-candidates-Dh_3CFA.md
+Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\enumerations  (one file per chunk)
+TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\toc-tree-Dh_3CFA.md
+
+Pass 1 — section candidates:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–304)  [skip — exists]
+
+Pass 2 — raw enumeration blocks:
+  chunk_000 (lines 1–150)  [skip — exists]
+  chunk_001 (lines 126–275)  [skip — exists]
+  chunk_002 (lines 251–304)  [skip — exists]
+Rewriting LINE: values to announcement start ...
+Annotating ITEMS with line numbers ...
+
+✓ Pass 1: 1 section candidates merged → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\toc-candidates-Dh_3CFA.md
+✓ Pass 2: 2 enumeration blocks across 3 chunk files → C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\enumerations
+
+Building TOC tree from candidates + enumerations → Gemini ...
+
+QC — checking the TOC tree ...
+  0 issue(s) found.
+
+✓ Done.
+  Candidates:   C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\toc-candidates-Dh_3CFA.md
+  Enum folder:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\enumerations
+  TOC tree:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\toc-tree-Dh_3CFA.md
+  QC report:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\toc-tree-qc-Dh_3CFA.md
+exit_extract=0
+=== pass 5 anchors
+[gem] find_toc_contexts.py: model=gemini-3.8-flash thinking=medium
+TOC:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\toc-tree-anchored-Dh_3CFA.md  (3 entries)
+Source: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Dh_3CFA.units.md  (304 lines)
+
+  [1] line  130  ctx: འདི་ལྟར་འདིར་བརྟག་པར་བྱ་བ་གཉིས་ཏེ། རྒྱུ་དང་འབྲས་བུ་ཡང་དག་པར་
+  [1.1] not found in window, sliding +50 lines …
+  [1.1] not found in window, sliding +100 lines …
+  [1.1] not found in window, sliding +150 lines …
+  [1.1] NOT FOUND -- kept: 130
+  [1.2] line  132  ctx: གལ་ཏེ་ཐ་དད་པ་མ་ཡིན་ན་ནི། ཐ་དད་མིན་ན་རྒྱུ་འབྲས་གང་། །མ་ཡིན་པ་
+
+Written -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-anchored-Dh_3CFA\toc-tree-anchored-Dh_3CFA.md
+Backup  -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CFA\toc-tree-anchored-Dh_3CFA.md.bak
+exit_anchor=0
+=== pass 6 QC vs source
+⚑ 1 issue(s), 0 note(s) → 0-INBOX/temp/TOC-Dh_3CFA/toc-tree-qc-source-Dh_3CFA.md
+=== DONE

@@ -1,0 +1,22 @@
+{
+  "window_idx": 66,
+  "start_block": 2311,
+  "end_block": 2350,
+  "operations": [
+    {
+      "op": "split",
+      "block": 2326,
+      "after": "འོད་སྲུངས་པ་ཞེས་བྱའོ།[^1452] །"
+    },
+    {
+      "op": "split",
+      "block": 2336,
+      "after": "གནོད་སེམས་སྤོང་ངོ་། །"
+    },
+    {
+      "op": "split",
+      "block": 2339,
+      "after": "གང་ཟག་ནི་མི་མཐོང་ངོ་། །"
+    }
+  ]
+}
