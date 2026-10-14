@@ -2,7 +2,7 @@
 
 Runs `linter-root-text` then `parser-root-text` on every root text in `1-SOURCES/Text/`. How to run: the docstring of `0-INBOX/temp/api-lint/run_lint_batch.py`.
 
-Updated 2026-10-13 · 442 texts (small 358 · medium 60 · large 24) · done 429 · failed 0 · **held 13** · to do 0 · **uploaded 412** · upload failed 17
+Updated 2026-10-14 · 442 texts (small 358 · medium 60 · large 24) · done 429 · failed 0 · **held 13** · to do 0 · **uploaded 418** · upload failed 11
 
 | What | Path |
 |---|---|
@@ -13,6 +13,7 @@ Updated 2026-10-13 · 442 texts (small 358 · medium 60 · large 24) · done 429
 | API payloads | `4-SYSTEM/scripts/parser-root-text/output/<id>/` (text, edition, toc, yigchungs, durchens) |
 | Why the durchen texts are held | `0-INBOX/durchen-outliers-report.md` |
 | Upload (script; ledger with every id) | `0-INBOX/temp/api-lint/run_upload_batch.py` · `0-INBOX/temp/api-lint/upload-status.json` |
+| Titles changed to clear a title clash | `0-INBOX/temp/api-lint/retitled.json` |
 
 `lint` OK = no errors · `err` / `warn` = linter errors / warnings (the language-list notice not counted) · `dur. warn` = footnote warnings (lemma not matched) · `src changed` = the linter rewrote the source frontmatter. Size from `0-INBOX/ROOT-WORKFLOW-BATCH.md`.
 
@@ -100,7 +101,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 78 | At_3CG4 | small | 2,946 | done | OK | 0 | 1 | 0 | OK | 11 | 10 | 5 | no | uploaded | ezBA9cEBh4kISMLGR9RmI | ✓ | ✓ | 10/10 |  |  |
 | 79 | At_3CG5 | small | 21,456 | done | OK | 0 | 1 | 0 | OK | 89 | 113 | 7 | no | uploaded | xoTGSfn9kuP1qa8EupWZ9 | ✓ | ✓ | 113/113 |  |  |
 | 80 | At_3CG6 | small | 6,498 | done | OK | 0 | 2 | 0 | OK | 24 | 29 | 9 | no | uploaded | VmshHUukFeIGspVJfsXND | ✓ | ✓ | 29/29 |  |  |
-| 81 | At_3CG7 | small | 2,328 | done | OK | 0 | 1 | 0 | OK | 9 | 4 | 5 | no | **failed** |  |  |  |  |  | upload: same At_3CG6 (title) as an uploaded text |
+| 81 | At_3CG7 | small | 2,494 | done | OK | 0 | 1 | 0 | OK | 9 | 4 | 5 | no | uploaded | ZtzRO1z8ydu39Raaa24dG | ✓ | ✓ | 4/4 |  |  |
 | 82 | At_3CG8 | small | 3,298 | done | OK | 0 | 1 | 0 | OK | 13 | 13 | 7 | no | uploaded | Xgkbr8VHzlJXYiV3K9bzk | ✓ | ✓ | 13/13 |  |  |
 | 83 | At_3CG9 | small | 9,377 | done | OK | 0 | 2 | 0 | OK | 27 | 52 | 9 | no | uploaded | WvYhV1irVFx3dCkuaXfNh | ✓ | ✓ | 52/52 |  |  |
 | 84 | At_3CGA | small | 5,476 | done | OK | 0 | 2 | 0 | OK | 38 | 13 | 6 | no | uploaded | pMXozoVDatp9azkNiTWfC | ✓ | ✓ | 13/13 |  |  |
@@ -111,7 +112,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 89 | At_3CGF | small | 3,292 | done | OK | 0 | 2 | 0 | OK | 18 | 7 | 7 | no | uploaded | 3uer2XGwajgM5fiuUZhDy | ✓ | ✓ | 7/7 |  |  |
 | 90 | At_3CGG | small | 2,972 | done | OK | 0 | 1 | 0 | OK | 12 | 6 | 4 | no | uploaded | XsuQ2skFgkxhqsDSmeX9n | ✓ | ✓ | 6/6 |  |  |
 | 91 | At_3CGH | small | 3,175 | done | OK | 0 | 1 | 0 | OK | 8 | 9 | 3 | no | uploaded | Sk9mTj5CSWwC6WrnDJqS4 | ✓ | ✓ | 9/9 |  |  |
-| 92 | At_3CGI | small | 2,644 | done | OK | 0 | 1 | 0 | OK | 7 | 10 | 5 | no | **failed** |  |  |  |  |  | upload: same At_3CGH (title) as an uploaded text |
+| 92 | At_3CGI | small | 2,811 | done | OK | 0 | 1 | 0 | OK | 7 | 10 | 5 | no | uploaded | VJmj5rJ0Sk7sUfFSG1Ize | ✓ | ✓ | 10/10 |  |  |
 | 93 | At_3CGJ | small | 5,078 | done | OK | 0 | 1 | 0 | OK | 26 | 15 | 8 | no | uploaded | eKTzd8nsIz50stQNTveVJ | ✓ | ✓ | 15/15 |  |  |
 | 94 | At_3CGK | small | 2,757 | done | OK | 0 | 1 | 0 | OK | 8 | 5 | 6 | no | uploaded | AobdNIMloreOgZOan0vP6 | ✓ | ✓ | 5/5 |  |  |
 | 95 | At_3CGL | small | 2,994 | done | OK | 0 | 2 | 0 | OK | 15 | 12 | 6 | no | uploaded | kGlQSTCd7gv7ytQlcWIcf | ✓ | ✓ | 12/12 |  |  |
@@ -130,7 +131,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 108 | At_3CGY | small | 5,032 | done | OK | 0 | 2 | 0 | OK | 18 | 11 | 17 | no | uploaded | SFPoixXeWY767jVzKqXSN | ✓ | ✓ | 11/11 |  |  |
 | 109 | At_3CGZ | small | 4,027 | done | OK | 0 | 2 | 0 | OK | 6 | 9 | 5 | no | uploaded | vpmmYgT5QvOujtHCpEdxZ | ✓ | ✓ | 9/9 |  |  |
 | 110 | At_3CGa_ | small | 4,669 | done | OK | 0 | 1 | 0 | OK | 15 | 14 | 14 | no | **failed** |  |  |  |  |  | upload: same At_3CGQ (title + BDRC WA0RT2596) as an uploaded text |
-| 111 | At_3CGb_ | small | 4,542 | done | OK | 0 | 3 | 1 | OK | 12 | 6 | 9 | no | **failed** |  |  |  |  |  | upload: same At_3CG8 (title) as an uploaded text |
+| 111 | At_3CGb_ | small | 4,696 | done | OK | 0 | 2 | 1 | OK | 12 | 6 | 9 | no | uploaded | kOIoQg0pyL0HxvFWUHWqX | ✓ | ✓ | 6/6 |  |  |
 | 112 | At_3CGc_ | small | 5,335 | done | OK | 0 | 2 | 0 | OK | 11 | 12 | 8 | no | uploaded | 4FfYdoll3J3isQONFpQFk | ✓ | ✓ | 12/12 |  |  |
 | 113 | At_3CGd_ | small | 3,897 | done | OK | 0 | 2 | 0 | OK | 13 | 2 | 13 | no | uploaded | PPN4hm8z9ItKk7fwQJcIM | ✓ | ✓ | 2/2 |  |  |
 | 114 | At_3CGe_ | small | 3,786 | done | OK | 0 | 2 | 0 | OK | 8 | 4 | 4 | no | uploaded | 1koXHXuCFRHVx4c2rCO62 | ✓ | ✓ | 4/4 |  |  |
@@ -163,7 +164,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 141 | At_3CH8 | small | 10,658 | done | OK | 0 | 1 | 0 | OK | 21 | 43 | 8 | no | uploaded | s7orjqbMDxC5DExlMoj5Y | ✓ | ✓ | 43/43 |  |  |
 | 142 | At_3CH9 | small | 5,092 | done | OK | 0 | 2 | 0 | OK | 19 | 19 | 8 | no | uploaded | TudDBkzyyF3R6KTcrusII | ✓ | ✓ | 19/19 |  |  |
 | 143 | At_3CHA | small | 20,496 | done | OK | 0 | 2 | 0 | OK | 69 | 88 | 11 | no | uploaded | G0kj4K8dMPcLg0QlETGS0 | ✓ | ✓ | 88/88 |  |  |
-| 144 | At_3CHB | small | 4,352 | done | OK | 0 | 2 | 0 | OK | 25 | 10 | 10 | no | **failed** |  |  |  |  |  | upload: same Ar_3CBc_ (title) as an uploaded text |
+| 144 | At_3CHB | small | 4,520 | done | OK | 0 | 1 | 0 | OK | 25 | 10 | 10 | no | uploaded | WiTiQOYfB9xc0T4ZuPZEL | ✓ | ✓ | 10/10 |  |  |
 | 145 | At_3CHC | small | 13,707 | done | OK | 0 | 2 | 0 | OK | 31 | 36 | 10 | no | uploaded | w3oF4wKG7X7QSQAbDjDRz | ✓ | ✓ | 36/36 |  |  |
 | 146 | At_3CHD | small | 4,404 | done | OK | 0 | 1 | 0 | OK | 6 | 2 | 6 | no | uploaded | vN0L4Gbd4yKRJlq5523AP | ✓ | ✓ | 2/2 |  |  |
 | 147 | At_3CHE | small | 2,826 | done | OK | 0 | 1 | 0 | OK | 6 | 13 | 5 | no | uploaded | cc9zjZQJ2cLAWKkvemUoF | ✓ | ✓ | 13/13 |  |  |
@@ -267,10 +268,10 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 245 | Gu_3CFS | large | 401,698 | done | OK | 0 | 2 | 0 | OK | 1188 | 2090 | 39 | no | uploaded | BUFmgHSn21hSGhxBHJqqN | ✓ | ✓ | 2090/2090 |  |  |
 | 246 | Gu_3CFT | large | 619,712 | done | OK | 0 | 3 | 1 | OK | 867 | 2538 | 20 | no | uploaded | 0RZcH0DVXLsMrfPvkGnhS | ✓ | ✓ | 2538/2538 |  |  |
 | 247 | Ha_3CFF | large | 656,390 | done | OK | 0 | 5 | 3 | OK | 833 | 1249 | 65 | no | uploaded | zHjKL3MltmRqRNrqJufcp | ✓ | ✓ | 1249/1249 |  |  |
-| 248 | Ha_3CFG | large | 723,958 | done | OK | 0 | 2 | 0 | OK | 1202 | 1515 | 20 | no | uploaded | tce5facfRtmmMP067sELa | ✓ | ✓ | 1515/1515 |  |  |
+| 248 | Ha_3CFG | large | 724,029 | done | OK | 0 | 1 | 0 | OK | 1202 | 1515 | 20 | no | uploaded | 3ZWGBFHqWzK6gc4cOeWcF | ✓ | ✓ | 1515/1515 |  |  |
 | 249 | Ha_3CFH | large | 760,131 | done | OK | 0 | 2 | 0 | OK | 1084 | 1752 | 15 | no | uploaded | rFwVoQdwivrPEIQw8et0u | ✓ | ✓ | 1752/1752 |  |  |
 | 250 | Ha_3CFI | large | 677,060 | done | OK | 0 | 3 | 1 | OK | 765 | 1626 | 5 | no | uploaded | 32BuYLjXDVjh2iBCGiavE | ✓ | ✓ | 1626/1626 |  |  |
-| 251 | Ha_3CFJ | large | 676,719 | done | OK | 0 | 7 | 5 | OK | 722 | 1688 | 49 | no | **failed** |  |  |  |  |  | upload: same Ha_3CFG (title) as an uploaded text |
+| 251 | Ha_3CFJ | large | 676,909 | done | OK | 0 | 6 | 5 | OK | 722 | 1688 | 49 | no | uploaded | eVx546Q2x1suvW9UOZfrS | ✓ | ✓ | 1688/1688 |  |  |
 | 252 | Ha_3CFO | medium | 91,033 | done | OK | 0 | 2 | 0 | OK | 202 | 585 | 10 | no | uploaded | PuHZG606GKjReCAdhEQ2G | ✓ | ✓ | 585/585 |  |  |
 | 253 | Ka_3CDK | large | 427,977 | done | OK | 0 | 3 | 2 | OK | 807 | 1316 | 5 | no | uploaded | 0Bf68a3IyhkHF5b2xXwyU | ✓ | ✓ | 1316/1316 |  |  |
 | 254 | Ka_3CDL | medium | 113,795 | done | OK | 0 | 2 | 0 | OK | 747 | 351 | 5 | no | uploaded | kCBZNRtdWoWQIE4vJknDJ | ✓ | ✓ | 351/351 |  |  |
@@ -308,7 +309,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 286 | Na_3C9Q | small | 12,134 | done | OK | 0 | 1 | 0 | OK | 26 | 52 | 6 | no | uploaded | QIh2pj1QNsYAhUMza8rKL | ✓ | ✓ | 52/52 |  |  |
 | 287 | Na_3C9R | small | 4,185 | done | OK | 0 | 3 | 1 | OK | 14 | 24 | 7 | no | uploaded | tqCk309BX8jEt6CrKNd2m | ✓ | ✓ | 24/24 |  |  |
 | 288 | Na_3C9S | small | 2,837 | done | OK | 0 | 1 | 0 | OK | 13 | 9 | 5 | no | **failed** |  |  |  |  |  | upload: same Ar_3CBf_ (BDRC WA0RT0629) as an uploaded text |
-| 289 | Na_3C9T | small | 3,240 | done | OK | 0 | 1 | 0 | OK | 10 | 16 | 5 | no | **failed** |  |  |  |  |  | upload: same Na_3C9R (title) as an uploaded text |
+| 289 | Na_3C9T | small | 3,250 | done | OK | 0 | 1 | 0 | OK | 10 | 16 | 5 | no | uploaded | AEvMeasfXpTpPwyI5kVLO | ✓ | ✓ | 16/16 |  |  |
 | 290 | Na_3C9U | small | 2,478 | done | OK | 0 | 4 | 2 | OK | 11 | 12 | 3 | no | uploaded | QoxlQmbW2PXeLIGEeMCEQ | ✓ | ✓ | 12/12 |  |  |
 | 291 | Na_3C9V | small | 5,233 | done | OK | 0 | 1 | 0 | OK | 14 | 24 | 5 | no | uploaded | iNsukPJ8ysb1S7seaiM2O | ✓ | ✓ | 24/24 |  |  |
 | 292 | Na_3C9W | small | 6,372 | done | OK | 0 | 1 | 0 | OK | 12 | 60 | 3 | no | **failed** |  |  |  |  |  | upload: same Na_3C9V (title) as an uploaded text |
@@ -470,15 +471,9 @@ Every text that failed lint, parse or upload. `error` is what the script recorde
 | id | stage | error | verified reason |
 |---|---|---|---|
 | At_3CFp_ | upload | same At_3CFl_ (title + BDRC WA0RT4268) as an uploaded text | Exact duplicate of At_3CFl_: identical text (100%), same BDRC WA0RT4268, same volume (Book 98). Already on the library as At_3CFl_ → hold. |
-| At_3CG7 | upload | same At_3CG6 (title) as an uploaded text | Different work with the same generic title as At_3CG6 (35% similar, 1,263 vs 4,205 chars, both Atisha Book 98). Needs a distinct title. |
-| At_3CGI | upload | same At_3CGH (title) as an uploaded text | Different work with the same generic title as At_3CGH (19% similar, 1,529 vs 1,857 chars, both Atisha Book 98). Needs a distinct title. |
 | At_3CGa_ | upload | same At_3CGQ (title + BDRC WA0RT2596) as an uploaded text | Exact duplicate of At_3CGQ: identical text (100%), same BDRC WA0RT2596, same volume (Book 98). Already on the library as At_3CGQ → hold. |
-| At_3CGb_ | upload | same At_3CG8 (title) as an uploaded text | Different work with the same generic title as At_3CG8 (19% similar, 3,382 vs 1,768 chars, both Atisha Book 98). Needs a distinct title. |
-| At_3CHB | upload | same Ar_3CBc_ (title) as an uploaded text | Different work with the same title as Ar_3CBc_ (3% similar): Atisha, 2,805 chars (Book 99) vs Aryadeva, 159,434 chars (Book 26). Needs a distinct title. |
 | Bh_3CCO | upload | same Bh_3CCJ (title + BDRC WA0RT3202) as an uploaded text | Exact duplicate of Bh_3CCJ: identical text (100%), same BDRC WA0RT3202, printed in two volumes (Book 34 ཆ, Book 31 ག). Already on the library as Bh_3CCJ → hold. |
-| Ha_3CFJ | upload | same Ha_3CFG (title) as an uploaded text | A different part of the same work as Ha_3CFG, not a duplicate: Book 86 vol ཅ vs Book 83 vol ཁ, only 4% of sentences shared, different chapters. Needs the volume/part in the title. |
 | Na_3C9S | upload | same Ar_3CBf_ (BDRC WA0RT0629) as an uploaded text | Near-identical to Ar_3CBf_ (98%, same BDRC WA0RT0629) but with a different title; filed under Nagarjuna (Book 15) and Aryadeva (Book 27). The API would accept it — the uploader's BDRC check stopped it. One work, two attributions → decide. |
-| Na_3C9T | upload | same Na_3C9R (title) as an uploaded text | Different work with the same generic title as Na_3C9R (28% similar, 1,725 vs 2,220 chars, both Nagarjuna Book 15). Needs a distinct title. |
 | Na_3C9W | upload | same Na_3C9V (title) as an uploaded text | Same title as Na_3C9V (and Na_3C9X) but a different version: 51% similar, same volume (Book 15). Needs a distinct title. |
 | Na_3C9X | upload | same Na_3C9V (title) as an uploaded text | Variant of Na_3C9V (93% similar, same title, same volume Book 15). Decide: duplicate to hold, or a separate version that needs a distinct title. |
 | Na_3C9c_ | upload | same At_3CHL (title) as an uploaded text | Different work with the same title as At_3CHL: Nagarjuna (Book 15) vs Atisha (Book 101), 64,639 vs 55,147 chars, only ~10% of sentences shared (common ritual phrasing). Needs a distinct title. |
@@ -506,3 +501,17 @@ Listed in `0-INBOX/temp/api-lint/holds.json`; remove a text there to release it.
 | Sh_3CCm_ | held by request (2026-10-13) |
 | Sh_3CD6 | durchen outlier: [^1] source edition citation (C9) |
 | Sh_3CD7 | durchen outlier: [^1] source edition citation (C10) |
+
+## Retitled
+
+Texts whose `title:` was changed because the upload stopped on a title already in the library. The old title moved into `alt_titles`. Kept by hand in `0-INBOX/temp/api-lint/retitled.json`.
+
+| id | old title | new title | clashed with | basis |
+|---|---|---|---|---|
+| At_3CG7 | མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས། | བཅོམ་ལྡན་འདས་མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས། | At_3CG6 | Own colophon title (^a-1). At_3CG6's colophon calls itself the extensive (རྒྱས་པ) sādhana; this is the short one. |
+| At_3CGI | གཙུག་ཏོར་དྲི་མེད་ཀྱི་གཟུངས་ཆོག | གཙུག་ཏོར་དྲི་མ་མེད་པའི་གཟུངས་ཀྱི་ཆོ་ག | At_3CGH | Full form from its own ^I-2 and colophon (^a-1). Note: At_3CGH ends with the same wording (^1-7) — the two remain near-identical to readers. |
+| At_3CGb_ | སྦྱིན་སྲེག་གི་ཆོ་ག | ཞི་བའི་སྦྱིན་སྲེག་གི་ཆོ་ག | At_3CG8 | Editorial: no distinct title is attested. The rite is pacifying in its own words (ཞི་བར་བྱ་བའི་ཕྱིར, ཞི་བའི་ཚིག, ཤནྟི་ཀུ་རུ ×2); At_3CG8 has none of these. |
+| At_3CHB | སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ། | ཇོ་བོ་རྗེའི་སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ། | Ar_3CBc_ | Editorial author qualifier. Different works with the same Tibetan title: Atiśa's Caryāsaṃgrahapradīpa vs Āryadeva's Caryāmelāpakapradīpa (Sanskrit titles in ^I-1). ཇོ་བོ་རྗེ from the collection title. |
+| Ha_3CFG | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་གཉིས་པ།༽ | — | Volume 2 (Book 83) was missing its volume tag. Already uploaded: deleted (old text tce5facfRtmmMP067sELa) and re-uploaded under the new title. |
+| Ha_3CFJ | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་ལྔ་པ།༽ | Ha_3CFG | Volume 5 (Book 86) of a five-volume set; follows the ༼དེབ་N།༽ pattern of Ha_3CFF / Ha_3CFH / Ha_3CFI. |
+| Na_3C9T | དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས། | རྡོ་རྗེ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས། | Na_3C9R | Editorial, from its own homage (^I-2). Dropped 3 alt_titles not attested in the text (…ཞེས་བྱ་བ། is Na_3C9R's wording; …སྲོག་གི་སྤུ་གྲིའི… and གུར་མགོན་ལྷ་བཅུ་བདུན… match neither). |
