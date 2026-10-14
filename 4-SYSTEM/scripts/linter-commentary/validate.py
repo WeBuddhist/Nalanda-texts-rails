@@ -619,14 +619,12 @@ def validate_text_input(data):
         validate_nullable_string(commentary_of, "commentary_of", items)
         items.append(("INFO", f"commentary_of: {commentary_of!r}"))
     else:
-        items.append(("WARN",
-            "commentary_of: not set — resolve from root_text's text_id "
-            "(set text_id on the root text first)"))
+        items.append(("INFO", "commentary_of: not set (optional)"))
 
-    if not data.get("root_text"):
-        items.append(("ERROR", "root_text: required for file_type 'commentary'"))
-    else:
+    if data.get("root_text"):
         items.append(("INFO", f"root_text: {data['root_text']!r}"))
+    else:
+        items.append(("INFO", "root_text: not set (optional)"))
 
     title_val = data.get("title")
     if "title" not in data:

@@ -19,6 +19,7 @@ pandita: "01-Nagarjuna"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
 openpecha_text_id: "ydxruSdBmjG0YG6HSxb7M"
+commentary_of: 6kB3PlLWXa1OhEJQ3eMSK
 ---
 
 # ༄༅། །བྱང་ཆུབ་སེམས་ཀྱི་འགྲེལ་པའི་རྣམ་པར་བཤད་པ། ^0
