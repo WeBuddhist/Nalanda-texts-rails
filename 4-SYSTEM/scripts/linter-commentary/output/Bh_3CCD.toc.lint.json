@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "source": "C:/Users/GESHEL~1/AppData/Local/Temp/claude/C--Users-geshe-lobzang-tseten-repos-Nalanda-texts-rails/7a58596f-2f54-4c03-b65f-528e8e45be8c/scratchpad/c/Bh_3CCD.toc.md",
-  "validated_at": "2026-10-14T07:18:57.546303+00:00",
+  "source": "0-INBOX/processed/commentaries/Bh_3CCD.toc.md",
+  "validated_at": "2026-10-14T09:39:16.828483+00:00",
   "notes": [
     "wiki: not set (optional)",
     "translation_of: not set (optional)",
@@ -14,8 +14,8 @@
   ],
   "warnings": [
     "contributions: author/translator missing — ignored for now",
-    "segment 2335 (^1-2222): footnote [^1535] lemma 'དང་དགོས་པ་མ་ཡིན་པ་དག་གི་ཁྱད་པར་གང་ཞེ་ན། མི་གསལ་བ་དང་གསལ་བའི་བྱེ་བྲག་གིས་སོ། །སྒྲ་ཇི་བཞིན་པ་དང་། དགོངས་པས་བཤད་པ་དག་གི་ནི། མི་འགལ་བ་དང་འགལ་བའི་སྒྲའི་དབྱེ་བས་སོ། །' does not end at the marker — the durchen will span the syllable before it, 'དང་།'",
-    "segment 2556 (^1-2434): footnote [^1667] lemma 'ཟློག་པ།' does not end at the marker — the durchen will span the syllable before it, 'པ༌'",
+    "segment 2318 (^1-2222): footnote [^1535] lemma 'དང་དགོས་པ་མ་ཡིན་པ་དག་གི་ཁྱད་པར་གང་ཞེ་ན། མི་གསལ་བ་དང་གསལ་བའི་བྱེ་བྲག་གིས་སོ། །སྒྲ་ཇི་བཞིན་པ་དང་། དགོངས་པས་བཤད་པ་དག་གི་ནི། མི་འགལ་བ་དང་འགལ་བའི་སྒྲའི་དབྱེ་བས་སོ། །' does not end at the marker — the durchen will span the syllable before it, 'དང་།'",
+    "segment 2537 (^1-2434): footnote [^1667] lemma 'ཟློག་པ།' does not end at the marker — the durchen will span the syllable before it, 'པ༌'",
     "alt_titles: missing — ignored for now"
   ],
   "text_input": {

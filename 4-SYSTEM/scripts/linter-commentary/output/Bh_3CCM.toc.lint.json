@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/processed/commentaries/Bh_3CCM.toc.md",
+  "validated_at": "2026-10-14T10:26:47.242262+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 1958 from 1958 footnote definition(s)",
+    "toc: 6 headers found"
+  ],
+  "warnings": [
+    "segment 900 (^3-666): footnote [^562] lemma '། །མྱ་ངན་འདས་པ་དོན་དམ་དུ། །' does not end at the marker — the durchen will span the syllable before it, 'ཕྱིར། །'",
+    "author 'Bhāviveka': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3201",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ་བམ་པོ་དང་པོ།"
+      }
+    ],
+    "language": "bo",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

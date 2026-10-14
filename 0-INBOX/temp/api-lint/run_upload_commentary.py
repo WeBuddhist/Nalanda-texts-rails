@@ -35,6 +35,7 @@ import datetime as _dt
 import json
 import re
 import sys
+import time as _time
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -48,7 +49,9 @@ LEDGER = HERE / "commentary-upload-status.json"
 
 
 def find_source(stem):
-    for d in (VAULT / "0-INBOX" / "temp" / "segmented-commentary-with-toc", VAULT / "1-SOURCES" / "Commentaries"):
+    for d in (VAULT / "0-INBOX" / "temp" / "segmented-commentary-with-toc",
+              VAULT / "0-INBOX" / "processed" / "commentaries",
+              VAULT / "1-SOURCES" / "Commentaries"):
         p = d / f"{stem}.md"
         if p.exists():
             return p
@@ -150,8 +153,15 @@ def execute(stem, p, src):
 
     def save():
         entry["updated"] = _dt.datetime.now().isoformat(timespec="seconds")
-        LEDGER.write_text(json.dumps(ledger, ensure_ascii=False, indent=1, sort_keys=True) + "\n",
-                          encoding="utf-8")
+        text = json.dumps(ledger, ensure_ascii=False, indent=1, sort_keys=True) + "\n"
+        for attempt in range(10):  # the file can be briefly locked on Windows (indexer, sync)
+            try:
+                LEDGER.write_text(text, encoding="utf-8")
+                return
+            except OSError:
+                if attempt == 9:
+                    raise
+                _time.sleep(0.5)
 
     def done(step, key, value, **kw):
         entry[key] = value

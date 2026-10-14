@@ -1,0 +1,41 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/processed/commentaries/Ha_3CFM.toc.md",
+  "validated_at": "2026-10-14T10:28:42.600936+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 1183 from 1183 footnote definition(s)",
+    "toc: 35 headers found"
+  ],
+  "warnings": [
+    "segment 1471 (^b-5): footnote [^1182] lemma 'བསྒྱུར་བའོ།།' does not end at the marker — the durchen will span the syllable before it, 'བའོོ'",
+    "segment 1471 (^b-5): footnote [^1183] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'བའོོ།།'",
+    "author 'Haribhadra': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3137",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "བཅོམ་ལྡན་འདས་ཡོན་ཏན་རིན་པོ་ཆེ་སྡུད་པའི་ཚིགས་སུ་བཅད་པའི་དཀའ་འགྲེལ་ཞེས་བྱ་བ།"
+      },
+      {
+        "bo": "སྡུད་འགྲེལ་རྟོགས་པར་སླ་བ།"
+      }
+    ],
+    "language": "bo",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

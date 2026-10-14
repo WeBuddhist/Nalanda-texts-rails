@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/processed/commentaries/Va_3CE2.toc.md",
+  "validated_at": "2026-10-14T10:32:08.703318+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 2254 from 2254 footnote definition(s)",
+    "toc: 195 headers found"
+  ],
+  "warnings": [
+    "author 'Vasubandhu': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3153",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་པ་དང་།ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་། ཁྲི་བརྒྱད་སྟོང་པའི་རྒྱ་ཆེར་བཤད་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་པ་དང་། ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་། ཁྲི་བརྒྱད་སྟོང་པའི་རྒྱ་ཆེར་བཤད་པ།"
+      },
+      {
+        "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་པ་དང་། ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་། ཁྲི་བརྒྱད་སྟོང་པ་རྒྱ་ཆེར་བཤད་པ།"
+      },
+      {
+        "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་པ་དང་ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་ཁྲི་བརྒྱད་སྟོང་པའི་རྒྱ་ཆེར་བཤད་པ།"
+      },
+      {
+        "bo": "ཤེས་ཕྱིན་འབུམ་པ་དང་། ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་། ཁྲི་བརྒྱད་སྟོང་པ་རྒྱ་ཆེར་བཤད་པ།"
+      },
+      {
+        "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་འབུམ་པ་དང་ཉི་ཁྲི་ལྔ་སྟོང་པ་དང་ཁྲི་བརྒྱད་སྟོང་པའི་རྒྱ་ཆེར་བཤད་པ།"
+      }
+    ],
+    "language": "bo",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
