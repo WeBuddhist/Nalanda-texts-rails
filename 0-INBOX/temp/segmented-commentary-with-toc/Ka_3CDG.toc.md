@@ -1,5 +1,28 @@
+---
+title: "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ་རྒྱ་ཆེར་བཤད་པ།"
+alt_titles:
+  - bo: "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པའི་རྒྱ་ཆེར་བཤད་པ།"
+  - bo: "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ་རྒྱ་ཆེར་བཤད་པ།"
+author: "ཀ་མ་ལ་ཤཱི་ལ།"
+author_in_english: "kamalashila"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 46) ཀ་མ་ལ་ཤཱི་ལའི་གསུང་འབུམ། ཀ༽ .docx (08-Kamalashila); https://wb.pub/3CDG"
+bdrc_work_id: "WA0RT3160"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "08-Kamalashila"
+category_id: "uGpinx0GZlvU1uw44RyYS"
+category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+openpecha_text_id: "hiYrc4BPc0vbjYnPx6Ps4"
+---
 
-# ༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ་རྒྱ་ཆེར་བཤད་པ།
+# ༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་བདུན་བརྒྱ་པ་རྒྱ་ཆེར་བཤད་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

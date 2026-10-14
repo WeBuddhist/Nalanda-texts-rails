@@ -20,7 +20,7 @@ category_name: "Discourses / མདོ་སྡེ།"
 openpecha_text_id: "0OUgC7JNJmI0djtXhJHyz"
 ---
 
-## ༄༅། །ཚིགས་སུ་བཅད་པ་གཅིག་པའི་བཤད་པ།
+# ༄༅། །ཚིགས་སུ་བཅད་པ་གཅིག་པའི་བཤད་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

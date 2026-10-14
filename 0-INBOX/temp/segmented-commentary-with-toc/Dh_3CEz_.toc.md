@@ -1,5 +1,28 @@
+---
+title: "རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་སྤྱན་འབྱེད།"
+alt_titles:
+  - bo: "རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་སྤྱན་འབྱེད་ཅེས་བྱ་བ།"
+  - bo: "རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་སྤྱན་འབྱེད་ཞེས་བྱ་བ།"
+author: "སློབ་དཔོན་དྷརྨ་ཀཱི་རྟི།"
+author_in_english: "Dharmakīrti III"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 77) ཆོས་གྲགས་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (12-Dharmakirti); https://wb.pub/3CEz"
+bdrc_work_id: "WA0RT0320"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "12-Dharmakirti"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id: "Cg6Hf3hZOG33DfEgBKql5"
+---
 
-# ༄༅། །རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་སྤྱན་འབྱེད།
+# ༄༅། །རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་སྤྱན་འབྱེད། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

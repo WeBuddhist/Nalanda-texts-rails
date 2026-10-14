@@ -1,5 +1,26 @@
+---
+title: "དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 68) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ཆ༽ .docx (10-Vasubandhu); https://wb.pub/3CEF"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "10-Vasubandhu"
+category_id: "uGpinx0GZlvU1uw44RyYS"
+category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+openpecha_text_id: "JNwkKtmUZaerroM2TNY7F"
+---
 
-# ༄༅། །དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ།
+# ༄༅། །དབུས་དང་མཐའ་རྣམ་པར་འབྱེད་པའི་འགྲེལ་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

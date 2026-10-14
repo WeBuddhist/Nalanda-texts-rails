@@ -1,5 +1,29 @@
+---
+title: "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།"
+alt_titles:
+  - bo: "མངོན་རྟོགས་རྒྱན་གྱི་འགྲེལ་པ།"
+  - bo: "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཅེས་བྱ་བའི་འགྲེལ་པ།"
+  - bo: "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཅེས་བྱ་བའི་འགྲེལ་པ་བམ་པོ་དང་པོ།"
+author: "སེངྒེ་བཟང་པོ།"
+author_in_english: "Haribhadra"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 89) སེངྒེ་བཟང་པོའི་གསུང་འབུམ། ཉ༽ .docx (14-Haribhadra); https://wb.pub/3CFN"
+bdrc_work_id: "WA0RT3138"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "14-Haribhadra"
+category_id: "uGpinx0GZlvU1uw44RyYS"
+category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+openpecha_text_id: "sRlnSYAkvUdiaZODaGTmH"
+---
 
-# ༄༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།
+# ༄༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

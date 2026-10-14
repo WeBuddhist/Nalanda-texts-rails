@@ -1,5 +1,27 @@
+---
+title: "དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྷ་པཱ་ལི་ཏ།"
+alt_titles:
+  - bo: "དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྡྷ་པ་ལི་ཏ།"
+author: "སློབ་དཔོན་སངས་རྒྱས་བསྐྱངས།"
+author_in_english: "Buddhapālita"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 28) སངས་རྒྱས་བསྐྱངས་ཀྱི་གསུང་འབུམ།། ཀ .docx (03-Buddhapalita); https://wb.pub/3CCC"
+bdrc_work_id: "WA0RT3187"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "03-Buddhapalita"
+category_id: "JD5ULLPAV1cxg7RSb7L3q"
+category_name: "Middle Way / དབུ་མ།"
+openpecha_text_id: "T6NE3lxmesbzk0Y1u5Sfj"
+---
 
-# ༄༅། །དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྷ་པཱ་ལི་ཏ།
+# ༄༅། །དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྷ་པཱ་ལི་ཏ། ^0
 
 ༄༅༅། །རྒྱ་གར་སྐད་དུ། བུདྡྷ་པཱ་ལི་ཏ་མཱུ་ལ་མ་དྷྱ་མ་ཀ་བྲྀཏྟི། བོད་སྐད་དུ། དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྷ་པཱ་ལི་ཏ། བམ་པོ་དང་པོ།
 

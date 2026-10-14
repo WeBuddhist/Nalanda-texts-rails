@@ -1,5 +1,26 @@
+---
+title: "སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་བཤད་པའི་ཊཱི་ཀཱ།བར་ཆ།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 30) ལེགས་ལྡན་འབྱེད་ཀྱི་གསུང་འབུམ། ཁ .docx (04-Bhavaviveka); https://wb.pub/3CCE"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "04-Bhavaviveka"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id:
+---
 
-# ༄༅། །སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་བཤད་པའི་ཊཱི་ཀཱ།བར་ཆ།
+# ༄༅། །སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་བཤད་པའི་ཊཱི་ཀཱ།བར་ཆ། ^0
 
 ## ལེའུ་བཞི་པ། ^4-0
 

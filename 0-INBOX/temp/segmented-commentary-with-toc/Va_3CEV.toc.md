@@ -20,7 +20,7 @@ category_name: "Mind-only Treatises / སེམས་ཙམ།"
 openpecha_text_id: "pVFCgPKkLfrCicqzyyoKU"
 ---
 
-### ༄༅། །དོན་གསང་བ་རྣམ་པར་ཕྱེ་བ་བསྡུས་ཏེ་བཤད་པ།
+# ༄༅། །དོན་གསང་བ་རྣམ་པར་ཕྱེ་བ་བསྡུས་ཏེ་བཤད་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

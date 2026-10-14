@@ -1,5 +1,26 @@
+---
+title: "དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་དཀའ་འགྲེལ།༼བར་ཆ།༽"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 50) ཀ་མ་ལ་ཤཱི་ལའི་གསུང་འབུམ། ཅ༽ .docx (08-Kamalashila); https://wb.pub/3CDa"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "08-Kamalashila"
+category_id: "v3L4eTn4x2E30znIhHvQe"
+category_name: "Logic / ཚད་མ།"
+openpecha_text_id:
+---
 
-# ༄༅། །དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་དཀའ་འགྲེལ།༼བར་ཆ།༽
+# ༄༅། །དེ་ཁོ་ན་ཉིད་བསྡུས་པའི་དཀའ་འགྲེལ།༼བར་ཆ།༽ ^0
 
 ## སྒྲའི་དོན་བརྟག་པ་སྟེ་ཉི་ཤུ་རྩ་གཅིག་པ། ^1-0
 

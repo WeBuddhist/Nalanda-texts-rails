@@ -1,5 +1,28 @@
+---
+title: "ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ།"
+alt_titles:
+  - bo: "ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ་བཞུགས།"
+  - bo: "ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད།"
+author:
+author_in_english: "Atiśa"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CGr"
+bdrc_work_id: "WA0RT3168"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "17-Atisha"
+category_id: "uGpinx0GZlvU1uw44RyYS"
+category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+openpecha_text_id: "zlm8VM6YLBDMu4sG4nrGe"
+---
 
-# ༄། །ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ་བཞུགས།
+# ༄། །ཤེས་རབ་སྙིང་པོའི་རྣམ་པར་བཤད་པ་བཞུགས། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

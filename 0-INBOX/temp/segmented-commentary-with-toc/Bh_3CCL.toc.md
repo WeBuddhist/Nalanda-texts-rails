@@ -1,5 +1,27 @@
+---
+title: "དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཤེས་རབ་སྒྲོན་མ།"
+alt_titles:
+  - bo: "དབུ་མའི་རྩ་བའི་འགྲེལ་པ་ཤེས་རབ་སྒྲོན་མ།"
+author: "སློབ་དཔོན་ལེགས་ལྡན་འབྱེད།"
+author_in_english: "Bhāviveka"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 32) ལེགས་ལྡན་འབྱེད་ཀྱི་གསུང་འབུམ། ང .docx (04-Bhavaviveka); https://wb.pub/3CCL"
+bdrc_work_id: "WA0RT3198"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "04-Bhavaviveka"
+category_id: "JD5ULLPAV1cxg7RSb7L3q"
+category_name: "Middle Way / དབུ་མ།"
+openpecha_text_id: "KdAH4X4NeHYOvtcLKD6mf"
+---
 
-# ༄༅། །དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཤེས་རབ་སྒྲོན་མ།
+# ༄༅། །དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཤེས་རབ་སྒྲོན་མ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

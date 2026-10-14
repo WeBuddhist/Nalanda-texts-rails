@@ -1,5 +1,26 @@
+---
+title: "གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ།"
+alt_titles:
+author: "ཟླ་བ་གྲགས་པ།"
+author_in_english: "Candrakīrti I"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 35) དཔལ་ལྡན་ཟླ་བ་གྲགས་པའི་གསུང་འབུམ། ཀ .docx (05-Chandrakirti); https://wb.pub/3CCT"
+bdrc_work_id: "WA0RT0680"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "05-Chandrakirti"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id: "em3gguVpIUyFWz4E0feXg"
+---
 
-# ༄༅། །གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ།
+# ༄༅། །གསང་བ་འདུས་པའི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

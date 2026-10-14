@@ -1,5 +1,26 @@
+---
+title: "འབྲེལ་པ་བརྟག་པའི་འགྲེལ་པ།"
+alt_titles:
+author: "ཆོས་གྲགས།"
+author_in_english: "Dharmakīrti I"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 80) ཆོས་གྲགས་ཀྱི་གསུང་འབུམ། ང༽ .docx (12-Dharmakirti); https://wb.pub/3CFA"
+bdrc_work_id: "WA0RT3552"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "12-Dharmakirti"
+category_id: "v3L4eTn4x2E30znIhHvQe"
+category_name: "Logic / ཚད་མ།"
+openpecha_text_id: "x9nv2cZHFLdkWm34gaChx"
+---
 
-# ༄༅། །འབྲེལ་པ་བརྟག་པའི་འགྲེལ་པ།
+# ༄༅། །འབྲེལ་པ་བརྟག་པའི་འགྲེལ་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

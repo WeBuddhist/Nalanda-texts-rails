@@ -1,5 +1,26 @@
+---
+title: "ཕུང་པོ་ལྔའི་རྣམ་པར་འགྲེལ་པ།"
+alt_titles:
+author: "སློབ་དཔོན་ཡོན་ཏན་འོད།"
+author_in_english: "Guṇaprabha"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 90) ཡོན་ཏན་འོད་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (15-Gunaprabha); https://wb.pub/3CFR"
+bdrc_work_id: "WA0RT3405"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "15-Gunaprabha"
+category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
+category_name: "Mind-only Treatises / སེམས་ཙམ།"
+openpecha_text_id: "H75GVvpXSDeh0lbo8w3PO"
+---
 
-# ༄༅། །ཕུང་པོ་ལྔའི་རྣམ་པར་འགྲེལ་པ།
+# ༄༅། །ཕུང་པོ་ལྔའི་རྣམ་པར་འགྲེལ་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

@@ -1,5 +1,27 @@
+---
+title: "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་ཚུལ་གྱི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ།"
+alt_titles:
+  - bo: "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་ཚུལ་གྱི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་བཞུགས། །"
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 81 འཕགས་པ་གྲོལ་སྡེའི་གསུང་འབུམ། ཀ .docx (13-Arya Vimuktisena); https://wb.pub/3CFE"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "13-Arya Vimuktisena"
+category_id: "uGpinx0GZlvU1uw44RyYS"
+category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+openpecha_text_id:
+---
 
-# ༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་ཚུལ་གྱི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་བཞུགས། །
+# ༄༅། །འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་ཚུལ་གྱི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་བཞུགས། ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

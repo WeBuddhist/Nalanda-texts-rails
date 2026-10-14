@@ -1,5 +1,26 @@
+---
+title: "ཨེ་ཀ་ནཱ་ཐའི་དོན་འགྲེལ།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 75) ཕྱོགས་གླང་གི་གསུང་འབུམ། ཀ༽ .docx (11-Dignaga); https://wb.pub/3CEh"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "11-Dignaga"
+category_id: "SoGlGBaboYkVa7b9qJvvK"
+category_name: "Miscellaneous / སྣ་ཚོགས།"
+openpecha_text_id:
+---
 
-# ༄༅། །ཨེ་ཀ་ནཱ་ཐའི་དོན་འགྲེལ།
+# ༄༅། །ཨེ་ཀ་ནཱ་ཐའི་དོན་འགྲེལ། ^0
 
 ## བསྟོད་པ་དངོས། ^1-0
 

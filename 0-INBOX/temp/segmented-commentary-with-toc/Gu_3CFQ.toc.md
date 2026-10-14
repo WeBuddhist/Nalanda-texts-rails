@@ -1,5 +1,27 @@
+---
+title: "བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུའི་འགྲེལ་པ།"
+alt_titles:
+  - bo: "བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུའི་འགྲེལ་པ་བཞུགས་སོ། །"
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 90) ཡོན་ཏན་འོད་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (15-Gunaprabha); https://wb.pub/3CFQ"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "15-Gunaprabha"
+category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
+category_name: "Mind-only Treatises / སེམས་ཙམ།"
+openpecha_text_id:
+---
 
-# ༄། །བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུའི་འགྲེལ་པ་བཞུགས་སོ། །
+# ༄། །བྱང་ཆུབ་སེམས་དཔའི་ཚུལ་ཁྲིམས་ཀྱི་ལེའུའི་འགྲེལ་པ་བཞུགས་སོ། ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

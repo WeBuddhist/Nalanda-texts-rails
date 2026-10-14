@@ -1,5 +1,26 @@
+---
+title: "འདུལ་བའི་མདོའི་འགྲེལ་པ།༼སྨད་ཆ།༽"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 96) ཡོན་ཏན་འོད་ཀྱི་གསུང་འབུམ། ཇ༽ ཟུ། སྨད། .docx (15-Gunaprabha); https://wb.pub/3CFY"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "15-Gunaprabha"
+category_id: "4wuvGxIgXNZ5mb0bDWvkC"
+category_name: "Monastic Rules / འདུལ་བ།"
+openpecha_text_id:
+---
 
-# ༄༅། །འདུལ་བའི་མདོའི་འགྲེལ་པ།༼སྨད་ཆ།༽
+# ༄༅། །འདུལ་བའི་མདོའི་འགྲེལ་པ།༼སྨད་ཆ།༽ ^0
 
 ## ས་རྐོ་བའི་ལྟུང་བ། ^1-0
 

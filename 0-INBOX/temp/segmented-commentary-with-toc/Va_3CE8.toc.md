@@ -24,7 +24,7 @@ category_name: "Discourses / མདོ་སྡེ།"
 openpecha_text_id: "NQwKjbjxhETmEYypHbMGP"
 ---
 
-## ༄༅། །འཕགས་པ་ཆོས་བཞི་པའི་རྣམ་པར་བཤད་པ།
+# ༄༅། །འཕགས་པ་ཆོས་བཞི་པའི་རྣམ་པར་བཤད་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

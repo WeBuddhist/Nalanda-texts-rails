@@ -20,7 +20,7 @@ category_name: "Middle Way / དབུ་མ།"
 openpecha_text_id: "0UpTWku7Q2Ync3R13WbXF"
 ---
 
-# ༄༅། །རྩོད་པ་བཟློག་པའི་འགྲེལ་པ།
+# ༄༅། །རྩོད་པ་བཟློག་པའི་འགྲེལ་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 
