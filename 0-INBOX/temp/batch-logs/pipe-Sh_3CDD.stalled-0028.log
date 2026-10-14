@@ -1,0 +1,183 @@
+[Sh_3CDD] using closing-line tree closing-tree-Sh_3CDD.md
+[Sh_3CDD] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CDD\toc-tree-Sh_3CDD.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CDD\toc-tree-Sh_3CDD.json
+Parsed 51 nodes (5 frame), max depth 5.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CDD\toc-tree-Sh_3CDD.json
+  depth  1: 9 nodes
+  depth  2: 26 nodes
+  depth  3: 3 nodes
+  depth  4: 5 nodes
+  depth  5: 8 nodes
+[Sh_3CDD] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CDD\toc-tree-Sh_3CDD.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Sh_3CDD\Sh_3CDD.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            51
+  Inserted:               51
+  Already present:        0
+  Blocks split at a node: 2 ['1', '5.8']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Sh_3CDD\Sh_3CDD.toc.md
+[Sh_3CDD] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Sh_3CDD.toc.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Sh_3CDD 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Sh_3CDD.toc.md...
+Blocks: 2379 (headings: 52, content: 2327)
+Windows: 68
+Windows to process: 68 / 68
+Running 68 windows with 8 worker threads...
+  [130.0s] Window 4/68 done: 10 op(s)
+  [141.3s] Window 1/68 done: 8 op(s)
+  [145.0s] Window 2/68 done: 7 op(s)
+  [158.8s] Window 3/68 done: 6 op(s)
+  [204.4s] Window 5/68 done: 13 op(s)
+  [230.2s] Window 7/68 done: 13 op(s)
+  [257.4s] Window 6/68 done: 9 op(s)
+  [143.3s] Window 9/68 done: 10 op(s)
+  [284.7s] Window 8/68 done: 7 op(s)
+  [147.0s] Window 10/68 done: 11 op(s)
+  [166.3s] Window 12/68 done: 10 op(s)
+  [203.7s] Window 11/68 done: 9 op(s)
+  [180.3s] Window 13/68 done: 11 op(s)
+  [167.4s] Window 14/68 done: 8 op(s)
+  [150.1s] Window 16/68 done: 9 op(s)
+  [161.0s] Window 17/68 done: 11 op(s)
+  [199.6s] Window 15/68 done: 7 op(s)
+  [127.5s] Window 20/68 done: 12 op(s)
+  [166.9s] Window 19/68 done: 9 op(s)
+  [90.4s] Window 24/68 done: 13 op(s)
+  [79.4s] Window 25/68 done: 9 op(s)
+  [258.9s] Window 18/68 done: 12 op(s)
+  [103.2s] Window 26/68 done: 8 op(s)
+  [186.1s] Window 23/68 done: 11 op(s)
+  [239.8s] Window 21/68 done: 7 op(s)
+  [148.3s] Window 27/68 done: 15 op(s)
+  [250.4s] Window 22/68 done: 10 op(s)
+  [169.0s] Window 30/68 done: 9 op(s)
+  [186.7s] Window 28/68 done: 13 op(s)
+  [203.8s] Window 29/68 done: 10 op(s)
+  [146.9s] Window 34/68 done: 8 op(s)
+  [208.4s] Window 31/68 done: 11 op(s)
+  [188.7s] Window 32/68 done: 7 op(s)
+  [82.4s] Window 36/68 done: 10 op(s)
+  [176.7s] Window 33/68 done: 8 op(s)
+  [96.3s] Window 38/68 done: 8 op(s)
+  [193.5s] Window 35/68 done: 13 op(s)
+  [160.2s] Window 37/68 done: 10 op(s)
+  [104.6s] Window 40/68 done: 10 op(s)
+  [116.5s] Window 43/68 done: 9 op(s)
+  [107.0s] Window 44/68 done: 10 op(s)
+  [147.0s] Window 42/68 done: 11 op(s)
+  [188.9s] Window 39/68 done: 11 op(s)
+  [89.1s] Window 47/68 done: 8 op(s)
+  [172.2s] Window 45/68 done: 10 op(s)
+  [225.6s] Window 41/68 done: 11 op(s)
+  [113.8s] Window 49/68 done: 9 op(s)
+  [159.9s] Window 48/68 done: 8 op(s)
+  [194.5s] Window 46/68 done: 12 op(s)
+  [132.6s] Window 51/68 done: 8 op(s)
+  [167.1s] Window 50/68 done: 9 op(s)
+  [63.1s] Window 55/68 done: 5 op(s)
+  [113.0s] Window 54/68 done: 10 op(s)
+  [158.8s] Window 52/68 done: 8 op(s)
+  [168.0s] Window 53/68 done: 11 op(s)
+  [116.4s] Window 56/68 done: 7 op(s)
+  [111.1s] Window 62/68 done: 9 op(s)
+  [157.6s] Window 58/68 done: 10 op(s)
+  [147.1s] Window 61/68 done: 11 op(s)
+  [116.9s] Window 63/68 done: 9 op(s)
+  [150.4s] Window 64/68 done: 9 op(s)
+  [230.5s] Window 60/68 done: 8 op(s)
+  [282.0s] Window 57/68 done: 10 op(s)
+  [253.0s] Window 59/68 done: 11 op(s)
+  [104.4s] Window 67/68 done: 9 op(s)
+  [137.3s] Window 66/68 done: 7 op(s)
+  [146.0s] Window 68/68 done: 3 op(s)
+  [225.1s] Window 65/68 done: 9 op(s)
+
+Combining operations...
+Operations to apply: 567
+Blocks: 2379 -> 1127
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CDD.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CDD.ops.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\qc_check_batched.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CDD.reseg.md --commentary-id Sh_3CDD
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CDD.reseg.md
+ID:     Sh_3CDD
+
+Blocks: 1127
+
+Step 1 — Deterministic checks...
+  65 flag(s) found.
+  Block 23 — OVER_LENGTH (279 syl)
+  Block 27 — OVER_LENGTH (533 syl)
+  Block 29 — OBJECTION_REPLY_FUSED
+  Block 33 — OVER_LENGTH (282 syl)
+  Block 55 — OBJECTION_REPLY_FUSED
+  Block 72 — OBJECTION_REPLY_FUSED
+  Block 79 — OBJECTION_REPLY_FUSED
+  Block 96 — OVER_LENGTH (455 syl)
+  Block 105 — OBJECTION_REPLY_FUSED
+  Block 129 — OBJECTION_REPLY_FUSED
+  Block 143 — OBJECTION_REPLY_FUSED
+  Block 145 — OBJECTION_REPLY_FUSED
+  Block 153 — OVER_LENGTH (281 syl)
+  Block 171 — OBJECTION_REPLY_FUSED
+  Block 183 — OBJECTION_REPLY_FUSED
+  Block 186 — OBJECTION_REPLY_FUSED
+  Block 197 — OVER_LENGTH (339 syl)
+  Block 199 — OVER_LENGTH (414 syl)
+  Block 213 — OVER_LENGTH (309 syl)
+  Block 237 — OBJECTION_REPLY_FUSED
+  Block 269 — OBJECTION_REPLY_FUSED
+  Block 274 — OVER_LENGTH (275 syl)
+  Block 296 — OBJECTION_REPLY_FUSED
+  Block 307 — OBJECTION_REPLY_FUSED
+  Block 316 — CONNECTOR_ENDING
+  Block 325 — OBJECTION_REPLY_FUSED
+  Block 383 — OBJECTION_REPLY_FUSED
+  Block 391 — OBJECTION_REPLY_FUSED
+  Block 400 — OBJECTION_REPLY_FUSED
+  Block 408 — OBJECTION_REPLY_FUSED
+  Block 447 — OBJECTION_REPLY_FUSED
+  Block 522 — OVER_LENGTH (291 syl)
+  Block 523 — OVER_LENGTH (279 syl)
+  Block 528 — OBJECTION_REPLY_FUSED
+  Block 540 — SHORT_FRAGMENT (3 syl)
+  Block 580 — OBJECTION_REPLY_FUSED
+  Block 582 — OBJECTION_REPLY_FUSED
+  Block 659 — SHORT_FRAGMENT (3 syl)
+  Block 661 — SHORT_FRAGMENT (3 syl)
+  Block 663 — CONNECTOR_ENDING
+  Block 665 — SHORT_FRAGMENT (3 syl)
+  Block 686 — OBJECTION_REPLY_FUSED
+  Block 689 — OBJECTION_REPLY_FUSED
+  Block 690 — SHORT_FRAGMENT (3 syl)
+  Block 692 — SHORT_FRAGMENT (3 syl)
+  Block 693 — OBJECTION_REPLY_FUSED
+  Block 698 — OBJECTION_REPLY_FUSED
+  Block 731 — SHORT_FRAGMENT (3 syl)
+  Block 742 — SHORT_FRAGMENT (3 syl)
+  Block 744 — SHORT_FRAGMENT (3 syl)
+  Block 753 — OBJECTION_REPLY_FUSED
+  Block 849 — OBJECTION_REPLY_FUSED
+  Block 869 — SHORT_FRAGMENT (3 syl)
+  Block 934 — OBJECTION_REPLY_FUSED
+  Block 955 — OBJECTION_REPLY_FUSED
+  Block 984 — OBJECTION_REPLY_FUSED
+  Block 1020 — OBJECTION_REPLY_FUSED
+  Block 1035 — OBJECTION_REPLY_FUSED
+  Block 1047 — OVER_LENGTH (329 syl)
+  Block 1049 — OBJECTION_REPLY_FUSED
+  Block 1049 — OVER_LENGTH (393 syl)
+  Block 1063 — OBJECTION_REPLY_FUSED
+  Block 1117 — SHORT_FRAGMENT (3 syl)
+  Block 1119 — OBJECTION_REPLY_FUSED
+  Block 1119 — OVER_LENGTH (476 syl)
+
+Step 2 — LLM repair...
+  batch 1: 30 flag(s)
+  ! qc-repair attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  ! qc-repair attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 20s...
+  ! qc-repair attempt 3/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 39s...

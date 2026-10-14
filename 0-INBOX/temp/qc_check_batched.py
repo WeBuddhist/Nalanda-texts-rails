@@ -13,7 +13,8 @@ VAULT = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(VAULT / "4-SYSTEM" / "Skills" / "commentary-resegment" / "scripts"))
 import qc_check  # noqa: E402
 
-BATCH = 30
+import os
+BATCH = int(os.environ.get("QC_BATCH", "30"))
 _one_call = qc_check.call_llm_repair
 
 

@@ -1,0 +1,78 @@
+[Va_3CEE] using closing-line tree closing-tree-Va_3CEE.md
+[Va_3CEE] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEE\toc-tree-Va_3CEE.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEE\toc-tree-Va_3CEE.json
+Parsed 95 nodes (5 frame), max depth 4.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEE\toc-tree-Va_3CEE.json
+  depth  1: 19 nodes
+  depth  2: 28 nodes
+  depth  3: 45 nodes
+  depth  4: 3 nodes
+[Va_3CEE] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEE\toc-tree-Va_3CEE.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEE\Va_3CEE.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            95
+  Inserted:               95
+  Already present:        0
+  Blocks split at a node: 4 ['3.2', '8.14.2', '8.14.4', 'b']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEE\Va_3CEE.toc.md
+[Va_3CEE] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Va_3CEE.toc.md
+[Va_3CEE] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Va_3CEE 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Va_3CEE.toc.md...
+Blocks: 477 (headings: 96, content: 381)
+Windows: 14
+Windows to process: 14 / 14
+Running 14 windows with 8 worker threads...
+  [69.5s] Window 1/14 done: 4 op(s)
+  [84.7s] Window 7/14 done: 7 op(s)
+  [90.2s] Window 8/14 done: 9 op(s)
+  [102.9s] Window 2/14 done: 8 op(s)
+  [109.1s] Window 6/14 done: 8 op(s)
+  [122.7s] Window 3/14 done: 8 op(s)
+  [142.3s] Window 4/14 done: 8 op(s)
+  [31.5s] Window 14/14 done: 3 op(s)
+  [51.5s] Window 12/14 done: 10 op(s)
+  [46.7s] Window 13/14 done: 8 op(s)
+  [78.8s] Window 11/14 done: 7 op(s)
+  [88.3s] Window 10/14 done: 8 op(s)
+  [180.0s] Window 5/14 done: 8 op(s)
+  [162.8s] Window 9/14 done: 7 op(s)
+
+Combining operations...
+Operations to apply: 91
+Blocks: 477 -> 258
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEE.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEE.ops.md
+[Va_3CEE] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEE.reseg.md --commentary-id Va_3CEE
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEE.reseg.md
+ID:     Va_3CEE
+
+Blocks: 258
+
+Step 1 — Deterministic checks...
+  17 flag(s) found.
+  Block 7 — OVER_LENGTH (288 syl)
+  Block 10 — OVER_LENGTH (272 syl)
+  Block 22 — CONNECTOR_ENDING
+  Block 37 — OVER_LENGTH (308 syl)
+  Block 39 — OVER_LENGTH (251 syl)
+  Block 60 — OVER_LENGTH (445 syl)
+  Block 91 — OVER_LENGTH (329 syl)
+  Block 100 — SHORT_FRAGMENT (2 syl)
+  Block 108 — SHORT_FRAGMENT (2 syl)
+  Block 124 — OVER_LENGTH (273 syl)
+  Block 129 — SHORT_FRAGMENT (2 syl)
+  Block 161 — SHORT_FRAGMENT (2 syl)
+  Block 165 — OVER_LENGTH (464 syl)
+  Block 185 — CONNECTOR_ENDING
+  Block 187 — CONNECTOR_ENDING
+  Block 205 — CONNECTOR_ENDING
+  Block 224 — OVER_LENGTH (298 syl)
+
+Step 2 — LLM repair...

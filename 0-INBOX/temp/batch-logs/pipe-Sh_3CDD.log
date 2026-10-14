@@ -25,11 +25,88 @@ Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang
 Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Sh_3CDD.toc.md...
 Blocks: 2379 (headings: 52, content: 2327)
 Windows: 68
-Windows to process: 68 / 68
-Running 68 windows with 8 worker threads...
-  [130.0s] Window 4/68 done: 10 op(s)
-  [141.3s] Window 1/68 done: 8 op(s)
-  [145.0s] Window 2/68 done: 7 op(s)
-  [158.8s] Window 3/68 done: 6 op(s)
-  [204.4s] Window 5/68 done: 13 op(s)
-  [230.2s] Window 7/68 done: 13 op(s)
+Windows to process: 0 / 68
+
+Combining operations...
+Operations to apply: 567
+Blocks: 2379 -> 1127
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CDD.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CDD.ops.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\qc_check_batched.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CDD.reseg.md --commentary-id Sh_3CDD
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CDD.reseg.md
+ID:     Sh_3CDD
+
+Blocks: 1127
+
+Step 1 — Deterministic checks...
+  65 flag(s) found.
+  Block 23 — OVER_LENGTH (279 syl)
+  Block 27 — OVER_LENGTH (533 syl)
+  Block 29 — OBJECTION_REPLY_FUSED
+  Block 33 — OVER_LENGTH (282 syl)
+  Block 55 — OBJECTION_REPLY_FUSED
+  Block 72 — OBJECTION_REPLY_FUSED
+  Block 79 — OBJECTION_REPLY_FUSED
+  Block 96 — OVER_LENGTH (455 syl)
+  Block 105 — OBJECTION_REPLY_FUSED
+  Block 129 — OBJECTION_REPLY_FUSED
+  Block 143 — OBJECTION_REPLY_FUSED
+  Block 145 — OBJECTION_REPLY_FUSED
+  Block 153 — OVER_LENGTH (281 syl)
+  Block 171 — OBJECTION_REPLY_FUSED
+  Block 183 — OBJECTION_REPLY_FUSED
+  Block 186 — OBJECTION_REPLY_FUSED
+  Block 197 — OVER_LENGTH (339 syl)
+  Block 199 — OVER_LENGTH (414 syl)
+  Block 213 — OVER_LENGTH (309 syl)
+  Block 237 — OBJECTION_REPLY_FUSED
+  Block 269 — OBJECTION_REPLY_FUSED
+  Block 274 — OVER_LENGTH (275 syl)
+  Block 296 — OBJECTION_REPLY_FUSED
+  Block 307 — OBJECTION_REPLY_FUSED
+  Block 316 — CONNECTOR_ENDING
+  Block 325 — OBJECTION_REPLY_FUSED
+  Block 383 — OBJECTION_REPLY_FUSED
+  Block 391 — OBJECTION_REPLY_FUSED
+  Block 400 — OBJECTION_REPLY_FUSED
+  Block 408 — OBJECTION_REPLY_FUSED
+  Block 447 — OBJECTION_REPLY_FUSED
+  Block 522 — OVER_LENGTH (291 syl)
+  Block 523 — OVER_LENGTH (279 syl)
+  Block 528 — OBJECTION_REPLY_FUSED
+  Block 540 — SHORT_FRAGMENT (3 syl)
+  Block 580 — OBJECTION_REPLY_FUSED
+  Block 582 — OBJECTION_REPLY_FUSED
+  Block 659 — SHORT_FRAGMENT (3 syl)
+  Block 661 — SHORT_FRAGMENT (3 syl)
+  Block 663 — CONNECTOR_ENDING
+  Block 665 — SHORT_FRAGMENT (3 syl)
+  Block 686 — OBJECTION_REPLY_FUSED
+  Block 689 — OBJECTION_REPLY_FUSED
+  Block 690 — SHORT_FRAGMENT (3 syl)
+  Block 692 — SHORT_FRAGMENT (3 syl)
+  Block 693 — OBJECTION_REPLY_FUSED
+  Block 698 — OBJECTION_REPLY_FUSED
+  Block 731 — SHORT_FRAGMENT (3 syl)
+  Block 742 — SHORT_FRAGMENT (3 syl)
+  Block 744 — SHORT_FRAGMENT (3 syl)
+  Block 753 — OBJECTION_REPLY_FUSED
+  Block 849 — OBJECTION_REPLY_FUSED
+  Block 869 — SHORT_FRAGMENT (3 syl)
+  Block 934 — OBJECTION_REPLY_FUSED
+  Block 955 — OBJECTION_REPLY_FUSED
+  Block 984 — OBJECTION_REPLY_FUSED
+  Block 1020 — OBJECTION_REPLY_FUSED
+  Block 1035 — OBJECTION_REPLY_FUSED
+  Block 1047 — OVER_LENGTH (329 syl)
+  Block 1049 — OBJECTION_REPLY_FUSED
+  Block 1049 — OVER_LENGTH (393 syl)
+  Block 1063 — OBJECTION_REPLY_FUSED
+  Block 1117 — SHORT_FRAGMENT (3 syl)
+  Block 1119 — OBJECTION_REPLY_FUSED
+  Block 1119 — OVER_LENGTH (476 syl)
+
+Step 2 — LLM repair...
+  batch 1: 10 flag(s)
+  batch 2: 10 flag(s)

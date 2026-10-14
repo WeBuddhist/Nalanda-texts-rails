@@ -1,0 +1,57 @@
+[Va_3CEV] using closing-line tree closing-tree-Va_3CEV.md
+[Va_3CEV] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEV\toc-tree-Va_3CEV.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEV\toc-tree-Va_3CEV.json
+Parsed 57 nodes (2 frame), max depth 7.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEV\toc-tree-Va_3CEV.json
+  depth  1: 4 nodes
+  depth  2: 3 nodes
+  depth  3: 13 nodes
+  depth  4: 16 nodes
+  depth  5: 10 nodes
+  depth  6: 5 nodes
+  depth  7: 6 nodes
+[Va_3CEV] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEV\toc-tree-Va_3CEV.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEV\Va_3CEV.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            57
+  Inserted:               57
+  Already present:        0
+  Blocks split at a node: 1 ['2.1.2.1.2.1.4']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEV\Va_3CEV.toc.md
+[Va_3CEV] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Va_3CEV.toc.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Va_3CEV 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Va_3CEV.toc.md...
+Blocks: 1439 (headings: 58, content: 1381)
+Windows: 41
+Windows to process: 34 / 41
+Running 34 windows with 8 worker threads...
+  [73.8s] Window 13/41 done: 11 op(s)
+  [74.8s] Window 14/41 done: 10 op(s)
+  [109.0s] Window 9/41 done: 7 op(s)
+  [110.9s] Window 10/41 done: 7 op(s)
+  [119.0s] Window 5/41 done: 9 op(s)
+  [174.2s] Window 15/41 done: 9 op(s)
+  [61.9s] Window 20/41 done: 11 op(s)
+  [189.5s] Window 11/41 done: 13 op(s)
+  [141.8s] Window 17/41 done: 6 op(s)
+  [79.5s] Window 21/41 done: 10 op(s)
+  [198.6s] Window 16/41 done: 8 op(s)
+  [94.3s] Window 22/41 done: 11 op(s)
+  [165.0s] Window 19/41 done: 8 op(s)
+  [88.9s] Window 24/41 done: 9 op(s)
+  [215.1s] Window 18/41 done: 6 op(s)
+  [324.5s] Window 12/41 done: 10 op(s)
+  [84.3s] Window 25/41 done: 9 op(s)
+  [98.9s] Window 26/41 done: 7 op(s)
+  [190.8s] Window 23/41 done: 12 op(s)
+  [67.1s] Window 31/41 done: 5 op(s)
+  [98.6s] Window 29/41 done: 11 op(s)
+  [147.0s] Window 27/41 done: 12 op(s)
+  [177.7s] Window 28/41 done: 9 op(s)
+  [122.8s] Window 32/41 done: 10 op(s)
+  [118.7s] Window 33/41 done: 9 op(s)
+  [132.7s] Window 34/41 done: 12 op(s)

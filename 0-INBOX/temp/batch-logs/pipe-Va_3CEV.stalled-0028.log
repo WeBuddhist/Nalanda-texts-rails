@@ -1,0 +1,38 @@
+[Va_3CEV] using closing-line tree closing-tree-Va_3CEV.md
+[Va_3CEV] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEV\toc-tree-Va_3CEV.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEV\toc-tree-Va_3CEV.json
+Parsed 57 nodes (2 frame), max depth 7.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEV\toc-tree-Va_3CEV.json
+  depth  1: 4 nodes
+  depth  2: 3 nodes
+  depth  3: 13 nodes
+  depth  4: 16 nodes
+  depth  5: 10 nodes
+  depth  6: 5 nodes
+  depth  7: 6 nodes
+[Va_3CEV] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEV\toc-tree-Va_3CEV.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEV\Va_3CEV.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            57
+  Inserted:               57
+  Already present:        0
+  Blocks split at a node: 1 ['2.1.2.1.2.1.4']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEV\Va_3CEV.toc.md
+[Va_3CEV] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Va_3CEV.toc.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Va_3CEV 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Va_3CEV.toc.md...
+Blocks: 1439 (headings: 58, content: 1381)
+Windows: 41
+Windows to process: 41 / 41
+Running 41 windows with 8 worker threads...
+  [84.4s] Window 8/41 done: 9 op(s)
+  [98.4s] Window 1/41 done: 8 op(s)
+  [125.7s] Window 7/41 done: 12 op(s)
+  [141.0s] Window 6/41 done: 9 op(s)
+  [157.0s] Window 2/41 done: 8 op(s)
+  [169.4s] Window 3/41 done: 12 op(s)
+  [171.5s] Window 4/41 done: 9 op(s)

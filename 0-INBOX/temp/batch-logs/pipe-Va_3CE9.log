@@ -1,0 +1,75 @@
+[Va_3CE9] using closing-line tree closing-tree-Va_3CE9.md
+[Va_3CE9] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CE9\toc-tree-Va_3CE9.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CE9\toc-tree-Va_3CE9.json
+Parsed 38 nodes (4 frame), max depth 4.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CE9\toc-tree-Va_3CE9.json
+  depth  1: 13 nodes
+  depth  2: 13 nodes
+  depth  3: 6 nodes
+  depth  4: 6 nodes
+[Va_3CE9] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CE9\toc-tree-Va_3CE9.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CE9\Va_3CE9.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            38
+  Inserted:               38
+  Already present:        0
+  Blocks split at a node: 1 ['7.2']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CE9\Va_3CE9.toc.md
+[Va_3CE9] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Va_3CE9.toc.md
+[Va_3CE9] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Va_3CE9 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Va_3CE9.toc.md...
+Blocks: 105 (headings: 39, content: 66)
+Windows: 3
+Windows to process: 3 / 3
+Running 3 windows with 8 worker threads...
+  [71.5s] Window 1/3 done: 8 op(s)
+  [85.9s] Window 2/3 done: 7 op(s)
+  [190.5s] Window 3/3 done: 3 op(s)
+
+Combining operations...
+Operations to apply: 16
+Blocks: 105 -> 77
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CE9.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CE9.ops.md
+[Va_3CE9] Running resegment QC...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\commentary-resegment\scripts\qc_check.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CE9.reseg.md --commentary-id Va_3CE9
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CE9.reseg.md
+ID:     Va_3CE9
+
+Blocks: 77
+
+Step 1 — Deterministic checks...
+  2 flag(s) found.
+  Block 42 — OVER_LENGTH (515 syl)
+  Block 58 — OVER_LENGTH (481 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CE9.qc.md
+
+────────────────────────────────────────
+Flags before : 2
+[Va_3CE9] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CE9\toc-tree-Va_3CE9.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CE9.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Va_3CE9.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            38
+  Inserted:               0
+  Already present:        38
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CE9.reseg.md
+✓ Va_3CE9.reseg.md: identical to Va_3CE9.md (letters and spacing; only breaks, headings, IDs added)
+[Va_3CE9] ALL STEPS COMPLETED SUCCESSFULLY!
+[Va_3CE9] DONE in 234s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Va_3CE9.toc.md
+
+Finished. Failed: none

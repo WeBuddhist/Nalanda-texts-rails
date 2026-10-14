@@ -1,0 +1,50 @@
+[Va_3CEZ] using closing-line tree closing-tree-Va_3CEZ.md
+[Va_3CEZ] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEZ\toc-tree-Va_3CEZ.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEZ\toc-tree-Va_3CEZ.json
+Parsed 116 nodes (4 frame), max depth 4.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEZ\toc-tree-Va_3CEZ.json
+  depth  1: 23 nodes
+  depth  2: 39 nodes
+  depth  3: 48 nodes
+  depth  4: 6 nodes
+[Va_3CEZ] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEZ\toc-tree-Va_3CEZ.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEZ\Va_3CEZ.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            116
+  Inserted:               116
+  Already present:        0
+  Blocks split at a node: 1 ['2.6']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEZ\Va_3CEZ.toc.md
+[Va_3CEZ] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Va_3CEZ.toc.md
+[Va_3CEZ] Running resegmentation...
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Va_3CEZ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Va_3CEZ.toc.md...
+Blocks: 1024 (headings: 117, content: 907)
+Windows: 30
+Windows to process: 30 / 30
+Running 30 windows with 8 worker threads...
+    ! window-5 attempt 1/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Resource has been exhausted (e.g. check quota).', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 9s...
+  [95.4s] Window 4/30 done: 10 op(s)
+  [114.1s] Window 7/30 done: 7 op(s)
+  [150.7s] Window 3/30 done: 3 op(s)
+  [158.0s] Window 1/30 done: 4 op(s)
+  [159.7s] Window 8/30 done: 7 op(s)
+  [160.8s] Window 6/30 done: 7 op(s)
+  [164.4s] Window 2/30 done: 6 op(s)
+  [185.4s] Window 5/30 done: 9 op(s)
+  [44.0s] Window 12/30 done: 8 op(s)
+  [63.3s] Window 11/30 done: 4 op(s)
+  [126.1s] Window 9/30 done: 8 op(s)
+  [159.5s] Window 10/30 done: 8 op(s)
+  [97.3s] Window 16/30 done: 7 op(s)
+  [86.2s] Window 17/30 done: 7 op(s)
+  [125.0s] Window 15/30 done: 5 op(s)
+  [161.6s] Window 13/30 done: 4 op(s)
+  [118.6s] Window 18/30 done: 8 op(s)
+  [69.1s] Window 20/30 done: 6 op(s)
+  [197.2s] Window 14/30 done: 8 op(s)
+  [78.8s] Window 22/30 done: 8 op(s)

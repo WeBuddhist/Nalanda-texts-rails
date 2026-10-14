@@ -85,3 +85,200 @@ Running 74 windows with 8 worker threads...
   [79.9s] Window 61/76 done: 5 op(s)
   [159.6s] Window 57/76 done: 8 op(s)
   [49.5s] Window 67/76 done: 8 op(s)
+  [184.9s] Window 58/76 done: 8 op(s)
+  [178.0s] Window 60/76 done: 9 op(s)
+  [44.2s] Window 69/76 done: 7 op(s)
+  [133.6s] Window 64/76 done: 7 op(s)
+  [111.7s] Window 66/76 done: 9 op(s)
+  [164.9s] Window 63/76 done: 12 op(s)
+  [118.2s] Window 68/76 done: 5 op(s)
+  [18.6s] Window 76/76 done: 0 op(s)
+  [88.9s] Window 73/76 done: 6 op(s)
+  [85.8s] Window 75/76 done: 8 op(s)
+  [125.9s] Window 70/76 done: 6 op(s)
+  [220.1s] Window 65/76 done: 7 op(s)
+  [223.0s] Window 71/76 done: 8 op(s)
+  [235.6s] Window 72/76 done: 9 op(s)
+  [223.5s] Window 74/76 done: 8 op(s)
+
+Combining operations...
+Operations to apply: 518
+Blocks: 2636 -> 1271
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CFa_.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CFa_.ops.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\qc_check_batched.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CFa_.reseg.md --commentary-id Sh_3CFa_
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CFa_.reseg.md
+ID:     Sh_3CFa_
+
+Blocks: 1271
+
+Step 1 — Deterministic checks...
+  104 flag(s) found.
+  Block 10 — OVER_LENGTH (277 syl)
+  Block 13 — SHORT_FRAGMENT (2 syl)
+  Block 22 — CONNECTOR_ENDING
+  Block 63 — CONNECTOR_ENDING
+  Block 68 — SHORT_FRAGMENT (3 syl)
+  Block 90 — OBJECTION_REPLY_FUSED
+  Block 93 — OBJECTION_REPLY_FUSED
+  Block 109 — OBJECTION_REPLY_FUSED
+  Block 112 — CONNECTOR_ENDING
+  Block 112 — OBJECTION_REPLY_FUSED
+  Block 133 — OBJECTION_REPLY_FUSED
+  Block 143 — OBJECTION_REPLY_FUSED
+  Block 144 — OBJECTION_REPLY_FUSED
+  Block 172 — SHORT_FRAGMENT (1 syl)
+  Block 194 — OBJECTION_REPLY_FUSED
+  Block 204 — OBJECTION_REPLY_FUSED
+  Block 225 — OBJECTION_REPLY_FUSED
+  Block 230 — SHORT_FRAGMENT (3 syl)
+  Block 259 — OVER_LENGTH (268 syl)
+  Block 267 — OBJECTION_REPLY_FUSED
+  Block 272 — OVER_LENGTH (272 syl)
+  Block 273 — OBJECTION_REPLY_FUSED
+  Block 274 — OBJECTION_REPLY_FUSED
+  Block 277 — OBJECTION_REPLY_FUSED
+  Block 285 — OBJECTION_REPLY_FUSED
+  Block 294 — OBJECTION_REPLY_FUSED
+  Block 361 — OBJECTION_REPLY_FUSED
+  Block 364 — OBJECTION_REPLY_FUSED
+  Block 397 — OBJECTION_REPLY_FUSED
+  Block 402 — OBJECTION_REPLY_FUSED
+  Block 405 — OBJECTION_REPLY_FUSED
+  Block 446 — OBJECTION_REPLY_FUSED
+  Block 466 — OBJECTION_REPLY_FUSED
+  Block 467 — OVER_LENGTH (391 syl)
+  Block 474 — OBJECTION_REPLY_FUSED
+  Block 490 — OBJECTION_REPLY_FUSED
+  Block 490 — OVER_LENGTH (284 syl)
+  Block 511 — CONNECTOR_ENDING
+  Block 519 — CONNECTOR_ENDING
+  Block 522 — OBJECTION_REPLY_FUSED
+  Block 525 — OBJECTION_REPLY_FUSED
+  Block 554 — CONNECTOR_ENDING
+  Block 627 — SHORT_FRAGMENT (3 syl)
+  Block 638 — SHORT_FRAGMENT (1 syl)
+  Block 650 — OBJECTION_REPLY_FUSED
+  Block 656 — OBJECTION_REPLY_FUSED
+  Block 661 — OBJECTION_REPLY_FUSED
+  Block 662 — CONNECTOR_ENDING
+  Block 678 — OBJECTION_REPLY_FUSED
+  Block 694 — OBJECTION_REPLY_FUSED
+  Block 698 — OBJECTION_REPLY_FUSED
+  Block 705 — OBJECTION_REPLY_FUSED
+  Block 717 — CONNECTOR_ENDING
+  Block 719 — CONNECTOR_ENDING
+  Block 724 — OBJECTION_REPLY_FUSED
+  Block 726 — CONNECTOR_ENDING
+  Block 733 — OVER_LENGTH (251 syl)
+  Block 734 — OBJECTION_REPLY_FUSED
+  Block 739 — OBJECTION_REPLY_FUSED
+  Block 743 — CONNECTOR_ENDING
+  Block 750 — CONNECTOR_ENDING
+  Block 757 — OVER_LENGTH (360 syl)
+  Block 764 — CONNECTOR_ENDING
+  Block 801 — CONNECTOR_ENDING
+  Block 805 — CONNECTOR_ENDING
+  Block 807 — OVER_LENGTH (334 syl)
+  Block 809 — CONNECTOR_ENDING
+  Block 812 — SHORT_FRAGMENT (3 syl)
+  Block 820 — CONNECTOR_ENDING
+  Block 850 — CONNECTOR_ENDING
+  Block 853 — SHORT_FRAGMENT (3 syl)
+  Block 864 — OVER_LENGTH (414 syl)
+  Block 867 — CONNECTOR_ENDING
+  Block 872 — CONNECTOR_ENDING
+  Block 886 — SHORT_FRAGMENT (3 syl)
+  Block 895 — OBJECTION_REPLY_FUSED
+  Block 908 — CONNECTOR_ENDING
+  Block 915 — CONNECTOR_ENDING
+  Block 919 — CONNECTOR_ENDING
+  Block 922 — SHORT_FRAGMENT (3 syl)
+  Block 928 — CONNECTOR_ENDING
+  Block 944 — CONNECTOR_ENDING
+  Block 947 — SHORT_FRAGMENT (3 syl)
+  Block 956 — CONNECTOR_ENDING
+  Block 972 — OBJECTION_REPLY_FUSED
+  Block 973 — OBJECTION_REPLY_FUSED
+  Block 977 — CONNECTOR_ENDING
+  Block 986 — SHORT_FRAGMENT (3 syl)
+  Block 1004 — CONNECTOR_ENDING
+  Block 1022 — CONNECTOR_ENDING
+  Block 1092 — OBJECTION_REPLY_FUSED
+  Block 1094 — CONNECTOR_ENDING
+  Block 1094 — OBJECTION_REPLY_FUSED
+  Block 1101 — OBJECTION_REPLY_FUSED
+  Block 1122 — SHORT_FRAGMENT (3 syl)
+  Block 1133 — CONNECTOR_ENDING
+  Block 1154 — SHORT_FRAGMENT (3 syl)
+  Block 1167 — CONNECTOR_ENDING
+  Block 1170 — OBJECTION_REPLY_FUSED
+  Block 1183 — CONNECTOR_ENDING
+  Block 1187 — SHORT_FRAGMENT (2 syl)
+  Block 1212 — OBJECTION_REPLY_FUSED
+  Block 1215 — OBJECTION_REPLY_FUSED
+  Block 1256 — SHORT_FRAGMENT (3 syl)
+
+Step 2 — LLM repair...
+  batch 1: 30 flag(s)
+  batch 2: 30 flag(s)
+  batch 3: 30 flag(s)
+  batch 4: 14 flag(s)
+  ! qc-repair attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 10s...
+  ! qc-repair attempt 2/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 17s...
+  LLM suggested 22 correction(s):
+    SPLIT block 90 after: 'བརྗོད་པར་བྱ་དགོས་སོ་ཞེ་ན།'
+    SPLIT block 93 after: 'འགལ་བ་ཡིན་ནོ༌[^109]ཞེ་ན།'
+    SPLIT block 109 after: 'ཡིད་ཀྱི་བྱ་བ་ལ་ནི་ལྟུང་བར་ཡང་མི་འདོད་པས་སོ་ཞེ་ན།'
+    SPLIT block 112 after: 'གསུངས་པ་ཇི་ལྟ་བུ་ཡིན་ཞེ་ན།'
+    SPLIT block 133 after: 'གསུངས་པ་ཇི་ལྟ་བུ་ཡིན་ཞེ་ན།'
+    SPLIT block 143 after: 'སྨོས་པར་བྱ་བ་ཡིན་ནོ་ཞེ་ན།'
+    SPLIT block 144 after: 'གསུངས་པས་ཤེ༌[^198]ན།'
+    MERGE [171, 172]
+    SPLIT block 194 after: 'ད་ཇི་ལྟར་གཞན་དུ་བསྟན་ཞེ་ན།'
+    SPLIT block 204 after: 'འདིར་ཇི༌[^312]ལྟར་བསྟན་ཞེ་ན།'
+    SPLIT block 225 after: 'འདི་ཇི་ལྟར་གྲང༌[^349]ཞེ་ན།'
+    SPLIT block 267 after: 'ཅིའི་ཕྱིར་ཕམ་པར་མི་འགྱུར་ཞེ་ན།'
+    SPLIT block 273 after: 'ཞེས་འབྱུང་བ་ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 274 after: 'ཉེས་པ་སྦོམ་པོ་ཞེས་གསུངས་པ་མི་མངོན་ཞེ་ན།'
+    SPLIT block 277 after: ['དེ་དག་གིས་དེ་ཡོངས་སུ་འཛིན་པ་དང་བཅས་པ་ཉིད་ཡིན་ནོ།[^502] །', 'ཕམ་པར་འགྱུར་མོད་ཅེ་ན།']
+    SPLIT block 285 after: 'འོ་ན་དེ༌[^517]མ་བསམས་པ་ཡིན་མོད་ཅེ་ན།'
+    SPLIT block 294 after: 'གང་གསུངས་པ་ཇི་ལྟ་བུ་ཡིན་ཞེ་ན།'
+    SPLIT block 364 after: 'ཇི་ལྟར་བསྒྲུབ་ཅེ་ན།'
+    SPLIT block 397 after: 'ཇི་ལྟར་རྟོགས་པར་བྱ་ཞེ་ན།'
+    MERGE [872, 873]
+    MERGE [956, 957]
+    SPLIT block 1094 after: 'འོ་ན་ཚོན་ཆེན་པོ་བརྒྱད་པོ་ཉེ་བར་མཚོན་པར་མི་འགྱུར་རོ'
+  ✓ Integrity check passed. Blocks: 1271 → 1288
+
+Step 3 — Re-checking after repair...
+  100 flag(s) remain after repair.
+  Updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CFa_.reseg.md
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CFa_.qc.md
+
+────────────────────────────────────────
+Flags before : 104
+Flags after  : 100
+Corrections  : 22
+[Sh_3CFa_] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CFa_\toc-tree-Sh_3CFa_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CFa_.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Sh_3CFa_.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            100
+  Inserted:               0
+  Already present:        100
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Sh_3CFa_.reseg.md
+  spacing: source ' ' → output '' at …དབྱེའོ།།|ད
+  spacing: source '' → output ' ' at …]པའོ།།།།|མ
+  spacing: source ' ' → output '' at …ཡིན་ནོ།།|འ
+  spacing: source '' → output ' ' at …བྱའོ།།།།|[
+  spacing: source ' ' → output '' at …ིན་པའོ།།|འ
+✓ Sh_3CFa_.reseg.md: letters identical; 29 spacing difference(s) restored from the source — now identical (letters and spacing)
+[Sh_3CFa_] ALL STEPS COMPLETED SUCCESSFULLY!
+[Sh_3CFa_] DONE in 3461s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Sh_3CFa_.toc.md

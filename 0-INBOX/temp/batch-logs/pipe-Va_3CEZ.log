@@ -1,0 +1,75 @@
+[Va_3CEZ] using closing-line tree closing-tree-Va_3CEZ.md
+[Va_3CEZ] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEZ\toc-tree-Va_3CEZ.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEZ\toc-tree-Va_3CEZ.json
+Parsed 116 nodes (4 frame), max depth 4.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEZ\toc-tree-Va_3CEZ.json
+  depth  1: 23 nodes
+  depth  2: 39 nodes
+  depth  3: 48 nodes
+  depth  4: 6 nodes
+[Va_3CEZ] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEZ\toc-tree-Va_3CEZ.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEZ\Va_3CEZ.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            116
+  Inserted:               116
+  Already present:        0
+  Blocks split at a node: 1 ['2.6']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEZ\Va_3CEZ.toc.md
+[Va_3CEZ] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Va_3CEZ.toc.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_parallel_reseg.py Va_3CEZ 8
+Loading C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Va_3CEZ.toc.md...
+Blocks: 1024 (headings: 117, content: 907)
+Windows: 30
+Windows to process: 10 / 30
+Running 10 windows with 8 worker threads...
+  [78.0s] Window 19/30 done: 5 op(s)
+  [78.2s] Window 21/30 done: 6 op(s)
+  [81.3s] Window 27/30 done: 3 op(s)
+  [ 5.6s] Window 30/30 done: 1 op(s)
+  [87.8s] Window 28/30 done: 5 op(s)
+  [100.0s] Window 26/30 done: 6 op(s)
+  [128.4s] Window 23/30 done: 5 op(s)
+  [163.2s] Window 24/30 done: 9 op(s)
+  [202.2s] Window 25/30 done: 7 op(s)
+  [160.8s] Window 29/30 done: 8 op(s)
+
+Combining operations...
+Operations to apply: 168
+Blocks: 1024 -> 646
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEZ.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEZ.ops.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\qc_check_batched.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEZ.reseg.md --commentary-id Va_3CEZ
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEZ.reseg.md
+ID:     Va_3CEZ
+
+Blocks: 646
+
+Step 1 — Deterministic checks...
+  18 flag(s) found.
+  Block 6 — OVER_LENGTH (522 syl)
+  Block 8 — SHORT_FRAGMENT (3 syl)
+  Block 25 — CONNECTOR_ENDING
+  Block 27 — OBJECTION_REPLY_FUSED
+  Block 59 — CONNECTOR_ENDING
+  Block 107 — CONNECTOR_ENDING
+  Block 146 — CONNECTOR_ENDING
+  Block 158 — CONNECTOR_ENDING
+  Block 201 — OBJECTION_REPLY_FUSED
+  Block 211 — CONNECTOR_ENDING
+  Block 237 — OVER_LENGTH (259 syl)
+  Block 239 — OVER_LENGTH (276 syl)
+  Block 259 — OVER_LENGTH (292 syl)
+  Block 352 — CONNECTOR_ENDING
+  Block 354 — SHORT_FRAGMENT (3 syl)
+  Block 413 — CONNECTOR_ENDING
+  Block 495 — OVER_LENGTH (434 syl)
+  Block 618 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+  batch 1: 15 flag(s)
+  batch 2: 3 flag(s)
