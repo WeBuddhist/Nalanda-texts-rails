@@ -53,3 +53,101 @@ Running 38 windows with 8 worker threads...
   [222.0s] Window 25/45 done: 11 op(s)
   [88.4s] Window 34/45 done: 6 op(s)
   [96.8s] Window 36/45 done: 6 op(s)
+  [126.6s] Window 33/45 done: 8 op(s)
+  [197.5s] Window 31/45 done: 10 op(s)
+  [231.1s] Window 30/45 done: 10 op(s)
+  [142.9s] Window 35/45 done: 7 op(s)
+  [167.7s] Window 32/45 done: 13 op(s)
+  [128.2s] Window 37/45 done: 8 op(s)
+  [91.6s] Window 39/45 done: 9 op(s)
+  [85.6s] Window 40/45 done: 9 op(s)
+  [54.4s] Window 45/45 done: 1 op(s)
+  [123.1s] Window 41/45 done: 7 op(s)
+  [105.7s] Window 44/45 done: 9 op(s)
+  [189.1s] Window 42/45 done: 5 op(s)
+  [181.4s] Window 43/45 done: 11 op(s)
+  [264.5s] Window 38/45 done: 11 op(s)
+
+Combining operations...
+Operations to apply: 311
+Blocks: 1553 -> 763
+Integrity check passed!
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CED.reseg.md
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CED.ops.md
+Running: C:\Program Files\Python314\python.exe -u -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\qc_check_batched.py C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CED.reseg.md --commentary-id Va_3CED
+Input:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CED.reseg.md
+ID:     Va_3CED
+
+Blocks: 763
+
+Step 1 — Deterministic checks...
+  55 flag(s) found.
+  Block 13 — CONNECTOR_ENDING
+  Block 43 — OBJECTION_REPLY_FUSED
+  Block 47 — OVER_LENGTH (318 syl)
+  Block 55 — OBJECTION_REPLY_FUSED
+  Block 64 — OBJECTION_REPLY_FUSED
+  Block 98 — OBJECTION_REPLY_FUSED
+  Block 239 — CONNECTOR_ENDING
+  Block 249 — OBJECTION_REPLY_FUSED
+  Block 285 — OBJECTION_REPLY_FUSED
+  Block 287 — OBJECTION_REPLY_FUSED
+  Block 289 — OVER_LENGTH (371 syl)
+  Block 297 — OBJECTION_REPLY_FUSED
+  Block 301 — OBJECTION_REPLY_FUSED
+  Block 303 — OBJECTION_REPLY_FUSED
+  Block 307 — OBJECTION_REPLY_FUSED
+  Block 309 — OBJECTION_REPLY_FUSED
+  Block 321 — OVER_LENGTH (381 syl)
+  Block 347 — OBJECTION_REPLY_FUSED
+  Block 350 — CONNECTOR_ENDING
+  Block 351 — CONNECTOR_ENDING
+  Block 364 — OVER_LENGTH (303 syl)
+  Block 377 — CONNECTOR_ENDING
+  Block 379 — SHORT_FRAGMENT (3 syl)
+  Block 382 — OBJECTION_REPLY_FUSED
+  Block 383 — CONNECTOR_ENDING
+  Block 390 — OVER_LENGTH (291 syl)
+  Block 424 — OBJECTION_REPLY_FUSED
+  Block 425 — OBJECTION_REPLY_FUSED
+  Block 430 — OBJECTION_REPLY_FUSED
+  Block 433 — OBJECTION_REPLY_FUSED
+  Block 457 — OBJECTION_REPLY_FUSED
+  Block 470 — CONNECTOR_ENDING
+  Block 489 — OBJECTION_REPLY_FUSED
+  Block 513 — OBJECTION_REPLY_FUSED
+  Block 549 — OBJECTION_REPLY_FUSED
+  Block 567 — OBJECTION_REPLY_FUSED
+  Block 571 — OBJECTION_REPLY_FUSED
+  Block 585 — OBJECTION_REPLY_FUSED
+  Block 590 — OBJECTION_REPLY_FUSED
+  Block 596 — OBJECTION_REPLY_FUSED
+  Block 602 — OBJECTION_REPLY_FUSED
+  Block 615 — OBJECTION_REPLY_FUSED
+  Block 617 — OVER_LENGTH (454 syl)
+  Block 618 — OBJECTION_REPLY_FUSED
+  Block 618 — OVER_LENGTH (310 syl)
+  Block 619 — OBJECTION_REPLY_FUSED
+  Block 636 — OVER_LENGTH (270 syl)
+  Block 642 — OBJECTION_REPLY_FUSED
+  Block 644 — OBJECTION_REPLY_FUSED
+  Block 659 — CONNECTOR_ENDING
+  Block 668 — OBJECTION_REPLY_FUSED
+  Block 670 — OBJECTION_REPLY_FUSED
+  Block 673 — OVER_LENGTH (321 syl)
+  Block 723 — OVER_LENGTH (319 syl)
+  Block 751 — OVER_LENGTH (466 syl)
+
+Step 2 — LLM repair...
+  batch 1: 15 flag(s)
+  batch 2: 15 flag(s)
+  ! QC LLM JSON parse error (Expecting value: line 1 column 1 (char 0)) — treating as []
+  batch 3: 15 flag(s)
+  ! qc-repair attempt 1/8 error: reply cut off at max_output_tokens=65536 (thinking counts too); retrying in 9s...
+  batch 4: 10 flag(s)
+  ! qc-repair attempt 1/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your billing account has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/billing to manage your billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#tier-spend-caps. ', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 9s...
+  ! qc-repair attempt 2/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your billing account has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/billing to manage your billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#tier-spend-caps. ', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 17s...
+  ! qc-repair attempt 3/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your billing account has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/billing to manage your billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#tier-spend-caps. ', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 38s...
+  ! qc-repair attempt 4/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your billing account has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/billing to manage your billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#tier-spend-caps. ', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 72s...
+  ! qc-repair attempt 5/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your billing account has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/billing to manage your billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#tier-spend-caps. ', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 140s...
+  ! qc-repair attempt 6/8 overloaded: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your billing account has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/billing to manage your billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#tier-spend-caps. ', 'status': 'RESOURCE_EXHAUSTED'}}; retrying in 149s...

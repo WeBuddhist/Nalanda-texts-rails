@@ -22,10 +22,17 @@ def main(cid):
     parts = sorted(toc.glob("part-*.md"))
     nodes = []
     for p in parts:
-        lines = [l.rstrip() for l in p.read_text(encoding="utf-8").splitlines() if NODE.match(l)]
+        lines = [re.sub(r"\s*<!--.*?-->", "", l).rstrip() for l in p.read_text(encoding="utf-8").splitlines() if NODE.match(l)]
         if not lines:
             print(f"WARNING: {p.name} has no node lines")
         nodes += lines
+    def reindent(l):
+        m = re.match(r"^\s*\* (\d+(?:\.\d+)*)\.?\s", l)
+        if not m:
+            return l
+        depth = m.group(1).count(".") + 1
+        return " " * (3 * (depth - 1)) + l.lstrip()
+    nodes = [reindent(l) for l in nodes]
     front = [l for l in nodes if re.match(r"^\* (I|II|III)\.", l)]
     back = [l for l in nodes if re.match(r"^\s*\* [ab](\.|\.\d)", l)]
     body = [l for l in nodes if l not in front and l not in back]

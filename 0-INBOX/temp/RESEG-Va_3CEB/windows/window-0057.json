@@ -1,0 +1,36 @@
+{
+  "window_idx": 57,
+  "start_block": 1996,
+  "end_block": 2035,
+  "operations": [
+    {
+      "op": "merge",
+      "blocks": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        2019,
+        2020
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        2025,
+        2026
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        2033,
+        2034
+      ]
+    }
+  ]
+}

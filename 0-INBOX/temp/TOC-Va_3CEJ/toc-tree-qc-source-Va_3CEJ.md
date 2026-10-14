@@ -1,0 +1,94 @@
+# TOC tree vs. source QC report
+
+issues: 84
+
+## Issues
+
+- 1 ཁམས་བསྟན་པ: title attested in the source but not near pointer [[91]] (found near line 1681) — possible cursor loss
+- 1.1 ཕུང་པོ་དང་ཁམས་དང་སྐྱེ་མཆེད: title attested in the source but not near pointer [[91]] (found near line 575) — possible cursor loss
+- 1.1.1.2 ཟག་པ་མེད་པའི་ཆོས་རྣམས: title attested in the source but not near pointer [[99]] (found near line 106) — possible cursor loss
+- 1.1.2 འདུས་བྱས་ཀྱི་ཆོས་རྣམས: title attested in the source but not near pointer [[153]] (found near line 158) — possible cursor loss
+- 1.1.2.1 འདུས་བྱས་ཀྱི་ཆོས་ཀྱི་རྣམ་གྲངས: title attested in the source but not near pointer [[164]] (found near line 183) — possible cursor loss
+- 1.1.2.2 ཟག་པ་དང་བཅས་པའི་ཆོས་རྣམས་ཀྱི་རྣམ་གྲངས: title attested in the source but not near pointer [[185]] (found near line 210) — possible cursor loss
+- 1.1.3.1.2.1 གཟུགས་ཀྱི་སྐྱེ་མཆེད: title attested in the source but not near pointer [[239]] (found near line 247) — possible cursor loss
+- 1.1.3.1.3 དེ་དག་ལ་ཇི་ལྟར་འཛིན་པ: title attested in the source but not near pointer [[332]] (found near line 348) — possible cursor loss
+- 1.1.4 བསྡུ་བ: title attested in the source but not near pointer [[541]] (found near line 549) — possible cursor loss
+- 1.1.5 མིག་ལ་སོགས་པ་ཁམས་གཅིག་པ་ཉིད: title attested in the source but not near pointer [[557]] (found near line 571) — possible cursor loss
+- 1.2.4 ཕུང་པོ་རྣམས་ཀྱི་རྣམ་པ་གཞན: title attested in the source but not near pointer [[646]] (found near line 708) — possible cursor loss
+- 1.2.5 ཕུང་པོའི་གོ་རིམས: title attested in the source but not near pointer [[710]] (found near line 693) — possible cursor loss
+- 1.2.5.1 ཆེས་རགས་པ: title attested in the source but not near pointer [[713]] (found near line 721) — possible cursor loss
+- 1.2.5.2 ཀུན་ནས་ཉོན་མོངས་པའི་གོ་རིམས: title attested in the source but not near pointer [[723]] (found near line 729) — possible cursor loss
+- 1.3 ཁམས་རབ་ཏུ་དབྱེ་བ: title attested in the source but not near pointer [[869]] (found near line 2247) — possible cursor loss
+- 1.3.2.3 དམིགས་པ་ལ་ཐོགས་པ: title attested in the source but not near pointer [[897]] (found near line 877) — possible cursor loss
+- 1.3.3 དགེ་བ་ལ་སོགས་པའི་དངོས་པོ: title attested in the source but not near pointer [[923]] (found near line 943) — possible cursor loss
+- 1.3.4.2 གཟུགས་ཀྱི་ཁམས་སུ་གཏོགས་པ: title attested in the source but not near pointer [[949]] (found near line 996) — possible cursor loss
+- 1.3.5 ཟག་པ་དང་བཅས་པ་དང་ཟག་པ་མེད་པ: title attested in the source but not near pointer [[1003]] (found near line 2052) — possible cursor loss
+- 1.3.7.2 ངེས་པར་རྟོག་པའི་རྣམ་པར་རྟོག་པ: title attested in the source but not near pointer [[1051]] (found near line 1058) — possible cursor loss
+- 1.3.9 ཟིན་པ་དང་མ་ཟིན་པ: title attested in the source but not near pointer [[1070]] (found near line 275) — possible cursor loss
+- 1.3.10 འབྱུང་བ་དང་འབྱུང་བ་ལས་གྱུར་པ: title attested in the source but not near pointer [[1082]] (found near line 1129) — possible cursor loss
+- 1.3.15 ནང་གི་དང་ཕྱིའི: title attested in the source but not near pointer [[1251]] (found near line 6711) — possible cursor loss
+- 1.3.16 བརྟེན་པ་དང་བཅས་པ་དང་དེ་དང་མཚུངས་པ: title attested in the source but not near pointer [[1277]] (found near line 1315) — possible cursor loss
+- 1.3.19 ཞར་ལ་འོངས་པ: title attested in the source but not near pointer [[1442]] (found near line 1249) — possible cursor loss
+- 1.3.19.2 ཡུལ་དང་ཕྲད་པ་དང་མ་ཕྲད་པ: title attested in the source but not near pointer [[1454]] (found near line 1464) — possible cursor loss
+- 1.3.19.5 རྣམ་པར་ཤེས་པའི་རྟེན: title attested in the source but not near pointer [[1550]] (found near line 235) — possible cursor loss
+- 2 དབང་པོ་བསྟན་པ: title attested in the source but not near pointer [[1683]] (found near line 4697) — possible cursor loss
+- 2.1 དབང་པོ་རྣམས་ཀྱི་རབ་ཏུ་དབྱེ་བ: title attested in the source but not near pointer [[1683]] (found near line 2247) — possible cursor loss
+- 2.1.4.1 ཟག་པ་དང་བཅས་པ་དང་ཟག་པ་མེད་པ: title attested in the source but not near pointer [[1885]] (found near line 2052) — possible cursor loss
+- 2.1.4.4 དགེ་བ་དང་མི་དགེ་བ: title attested in the source but not near pointer [[2016]] (found near line 375) — possible cursor loss
+- 2.1.4.5 ཁམས་གང་དུ་གཏོགས་པ: title attested in the source but not near pointer [[2026]] (found near line 2787) — possible cursor loss
+- 2.1.8 དབང་པོ་དག་དང་ལྡན་པ: title attested in the source but not near pointer [[2153]] (found near line 2192) — possible cursor loss
+- 2.2.1 གཟུགས་ཅན་རྣམས་ཀྱི་ངེས་པར་ལྷན་ཅིག་སྐྱེ་བ: title attested in the source but not near pointer [[2253]] (found near line 2314) — possible cursor loss
+- 2.2.2 སེམས་དང་སེམས་ལས་བྱུང་བ: title attested in the source but not near pointer [[2316]] (found near line 636) — possible cursor loss
+- 2.2.2.1 སེམས་ལས་བྱུང་བ་རྣམ་པ་ལྔ: title attested in the source but not near pointer [[2322]] (found near line 2467) — possible cursor loss
+- 2.2.2.1.4 མི་དགེ་བའི་ས་མང་པོ་པ: title attested in the source but not near pointer [[2450]] (found near line 2322) — possible cursor loss
+- 2.2.2.1.5 ཉོན་མོངས་པ་ཆུང་ངུའི་ས་པ: title attested in the source but not near pointer [[2456]] (found near line 2463) — possible cursor loss
+- 2.2.2.2 ས་གང་ན་སེམས་གང་ལ་སེམས་ལས་བྱུང་བ་ཇི་སྙེད་: title attested in the source but not near pointer [[2469]] (found near line 2566) — possible cursor loss
+- 2.2.2.2.1.3 ཉོན་མོངས་པ་དང་ཉེ་བའི་ཉོན་མོངས་པ་གཞན་དང་མ: title attested in the source but not near pointer [[2508]] (found near line 2515) — possible cursor loss
+- 2.3 ལྡན་པ་མ་ཡིན་པའི་འདུ་བྱེད: title attested in the source but not near pointer [[2698]] (found near line 4210) — possible cursor loss
+- 2.4 རྒྱུ་རྣམས་དང་འབྲས་བུ་རྣམས: title attested in the source but not near pointer [[3514]] (found near line 4148) — possible cursor loss
+- 2.4.1.1 རྒྱུ་རྣམ་པ་དྲུག: title attested in the source but not near pointer [[3519]] (found near line 3879) — possible cursor loss
+- 2.4.2 འབྲས་བུ་རྣམས: title attested in the source but not near pointer [[3871]] (found near line 2366) — possible cursor loss
+- 2.4.2.3.3 བྲལ་བའི་འབྲས་བུ: title attested in the source but not near pointer [[4064]] (found near line 4068) — possible cursor loss
+- 2.4.2.3.4 སྐྱེས་བུ་བྱེད་པའི་འབྲས་བུ: title attested in the source but not near pointer [[4070]] (found near line 3683) — possible cursor loss
+- 2.5.1.3 དམིགས་པའི་རྐྱེན: title attested in the source but not near pointer [[4254]] (found near line 3897) — possible cursor loss
+- 2.5.6.2 སེམས་ཉི་ཤུ: title attested in the source but not near pointer [[4499]] (found near line 4530) — possible cursor loss
+- 2.5.6.2.1.4 སློབ་པ་དང་མི་སློབ་པ: title attested in the source but not near pointer [[4592]] (found near line 1363) — possible cursor loss
+- 2.5.6.2.2 ཡིད་ལ་བྱེད་པ་གསུམ: title attested in the source but not near pointer [[4612]] (found near line 4642) — possible cursor loss
+- 3 འཇིག་རྟེན་བསྟན་པ: title attested in the source but not near pointer [[4699]] (found near line 8006) — possible cursor loss
+- 3.1 སེམས་ཅན་གྱི་འཇིག་རྟེན: title attested in the source but not near pointer [[4699]] (found near line 6588) — possible cursor loss
+- 3.1.3 རྣམ་ཤེས་གནས་པ་བདུན: title attested in the source but not near pointer [[4901]] (found near line 4908) — possible cursor loss
+- 3.1.3.5 གཟུགས་མེད་པ་གསུམ: title attested in the source but not near pointer [[4956]] (found near line 737) — possible cursor loss
+- 3.1.5 རྣམ་པར་ཤེས་པ་གནས་པ་བཞི: title attested in the source but not near pointer [[4985]] (found near line 4948) — possible cursor loss
+- 3.1.11 རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བ: title attested in the source but not near pointer [[5518]] (found near line 5458) — possible cursor loss
+- 3.1.11.5 སྲིད་པའི་ཡན་ལག་ལུགས: title attested in the source but not near pointer [[5667]] (found near line 5676) — possible cursor loss
+- 3.1.11.13.2 ཡིད་ཀྱི་ཉེ་བར་རྒྱུ་བ་བཅོ་བརྒྱད: title attested in the source but not near pointer [[6150]] (found near line 6155) — possible cursor loss
+- 3.1.11.13.2.1 འདོད་པ་དང་ལྡན་པ: title attested in the source but not near pointer [[6189]] (found near line 2026) — possible cursor loss
+- 3.1.11.15.1 ཉོན་མོངས་པ་ས་བོན་ལ་སོགས་པ་དང་འདྲ་བ: title attested in the source but not near pointer [[6281]] (found near line 6295) — possible cursor loss
+- 3.1.16.2 ལོག་པ་ཉིད་དུ་ངེས་པའི་ཚོགས: title attested in the source but not near pointer [[6598]] (found near line 6588) — possible cursor loss
+- 3.1.16.3 མ་ངེས་པའི་ཚོགས: title attested in the source but not near pointer [[6602]] (found near line 6588) — possible cursor loss
+- 3.2.1.2 ཆུ་དང་གསེར་གྱི་དཀྱིལ་འཁོར: title attested in the source but not near pointer [[6619]] (found near line 6632) — possible cursor loss
+- 3.2.1.3 རི་ཆེན་པོ་བརྒྱད: title attested in the source but not near pointer [[6643]] (found near line 6652) — possible cursor loss
+- 3.2.1.9 དམྱལ་བའི་སྣོད་རྣམས་ཀྱི་གནས་པ: title attested in the source but not near pointer [[6802]] (found near line 6899) — possible cursor loss
+- 3.2.1.13 སུམ་ཅུ་རྩ་གསུམ་པ་རྣམས་ཀྱི་སྣོད་གནས་པ: title attested in the source but not near pointer [[7003]] (found near line 7068) — possible cursor loss
+- 3.2.1.19.1 སྟོང་སྤྱི་ཕུད: title attested in the source but not near pointer [[7178]] (found near line 7183) — possible cursor loss
+- 3.2.1.19.3 སྟོང་གསུམ་གྱི་སྟོང་ཆེན་པོའི་འཇིག་རྟེན་གྱ: title attested in the source but not near pointer [[7190]] (found near line 6615) — possible cursor loss
+- 3.2.3 ཚེའི་ཚད: title attested in the source but not near pointer [[7243]] (found near line 5160) — possible cursor loss
+- 3.2.3.1 བདེ་འགྲོའི་ཚེའི་ཚད: title attested in the source but not near pointer [[7243]] (found near line 7308) — possible cursor loss
+- 3.2.3.1.1 མི་རྣམས: title attested in the source but not near pointer [[7243]] (found near line 2919) — possible cursor loss
+- 3.2.3.1.2.1 འདོད་པ་དང་ལྡན་པ་རྣམས: title attested in the source but not near pointer [[7261]] (found near line 7282) — possible cursor loss
+- 3.2.4.2 དཔག་ཚད་ཀྱི་ཚད: title attested in the source but not near pointer [[7366]] (found near line 7354) — possible cursor loss
+- 3.2.5.1.2 སྣོད་འཇིག་པ: title attested in the source but not near pointer [[7478]] (found near line 7452) — possible cursor loss
+- 3.2.5.2 འཆགས་པའི་བསྐལ་པ: title attested in the source but not near pointer [[7488]] (found near line 7443) — possible cursor loss
+- 3.2.5.6 སངས་རྒྱས་འབྱུང་བ: title attested in the source but not near pointer [[7674]] (found near line 4839) — possible cursor loss
+- 4 ལས་བསྟན་པ: title attested in the source but not near pointer [[8008]] (found near line 7738) — possible cursor loss
+- 4.2.2.1 དགེ་བ་དང་མི་དགེ་བ་དང་ལུང་དུ་མ་བསྟན་པ: title attested in the source but not near pointer [[8279]] (found near line 2020) — possible cursor loss
+- 4.2.2.2.1.5 ཡིད་དང་དབང་པོའི་སྡོམ་པ: title attested in the source but not near pointer [[8588]] (found near line 8593) — possible cursor loss
+- 4.2.2.2.2.1 སྡོམ་པ་དང་སྡོམ་པ་མ་ཡིན་པ་ལ་གནས་པ: title attested in the source but not near pointer [[8604]] (found near line 8631) — possible cursor loss
+- pointer [[91]] is shared by 3 nodes (1, 1.1, 1.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[1683]] is shared by 3 nodes (2, 2.1, 2.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[4699]] is shared by 3 nodes (3, 3.1, 3.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[7243]] is shared by 3 nodes (3.2.3, 3.2.3.1, 3.2.3.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+
+## Notes (not counted as issues)
+
+- (none)

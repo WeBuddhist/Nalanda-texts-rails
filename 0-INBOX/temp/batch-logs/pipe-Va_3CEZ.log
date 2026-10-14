@@ -73,3 +73,38 @@ Step 1 — Deterministic checks...
 Step 2 — LLM repair...
   batch 1: 15 flag(s)
   batch 2: 3 flag(s)
+  LLM suggested 2 correction(s):
+    SPLIT block 27 after: 'འོ་ན་སྙིང་རྗེ་དང་སྙིང་རྗེ་ཆེན་པོ་གཉིས་ལ་བྱེ་བྲག་ཅི'
+    MERGE [158, 159]
+  ✓ Integrity check passed. Blocks: 646 → 646
+
+Step 3 — Re-checking after repair...
+  17 flag(s) remain after repair.
+  Updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEZ.reseg.md
+
+QC report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEZ.qc.md
+
+────────────────────────────────────────
+Flags before : 18
+Flags after  : 17
+Corrections  : 2
+[Va_3CEZ] Stamping body block IDs & verifying text...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEZ\toc-tree-Va_3CEZ.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEZ.reseg.md --stamp-body-ids --verify-against C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Va_3CEZ.md
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            116
+  Inserted:               0
+  Already present:        116
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Va_3CEZ.reseg.md
+  spacing: source ' ' → output '' at …ཇུག་གོ།།|ད
+  spacing: source '' → output ' ' at …ང༌[^103]|ག
+  spacing: source ' ' → output '' at …ནས་པའོ།།|ས
+  spacing: source '' → output ' ' at …བས་པ་ལས།|[
+  spacing: source ' ' → output '' at …སམ་པའོ།།|ས
+✓ Va_3CEZ.reseg.md: letters identical; 11 spacing difference(s) restored from the source — now identical (letters and spacing)
+[Va_3CEZ] ALL STEPS COMPLETED SUCCESSFULLY!
+[Va_3CEZ] DONE in 678s -> C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Va_3CEZ.toc.md

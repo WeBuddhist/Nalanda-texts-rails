@@ -1,0 +1,42 @@
+{
+  "window_idx": 56,
+  "start_block": 1961,
+  "end_block": 2000,
+  "operations": [
+    {
+      "op": "merge",
+      "blocks": [
+        1971,
+        1972
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1974,
+        1975
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1979,
+        1980
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1986,
+        1987
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1993,
+        1994
+      ]
+    }
+  ]
+}

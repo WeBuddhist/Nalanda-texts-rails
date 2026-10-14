@@ -1,0 +1,53 @@
+[Va_3CEI] using closing-line tree closing-tree-Va_3CEI.md
+[Va_3CEI] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEI\toc-tree-Va_3CEI.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEI\toc-tree-Va_3CEI.json
+Parsed 742 nodes (3 frame), max depth 13.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEI\toc-tree-Va_3CEI.json
+  depth  1: 6 nodes
+  depth  2: 21 nodes
+  depth  3: 80 nodes
+  depth  4: 93 nodes
+  depth  5: 99 nodes
+  depth  6: 91 nodes
+  depth  7: 85 nodes
+  depth  8: 78 nodes
+  depth  9: 64 nodes
+  depth 10: 44 nodes
+  depth 11: 38 nodes
+  depth 12: 27 nodes
+  depth 13: 16 nodes
+
+WARNING — sibling headings with the same title (check the tree's numbering):
+  [4.2.7] ཆོས་བཤད་པར་གསོལ་བ
+  [4.2.9] ཆོས་བཤད་པར་གསོལ་བ
+[Va_3CEI] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEI\toc-tree-Va_3CEI.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEI\Va_3CEI.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            742
+  Inserted:               740
+  Already present:        0
+  Blocks split at a node: 19 ['4.1.3', '4.2', '4.2.10.1.4.2.2', '4.2.10.1.4.3', '4.2.10.2.1.2', '4.3', '4.3.4.1.1.2', '4.3.5.4.1.1.1.3', '4.3.5.4.1.1.2.3', '4.3.5.4.1.2.2.2', '4.3.5.4.2', '4.3.5.4.2.1.1.1.2', '4.4.2.2', '4.4.2.2.1.2', '4.5.4.2.2.2', '4.5.4.3.1.3', '4.7.3', '4.7.9', '4.11.4.2.4.2']
+  Not found:              2
+
+NOT FOUND — insert manually then re-run to confirm:
+  [4.1.9.2.1.3.4] འཁོར་བཞི།
+       context not found: 'མདོ་ལསཤིན་ཏུ་མཐོང་ཞིང་ཐོས་སོ་འཇམ་པའི་དབྱ'
+  [4.1.9.2.1.3.5.3.4] བསམ་གཏན།
+       context not found: 'མདོ་ལསབདག་མཐོང་བྱང་ཆུབ་སེམས་དཔའ་ལ་ལ་ནིཞེ'
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEI\Va_3CEI.toc.md
+Traceback (most recent call last):
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_pipeline_batched_qc.py", line 24, in <module>
+    rb.run_one(sys.argv[1], 8)
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_batch_pipeline.py", line 77, in run_one
+    orch.run_ingest(cid)
+    ~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_pipeline_orchestrator.py", line 252, in run_ingest
+    run_cmd(cmd_ing)
+    ~~~~~~~^^^^^^^^^
+  File "C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\run_pipeline_orchestrator.py", line 135, in run_cmd
+    raise RuntimeError(f"Command failed with code {p.returncode}: {' '.join(str(c) for c in cmd)}")
+RuntimeError: Command failed with code 2: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEI\toc-tree-Va_3CEI.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEI\Va_3CEI.toc.md --split-frame-nodes

@@ -1,12 +1,11 @@
 {
   "status": "error",
   "source": "C:/Users/GESHEL~1/AppData/Local/Temp/claude/C--Users-geshe-lobzang-tseten-repos-Nalanda-texts-rails/bfb1ab19-0979-4221-9892-818c119f1a84/scratchpad/test/Ar_3CBb_.md",
-  "validated_at": "2026-10-13T18:25:22.691075+00:00",
-  "error_count": 25,
+  "validated_at": "2026-10-14T01:31:04.832667+00:00",
+  "error_count": 23,
   "errors": [
     "root_text: required for file_type 'commentary'",
     "durchen [^22] (line 3720): empty note — the API needs some text",
-    "header 1: missing reference (^n-n-n-…)",
     "segment 1760: missing reference (^n-n-n (max 3 parts))",
     "segment 1761: missing reference (^n-n-n (max 3 parts))",
     "segment 1762: missing reference (^n-n-n (max 3 parts))",
@@ -27,8 +26,7 @@
     "segment 1779: missing reference (^n-n-n (max 3 parts))",
     "segment 1780: missing reference (^n-n-n (max 3 parts))",
     "segment 1781: missing reference (^n-n-n (max 3 parts))",
-    "segment 1783: missing reference (^n-n-n (max 3 parts))",
-    "toc: header missing reference marker: '༄༅། །སྒྲོན་མ་གསལ་བ་ཞེས་བྱ་བའི་འགྲེལ་བཤད།'"
+    "segment 1783: missing reference (^n-n-n (max 3 parts))"
   ],
   "notes": [
     "wiki: not set (optional)",
