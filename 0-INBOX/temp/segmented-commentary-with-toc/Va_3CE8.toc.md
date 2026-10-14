@@ -21,6 +21,9 @@ license: "public"
 pandita: "10-Vasubandhu"
 category_id: "XfCwZpoJMtfO7s0laQkdK"
 category_name: "Discourses / མདོ་སྡེ།"
+text_id: "SzHnvjn6Jyg3C7ANRe4vi"
+edition_id: "wFTJPLph6uFbvMAbuGduV"
+toc_id: "AUfCt1KYAbriYuxiLtEKu"
 openpecha_text_id: "NQwKjbjxhETmEYypHbMGP"
 ---
 

@@ -19,6 +19,10 @@ license: "public"
 pandita: "16-Shakyaprabha"
 category_id: "4wuvGxIgXNZ5mb0bDWvkC"
 category_name: "Monastic Rules / འདུལ་བ།"
+text_id: "lzK7RxoNvdLPgRMq6VxXf"
+edition_id: "OQL6DX1LSKT1qCUDX4qTc"
+toc_id: "ZED8p6oEDtLkUSJPxJqrO"
+durchen_count: 2273
 openpecha_text_id: "zf3GOdym24a6WIqK69TUN"
 ---
 

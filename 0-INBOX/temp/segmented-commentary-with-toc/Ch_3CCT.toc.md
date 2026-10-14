@@ -17,6 +17,10 @@ license: "public"
 pandita: "05-Chandrakirti"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "x4G43oZap1GZR8zp1SH9x"
+edition_id: "bVnxPAxer42wfaedOnYNk"
+toc_id: "s0vE1T7ymXYhjwoUOxyQJ"
+durchen_count: 357
 openpecha_text_id: "em3gguVpIUyFWz4E0feXg"
 ---
 

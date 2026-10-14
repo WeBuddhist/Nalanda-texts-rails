@@ -86,6 +86,10 @@ def check(stem, live):
     refs = [s["reference"] for s in segs]
     if len(refs) != len(set(refs)):
         problems.append("duplicate segment references")
+    empty = [s["reference"] for s in segs if not s.get("lines")]
+    if empty:
+        problems.append(f"{len(empty)} segment(s) have no lines (the API rejects the edition): "
+                        f"{', '.join(empty[:5])}{' ...' if len(empty) > 5 else ''}")
     for s in segs:
         for sp in s.get("lines", []):
             if not 0 <= sp["start"] <= sp["end"] <= n:

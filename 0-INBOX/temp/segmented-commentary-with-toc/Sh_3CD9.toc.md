@@ -17,6 +17,10 @@ license: "public"
 pandita: "07-Shantarakshita"
 category_id: "JD5ULLPAV1cxg7RSb7L3q"
 category_name: "Middle Way / དབུ་མ།"
+text_id: "x810iIVnW7QxiUjiGGAXV"
+edition_id: "hPEuhEx3i0C5uAsCJgtfJ"
+toc_id: "4qB66WQjNvphCtY34HkwS"
+durchen_count: 483
 openpecha_text_id: "PSRnyejijiohh8mHs3Etn"
 ---
 

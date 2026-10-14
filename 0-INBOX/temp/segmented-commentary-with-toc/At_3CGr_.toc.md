@@ -19,6 +19,10 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "uGpinx0GZlvU1uw44RyYS"
 category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+text_id: "ZCSNUQ0C0uE2DRrE8Jz3I"
+edition_id: "xzPoGqjuTNpRrs5uXtmTt"
+toc_id: "ZlH2TCRqWdPmiQyZ0hVVY"
+durchen_count: 54
 openpecha_text_id: "zlm8VM6YLBDMu4sG4nrGe"
 ---
 

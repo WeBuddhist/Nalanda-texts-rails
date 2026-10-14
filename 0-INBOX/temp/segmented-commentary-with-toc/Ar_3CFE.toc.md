@@ -18,6 +18,10 @@ license: "public"
 pandita: "13-Arya Vimuktisena"
 category_id: "uGpinx0GZlvU1uw44RyYS"
 category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+text_id: "g80oIIWxTUiKlLl9X8r6t"
+edition_id: "N6zZqE21U7OCFz3FdrYLp"
+toc_id: "pdor3Qy1rjSyuyzvWyOcg"
+durchen_count: 2686
 openpecha_text_id:
 ---
 

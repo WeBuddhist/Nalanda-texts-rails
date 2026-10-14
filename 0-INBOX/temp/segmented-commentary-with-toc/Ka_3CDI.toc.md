@@ -18,6 +18,10 @@ license: "public"
 pandita: "08-Kamalashila"
 category_id: "uGpinx0GZlvU1uw44RyYS"
 category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
+text_id: "99N0jQrFMbdp72JZ250vm"
+edition_id: "hBxDcaeX7t6Ipzlagifb6"
+toc_id: "uCj32vJyUx2j8xtE4fiLF"
+durchen_count: 5
 openpecha_text_id:
 ---
 

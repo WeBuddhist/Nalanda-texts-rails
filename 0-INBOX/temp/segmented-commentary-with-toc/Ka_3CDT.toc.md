@@ -17,6 +17,7 @@ license: "public"
 pandita: "08-Kamalashila"
 category_id: "XfCwZpoJMtfO7s0laQkdK"
 category_name: "Discourses / མདོ་སྡེ།"
+text_id: "kZMuBFSssk9XGoaykHze9"
 openpecha_text_id:
 ---
 

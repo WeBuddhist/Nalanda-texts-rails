@@ -17,6 +17,7 @@ license: "public"
 pandita: "04-Bhavaviveka"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "RtaqVJWqmKxzpEZSZj1Yj"
 openpecha_text_id:
 ---
 

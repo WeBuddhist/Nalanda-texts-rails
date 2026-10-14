@@ -17,6 +17,10 @@ license: "public"
 pandita: "07-Shantarakshita"
 category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
 category_name: "Mind-only Treatises / སེམས་ཙམ།"
+text_id: "0Q4xSEAAASn15uC9FjDaO"
+edition_id: "aU3keO8KW9pHlBjGLIV4R"
+toc_id: "cDIQ19gOtQtGZMDknUM2q"
+durchen_count: 331
 openpecha_text_id: "lyKD4cUoyc68tzBDr0tnr"
 ---
 

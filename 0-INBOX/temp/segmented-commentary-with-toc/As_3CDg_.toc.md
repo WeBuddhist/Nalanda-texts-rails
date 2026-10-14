@@ -17,6 +17,10 @@ license: "public"
 pandita: "09-Asanga"
 category_id: "XfCwZpoJMtfO7s0laQkdK"
 category_name: "Discourses / མདོ་སྡེ།"
+text_id: "IZ3x8RMlYe6BTCLxpOGn1"
+edition_id: "iAGLtfxaXyc14iIawSemS"
+toc_id: "JhdMtb7x732M2bIWL9jtT"
+durchen_count: 51
 openpecha_text_id: "ibqxNTvaaD6yu71O9Io0x"
 ---
 

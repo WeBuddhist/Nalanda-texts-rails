@@ -17,6 +17,10 @@ license: "public"
 pandita: "01-Nagarjuna"
 category_id: "XfCwZpoJMtfO7s0laQkdK"
 category_name: "Discourses / མདོ་སྡེ།"
+text_id: "gzJDEQs2cDFcgRC1w5Sjd"
+edition_id: "XCZGoag94l9pJ1WajlCI1"
+toc_id: "YTJU2HtMQEZ8wHST93JBu"
+durchen_count: 718
 openpecha_text_id:
 ---
 

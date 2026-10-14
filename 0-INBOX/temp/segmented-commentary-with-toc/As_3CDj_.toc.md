@@ -17,6 +17,10 @@ license: "public"
 pandita: "09-Asanga"
 category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
 category_name: "Mind-only Treatises / སེམས་ཙམ།"
+text_id: "5IwmkCSZo1pEb9SxXIUHB"
+edition_id: "hnjlWCVcER8ZnilPKcYDN"
+toc_id: "bkgGYZkwQNNBmkEZPO6Py"
+durchen_count: 1186
 openpecha_text_id: "A9C7VqTRslvAmtUApV7hl"
 ---
 
