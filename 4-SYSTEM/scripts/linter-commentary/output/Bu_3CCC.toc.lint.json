@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "source": "C:/Users/GESHEL~1/AppData/Local/Temp/claude/C--Users-geshe-lobzang-tseten-repos-Nalanda-texts-rails/7a58596f-2f54-4c03-b65f-528e8e45be8c/scratchpad/c/Bu_3CCC.toc.md",
+  "validated_at": "2026-10-14T09:04:23.024510+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 1793 from 1793 footnote definition(s)",
+    "toc: 32 headers found"
+  ],
+  "warnings": [
+    "segment 184 (^1-176): footnote [^127] lemma 'བྱའོ། ། ^a-4' does not end at the marker — the durchen will span the syllable before it, 'བྱའོ། །'",
+    "segment 362 (^2-119): footnote [^250] lemma 'འཐད་དོ། ། ^a-8' does not end at the marker — the durchen will span the syllable before it, 'དོ། །'",
+    "segment 611 (^5-70): footnote [^378] lemma '^a-10 དང་པོ་' does not end at the marker — the durchen will span the syllable before it, 'པོ༌'",
+    "segment 748 (^7-63): footnote [^435] lemma 'དེ་ཡང་དག་པའི་རྣམ་པར་གྲོལ་བའམ། ཅི་སྟེ་ཆོས་དེ་ནག་པོ་ཡིན་ན་ཆོས་དེའི་ལོག་པའི་རྣམ་པར་གྲོལ་བ་དང་། དེ་བཞིན་དུ་གལ་ཏེ་ཆོས་དེ་ངེས་པར་འབྱུང་བ་ཡིན་ན་ཆོས་དེའི་ངེས་པར་འབྱུང་བ་ཉིད་དམ། ཅི་སྟེ་ཆོས་དེ་ངེས་པར་འབྱུང་བ་མ་ཡིན་ན་ཆོས་དེའི་ངེས་པར་འབྱུང་བ་མ་ཡིན་པ་ཉིད་སྐྱེ་སྟེ། དེ་དག་ནི་རེ་ཞིག་འཁོར་ཅེས་བྱའོ། ། ^a-11 དེ་' does not end at the marker — the durchen will span the syllable before it, 'དེ༌'",
+    "segment 1063 (^8-95): footnote [^669] lemma 'རྣམ་པ་དེ་ལྟ་བུ་དག་གོ། ། ^a-13 དེ་' does not end at the marker — the durchen will span the syllable before it, 'དེ༌'",
+    "segment 1504 (^14-39): footnote [^970] lemma 'ནོ། ། ^a-14' does not end at the marker — the durchen will span the syllable before it, 'ནོ། །'",
+    "segment 1524 (^14-59): footnote [^992] lemma 'མེད་དོ། ། ^a-15' does not end at the marker — the durchen will span the syllable before it, 'དོ། །'",
+    "segment 1963 (^18-93): footnote [^1280] lemma 'བདེན་ནོ། ། ^a-16 འདི་ནི་མི་བདེན་' does not end at the marker — the durchen will span the syllable before it, 'བདེན༌'",
+    "segment 2330 (^21-126): footnote [^1536] lemma '^a-17 དང་པོ་དང་' does not end at the marker — the durchen will span the syllable before it, 'དང༌'",
+    "segment 2335 (^21-131): footnote [^1542] lemma '^a-18 དང་པོ་' does not end at the marker — the durchen will span the syllable before it, 'པོ༌'",
+    "author 'Buddhapālita': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3187",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྷ་པཱ་ལི་ཏ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྡྷ་པ་ལི་ཏ།"
+      }
+    ],
+    "language": "bo",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
