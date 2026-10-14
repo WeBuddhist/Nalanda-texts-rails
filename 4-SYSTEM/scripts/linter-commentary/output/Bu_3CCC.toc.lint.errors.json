@@ -1,0 +1,66 @@
+{
+  "status": "error",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/Bu_3CCC.toc.md",
+  "validated_at": "2026-10-14T07:02:29.523446+00:00",
+  "error_count": 16,
+  "errors": [
+    "segment 2: missing reference (^n-n-n (max 3 parts))",
+    "segment 2850: missing reference (^n-n-n (max 3 parts))",
+    "segment 2851: missing reference (^n-n-n (max 3 parts))",
+    "segment 2852: missing reference (^n-n-n (max 3 parts))",
+    "segment 2854: missing reference (^n-n-n (max 3 parts))",
+    "segment 2855: missing reference (^n-n-n (max 3 parts))",
+    "segment 2856: missing reference (^n-n-n (max 3 parts))",
+    "segment 2857: missing reference (^n-n-n (max 3 parts))",
+    "segment 2858: missing reference (^n-n-n (max 3 parts))",
+    "segment 2859: missing reference (^n-n-n (max 3 parts))",
+    "segment 2860: missing reference (^n-n-n (max 3 parts))",
+    "segment 2861: missing reference (^n-n-n (max 3 parts))",
+    "segment 2862: missing reference (^n-n-n (max 3 parts))",
+    "segment 2863: missing reference (^n-n-n (max 3 parts))",
+    "segment 2864: missing reference (^n-n-n (max 3 parts))",
+    "segment 2865: missing reference (^n-n-n (max 3 parts))"
+  ],
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 1793 from 1793 footnote definition(s)",
+    "toc: 32 headers found"
+  ],
+  "warnings": [
+    "segment 34 (^1-26): footnote [^20] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'རོ། །'",
+    "segment 184 (^1-176): footnote [^127] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'བྱའོ། །'",
+    "segment 362 (^2-119): footnote [^250] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'དོ། །'",
+    "segment 611 (^5-70): footnote [^378] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'པོ༌'",
+    "segment 748 (^7-63): footnote [^435] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'དེ༌'",
+    "segment 1063 (^8-95): footnote [^669] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'དེ༌'",
+    "segment 1504 (^14-39): footnote [^970] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ནོ། །'",
+    "segment 1524 (^14-59): footnote [^992] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'དོ། །'",
+    "segment 1963 (^18-93): footnote [^1280] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'བདེན༌'",
+    "segment 2330 (^21-126): footnote [^1536] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'དང༌'",
+    "segment 2335 (^21-131): footnote [^1542] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'པོ༌'",
+    "author 'Buddhapālita': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "resolved": {
+    "bdrc": "WA0RT3187",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྷ་པཱ་ལི་ཏ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་བུདྡྡྷ་པ་ལི་ཏ།"
+      }
+    ],
+    "language": "bo",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

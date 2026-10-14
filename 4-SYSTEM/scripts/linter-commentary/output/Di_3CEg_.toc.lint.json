@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/Di_3CEg_.toc.md",
+  "validated_at": "2026-10-14T07:02:44.667088+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 6 from 6 footnote definition(s)",
+    "toc: 11 headers found"
+  ],
+  "warnings": [
+    "author 'Dignāga': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0046",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པའི་དོན་གྱི་ཚིག་ལེའུར་བྱས་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "ཡོན་ཏན་མཐའ་ཡས་པར་བསྟོད་པའི་དོན་གྱི་ཚིག་ལེའུ་བྱས་པ།"
+      }
+    ],
+    "language": "bo",
+    "category_id": "SoGlGBaboYkVa7b9qJvvK",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

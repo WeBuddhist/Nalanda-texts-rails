@@ -1,0 +1,50 @@
+{
+  "status": "error",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/Bh_3CCF.toc.md",
+  "validated_at": "2026-10-14T07:02:24.429949+00:00",
+  "error_count": 4,
+  "errors": [
+    "segment 396: missing reference (^n-n-n (max 3 parts))",
+    "segment 397: missing reference (^n-n-n (max 3 parts))",
+    "segment 398: missing reference (^n-n-n (max 3 parts))",
+    "segment 399: missing reference (^n-n-n (max 3 parts))"
+  ],
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 164 from 164 footnote definition(s)",
+    "toc: 21 headers found"
+  ],
+  "warnings": [
+    "segment 121 (^5-4): footnote [^47] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'པོའོ། །'",
+    "segment 131 (^6-7): footnote [^51] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'དོ། །'",
+    "segment 176 (^9-13): footnote [^67] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ནོ། །'",
+    "segment 290 (^14-19): footnote [^109] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ཏོ། །'",
+    "author 'Bhāviveka': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "resolved": {
+    "bdrc": "WA0RT0657",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དཀའ་བ་བཏུས་པའི་འགྲེལ་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དཀའ་བ་བཏུས་པའི་འགྲེལ་པ་ཞེས་བྱ་བ།"
+      },
+      {
+        "bo": "སྒྲོན་མ་གསལ་བར་བྱེད་པའི་ཚིག་གི་༽དཀའ་བ་བཏུས་པའི་འགྲེལ་པ་ཞེས་བྱ་བ།"
+      }
+    ],
+    "language": "bo",
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

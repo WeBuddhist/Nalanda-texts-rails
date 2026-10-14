@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/Ar_3CFE.toc.md",
+  "validated_at": "2026-10-14T07:01:56.215096+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 2686 from 2686 footnote definition(s)",
+    "toc: 252 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་ཚུལ་གྱི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་ཚུལ་གྱི་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་འགྲེལ་པ་བཞུགས། །"
+      }
+    ],
+    "language": "bo",
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

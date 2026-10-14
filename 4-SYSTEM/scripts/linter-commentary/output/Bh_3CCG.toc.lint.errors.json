@@ -1,0 +1,41 @@
+{
+  "status": "error",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/Bh_3CCG.toc.md",
+  "validated_at": "2026-10-14T07:02:25.182773+00:00",
+  "error_count": 1,
+  "errors": [
+    "segment 209: missing reference (^n-n-n (max 3 parts))"
+  ],
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 86 from 86 footnote definition(s)",
+    "toc: 7 headers found"
+  ],
+  "warnings": [
+    "segment 63 (^1-59): footnote [^32] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ལེའོ། །'",
+    "author 'Bhavyakīrti': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "resolved": {
+    "bdrc": "WA0RT0695",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རིམ་པ་ལྔ་པའི་དཀའ་འགྲེལ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "རིམ་པ་ལྔ་པའི་དཀའ་འགྲེལ་ཞེས་བྱ་བ།"
+      }
+    ],
+    "language": "bo",
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

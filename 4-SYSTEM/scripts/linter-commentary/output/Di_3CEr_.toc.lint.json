@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/Di_3CEr_.toc.md",
+  "validated_at": "2026-10-14T07:02:49.773921+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 1657 from 1657 footnote definition(s)",
+    "toc: 151 headers found"
+  ],
+  "warnings": [
+    "segment 2097 (^a-3): footnote [^1657] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ཤོག།'",
+    "alt_titles: missing — ignored for now",
+    "author 'Dignāga': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3541",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཚད་མ་ཀུན་ལས་བཏུས་པའི་འགྲེལ་པ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "category_id": "v3L4eTn4x2E30znIhHvQe",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

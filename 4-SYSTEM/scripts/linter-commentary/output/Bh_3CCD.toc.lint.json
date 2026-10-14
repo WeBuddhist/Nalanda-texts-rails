@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/Bh_3CCD.toc.md",
+  "validated_at": "2026-10-14T07:02:21.422591+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 3079 from 3079 footnote definition(s)",
+    "toc: 125 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "segment 2335 (^1-2222): footnote [^1535] lemma 'དང་དགོས་པ་མ་ཡིན་པ་དག་གི་ཁྱད་པར་གང་ཞེ་ན། མི་གསལ་བ་དང་གསལ་བའི་བྱེ་བྲག་གིས་སོ། །སྒྲ་ཇི་བཞིན་པ་དང་། དགོངས་པས་བཤད་པ་དག་གི་ནི། མི་འགལ་བ་དང་འགལ་བའི་སྒྲའི་དབྱེ་བས་སོ། །' does not end at the marker — the durchen will span the syllable before it, 'དང་།'",
+    "segment 2556 (^1-2434): footnote [^1667] lemma 'ཟློག་པ།' does not end at the marker — the durchen will span the syllable before it, 'པ༌'",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "སྒྲོན་མ་གསལ་བར་བྱེད་པའི་དགོངས་པ་རབ་གསལ་ཞེས་བྱ་བ་བཤད་པའི་ཊཱི་ཀཱ།སྟོད་ཆ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

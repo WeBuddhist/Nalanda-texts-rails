@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/At_3CFi_.toc.md",
+  "validated_at": "2026-10-14T07:02:10.348668+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 40 from 40 footnote definition(s)",
+    "toc: 27 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "author 'Atiśa': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0210",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྡོ་རྗེ་གདན་གྱི་རྡོ་རྗེའི་གླུའི་འགྲེལ་པ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

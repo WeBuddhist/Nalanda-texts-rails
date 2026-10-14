@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/Sh_3CDC.toc.md",
+  "validated_at": "2026-10-14T07:03:56.619136+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 331 from 331 footnote definition(s)",
+    "toc: 27 headers found"
+  ],
+  "warnings": [
+    "segment 57 (^1-43): footnote [^118] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'གྱིས༌'",
+    "alt_titles: missing — ignored for now",
+    "author 'Śāntirakṣita': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3420",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "སྡོམ་པ་ཉི་ཤུ་པའི་འགྲེལ་པ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "category_id": "NDXKdNtZe9Kxl6Y4yBMAr",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

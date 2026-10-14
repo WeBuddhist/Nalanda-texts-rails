@@ -1,0 +1,82 @@
+{
+  "status": "error",
+  "source": "0-INBOX/temp/segmented-commentary-with-toc/Ch_3CCb_.toc.md",
+  "validated_at": "2026-10-14T07:02:38.720009+00:00",
+  "error_count": 25,
+  "errors": [
+    "durchen [^360] (line 12121): empty note — the API needs some text",
+    "durchen [^612] (line 12380): empty note — the API needs some text",
+    "durchen [^1626] (line 13487): empty note — the API needs some text",
+    "segment 4799: missing reference (^n-n-n (max 3 parts))",
+    "segment 4802: missing reference (^n-n-n (max 3 parts))",
+    "segment 4803: missing reference (^n-n-n (max 3 parts))",
+    "segment 4821: missing reference (^n-n-n (max 3 parts))",
+    "segment 4829: missing reference (^n-n-n (max 3 parts))",
+    "segment 4832: missing reference (^n-n-n (max 3 parts))",
+    "segment 4834: missing reference (^n-n-n (max 3 parts))",
+    "segment 4838: missing reference (^n-n-n (max 3 parts))",
+    "segment 4839: missing reference (^n-n-n (max 3 parts))",
+    "segment 4840: missing reference (^n-n-n (max 3 parts))",
+    "segment 4842: missing reference (^n-n-n (max 3 parts))",
+    "segment 4843: missing reference (^n-n-n (max 3 parts))",
+    "segment 4844: missing reference (^n-n-n (max 3 parts))",
+    "segment 4846: missing reference (^n-n-n (max 3 parts))",
+    "segment 4847: missing reference (^n-n-n (max 3 parts))",
+    "segment 4848: missing reference (^n-n-n (max 3 parts))",
+    "segment 4849: missing reference (^n-n-n (max 3 parts))",
+    "segment 4851: missing reference (^n-n-n (max 3 parts))",
+    "segment 4857: missing reference (^n-n-n (max 3 parts))",
+    "segment 4858: missing reference (^n-n-n (max 3 parts))",
+    "segment 4859: missing reference (^n-n-n (max 3 parts))",
+    "segment 4860: missing reference (^n-n-n (max 3 parts))"
+  ],
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 2697 from 2700 footnote definition(s)",
+    "toc: 33 headers found"
+  ],
+  "warnings": [
+    "segment 204 (^1-195): footnote [^147] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ནོ། །'",
+    "segment 1371 (^7-278): footnote [^747] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'སྐྱེ༌'",
+    "segment 2042 (^14-22): footnote [^1147] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'པར༌'",
+    "segment 2052 (^14-32): footnote [^1151] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'མ༌'",
+    "segment 2255 (^15-145): footnote [^1250] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ལས།'",
+    "segment 2592 (^17-189): footnote [^1421] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ཀྱི༌'",
+    "segment 3285 (^21-88): footnote [^1782] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'བའོ།'",
+    "segment 3332 (^21-135): footnote [^1807] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'དེའི༌'",
+    "segment 3548 (^23-3): footnote [^1921] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'གོ། །'",
+    "segment 3578 (^23-33): footnote [^1946] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'སོ། །'",
+    "segment 3826 (^24-49): footnote [^2109] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'མ༌'",
+    "segment 3932 (^24-155): footnote [^2189] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'དོ། །'",
+    "segment 3992 (^24-215): footnote [^2249] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ནོ། །'",
+    "segment 4131 (^24-354): footnote [^2307] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ཆོས༌'",
+    "segment 4376 (^25-207): footnote [^2419] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'སོ། །'",
+    "segment 4544 (^26-152): footnote [^2478] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'མི༌'",
+    "segment 4630 (^27-35): footnote [^2559] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ནོ། །'",
+    "segment 4794 (^b-1): footnote [^2693] has no ༼…༽ witness, so no lemma — the durchen will span the syllable before it, 'ལོ། །'",
+    "author 'Candrakīrti I': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "resolved": {
+    "bdrc": "WA0RT3205",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཚིག་གསལ་བ།"
+    },
+    "alt_titles": [
+      {
+        "bo": "དབུ་མ་རྩ་བའི་འགྲེལ་པ་ཚིག་གསལ་བ་ཞེས་བྱ་བ།"
+      }
+    ],
+    "language": "bo",
+    "category_id": "JD5ULLPAV1cxg7RSb7L3q",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
