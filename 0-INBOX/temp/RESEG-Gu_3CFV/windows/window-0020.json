@@ -1,0 +1,80 @@
+{
+  "window_idx": 20,
+  "start_block": 701,
+  "end_block": 740,
+  "operations": [
+    {
+      "op": "merge",
+      "blocks": [
+        706,
+        707,
+        708
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        710,
+        711
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        712,
+        713,
+        714,
+        715
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        716,
+        717
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        719,
+        720,
+        721
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        725,
+        726,
+        727
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        728,
+        729,
+        730,
+        731
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        732,
+        733
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        734,
+        735,
+        736,
+        737,
+        738
+      ]
+    }
+  ]
+}
