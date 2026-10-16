@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "source": "0-INBOX/processed/commentaries/Gu_3CFP.md",
+  "validated_at": "2026-10-16T05:17:29.375613+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 814 from 814 footnote definition(s)",
+    "toc: 7 headers found"
+  ],
+  "warnings": [
+    "alt_titles: missing — ignored for now",
+    "author 'Guṇaprabha': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT3383",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བྱང་ཆུབ་སེམས་དཔའི་སའི་འགྲེལ་པ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "category_id": "NDXKdNtZe9Kxl6Y4yBMAr",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}
