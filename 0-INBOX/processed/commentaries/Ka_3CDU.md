@@ -19,10 +19,14 @@ license: "public"
 pandita: "08-Kamalashila"
 category_id: "4wuvGxIgXNZ5mb0bDWvkC"
 category_name: "Monastic Rules / འདུལ་བ།"
+text_id: "7DDcf7Z4m9ekMeuWmXhvm"
+edition_id: "ZH8R3GgRab806UHVbZeml"
+toc_id: "C1Kgxa9hVstJpt2cNZvhO"
+durchen_count: 503
 openpecha_text_id: "x3ieLYD33Av2Y9Z27FwzB"
 ---
 
-## ༄༅། །དགེ་སྦྱོང་གི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པའི་ཚིག་གི་བརྗེད་བྱང་དུ་བྱས་པ། ^0
+# ༄༅། །དགེ་སྦྱོང་གི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པའི་ཚིག་གི་བརྗེད་བྱང་དུ་བྱས་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

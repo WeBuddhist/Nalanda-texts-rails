@@ -17,10 +17,14 @@ license: "public"
 pandita: "08-Kamalashila"
 category_id: "v3L4eTn4x2E30znIhHvQe"
 category_name: "Logic / ཚད་མ།"
+text_id: "3522AWFZOdJ3wKPBEvBQX"
+edition_id: "8I213LERym98lykgNhX1r"
+toc_id: "1AxNfU7xTvPBSx9BsZnzj"
+durchen_count: 177
 openpecha_text_id: "jfCLr1MVFE7A2iiNeR0by"
 ---
 
-## ༄༅། །རིགས་པའི་ཐིགས་པའི་ཕྱོགས་སྔ་མ་མདོར་བསྡུས་པ། ^0
+# ༄༅། །རིགས་པའི་ཐིགས་པའི་ཕྱོགས་སྔ་མ་མདོར་བསྡུས་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

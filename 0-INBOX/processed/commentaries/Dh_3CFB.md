@@ -17,10 +17,14 @@ license: "public"
 pandita: "12-Dharmakirti"
 category_id: "v3L4eTn4x2E30znIhHvQe"
 category_name: "Logic / ཚད་མ།"
+text_id: "Wo00XiX6QpSqqFwHK8tf7"
+edition_id: "eSCbpEsPX0zomSHN09tW8"
+toc_id: "tOq93hzy3MiaYRYFJqvn0"
+durchen_count: 1834
 openpecha_text_id: "oPcWTAohOo3L8xk5TMSPo"
 ---
 
-### ༄༅། །ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ། ^0
+# ༄༅། །ཚད་མ་རྣམ་འགྲེལ་གྱི་འགྲེལ་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

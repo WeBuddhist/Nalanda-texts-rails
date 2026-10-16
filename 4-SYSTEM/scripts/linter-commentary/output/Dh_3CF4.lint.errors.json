@@ -1,0 +1,41 @@
+{
+  "status": "error",
+  "source": "0-INBOX/processed/commentaries/Dh_3CF4.md",
+  "validated_at": "2026-10-16T09:39:55.471421+00:00",
+  "error_count": 1,
+  "errors": [
+    "toc: first header must be level 1 (#), got level 2"
+  ],
+  "notes": [
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: not set (optional)",
+    "root_text: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 3989 from 3989 footnote definition(s)",
+    "toc: 40 headers found"
+  ],
+  "warnings": [
+    "segment 1061 (^9-18): footnote [^1188] lemma 'གྱུར་དང་། །' does not end at the marker — the durchen will span the syllable before it, 'བྱིན།'",
+    "segment 1602 (^16-11): footnote [^1970] lemma 'རྣམས་སྟོབས་ཆེ་ཞིང་དེའི་གནས་ན་འདུག་པ་དང་། དེ་མེད་ཀྱང་ཡུལ་གཞན་དུ་འགྲོ་བར་མི་ནུས་པ་དང་། དེ་མེད་ཀྱང་དགྲ་དང་ཉེ་བར་གནས་པ་སྟེ། རྒྱུ་འདི་གསུམ་ཡོད་པས་གདོན་མི་ཟ་བར་ཉ་རྣམས་འཇིགས་པའི་རྒྱུར་སྟོན་ཏོ། །' does not end at the marker — the durchen will span the syllable before it, 'རྣམས༌'",
+    "segment 2340 (^26-101): footnote [^3037] lemma 'སྨོས་ཏེ།' does not end at the marker — the durchen will span the syllable before it, 'སྨོས༌'",
+    "segment 3069 (^34-165): footnote [^3904] lemma 'ཡིན་ཏེ།' does not end at the marker — the durchen will span the syllable before it, 'ཡིན༌'",
+    "alt_titles: missing — ignored for now",
+    "author 'Dharmakīrti II': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "resolved": {
+    "bdrc": "WA0RT3489",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "སྐྱེས་པའི་རབས་ཀྱི་རྒྱ་ཆེར་བཤད་པ།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "category_id": "YQnenyXmCd2VbVHPUFGWM",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

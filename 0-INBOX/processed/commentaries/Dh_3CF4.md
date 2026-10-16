@@ -17,10 +17,14 @@ license: "public"
 pandita: "12-Dharmakirti"
 category_id: "YQnenyXmCd2VbVHPUFGWM"
 category_name: "History and Stories / ལོ་རྒྱུས་དང་སྒྲུང་།"
+text_id: "TcdcoM1tzFuhj6kIImqDG"
+edition_id: "fTwrWaawshW6GuJ1XJXNk"
+toc_id: "e2gcBwjEJQBd0KWOObJ0i"
+durchen_count: 3989
 openpecha_text_id: "Tlro4tCJL9K4rb9QVLxHM"
 ---
 
-## ༄༅། །སྐྱེས་པའི་རབས་ཀྱི་རྒྱ་ཆེར་བཤད་པ། ^0
+# ༄༅། །སྐྱེས་པའི་རབས་ཀྱི་རྒྱ་ཆེར་བཤད་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 

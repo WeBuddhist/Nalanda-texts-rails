@@ -17,10 +17,14 @@ license: "public"
 pandita: "09-Asanga"
 category_id: "XfCwZpoJMtfO7s0laQkdK"
 category_name: "Discourses / མདོ་སྡེ།"
+text_id: "xxR8Rkp8B6PgA47nQtcp2"
+edition_id: "9lBPRrus4XV0S3lwT1N77"
+toc_id: "Jw8y6RCdGo0D6PRaEm8Ow"
+durchen_count: 2378
 openpecha_text_id:
 ---
 
-### ༄༅། །མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྣམ་པར་བཤད་པ།༼སྟོད་ཆ།༽ ^0
+# ༄༅། །མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྣམ་པར་བཤད་པ།༼སྟོད་ཆ།༽ ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 
