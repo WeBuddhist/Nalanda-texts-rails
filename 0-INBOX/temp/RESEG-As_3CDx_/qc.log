@@ -1,0 +1,142 @@
+Input:  0-INBOX\resegmented\As_3CDx_.reseg.md
+ID:     As_3CDx_
+
+Blocks: 1616
+
+Step 1 — Deterministic checks...
+  105 flag(s) found.
+  Block 74 — OVER_LENGTH (282 syl)
+  Block 90 — OVER_LENGTH (287 syl)
+  Block 157 — OBJECTION_REPLY_FUSED
+  Block 157 — OVER_LENGTH (307 syl)
+  Block 162 — OBJECTION_REPLY_FUSED
+  Block 166 — OBJECTION_REPLY_FUSED
+  Block 191 — OVER_LENGTH (318 syl)
+  Block 226 — OVER_LENGTH (301 syl)
+  Block 238 — OVER_LENGTH (260 syl)
+  Block 241 — OVER_LENGTH (314 syl)
+  Block 334 — OBJECTION_REPLY_FUSED
+  Block 349 — OVER_LENGTH (318 syl)
+  Block 351 — OVER_LENGTH (648 syl)
+  Block 361 — OVER_LENGTH (382 syl)
+  Block 382 — OVER_LENGTH (257 syl)
+  Block 398 — OVER_LENGTH (317 syl)
+  Block 419 — OVER_LENGTH (298 syl)
+  Block 429 — OVER_LENGTH (275 syl)
+  Block 451 — OVER_LENGTH (273 syl)
+  Block 461 — OVER_LENGTH (322 syl)
+  Block 468 — OBJECTION_REPLY_FUSED
+  Block 482 — OBJECTION_REPLY_FUSED
+  Block 638 — OVER_LENGTH (267 syl)
+  Block 663 — OVER_LENGTH (336 syl)
+  Block 667 — OVER_LENGTH (305 syl)
+  Block 679 — OVER_LENGTH (259 syl)
+  Block 703 — OVER_LENGTH (498 syl)
+  Block 713 — OVER_LENGTH (268 syl)
+  Block 724 — OVER_LENGTH (472 syl)
+  Block 841 — OVER_LENGTH (282 syl)
+  Block 845 — OVER_LENGTH (253 syl)
+  Block 877 — OVER_LENGTH (431 syl)
+  Block 900 — SHORT_FRAGMENT (1 syl)
+  Block 945 — OVER_LENGTH (257 syl)
+  Block 947 — OVER_LENGTH (288 syl)
+  Block 949 — OVER_LENGTH (251 syl)
+  Block 952 — OVER_LENGTH (769 syl)
+  Block 956 — OVER_LENGTH (349 syl)
+  Block 959 — OVER_LENGTH (430 syl)
+  Block 960 — OVER_LENGTH (380 syl)
+  Block 964 — OVER_LENGTH (461 syl)
+  Block 965 — OVER_LENGTH (315 syl)
+  Block 973 — OBJECTION_REPLY_FUSED
+  Block 973 — OVER_LENGTH (993 syl)
+  Block 974 — OVER_LENGTH (525 syl)
+  Block 975 — OVER_LENGTH (1305 syl)
+  Block 976 — OVER_LENGTH (432 syl)
+  Block 979 — OVER_LENGTH (470 syl)
+  Block 982 — OVER_LENGTH (283 syl)
+  Block 985 — CONNECTOR_ENDING
+  Block 988 — OVER_LENGTH (327 syl)
+  Block 992 — OVER_LENGTH (347 syl)
+  Block 993 — OVER_LENGTH (573 syl)
+  Block 1007 — OVER_LENGTH (348 syl)
+  Block 1032 — OVER_LENGTH (268 syl)
+  Block 1065 — OVER_LENGTH (262 syl)
+  Block 1072 — OVER_LENGTH (339 syl)
+  Block 1078 — OVER_LENGTH (259 syl)
+  Block 1097 — OVER_LENGTH (332 syl)
+  Block 1111 — OVER_LENGTH (275 syl)
+  Block 1113 — OVER_LENGTH (297 syl)
+  Block 1115 — OVER_LENGTH (355 syl)
+  Block 1130 — OVER_LENGTH (317 syl)
+  Block 1139 — OVER_LENGTH (254 syl)
+  Block 1150 — OVER_LENGTH (324 syl)
+  Block 1152 — OVER_LENGTH (575 syl)
+  Block 1154 — OVER_LENGTH (637 syl)
+  Block 1156 — OVER_LENGTH (792 syl)
+  Block 1164 — OVER_LENGTH (743 syl)
+  Block 1165 — OVER_LENGTH (321 syl)
+  Block 1166 — OVER_LENGTH (279 syl)
+  Block 1179 — OVER_LENGTH (298 syl)
+  Block 1180 — OVER_LENGTH (311 syl)
+  Block 1182 — OVER_LENGTH (289 syl)
+  Block 1184 — OVER_LENGTH (818 syl)
+  Block 1185 — SHORT_FRAGMENT (1 syl)
+  Block 1190 — OVER_LENGTH (547 syl)
+  Block 1191 — OVER_LENGTH (464 syl)
+  Block 1192 — OVER_LENGTH (443 syl)
+  Block 1193 — OVER_LENGTH (394 syl)
+  Block 1194 — OVER_LENGTH (367 syl)
+  Block 1196 — OVER_LENGTH (300 syl)
+  Block 1197 — OVER_LENGTH (455 syl)
+  Block 1198 — SHORT_FRAGMENT (1 syl)
+  Block 1207 — OVER_LENGTH (341 syl)
+  Block 1208 — OVER_LENGTH (330 syl)
+  Block 1212 — OBJECTION_REPLY_FUSED
+  Block 1226 — OVER_LENGTH (459 syl)
+  Block 1230 — OVER_LENGTH (641 syl)
+  Block 1419 — OVER_LENGTH (312 syl)
+  Block 1437 — OVER_LENGTH (267 syl)
+  Block 1440 — OVER_LENGTH (369 syl)
+  Block 1448 — OVER_LENGTH (433 syl)
+  Block 1483 — OVER_LENGTH (687 syl)
+  Block 1487 — OVER_LENGTH (263 syl)
+  Block 1491 — OVER_LENGTH (330 syl)
+  Block 1493 — OVER_LENGTH (447 syl)
+  Block 1494 — OVER_LENGTH (445 syl)
+  Block 1496 — OVER_LENGTH (445 syl)
+  Block 1497 — OVER_LENGTH (273 syl)
+  Block 1502 — OVER_LENGTH (637 syl)
+  Block 1510 — OVER_LENGTH (296 syl)
+  Block 1583 — OVER_LENGTH (271 syl)
+  Block 1593 — OBJECTION_REPLY_FUSED
+  Block 1600 — OBJECTION_REPLY_FUSED
+
+Step 2 — LLM repair...
+  LLM suggested 15 correction(s):
+    SPLIT block 157 after: ['དེ་དག་ཟས་ཀྱིས་གནས་ཞེས་བྱར་མི་རུང་ངོ་ཞེ་ན།', 'དཔེ་དེ་མི་རུང་ངོ་ཞེ་ན།']
+    SPLIT block 162 after: 'ཡང་དག་པར་ཐོབ་པར་བྱེད་ཅེ་ན།'
+    SPLIT block 166 after: 'ཕུན་སུམ་ཚོགས་པ་ཡིན་ཞེ་ན།'
+    SPLIT block 334 after: 'འགྱུར་རོ་ཞེ༌[^329]ན།'
+    SPLIT block 468 after: 'མ་ཡིན་པར་འགྱུར་རོ་ཞེ་ན།'
+    SPLIT block 482 after: 'གདགས་པ་མཛད་ཅེ་ན།'
+    SPLIT block 703 after: 'སྐབས་དང་ཅི་རིགས་པར་སྦྱར་རོ། །'
+    MERGE [899, 900]
+    SPLIT block 973 after: 'ལྷག་པ་ཅི་ཡོད་ཅེ་ན།'
+    SPLIT block 993 after: 'འདོགས་སོ་ཞེས་བྱ་བར་སྦྱར་རོ། །'
+    MERGE [1184, 1185]
+    MERGE [1197, 1198]
+    SPLIT block 1212 after: 'ཉན་ཐོས་ཞེས་བྱ་ཞེ་ན།'
+    SPLIT block 1593 after: 'པར་བྱར་རུང་ཞེ་ན།'
+    SPLIT block 1600 after: 'པར་བྱར་རུང་ཞེ་ན།'
+  ✓ Integrity check passed. Blocks: 1616 → 1626
+
+Step 3 — Re-checking after repair...
+  101 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\As_3CDx_.reseg.md
+
+QC report: 0-INBOX\resegmented\As_3CDx_.qc.md
+
+────────────────────────────────────────
+Flags before : 105
+Flags after  : 101
+Corrections  : 15

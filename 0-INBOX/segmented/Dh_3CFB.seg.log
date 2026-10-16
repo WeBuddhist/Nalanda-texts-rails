@@ -1,0 +1,37 @@
+=== Step 1 Segmentation: Dh_3CFB ===
+Exit: 0
+Stdout:
+C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Dh_3CFB_in.md: 2755 segments, 0 flagged for Stage-2 review.
+Quote balance: 4 quote-open / 6 quote-close -> MISMATCH -- check citations for an unclosed or stray quote marker.
+Report: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Dh_3CFB.segreport.tsv
+Wrote C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\step1_Dh_3CFB_out.md
+
+Stderr:
+
+
+=== Verify Report ===
+Exit: 0
+# Segmentation content check
+
+- Source: `C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\commentary\Dh_3CFB.md`
+- Final:  `C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\segmented\Dh_3CFB.units.md`
+
+| | Source | Final |
+|---|---|---|
+| Content characters compared | 395,713 | 395,713 |
+| Text blocks | 153 | 2629 |
+| Heading lines | 1 | 1 |
+| Block IDs | 0 | 0 |
+| Block size min / median / max (syllables) | 23 / 612 / 1094 | 1 / 28 / 355 |
+| Footnote definitions | 1834 | 1834 |
+
+## Text content: ✓ IDENTICAL
+
+Every syllable, shad and footnote marker of the source is present in the final file, in the same order; only structure (headings, IDs, line breaks) differs.
+
+
+## Footnotes: ✓ OK
+
+
+## Result: ✓ PASS
+

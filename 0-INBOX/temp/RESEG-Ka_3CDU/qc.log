@@ -1,0 +1,39 @@
+Input:  0-INBOX\resegmented\Ka_3CDU.reseg.md
+ID:     Ka_3CDU
+
+Blocks: 354
+
+Step 1 — Deterministic checks...
+  24 flag(s) found.
+  Block 50 — CONNECTOR_ENDING
+  Block 80 — CONNECTOR_ENDING
+  Block 91 — CONNECTOR_ENDING
+  Block 115 — OVER_LENGTH (346 syl)
+  Block 145 — CONNECTOR_ENDING
+  Block 158 — OVER_LENGTH (259 syl)
+  Block 167 — OVER_LENGTH (358 syl)
+  Block 174 — OVER_LENGTH (656 syl)
+  Block 191 — OVER_LENGTH (431 syl)
+  Block 198 — OVER_LENGTH (437 syl)
+  Block 204 — OVER_LENGTH (286 syl)
+  Block 206 — OVER_LENGTH (637 syl)
+  Block 208 — OVER_LENGTH (909 syl)
+  Block 213 — OVER_LENGTH (267 syl)
+  Block 217 — OVER_LENGTH (260 syl)
+  Block 227 — OVER_LENGTH (428 syl)
+  Block 238 — OVER_LENGTH (332 syl)
+  Block 250 — CONNECTOR_ENDING
+  Block 253 — CONNECTOR_ENDING
+  Block 291 — OBJECTION_REPLY_FUSED
+  Block 303 — OBJECTION_REPLY_FUSED
+  Block 309 — SHORT_FRAGMENT (2 syl)
+  Block 340 — CONNECTOR_ENDING
+  Block 345 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: 0-INBOX\resegmented\Ka_3CDU.qc.md
+
+────────────────────────────────────────
+Flags before : 24

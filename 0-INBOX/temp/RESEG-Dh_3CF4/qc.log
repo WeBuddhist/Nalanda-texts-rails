@@ -1,0 +1,130 @@
+Input:  0-INBOX\resegmented\Dh_3CF4.reseg.md
+ID:     Dh_3CF4
+
+Blocks: 3109
+
+Step 1 — Deterministic checks...
+  101 flag(s) found.
+  Block 6 — CONNECTOR_ENDING
+  Block 71 — CONNECTOR_ENDING
+  Block 256 — SHORT_FRAGMENT (3 syl)
+  Block 359 — CONNECTOR_ENDING
+  Block 421 — CONNECTOR_ENDING
+  Block 463 — OVER_LENGTH (354 syl)
+  Block 471 — CONNECTOR_ENDING
+  Block 533 — OVER_LENGTH (264 syl)
+  Block 567 — CONNECTOR_ENDING
+  Block 571 — CONNECTOR_ENDING
+  Block 574 — CONNECTOR_ENDING
+  Block 600 — CONNECTOR_ENDING
+  Block 623 — CONNECTOR_ENDING
+  Block 662 — CONNECTOR_ENDING
+  Block 666 — CONNECTOR_ENDING
+  Block 763 — CONNECTOR_ENDING
+  Block 767 — CONNECTOR_ENDING
+  Block 924 — CONNECTOR_ENDING
+  Block 1007 — OVER_LENGTH (287 syl)
+  Block 1008 — OVER_LENGTH (345 syl)
+  Block 1010 — CONNECTOR_ENDING
+  Block 1019 — OVER_LENGTH (286 syl)
+  Block 1027 — OVER_LENGTH (308 syl)
+  Block 1031 — OVER_LENGTH (256 syl)
+  Block 1034 — OVER_LENGTH (271 syl)
+  Block 1037 — CONNECTOR_ENDING
+  Block 1039 — CONNECTOR_ENDING
+  Block 1043 — OVER_LENGTH (259 syl)
+  Block 1049 — CONNECTOR_ENDING
+  Block 1049 — OVER_LENGTH (569 syl)
+  Block 1100 — CONNECTOR_ENDING
+  Block 1144 — CONNECTOR_ENDING
+  Block 1179 — OBJECTION_REPLY_FUSED
+  Block 1201 — OVER_LENGTH (280 syl)
+  Block 1203 — OVER_LENGTH (274 syl)
+  Block 1221 — CONNECTOR_ENDING
+  Block 1230 — CONNECTOR_ENDING
+  Block 1287 — SHORT_FRAGMENT (2 syl)
+  Block 1290 — CONNECTOR_ENDING
+  Block 1303 — SHORT_FRAGMENT (2 syl)
+  Block 1315 — OVER_LENGTH (611 syl)
+  Block 1317 — CONNECTOR_ENDING
+  Block 1317 — OVER_LENGTH (324 syl)
+  Block 1322 — CONNECTOR_ENDING
+  Block 1322 — OVER_LENGTH (256 syl)
+  Block 1328 — CONNECTOR_ENDING
+  Block 1328 — OVER_LENGTH (550 syl)
+  Block 1333 — OVER_LENGTH (494 syl)
+  Block 1334 — OBJECTION_REPLY_FUSED
+  Block 1334 — OVER_LENGTH (279 syl)
+  Block 1336 — OVER_LENGTH (913 syl)
+  Block 1412 — SHORT_FRAGMENT (3 syl)
+  Block 1438 — CONNECTOR_ENDING
+  Block 1555 — CONNECTOR_ENDING
+  Block 1623 — CONNECTOR_ENDING
+  Block 1643 — CONNECTOR_ENDING
+  Block 1682 — CONNECTOR_ENDING
+  Block 1781 — CONNECTOR_ENDING
+  Block 1789 — CONNECTOR_ENDING
+  Block 1796 — OVER_LENGTH (263 syl)
+  Block 1822 — SHORT_FRAGMENT (2 syl)
+  Block 1824 — CONNECTOR_ENDING
+  Block 1912 — CONNECTOR_ENDING
+  Block 2049 — CONNECTOR_ENDING
+  Block 2088 — CONNECTOR_ENDING
+  Block 2095 — OBJECTION_REPLY_FUSED
+  Block 2136 — CONNECTOR_ENDING
+  Block 2149 — CONNECTOR_ENDING
+  Block 2153 — CONNECTOR_ENDING
+  Block 2163 — CONNECTOR_ENDING
+  Block 2189 — CONNECTOR_ENDING
+  Block 2234 — OVER_LENGTH (267 syl)
+  Block 2260 — CONNECTOR_ENDING
+  Block 2265 — CONNECTOR_ENDING
+  Block 2269 — CONNECTOR_ENDING
+  Block 2285 — CONNECTOR_ENDING
+  Block 2297 — CONNECTOR_ENDING
+  Block 2324 — CONNECTOR_ENDING
+  Block 2335 — CONNECTOR_ENDING
+  Block 2377 — SHORT_FRAGMENT (2 syl)
+  Block 2403 — OVER_LENGTH (286 syl)
+  Block 2413 — CONNECTOR_ENDING
+  Block 2417 — OVER_LENGTH (260 syl)
+  Block 2419 — CONNECTOR_ENDING
+  Block 2423 — CONNECTOR_ENDING
+  Block 2425 — CONNECTOR_ENDING
+  Block 2447 — CONNECTOR_ENDING
+  Block 2502 — CONNECTOR_ENDING
+  Block 2548 — OVER_LENGTH (313 syl)
+  Block 2681 — CONNECTOR_ENDING
+  Block 2698 — CONNECTOR_ENDING
+  Block 2869 — SHORT_FRAGMENT (2 syl)
+  Block 2907 — CONNECTOR_ENDING
+  Block 2983 — CONNECTOR_ENDING
+  Block 3011 — OVER_LENGTH (258 syl)
+  Block 3016 — CONNECTOR_ENDING
+  Block 3038 — CONNECTOR_ENDING
+  Block 3043 — OVER_LENGTH (289 syl)
+  Block 3064 — CONNECTOR_ENDING
+  Block 3097 — CONNECTOR_ENDING
+  Block 3109 — SHORT_FRAGMENT (1 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 7 correction(s):
+    SPLIT block 533 after: 'དག་པར་བསྟན་པའོ། །'
+    SPLIT block 1315 after: ['ཐབས་བསྟན་པ་ཡིན་ནོ། །', 'སོང་ངོ་ཞེས་བྱ་བའི་ཚིག་གིས་སོ། །']
+    SPLIT block 1317 after: 'བུད་མེད་དུ་གྱུར་པའོ། །'
+    SPLIT block 1322 after: ['སྦྱར་བར་བྱའོ། །', 'ཕྱིར་དེ་ལྟར་བསྟན་ཏོ། །']
+    SPLIT block 1328 after: 'རྒྱུ་བསྟན་པའོ། །'
+    SPLIT block 1336 after: ['[^1697]ཏུའོ། །', 'བཅས་པར་མི་འགྱུར་རོ། །', 'བཞི་པོ་དེ་དག་གི་རྒྱུས་སོ། །', 'རབ་ཏུ་ཆུང་བའོ། །']
+    MERGE [3108, 3109]
+  ✓ Integrity check passed. Blocks: 3109 → 3119
+
+Step 3 — Re-checking after repair...
+  97 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\Dh_3CF4.reseg.md
+
+QC report: 0-INBOX\resegmented\Dh_3CF4.qc.md
+
+────────────────────────────────────────
+Flags before : 101
+Flags after  : 97
+Corrections  : 7

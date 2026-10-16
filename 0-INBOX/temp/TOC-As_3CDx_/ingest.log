@@ -1,0 +1,29 @@
+[As_3CDx_] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDx_\toc-tree-As_3CDx_.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDx_\toc-tree-As_3CDx_.json
+Parsed 330 nodes (1 frame), max depth 8.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDx_\toc-tree-As_3CDx_.json
+  depth  1: 5 nodes
+  depth  2: 13 nodes
+  depth  3: 15 nodes
+  depth  4: 51 nodes
+  depth  5: 110 nodes
+  depth  6: 75 nodes
+  depth  7: 26 nodes
+  depth  8: 35 nodes
+
+WARNING — sibling headings with the same title (check the tree's numbering):
+  [3.2.3.2.1.2.7] རྟོགས་པ་ཆེན་པོ
+  [3.2.3.2.1.2.9] རྟོགས་པ་ཆེན་པོ
+[As_3CDx_] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDx_\toc-tree-As_3CDx_.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-As_3CDx_\As_3CDx_.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            330
+  Inserted:               330
+  Already present:        0
+  Blocks split at a node: 4 ['1.1.1.2.2', '3.1.2', '3.2.2.3.2.3', '4.2.1.2.2.5']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-As_3CDx_\As_3CDx_.toc.md
+[As_3CDx_] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\As_3CDx_.toc.md

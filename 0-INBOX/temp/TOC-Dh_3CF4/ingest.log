@@ -1,0 +1,26 @@
+[Dh_3CF4] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CF4\toc-tree-Dh_3CF4.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CF4\toc-tree-Dh_3CF4.json
+Parsed 39 nodes (4 frame), max depth 2.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CF4\toc-tree-Dh_3CF4.json
+  depth  1: 37 nodes
+  depth  2: 2 nodes
+
+WARNING — sibling headings with the same title (check the tree's numbering):
+  [4] ཚོང་དཔོན་གྱི་སྐྱེས་པའི་རབས
+  [11] སྐྱེས་པའི་རབས་བཅུ་པོ་འདི་དག་གི་གོ་རིམས
+  [21] ཚོང་དཔོན་གྱི་སྐྱེས་པའི་རབས
+  [22] སྐྱེས་པའི་རབས་བཅུ་པོ་འདི་དག་གི་གོ་རིམས
+  [33] སྐྱེས་པའི་རབས་བཅུ་པོ་འདི་དག་གི་གོ་རིམས
+[Dh_3CF4] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Dh_3CF4\toc-tree-Dh_3CF4.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Dh_3CF4\Dh_3CF4.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            39
+  Inserted:               39
+  Already present:        0
+  Blocks split at a node: 0 
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Dh_3CF4\Dh_3CF4.toc.md
+[Dh_3CF4] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Dh_3CF4.toc.md
