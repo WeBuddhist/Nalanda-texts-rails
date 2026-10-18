@@ -17,10 +17,14 @@ license: "public"
 pandita: "10-Vasubandhu"
 category_id: "XfCwZpoJMtfO7s0laQkdK"
 category_name: "Discourses / མདོ་སྡེ།"
+text_id: "0FCfWlVZoeujlyeo6Hiu7"
+edition_id: "T11SY3EScv8O1hYLENJKM"
+toc_id: "jEUnvN068UtDPLoiNf1qO"
+durchen_count: 2918
 openpecha_text_id:
 ---
 
-### ༄༅། །འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པ་རྒྱ་ཆེར་འགྲེལ་པ།༼སྨད་ཆ།༽
+# ༄༅། །འཕགས་པ་བློ་གྲོས་མི་ཟད་པས་བསྟན་པ་རྒྱ་ཆེར་འགྲེལ་པ།༼སྨད་ཆ།༽ ^0
 
 ## ཤེས་རབ་མི་ཟད་པ། ^1-0
 

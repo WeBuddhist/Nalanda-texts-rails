@@ -17,10 +17,14 @@ license: "public"
 pandita: "10-Vasubandhu"
 category_id: "MZUUxphQ0yFwLBon3Vng8"
 category_name: "Systematic Treatises / མངོན་པ།"
+text_id: "bfQHZuHG0cFOeaHDZwaJd"
+edition_id: "osukI7KKfeRuc8Q09ceZt"
+toc_id: "hbN1dLaVC6OysSZrYhtWX"
+durchen_count: 2684
 openpecha_text_id:
 ---
 
-### ༄༅། །ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།
+# ༄༅། །ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
 
