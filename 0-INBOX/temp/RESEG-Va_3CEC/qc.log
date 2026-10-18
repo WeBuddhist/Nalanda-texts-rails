@@ -1,0 +1,53 @@
+Input:  0-INBOX\resegmented\Va_3CEC.reseg.md
+ID:     Va_3CEC
+
+Blocks: 2482
+
+Step 1 — Deterministic checks...
+  29 flag(s) found.
+  Block 159 — OVER_LENGTH (616 syl)
+  Block 167 — OVER_LENGTH (261 syl)
+  Block 168 — OVER_LENGTH (261 syl)
+  Block 169 — OVER_LENGTH (359 syl)
+  Block 392 — OVER_LENGTH (345 syl)
+  Block 448 — OVER_LENGTH (328 syl)
+  Block 450 — OVER_LENGTH (376 syl)
+  Block 453 — OVER_LENGTH (389 syl)
+  Block 461 — OVER_LENGTH (321 syl)
+  Block 1400 — SHORT_FRAGMENT (1 syl)
+  Block 1418 — OVER_LENGTH (357 syl)
+  Block 1419 — OVER_LENGTH (261 syl)
+  Block 1430 — OVER_LENGTH (483 syl)
+  Block 1436 — OVER_LENGTH (389 syl)
+  Block 1438 — OVER_LENGTH (520 syl)
+  Block 1448 — OVER_LENGTH (289 syl)
+  Block 1450 — OVER_LENGTH (381 syl)
+  Block 1452 — SHORT_FRAGMENT (1 syl)
+  Block 1460 — OVER_LENGTH (330 syl)
+  Block 1571 — OVER_LENGTH (259 syl)
+  Block 2196 — CONNECTOR_ENDING
+  Block 2246 — OVER_LENGTH (385 syl)
+  Block 2258 — OVER_LENGTH (501 syl)
+  Block 2267 — OVER_LENGTH (342 syl)
+  Block 2270 — OVER_LENGTH (401 syl)
+  Block 2283 — OVER_LENGTH (516 syl)
+  Block 2292 — OVER_LENGTH (272 syl)
+  Block 2469 — OVER_LENGTH (271 syl)
+  Block 2470 — OVER_LENGTH (260 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 2 correction(s):
+    MERGE [1399, 1400]
+    MERGE [1451, 1452]
+  ✓ Integrity check passed. Blocks: 2482 → 2480
+
+Step 3 — Re-checking after repair...
+  27 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\Va_3CEC.reseg.md
+
+QC report: 0-INBOX\resegmented\Va_3CEC.qc.md
+
+────────────────────────────────────────
+Flags before : 29
+Flags after  : 27
+Corrections  : 2

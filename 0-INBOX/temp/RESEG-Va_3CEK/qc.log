@@ -1,0 +1,274 @@
+Input:  0-INBOX\resegmented\Va_3CEK.reseg.md
+ID:     Va_3CEK
+
+Blocks: 2759
+
+Step 1 — Deterministic checks...
+  216 flag(s) found.
+  Block 3 — SHORT_FRAGMENT (1 syl)
+  Block 19 — CONNECTOR_ENDING
+  Block 33 — OVER_LENGTH (271 syl)
+  Block 38 — OVER_LENGTH (277 syl)
+  Block 40 — CONNECTOR_ENDING
+  Block 53 — CONNECTOR_ENDING
+  Block 53 — SHORT_FRAGMENT (2 syl)
+  Block 55 — OBJECTION_REPLY_FUSED
+  Block 58 — OVER_LENGTH (408 syl)
+  Block 69 — OBJECTION_REPLY_FUSED
+  Block 87 — CONNECTOR_ENDING
+  Block 98 — OBJECTION_REPLY_FUSED
+  Block 115 — OBJECTION_REPLY_FUSED
+  Block 146 — OBJECTION_REPLY_FUSED
+  Block 152 — CONNECTOR_ENDING
+  Block 156 — SHORT_FRAGMENT (3 syl)
+  Block 193 — CONNECTOR_ENDING
+  Block 196 — OBJECTION_REPLY_FUSED
+  Block 197 — OBJECTION_REPLY_FUSED
+  Block 200 — SHORT_FRAGMENT (3 syl)
+  Block 208 — SHORT_FRAGMENT (2 syl)
+  Block 225 — OBJECTION_REPLY_FUSED
+  Block 232 — OBJECTION_REPLY_FUSED
+  Block 236 — SHORT_FRAGMENT (3 syl)
+  Block 278 — OVER_LENGTH (310 syl)
+  Block 285 — OBJECTION_REPLY_FUSED
+  Block 295 — SHORT_FRAGMENT (2 syl)
+  Block 302 — OVER_LENGTH (272 syl)
+  Block 307 — OBJECTION_REPLY_FUSED
+  Block 313 — OBJECTION_REPLY_FUSED
+  Block 338 — CONNECTOR_ENDING
+  Block 350 — OBJECTION_REPLY_FUSED
+  Block 371 — OBJECTION_REPLY_FUSED
+  Block 379 — CONNECTOR_ENDING
+  Block 390 — OBJECTION_REPLY_FUSED
+  Block 395 — OBJECTION_REPLY_FUSED
+  Block 423 — OVER_LENGTH (371 syl)
+  Block 424 — OBJECTION_REPLY_FUSED
+  Block 447 — OBJECTION_REPLY_FUSED
+  Block 450 — OBJECTION_REPLY_FUSED
+  Block 457 — OBJECTION_REPLY_FUSED
+  Block 462 — OBJECTION_REPLY_FUSED
+  Block 472 — CONNECTOR_ENDING
+  Block 475 — OBJECTION_REPLY_FUSED
+  Block 477 — OVER_LENGTH (407 syl)
+  Block 492 — OBJECTION_REPLY_FUSED
+  Block 511 — CONNECTOR_ENDING
+  Block 515 — CONNECTOR_ENDING
+  Block 519 — CONNECTOR_ENDING
+  Block 521 — CONNECTOR_ENDING
+  Block 523 — CONNECTOR_ENDING
+  Block 534 — CONNECTOR_ENDING
+  Block 546 — OBJECTION_REPLY_FUSED
+  Block 572 — OBJECTION_REPLY_FUSED
+  Block 574 — OBJECTION_REPLY_FUSED
+  Block 589 — OVER_LENGTH (432 syl)
+  Block 599 — OBJECTION_REPLY_FUSED
+  Block 616 — OVER_LENGTH (259 syl)
+  Block 648 — SHORT_FRAGMENT (3 syl)
+  Block 650 — SHORT_FRAGMENT (3 syl)
+  Block 693 — CONNECTOR_ENDING
+  Block 703 — OBJECTION_REPLY_FUSED
+  Block 705 — OBJECTION_REPLY_FUSED
+  Block 711 — OBJECTION_REPLY_FUSED
+  Block 768 — OBJECTION_REPLY_FUSED
+  Block 794 — OBJECTION_REPLY_FUSED
+  Block 827 — OBJECTION_REPLY_FUSED
+  Block 832 — CONNECTOR_ENDING
+  Block 846 — OBJECTION_REPLY_FUSED
+  Block 857 — OVER_LENGTH (277 syl)
+  Block 862 — OBJECTION_REPLY_FUSED
+  Block 871 — OBJECTION_REPLY_FUSED
+  Block 872 — CONNECTOR_ENDING
+  Block 907 — OBJECTION_REPLY_FUSED
+  Block 920 — OVER_LENGTH (525 syl)
+  Block 927 — CONNECTOR_ENDING
+  Block 965 — SHORT_FRAGMENT (3 syl)
+  Block 977 — OBJECTION_REPLY_FUSED
+  Block 988 — OBJECTION_REPLY_FUSED
+  Block 999 — CONNECTOR_ENDING
+  Block 1007 — CONNECTOR_ENDING
+  Block 1009 — CONNECTOR_ENDING
+  Block 1016 — CONNECTOR_ENDING
+  Block 1034 — SHORT_FRAGMENT (3 syl)
+  Block 1039 — CONNECTOR_ENDING
+  Block 1070 — CONNECTOR_ENDING
+  Block 1081 — OVER_LENGTH (293 syl)
+  Block 1122 — CONNECTOR_ENDING
+  Block 1128 — CONNECTOR_ENDING
+  Block 1145 — CONNECTOR_ENDING
+  Block 1160 — CONNECTOR_ENDING
+  Block 1160 — OBJECTION_REPLY_FUSED
+  Block 1185 — CONNECTOR_ENDING
+  Block 1199 — CONNECTOR_ENDING
+  Block 1209 — OBJECTION_REPLY_FUSED
+  Block 1211 — OVER_LENGTH (337 syl)
+  Block 1222 — CONNECTOR_ENDING
+  Block 1228 — CONNECTOR_ENDING
+  Block 1234 — CONNECTOR_ENDING
+  Block 1248 — OBJECTION_REPLY_FUSED
+  Block 1258 — CONNECTOR_ENDING
+  Block 1259 — CONNECTOR_ENDING
+  Block 1270 — SHORT_FRAGMENT (3 syl)
+  Block 1274 — OBJECTION_REPLY_FUSED
+  Block 1277 — OBJECTION_REPLY_FUSED
+  Block 1277 — OVER_LENGTH (269 syl)
+  Block 1280 — OVER_LENGTH (345 syl)
+  Block 1281 — OVER_LENGTH (745 syl)
+  Block 1286 — OVER_LENGTH (329 syl)
+  Block 1287 — OVER_LENGTH (412 syl)
+  Block 1318 — OBJECTION_REPLY_FUSED
+  Block 1381 — CONNECTOR_ENDING
+  Block 1403 — CONNECTOR_ENDING
+  Block 1446 — CONNECTOR_ENDING
+  Block 1487 — OBJECTION_REPLY_FUSED
+  Block 1499 — OBJECTION_REPLY_FUSED
+  Block 1512 — SHORT_FRAGMENT (3 syl)
+  Block 1516 — SHORT_FRAGMENT (3 syl)
+  Block 1525 — OBJECTION_REPLY_FUSED
+  Block 1540 — OVER_LENGTH (258 syl)
+  Block 1547 — OBJECTION_REPLY_FUSED
+  Block 1548 — OVER_LENGTH (277 syl)
+  Block 1607 — OBJECTION_REPLY_FUSED
+  Block 1613 — OBJECTION_REPLY_FUSED
+  Block 1642 — OVER_LENGTH (276 syl)
+  Block 1649 — OVER_LENGTH (436 syl)
+  Block 1654 — OVER_LENGTH (291 syl)
+  Block 1669 — OBJECTION_REPLY_FUSED
+  Block 1691 — OBJECTION_REPLY_FUSED
+  Block 1701 — OBJECTION_REPLY_FUSED
+  Block 1710 — OBJECTION_REPLY_FUSED
+  Block 1717 — SHORT_FRAGMENT (3 syl)
+  Block 1719 — CONNECTOR_ENDING
+  Block 1728 — OVER_LENGTH (435 syl)
+  Block 1735 — OBJECTION_REPLY_FUSED
+  Block 1744 — OVER_LENGTH (411 syl)
+  Block 1746 — OBJECTION_REPLY_FUSED
+  Block 1747 — OBJECTION_REPLY_FUSED
+  Block 1795 — CONNECTOR_ENDING
+  Block 1801 — CONNECTOR_ENDING
+  Block 1845 — OVER_LENGTH (261 syl)
+  Block 1853 — OBJECTION_REPLY_FUSED
+  Block 1858 — OBJECTION_REPLY_FUSED
+  Block 1865 — OVER_LENGTH (297 syl)
+  Block 1876 — CONNECTOR_ENDING
+  Block 1886 — CONNECTOR_ENDING
+  Block 1937 — OBJECTION_REPLY_FUSED
+  Block 1944 — OVER_LENGTH (413 syl)
+  Block 1951 — OBJECTION_REPLY_FUSED
+  Block 1960 — OVER_LENGTH (338 syl)
+  Block 1972 — OBJECTION_REPLY_FUSED
+  Block 1974 — CONNECTOR_ENDING
+  Block 2014 — CONNECTOR_ENDING
+  Block 2027 — OVER_LENGTH (277 syl)
+  Block 2029 — CONNECTOR_ENDING
+  Block 2029 — OVER_LENGTH (278 syl)
+  Block 2038 — OBJECTION_REPLY_FUSED
+  Block 2051 — CONNECTOR_ENDING
+  Block 2078 — CONNECTOR_ENDING
+  Block 2119 — OVER_LENGTH (255 syl)
+  Block 2129 — OVER_LENGTH (287 syl)
+  Block 2135 — OBJECTION_REPLY_FUSED
+  Block 2147 — CONNECTOR_ENDING
+  Block 2183 — OBJECTION_REPLY_FUSED
+  Block 2186 — OBJECTION_REPLY_FUSED
+  Block 2219 — OBJECTION_REPLY_FUSED
+  Block 2225 — CONNECTOR_ENDING
+  Block 2240 — SHORT_FRAGMENT (3 syl)
+  Block 2253 — OBJECTION_REPLY_FUSED
+  Block 2267 — OBJECTION_REPLY_FUSED
+  Block 2269 — OBJECTION_REPLY_FUSED
+  Block 2300 — OBJECTION_REPLY_FUSED
+  Block 2309 — SHORT_FRAGMENT (2 syl)
+  Block 2339 — OBJECTION_REPLY_FUSED
+  Block 2367 — OBJECTION_REPLY_FUSED
+  Block 2373 — OBJECTION_REPLY_FUSED
+  Block 2397 — OBJECTION_REPLY_FUSED
+  Block 2415 — OVER_LENGTH (398 syl)
+  Block 2435 — CONNECTOR_ENDING
+  Block 2438 — OBJECTION_REPLY_FUSED
+  Block 2456 — SHORT_FRAGMENT (2 syl)
+  Block 2460 — CONNECTOR_ENDING
+  Block 2460 — SHORT_FRAGMENT (3 syl)
+  Block 2542 — SHORT_FRAGMENT (3 syl)
+  Block 2549 — CONNECTOR_ENDING
+  Block 2564 — CONNECTOR_ENDING
+  Block 2570 — SHORT_FRAGMENT (1 syl)
+  Block 2573 — OBJECTION_REPLY_FUSED
+  Block 2585 — OBJECTION_REPLY_FUSED
+  Block 2589 — OBJECTION_REPLY_FUSED
+  Block 2606 — OBJECTION_REPLY_FUSED
+  Block 2614 — OBJECTION_REPLY_FUSED
+  Block 2622 — OBJECTION_REPLY_FUSED
+  Block 2625 — CONNECTOR_ENDING
+  Block 2628 — SHORT_FRAGMENT (3 syl)
+  Block 2629 — CONNECTOR_ENDING
+  Block 2634 — SHORT_FRAGMENT (3 syl)
+  Block 2637 — OBJECTION_REPLY_FUSED
+  Block 2646 — OBJECTION_REPLY_FUSED
+  Block 2647 — SHORT_FRAGMENT (3 syl)
+  Block 2649 — CONNECTOR_ENDING
+  Block 2651 — SHORT_FRAGMENT (3 syl)
+  Block 2660 — OBJECTION_REPLY_FUSED
+  Block 2670 — SHORT_FRAGMENT (3 syl)
+  Block 2673 — SHORT_FRAGMENT (3 syl)
+  Block 2680 — OVER_LENGTH (282 syl)
+  Block 2700 — OVER_LENGTH (303 syl)
+  Block 2704 — OBJECTION_REPLY_FUSED
+  Block 2706 — OVER_LENGTH (277 syl)
+  Block 2708 — OVER_LENGTH (309 syl)
+  Block 2709 — OBJECTION_REPLY_FUSED
+  Block 2721 — OBJECTION_REPLY_FUSED
+  Block 2740 — OBJECTION_REPLY_FUSED
+  Block 2741 — OBJECTION_REPLY_FUSED
+  Block 2747 — OBJECTION_REPLY_FUSED
+  Block 2749 — SHORT_FRAGMENT (3 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 36 correction(s):
+    MERGE [53, 54]
+    MERGE [338, 339]
+    SPLIT block 424 after: 'མདོའི་དོན་ཡིན་པར་སྣང་ངོ་། །'
+    SPLIT block 907 after: 'སྨྲས་པ་མ་ཡིན་ནོ། །'
+    SPLIT block 1081 after: 'ཞེས་བྱ་བ་ནས།[^1424]'
+    MERGE [1234, 1235]
+    SPLIT block 1209 after: 'སྨྲས་པ། མ་ཡིན་ནོ། །'
+    SPLIT block 1248 after: 'སྨྲས་པ། མ་ཡིན་ནོ། །'
+    SPLIT block 1547 after: ['གསུངས་པ་ཇི་ལྟ་བུ་ཞེ་ན།', 'བརྒྱད་པར་མི་འགྱུར་རོ་ཞེ་ན།']
+    SPLIT block 1613 after: 'ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 1691 after: 'ཞེ་ན།'
+    SPLIT block 1701 after: 'འོ་ན་ཅི་ཞེ་ན།'
+    SPLIT block 1735 after: ['འགྱུར་རོ་ཞེ་ན།', 'གང་ཞིག་ཡིན་ཞེ་ན།']
+    SPLIT block 1746 after: 'འོ་ན་ཅི་ཞེ་ན།'
+    SPLIT block 1747 after: 'བྱ་ཞེ་ན།'
+    SPLIT block 1853 after: 'འོ་ན་ཅི་ཞེ་ན།'
+    SPLIT block 1858 after: 'ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 1937 after: 'ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 1951 after: 'འོ་ན་ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 1972 after: 'འོ་ན་ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 2135 after: 'འོ་ན་ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 2183 after: 'གྲུབ་ཅེ་ན།'
+    SPLIT block 2186 after: 'ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 2219 after: 'འོ་ན་ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 2253 after: 'ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 2267 after: ['དམིགས་པ་གཅིག་པ་ཉིད་དོ།', 'ཞེས་བྱ་བར་འགྱུར་རོ་ཞེ་ན།']
+    SPLIT block 2269 after: ['འབྱུང༌[^3010]ངོ་།', 'ཐལ་བར་འགྱུར་རོ་ཞེ་ན།']
+    SPLIT block 2300 after: 'འོ་ན་ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 2339 after: 'ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 2397 after: 'འོ་ན་ཇི་ལྟ་བུ་ཞེ་ན།'
+    SPLIT block 2438 after: 'གང་ཞིག་ཡིན་ཞེ་ན།'
+    MERGE [2569, 2570]
+    SPLIT block 2606 after: 'བརྗོད་པར་མི་བྱའོ་ཞེ་ན།'
+    SPLIT block 2614 after: 'ཡུལ་མ་ཡིན་ནོ་ཞེ་ན།'
+    SPLIT block 2622 after: 'སྐྱེ་མཆེད་ཡིན་ནོ་ཞེ་ན།'
+    SPLIT block 2721 after: 'དེ་ལྟ་བུར༌[^3566]རྟེན་མ་ཡིན་ནོ། །'
+  ✓ Integrity check passed. Blocks: 2759 → 2791
+
+Step 3 — Re-checking after repair...
+  209 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\Va_3CEK.reseg.md
+
+QC report: 0-INBOX\resegmented\Va_3CEK.qc.md
+
+────────────────────────────────────────
+Flags before : 216
+Flags after  : 209
+Corrections  : 36

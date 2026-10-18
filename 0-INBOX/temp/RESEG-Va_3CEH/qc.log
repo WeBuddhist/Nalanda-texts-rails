@@ -1,0 +1,47 @@
+Input:  0-INBOX\resegmented\Va_3CEH.reseg.md
+ID:     Va_3CEH
+
+Blocks: 1219
+
+Step 1 — Deterministic checks...
+  24 flag(s) found.
+  Block 5 — OVER_LENGTH (260 syl)
+  Block 6 — OVER_LENGTH (260 syl)
+  Block 49 — CONNECTOR_ENDING
+  Block 65 — OVER_LENGTH (278 syl)
+  Block 71 — OVER_LENGTH (323 syl)
+  Block 220 — OVER_LENGTH (307 syl)
+  Block 233 — OVER_LENGTH (277 syl)
+  Block 451 — OVER_LENGTH (379 syl)
+  Block 503 — OVER_LENGTH (266 syl)
+  Block 509 — SHORT_FRAGMENT (2 syl)
+  Block 513 — OVER_LENGTH (291 syl)
+  Block 540 — CONNECTOR_ENDING
+  Block 636 — CONNECTOR_ENDING
+  Block 798 — OVER_LENGTH (264 syl)
+  Block 813 — OVER_LENGTH (252 syl)
+  Block 959 — CONNECTOR_ENDING
+  Block 995 — OVER_LENGTH (303 syl)
+  Block 1032 — OVER_LENGTH (253 syl)
+  Block 1086 — CONNECTOR_ENDING
+  Block 1105 — CONNECTOR_ENDING
+  Block 1128 — OVER_LENGTH (643 syl)
+  Block 1138 — CONNECTOR_ENDING
+  Block 1163 — CONNECTOR_ENDING
+  Block 1205 — OVER_LENGTH (252 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 1 correction(s):
+    MERGE [508, 509]
+  ✓ Integrity check passed. Blocks: 1219 → 1218
+
+Step 3 — Re-checking after repair...
+  23 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\Va_3CEH.reseg.md
+
+QC report: 0-INBOX\resegmented\Va_3CEH.qc.md
+
+────────────────────────────────────────
+Flags before : 24
+Flags after  : 23
+Corrections  : 1

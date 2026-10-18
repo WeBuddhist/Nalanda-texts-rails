@@ -1,0 +1,22 @@
+[Va_3CEH] Parsing tree...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py parse --input C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEH\toc-tree-Va_3CEH.md --out C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEH\toc-tree-Va_3CEH.json
+Parsed 322 nodes (5 frame), max depth 5.
+JSON cache written to: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEH\toc-tree-Va_3CEH.json
+  depth  1: 12 nodes
+  depth  2: 93 nodes
+  depth  3: 143 nodes
+  depth  4: 72 nodes
+  depth  5: 2 nodes
+[Va_3CEH] Ingesting TOC headings...
+Running: C:\Program Files\Python314\python.exe -X utf8 C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\toc_tree_ingest.py ingest --tree C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\TOC-Va_3CEH\toc-tree-Va_3CEH.json --commentary C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEH\Va_3CEH.toc.md --split-frame-nodes
+Tree order matches the text — nothing reordered.
+Summary
+  Total nodes:            322
+  Inserted:               322
+  Already present:        0
+  Blocks split at a node: 20 ['1.2', '1.4.5.5', '1.4.6', '1.5.1.2', '1.5.1.3', '1.5.4', '1.6.5.6', '1.7', '3.2', '3.2.4.2', '4.2', '4.6.6', '4.10', '6.4', '9.3.2', '9.5.2', '9.6.4', '9.6.5', '9.7', '9.10']
+  Not found:              0
+  Integrity: text unchanged ✓
+
+Commentary updated: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\PIPE-Va_3CEH\Va_3CEH.toc.md
+[Va_3CEH] Synced to C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\segmented-commentary-with-toc\Va_3CEH.toc.md

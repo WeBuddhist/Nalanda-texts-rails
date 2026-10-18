@@ -1,0 +1,80 @@
+Input:  0-INBOX\resegmented\Va_3CE3.reseg.md
+ID:     Va_3CE3
+
+Blocks: 2141
+
+Step 1 — Deterministic checks...
+  47 flag(s) found.
+  Block 35 — OVER_LENGTH (318 syl)
+  Block 41 — OVER_LENGTH (295 syl)
+  Block 42 — OVER_LENGTH (513 syl)
+  Block 220 — OVER_LENGTH (363 syl)
+  Block 384 — OBJECTION_REPLY_FUSED
+  Block 384 — OVER_LENGTH (271 syl)
+  Block 410 — OVER_LENGTH (254 syl)
+  Block 501 — OBJECTION_REPLY_FUSED
+  Block 564 — OVER_LENGTH (586 syl)
+  Block 567 — OVER_LENGTH (263 syl)
+  Block 568 — OVER_LENGTH (314 syl)
+  Block 579 — OVER_LENGTH (300 syl)
+  Block 589 — OVER_LENGTH (321 syl)
+  Block 745 — OVER_LENGTH (294 syl)
+  Block 747 — OVER_LENGTH (509 syl)
+  Block 814 — OVER_LENGTH (283 syl)
+  Block 944 — OVER_LENGTH (450 syl)
+  Block 947 — OVER_LENGTH (366 syl)
+  Block 957 — OVER_LENGTH (383 syl)
+  Block 965 — OVER_LENGTH (258 syl)
+  Block 987 — OVER_LENGTH (291 syl)
+  Block 989 — OVER_LENGTH (345 syl)
+  Block 991 — OVER_LENGTH (270 syl)
+  Block 993 — OVER_LENGTH (299 syl)
+  Block 995 — OVER_LENGTH (357 syl)
+  Block 996 — OVER_LENGTH (256 syl)
+  Block 1045 — OVER_LENGTH (280 syl)
+  Block 1050 — OVER_LENGTH (264 syl)
+  Block 1063 — OVER_LENGTH (477 syl)
+  Block 1371 — OBJECTION_REPLY_FUSED
+  Block 1386 — OVER_LENGTH (306 syl)
+  Block 1452 — OBJECTION_REPLY_FUSED
+  Block 1491 — OVER_LENGTH (302 syl)
+  Block 1501 — OVER_LENGTH (256 syl)
+  Block 1823 — OBJECTION_REPLY_FUSED
+  Block 1828 — OVER_LENGTH (251 syl)
+  Block 2030 — OVER_LENGTH (259 syl)
+  Block 2077 — OBJECTION_REPLY_FUSED
+  Block 2082 — OBJECTION_REPLY_FUSED
+  Block 2092 — OVER_LENGTH (380 syl)
+  Block 2094 — OVER_LENGTH (280 syl)
+  Block 2096 — OVER_LENGTH (251 syl)
+  Block 2103 — OVER_LENGTH (302 syl)
+  Block 2129 — OVER_LENGTH (335 syl)
+  Block 2130 — OVER_LENGTH (444 syl)
+  Block 2135 — OBJECTION_REPLY_FUSED
+  Block 2136 — OVER_LENGTH (374 syl)
+
+Step 2 — LLM repair...
+  LLM suggested 11 correction(s):
+    SPLIT block 384 after: 'ཅི་བསྟན་ཞེ་ན།'
+    SPLIT block 501 after: 'ཅི་ལས་སེམས་པར་གྱུར་ཅེ་ན།'
+    SPLIT block 747 after: ['ལ་སོགས་པ་ལ་ཡང་སྦྱར་བར་བྱའོ། །', 'དེ་དག་གཅིག་ཏུ་བཤད་པར་སྦྱར་བར་བྱའོ། །']
+    SPLIT block 965 after: 'ཞེས་བྱ་བ་གསུངས་སོ། །'
+    SPLIT block 993 after: 'བརྟག་པར་བྱ་བའོ། །'
+    SPLIT block 1371 after: 'བརྟག་པར་བྱ་ཞེ་ན།'
+    SPLIT block 1452 after: 'ཉེས་པ་ཅིར་འགྱུར་ཞེ་ན།'
+    SPLIT block 1491 after: 'རྣམ་པར་བྱང་བ་ཡང་ཡོད་པར་འགྱུར་རོ། །'
+    SPLIT block 1823 after: 'གྲངས་དོན་མེད༌[^1839]པར་འགྱུར་རོ་ཞེ་ན།'
+    SPLIT block 2077 after: 'ཇི་སྐད་བསྟན་པར་འགྱུར་ཞེ་ན།[^2180]'
+    SPLIT block 2135 after: 'མི་བྱེད་ཅེ་ན།'
+  ✓ Integrity check passed. Blocks: 2141 → 2153
+
+Step 3 — Re-checking after repair...
+  42 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\Va_3CE3.reseg.md
+
+QC report: 0-INBOX\resegmented\Va_3CE3.qc.md
+
+────────────────────────────────────────
+Flags before : 47
+Flags after  : 42
+Corrections  : 11
