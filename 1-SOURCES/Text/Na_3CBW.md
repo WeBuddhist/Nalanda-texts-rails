@@ -1,6 +1,7 @@
 ---
-title: "བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།"
+title: "དཀོན་མཆོག་གསུམ་དང་མཛད་པ་བཅུ་གཉིས་ཀྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།"
 alt_titles:
+  - bo: "བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།"
 author: "སློབ་དཔོན་ཀླུ་སྒྲུབ།"
 author_in_english: "Nāgārjuna"
 date:
@@ -10,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 21) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཇ༽ .docx (01-Nagarjuna); https://wb.pub/3CBW"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 21) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཇ༽ .docx (01-Nagarjuna); https://wb.pub/3CBW · Title changed 2026-10-23 (was 'བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།'): own colophon title, to tell it from Na_3CBX (different work, same title)."
 bdrc_work_id: "WA0RT4223"
 source: "https://webuddhist.com/"
 license: "public"

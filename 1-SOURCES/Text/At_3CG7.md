@@ -1,6 +1,7 @@
 ---
-title: "མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།"
+title: "བཅོམ་ལྡན་འདས་མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།"
 alt_titles:
+  - bo: "མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།"
   - bo: "མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས་བཞུགས། །"
   - bo: "༄། །མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས་བཞུགས།"
   - bo: "བཅོམ་ལྡན་འདས་མི་འཁྲུག་པའི་སྒྲུབ་ཐབས།"
@@ -13,7 +14,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CG7"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CG7 · Title changed 2026-10-14 (was 'མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།'): own colophon title; At_3CG6 is the extensive sādhana with the same title."
 bdrc_work_id: "WA0RT1477"
 source: "https://webuddhist.com/"
 license: "public"

@@ -11,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 75) ཕྱོགས་གླང་གི་གསུང་འབུམ། ཀ༽ .docx (11-Dignaga); https://wb.pub/3CEi"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 75) ཕྱོགས་གླང་གི་གསུང་འབུམ། ཀ༽ .docx (11-Dignaga); https://wb.pub/3CEi · Title changed 2026-10-23 (was 'གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ།'): master tag: one verse from the 50-siddhas anthology, shared title with Ch_3CCU, Na_3C9x_, Sh_3CCh_; ཞེས་བྱ་བ from its own colophon."
 bdrc_work_id:
 source: "https://webuddhist.com/"
 license: "public"

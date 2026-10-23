@@ -1,6 +1,7 @@
 ---
-title: "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།"
+title: "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།༼ཟླ་བ་གྲགས་པ།༽"
 alt_titles:
+  - bo: "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།"
   - bo: "ཕུང་པོའི་ལྔའི་རབ་ཏུ་བྱེད་པ།"
   - bo: "ཕུང་པོ་ལྔའི་རབ་ཏུ་འབྱེད་པ།"
 author: "ཟླ་བ་གྲགས་པ།"
@@ -12,7 +13,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 35) དཔལ་ལྡན་ཟླ་བ་གྲགས་པའི་གསུང་འབུམ། ཀ .docx (05-Chandrakirti); https://wb.pub/3CCX"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 35) དཔལ་ལྡན་ཟླ་བ་གྲགས་པའི་གསུང་འབུམ། ཀ .docx (05-Chandrakirti); https://wb.pub/3CCX · Title changed 2026-10-23 (was 'ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།'): author tag; Va_3CEP is a different work with the same title."
 bdrc_work_id: "WA0RT3211"
 source: "https://webuddhist.com/"
 license: "public"

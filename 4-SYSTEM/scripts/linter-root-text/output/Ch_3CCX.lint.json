@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Ch_3CCX.md",
-  "validated_at": "2026-10-13T11:11:20.533464+00:00",
+  "validated_at": "2026-10-23T07:51:02.099490+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
@@ -19,9 +19,12 @@
     "wiki": null,
     "date": null,
     "title": {
-      "bo": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།"
+      "bo": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།༼ཟླ་བ་གྲགས་པ།༽"
     },
     "alt_titles": [
+      {
+        "bo": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།"
+      },
       {
         "bo": "ཕུང་པོའི་ལྔའི་རབ་ཏུ་བྱེད་པ།"
       },

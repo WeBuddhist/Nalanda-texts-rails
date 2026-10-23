@@ -1,6 +1,7 @@
 ---
-title: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག"
+title: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག༼ཀླུ་སྒྲུབ།༽"
 alt_titles:
+  - bo: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག"
   - bo: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག།"
   - bo: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ།"
   - bo: "སང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག"
@@ -13,13 +14,17 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9c"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9c · Title changed 2026-10-23 (was 'དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག'): author tag; At_3CHL is a different work with the same title."
 bdrc_work_id: "WA0RT0662"
 source: "https://webuddhist.com/"
 license: "public"
 pandita: "01-Nagarjuna"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "ROXoQVFjLhZcac4JWJ8mW"
+edition_id: "bueC7LpoJj5u6VVFEFAT1"
+toc_id: "3KL1NdkvST7tuk2D0gZLc"
+durchen_count: 358
 openpecha_text_id: "BlYt1pV5M88A7dZ3pcNOe"
 ---
 

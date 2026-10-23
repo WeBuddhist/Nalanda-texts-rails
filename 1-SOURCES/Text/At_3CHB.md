@@ -1,6 +1,7 @@
 ---
-title: "སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།"
+title: "ཇོ་བོ་རྗེའི་སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།"
 alt_titles:
+  - bo: "སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།"
 author:
 author_in_english: "Atiśa"
 date:
@@ -10,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx (17-Atisha); https://wb.pub/3CHB"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 99) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཁ༽ .docx (17-Atisha); https://wb.pub/3CHB · Title changed 2026-10-14 (was 'སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།'): author qualifier; Ar_3CBc_ is a different work with the same Tibetan title."
 bdrc_work_id: "WA0RT4342"
 source: "https://webuddhist.com/"
 license: "public"

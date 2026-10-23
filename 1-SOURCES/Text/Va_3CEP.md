@@ -1,6 +1,7 @@
 ---
-title: "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།"
+title: "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།༼དབྱིག་གཉེན།༽"
 alt_titles:
+  - bo: "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།"
 author: "སློབ་དཔོན་དབྱིག་གཉེན།"
 author_in_english: "Vasubandhu"
 date:
@@ -10,13 +11,17 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 72) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ཐ༽ .docx (10-Vasubandhu); https://wb.pub/3CEP"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 72) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ཐ༽ .docx (10-Vasubandhu); https://wb.pub/3CEP · Title changed 2026-10-23 (was 'ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།'): author tag; Ch_3CCX is a different work with the same title."
 bdrc_work_id: "WA0RT4227"
 source: "https://webuddhist.com/"
 license: "public"
 pandita: "10-Vasubandhu"
 category_id: "NDXKdNtZe9Kxl6Y4yBMAr"
 category_name: "Mind-only Treatises / སེམས་ཙམ།"
+text_id: "kzRugTuW0p3MSdou4CIM3"
+edition_id: "nQWf9EzHtbJVtXc4jarVB"
+toc_id: "G93fLPlLUFWCvaiiUpEVv"
+durchen_count: 79
 openpecha_text_id: "ikKrp5SmvZkq2LuMAiLda"
 ---
 

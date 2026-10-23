@@ -11,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 35) དཔལ་ལྡན་ཟླ་བ་གྲགས་པའི་གསུང་འབུམ། ཀ .docx (05-Chandrakirti); https://wb.pub/3CCU"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 35) དཔལ་ལྡན་ཟླ་བ་གྲགས་པའི་གསུང་འབུམ། ཀ .docx (05-Chandrakirti); https://wb.pub/3CCU · Title changed 2026-10-23 (was 'གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།'): master tag: one verse from the 50-siddhas anthology, shared title with Na_3C9x_, Sh_3CCh_, Di_3CEi_."
 bdrc_work_id:
 source: "https://webuddhist.com/"
 license: "public"

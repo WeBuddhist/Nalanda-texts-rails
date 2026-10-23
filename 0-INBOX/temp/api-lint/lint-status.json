@@ -3431,7 +3431,7 @@
  },
  "At_3CHL": {
   "status": "done",
-  "chars": 71787,
+  "chars": 71992,
   "size": "medium",
   "size_from": "workflow",
   "lint": "OK",
@@ -3447,7 +3447,7 @@
   "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/At_3CHL/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-23",
   "log": "0-INBOX/temp/api-lint/logs/At_3CHL.log"
  },
  "At_3CHl_": {
@@ -4516,7 +4516,7 @@
  },
  "Ch_3CCX": {
   "status": "done",
-  "chars": 101721,
+  "chars": 101894,
   "size": "medium",
   "size_from": "workflow",
   "lint": "OK",
@@ -4532,7 +4532,7 @@
   "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Ch_3CCX/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-23",
   "log": "0-INBOX/temp/api-lint/logs/Ch_3CCX.log"
  },
  "Ch_3CCZ": {
@@ -5720,7 +5720,7 @@
  },
  "Na_3C9c_": {
   "status": "done",
-  "chars": 84544,
+  "chars": 84861,
   "size": "medium",
   "size_from": "workflow",
   "lint": "OK",
@@ -5736,7 +5736,7 @@
   "parse_warnings": 2,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Na_3C9c_/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-23",
   "log": "0-INBOX/temp/api-lint/logs/Na_3C9c_.log"
  },
  "Na_3C9D": {
@@ -8184,12 +8184,12 @@
  },
  "Na_3CBW": {
   "status": "done",
-  "chars": 5887,
+  "chars": 6098,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
   "lint_errors": 0,
-  "lint_warnings": 2,
+  "lint_warnings": 1,
   "first_error": "",
   "durchen_warnings": 0,
   "parse": "OK",
@@ -8197,10 +8197,10 @@
   "durchens": 27,
   "yigchungs": 0,
   "toc_nodes": 8,
-  "parse_warnings": 2,
+  "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Na_3CBW/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-23",
   "log": "0-INBOX/temp/api-lint/logs/Na_3CBW.log"
  },
  "Na_3CBX": {
@@ -8954,12 +8954,12 @@
  },
  "Va_3CEP": {
   "status": "done",
-  "chars": 21740,
+  "chars": 22031,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
   "lint_errors": 0,
-  "lint_warnings": 2,
+  "lint_warnings": 1,
   "first_error": "",
   "durchen_warnings": 0,
   "parse": "OK",
@@ -8967,10 +8967,10 @@
   "durchens": 79,
   "yigchungs": 0,
   "toc_nodes": 8,
-  "parse_warnings": 2,
+  "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Va_3CEP/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-23",
   "log": "0-INBOX/temp/api-lint/logs/Va_3CEP.log"
  },
  "Va_3CEQ": {

@@ -1,6 +1,7 @@
 ---
-title: "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།"
+title: "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་གཉིས་པ།༽"
 alt_titles:
+  - bo: "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།"
 author:
 author_in_english:
 date:
@@ -10,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 83) སེངྒེ་བཟང་པོའི་གསུང་འབུམ། ཁ༽ .docx (14-Haribhadra); https://wb.pub/3CFG"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 83) སེངྒེ་བཟང་པོའི་གསུང་འབུམ། ཁ༽ .docx (14-Haribhadra); https://wb.pub/3CFG · Title changed 2026-10-14 (was 'ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།'): volume tag: volume 2 of the five-volume set Ha_3CFF–Ha_3CFJ."
 bdrc_work_id:
 source: "https://webuddhist.com/"
 license: "public"

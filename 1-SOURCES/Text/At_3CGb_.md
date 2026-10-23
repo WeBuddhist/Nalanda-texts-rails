@@ -1,6 +1,7 @@
 ---
-title: "སྦྱིན་སྲེག་གི་ཆོ་ག"
+title: "ཞི་བའི་སྦྱིན་སྲེག་གི་ཆོ་ག"
 alt_titles:
+  - bo: "སྦྱིན་སྲེག་གི་ཆོ་ག"
 author:
 author_in_english:
 date:
@@ -10,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CGb"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CGb · Title changed 2026-10-14 (was 'སྦྱིན་སྲེག་གི་ཆོ་ག'): editorial: the rite is pacifying in its own words; At_3CG8 has the same title."
 bdrc_work_id:
 source: "https://webuddhist.com/"
 license: "public"

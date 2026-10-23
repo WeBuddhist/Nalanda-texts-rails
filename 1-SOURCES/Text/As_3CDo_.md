@@ -11,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 56) ཐོགས་མེད་ཀྱི་གསུང་འབུམ། ཅ༽ .docx (09-Asanga); https://wb.pub/3CDo"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 56) ཐོགས་མེད་ཀྱི་གསུང་འབུམ། ཅ༽ .docx (09-Asanga); https://wb.pub/3CDo · Title changed 2026-10-23 (was 'རྣལ་འབྱོར་སྤྱོད་པའི་ས་རྣམ་པར་གཏན་ལ་དབབ་པ་བསྡུ་བ།'): part tag: part 1 of 2; part 2 is As_3CDp_ ༼སྨད་ཆ།༽."
 bdrc_work_id:
 source: "https://webuddhist.com/"
 license: "public"

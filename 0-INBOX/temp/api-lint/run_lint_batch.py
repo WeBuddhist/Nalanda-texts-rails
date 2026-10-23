@@ -43,6 +43,7 @@ LOGS = HERE / "logs"
 REPORT = VAULT / "0-INBOX" / "API-LINT-BATCH.md"
 UPLOAD_STATUS = HERE / "upload-status.json"  # written by run_upload_batch.py
 REASONS = HERE / "failure-reasons.json"  # id -> reason, written by hand after investigating a failure
+RETITLED = HERE / "retitled.json"  # id -> {old, new, clash, basis}, written by hand when a title is changed
 
 
 def _sizes():
@@ -187,6 +188,7 @@ def write_report(status):
         "| API payloads | `4-SYSTEM/scripts/parser-root-text/output/<id>/` (text, edition, toc, yigchungs, durchens) |",
         "| Why the durchen texts are held | `0-INBOX/durchen-outliers-report.md` |",
         "| Upload (script; ledger with every id) | `0-INBOX/temp/api-lint/run_upload_batch.py` · `0-INBOX/temp/api-lint/upload-status.json` |",
+        "| Titles changed to clear a title clash | `0-INBOX/temp/api-lint/retitled.json` |",
         "",
         "`lint` OK = no errors · `err` / `warn` = linter errors / warnings (the language-list notice "
         "not counted) · `dur. warn` = footnote warnings (lemma not matched) · `src changed` = the "
@@ -207,12 +209,15 @@ def write_report(status):
             return f"{sum(1 for x in u[ids_key] if x)}/{len(u[ids_key])}"
         return ""
 
+    retitled = _read_json(RETITLED)
     for i, (tid, e) in enumerate(sorted(status.items()), start=1):
         st = "**held**" if e.get("hold") else e.get("status", "to do")
         u = uploads.get(tid, {})
         up = u.get("status", "")
         up = f"**{up}**" if up in ("failed", "partial") else up
         note = e.get("hold") or e.get("first_error") or (f"upload: {u['error']}" if u.get("error") else "")
+        if tid in retitled:
+            note = " · ".join(n for n in (note, "retitled (see Retitled)") if n)
         lines.append("| " + " | ".join(_cell(v) for v in [
             i, tid, e["size"], f"{e['chars']:,}", st, e.get("lint"), e.get("lint_errors"),
             e.get("lint_warnings"), e.get("durchen_warnings"), e.get("parse"), e.get("segments"),
@@ -223,6 +228,7 @@ def write_report(status):
             note,
         ]) + " |")
     lines += _failures_section(status, uploads)
+    lines += _retitled_section()
     REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
@@ -266,6 +272,20 @@ def _failures_section(status, uploads):
     if held:
         out += ["", "### Held — never run", "", "Listed in `0-INBOX/temp/api-lint/holds.json`; remove a text there to release it.", "",
                 "| id | reason |", "|---|---|"] + [f"| {_cell(t)} | {_cell(r)} |" for t, r in held]
+    return out
+
+
+def _retitled_section():
+    """Texts whose `title:` was changed so the upload's title-clash check passes (from retitled.json)."""
+    retitled = _read_json(RETITLED)
+    if not retitled:
+        return []
+    out = ["", "## Retitled", "",
+           "Texts whose `title:` was changed because the upload stopped on a title already in the library. "
+           "The old title moved into `alt_titles`. Kept by hand in `0-INBOX/temp/api-lint/retitled.json`.", "",
+           "| id | old title | new title | clashed with | basis |", "|---|---|---|---|---|"]
+    out += ["| " + " | ".join(_cell(v) for v in (tid, r.get("old"), r.get("new"), r.get("clash"), r.get("basis"))) + " |"
+            for tid, r in sorted(retitled.items())]
     return out
 
 

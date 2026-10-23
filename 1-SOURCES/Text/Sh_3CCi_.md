@@ -11,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 41) ཞི་བ་ལྷའི་གསུང་འབུམ། ཀ༽ .docx (06-Shantideva); https://wb.pub/3CCi"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 41) ཞི་བ་ལྷའི་གསུང་འབུམ། ཀ༽ .docx (06-Shantideva); https://wb.pub/3CCi · Title changed 2026-10-23 (was 'དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ།'): master tag: one verse from the 40-siddhas anthology, shared title with Na_3C9y_, Di_3CEj_."
 bdrc_work_id:
 source: "https://webuddhist.com/"
 license: "public"

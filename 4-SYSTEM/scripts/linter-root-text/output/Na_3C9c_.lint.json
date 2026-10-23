@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Na_3C9c_.md",
+  "validated_at": "2026-10-23T07:51:03.626625+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 358 from 358 footnote definition(s)",
+    "toc: 25 headers found"
+  ],
+  "warnings": [
+    "segment 77 (^8-35): footnote [^97] lemma 'ཡིན། །ཡོད་དང་མེད་ལས་རྣམ་པར་འདས། །ནམ་མཁའ་བཞིན་དུ་དྲི་མ་མེད། །' does not end at the marker — the durchen will span the syllable before it, 'འགྱུར།'",
+    "author 'Nāgārjuna': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0662",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག༼ཀླུ་སྒྲུབ།༽"
+    },
+    "alt_titles": [
+      {
+        "bo": "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག"
+      },
+      {
+        "bo": "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག།"
+      },
+      {
+        "bo": "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ།"
+      },
+      {
+        "bo": "སང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

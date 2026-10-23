@@ -1,6 +1,7 @@
 ---
-title: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག"
+title: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག༼མར་མེ་མཛད་བཟང་པོ།༽"
 alt_titles:
+  - bo: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག"
   - bo: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག།"
   - bo: "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག་ཞེས་བྱ་བ།"
 author: "མར་མེ་མཛད་བཟང་པོ།"
@@ -12,7 +13,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx (17-Atisha); https://wb.pub/3CHL"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 101) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ང༽ .docx (17-Atisha); https://wb.pub/3CHL · Title changed 2026-10-23 (was 'དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག'): author tag; Na_3C9c_ is a different work with the same title."
 bdrc_work_id: "WA0RT4022"
 source: "https://webuddhist.com/"
 license: "public"

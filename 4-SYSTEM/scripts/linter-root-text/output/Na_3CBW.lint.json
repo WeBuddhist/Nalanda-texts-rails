@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Na_3CBW.md",
-  "validated_at": "2026-10-13T11:13:16.713167+00:00",
+  "validated_at": "2026-10-23T07:50:58.997841+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
@@ -12,7 +12,6 @@
     "toc: 8 headers found"
   ],
   "warnings": [
-    "alt_titles: missing — ignored for now",
     "author 'Nāgārjuna': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
   ],
   "text_input": {
@@ -20,9 +19,13 @@
     "wiki": null,
     "date": null,
     "title": {
-      "bo": "བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།"
+      "bo": "དཀོན་མཆོག་གསུམ་དང་མཛད་པ་བཅུ་གཉིས་ཀྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།"
     },
-    "alt_titles": null,
+    "alt_titles": [
+      {
+        "bo": "བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།"
+      }
+    ],
     "language": "bo",
     "commentary_of": null,
     "translation_of": null,

@@ -11,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 41) ཞི་བ་ལྷའི་གསུང་འབུམ། ཀ༽ .docx (06-Shantideva); https://wb.pub/3CCs"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 41) ཞི་བ་ལྷའི་གསུང་འབུམ། ཀ༽ .docx (06-Shantideva); https://wb.pub/3CCs · Title changed 2026-10-23 (was 'བསླབ་པ་ཀུན་ལས་བཏུས་པ།'): part tag: part 1 of 2; part 2 is Sh_3CCt_ ༼སྨད་ཆ།༽."
 bdrc_work_id: "WA0RT3281"
 source: "https://webuddhist.com/"
 license: "public"

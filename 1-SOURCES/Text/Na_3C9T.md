@@ -1,10 +1,8 @@
 ---
-title: "དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།"
+title: "རྡོ་རྗེ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།"
 alt_titles:
+  - bo: "དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།"
   - bo: "༄༅། །དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།"
-  - bo: "དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས་ཞེས་བྱ་བ།"
-  - bo: "དཔལ་ནག་པོ་ཆེན་པོའི་སྲོག་གི་སྤུ་གྲིའི་སྒྲུབ་ཐབས།"
-  - bo: "གུར་མགོན་ལྷ་བཅུ་བདུན་གྱི་སྒྲུབ་ཐབས།"
 author:
 author_in_english:
 date:
@@ -14,7 +12,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9T"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9T · Title changed 2026-10-14 (was 'དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།'): from its own homage, to tell it from Na_3C9R."
 bdrc_work_id: "WA0RT0637"
 source: "https://webuddhist.com/"
 license: "public"
