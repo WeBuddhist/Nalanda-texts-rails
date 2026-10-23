@@ -1,6 +1,7 @@
 ---
-title: "བསླབ་པ་ཀུན་ལས་བཏུས་པ།"
+title: "བསླབ་པ་ཀུན་ལས་བཏུས་པ།༼སྟོད་ཆ།༽"
 alt_titles:
+  - bo: "བསླབ་པ་ཀུན་ལས་བཏུས་པ།"
 author: "ཞི་བ་ལྷ།"
 author_in_english: "Śāntideva"
 date:

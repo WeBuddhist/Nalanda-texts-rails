@@ -62,7 +62,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 39 | As_3CDl_ | large | 719,782 | done | OK | 0 | 2 | 0 | OK | 1733 | 2260 | 11 | no | uploaded | 63kj31p9J5saliyvuD14z | ✓ | ✓ | 2260/2260 |  |  |
 | 40 | As_3CDm_ | large | 778,382 | done | OK | 0 | 2 | 0 | OK | 1042 | 3616 | 8 | no | uploaded | VO7LalclRc0h8JVJnasmY | ✓ | ✓ | 3616/3616 |  |  |
 | 41 | As_3CDn_ | large | 853,442 | done | OK | 0 | 2 | 0 | OK | 1074 | 3806 | 15 | no | uploaded | iePW4cSI1KvRXbZP1odVd | ✓ | ✓ | 3806/3806 |  |  |
-| 42 | As_3CDo_ | large | 787,227 | done | OK | 0 | 3 | 1 | OK | 1461 | 3132 | 11 | no | uploaded | PTeAvbIVuWhNUWmDhTOvx | ✓ | ✓ | 3132/3132 |  |  |
+| 42 | As_3CDo_ | large | 787,295 | done | OK | 0 | 2 | 1 | OK | 1461 | 3132 | 11 | no | uploaded | PTeAvbIVuWhNUWmDhTOvx | ✓ | ✓ | 3132/3132 |  |  |
 | 43 | As_3CDp_ | large | 780,612 | done | OK | 0 | 2 | 0 | OK | 1316 | 2768 | 9 | no | uploaded | g6QRO1ZIXB7UlHVjfwAzy | ✓ | ✓ | 2768/2768 |  |  |
 | 44 | As_3CDq_ | large | 785,770 | done | OK | 0 | 1 | 0 | OK | 1266 | 2814 | 6 | no | uploaded | ByFjqCH33rl0DO9pNTnlt | ✓ | ✓ | 2814/2814 |  |  |
 | 45 | As_3CDr_ | medium | 81,613 | done | OK | 0 | 2 | 0 | OK | 201 | 316 | 11 | no | uploaded | yuBW2IlmWGYm59zVKkvof | ✓ | ✓ | 316/316 |  |  |
@@ -429,7 +429,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 406 | Sh_3CCp_ | small | 23,524 | done | OK | 0 | 1 | 0 | OK | 69 | 135 | 5 | no | uploaded | f1kgfnvdn8kRrN4UGhYBJ | ✓ | ✓ | 135/135 |  |  |
 | 407 | Sh_3CCq_ | small | 13,043 | done | OK | 0 | 1 | 0 | OK | 69 | 73 | 2 | no | uploaded | RRp6mExkSiopulaTHiIPU | ✓ | ✓ | 73/73 |  |  |
 | 408 | Sh_3CCr_ | small | 5,384 | done | OK | 0 | 2 | 0 | OK | 32 | 20 | 9 | no | uploaded | lILQJ8ziYDaUjgmc9i1pB | ✓ | ✓ | 20/20 |  |  |
-| 409 | Sh_3CCs_ | large | 269,341 | done | OK | 0 | 2 | 0 | OK | 598 | 1466 | 7 | no | uploaded | 8Rny2ucutFoSoG5TmR9q5 | ✓ | ✓ | 1466/1466 |  |  |
+| 409 | Sh_3CCs_ | large | 269,382 | done | OK | 0 | 1 | 0 | OK | 598 | 1466 | 7 | no | uploaded | 8Rny2ucutFoSoG5TmR9q5 | ✓ | ✓ | 1466/1466 |  |  |
 | 410 | Sh_3CCt_ | large | 544,715 | done | OK | 0 | 3 | 1 | OK | 1424 | 2850 | 18 | no | uploaded | gMfxq9x5JHLsGB8ZmHEJr | ✓ | ✓ | 2850/2850 |  |  |
 | 411 | Sh_3CCu_ | small | 17,975 | done | OK | 0 | 2 | 1 | OK | 66 | 1 | 2 | no | uploaded | b0mux3xub6C5v2HlK6Acu | ✓ | ✓ | 1/1 |  |  |
 | 412 | Sh_3CCv_ | small | 2,103 | done | OK | 0 | 2 | 0 | OK | 9 | 1 | 5 | no | uploaded | E5WOrkGUaKFOX3s9oajIu | ✓ | ✓ | 1/1 |  |  |
@@ -508,6 +508,7 @@ Texts whose `title:` was changed because the upload stopped on a title already i
 
 | id | old title | new title | clashed with | basis |
 |---|---|---|---|---|
+| As_3CDo_ | རྣལ་འབྱོར་སྤྱོད་པའི་ས་རྣམ་པར་གཏན་ལ་དབབ་པ་བསྡུ་བ། | རྣལ་འབྱོར་སྤྱོད་པའི་ས་རྣམ་པར་གཏན་ལ་དབབ་པ་བསྡུ་བ།༼སྟོད་ཆ།༽ | As_3CDp_ | Part 1 (Book 56) of a two-part work; As_3CDp_ (Book 57) is already ༼སྨད་ཆ།༽ and As_3CDp_ carries the colophon. Follows As_3CDk_ / As_3CDl_. Already uploaded: title patched on the library (PATCH /v2/texts/PTeAvbIVuWhNUWmDhTOvx, 2026-10-23). |
 | At_3CG7 | མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས། | བཅོམ་ལྡན་འདས་མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས། | At_3CG6 | Own colophon title (^a-1). At_3CG6's colophon calls itself the extensive (རྒྱས་པ) sādhana; this is the short one. |
 | At_3CGI | གཙུག་ཏོར་དྲི་མེད་ཀྱི་གཟུངས་ཆོག | གཙུག་ཏོར་དྲི་མ་མེད་པའི་གཟུངས་ཀྱི་ཆོ་ག | At_3CGH | Full form from its own ^I-2 and colophon (^a-1). Note: At_3CGH ends with the same wording (^1-7) — the two remain near-identical to readers. |
 | At_3CGb_ | སྦྱིན་སྲེག་གི་ཆོ་ག | ཞི་བའི་སྦྱིན་སྲེག་གི་ཆོ་ག | At_3CG8 | Editorial: no distinct title is attested. The rite is pacifying in its own words (ཞི་བར་བྱ་བའི་ཕྱིར, ཞི་བའི་ཚིག, ཤནྟི་ཀུ་རུ ×2); At_3CG8 has none of these. |
@@ -515,3 +516,4 @@ Texts whose `title:` was changed because the upload stopped on a title already i
 | Ha_3CFG | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་གཉིས་པ།༽ | — | Volume 2 (Book 83) was missing its volume tag. Already uploaded: deleted (old text tce5facfRtmmMP067sELa) and re-uploaded under the new title. |
 | Ha_3CFJ | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་ལྔ་པ།༽ | Ha_3CFG | Volume 5 (Book 86) of a five-volume set; follows the ༼དེབ་N།༽ pattern of Ha_3CFF / Ha_3CFH / Ha_3CFI. |
 | Na_3C9T | དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས། | རྡོ་རྗེ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས། | Na_3C9R | Editorial, from its own homage (^I-2). Dropped 3 alt_titles not attested in the text (…ཞེས་བྱ་བ། is Na_3C9R's wording; …སྲོག་གི་སྤུ་གྲིའི… and གུར་མགོན་ལྷ་བཅུ་བདུན… match neither). |
+| Sh_3CCs_ | བསླབ་པ་ཀུན་ལས་བཏུས་པ། | བསླབ་པ་ཀུན་ལས་བཏུས་པ།༼སྟོད་ཆ།༽ | Sh_3CCt_ | Part 1 (Book 41, chapters 1–5) of a two-part work; Sh_3CCt_ (Book 42, chapter 6 on, colophon) is already ༼སྨད་ཆ།༽. Already uploaded: title patched on the library (PATCH /v2/texts/8Rny2ucutFoSoG5TmR9q5, 2026-10-23). |

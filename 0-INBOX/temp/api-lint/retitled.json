@@ -1,0 +1,56 @@
+{
+ "As_3CDo_": {
+  "old": "རྣལ་འབྱོར་སྤྱོད་པའི་ས་རྣམ་པར་གཏན་ལ་དབབ་པ་བསྡུ་བ།",
+  "new": "རྣལ་འབྱོར་སྤྱོད་པའི་ས་རྣམ་པར་གཏན་ལ་དབབ་པ་བསྡུ་བ།༼སྟོད་ཆ།༽",
+  "clash": "As_3CDp_",
+  "basis": "Part 1 (Book 56) of a two-part work; As_3CDp_ (Book 57) is already ༼སྨད་ཆ།༽ and As_3CDp_ carries the colophon. Follows As_3CDk_ / As_3CDl_. Already uploaded: title patched on the library (PATCH /v2/texts/PTeAvbIVuWhNUWmDhTOvx, 2026-10-23)."
+ },
+ "At_3CG7": {
+  "old": "མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།",
+  "new": "བཅོམ་ལྡན་འདས་མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།",
+  "clash": "At_3CG6",
+  "basis": "Own colophon title (^a-1). At_3CG6's colophon calls itself the extensive (རྒྱས་པ) sādhana; this is the short one."
+ },
+ "At_3CGI": {
+  "old": "གཙུག་ཏོར་དྲི་མེད་ཀྱི་གཟུངས་ཆོག",
+  "new": "གཙུག་ཏོར་དྲི་མ་མེད་པའི་གཟུངས་ཀྱི་ཆོ་ག",
+  "clash": "At_3CGH",
+  "basis": "Full form from its own ^I-2 and colophon (^a-1). Note: At_3CGH ends with the same wording (^1-7) — the two remain near-identical to readers."
+ },
+ "At_3CGb_": {
+  "old": "སྦྱིན་སྲེག་གི་ཆོ་ག",
+  "new": "ཞི་བའི་སྦྱིན་སྲེག་གི་ཆོ་ག",
+  "clash": "At_3CG8",
+  "basis": "Editorial: no distinct title is attested. The rite is pacifying in its own words (ཞི་བར་བྱ་བའི་ཕྱིར, ཞི་བའི་ཚིག, ཤནྟི་ཀུ་རུ ×2); At_3CG8 has none of these."
+ },
+ "At_3CHB": {
+  "old": "སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།",
+  "new": "ཇོ་བོ་རྗེའི་སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།",
+  "clash": "Ar_3CBc_",
+  "basis": "Editorial author qualifier. Different works with the same Tibetan title: Atiśa's Caryāsaṃgrahapradīpa vs Āryadeva's Caryāmelāpakapradīpa (Sanskrit titles in ^I-1). ཇོ་བོ་རྗེ from the collection title."
+ },
+ "Ha_3CFJ": {
+  "old": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།",
+  "new": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་ལྔ་པ།༽",
+  "clash": "Ha_3CFG",
+  "basis": "Volume 5 (Book 86) of a five-volume set; follows the ༼དེབ་N།༽ pattern of Ha_3CFF / Ha_3CFH / Ha_3CFI."
+ },
+ "Ha_3CFG": {
+  "old": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།",
+  "new": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་གཉིས་པ།༽",
+  "clash": "—",
+  "basis": "Volume 2 (Book 83) was missing its volume tag. Already uploaded: deleted (old text tce5facfRtmmMP067sELa) and re-uploaded under the new title."
+ },
+ "Na_3C9T": {
+  "old": "དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།",
+  "new": "རྡོ་རྗེ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།",
+  "clash": "Na_3C9R",
+  "basis": "Editorial, from its own homage (^I-2). Dropped 3 alt_titles not attested in the text (…ཞེས་བྱ་བ། is Na_3C9R's wording; …སྲོག་གི་སྤུ་གྲིའི… and གུར་མགོན་ལྷ་བཅུ་བདུན… match neither)."
+ },
+ "Sh_3CCs_": {
+  "old": "བསླབ་པ་ཀུན་ལས་བཏུས་པ།",
+  "new": "བསླབ་པ་ཀུན་ལས་བཏུས་པ།༼སྟོད་ཆ།༽",
+  "clash": "Sh_3CCt_",
+  "basis": "Part 1 (Book 41, chapters 1–5) of a two-part work; Sh_3CCt_ (Book 42, chapter 6 on, colophon) is already ༼སྨད་ཆ།༽. Already uploaded: title patched on the library (PATCH /v2/texts/8Rny2ucutFoSoG5TmR9q5, 2026-10-23)."
+ }
+}
