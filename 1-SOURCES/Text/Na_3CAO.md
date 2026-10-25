@@ -1,6 +1,7 @@
 ---
-title: "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།"
+title: "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼དཔེ་གཉིས་པ།༽"
 alt_titles:
+  - bo: "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།"
 author:
 author_in_english:
 date:
@@ -10,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 18) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ང༽ .docx (01-Nagarjuna); https://wb.pub/3CAO"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 18) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ང༽ .docx (01-Nagarjuna); https://wb.pub/3CAO · Title changed 2026-10-25 (was 'རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།'): version tag, version 2 of 2 of this work in volume order; the fuller wording of the same rite sequence as Na_3CAN; homage འཕགས་མ་སྒྲོལ་མ་ལ; no author or translator named."
 bdrc_work_id:
 source: "https://webuddhist.com/"
 license: "public"

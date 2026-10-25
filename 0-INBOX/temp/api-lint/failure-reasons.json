@@ -4,7 +4,5 @@
  "Bh_3CCO": "Exact duplicate of Bh_3CCJ: identical text (100%), same BDRC WA0RT3202, printed in two volumes (Book 34 ཆ, Book 31 ག). Already on the library as Bh_3CCJ → hold.",
  "Sh_3CFZ": "Same text as Na_3CBB (≈100%, 35,237 vs 35,231 chars, same BDRC WA0RT3462), filed under Shakyaprabha (Book 97) and under Nagarjuna (Book 21). One work, two attributions → decide which to keep.",
  "Na_3C9S": "Near-identical to Ar_3CBf_ (98%, same BDRC WA0RT0629) but with a different title; filed under Nagarjuna (Book 15) and Aryadeva (Book 27). The API would accept it — the uploader's BDRC check stopped it. One work, two attributions → decide.",
- "Na_3C9X": "Variant of Na_3C9V (93% similar, same title, same volume Book 15). Decide: duplicate to hold, or a separate version that needs a distinct title.",
- "Na_3C9W": "Same title as Na_3C9V (and Na_3C9X) but a different version: 51% similar, same volume (Book 15). Needs a distinct title.",
  "Na_3CAP": "Different work with the same generic title as Na_3CAO (24% similar, 2,657 vs 7,584 chars, both Nagarjuna Book 18). Needs a distinct title."
 }

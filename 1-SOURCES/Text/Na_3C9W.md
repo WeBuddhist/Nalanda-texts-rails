@@ -1,6 +1,7 @@
 ---
-title: "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།"
+title: "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་གཉིས་པ།༽"
 alt_titles:
+  - bo: "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།"
   - bo: "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ།"
 author: "སློབ་དཔོན་ཀླུ་སྒྲུབ།"
 author_in_english: "Nāgārjuna"
@@ -11,13 +12,17 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9W"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9W · Title changed 2026-10-25 (was 'དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།'): version tag, version 2 of 3 of this work in volume order; Sanskrit title …aṣṭamantrastotra; verses reordered and reworded; lacks Na_3C9V's verses 4, 8 and 10; adds the ཀྵཾ verse and a closing benefit verse; no translator named."
 bdrc_work_id: "WA0RT0644"
 source: "https://webuddhist.com/"
 license: "public"
 pandita: "01-Nagarjuna"
 category_id: "REBGnT4qFooPfPEkR5pe5"
 category_name: "Tantras / རྒྱུད་སྡེ།"
+text_id: "B3zeAmJAyeec5xNDR94n6"
+edition_id: "lBLh2VAjIStzqWaTGdhuh"
+toc_id: "VOVSddCTxHZtFAbEJNC3u"
+durchen_count: 60
 openpecha_text_id: "XzgjjW9G1MCrTd9rzhT8v"
 ---
 

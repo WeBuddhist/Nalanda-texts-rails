@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Na_3CAO.md",
-  "validated_at": "2026-10-13T11:12:37.801863+00:00",
+  "validated_at": "2026-10-25T18:23:29.175622+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
@@ -17,17 +17,20 @@
     "segment 35 (^2-4): footnote [^40] lemma 'ཡ་ཙྪནྟུ་' does not end at the marker — the durchen will span the syllable before it, 'ཡཙྪནྟུ༌'",
     "segment 37 (^2-6): footnote [^45] lemma 'རྒྱ་ཤུག་གི་' does not end at the marker — the durchen will span the syllable before it, 'ཤུག༌'",
     "segment 40 (^2-9): footnote [^51] lemma 'མིག་སྨན་' does not end at the marker — the durchen will span the syllable before it, 'མིག༌'",
-    "segment 43 (^2-12): footnote [^56] lemma 'སཱ་ལུའི་' does not end at the marker — the durchen will span the syllable before it, 'སཱ༌'",
-    "alt_titles: missing — ignored for now"
+    "segment 43 (^2-12): footnote [^56] lemma 'སཱ་ལུའི་' does not end at the marker — the durchen will span the syllable before it, 'སཱ༌'"
   ],
   "text_input": {
     "bdrc": null,
     "wiki": null,
     "date": null,
     "title": {
-      "bo": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།"
+      "bo": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼དཔེ་གཉིས་པ།༽"
     },
-    "alt_titles": null,
+    "alt_titles": [
+      {
+        "bo": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།"
+      }
+    ],
     "language": "bo",
     "commentary_of": null,
     "translation_of": null,

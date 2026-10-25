@@ -6357,7 +6357,7 @@
  },
  "Na_3C9V": {
   "status": "done",
-  "chars": 5233,
+  "chars": 5522,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
@@ -6373,7 +6373,7 @@
   "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Na_3C9V/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-25",
   "log": "0-INBOX/temp/api-lint/logs/Na_3C9V.log"
  },
  "Na_3C9v_": {
@@ -6399,7 +6399,7 @@
  },
  "Na_3C9W": {
   "status": "done",
-  "chars": 6372,
+  "chars": 6743,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
@@ -6415,7 +6415,7 @@
   "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Na_3C9W/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-25",
   "log": "0-INBOX/temp/api-lint/logs/Na_3C9W.log"
  },
  "Na_3C9w_": {
@@ -6441,12 +6441,12 @@
  },
  "Na_3C9X": {
   "status": "done",
-  "chars": 5846,
+  "chars": 6237,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
   "lint_errors": 0,
-  "lint_warnings": 2,
+  "lint_warnings": 1,
   "first_error": "",
   "durchen_warnings": 0,
   "parse": "OK",
@@ -6454,10 +6454,10 @@
   "durchens": 44,
   "yigchungs": 0,
   "toc_nodes": 5,
-  "parse_warnings": 2,
+  "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Na_3C9X/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-25",
   "log": "0-INBOX/temp/api-lint/logs/Na_3C9X.log"
  },
  "Na_3C9x_": {
@@ -7239,12 +7239,12 @@
  },
  "Na_3CAO": {
   "status": "done",
-  "chars": 11002,
+  "chars": 11290,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
   "lint_errors": 0,
-  "lint_warnings": 7,
+  "lint_warnings": 6,
   "first_error": "",
   "durchen_warnings": 5,
   "parse": "OK",
@@ -7252,10 +7252,10 @@
   "durchens": 59,
   "yigchungs": 0,
   "toc_nodes": 4,
-  "parse_warnings": 7,
+  "parse_warnings": 6,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Na_3CAO/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-25",
   "log": "0-INBOX/temp/api-lint/logs/Na_3CAO.log"
  },
  "Na_3CAo_": {

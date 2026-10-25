@@ -2,7 +2,7 @@
 
 Runs `linter-root-text` then `parser-root-text` on every root text in `1-SOURCES/Text/`. How to run: the docstring of `0-INBOX/temp/api-lint/run_lint_batch.py`.
 
-Updated 2026-10-23 · 442 texts (small 358 · medium 60 · large 24) · done 429 · failed 0 · **held 13** · to do 0 · **uploaded 421** · upload failed 8
+Updated 2026-10-25 · 442 texts (small 358 · medium 60 · large 24) · done 429 · failed 0 · **held 13** · to do 0 · **uploaded 423** · upload failed 6
 
 | What | Path |
 |---|---|
@@ -311,9 +311,9 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 288 | Na_3C9S | small | 2,837 | done | OK | 0 | 1 | 0 | OK | 13 | 9 | 5 | no | **failed** |  |  |  |  |  | upload: same Ar_3CBf_ (BDRC WA0RT0629) as an uploaded text |
 | 289 | Na_3C9T | small | 3,362 | done | OK | 0 | 1 | 0 | OK | 10 | 16 | 5 | no | uploaded | AEvMeasfXpTpPwyI5kVLO | ✓ | ✓ | 16/16 |  | retitled (see Retitled) |
 | 290 | Na_3C9U | small | 2,478 | done | OK | 0 | 4 | 2 | OK | 11 | 12 | 3 | no | uploaded | QoxlQmbW2PXeLIGEeMCEQ | ✓ | ✓ | 12/12 |  |  |
-| 291 | Na_3C9V | small | 5,233 | done | OK | 0 | 1 | 0 | OK | 14 | 24 | 5 | no | uploaded | iNsukPJ8ysb1S7seaiM2O | ✓ | ✓ | 24/24 |  |  |
-| 292 | Na_3C9W | small | 6,372 | done | OK | 0 | 1 | 0 | OK | 12 | 60 | 3 | no | **failed** |  |  |  |  |  | upload: same Na_3C9V (title) as an uploaded text |
-| 293 | Na_3C9X | small | 5,846 | done | OK | 0 | 2 | 0 | OK | 13 | 44 | 5 | no | **failed** |  |  |  |  |  | upload: same Na_3C9V (title) as an uploaded text |
+| 291 | Na_3C9V | small | 5,522 | done | OK | 0 | 1 | 0 | OK | 14 | 24 | 5 | no | uploaded | iNsukPJ8ysb1S7seaiM2O | ✓ | ✓ | 24/24 |  | retitled (see Retitled) |
+| 292 | Na_3C9W | small | 6,862 | done | OK | 0 | 1 | 0 | OK | 12 | 60 | 3 | no | uploaded | B3zeAmJAyeec5xNDR94n6 | ✓ | ✓ | 60/60 |  | retitled (see Retitled) |
+| 293 | Na_3C9X | small | 6,356 | done | OK | 0 | 1 | 0 | OK | 13 | 44 | 5 | no | uploaded | gKEiZcr05YqJsZ7WwwdP3 | ✓ | ✓ | 44/44 |  | retitled (see Retitled) |
 | 294 | Na_3C9Y | small | 4,577 | done | OK | 0 | 2 | 0 | OK | 12 | 17 | 3 | no | uploaded | yyxy8f6evgJciznvXkJpO | ✓ | ✓ | 17/17 |  |  |
 | 295 | Na_3C9a_ | medium | 36,808 | done | OK | 0 | 2 | 0 | OK | 178 | 133 | 17 | no | uploaded | Rw3zayH6qfufG1WNpIR6H | ✓ | ✓ | 133/133 |  |  |
 | 296 | Na_3C9b_ | small | 18,385 | done | OK | 0 | 1 | 0 | OK | 63 | 70 | 7 | no | uploaded | 42bv4SCycJxcnPkyY82Ke | ✓ | ✓ | 70/70 |  |  |
@@ -358,8 +358,8 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 335 | Na_3CAK | small | 1,927 | done | OK | 0 | 2 | 0 | OK | 4 | 8 | 4 | no | uploaded | uyEjZujT3mjrgAoIapzYK | ✓ | ✓ | 8/8 |  |  |
 | 336 | Na_3CAL | small | 2,410 | done | OK | 0 | 1 | 0 | OK | 6 | 12 | 5 | no | uploaded | C4DUt5euqPDs5zbJAqKMf | ✓ | ✓ | 12/12 |  |  |
 | 337 | Na_3CAM | small | 8,764 | done | OK | 0 | 1 | 0 | OK | 22 | 75 | 6 | no | uploaded | Uai66Nno1fSD3idavHOXQ | ✓ | ✓ | 75/75 |  |  |
-| 338 | Na_3CAN | small | 11,783 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^75] missing ༼ (B1) |
-| 339 | Na_3CAO | small | 11,002 | done | OK | 0 | 7 | 5 | OK | 43 | 59 | 4 | no | uploaded | A5uH9IYHyQhgzgoxMwHpq | ✓ | ✓ | 59/59 |  |  |
+| 338 | Na_3CAN | small | 12,073 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^75] missing ༼ (B1) · retitled (see Retitled) |
+| 339 | Na_3CAO | small | 11,290 | done | OK | 0 | 6 | 5 | OK | 43 | 59 | 4 | no | uploaded | A5uH9IYHyQhgzgoxMwHpq | ✓ | ✓ | 59/59 |  | retitled (see Retitled) |
 | 340 | Na_3CAP | small | 3,904 | done | OK | 0 | 2 | 0 | OK | 12 | 11 | 5 | no | **failed** |  |  |  |  |  | upload: same Na_3CAO (title) as an uploaded text |
 | 341 | Na_3CAQ | small | 8,588 | done | OK | 0 | 1 | 0 | OK | 24 | 62 | 10 | no | uploaded | hmSoogOyoLhbEmB0BKRyp | ✓ | ✓ | 62/62 |  |  |
 | 342 | Na_3CAR | small | 7,483 | done | OK | 0 | 2 | 0 | OK | 17 | 22 | 7 | no | uploaded | JSFb5PcdhARm627Uup7ks | ✓ | ✓ | 22/22 |  |  |
@@ -474,8 +474,6 @@ Every text that failed lint, parse or upload. `error` is what the script recorde
 | At_3CGa_ | upload | same At_3CGQ (title + BDRC WA0RT2596) as an uploaded text | Exact duplicate of At_3CGQ: identical text (100%), same BDRC WA0RT2596, same volume (Book 98). Already on the library as At_3CGQ → hold. |
 | Bh_3CCO | upload | same Bh_3CCJ (title + BDRC WA0RT3202) as an uploaded text | Exact duplicate of Bh_3CCJ: identical text (100%), same BDRC WA0RT3202, printed in two volumes (Book 34 ཆ, Book 31 ག). Already on the library as Bh_3CCJ → hold. |
 | Na_3C9S | upload | same Ar_3CBf_ (BDRC WA0RT0629) as an uploaded text | Near-identical to Ar_3CBf_ (98%, same BDRC WA0RT0629) but with a different title; filed under Nagarjuna (Book 15) and Aryadeva (Book 27). The API would accept it — the uploader's BDRC check stopped it. One work, two attributions → decide. |
-| Na_3C9W | upload | same Na_3C9V (title) as an uploaded text | Same title as Na_3C9V (and Na_3C9X) but a different version: 51% similar, same volume (Book 15). Needs a distinct title. |
-| Na_3C9X | upload | same Na_3C9V (title) as an uploaded text | Variant of Na_3C9V (93% similar, same title, same volume Book 15). Decide: duplicate to hold, or a separate version that needs a distinct title. |
 | Na_3CAP | upload | same Na_3CAO (title) as an uploaded text | Different work with the same generic title as Na_3CAO (24% similar, 2,657 vs 7,584 chars, both Nagarjuna Book 18). Needs a distinct title. |
 | Sh_3CFZ | upload | same Na_3CBB (title + BDRC WA0RT3462) as an uploaded text | Same text as Na_3CBB (≈100%, 35,237 vs 35,231 chars, same BDRC WA0RT3462), filed under Shakyaprabha (Book 97) and under Nagarjuna (Book 21). One work, two attributions → decide which to keep. |
 
@@ -518,9 +516,14 @@ Texts whose `title:` was changed because the upload stopped on a title already i
 | Ha_3CFG | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་གཉིས་པ།༽ | — | Volume 2 (Book 83) was missing its volume tag. Already uploaded: deleted (old text tce5facfRtmmMP067sELa) and re-uploaded under the new title. |
 | Ha_3CFJ | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། | ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་ལྔ་པ།༽ | Ha_3CFG | Volume 5 (Book 86) of a five-volume set; follows the ༼དེབ་N།༽ pattern of Ha_3CFF / Ha_3CFH / Ha_3CFI. |
 | Na_3C9T | དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས། | རྡོ་རྗེ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས། | Na_3C9R | Editorial, from its own homage (^I-2). Dropped 3 alt_titles not attested in the text (…ཞེས་བྱ་བ། is Na_3C9R's wording; …སྲོག་གི་སྤུ་གྲིའི… and གུར་མགོན་ལྷ་བཅུ་བདུན… match neither). |
+| Na_3C9V | དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ། | དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་དང་པོ།༽ | Na_3C9W · Na_3C9X | Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 1: Sanskrit title …aṣṭapadastotra; 10 verses; colophon names Nāgārjuna only, no translator. Already uploaded: title patched on the library. |
+| Na_3C9W | དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ། | དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་གཉིས་པ།༽ | Na_3C9V · Na_3C9X | Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 2: Sanskrit title …aṣṭamantrastotra; verses reordered and reworded; lacks Na_3C9V's verses 4, 8 and 10; adds the ཀྵཾ verse and a closing benefit verse; no translator named. |
+| Na_3C9X | དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ། | དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་གསུམ་པ།༽ | Na_3C9V · Na_3C9W | Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 3: Sanskrit title …aṣṭamantrastotra; Na_3C9V's verses in the same order with spelling variants, verse 6 replaced and verse 8 missing; translated by Vairocanavajra and Ldi ri chos grags (^a-1). |
 | Na_3C9c_ | དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག | དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག༼ཀླུ་སྒྲུབ།༽ | At_3CHL | Author from its own colophon (^a-1 …སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་མཛད་པ). Different work from At_3CHL (Dīpaṃkarabhadra; ~14% shared, different homage, paṇḍita and BDRC id); both carry an author tag. |
 | Na_3C9x_ | གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ། | གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཀླུ་སྒྲུབ།༽ | Ch_3CCU · Sh_3CCh_ · Di_3CEi_ | One verse by Nāgārjuna (^1-1 ནཱ་གཱརྫུ་ནས་གསུངས་པ།) from the 50-siddhas anthology. ཀླུ་སྒྲུབ as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཤཱནྟ་དེ་བ། ཕྱོགས་ཀྱི་གླང་པོ། ཟླ་བ་གྲགས་པ and Na_3C9y_. |
 | Na_3C9y_ | དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ། | དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཀླུ་སྒྲུབ།༽ | Di_3CEj_ · Sh_3CCi_ | One verse by ཀླུ་སྒྲུབ (^1-1 སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱི་ཞལ་ནས།) from the 40-siddhas anthology; the three extracts share its title. Name as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཕྱོགས་ཀྱི་གླང་པོ། བྷུ་སུ་ཀུ. |
+| Na_3CAN | རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས། | རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼དཔེ་དང་པོ།༽ | Na_3CAO | Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 1: the shorter wording of the same rite sequence as Na_3CAO; homage རྡོ་རྗེ་སྒྲོལ་མ་ལ; no author or translator named. |
+| Na_3CAO | རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས། | རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼དཔེ་གཉིས་པ།༽ | Na_3CAN | Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 2: the fuller wording of the same rite sequence as Na_3CAN; homage འཕགས་མ་སྒྲོལ་མ་ལ; no author or translator named. Already uploaded: title patched on the library. |
 | Na_3CBW | བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ། | དཀོན་མཆོག་གསུམ་དང་མཛད་པ་བཅུ་གཉིས་ཀྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ། | Na_3CBX | Own colophon title (^a-1 དཀོན་མཆོག་གསུམ་དང་མཛད་པ་བཅུ་གཉིས་ཀྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ). Different work from Na_3CBX (20% similar; buddha and bodhisattva names), which keeps the plain title its own colophon gives. Same author and translators, so an author tag would not separate them. Already uploaded: title patched on the library. |
 | Sh_3CCh_ | གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ། | གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཤཱནྟ་དེ་བ།༽ | Ch_3CCU · Na_3C9x_ · Di_3CEi_ | One verse by ཤཱནྟ་དེ་བ (^1-1 ཤཱནྟ་དེ་བས་གསུངས་པ།) from the 50-siddhas anthology. Name as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཤཱནྟ་དེ་བ། ཕྱོགས་ཀྱི་གླང་པོ། ཟླ་བ་གྲགས་པ. |
 | Sh_3CCi_ | དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ། | དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼བྷུ་སུ་ཀུ།༽ | Na_3C9y_ · Di_3CEj_ | One verse by བྷུ་སུ་ཀུ (^1-1 བྷུ་སུ་ཀུའི་ཞལ་ནས།) from the 40-siddhas anthology. Name as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཕྱོགས་ཀྱི་གླང་པོ། བྷུ་སུ་ཀུ. |

@@ -124,5 +124,35 @@
   "new": "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག༼མར་མེ་མཛད་བཟང་པོ།༽",
   "clash": "Na_3C9c_",
   "basis": "Author from its own colophon (^a-1 སློབ་དཔོན་མར་མེ་མཛད་བཟང་པོའི་ཞལ་སྔ་ནས་མཛད་པ). Different work from Na_3C9c_ (Nāgārjuna); both carry an author tag. Already uploaded: title patched on the library."
+ },
+ "Na_3C9V": {
+  "old": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།",
+  "new": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་དང་པོ།༽",
+  "clash": "Na_3C9W · Na_3C9X",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 1: Sanskrit title …aṣṭapadastotra; 10 verses; colophon names Nāgārjuna only, no translator. Already uploaded: title patched on the library."
+ },
+ "Na_3C9W": {
+  "old": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།",
+  "new": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་གཉིས་པ།༽",
+  "clash": "Na_3C9V · Na_3C9X",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 2: Sanskrit title …aṣṭamantrastotra; verses reordered and reworded; lacks Na_3C9V's verses 4, 8 and 10; adds the ཀྵཾ verse and a closing benefit verse; no translator named."
+ },
+ "Na_3C9X": {
+  "old": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།",
+  "new": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་གསུམ་པ།༽",
+  "clash": "Na_3C9V · Na_3C9W",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 3: Sanskrit title …aṣṭamantrastotra; Na_3C9V's verses in the same order with spelling variants, verse 6 replaced and verse 8 missing; translated by Vairocanavajra and Ldi ri chos grags (^a-1)."
+ },
+ "Na_3CAN": {
+  "old": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།",
+  "new": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼དཔེ་དང་པོ།༽",
+  "clash": "Na_3CAO",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 1: the shorter wording of the same rite sequence as Na_3CAO; homage རྡོ་རྗེ་སྒྲོལ་མ་ལ; no author or translator named."
+ },
+ "Na_3CAO": {
+  "old": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།",
+  "new": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼དཔེ་གཉིས་པ།༽",
+  "clash": "Na_3CAN",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 2: the fuller wording of the same rite sequence as Na_3CAN; homage འཕགས་མ་སྒྲོལ་མ་ལ; no author or translator named. Already uploaded: title patched on the library."
  }
 }

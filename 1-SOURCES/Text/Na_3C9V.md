@@ -1,6 +1,7 @@
 ---
-title: "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།"
+title: "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་དང་པོ།༽"
 alt_titles:
+  - bo: "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།"
   - bo: "༄༅། །དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།"
   - bo: "དཔལ་ནག་པོ་ཆེན་པོའི་སྟོད་པ་རྐང་པ་བརྒྱད་པ་ཞེས་བྱ་བ།"
   - bo: "དཔལ་ནག་པོ་ཆེན་པོ་ལ་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།"
@@ -14,7 +15,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9V"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9V · Title changed 2026-10-25 (was 'དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།'): version tag, version 1 of 3 of this work in volume order; Sanskrit title …aṣṭapadastotra; 10 verses; colophon names Nāgārjuna only, no translator."
 bdrc_work_id: "WA0RT0639"
 source: "https://webuddhist.com/"
 license: "public"
