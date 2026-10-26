@@ -75,7 +75,7 @@ These notes are **not on the library** until a note endpoint exists. A1–A9 wer
 
 ### Still open
 
-- **Commentary payloads.** The files in `4-SYSTEM/scripts/parser-commentary/output/` were not regenerated, so they still include the 12 notes. That only matters if a commentary is uploaded again, and the uploader skips durchens an edition already has. The 5 commentaries not yet uploaded (Bh_3CCN, Ch_3CCe_, Ka_3CDH, Va_3CE4, Va_3CE7) have no notes; they need a fresh lint and parse before upload in any case.
+- **Commentary payloads.** The 12 deleted notes were also taken out of the six commentaries' `durchens.json` in `4-SYSTEM/scripts/parser-commentary/output/`. Each payload now holds the same spans and texts as the live edition, and the same count as the ledger. The other payload files were not regenerated. The 5 commentaries not yet uploaded (Bh_3CCN, Ch_3CCe_, Ka_3CDH, Va_3CE4, Va_3CE7) have no notes; they need a fresh lint and parse before upload in any case.
 
 ## Update 2026-10-13: current `1-SOURCES/Text/` (442 root texts)
 
