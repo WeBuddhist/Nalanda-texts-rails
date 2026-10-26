@@ -21,7 +21,6 @@ category_name: "Discourses / མདོ་སྡེ།"
 text_id: "4Nv4EbuZymNCYP8RVLeWX"
 edition_id: "8AsPR1wCNXl6fv7AlsIEz"
 toc_id: "bC7UWqROwKnlxiyoabxBB"
-durchen_count: 3042
 openpecha_text_id:
 ---
 

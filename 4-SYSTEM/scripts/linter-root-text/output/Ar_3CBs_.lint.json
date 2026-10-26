@@ -1,19 +1,19 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Ar_3CBs_.md",
-  "validated_at": "2026-10-13T11:09:01.497407+00:00",
+  "validated_at": "2026-10-26T08:55:25.590500+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 22 from 22 footnote definition(s)",
+    "durchens: 22 from 22 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 10 headers found"
   ],
   "warnings": [
     "contributions: author/translator missing — ignored for now",
-    "segment 14 (^1-5): footnote [^4] lemma 'འབྱུང་པོ་' does not end at the marker — the durchen will span the syllable before it, 'སེམས༌'",
+    "segment 14 (^1-5): footnote [^d4] lemma 'འབྱུང་པོ་' does not end at the marker — the durchen will span the syllable before it, 'སེམས༌'",
     "alt_titles: missing — ignored for now"
   ],
   "text_input": {

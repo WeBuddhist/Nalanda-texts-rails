@@ -21,7 +21,6 @@ category_name: "Tantras / རྒྱུད་སྡེ།"
 text_id: "Bnsq3egJ0pKzFV9rONUzG"
 edition_id: "n8aYwb33rza7Lmr76Zcyq"
 toc_id: "UAtPhNjDNH8hrShuEU9Gw"
-durchen_count: 0
 openpecha_text_id:
 ---
 

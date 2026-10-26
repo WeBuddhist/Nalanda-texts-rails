@@ -20,7 +20,6 @@ category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
 text_id: "IGopHTS0rlyj0wO6GqZKL"
 edition_id: "QisnNL6muClwgUxT6HlcQ"
 toc_id: "4zVL1Jx5UmkFbqsbke8TF"
-durchen_count: 2515
 openpecha_text_id:
 ---
 

@@ -1,18 +1,18 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Gu_3CFT.md",
-  "validated_at": "2026-10-13T16:26:44.968482+00:00",
+  "validated_at": "2026-10-26T08:57:36.111734+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 2538 from 2538 footnote definition(s)",
+    "durchens: 2538 from 2538 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 20 headers found"
   ],
   "warnings": [
-    "segment 803 (^13-7): footnote [^2298] lemma '།' does not end at the marker — the durchen will span the syllable before it, 'དུ་།'",
+    "segment 803 (^13-7): footnote [^d2298] lemma '།' does not end at the marker — the durchen will span the syllable before it, 'དུ་།'",
     "alt_titles: missing — ignored for now",
     "author 'Guṇaprabha': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
   ],

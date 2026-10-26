@@ -1,19 +1,19 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/At_3CGU.md",
-  "validated_at": "2026-10-13T11:10:00.513158+00:00",
+  "validated_at": "2026-10-26T08:56:27.747598+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 3 from 3 footnote definition(s)",
+    "durchens: 3 from 3 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 5 headers found"
   ],
   "warnings": [
     "contributions: author/translator missing — ignored for now",
-    "segment 3 (^I-1): footnote [^1] lemma '། ༄༅༅། །' does not end at the marker — the durchen will span the syllable before it, '༄༅༅། །'"
+    "segment 3 (^I-1): footnote [^d1] lemma '། ༄༅༅། །' does not end at the marker — the durchen will span the syllable before it, '༄༅༅། །'"
   ],
   "text_input": {
     "bdrc": null,

@@ -1,23 +1,21 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Ar_3CC7.md",
-  "validated_at": "2026-10-13T11:09:13.874142+00:00",
+  "validated_at": "2026-10-26T08:55:33.182437+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 27 from 27 footnote definition(s)",
+    "durchens: 25 from 25 durchen definition(s); generic notes: 2 (not sent — no note endpoint yet)",
     "toc: 5 headers found"
   ],
   "warnings": [
     "contributions: author/translator missing — ignored for now",
-    "segment 3 (^I-1): footnote [^2] lemma 'ཙྩ་' does not end at the marker — the durchen will span the syllable before it, 'ཙྪ༌'",
-    "segment 31 (^1-26): footnote [^17] lemma 'ཆོད་ཚད་' does not end at the marker — the durchen will span the syllable before it, 'ཆང༌'",
-    "segment 31 (^1-26): footnote [^19] lemma 'སྐྲག་' does not end at the marker — the durchen will span the syllable before it, 'བཀྲག༌'",
-    "segment 48 (^a-1): footnote [^26] lemma 'སྣར་ཐང་བསྟན་འགྱུར། མདོ་འགྲེལ།' does not end at the marker — the durchen will span the syllable before it, 'སོ།།'",
-    "segment 48 (^a-1): footnote [^27] lemma 'ཕྱི་ལོ་ ༢༠༠༨ ལོར་བསམ་འགྲུབ་ཀྱིས་ཉར་ཚགས་བྱས་པའི་སྡེ་དགེའི་དམངས་ཁྲོད་ཀྱི་གནའ་དཔེ་བྲིས་མའི་གློག་རྡུལ་འདྲ་བཤུས།\\u200b པོད།' does not end at the marker — the durchen will span the syllable before it, 'པའོ།།'"
+    "segment 3 (^I-1): footnote [^d2] lemma 'ཙྩ་' does not end at the marker — the durchen will span the syllable before it, 'ཙྪ༌'",
+    "segment 31 (^1-26): footnote [^d17] lemma 'ཆོད་ཚད་' does not end at the marker — the durchen will span the syllable before it, 'ཆང༌'",
+    "segment 31 (^1-26): footnote [^d19] lemma 'སྐྲག་' does not end at the marker — the durchen will span the syllable before it, 'བཀྲག༌'"
   ],
   "text_input": {
     "bdrc": null,

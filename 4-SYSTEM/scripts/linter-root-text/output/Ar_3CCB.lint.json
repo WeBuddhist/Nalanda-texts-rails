@@ -1,19 +1,18 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Ar_3CCB.md",
-  "validated_at": "2026-10-13T11:09:16.464422+00:00",
+  "validated_at": "2026-10-26T08:55:35.620621+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 1 from 1 footnote definition(s)",
+    "durchens: 0 from 0 durchen definition(s); generic notes: 1 (not sent — no note endpoint yet)",
     "toc: 6 headers found"
   ],
   "warnings": [
-    "contributions: author/translator missing — ignored for now",
-    "segment 16 (^a-2): footnote [^1] lemma 'མགོན་པོའི་རྒྱུད་སྐོར། མགོན་པོའི་རྒྱུད་རྒྱ་གཞུང་འགྱུར་སྔ་ཕྱི་དང་བོད་ཀྱི་ལོ་ཙཱ་བ་དང་བླ་མ་གོང་མ་རྣམས་ཀྱི་མན་ངག་གཏོར་སོགས་སྣ་ཚོགས་བཞུགས་པའི་མཚན་བྱང་། པོད།' does not end at the marker — the durchen will span the syllable before it, 'བའོ།'"
+    "contributions: author/translator missing — ignored for now"
   ],
   "text_input": {
     "bdrc": null,

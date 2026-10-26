@@ -1,23 +1,23 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Na_3CAO.md",
-  "validated_at": "2026-10-25T18:23:29.175622+00:00",
+  "validated_at": "2026-10-26T08:58:34.335163+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 59 from 59 footnote definition(s)",
+    "durchens: 59 from 59 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 4 headers found"
   ],
   "warnings": [
     "contributions: author/translator missing — ignored for now",
-    "segment 35 (^2-4): footnote [^39] lemma 'ཏ་སྱཱཿ' does not end at the marker — the durchen will span the syllable before it, 'སྱཱ'",
-    "segment 35 (^2-4): footnote [^40] lemma 'ཡ་ཙྪནྟུ་' does not end at the marker — the durchen will span the syllable before it, 'ཡཙྪནྟུ༌'",
-    "segment 37 (^2-6): footnote [^45] lemma 'རྒྱ་ཤུག་གི་' does not end at the marker — the durchen will span the syllable before it, 'ཤུག༌'",
-    "segment 40 (^2-9): footnote [^51] lemma 'མིག་སྨན་' does not end at the marker — the durchen will span the syllable before it, 'མིག༌'",
-    "segment 43 (^2-12): footnote [^56] lemma 'སཱ་ལུའི་' does not end at the marker — the durchen will span the syllable before it, 'སཱ༌'"
+    "segment 35 (^2-4): footnote [^d39] lemma 'ཏ་སྱཱཿ' does not end at the marker — the durchen will span the syllable before it, 'སྱཱ'",
+    "segment 35 (^2-4): footnote [^d40] lemma 'ཡ་ཙྪནྟུ་' does not end at the marker — the durchen will span the syllable before it, 'ཡཙྪནྟུ༌'",
+    "segment 37 (^2-6): footnote [^d45] lemma 'རྒྱ་ཤུག་གི་' does not end at the marker — the durchen will span the syllable before it, 'ཤུག༌'",
+    "segment 40 (^2-9): footnote [^d51] lemma 'མིག་སྨན་' does not end at the marker — the durchen will span the syllable before it, 'མིག༌'",
+    "segment 43 (^2-12): footnote [^d56] lemma 'སཱ་ལུའི་' does not end at the marker — the durchen will span the syllable before it, 'སཱ༌'"
   ],
   "text_input": {
     "bdrc": null,

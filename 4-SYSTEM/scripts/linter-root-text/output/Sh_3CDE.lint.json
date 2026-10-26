@@ -1,18 +1,18 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Sh_3CDE.md",
-  "validated_at": "2026-10-13T16:26:51.389808+00:00",
+  "validated_at": "2026-10-26T08:59:14.470773+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 2663 from 2663 footnote definition(s)",
+    "durchens: 2663 from 2663 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 35 headers found"
   ],
   "warnings": [
-    "segment 1409 (^23-34): footnote [^1166] lemma 'བདག་ཉིད་གཅིག་མིན་ཞིང་། །དེ་ལས་འབྱུང་མིན་མ་འཁྲུལ་བ། །གཞན་ནི་ཡོད་པ་མ་ཡིན་ནོ། །མ་ལུས་པ་ཡི་ཚིག་དག་ལས། །རྗེས་སུ་བསམ་པ་རྗེས་དཔག་སྟེ། །མངོན་སུམ་མི་དམིགས་པ་དག་ལས། །དེའི་རྒྱུ་དེ་ཡང་ངེས་པ་ཡིན། །འཁྲུལ་པའམ་བསམ་པ་གཞན་པ་ལ། །ཚིག་གཞན་པར་ནི་མཐོང་བ་སྟེ། །དེ་ཕྱིར་བསམ་པ་ཇི་ལྟ་བར། །' does not end at the marker — the durchen will span the syllable before it, 'དེ༌'",
+    "segment 1409 (^23-34): footnote [^d1166] lemma 'བདག་ཉིད་གཅིག་མིན་ཞིང་། །དེ་ལས་འབྱུང་མིན་མ་འཁྲུལ་བ། །གཞན་ནི་ཡོད་པ་མ་ཡིན་ནོ། །མ་ལུས་པ་ཡི་ཚིག་དག་ལས། །རྗེས་སུ་བསམ་པ་རྗེས་དཔག་སྟེ། །མངོན་སུམ་མི་དམིགས་པ་དག་ལས། །དེའི་རྒྱུ་དེ་ཡང་ངེས་པ་ཡིན། །འཁྲུལ་པའམ་བསམ་པ་གཞན་པ་ལ། །ཚིག་གཞན་པར་ནི་མཐོང་བ་སྟེ། །དེ་ཕྱིར་བསམ་པ་ཇི་ལྟ་བར། །' does not end at the marker — the durchen will span the syllable before it, 'དེ༌'",
     "author 'Śāntirakṣita': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
   ],
   "text_input": {

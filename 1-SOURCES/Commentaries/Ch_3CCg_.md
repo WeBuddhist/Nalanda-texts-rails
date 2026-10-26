@@ -20,7 +20,6 @@ category_name: "Middle Way / དབུ་མ།"
 text_id: "qA1PZvRpe2nDjfxXoeDcQ"
 edition_id: "0YiUMblNdmenaAs7sDuGN"
 toc_id: "zf6ScJO0UrTEicnSRsYnm"
-durchen_count: 3741
 openpecha_text_id: "iLAH58FozyywyGefxRDSp"
 ---
 

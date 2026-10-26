@@ -2251,7 +2251,7 @@
     "updated": "2026-10-13T16:46:07"
    }
   ],
-  "durchen_count": 12,
+  "durchen_count": 11,
   "durchen_ids": [
    "DGdjDby4XFcebe79DPG0h",
    "vmR9O9WQt0jQCKwxPWUoC",
@@ -2263,8 +2263,7 @@
    "yODDXaNnZvmDMxAUHvKe8",
    "WkVcJxnRxBJDpSYRNuC4G",
    "rA95abnZ60oZ00GALK494",
-   "AwuFdGfptKI4tDVK8wIBa",
-   "eGXFrpwC04X0N3JRpQ6iB"
+   "AwuFdGfptKI4tDVK8wIBa"
   ],
   "edition_id": "V74yHvxecZMKBGx0bkKOw",
   "log": [
@@ -2285,9 +2284,14 @@
    {
     "step": "durchens",
     "ts": "2026-10-13T19:33:21"
+   },
+   {
+    "id": "eGXFrpwC04X0N3JRpQ6iB",
+    "step": "durchen deleted",
+    "why": "a generic note, now [^nN]; no note endpoint yet"
    }
   ],
-  "payload_hash": "8712c7d273820b5909c5522f773c9ccdca5c868348bb724695a4b6cdead4ddf4",
+  "payload_hash": "4608760fee1e3919c29a7b4de1f1419b5c7291ea235d710ac69e4c4a98c0079d",
   "status": "uploaded",
   "text_id": "ZDwz6Ib9GFU6HU5WlSvZr",
   "toc_id": "zGPtSDDMTy6vktJ06Fh2E",
@@ -4968,7 +4972,7 @@
  },
  "Ar_3CC7": {
   "date": "2026-10-13",
-  "durchen_count": 27,
+  "durchen_count": 25,
   "durchen_ids": [
    "QkuCw5QJluwwlXCwRogFi",
    "RKteiu5PFbr5i0QEVvWcG",
@@ -4994,9 +4998,7 @@
    "goMy2LGMwINUyT0xA3c7h",
    "UwOnQU1auXujYvpeagasJ",
    "NJ7EW8bVqPs2kooMAjjgt",
-   "tWOCupp55PwAOBnyOrKp8",
-   "tnprBR6Ed2EbXrLucctUl",
-   "OwdKXbWZMTUzhl0ECY87I"
+   "tWOCupp55PwAOBnyOrKp8"
   ],
   "edition_id": "tdpGBxSsGgTGEOtIDl4xJ",
   "log": [
@@ -5017,9 +5019,19 @@
    {
     "step": "durchens",
     "ts": "2026-10-13T16:48:40"
+   },
+   {
+    "id": "tnprBR6Ed2EbXrLucctUl",
+    "step": "durchen deleted",
+    "why": "a generic note, now [^nN]; no note endpoint yet"
+   },
+   {
+    "id": "OwdKXbWZMTUzhl0ECY87I",
+    "step": "durchen deleted",
+    "why": "a generic note, now [^nN]; no note endpoint yet"
    }
   ],
-  "payload_hash": "4c07f3962f9450cba3771b86185f6ed7933f3294d0997cedcb44efd96a95d19a",
+  "payload_hash": "a56a354a9ebaa2acf16d8a7120862a57d26e66b140e22fc59d4e621ebd7a3a36",
   "status": "uploaded",
   "text_id": "orZ6EcRDvzOhXE0INGnPn",
   "toc_id": "NEfMux3YVYNTrSLplQif1",
@@ -5027,10 +5039,8 @@
  },
  "Ar_3CC8": {
   "date": "2026-10-13",
-  "durchen_count": 1,
-  "durchen_ids": [
-   "8cJzrzsiwXRJ3p5EoIpMj"
-  ],
+  "durchen_count": 0,
+  "durchen_ids": [],
   "edition_id": "2nrCsuQchL3Gw8wN1z90x",
   "log": [
    {
@@ -5050,9 +5060,14 @@
    {
     "step": "durchens",
     "ts": "2026-10-13T16:48:41"
+   },
+   {
+    "id": "8cJzrzsiwXRJ3p5EoIpMj",
+    "step": "durchen deleted",
+    "why": "a generic note, now [^nN]; no note endpoint yet"
    }
   ],
-  "payload_hash": "22787c81a4ea6de6b6e525ced77819f70a4c30a0efb097a2c72af6b406c0a34c",
+  "payload_hash": "f7c9d0e8628ad09bd593427c9bb97a574b5680f69b0e185a380da7b4eca44ec8",
   "status": "uploaded",
   "text_id": "alMdVc6jGHbR6OiA08eYC",
   "toc_id": "wMHiIrB13cmpA6cDTJbbY",
@@ -5060,10 +5075,8 @@
  },
  "Ar_3CC9": {
   "date": "2026-10-13",
-  "durchen_count": 1,
-  "durchen_ids": [
-   "cSACL6ukwayBXGFRjidZS"
-  ],
+  "durchen_count": 0,
+  "durchen_ids": [],
   "edition_id": "sBY97bruQW2dsOG9iHOhM",
   "log": [
    {
@@ -5083,9 +5096,14 @@
    {
     "step": "durchens",
     "ts": "2026-10-13T16:48:43"
+   },
+   {
+    "id": "cSACL6ukwayBXGFRjidZS",
+    "step": "durchen deleted",
+    "why": "a generic note, now [^nN]; no note endpoint yet"
    }
   ],
-  "payload_hash": "4c4c02c3e1e10d8a6c01eb82ef9a8ceb609e6b03f76a7ac79c481bd61ed62c45",
+  "payload_hash": "1866dc8134340f28e7236dd9b8826c6a5a55b7e199ea3250fc511eec7212bd42",
   "status": "uploaded",
   "text_id": "Hgo2fqd3QsuZFYSh8oU2c",
   "toc_id": "BMUzNt8rXhpd3iN6L4jnW",
@@ -5093,10 +5111,8 @@
  },
  "Ar_3CCA": {
   "date": "2026-10-13",
-  "durchen_count": 1,
-  "durchen_ids": [
-   "9tQIP0fuIMKYwg4ggUHhg"
-  ],
+  "durchen_count": 0,
+  "durchen_ids": [],
   "edition_id": "m6WINbJA7I8oD7VTLCoim",
   "log": [
    {
@@ -5116,9 +5132,14 @@
    {
     "step": "durchens",
     "ts": "2026-10-13T16:48:45"
+   },
+   {
+    "id": "9tQIP0fuIMKYwg4ggUHhg",
+    "step": "durchen deleted",
+    "why": "a generic note, now [^nN]; no note endpoint yet"
    }
   ],
-  "payload_hash": "7a8151b642b7fffa88109054ab17bd2e2a5a0a28d84ec015e796e76f320e3b89",
+  "payload_hash": "b8d4c02da2909fcd5e5d7088d5580c801550a7d7ccc85c9c4fd0944e523a44a4",
   "status": "uploaded",
   "text_id": "B00dbH164vrSqb9nGr7Hx",
   "toc_id": "axEJACpkwJ3QRVxtXTA9j",
@@ -5126,10 +5147,8 @@
  },
  "Ar_3CCB": {
   "date": "2026-10-13",
-  "durchen_count": 1,
-  "durchen_ids": [
-   "WJZ7LttQyf3GFhUxrpQnB"
-  ],
+  "durchen_count": 0,
+  "durchen_ids": [],
   "edition_id": "DQWzG2wELvSr4FTlZLXyt",
   "log": [
    {
@@ -5149,9 +5168,14 @@
    {
     "step": "durchens",
     "ts": "2026-10-13T16:48:46"
+   },
+   {
+    "id": "WJZ7LttQyf3GFhUxrpQnB",
+    "step": "durchen deleted",
+    "why": "a generic note, now [^nN]; no note endpoint yet"
    }
   ],
-  "payload_hash": "13c317b26049133f7891d04087007be158768671c7783bdaceefc5ed7330d2b9",
+  "payload_hash": "148b68a8a2abf2048e0f4994c6e55d6ab58d4aefe3a85294814fbaeb0d5d2529",
   "status": "uploaded",
   "text_id": "VAeISJ4pMg5H6loIy3r4r",
   "toc_id": "AIDNI0dsjJSPgdAaZlUR6",
@@ -50487,10 +50511,8 @@
  },
  "Di_3CEj_": {
   "date": "2026-10-13",
-  "durchen_count": 1,
-  "durchen_ids": [
-   "GJAfryJ8z30RWQ2s62GBv"
-  ],
+  "durchen_count": 0,
+  "durchen_ids": [],
   "edition_id": "50KBzQTfiN4gaNln8ctLK",
   "log": [
    {
@@ -50510,9 +50532,14 @@
    {
     "step": "durchens",
     "ts": "2026-10-13T17:09:54"
+   },
+   {
+    "id": "GJAfryJ8z30RWQ2s62GBv",
+    "step": "durchen deleted",
+    "why": "a generic note, now [^nN]; no note endpoint yet"
    }
   ],
-  "payload_hash": "8c00749d6690bae2b008a8f08bc1017452ced1d91c0c276eff6fbde6fedf75d1",
+  "payload_hash": "999eab91a913ef7b7a6b87c02a31f552287d20647932380e17119ba7ba8db2ea",
   "status": "uploaded",
   "text_id": "8LJ0x9uA1PnvadohqnPfV",
   "toc_id": "Kw97WgITU9ul5MgNjTaq1",
@@ -84371,10 +84398,8 @@
  },
  "Sh_3CCu_": {
   "date": "2026-10-13",
-  "durchen_count": 1,
-  "durchen_ids": [
-   "2hC4XGyfrZoUaArMTIJwo"
-  ],
+  "durchen_count": 0,
+  "durchen_ids": [],
   "edition_id": "uOt0Z74w2zr3xYLTrN7ya",
   "log": [
    {
@@ -84394,9 +84419,14 @@
    {
     "step": "durchens",
     "ts": "2026-10-13T17:27:36"
+   },
+   {
+    "id": "2hC4XGyfrZoUaArMTIJwo",
+    "step": "durchen deleted",
+    "why": "a generic note, now [^nN]; no note endpoint yet"
    }
   ],
-  "payload_hash": "b0da3d06b7388ca6c777aa08cd8e9fe35846726c0df846f3d8faa4339c51bf7a",
+  "payload_hash": "f0aece2806bc999c06b4c2f6f86718ba499be3ce1a8f7634b97753676ad55090",
   "status": "uploaded",
   "text_id": "b0mux3xub6C5v2HlK6Acu",
   "toc_id": "z7amxkDsl3cVGR41NJRTh",

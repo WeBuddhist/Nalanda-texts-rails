@@ -4,7 +4,7 @@
 A footnote is a durchen when its note carries witness sigla in ༼…༽
 ("ལ་ ༼སྣར། པེ།༽ ལས་"); everything else is a generic note for now (editorial
 remarks, source citations, colophons printed as footnotes). A label that is
-already dN or nN keeps its type.
+already dN or nN keeps its type, unless --by-content asks to classify it again.
 
 Each type is numbered 1, 2, 3… in the order its markers appear in the text, so
 a note that sat between durchens leaves the durchen series and the durchens
@@ -38,15 +38,16 @@ WITNESS_RE = re.compile(r"༼\s*(?:སྣར|པེ|ཅོ|སྡེ|གསེ�
 VAULT = Path(__file__).resolve().parents[3]
 
 
-def note_kind(label, text):
-    if re.fullmatch(r"d[1-9]\d*", label):
-        return "d"
-    if re.fullmatch(r"n[1-9]\d*", label):
-        return "n"
+def note_kind(label, text, by_content=False):
+    if not by_content:
+        if re.fullmatch(r"d[1-9]\d*", label):
+            return "d"
+        if re.fullmatch(r"n[1-9]\d*", label):
+            return "n"
     return "d" if WITNESS_RE.search(text) else "n"
 
 
-def relabel(text):
+def relabel(text, by_content=False):
     """Return (new_text, report) or raise ValueError when the file cannot be relabelled safely."""
     nl = "\r\n" if "\r\n" in text[:2000] else "\n"
     fm = FM_RE.match(text)
@@ -72,7 +73,7 @@ def relabel(text):
     if missing:
         raise ValueError("marker(s) without a definition: " + ", ".join(f"[^{l}]" for l in missing))
 
-    kinds = {l: note_kind(l, t) for l, t in defs.items()}
+    kinds = {l: note_kind(l, t, by_content) for l, t in defs.items()}
     mapping, count = {}, {"d": 0, "n": 0}
     for label in list(dict.fromkeys(marked)) + [l for l in defs if l not in marked]:
         if label not in mapping:
@@ -104,6 +105,8 @@ def main():
     ap.add_argument("files", nargs="*", type=Path)
     ap.add_argument("--ids", nargs="+", default=[], help="root-text ids in 1-SOURCES/Text/")
     ap.add_argument("--write", action="store_true", help="save the relabelled files")
+    ap.add_argument("--by-content", action="store_true",
+                    help="classify every footnote by its text, even one already labelled dN / nN")
     a = ap.parse_args()
     files = list(a.files) + [VAULT / "1-SOURCES" / "Text" / f"{i}.md" for i in a.ids]
     if not files:
@@ -113,7 +116,7 @@ def main():
         with open(path, encoding="utf-8", newline="") as f:
             text = f.read()
         try:
-            new, rep = relabel(text)
+            new, rep = relabel(text, a.by_content)
         except ValueError as exc:
             skipped += 1
             print(f"SKIP {path.stem}: {exc}")

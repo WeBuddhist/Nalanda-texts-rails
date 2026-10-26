@@ -20,7 +20,6 @@ category_name: "History and Stories / ལོ་རྒྱུས་དང་སྒ
 text_id: "TcdcoM1tzFuhj6kIImqDG"
 edition_id: "fTwrWaawshW6GuJ1XJXNk"
 toc_id: "e2gcBwjEJQBd0KWOObJ0i"
-durchen_count: 3989
 openpecha_text_id: "Tlro4tCJL9K4rb9QVLxHM"
 ---
 

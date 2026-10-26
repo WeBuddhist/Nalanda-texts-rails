@@ -1,19 +1,19 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Na_3C9R.md",
-  "validated_at": "2026-10-13T11:12:03.964923+00:00",
+  "validated_at": "2026-10-26T08:58:07.279124+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 24 from 24 footnote definition(s)",
+    "durchens: 24 from 24 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 7 headers found"
   ],
   "warnings": [
     "contributions: author/translator missing — ignored for now",
-    "segment 10 (^1-6): footnote [^19] lemma 'མཉེས་པར་བྱ། །' does not end at the marker — the durchen will span the syllable before it, 'བོ༌'",
+    "segment 10 (^1-6): footnote [^d19] lemma 'མཉེས་པར་བྱ། །' does not end at the marker — the durchen will span the syllable before it, 'བོ༌'",
     "alt_titles: missing — ignored for now"
   ],
   "text_input": {

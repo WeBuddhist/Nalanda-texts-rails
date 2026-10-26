@@ -20,7 +20,6 @@ category_name: "Miscellaneous / སྣ་ཚོགས།"
 text_id: "1UEcpgAoggctNbZ2SywE2"
 edition_id: "U3gIltXd2hJtpT6r4EtcS"
 toc_id: "AOMRU8fndriXBZVCJcDvC"
-durchen_count: 0
 openpecha_text_id: "yciVgwMgz89jEMBtKeJ9B"
 ---
 

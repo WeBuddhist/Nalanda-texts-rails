@@ -1,19 +1,19 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Ka_3CDK.md",
-  "validated_at": "2026-10-13T16:26:48.961988+00:00",
+  "validated_at": "2026-10-26T08:57:40.660501+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 1316 from 1316 footnote definition(s)",
+    "durchens: 1316 from 1316 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 5 headers found"
   ],
   "warnings": [
-    "segment 280 (^1-275): footnote [^251] lemma 'ཡིན་ནོ། །' does not end at the marker — the durchen will span the syllable before it, 'ཡིན༌'",
-    "segment 280 (^1-275): footnote [^252] lemma 'འཚང་' does not end at the marker — the durchen will span the syllable before it, 'པར༌'",
+    "segment 280 (^1-275): footnote [^d251] lemma 'ཡིན་ནོ། །' does not end at the marker — the durchen will span the syllable before it, 'ཡིན༌'",
+    "segment 280 (^1-275): footnote [^d252] lemma 'འཚང་' does not end at the marker — the durchen will span the syllable before it, 'པར༌'",
     "author 'kamalashila': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
   ],
   "text_input": {

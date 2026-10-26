@@ -1,21 +1,21 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Sh_3CD1.md",
-  "validated_at": "2026-10-13T11:13:30.777147+00:00",
+  "validated_at": "2026-10-26T08:59:10.381101+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 6 from 6 footnote definition(s)",
+    "durchens: 6 from 6 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 8 headers found"
   ],
   "warnings": [
     "contributions: author/translator missing — ignored for now",
-    "segment 5 (^1-1): footnote [^1] lemma 'སྔ་དྲོ།' does not end at the marker — the durchen will span the syllable before it, 'སྔ༌'",
-    "segment 62 (^4-20): footnote [^5] lemma 'མ་མཆིས།' does not end at the marker — the durchen will span the syllable before it, 'མ༌'",
-    "segment 62 (^4-20): footnote [^6] lemma 'མ་མཆིས།' does not end at the marker — the durchen will span the syllable before it, 'མ༌'",
+    "segment 5 (^1-1): footnote [^d1] lemma 'སྔ་དྲོ།' does not end at the marker — the durchen will span the syllable before it, 'སྔ༌'",
+    "segment 62 (^4-20): footnote [^d5] lemma 'མ་མཆིས།' does not end at the marker — the durchen will span the syllable before it, 'མ༌'",
+    "segment 62 (^4-20): footnote [^d6] lemma 'མ་མཆིས།' does not end at the marker — the durchen will span the syllable before it, 'མ༌'",
     "alt_titles: missing — ignored for now"
   ],
   "text_input": {

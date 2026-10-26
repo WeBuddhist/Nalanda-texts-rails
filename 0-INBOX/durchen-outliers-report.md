@@ -32,9 +32,28 @@ Each type is numbered 1, 2, 3… in the order its markers appear in the text. At
 
 All other footnotes in these files became `[^dN]` and were uploaded as durchens. The texts themselves are uploaded (see `API-LINT-BATCH.md`).
 
+### All other root texts: relabelled (2026-10-26)
+
+The other 430 root texts were relabelled by content (`relabel_footnotes.py --by-content`). 423 had footnotes and 7 had none. All of them relinted and reparsed cleanly. The durchens each text sends are **unchanged** in 433 texts. The only difference is 9 footnotes that turned out to be generic notes: catalogue or source citations whose `༼…༽` holds a volume letter or number, not a witness. Those texts were already uploaded, so these notes had been sent as durchens. **They are now `[^nN]`, and their durchens were deleted from the library** (`DELETE /v2/durchens/{id}`; each deletion is logged in `upload-status.json`). They are **not on the library** until a note endpoint exists:
+
+| File | Old label | Now | Deleted durchen |
+|---|---|---|---|
+| `Ar_3CBf_.md` | `[^12]` | `[^n1]` (the editor's note on the Āryadeva attribution) | `eGXFrpwC04X0N3JRpQ6iB` |
+| `Ar_3CC7.md` | `[^26]` | `[^n1]` | `tnprBR6Ed2EbXrLucctUl` |
+| `Ar_3CC7.md` | `[^27]` | `[^n2]` | `OwdKXbWZMTUzhl0ECY87I` |
+| `Ar_3CC8.md` | `[^1]` | `[^n1]` | `8cJzrzsiwXRJ3p5EoIpMj` |
+| `Ar_3CC9.md` | `[^1]` | `[^n1]` | `cSACL6ukwayBXGFRjidZS` |
+| `Ar_3CCA.md` | `[^1]` | `[^n1]` | `9tQIP0fuIMKYwg4ggUHhg` |
+| `Ar_3CCB.md` | `[^1]` | `[^n1]` | `WJZ7LttQyf3GFhUxrpQnB` |
+| `Di_3CEj_.md` | `[^1]` | `[^n1]` (the anthology compiler's note) | `GJAfryJ8z30RWQ2s62GBv` |
+| `Sh_3CCu_.md` | `[^1]` | `[^n1]` | `2hC4XGyfrZoUaArMTIJwo` |
+
+Every root text in `1-SOURCES/Text/` now uses `[^dN]` / `[^nN]`. Still to fix by hand: `At_3CGI [^d2]` is a durchen missing its `༽` (it parses, because the lemma ends at `༼`).
+
+The frontmatter no longer carries `durchen_count`. The upload scripts keep that count in their ledgers only.
+
 ### Still open
 
-- **The other root texts** still use bare `[^N]` and are being relabelled next. A survey of all 77,983 root-text footnotes found 9 more generic notes, in texts that are **already uploaded, where they were sent as durchens**: `Ar_3CBf_ [^12]`, `Ar_3CC7 [^26] [^27]`, `Ar_3CC8 [^1]`, `Ar_3CC9 [^1]`, `Ar_3CCA [^1]`, `Ar_3CCB [^1]`, `Di_3CEj_ [^1]`, `Sh_3CCu_ [^1]`. All of them are catalogue or source citations; their `༼…༽` holds a volume letter or number, not a witness. Their durchens will have to be removed from the library once they are relabelled `[^nN]`. Two smaller points: `At_3CGI [^2]` is a durchen missing its `༽`, and `Ar_3CBa_` already has a hand-made `[^d1]` / `[^n1]` test whose `[^n1]` is really a durchen.
 - **Commentaries.** The commentary tools read `[^dN]` / `[^nN]` labels but still send every footnote as a durchen, and none of the commentaries has been relabelled. A1–A9 (a lemma with no witness) count as generic notes under the "everything else" rule. C12–C14 have new numbers since this report: Di_3CEr_ `[^1657]`, Ha_3CFM `[^1183]`, Va_3CEK `[^1627]`. All six commentaries are uploaded, with these notes sent as durchens.
 
 ## Update 2026-10-13: current `1-SOURCES/Text/` (442 root texts)

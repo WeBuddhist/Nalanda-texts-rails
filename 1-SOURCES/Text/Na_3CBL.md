@@ -21,7 +21,6 @@ category_name: "Linguistics Treatises / རིག་གནས།"
 text_id: "5ediWDuaa7ucirFte6zYr"
 edition_id: "wtnalDDacw7sRz56DObHz"
 toc_id: "RAKzRVbkuRo33jdeIauy0"
-durchen_count: 0
 openpecha_text_id:
 ---
 

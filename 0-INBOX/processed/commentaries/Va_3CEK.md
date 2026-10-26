@@ -20,7 +20,6 @@ category_name: "Systematic Treatises / མངོན་པ།"
 text_id: "EeAe9815PkG5YP9EH9a3s"
 edition_id: "9DYPl4U4QNo6LBpYLsILJ"
 toc_id: "KXUrxJTL3FzSnN5JZQNk4"
-durchen_count: 3605
 openpecha_text_id:
 ---
 

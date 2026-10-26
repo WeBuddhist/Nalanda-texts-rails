@@ -20,7 +20,6 @@ category_name: "Monastic Rules / འདུལ་བ།"
 text_id: "QcGujF0NhIpOIoyoZspIV"
 edition_id: "rp0KL85HCiOTJRK8fGyEl"
 toc_id: "fkMJ5VDmuhhBqTCk5V8fV"
-durchen_count: 3553
 openpecha_text_id:
 ---
 
