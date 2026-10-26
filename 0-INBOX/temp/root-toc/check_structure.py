@@ -96,14 +96,17 @@ def check(i, size):
         sibs.setdefault("-".join(p[:-1]), []).append((int(p[-1]), n, title))
     for par, lst in sibs.items():
         nums = [x[0] for x in lst]
-        if nums != list(range(1, len(nums) + 1)):
+        # a continuation volume may number its top-level parts from the author's chapter
+        # number (Sh_3CCt_: ^6-0 … ^19-0); they must still run without gaps
+        first = nums[0] if not par else 1
+        if nums != list(range(first, first + len(nums))):
             issues.append(("ids", lst[0][1], f"siblings under {'^' + par + '-0' if par else 'top level'} "
                                              f"numbered {nums[:12]}{'…' if len(nums) > 12 else ''}"))
         seen = {}
         for k, (num, n, title) in enumerate(lst, 1):
             o = ordinal(title)
-            if o and o != k and len(lst) > 1:
-                issues.append(("ordinal", n, f"'{title[:40]}' says {ORD[o - 1]} but is number {k} of {len(lst)}"))
+            if o and o != num and len(lst) > 1:
+                issues.append(("ordinal", n, f"'{title[:40]}' says {ORD[o - 1]} but is number {num}"))
             key = re.sub(r"[\s།་*]", "", title)
             if key in seen:
                 issues.append(("dup", n, f"same title as line {seen[key]}: '{title[:40]}'"))
@@ -168,8 +171,12 @@ def check(i, size):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--size", default="large", choices=["small", "medium", "large", "all"])
+    ap.add_argument("--dir", default=None, help="folder of finished files (default processed/root-gemini)")
     ap.add_argument("ids", nargs="*")
     a = ap.parse_args()
+    global OUT
+    if a.dir:
+        OUT = (VAULT / a.dir).resolve()
     st = json.loads((HERE / "status.json").read_text(encoding="utf-8"))
     ids = a.ids or [k for k, r in st.items() if (a.size == "all" or r.get("size") == a.size)
                     and (OUT / f"{k}.md").exists()]
@@ -186,7 +193,7 @@ def main():
         if issues:
             detail.append(f"\n### {i}\n")
             detail += [f"- **{k}**{f' (line {n})' if n else ''}: {msg}" for k, n, msg in issues]
-    doc = HERE / f"STRUCTURE-CHECK-{a.size}.md"
+    doc = HERE / f"STRUCTURE-CHECK-{a.size}{'-' + OUT.parent.name if a.dir else ''}.md"
     doc.write_text(f"# Structure check — {a.size} root texts\n\n"
                    "Made by `check_structure.py` (see its docstring for what each check means).\n\n"
                    "| Text | Parts | Sub-headings | Blocks | Findings |\n|---|---|---|---|---|\n"

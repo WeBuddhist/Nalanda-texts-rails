@@ -22,3 +22,29 @@ $ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_bu
    ✓ final-prose.md: letters identical; 803 spacing difference(s) restored from the source — now identical (letters and spacing)
 D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_\final-prose.md: 219 paragraphs (sentences per paragraph: 1 ×21, 2 ×15, 3 ×33, 4 ×34, 5 ×38, 6 ×28, 7 ×18, 8 ×21, 9 ×6, 10 ×4, 13 ×1) · 7 stanzas (4 lines ×6, 6 lines ×1)
 
+
+=== 2026-10-13 16:22:49
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\As_3CDs_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_
+prose: 1045 sentences, 30 verse lines in 7 passage(s) · raw paragraph breaks kept: 26, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄། །རྣམ་གྲངས་བསྡུ་བ་བཞུགས། ^0
+   ## གཞུང་དངོས། ^1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-As_3CDs_\toc-tree-anchored-As_3CDs_.md
+prose: 1050 sentences, 24 verse lines in 7 passage(s) · raw paragraph breaks kept: 26, 1 opening block(s) before the first part put in the front matter, -1 unit(s) split by a heading inside them · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄། །རྣམ་གྲངས་བསྡུ་བ་བཞུགས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## དཀར་པོའི་ཕྱོགས། ^1-0
+   ## ནག་པོའི་ཕྱོགས། ^2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_
+group-in-part1.md: units 1–773 → groups-prose-part1.json
+group-in-part2.md: units 774–1074 → groups-prose-part2.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_
+groups-prose.json: 218 blocks from 2 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_
+   ✓ final-prose.md: letters identical; 808 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\As_3CDs_\final-prose.md: 208 paragraphs (sentences per paragraph: 1 ×29, 2 ×24, 3 ×23, 4 ×30, 5 ×30, 6 ×16, 7 ×11, 8 ×12, 9 ×9, 10 ×10, 11 ×3, 12 ×2, 13 ×3, 14 ×2, 15 ×4) · 10 stanzas (1 lines ×3, 2 lines ×2, 3 lines ×4, 5 lines ×1)
+

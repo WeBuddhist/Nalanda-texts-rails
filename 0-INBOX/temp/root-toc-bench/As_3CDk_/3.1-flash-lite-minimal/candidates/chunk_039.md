@@ -1,5 +1,0 @@
-<!-- chunk 039 | lines 4876–5025 | source: As_3CDk_ -->
-CONTEXT: ཡོད་པ་དང་མེད་པ་ལ་མེད་པའི་མཚན་ཉིད་ཡོད་པ་ བྱེད་པས། གསུམ་མོ། ལས་ ལས་ ལས་
-SECTION_TITLE: གསུམ་མོ།
-ITEMS:
-[implicit]

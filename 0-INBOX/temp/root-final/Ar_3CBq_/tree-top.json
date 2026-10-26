@@ -4,41 +4,41 @@
   "max_depth": 1,
   "nodes": [
     {
-      "decimal_id": "II",
+      "decimal_id": "1",
       "depth": 1,
-      "frame": true,
+      "frame": false,
       "label": "བླ་མ་དེ་ལ་གུས་པར་ཕྱག་འཚལ་བ།",
-      "block_id": "^II-0",
+      "block_id": "^1-0",
       "context": "མནོས་ནས་སུ།",
       "context_anchor": "མནོས་ནས་སུ།",
       "doc_order": 0
     },
     {
-      "decimal_id": "1",
+      "decimal_id": "2",
       "depth": 1,
       "frame": false,
       "label": "དེ་ཡི་རྩ་བའི་སྔགས",
-      "block_id": "^1-0",
+      "block_id": "^2-0",
       "context": "དེ་ཡི་རྩ་བའི་སྔགས་ནི་འདིར་བཤད་པ། །",
       "context_anchor": "དེ་ཡི་རྩ་བའི་སྔགས་ནི་འདིར་བཤད་པ། །",
       "doc_order": 1
     },
     {
-      "decimal_id": "2",
+      "decimal_id": "3",
       "depth": 1,
       "frame": false,
       "label": "དངོས་གྲུབ་བསྒྲུབ་པའི་ཆོ་ག་མཆོག",
-      "block_id": "^2-0",
+      "block_id": "^3-0",
       "context": "དེ་ནས་གཞན་ཡང་དངོས་གྲུབ་བསྒྲུབ་པའི་ཕྱིར། །",
       "context_anchor": "དེ་ནས་གཞན་ཡང་དངོས་གྲུབ་བསྒྲུབ་པའི་ཕྱིར། །",
       "doc_order": 2
     },
     {
-      "decimal_id": "3",
+      "decimal_id": "4",
       "depth": 1,
       "frame": false,
       "label": "འཇམ་དཔལ་གཞོན་ནུ་ཡི་དཔྱད་ལས་བྱུང་བའི་དཔྱད",
-      "block_id": "^3-0",
+      "block_id": "^4-0",
       "context": "དེ་ནས་གཞན་ཡང་འཇམ་དཔལ་གཞོན་ནུ་ཡི། །",
       "context_anchor": "དེ་ནས་གཞན་ཡང་འཇམ་དཔལ་གཞོན་ནུ་ཡི། །",
       "doc_order": 3

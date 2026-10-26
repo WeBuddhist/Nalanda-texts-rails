@@ -6,3 +6,11 @@
 {"label": "group-p6-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 178.7, "input": 44645, "output": 2669, "thought": 31204}
 {"label": "group-p7-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 127.0, "input": 48582, "output": 4745, "thought": 18905}
 {"label": "group-p8-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 213.6, "input": 22901, "output": 1670, "thought": 38017}
+{"label": "group-p1-medium-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 218.0, "input": 51058, "output": 2105, "thought": 32163}
+{"label": "group-p2-medium-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 354.7, "input": 39058, "output": 2302, "thought": 53339}
+{"label": "group-p3-medium-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 101.5, "input": 52938, "output": 2849, "thought": 12923}
+{"label": "group-p4-medium-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 264.3, "input": 44364, "output": 2311, "thought": 42620}
+{"label": "group-p5-medium-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 220.6, "input": 48978, "output": 2651, "thought": 35403}
+{"label": "group-p6-medium-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 207.2, "input": 44168, "output": 2634, "thought": 35511}
+{"label": "group-p7-medium-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 143.5, "input": 49573, "output": 4708, "thought": 22679}
+{"label": "group-p8-medium-a0", "model": "gemini-3.8-flash", "thinking": "medium", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 233.6, "input": 22921, "output": 1654, "thought": 35335}

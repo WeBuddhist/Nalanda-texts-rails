@@ -1,3 +1,26 @@
+---
+title: "བསྒོམ་རིམ་དང་པོ།"
+alt_titles:
+  - bo: "༄༅། །བསྒོམ་རིམ་དང་པོ།"
+  - bo: "སྒོམ་པའི་རིམ་པ།"
+author: "ཀ་མ་ལ་ཤཱི་ལ།"
+author_in_english: "kamalashila"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 48)  ཀ་མ་ལ་ཤཱི་ལའི་གསུང་འབུམ། ག༽ .docx (08-Kamalashila); https://wb.pub/3CDO"
+bdrc_work_id: "WA0RT4228"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "08-Kamalashila"
+category_id: "JD5ULLPAV1cxg7RSb7L3q"
+category_name: "Middle Way / དབུ་མ།"
+openpecha_text_id: "1VsSo6lC6R5EK19rIyKxo"
+---
 # ༄༅། །བསྒོམ་རིམ་དང་པོ། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
@@ -1116,13 +1139,11 @@
 
 བསྒོམ་རིམ༌[^299]དང་པོ་རྫོགས་སོ།། །།
 
-རྒྱ་གར་གྱི་མཁན་པོ་པྲཛྙཱ་ཝརྨ༌[^300]དང་།
-
 ## མཇུག་བྱང། ^a-0
 
 ### འགྱུར་བྱང། ^a-1-0
 
-ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ། །།
+རྒྱ་གར་གྱི་མཁན་པོ་པྲཛྙཱ་ཝརྨ༌[^300]དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བནྡེ་ཡེ་ཤེས་སྡེ་ལ་སོགས་པས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ། །།
 
 [^1]: བསྒོམ་པའི་ ༼སྣར། པེ།༽ སྒོམ་པའི་
 [^2]: བསྒོམ་པ་ ༼སྣར། པེ།༽ སྒོམ་པ་

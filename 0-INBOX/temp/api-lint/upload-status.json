@@ -31844,7 +31844,7 @@
   "durchen_count": 10,
   "durchen_ids": [
    "XGmJ2WhgZ0Oy8gtfcYWDd",
-   "1uyYxCRnyJRfOrYQMpyMp",
+   "qvRKwMeNJ8wN9zclv7mXi",
    "iLKJNyoKAUNfgboEvb3eo",
    "uQEzfmmCKo5gQTblYRQ02",
    "7farG4FFWVNcgrQdXgMAs",
@@ -31873,9 +31873,15 @@
    {
     "step": "durchens",
     "ts": "2026-10-14T09:58:34"
+   },
+   {
+    "new_id": "qvRKwMeNJ8wN9zclv7mXi",
+    "old_id": "1uyYxCRnyJRfOrYQMpyMp",
+    "step": "durchen re-sent",
+    "why": "note text was missing its closing ༽"
    }
   ],
-  "payload_hash": "d061d86325304fbff303fed33bf4e186c4a218940171718c2b7b3522ddcec59b",
+  "payload_hash": "514d111738802632d6965b2046069a1b92c7a39d9abd2ab453007c0dcd8765b3",
   "status": "uploaded",
   "text_id": "VJmj5rJ0Sk7sUfFSG1Ize",
   "toc_id": "RbusbO85AzkfASKOb1xZl",

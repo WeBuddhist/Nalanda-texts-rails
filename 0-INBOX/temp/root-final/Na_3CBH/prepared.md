@@ -1,3 +1,30 @@
+---
+title: "བཤེས་པའི་སྤྲིང་ཡིག"
+alt_titles:
+  - bo: "བཤེས་པའི་སྤྲིང་ཡིག།"
+  - bo: "བཤེས་པའི་ཕྲིན་ཡིག"
+  - bo: "བཤེས་པའི་སྤྲིང་ཡིག་གི་རྩ་བ།"
+  - bo: "བཤེས་སྤྲིང"
+  - bo: "བཤེས་སྤྲིངས།"
+  - bo: "བཤེས་སྤྲིངས་ཀྱི་རྩ་བ།"
+author: "སློབ་དཔོན་ཀླུ་སྒྲུབ།"
+author_in_english: "Nāgārjuna"
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 21) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཇ༽ .docx (01-Nagarjuna); https://wb.pub/3CBH"
+bdrc_work_id: "WA0RT3520"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "01-Nagarjuna"
+category_id: "sEStEY4RRWU7U23rkiOk5"
+category_name: "Mind Trainings and Advices / བློ་སྦྱོང་དང་བསླབ་བྱ།"
+openpecha_text_id: "dRDR9Lg1bgJftmsA24UJs"
+---
 # ༄༅། །བཤེས་པའི་སྤྲིང་ཡིག། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
@@ -994,13 +1021,11 @@
 
 མཛའ་བོ་རྒྱལ་པོ་བདེ་སྤྱོད་ལ་བསྐུར་བ༌[^153]རྫོགས་སོ།། །།
 
-རྒྱ་གར་གྱི་མཁན་པོ་སརྦ་ཛྙ་དེ་བ་དང་།
-
 ## མཇུག་བྱང། ^a-0
 
 ### འགྱུར་བྱང། ^a-1-0
 
-ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བན་དེ་དཔལ་བརྩེགས༌[^154]ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ། །
+རྒྱ་གར་གྱི་མཁན་པོ་སརྦ་ཛྙ་དེ་བ་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་བན་དེ་དཔལ་བརྩེགས༌[^154]ཀྱིས་བསྒྱུར་ཅིང་ཞུས་ཏེ་གཏན་ལ་ཕབ་པའོ། །
 
 [^1]: སྤྲིང་ཡིག ༼སྣར། པེ།༽ ཕྲིན་ཡིག
 [^2]: ཁྱོད་ ༼སྣར།༽ ཁྱད་

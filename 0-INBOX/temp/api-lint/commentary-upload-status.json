@@ -56554,7 +56554,7 @@
    "iREVKuKdJy5lREoQVNT5H",
    "qYwFwFtWkdcSp0iasHT41",
    "hMiY4v46jE4CuR9Anvk2C",
-   "TnSSTYMafGSKve1FZqtlS",
+   "lLw6KcQCziUhBzOEsa67B",
    "Hq5hLJORqXUtfLKCuKaTx",
    "2Lec1HQMnSoGOyz9O7W3K",
    "Umhm5FJyedtLeN955YwBW",
@@ -57854,6 +57854,12 @@
    {
     "step": "durchens",
     "ts": "2026-10-16T10:52:35"
+   },
+   {
+    "new_id": "lLw6KcQCziUhBzOEsa67B",
+    "old_id": "TnSSTYMafGSKve1FZqtlS",
+    "step": "durchen re-sent",
+    "why": "note text was missing its closing ༽"
    }
   ],
   "status": "uploaded",

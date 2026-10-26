@@ -20,3 +20,26 @@ $ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_bu
    ✓ final-free.md: identical to Ar_3CBq_.md (letters and spacing; only breaks, headings, IDs added)
 D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBq_\final-free.md: 48 stanzas — 1 lines ×2, 3 lines ×1, 4 lines ×16, 5 lines ×3, 6 lines ×8, 7 lines ×1, 8 lines ×10, 9 lines ×1, 10 lines ×2, 12 lines ×3, 14 lines ×1
 
+
+=== 2026-10-13 16:19:42
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Ar_3CBq_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBq_
+pādas 297 · metre 9 syllables · raw paragraph breaks kept: 9, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །བཅོམ་ལྡན་འདས་འཇམ་པའི་དབྱངས་ཀྱི་དཔྱད་བཞུགས་སྷོ། ། ^0
+   ## གཞུང་དངོས། ^1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBq_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Ar_3CBq_\toc-tree-anchored-Ar_3CBq_.md
+pādas 297 · metre 9 syllables · raw paragraph breaks kept: 9, opening marks joined to the first part · body headings: 0 not placed · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །བཅོམ་ལྡན་འདས་འཇམ་པའི་དབྱངས་ཀྱི་དཔྱད་བཞུགས་སྷོ། ། ^0
+   ## བླ་མ་དེ་ལ་གུས་པར་ཕྱག་འཚལ་བ། ^1-0
+   ## དེ་ཡི་རྩ་བའི་སྔགས། ^2-0
+   ## དངོས་གྲུབ་བསྒྲུབ་པའི་ཆོ་ག་མཆོག། ^3-0
+   ## འཇམ་དཔལ་གཞོན་ནུ་ཡི་དཔྱད་ལས་བྱུང་བའི་དཔྱད། ^4-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBq_
+316 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBq_
+   ✓ final-free.md: identical to Ar_3CBq_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ar_3CBq_\final-free.md: 45 stanzas — 1 lines ×1, 2 lines ×1, 3 lines ×1, 4 lines ×13, 5 lines ×3, 6 lines ×5, 7 lines ×1, 8 lines ×12, 9 lines ×1, 10 lines ×2, 12 lines ×4, 14 lines ×1
+

@@ -107,6 +107,9 @@ Consult this file as the benchmark standard when calibrating pipeline parameters
    prompts run as isolated subagents (`model: opus`, high effort) only when the prompt
    explicitly asks for another model (`4-SYSTEM/Skills/seg-toc-lib/SKILL.md`). The Gemini
    TOC script covers mode `sabcad` only; the other modes need the agent path.
+   **What the benchmarks found efficient for commentaries:** Gemini 3.8 Flash with thinking
+   `high`, since commentaries are large; Claude agents (Opus 5.5, high effort) do well
+   across the board.
 4. **Strict text gate.** Step 6 ends with `verify_text.py` against the pre-segmentation
    text: letters and spacing identical, only breaks, headings and IDs added.
 5. **Recommended segmentation flags** (benchmark v2): `--units --root <root> --enum-chain
