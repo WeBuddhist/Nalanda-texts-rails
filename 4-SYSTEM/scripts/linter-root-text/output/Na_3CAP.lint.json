@@ -1,0 +1,37 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Na_3CAP.md",
+  "validated_at": "2026-10-25T19:01:10.300161+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 11 from 11 footnote definition(s)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "author 'Nāgārjuna': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT4261",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼ཀླུ་སྒྲུབ།༽"
+    },
+    "alt_titles": [
+      {
+        "bo": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

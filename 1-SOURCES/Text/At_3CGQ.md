@@ -12,7 +12,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CGQ"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CGQ · Duplicate copy At_3CGa_ (checked 2026-10-26): identical main text and footnotes (one verse is split over three lines instead of one); same BDRC WA0RT2596, same volume (Book 98). At_3CGa_ is held; this file is the uploaded copy."
 bdrc_work_id: "WA0RT2596"
 source: "https://webuddhist.com/"
 license: "public"

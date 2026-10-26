@@ -11,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 97) ཤཱཀྱ་འོད་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (16-Shakyaprabha); https://wb.pub/3CFZ"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 97) ཤཱཀྱ་འོད་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (16-Shakyaprabha); https://wb.pub/3CFZ · Near-duplicate of Na_3CBB (checked 2026-10-26): same translation, complete in both (same Sanskrit title line and colophon naming Śākyaprabha; same BDRC WA0RT3462); main text 99.9% the same (36,160 vs 36,153 chars), footnotes 97% (325 vs 316): the two volumes chose a different base reading at about 30 places (བརྫུན/རྫུན, རི་དགས/རི་དྭགས, རིངས/རིང, སྟན/སྟེན, བཏེག/བརྟེག, རེག/རིག…), each mostly recording the other's reading as a footnote variant. Only in this copy: Book 97 (Śākyaprabha's volume); Na_3CBB is filed in Nāgārjuna's volume (Book 21). Held, not uploaded; the library copy is Na_3CBB."
 bdrc_work_id: "WA0RT3462"
 source: "https://webuddhist.com/"
 license: "public"

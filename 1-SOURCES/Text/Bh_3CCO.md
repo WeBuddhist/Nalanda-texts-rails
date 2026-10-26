@@ -10,7 +10,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 34) ལེགས་ལྡན་འབྱེད་ཀྱི་གསུང་འབུམ། ཆ .docx (04-Bhavaviveka); https://wb.pub/3CCO"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 34) ལེགས་ལྡན་འབྱེད་ཀྱི་གསུང་འབུམ། ཆ .docx (04-Bhavaviveka); https://wb.pub/3CCO · Duplicate of Bh_3CCJ (checked 2026-10-26): identical text and footnotes except one editorial heading (དམ་པའི་དོན། vs དོན་དམ།); same BDRC WA0RT3202; printed in Book 34 ཆ and Book 31 ག. Held, not uploaded; the library copy is Bh_3CCJ."
 bdrc_work_id: "WA0RT3202"
 source: "https://webuddhist.com/"
 license: "public"

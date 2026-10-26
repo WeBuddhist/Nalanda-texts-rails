@@ -11,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9S"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 15) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཀ༽ .docx (01-Nagarjuna); https://wb.pub/3C9S · Near-duplicate of Ar_3CBf_ (checked 2026-10-26): same translation, complete in both (same Sanskrit title line, translators and verses; same BDRC WA0RT0629); main text 96% the same (1,767 vs 1,818 chars): mantra …ཀཱ་ལ་ཧཱུཾ vs …ཀཱ་ལ་ཡ་ཧཱུཾ, colophon wording, translator spelling; footnotes mostly record the same variants, formatted differently (9 vs 12). Only in this copy: colophon མགོན་པོ་བྱ་རོག་གདོང་ཅན་གྱི་ནང་སྒྲུབ with no author (Ar_3CBf_ adds Āryadeva in brackets, sourced in its note ^12 to a separate manuscript); translator spelled ཨ་བྷ་ཡཱ་ཀ་ར (Ar_3CBf_: བྷ་ཡཱ་ཀ་ར(གུཔྟ)). Held, not uploaded; the library copy is Ar_3CBf_."
 bdrc_work_id: "WA0RT0629"
 source: "https://webuddhist.com/"
 license: "public"

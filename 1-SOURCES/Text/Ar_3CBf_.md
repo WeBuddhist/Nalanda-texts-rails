@@ -12,7 +12,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 27) འཕགས་པ་ལྷའི་གསུང་འབུམ། ཁ༽ .docx (02-Aryadeva); https://wb.pub/3CBf"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 27) འཕགས་པ་ལྷའི་གསུང་འབུམ། ཁ༽ .docx (02-Aryadeva); https://wb.pub/3CBf · Near-duplicate copy Na_3C9S (checked 2026-10-26): same translation, complete in both (same Sanskrit title line, translators and verses; same BDRC WA0RT0629); main text 96% the same (1,767 vs 1,818 chars): mantra …ཀཱ་ལ་ཧཱུཾ vs …ཀཱ་ལ་ཡ་ཧཱུཾ, colophon wording, translator spelling; footnotes mostly record the same variants, formatted differently (9 vs 12). Na_3C9S is held; this file is the uploaded copy."
 bdrc_work_id: "WA0RT0629"
 source: "https://webuddhist.com/"
 license: "public"

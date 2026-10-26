@@ -67902,9 +67902,47 @@
   "updated": "2026-10-13T17:20:04"
  },
  "Na_3CAP": {
-  "error": "same Na_3CAO (title) as an uploaded text",
+  "date": "2026-10-26",
+  "durchen_count": 11,
+  "durchen_ids": [
+   "oEPvdvvlVgXS0240gseXa",
+   "B20Xlncl10V9x3TWf8SW6",
+   "3C41g0VDKhy8m2yRRXFLV",
+   "7m0J1U0gxpvxoHlwxvrZK",
+   "7neVDPHUnKvqrUQBn5yMu",
+   "0iBgHE68Z7C8rxXP2Dyru",
+   "uxCD0Shcrsj7RSxfXxtj0",
+   "1s4ujz0omEOmld0tYc4Ya",
+   "fmQF2Lh8cXMeLvxoAhIcq",
+   "EDEC5l0BaSZOW1zfUNmS8",
+   "p8Px9ajTTbi7xhwIslOIt"
+  ],
+  "edition_id": "dzkB7WR9qK3AEcEXAQklq",
+  "log": [
+   {
+    "step": "text",
+    "ts": "2026-10-26T00:31:12"
+   },
+   {
+    "chars": 2657,
+    "segments": 12,
+    "step": "edition",
+    "ts": "2026-10-26T00:31:12"
+   },
+   {
+    "step": "toc",
+    "ts": "2026-10-26T00:31:13"
+   },
+   {
+    "step": "durchens",
+    "ts": "2026-10-26T00:31:13"
+   }
+  ],
   "payload_hash": "79497e2dbeac993ad3f2c6114b51ddf0f25dd20dd65a0805ca0b1e03eed2ed53",
-  "status": "failed"
+  "status": "uploaded",
+  "text_id": "Bl9EjJ77oqRGiywcgzorP",
+  "toc_id": "eN6x2iuVobcpYkHVTa2l7",
+  "updated": "2026-10-26T00:31:13"
  },
  "Na_3CAQ": {
   "date": "2026-10-13",

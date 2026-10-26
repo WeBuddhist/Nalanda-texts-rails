@@ -1303,7 +1303,7 @@
  },
  "At_3CFp_": {
   "status": "done",
-  "chars": 3281,
+  "chars": 3456,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
@@ -1320,7 +1320,8 @@
   "output": "4-SYSTEM/scripts/parser-root-text/output/At_3CFp_/",
   "source_changed": false,
   "date": "2026-10-13",
-  "log": "0-INBOX/temp/api-lint/logs/At_3CFp_.log"
+  "log": "0-INBOX/temp/api-lint/logs/At_3CFp_.log",
+  "hold": "duplicate of At_3CFl_ (uploaded): identical main text and footnotes; same BDRC WA0RT4268, same volume (Book 98)"
  },
  "At_3CFq_": {
   "status": "done",
@@ -1765,7 +1766,7 @@
  },
  "At_3CGa_": {
   "status": "done",
-  "chars": 4669,
+  "chars": 4895,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
@@ -1782,7 +1783,8 @@
   "output": "4-SYSTEM/scripts/parser-root-text/output/At_3CGa_/",
   "source_changed": false,
   "date": "2026-10-13",
-  "log": "0-INBOX/temp/api-lint/logs/At_3CGa_.log"
+  "log": "0-INBOX/temp/api-lint/logs/At_3CGa_.log",
+  "hold": "duplicate of At_3CGQ (uploaded): identical main text and footnotes (one verse is split over three lines instead of one); same BDRC WA0RT2596, same volume (Book 98)"
  },
  "At_3CGB": {
   "status": "done",
@@ -4355,7 +4357,7 @@
  },
  "Bh_3CCO": {
   "status": "done",
-  "chars": 2969,
+  "chars": 3204,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
@@ -4372,7 +4374,8 @@
   "output": "4-SYSTEM/scripts/parser-root-text/output/Bh_3CCO/",
   "source_changed": false,
   "date": "2026-10-13",
-  "log": "0-INBOX/temp/api-lint/logs/Bh_3CCO.log"
+  "log": "0-INBOX/temp/api-lint/logs/Bh_3CCO.log",
+  "hold": "duplicate of Bh_3CCJ (uploaded): identical text and footnotes except one editorial heading (དམ་པའི་དོན། vs དོན་དམ།); same BDRC WA0RT3202; printed in Book 34 ཆ and Book 31 ག"
  },
  "Ch_3CCc_": {
   "status": "done",
@@ -6245,7 +6248,7 @@
  },
  "Na_3C9S": {
   "status": "done",
-  "chars": 2837,
+  "chars": 3470,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
@@ -6262,7 +6265,8 @@
   "output": "4-SYSTEM/scripts/parser-root-text/output/Na_3C9S/",
   "source_changed": false,
   "date": "2026-10-13",
-  "log": "0-INBOX/temp/api-lint/logs/Na_3C9S.log"
+  "log": "0-INBOX/temp/api-lint/logs/Na_3C9S.log",
+  "hold": "near-duplicate of Ar_3CBf_ (uploaded): same translation, edited separately; see source_description"
  },
  "Na_3C9s_": {
   "status": "to do",
@@ -7281,12 +7285,12 @@
  },
  "Na_3CAP": {
   "status": "done",
-  "chars": 3904,
+  "chars": 4329,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
   "lint_errors": 0,
-  "lint_warnings": 2,
+  "lint_warnings": 1,
   "first_error": "",
   "durchen_warnings": 0,
   "parse": "OK",
@@ -7294,10 +7298,10 @@
   "durchens": 11,
   "yigchungs": 0,
   "toc_nodes": 5,
-  "parse_warnings": 2,
+  "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Na_3CAP/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/Na_3CAP.log"
  },
  "Na_3CAQ": {
@@ -8765,7 +8769,7 @@
  },
  "Sh_3CFZ": {
   "status": "done",
-  "chars": 52605,
+  "chars": 53203,
   "size": "medium",
   "size_from": "workflow",
   "lint": "OK",
@@ -8782,7 +8786,8 @@
   "output": "4-SYSTEM/scripts/parser-root-text/output/Sh_3CFZ/",
   "source_changed": false,
   "date": "2026-10-13",
-  "log": "0-INBOX/temp/api-lint/logs/Sh_3CFZ.log"
+  "log": "0-INBOX/temp/api-lint/logs/Sh_3CFZ.log",
+  "hold": "near-duplicate of Na_3CBB (uploaded): same translation, edited separately; see source_description"
  },
  "Va_3CE0": {
   "status": "done",

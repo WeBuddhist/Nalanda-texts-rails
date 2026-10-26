@@ -167,7 +167,8 @@ def write_report(status):
     by_size = {s: sum(1 for e in status.values() if e["size"] == s) for s in ("small", "medium", "large")}
     uploads = _read_json(UPLOAD_STATUS)
     uploaded = [t for t in status if uploads.get(t, {}).get("status") == "uploaded"]
-    up_failed = [t for t in status if uploads.get(t, {}).get("status") in ("failed", "partial")]
+    up_failed = [t for t in status if uploads.get(t, {}).get("status") in ("failed", "partial")
+                 and not status[t].get("hold")]  # a held text's old upload failure is no longer open
     lines = [
         "# Root-text API batch — linter + parser",
         "",

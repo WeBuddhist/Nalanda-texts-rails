@@ -11,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 21) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཇ༽ .docx (01-Nagarjuna); https://wb.pub/3CBB"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 21) ཀླུ་སྒྲུབ་ཀྱི་གསུང་འབུམ། ཇ༽ .docx (01-Nagarjuna); https://wb.pub/3CBB · Near-duplicate copy Sh_3CFZ (checked 2026-10-26): same translation, complete in both (same Sanskrit title line and colophon naming Śākyaprabha; same BDRC WA0RT3462); main text 99.9% the same (36,160 vs 36,153 chars), footnotes 97% (325 vs 316): the two volumes chose a different base reading at about 30 places (བརྫུན/རྫུན, རི་དགས/རི་དྭགས, རིངས/རིང, སྟན/སྟེན, བཏེག/བརྟེག, རེག/རིག…), each mostly recording the other's reading as a footnote variant. Sh_3CFZ is held; this file is the uploaded copy."
 bdrc_work_id: "WA0RT3462"
 source: "https://webuddhist.com/"
 license: "public"
