@@ -18,9 +18,9 @@ license: "public"
 pandita: "14-Haribhadra"
 category_id: "uGpinx0GZlvU1uw44RyYS"
 category_name: "Prajñāpāramitā / ཤེར་ཕྱིན།"
-text_id: "tce5facfRtmmMP067sELa"
-edition_id: "QrJsZfccR8L2EQo3LLwlE"
-toc_id: "4EWAY7JeRWYP1SYyJgnAy"
+text_id: "3ZWGBFHqWzK6gc4cOeWcF"
+edition_id: "9ZR9w8AMdJldSe41nf785"
+toc_id: "kr7Fw9L2LXWoIUFSoHWbQ"
 openpecha_text_id:
 ---
 

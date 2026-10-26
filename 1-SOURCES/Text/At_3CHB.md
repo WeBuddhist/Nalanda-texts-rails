@@ -18,6 +18,9 @@ license: "public"
 pandita: "17-Atisha"
 category_id: "JD5ULLPAV1cxg7RSb7L3q"
 category_name: "Middle Way / དབུ་མ།"
+text_id: "WiTiQOYfB9xc0T4ZuPZEL"
+edition_id: "5aF4L7sWORnVfo5JOJYRL"
+toc_id: "nr22ZZkUuPYzj1PUocFP6"
 openpecha_text_id: "nXb2hYHFhCQonSlOqJZfn"
 ---
 

@@ -1682,7 +1682,7 @@
  },
  "At_3CG7": {
   "status": "done",
-  "chars": 2328,
+  "chars": 2620,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
@@ -1698,7 +1698,7 @@
   "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/At_3CG7/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/At_3CG7.log"
  },
  "At_3CG8": {
@@ -1809,12 +1809,12 @@
  },
  "At_3CGb_": {
   "status": "done",
-  "chars": 4542,
+  "chars": 4825,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
   "lint_errors": 0,
-  "lint_warnings": 3,
+  "lint_warnings": 2,
   "first_error": "",
   "durchen_warnings": 1,
   "parse": "OK",
@@ -1822,10 +1822,10 @@
   "durchens": 6,
   "yigchungs": 0,
   "toc_nodes": 9,
-  "parse_warnings": 3,
+  "parse_warnings": 2,
   "output": "4-SYSTEM/scripts/parser-root-text/output/At_3CGb_/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/At_3CGb_.log"
  },
  "At_3CGC": {
@@ -2082,7 +2082,7 @@
  },
  "At_3CGI": {
   "status": "done",
-  "chars": 2644,
+  "chars": 2949,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
@@ -2098,7 +2098,7 @@
   "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/At_3CGI/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/At_3CGI.log"
  },
  "At_3CGi_": {
@@ -3027,12 +3027,12 @@
  },
  "At_3CHB": {
   "status": "done",
-  "chars": 4352,
+  "chars": 4661,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
   "lint_errors": 0,
-  "lint_warnings": 2,
+  "lint_warnings": 1,
   "first_error": "",
   "durchen_warnings": 0,
   "parse": "OK",
@@ -3040,10 +3040,10 @@
   "durchens": 10,
   "yigchungs": 0,
   "toc_nodes": 10,
-  "parse_warnings": 2,
+  "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/At_3CHB/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/At_3CHB.log"
  },
  "At_3CHb_": {
@@ -4708,7 +4708,7 @@
  },
  "Dh_3CF5": {
   "status": "done",
-  "chars": 228422,
+  "chars": 235022,
   "size": "large",
   "size_from": "workflow",
   "lint": "OK",
@@ -4717,14 +4717,14 @@
   "first_error": "",
   "durchen_warnings": 2,
   "parse": "OK",
-  "segments": 1182,
+  "segments": 1712,
   "durchens": 1068,
   "yigchungs": 0,
-  "toc_nodes": 8,
+  "toc_nodes": 9,
   "parse_warnings": 3,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Dh_3CF5/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/Dh_3CF5.log"
  },
  "Dh_3CF6": {
@@ -5191,12 +5191,12 @@
  },
  "Ha_3CFG": {
   "status": "done",
-  "chars": 723958,
+  "chars": 727184,
   "size": "large",
   "size_from": "workflow",
   "lint": "OK",
   "lint_errors": 0,
-  "lint_warnings": 2,
+  "lint_warnings": 1,
   "first_error": "",
   "durchen_warnings": 0,
   "parse": "OK",
@@ -5204,10 +5204,10 @@
   "durchens": 1515,
   "yigchungs": 0,
   "toc_nodes": 20,
-  "parse_warnings": 2,
+  "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Ha_3CFG/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/Ha_3CFG.log"
  },
  "Ha_3CFH": {
@@ -5254,12 +5254,12 @@
  },
  "Ha_3CFJ": {
   "status": "done",
-  "chars": 676719,
+  "chars": 680410,
   "size": "large",
   "size_from": "workflow",
   "lint": "OK",
   "lint_errors": 0,
-  "lint_warnings": 7,
+  "lint_warnings": 6,
   "first_error": "",
   "durchen_warnings": 5,
   "parse": "OK",
@@ -5267,10 +5267,10 @@
   "durchens": 1688,
   "yigchungs": 0,
   "toc_nodes": 49,
-  "parse_warnings": 7,
+  "parse_warnings": 6,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Ha_3CFJ/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/Ha_3CFJ.log"
  },
  "Ha_3CFO": {
@@ -6347,7 +6347,7 @@
  },
  "Na_3C9T": {
   "status": "done",
-  "chars": 3240,
+  "chars": 3376,
   "size": "small",
   "size_from": "workflow",
   "lint": "OK",
@@ -6363,7 +6363,7 @@
   "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Na_3C9T/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/Na_3C9T.log"
  },
  "Na_3C9t_": {
@@ -9232,7 +9232,7 @@
  },
  "Va_3CEX": {
   "status": "done",
-  "chars": 92642,
+  "chars": 93615,
   "size": "medium",
   "size_from": "workflow",
   "lint": "OK",
@@ -9241,14 +9241,14 @@
   "first_error": "",
   "durchen_warnings": 0,
   "parse": "OK",
-  "segments": 590,
+  "segments": 614,
   "durchens": 379,
   "yigchungs": 0,
-  "toc_nodes": 13,
+  "toc_nodes": 14,
   "parse_warnings": 1,
   "output": "4-SYSTEM/scripts/parser-root-text/output/Va_3CEX/",
   "source_changed": false,
-  "date": "2026-10-13",
+  "date": "2026-10-26",
   "log": "0-INBOX/temp/api-lint/logs/Va_3CEX.log"
  },
  "Va_3CEY": {

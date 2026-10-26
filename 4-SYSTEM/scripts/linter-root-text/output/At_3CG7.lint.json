@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/At_3CG7.md",
+  "validated_at": "2026-10-26T08:56:03.671865+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 4 from 4 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "author 'Atiśa': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT1477",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "བཅོམ་ལྡན་འདས་མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།"
+    },
+    "alt_titles": [
+      {
+        "bo": "མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།"
+      },
+      {
+        "bo": "མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས་བཞུགས། །"
+      },
+      {
+        "bo": "༄། །མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས་བཞུགས།"
+      },
+      {
+        "bo": "བཅོམ་ལྡན་འདས་མི་འཁྲུག་པའི་སྒྲུབ་ཐབས།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

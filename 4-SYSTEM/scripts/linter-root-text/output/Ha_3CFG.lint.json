@@ -1,28 +1,31 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Ha_3CFG.md",
-  "validated_at": "2026-10-13T16:26:46.275918+00:00",
+  "validated_at": "2026-10-26T08:57:37.403344+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 1515 from 1515 footnote definition(s)",
+    "durchens: 1515 from 1515 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 20 headers found"
   ],
   "warnings": [
-    "contributions: author/translator missing — ignored for now",
-    "alt_titles: missing — ignored for now"
+    "contributions: author/translator missing — ignored for now"
   ],
   "text_input": {
     "bdrc": null,
     "wiki": null,
     "date": null,
     "title": {
-      "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།"
+      "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་གཉིས་པ།༽"
     },
-    "alt_titles": null,
+    "alt_titles": [
+      {
+        "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།"
+      }
+    ],
     "language": "bo",
     "commentary_of": null,
     "translation_of": null,

@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Ha_3CFJ.md",
+  "validated_at": "2026-10-26T08:57:39.369559+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 1688 from 1688 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
+    "toc: 49 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "segment 138 (^10-3): footnote [^d247] lemma 'དེ་ལྟར།' does not end at the marker — the durchen will span the syllable before it, 'རོ། །'",
+    "segment 284 (^20-1): footnote [^d548] lemma 'འགྱུར་' does not end at the marker — the durchen will span the syllable before it, 'འདས༌'",
+    "segment 422 (^25-59): footnote [^d868] lemma 'ཉིད་ཀྱང་།' does not end at the marker — the durchen will span the syllable before it, 'ཉིད༌'",
+    "segment 470 (^30-11): footnote [^d1014] lemma 'ཐམས་ཅད་' does not end at the marker — the durchen will span the syllable before it, 'གཞན༌'",
+    "segment 683 (^43-10): footnote [^d1453] lemma 'པའོ། །' does not end at the marker — the durchen will span the syllable before it, 'དུ༌'"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་ལྔ་པ།༽"
+    },
+    "alt_titles": [
+      {
+        "bo": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "uGpinx0GZlvU1uw44RyYS",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

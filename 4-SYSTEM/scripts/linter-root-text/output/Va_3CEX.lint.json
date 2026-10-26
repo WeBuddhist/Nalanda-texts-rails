@@ -1,15 +1,15 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Va_3CEX.md",
-  "validated_at": "2026-10-13T11:13:42.842155+00:00",
+  "validated_at": "2026-10-26T08:59:23.273482+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 379 from 379 footnote definition(s)",
-    "toc: 13 headers found"
+    "durchens: 379 from 379 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
+    "toc: 14 headers found"
   ],
   "warnings": [
     "author 'Vasubandhu': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
