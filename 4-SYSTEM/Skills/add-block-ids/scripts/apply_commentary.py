@@ -58,7 +58,7 @@ is overwritten in place.
 import re
 import sys
 
-HEADING_RE = re.compile(r'^(#{1,6})\s+\S')
+HEADING_RE = re.compile(r'^(#{1,})\s+\S')
 TRANSCLUSION_RE = re.compile(r'^!\[\[.*\]\]\s*$')
 # Idempotency check for lines this script itself tags (#, ###, ####, body):
 # a label (letters/digits) followed by zero to three purely-numeric segments.

@@ -87,7 +87,7 @@ The canonical golden reference for a human-corrected table of contents and comme
 - **Path:** `0-INBOX/processed/commentaries/Dh_3CEz_.md`
 - **Text:** རྒྱུད་ཀྱི་རྒྱལ་པོ་ཆེན་པོ་དཔལ་དགྱེས་པའི་རྡོ་རྗེའི་དཀའ་འགྲེལ་སྤྱན་འབྱེད། (*Netravibhaṅga* commentary on the Hevajra Tantra; ID: `Dh_3CEz_`)
 - **What it exemplifies:**
-  - **TOC Heading Structure:** Complete multi-level *sa bcad* heading hierarchy (`##` down to `######`) with decimal numbering and header block IDs (`^1-0`, `^1-1-0`, `^1-1-1-0`, `^1-1-1-1-0`, etc.).
+  - **TOC Heading Structure:** Complete multi-level *sa bcad* heading hierarchy (`##` and deeper, one `#` per level with no cap; bold titles past `######`) with decimal numbering and header block IDs (`^1-0`, `^1-1-0`, `^1-1-1-0`, `^1-1-1-1-0`, etc.).
   - **Segmentation Granularity:** Calibrated unit lengths (median ~56 syllables vs 27 from mechanical cuts). Sentences forming a single explanatory thought remain joined; boundaries mark genuine functional shifts (e.g. `ཡང་ན་`, `ཁ་ཅིག་`, `འོ་ན་`, `དེ་སྐད་དུ་`).
   - **Quotation Isolation:** Clean layout for root verses (`separate` style) and cited scripture references.
   - **Framing Elements:** Standard front matter (`## ༄༅། །...`, `## ཀླད་ཀྱི་དོན།`, title, homage, Sanskrit/Tibetan designations) and back matter structure.

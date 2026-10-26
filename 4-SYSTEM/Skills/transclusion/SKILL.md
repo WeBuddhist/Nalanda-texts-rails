@@ -389,8 +389,8 @@ The transclusion moved ahead of the sa-bcad line ("དང་པོ་ནི།")
 Some outline points accumulate more than one ནི।-ending sentence before the quotation — e.g. a heading-level remark plus its own sub-point's announcement. Only the paragraphs that themselves end in ནི། (immediately before their block ID) count as "the sa-bcad" to jump; an ordinary explanatory paragraph that happens to sit between the heading and the sa-bcad, but ends some other way (དང་།, ཅིང་།, ལའོ།, etc.), is left exactly where it is:
 
 ```
-##### གསུམ་པ་... ^0-2-2-1-1-3-0
-###### དང་པོ་... ^0-2-2-1-1-3-1-0
+####### **གསུམ་པ་...** ^0-2-2-1-1-3-0
+######## **དང་པོ་...** ^0-2-2-1-1-3-1-0
 
 [general remark, ends ...ལའོ། ། — does NOT end in ནི།, stays in place]
 

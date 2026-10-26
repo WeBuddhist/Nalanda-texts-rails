@@ -25,7 +25,7 @@ RESEGMENTED = INBOX / "resegmented"
 TEMP = INBOX / "temp"
 TOC_DIR = TEMP / "segmented-commentary-with-toc"
 
-HEADING = re.compile(r"^(#{1,6})\s+(.*?)\s*$")
+HEADING = re.compile(r"^(#{1,})\s+(.*?)\s*$")
 BLOCK_ID = re.compile(r"\^([A-Za-z0-9-]+)\s*$")
 
 
