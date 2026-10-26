@@ -404,9 +404,11 @@ def _validate_yigchung_tags(body, items):
             items.append(("ERROR", f"{where}: stray <small> (not closed by the end of {end})"))
 
 
-# Durchen (variant-reading notes) are footnotes: a marker [^n] right after the
-# text, a definition "[^n]: lemma ༼sigla༽ variant" at the end of the file. The
-# parser makes one durchen per marker, spanning the lemma before it.
+# Durchen (variant-reading notes) are footnotes: a marker [^dN] right after the
+# text, a definition "[^dN]: lemma ༼sigla༽ variant" at the end of the file. The
+# parser makes one durchen per marker, spanning the lemma before it. Generic
+# notes [^nN] are only checked for a definition: the parser does not send them
+# (no endpoint yet). The old bare [^N] is still read as a durchen.
 INLINE_MARK_RE = re.compile(
     SMALL_TAG_RE.pattern + "|" + durchen.FOOTNOTE_MARK_RE.pattern, re.IGNORECASE
 )
@@ -433,9 +435,10 @@ def _validate_durchens(body, notes, items):
         if is_header:
             labels = [m.group(1) for m in durchen.FOOTNOTE_MARK_RE.finditer(lines[0])]
             for label in labels:
-                items.append(("WARN",
-                    f"header {block_num} ({ref}): footnote [^{label}] in a heading — headings "
-                    f"are not edition content, so it gets no durchen"))
+                if durchen.is_durchen(label):
+                    items.append(("WARN",
+                        f"header {block_num} ({ref}): footnote [^{label}] in a heading — headings "
+                        f"are not edition content, so it gets no durchen"))
                 marks.append({"label": label, "pos": None, "where": f"header {block_num}"})
             continue
         if not any(durchen.FOOTNOTE_MARK_RE.sub("", l).strip() for l in content_lines):
@@ -471,14 +474,22 @@ def _validate_durchens(body, notes, items):
     placed = 0
     for mk in marks:
         label, where = mk["label"], mk["where"]
+        k = durchen.kind(label)
+        if k is None:
+            items.append(("ERROR",
+                f"{where}: footnote [^{label}] — label must be [^dN] (durchen) or [^nN] (note)"))
+            continue
         if label in seen:
             items.append(("WARN",
-                f"{where}: footnote [^{label}] is marked more than once — one durchen for each"))
+                f"{where}: footnote [^{label}] is marked more than once"
+                + (" — one durchen for each" if k != durchen.NOTE else "")))
         seen.add(label)
         note = notes.get(label)
         if note is None:
             items.append(("ERROR", f"{where}: footnote [^{label}] has no definition"))
             continue
+        if k == durchen.NOTE:
+            continue  # a generic note: not sent, so no span to place
         if mk["pos"] is None or not note["text"]:
             continue
         start, end, how = durchen.locate(content, mk["pos"], note["text"])
@@ -500,9 +511,18 @@ def _validate_durchens(body, notes, items):
         if label not in seen:
             items.append(("WARN",
                 f"footnote [^{label}] (line {note['line']}) is defined but never marked in the "
-                f"text — no durchen"))
+                f"text" + (" — no durchen" if durchen.is_durchen(label) else "")))
+    for msg in durchen.layout_problems([mk["label"] for mk in marks], notes):
+        items.append(("WARN", msg))
+    generic = [l for l in notes if durchen.kind(l) == durchen.NOTE]
+    legacy = [l for l in notes if durchen.kind(l) == durchen.LEGACY]
     if notes or marks:
-        items.append(("INFO", f"durchens: {placed} from {len(notes)} footnote definition(s)"))
+        items.append(("INFO", f"durchens: {placed} from {len(notes) - len(generic)} durchen "
+                              f"definition(s); generic notes: {len(generic)} (not sent — no note "
+                              f"endpoint yet)"))
+    if legacy:
+        items.append(("INFO", f"{len(legacy)} footnote(s) still use the old bare label [^N], read "
+                              f"as durchens — relabel them to [^dN] / [^nN]"))
 
 
 def _extract_headers(body):

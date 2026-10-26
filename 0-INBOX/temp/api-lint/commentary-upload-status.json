@@ -41433,7 +41433,7 @@
  },
  "Di_3CEo_.toc": {
   "date": "2026-10-14",
-  "durchen_count": 1713,
+  "durchen_count": 1710,
   "durchen_ids": [
    "kgvMJmB6vKwMGcL5v0hJL",
    "4Btg4sZjF4p53wCrPWRcv",
@@ -41859,7 +41859,6 @@
    "9Uol4E8uT04yDfGAX9vHw",
    "GALUD9hWIIVSIGeuN2N3O",
    "AJTXPuQHw81D2o7a0YplV",
-   "g4ZY9Hklco8GoTsEveP4I",
    "uBQWnDHC5CD9t5xDAs3bi",
    "5i9KyfyZpztkzmE4xOk4Q",
    "MwnZDlfNN5FTZF8L1vzIE",
@@ -41947,7 +41946,6 @@
    "alEai56yoW4iGkbzvkoEP",
    "t8eQztWQT2wZ7AR5FM619",
    "vcjY9hHeQfRHODlkvVIac",
-   "ZLcMDBsyZx7hFHcPwoQrz",
    "Pw0yM3uSybSURkHtnL4Mf",
    "mnJDK40qzEGGZC8hBHnus",
    "1dcVxF2SGbJXyKD9KQNvO",
@@ -42748,7 +42746,6 @@
    "lzrX1GI832Tm19cITZzRM",
    "bHx9sGsxnblSzbGkzAyZI",
    "RrqAMqK4q12xFbfnSsX8y",
-   "tnkEpvEtPQVkClfM93nwu",
    "Eirn8XpFXJGrRbsWG78yA",
    "xL0WVvOiBqH0PrSO3sRX7",
    "gwqmqRaFkgs7PK5eQDX0T",
@@ -43168,6 +43165,15 @@
    {
     "step": "durchens",
     "ts": "2026-10-14T15:06:53"
+   },
+   {
+    "ids": [
+     "ZLcMDBsyZx7hFHcPwoQrz",
+     "g4ZY9Hklco8GoTsEveP4I",
+     "tnkEpvEtPQVkClfM93nwu"
+    ],
+    "step": "durchens deleted",
+    "why": "generic notes, now [^nN]; no note endpoint yet"
    }
   ],
   "status": "uploaded",
@@ -43177,7 +43183,7 @@
  },
  "Di_3CEr_.toc": {
   "date": "2026-10-14",
-  "durchen_count": 1657,
+  "durchen_count": 1656,
   "durchen_ids": [
    "WlWqTWP7LsFlR1cNRVTuX",
    "1rY9z7Ou0jDTUPbyJ48tl",
@@ -44834,8 +44840,7 @@
    "fQqJLbKmAgZ6f1rrWXTjR",
    "BAm2MEzBi7Bnu5Kx1WjFw",
    "uw6Xi40sIh2atr32Q74Z3",
-   "9LoPN4qE7wrCbkSnTv8tE",
-   "0G02D6gYiPQMuIVbfCaxQ"
+   "9LoPN4qE7wrCbkSnTv8tE"
   ],
   "edition_id": "pnP1QAbroXQfvTiFYZwy6",
   "log": [
@@ -44856,6 +44861,13 @@
    {
     "step": "durchens",
     "ts": "2026-10-14T12:54:48"
+   },
+   {
+    "ids": [
+     "0G02D6gYiPQMuIVbfCaxQ"
+    ],
+    "step": "durchens deleted",
+    "why": "generic notes, now [^nN]; no note endpoint yet"
    }
   ],
   "status": "uploaded",
@@ -74023,7 +74035,7 @@
  },
  "Ha_3CFM.toc": {
   "date": "2026-10-14",
-  "durchen_count": 1183,
+  "durchen_count": 1182,
   "durchen_ids": [
    "MgngZPQKf7pjQP1iQ5LMs",
    "HVGH7h1Sn4p5Tp6Vq87LD",
@@ -75206,8 +75218,7 @@
    "zrGAQ3bIn9mEUK7oGGgq6",
    "zUCVwnDNLQQ5Tqumf4jdc",
    "qptjFMaui7W3eYADSwNJH",
-   "phs2NRt5DyeoPifKVFydv",
-   "qL9gkI5ojLpDTUlO2sl5D"
+   "phs2NRt5DyeoPifKVFydv"
   ],
   "edition_id": "60EVv4yV6jIUJc28EJMmC",
   "log": [
@@ -75228,6 +75239,13 @@
    {
     "step": "durchens",
     "ts": "2026-10-14T15:58:59"
+   },
+   {
+    "ids": [
+     "qL9gkI5ojLpDTUlO2sl5D"
+    ],
+    "step": "durchens deleted",
+    "why": "generic notes, now [^nN]; no note endpoint yet"
    }
   ],
   "status": "uploaded",
@@ -100566,7 +100584,7 @@
  },
  "Sh_3CDC.toc": {
   "date": "2026-10-14",
-  "durchen_count": 331,
+  "durchen_count": 330,
   "durchen_ids": [
    "mQ7BVSoP9iAlltZ5B8OMJ",
    "f9r77w6lqeKCT38mxheqb",
@@ -100685,7 +100703,6 @@
    "AVotTSEgRKImHXziMq6Yk",
    "FyvNBADJ2Ak6tqT8znPNh",
    "h2nhji1A53PsoCxb8OHHM",
-   "DrgMnX7XyuXVcGqPT1hDR",
    "OPVnqVMJWWmenafN9ARKk",
    "pqGFkuLiFznzt3hbqzdKk",
    "imr5WDMa8rSZKTvfM4iwG",
@@ -100919,6 +100936,13 @@
    {
     "step": "durchens",
     "ts": "2026-10-14T13:00:16"
+   },
+   {
+    "ids": [
+     "DrgMnX7XyuXVcGqPT1hDR"
+    ],
+    "step": "durchens deleted",
+    "why": "generic notes, now [^nN]; no note endpoint yet"
    }
   ],
   "status": "uploaded",
@@ -110952,7 +110976,7 @@
  },
  "Va_3CEA.toc": {
   "date": "2026-10-14",
-  "durchen_count": 2620,
+  "durchen_count": 2615,
   "durchen_ids": [
    "NiyIsvxgScN1UaIcI1Nzu",
    "pFJf8Rfh1bbc8khrwSn1C",
@@ -111728,7 +111752,6 @@
    "1iMPN6ca5nAWyZkf9IGHQ",
    "BwMGgRCugwK1AtpOCzWY1",
    "iXzmR90mKyjjA8sJXgfAl",
-   "wsaHTnn04VH4x48tDz3PI",
    "2jFeMg3NStB07ekt7uMym",
    "5hDkjNHMuLxzdWFF5cQp6",
    "mua2PziHPF3xLCJgj3EFd",
@@ -112010,7 +112033,6 @@
    "1DfXNztJCKdrkz9OtK7Jg",
    "lZTwYFDMEVT5LqATfl0Yf",
    "Y1hKOpqPDxO5bQkuXQBiP",
-   "B83pqs7Qp3oB16BzgbbIP",
    "z4IvJrAmcuw4FkI6ZEcAS",
    "6XcGwPVsxGB32xOv4lVxz",
    "yhsmLkUZbGvoXTaSjxVfI",
@@ -112116,7 +112138,6 @@
    "WQ5vrgj9b0cQPlgUW5k2W",
    "V9YklrtLc7j55jXD1V5Hf",
    "qfDwbOS4G2aXK0W93mp79",
-   "yaVNYAaUgH37V4EUuXtaQ",
    "cwxv1EwWqTZ7wRJuIE6o1",
    "SE4HhLdDugDOrEiJGnPaF",
    "Btn72PJB2GdHWYv6DtEx0",
@@ -112216,7 +112237,6 @@
    "5RQf3uhi8GZHVBB3z2VjB",
    "Evk8wyXPewxuhfnGyTTBq",
    "ccVh5auk8anihDiP7gmjR",
-   "wdVRBCxnLmXKEDz1Wa394",
    "Uj3lBk1Z6xuP530lxajNN",
    "YXqWkgId6gZw1DEi8KLE6",
    "96GZCDl5zwLbgcJO8KI9O",
@@ -113153,7 +113173,6 @@
    "XWDEbAaDCb9zr6GNnFVsx",
    "9nNv5RAeC8HI105k5CRbU",
    "h1QwTFAZWhZwOCzEDvq4O",
-   "RGVMX2XB0ZCgsqEC2G1Yf",
    "kyHFIx74SB6DhokYVKVsE",
    "JntnZ7Salf3Iovtpy05Uh",
    "TTVyfasuiUJy8kLVox7Fn",
@@ -113594,6 +113613,17 @@
    {
     "step": "durchens",
     "ts": "2026-10-14T15:59:46"
+   },
+   {
+    "ids": [
+     "B83pqs7Qp3oB16BzgbbIP",
+     "RGVMX2XB0ZCgsqEC2G1Yf",
+     "wdVRBCxnLmXKEDz1Wa394",
+     "wsaHTnn04VH4x48tDz3PI",
+     "yaVNYAaUgH37V4EUuXtaQ"
+    ],
+    "step": "durchens deleted",
+    "why": "generic notes, now [^nN]; no note endpoint yet"
    }
   ],
   "status": "uploaded",
@@ -127940,7 +127970,7 @@
  },
  "Va_3CEK": {
   "date": "2026-10-18",
-  "durchen_count": 3605,
+  "durchen_count": 3604,
   "durchen_ids": [
    "vUQPAlvemQDDeaxN7scYS",
    "k1iMZXlh7h1TAga51vFbR",
@@ -129568,7 +129598,6 @@
    "eCyEh6R5J2x2LksVSq9CF",
    "Nlgs2KUJfk0qjs5rvKzEM",
    "zjQIo4eAOx51UWmpkHEAn",
-   "B1pGcpfzPLSuSbAYxF1Wt",
    "SiMi1XtvniaHg9ok4TNa5",
    "uYzqXbSyAA8Hx6NXhb901",
    "eERxJ2qgUzCYrHJcT6Spz",
@@ -131567,6 +131596,13 @@
    {
     "step": "durchens",
     "ts": "2026-10-18T18:53:13"
+   },
+   {
+    "ids": [
+     "B1pGcpfzPLSuSbAYxF1Wt"
+    ],
+    "step": "durchens deleted",
+    "why": "generic notes, now [^nN]; no note endpoint yet"
    }
   ],
   "status": "uploaded",

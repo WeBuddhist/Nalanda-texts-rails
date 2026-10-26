@@ -357,7 +357,7 @@ def _block_marks(lines):
 
 
 def _warn_lost_marks(block_num, lines, why, dropped):
-    labels = _block_marks(lines)
+    labels = [l for l in _block_marks(lines) if durchen.is_durchen(l)]
     if labels:
         dropped.update(labels)
         print(
@@ -526,13 +526,21 @@ def _build_content_and_segmentation(blocks, doc_default, notes=None):
 
 def _resolve_durchens(content, marks, notes, dropped):
     """Turn footnote markers into durchens: the note text, over the lemma that
-    ends at the marker (or the syllable before it, with a warning)."""
+    ends at the marker (or the syllable before it, with a warning). Generic
+    notes ([^nN]) have no API endpoint yet: their markers are already out of the
+    content, and they are counted here but not sent."""
     def warn(msg):
         print(f"  WARN {msg}", file=sys.stderr)
 
-    out, seen = [], set()
+    out, seen, generic = [], set(), set()
     for mk in marks:
         label, where = mk["label"], mk["where"]
+        if durchen.kind(label) == durchen.NOTE:
+            generic.add(label)
+            continue
+        if durchen.kind(label) is None:
+            warn(f"{where}: [^{label}] is neither [^dN] (durchen) nor [^nN] (note) — not sent")
+            continue
         note = notes.get(label)
         if label in seen:
             warn(f"{where}: [^{label}] is marked more than once — one durchen for each")
@@ -558,7 +566,11 @@ def _resolve_durchens(content, marks, notes, dropped):
                 f"syllable before it, {content[start:end]!r}"
             )
         out.append({"start": start, "end": end, "text": note["text"], "label": label})
-    unused = [l for l in notes if l not in seen and l not in dropped]
+    if generic:
+        print(f"  NOTE {len(generic)} generic note(s) not sent — no note endpoint yet: "
+              + ", ".join(f"[^{l}]" for l in sorted(generic, key=lambda l: int(l[1:]))),
+              file=sys.stderr)
+    unused = [l for l in notes if l not in seen and l not in dropped and durchen.is_durchen(l)]
     if unused:
         warn(
             f"{len(unused)} footnote definition(s) never marked in the text — no durchen: "

@@ -52,9 +52,30 @@ Every root text in `1-SOURCES/Text/` now uses `[^dN]` / `[^nN]`. Still to fix by
 
 The frontmatter no longer carries `durchen_count`. The upload scripts keep that count in their ledgers only.
 
+### Commentaries: relabelled (2026-10-26)
+
+`linter-commentary` and `parser-commentary` now handle the types the same way as the root-text tools. All 121 commentaries in `1-SOURCES/Commentaries/` were relabelled by content: 120 had footnotes, and none was skipped. Their 139,250 footnotes all carry standard witness sigla, except 12 that became generic notes: A1–A9 (a lemma with no witness and no variant) and C12–C14. The linter's checks, run in memory over every file, report no footnote errors. The one layout warning, Va_3CEK `[^d830]`, sits in a block with no block ID, so the linter skips it, as it did before the relabel. All 6 commentaries with notes are uploaded, so **their 12 note-durchens were deleted from the library**: each was matched by its exact text against the edition's live durchens.
+
+| Ref | File | Old label | Now | Deleted durchen |
+|---|---|---|---|---|
+| A1 | `Di_3CEo_.md` | `[^425]` | `[^n1]` | `g4ZY9Hklco8GoTsEveP4I` |
+| A2 | `Di_3CEo_.md` | `[^513]` | `[^n2]` | `ZLcMDBsyZx7hFHcPwoQrz` |
+| A3 | `Di_3CEo_.md` | `[^1314]` | `[^n3]` | `tnkEpvEtPQVkClfM93nwu` |
+| A4 | `Sh_3CDC.md` | `[^118]` | `[^n1]` | `DrgMnX7XyuXVcGqPT1hDR` |
+| A5 | `Va_3CEA.md` | `[^775]` | `[^n1]` | `wsaHTnn04VH4x48tDz3PI` |
+| A6 | `Va_3CEA.md` | `[^1057]` | `[^n2]` | `B83pqs7Qp3oB16BzgbbIP` |
+| A7 | `Va_3CEA.md` | `[^1163]` | `[^n3]` | `yaVNYAaUgH37V4EUuXtaQ` |
+| A8 | `Va_3CEA.md` | `[^1263]` | `[^n4]` | `wdVRBCxnLmXKEDz1Wa394` |
+| A9 | `Va_3CEA.md` | `[^2200]` | `[^n5]` | `RGVMX2XB0ZCgsqEC2G1Yf` |
+| C12 | `Di_3CEr_.md` | `[^1657]` | `[^n1]` (translator colophon; the text also has a shorter colophon at `^a-2`) | `0G02D6gYiPQMuIVbfCaxQ` |
+| C13 | `Ha_3CFM.md` | `[^1183]` | `[^n1]` (translator verse colophon) | `qL9gkI5ojLpDTUlO2sl5D` |
+| C14 | `Va_3CEK.md` | `[^1627]` | `[^n1]` (editor's remark on the volume split) | `B1pGcpfzPLSuSbAYxF1Wt` |
+
+These notes are **not on the library** until a note endpoint exists. A1–A9 were variant notes that had lost their witness and variant. Restoring them from the Pedurma (see section A below) would turn them back into `[^dN]` durchens. Also still to fix by hand: Gu_3CFW `[^d3016]` is a durchen missing its `༽`.
+
 ### Still open
 
-- **Commentaries.** The commentary tools read `[^dN]` / `[^nN]` labels but still send every footnote as a durchen, and none of the commentaries has been relabelled. A1–A9 (a lemma with no witness) count as generic notes under the "everything else" rule. C12–C14 have new numbers since this report: Di_3CEr_ `[^1657]`, Ha_3CFM `[^1183]`, Va_3CEK `[^1627]`. All six commentaries are uploaded, with these notes sent as durchens.
+- **Commentary payloads.** The files in `4-SYSTEM/scripts/parser-commentary/output/` were not regenerated, so they still include the 12 notes. That only matters if a commentary is uploaded again, and the uploader skips durchens an edition already has. The 5 commentaries not yet uploaded (Bh_3CCN, Ch_3CCe_, Ka_3CDH, Va_3CE4, Va_3CE7) have no notes; they need a fresh lint and parse before upload in any case.
 
 ## Update 2026-10-13: current `1-SOURCES/Text/` (442 root texts)
 
