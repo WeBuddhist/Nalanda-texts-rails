@@ -1,5 +1,42 @@
 # Durchen outliers: footnotes with no `༼…༽` witness
 
+## Update 2026-10-26: footnotes now carry their type: `[^dN]` durchen, `[^nN]` generic note
+
+Footnote labels now say what a footnote is:
+
+| type | marker | definition | what it is |
+|---|---|---|---|
+| durchen | `བཛྲ་ཏཱ་རཱ༌[^d1]` | `[^d1]: ཏཱ་རཱ། ༼པེ། སྣར།༽ ཏཱ་ར།` | a variant reading: the note has witness sigla in `༼…༽` |
+| generic note | `…བསྒྱུར་བའོ[^n1]` | `[^n1]: དཀར་ཆག་གི་ཟུར་མཆན། …` | everything else, for now: editorial remarks, source citations, colophons printed as footnotes |
+
+Each type is numbered 1, 2, 3… in the order its markers appear in the text. At the end of the file the definitions are grouped: d1…dK, a blank line, then n1…nM. A note that sat between durchens leaves the durchen series, and the durchens after it are renumbered.
+
+**Generic notes are not uploaded.** The API has no endpoint for them yet, so the parser has no support for sending them. It removes their markers from the edition content, sends nothing, and logs `NOTE n generic note(s) not sent — no note endpoint yet`. The linter only checks that each note has a definition, with no lemma or span check, so C7 is no longer an error. The old bare label `[^N]` is still read as a durchen until every source is relabelled. The tools: `durchen.py` (all four copies), `linter-root-text/validate.py`, `parser-root-text/parser.py`. The relabelling script: `4-SYSTEM/scripts/footnote-labels/relabel_footnotes.py`.
+
+### The 12 root texts: relabelled, released from hold, uploaded (2026-10-26)
+
+| Ref | File | Old label | Now | Uploaded |
+|---|---|---|---|---|
+| B1 | `Na_3CAN.md` | `[^75]` | `[^d75]`, a durchen. The missing `༼` was restored before relabelling | as a durchen |
+| C1 | `Ch_3CCU.md` | `[^1]` | `[^n1]` generic note | **no**, not sent |
+| C2 | `Na_3C9x_.md` | `[^1]` | `[^n1]` | **no** |
+| C3 | `Na_3C9y_.md` | `[^2]` | `[^n1]` | **no** |
+| C4 | `Sh_3CCh_.md` | `[^1]` | `[^n1]` | **no** |
+| C5 | `Sh_3CCi_.md` | `[^2]` | `[^n1]` | **no** |
+| C6 | `Na_3C9s_.md` | `[^1]` | `[^n1]` | **no** |
+| C7 | `Ch_3CCV.md` | `[^1]` | `[^n1]`; the durchens after it moved up from `[^2]`…`[^19]` to `[^d1]`…`[^d18]` | **no** (the linter error is gone) |
+| C8 | `Dh_3CF3.md` | `[^40]` | `[^n1]` | **no** |
+| C9 | `Sh_3CD6.md` | `[^1]` | `[^n1]` | **no** |
+| C10 | `Sh_3CD7.md` | `[^1]` | `[^n1]` | **no** |
+| C11 | `At_3CHK.md` | `[^3806]` | `[^n1]`: the 26-line colophon is **not on the library** until a note endpoint exists | **no** |
+
+All other footnotes in these files became `[^dN]` and were uploaded as durchens. The texts themselves are uploaded (see `API-LINT-BATCH.md`).
+
+### Still open
+
+- **The other root texts** still use bare `[^N]` and are being relabelled next. A survey of all 77,983 root-text footnotes found 9 more generic notes, in texts that are **already uploaded, where they were sent as durchens**: `Ar_3CBf_ [^12]`, `Ar_3CC7 [^26] [^27]`, `Ar_3CC8 [^1]`, `Ar_3CC9 [^1]`, `Ar_3CCA [^1]`, `Ar_3CCB [^1]`, `Di_3CEj_ [^1]`, `Sh_3CCu_ [^1]`. All of them are catalogue or source citations; their `༼…༽` holds a volume letter or number, not a witness. Their durchens will have to be removed from the library once they are relabelled `[^nN]`. Two smaller points: `At_3CGI [^2]` is a durchen missing its `༽`, and `Ar_3CBa_` already has a hand-made `[^d1]` / `[^n1]` test whose `[^n1]` is really a durchen.
+- **Commentaries.** The commentary tools read `[^dN]` / `[^nN]` labels but still send every footnote as a durchen, and none of the commentaries has been relabelled. A1–A9 (a lemma with no witness) count as generic notes under the "everything else" rule. C12–C14 have new numbers since this report: Di_3CEr_ `[^1657]`, Ha_3CFM `[^1183]`, Va_3CEK `[^1627]`. All six commentaries are uploaded, with these notes sent as durchens.
+
 ## Update 2026-10-13: current `1-SOURCES/Text/` (442 root texts)
 
 `1-SOURCES/Text/` was replaced by the processed root texts, which have frontmatter, block IDs and headings, so **the line numbers further down are out of date**. The current state:

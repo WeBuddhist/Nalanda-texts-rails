@@ -14,3 +14,4 @@ Copied byte-identical, without upstream's `output/` folder. Every later commit h
 ## Local changes
 
 - 2026-10-12: **durchens** (variant readings written as footnotes `[^n]`). Added `durchen.py`, shared by all four tools. The linter takes footnote definitions out before the block-ID check, which used to fail on them, and checks each marker against its definition and lemma. Not Nalanda-specific: offer it back to 21-taras-rails.
+- 2026-10-26: **footnote types.** Labels say what a footnote is: [^dN] durchen, [^nN] generic note; a bare [^N] is still read as a durchen (INFO asks to relabel). A generic note is only checked for a definition (no lemma or span), an unknown label is an ERROR, and durchen.layout_problems() warns when the numbering or the d…/n… grouping of the definitions is off.

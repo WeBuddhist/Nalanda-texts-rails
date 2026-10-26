@@ -1,0 +1,41 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Ch_3CCV.md",
+  "validated_at": "2026-10-26T07:55:43.102072+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 18 from 18 durchen definition(s); generic notes: 1 (not sent — no note endpoint yet)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "segment 26 (^1-21): footnote [^d17] lemma '།། །།།༄༅༅། །' does not end at the marker — the durchen will span the syllable before it, '༄༅༅། །'",
+    "author 'Candrakīrti I': no BDRC or OP id provided (add [bdrc:ID] or [op:ID]) — skipped"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT1551",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཐུགས་རྗེ་ཆེན་པོ་ལ་སྨྲེ་སྔགས་ཀྱིས་བསྟོད་པ་བྱིན་རླབས་ཅན།"
+    },
+    "alt_titles": [
+      {
+        "bo": "ཐུགས་རྗེ་ཆེན་པོ་ལ་སྨྲེ་སྣགས་ཀྱིས་བསྟོད་པ་བྱིན་རླབས་ཅན།"
+      },
+      {
+        "bo": "ཐུགས་རྗེ་ཆེན་པོའི་གསོལ་འདེབས།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

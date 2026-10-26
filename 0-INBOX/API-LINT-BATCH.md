@@ -2,7 +2,7 @@
 
 Runs `linter-root-text` then `parser-root-text` on every root text in `1-SOURCES/Text/`. How to run: the docstring of `0-INBOX/temp/api-lint/run_lint_batch.py`.
 
-Updated 2026-10-26 · 442 texts (small 358 · medium 60 · large 24) · done 429 · failed 0 · **held 18** · to do 0 · **uploaded 424**
+Updated 2026-10-26 · 442 texts (small 358 · medium 60 · large 24) · done 441 · failed 0 · **held 6** · to do 0 · **uploaded 436**
 
 | What | Path |
 |---|---|
@@ -173,7 +173,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 150 | At_3CHH | small | 21,163 | done | OK | 0 | 2 | 0 | OK | 45 | 91 | 13 | no | uploaded | nW13iRrxE99HxkoVeWi0f | ✓ | ✓ | 91/91 |  |  |
 | 151 | At_3CHI | small | 7,953 | done | OK | 0 | 1 | 0 | OK | 62 | 31 | 5 | no | uploaded | goX1QGRHwWXJ8l9btguGU | ✓ | ✓ | 31/31 |  |  |
 | 152 | At_3CHJ | small | 2,239 | done | OK | 0 | 1 | 0 | OK | 13 | 5 | 5 | no | uploaded | BVYEiQ5NeZYcI9NzdcPej | ✓ | ✓ | 5/5 |  |  |
-| 153 | At_3CHK | large | 815,345 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^3806] colophon verses as a footnote (C11) |
+| 153 | At_3CHK | large | 823,073 | done | OK | 0 | 3 | 1 | OK | 1575 | 3805 | 31 | no | uploaded | nJvofhnxmVSGqPI6qx3OT | ✓ | ✓ | 3805/3805 |  |  |
 | 154 | At_3CHL | medium | 71,992 | done | OK | 0 | 1 | 0 | OK | 420 | 276 | 14 | no | uploaded | 80TBlQ74VgC0EKWhzXIyX | ✓ | ✓ | 276/276 |  | retitled (see Retitled) |
 | 155 | At_3CHM | small | 5,822 | done | OK | 0 | 1 | 0 | OK | 24 | 27 | 8 | no | uploaded | obCsnBreIKkrPqBdkFZmI | ✓ | ✓ | 27/27 |  |  |
 | 156 | At_3CHN | small | 4,079 | done | OK | 0 | 3 | 1 | OK | 7 | 11 | 5 | no | uploaded | D7fdkR3HBna7QsYh9UdpS | ✓ | ✓ | 11/11 |  |  |
@@ -233,8 +233,8 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 210 | Ch_3CCP | small | 2,541 | done | OK | 0 | 2 | 0 | OK | 12 | 5 | 5 | no | uploaded | 9f5EERECqUI3Ntje1bHHO | ✓ | ✓ | 5/5 |  |  |
 | 211 | Ch_3CCR | medium | 34,468 | done | OK | 0 | 1 | 0 | OK | 131 | 105 | 9 | no | uploaded | EYqawxIsIeS56UOaKB7xs | ✓ | ✓ | 105/105 |  |  |
 | 212 | Ch_3CCS | small | 6,732 | done | OK | 0 | 1 | 0 | OK | 21 | 24 | 9 | no | uploaded | Yr26Oeg7fRct1vD5FpTXw | ✓ | ✓ | 24/24 |  |  |
-| 213 | Ch_3CCU | small | 1,374 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] compiler's note, no ༼…༽ (C1) · retitled (see Retitled) |
-| 214 | Ch_3CCV | small | 8,189 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] title note after the heading — linter ERROR (C7) |
+| 213 | Ch_3CCU | small | 1,494 | done | OK | 0 | 1 | 0 | OK | 5 | 0 | 2 | no | uploaded | xeFFei4oAvczmFMylI7xG | ✓ | ✓ | 0/0 |  | retitled (see Retitled) |
+| 214 | Ch_3CCV | small | 8,345 | done | OK | 0 | 2 | 1 | OK | 27 | 18 | 5 | no | uploaded | IARirxx6epVNpdmThpEW0 | ✓ | ✓ | 18/18 |  |  |
 | 215 | Ch_3CCX | medium | 101,894 | done | OK | 0 | 1 | 0 | OK | 233 | 318 | 8 | no | uploaded | ACmWFR7EOLCyAS2PEAEyV | ✓ | ✓ | 318/318 |  | retitled (see Retitled) |
 | 216 | Ch_3CCZ | small | 10,801 | done | OK | 0 | 2 | 0 | OK | 72 | 25 | 6 | no | uploaded | FupDtWCtILwxJ1Mdzeiwf | ✓ | ✓ | 25/25 |  |  |
 | 217 | Ch_3CCc_ | medium | 57,368 | done | OK | 0 | 2 | 0 | OK | 335 | 7 | 14 | no | uploaded | Vsd56G9qyrX3J7swTYgDK | ✓ | ✓ | 7/7 |  |  |
@@ -244,7 +244,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 221 | Dh_3CF0 | small | 7,309 | done | OK | 0 | 1 | 0 | OK | 8 | 23 | 6 | no | uploaded | yYBc1qr9qZTxYwcQPjQVD | ✓ | ✓ | 23/23 |  |  |
 | 222 | Dh_3CF1 | small | 2,190 | done | OK | 0 | 1 | 0 | OK | 10 | 2 | 4 | no | uploaded | eMLnKHsf69MXpKFJNlLTt | ✓ | ✓ | 2/2 |  |  |
 | 223 | Dh_3CF2 | medium | 84,487 | done | OK | 0 | 1 | 0 | OK | 251 | 429 | 20 | no | uploaded | tmOIAbbaEbQYSNiBi1nuR | ✓ | ✓ | 429/429 |  |  |
-| 224 | Dh_3CF3 | small | 9,296 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^40] bibliographic citation (C8) |
+| 224 | Dh_3CF3 | small | 9,494 | done | OK | 0 | 6 | 4 | OK | 22 | 39 | 5 | no | uploaded | NVA95UKB5DSvHvwIV5Qcw | ✓ | ✓ | 39/39 |  |  |
 | 225 | Dh_3CF5 | large | 228,422 | done | OK | 0 | 3 | 2 | OK | 1182 | 1068 | 8 | no | uploaded | xNRsZOBmR1HcMH4im8i1a | ✓ | ✓ | 1068/1068 |  |  |
 | 226 | Dh_3CF6 | large | 329,923 | done | OK | 0 | 1 | 0 | OK | 947 | 1951 | 8 | no | uploaded | rjtZldlRYAt0IsZbygK9L | ✓ | ✓ | 1951/1951 |  |  |
 | 227 | Dh_3CF7 | medium | 32,074 | done | OK | 0 | 1 | 0 | OK | 75 | 206 | 7 | no | uploaded | YS7pmQGI3dnobFzBMXDn2 | ✓ | ✓ | 206/206 |  |  |
@@ -328,13 +328,13 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 305 | Na_3C9o_ | small | 7,038 | done | OK | 0 | 2 | 0 | OK | 31 | 34 | 10 | no | uploaded | rgptoTET50iGM7n7gX4kA | ✓ | ✓ | 34/34 |  |  |
 | 306 | Na_3C9p_ | small | 5,169 | done | OK | 0 | 2 | 0 | OK | 28 | 21 | 6 | no | uploaded | r5l3pI0EL27hpQS9rhwfE | ✓ | ✓ | 21/21 |  |  |
 | 307 | Na_3C9r_ | small | 10,348 | done | OK | 0 | 2 | 0 | OK | 24 | 38 | 9 | no | uploaded | eNS7bFVkFx1r0SxaqzsU6 | ✓ | ✓ | 38/38 |  |  |
-| 308 | Na_3C9s_ | small | 1,619 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] catalogue side note (C6) |
+| 308 | Na_3C9s_ | small | 1,739 | done | OK | 0 | 1 | 0 | OK | 6 | 0 | 4 | no | uploaded | s4d2WnQRVeqnWTv9ONUGG | ✓ | ✓ | 0/0 |  |  |
 | 309 | Na_3C9t_ | small | 3,571 | done | OK | 0 | 2 | 0 | OK | 22 | 6 | 6 | no | uploaded | cS9mwX4QWwT92JPwc1uVp | ✓ | ✓ | 6/6 |  |  |
 | 310 | Na_3C9u_ | small | 19,637 | done | OK | 0 | 1 | 0 | OK | 50 | 97 | 17 | no | uploaded | s3nfzJckVsSrsZWfTWdKe | ✓ | ✓ | 97/97 |  |  |
 | 311 | Na_3C9v_ | small | 1,494 | done | OK | 0 | 2 | 0 | OK | 5 | 2 | 2 | no | uploaded | GaYehLC3WjCIamOgeXN4P | ✓ | ✓ | 2/2 |  |  |
 | 312 | Na_3C9w_ | small | 2,484 | done | OK | 0 | 1 | 0 | OK | 10 | 4 | 5 | no | uploaded | dKW3tuIsjTY4TqV7vEuup | ✓ | ✓ | 4/4 |  |  |
-| 313 | Na_3C9x_ | small | 1,402 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] compiler's note, no ༼…༽ (C2) · retitled (see Retitled) |
-| 314 | Na_3C9y_ | small | 1,836 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^2] compiler's note, no ༼…༽ (C3) · retitled (see Retitled) |
+| 313 | Na_3C9x_ | small | 1,522 | done | OK | 0 | 1 | 0 | OK | 6 | 0 | 2 | no | uploaded | xVc3EB0CLiUxIDOsqyI6v | ✓ | ✓ | 0/0 |  | retitled (see Retitled) |
+| 314 | Na_3C9y_ | small | 1,959 | done | OK | 0 | 1 | 0 | OK | 7 | 1 | 3 | no | uploaded | 0mxQKp3McvNB51Ldwx1a2 | ✓ | ✓ | 1/1 |  | retitled (see Retitled) |
 | 315 | Na_3C9z_ | small | 7,576 | done | OK | 0 | 1 | 0 | OK | 46 | 2 | 9 | no | uploaded | eX4kWdrrLm2L6KREWxnVa | ✓ | ✓ | 2/2 |  |  |
 | 316 | Na_3CA0 | small | 1,445 | done | OK | 0 | 1 | 0 | OK | 5 | 2 | 2 | no | uploaded | Sq3XMPkcjK57FVl6tO1eT | ✓ | ✓ | 2/2 |  |  |
 | 317 | Na_3CA1 | small | 1,106 | done | OK | 0 | 2 | 0 | OK | 6 | 1 | 2 | no | uploaded | EnUSEa5YsXGFMF1t6Xq8e | ✓ | ✓ | 1/1 |  |  |
@@ -358,7 +358,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 335 | Na_3CAK | small | 1,927 | done | OK | 0 | 2 | 0 | OK | 4 | 8 | 4 | no | uploaded | uyEjZujT3mjrgAoIapzYK | ✓ | ✓ | 8/8 |  |  |
 | 336 | Na_3CAL | small | 2,410 | done | OK | 0 | 1 | 0 | OK | 6 | 12 | 5 | no | uploaded | C4DUt5euqPDs5zbJAqKMf | ✓ | ✓ | 12/12 |  |  |
 | 337 | Na_3CAM | small | 8,764 | done | OK | 0 | 1 | 0 | OK | 22 | 75 | 6 | no | uploaded | Uai66Nno1fSD3idavHOXQ | ✓ | ✓ | 75/75 |  |  |
-| 338 | Na_3CAN | small | 12,073 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^75] missing ༼ (B1) · retitled (see Retitled) |
+| 338 | Na_3CAN | small | 12,407 | done | OK | 0 | 14 | 13 | OK | 36 | 107 | 4 | no | uploaded | KyzK88hXyOfRnpAonPa6G | ✓ | ✓ | 107/107 |  | retitled (see Retitled) |
 | 339 | Na_3CAO | small | 11,290 | done | OK | 0 | 6 | 5 | OK | 43 | 59 | 4 | no | uploaded | A5uH9IYHyQhgzgoxMwHpq | ✓ | ✓ | 59/59 |  | retitled (see Retitled) |
 | 340 | Na_3CAP | small | 4,329 | done | OK | 0 | 1 | 0 | OK | 12 | 11 | 5 | no | uploaded | Bl9EjJ77oqRGiywcgzorP | ✓ | ✓ | 11/11 |  | retitled (see Retitled) |
 | 341 | Na_3CAQ | small | 8,588 | done | OK | 0 | 1 | 0 | OK | 24 | 62 | 10 | no | uploaded | hmSoogOyoLhbEmB0BKRyp | ✓ | ✓ | 62/62 |  |  |
@@ -420,8 +420,8 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 397 | Na_3CBX | small | 8,415 | done | OK | 0 | 2 | 0 | OK | 34 | 41 | 5 | no | uploaded | 8YqIMkwXmkq6UYrZ1MXWe | ✓ | ✓ | 41/41 |  |  |
 | 398 | Na_3CBY | small | 27,704 | done | OK | 0 | 1 | 0 | OK | 169 | 85 | 5 | no | uploaded | 4sgNlcpfpGX6p6uZusu5R | ✓ | ✓ | 85/85 |  |  |
 | 399 | Na_3CBZ | small | 6,775 | done | OK | 0 | 1 | 0 | OK | 17 | 11 | 5 | no | uploaded | uZCi9u874IVcrBmEdaWLH | ✓ | ✓ | 11/11 |  |  |
-| 400 | Sh_3CCh_ | small | 1,365 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] compiler's note, no ༼…༽ (C4) · retitled (see Retitled) |
-| 401 | Sh_3CCi_ | small | 1,719 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^2] compiler's note, no ༼…༽ (C5) · retitled (see Retitled) |
+| 400 | Sh_3CCh_ | small | 1,485 | done | OK | 0 | 1 | 0 | OK | 6 | 0 | 2 | no | uploaded | Bnsq3egJ0pKzFV9rONUzG | ✓ | ✓ | 0/0 |  | retitled (see Retitled) |
+| 401 | Sh_3CCi_ | small | 1,842 | done | OK | 0 | 1 | 0 | OK | 6 | 1 | 2 | no | uploaded | qDWOuHPTuSTXvUlWj5u16 | ✓ | ✓ | 1/1 |  | retitled (see Retitled) |
 | 402 | Sh_3CCj_ | small | 1,926 | done | OK | 0 | 2 | 0 | OK | 8 | 5 | 6 | no | uploaded | LcCZ4LagU8OW8EgswLRU9 | ✓ | ✓ | 5/5 |  |  |
 | 403 | Sh_3CCl_ | small | 1,671 | done | OK | 0 | 2 | 0 | OK | 7 | 1 | 5 | no | uploaded | MI7RltmRpWofsM5IXXgoo | ✓ | ✓ | 1/1 |  |  |
 | 404 | Sh_3CCm_ | medium | 159,730 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | held by request (2026-10-13) |
@@ -441,8 +441,8 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 418 | Sh_3CD3 | medium | 105,605 | done | OK | 0 | 1 | 0 | OK | 147 | 341 | 10 | no | uploaded | EoWG5t2TxpWnh0oI8SAI9 | ✓ | ✓ | 341/341 |  |  |
 | 419 | Sh_3CD4 | medium | 78,391 | done | OK | 0 | 1 | 0 | OK | 138 | 265 | 12 | no | uploaded | lnjdvnw1qGlrLEI4LTNm1 | ✓ | ✓ | 265/265 |  |  |
 | 420 | Sh_3CD5 | small | 22,921 | done | OK | 0 | 2 | 0 | OK | 33 | 67 | 8 | no | uploaded | yMY2JjoVmjn30v1UXAy1I | ✓ | ✓ | 67/67 |  |  |
-| 421 | Sh_3CD6 | medium | 80,932 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] source edition citation (C9) |
-| 422 | Sh_3CD7 | medium | 61,215 | **held** |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | durchen outlier: [^1] source edition citation (C10) |
+| 421 | Sh_3CD6 | medium | 81,052 | done | OK | 0 | 1 | 0 | OK | 113 | 0 | 6 | no | uploaded | M5kHkS8kCivAjA17OUvms | ✓ | ✓ | 0/0 |  |  |
+| 422 | Sh_3CD7 | medium | 61,335 | done | OK | 0 | 1 | 0 | OK | 110 | 0 | 6 | no | uploaded | IufLPPxqlU9h3aAsonMx0 | ✓ | ✓ | 0/0 |  |  |
 | 423 | Sh_3CD8 | medium | 48,431 | done | OK | 0 | 2 | 0 | OK | 118 | 166 | 6 | no | uploaded | IzOQAnt6OEN9n32H5k3SD | ✓ | ✓ | 166/166 |  |  |
 | 424 | Sh_3CDA | small | 15,187 | done | OK | 0 | 1 | 0 | OK | 100 | 49 | 6 | no | uploaded | 1AQvtom61Uu3yhxNJZdzB | ✓ | ✓ | 49/49 |  |  |
 | 425 | Sh_3CDE | large | 565,840 | done | OK | 0 | 2 | 1 | OK | 3381 | 2663 | 35 | no | uploaded | ZXnSIFwTdHCQtMXw6ExUa | ✓ | ✓ | 2663/2663 |  |  |
@@ -478,21 +478,9 @@ Listed in `0-INBOX/temp/api-lint/holds.json`; remove a text there to release it.
 |---|---|
 | At_3CFp_ | duplicate of At_3CFl_ (uploaded): identical main text and footnotes; same BDRC WA0RT4268, same volume (Book 98) |
 | At_3CGa_ | duplicate of At_3CGQ (uploaded): identical main text and footnotes (one verse is split over three lines instead of one); same BDRC WA0RT2596, same volume (Book 98) |
-| At_3CHK | durchen outlier: [^3806] colophon verses as a footnote (C11) |
 | Bh_3CCO | duplicate of Bh_3CCJ (uploaded): identical text and footnotes except one editorial heading (དམ་པའི་དོན། vs དོན་དམ།); same BDRC WA0RT3202; printed in Book 34 ཆ and Book 31 ག |
-| Ch_3CCU | durchen outlier: [^1] compiler's note, no ༼…༽ (C1) |
-| Ch_3CCV | durchen outlier: [^1] title note after the heading — linter ERROR (C7) |
-| Dh_3CF3 | durchen outlier: [^40] bibliographic citation (C8) |
 | Na_3C9S | near-duplicate of Ar_3CBf_ (uploaded): same translation, edited separately; see source_description |
-| Na_3C9s_ | durchen outlier: [^1] catalogue side note (C6) |
-| Na_3C9x_ | durchen outlier: [^1] compiler's note, no ༼…༽ (C2) |
-| Na_3C9y_ | durchen outlier: [^2] compiler's note, no ༼…༽ (C3) |
-| Na_3CAN | durchen outlier: [^75] missing ༼ (B1) |
-| Sh_3CCh_ | durchen outlier: [^1] compiler's note, no ༼…༽ (C4) |
-| Sh_3CCi_ | durchen outlier: [^2] compiler's note, no ༼…༽ (C5) |
 | Sh_3CCm_ | held by request (2026-10-13) |
-| Sh_3CD6 | durchen outlier: [^1] source edition citation (C9) |
-| Sh_3CD7 | durchen outlier: [^1] source edition citation (C10) |
 | Sh_3CFZ | near-duplicate of Na_3CBB (uploaded): same translation, edited separately; see source_description |
 
 ## Retitled

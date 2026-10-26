@@ -7,8 +7,16 @@ tool stays self-contained. Change one copy, copy it to the other three.
 In the source a durchen is a footnote marker placed right after the text it
 annotates, and a definition at the end of the file:
 
-    རྣམ་དག་ཆོས་ཀྱི་དབྱིངས་ལ༌[^1]རོལ་མཛད་ཅིང་། །
-    [^1]: ལ་ ༼སྣར། པེ།༽ ལས་
+    རྣམ་དག་ཆོས་ཀྱི་དབྱིངས་ལ༌[^d1]རོལ་མཛད་ཅིང་། །
+    [^d1]: ལ་ ༼སྣར། པེ།༽ ལས་
+
+The label says what a footnote is (see kind()): [^dN] is a durchen, [^nN] a
+generic note (an editorial remark, a source citation, a colophon printed as a
+footnote). Generic notes have no API endpoint yet: the tools check them and
+strip their markers from the content, but send nothing. A bare number [^N] is
+the old form and is still read as a durchen until the sources are relabelled.
+At the end of the file the durchen definitions come first, d1…dK in marker
+order, then the generic notes, n1…nM.
 
 The note reads "<lemma> ༼<witness sigla>༽ <variant>": the lemma is the base
 reading the note is about. The durchen span is that lemma, found by matching it
@@ -28,6 +36,24 @@ import re
 # like "[^label]" is a marker.
 FOOTNOTE_DEF_RE = re.compile(r"^\[\^([^\]\s]+)\]:[ \t]?(.*?)\s*$")
 FOOTNOTE_MARK_RE = re.compile(r"\[\^([^\]\s]+)\]")
+
+DURCHEN, NOTE, LEGACY = "durchen", "note", "legacy"
+_LABEL_KINDS = ((re.compile(r"d[1-9]\d*"), DURCHEN), (re.compile(r"n[1-9]\d*"), NOTE),
+                (re.compile(r"\d+"), LEGACY))
+
+
+def kind(label):
+    """What a footnote label marks: DURCHEN ([^d1]), NOTE ([^n1]), LEGACY (a bare
+    number, the old form, still read as a durchen), or None for any other label."""
+    for pattern, k in _LABEL_KINDS:
+        if pattern.fullmatch(label):
+            return k
+    return None
+
+
+def is_durchen(label):
+    """True for the labels that become durchens: [^dN] and the old bare [^N]."""
+    return kind(label) in (DURCHEN, LEGACY)
 
 WITNESS_OPEN = "༼"     # ༼ opens the witness sigla; the lemma comes before it
 TSHEG = "་"            # ་
@@ -56,13 +82,34 @@ def split_definitions(body):
         lines[i] = ""
         if label in defs:
             problems.append(("ERROR",
-                f"durchen [^{label}]: defined twice (lines {defs[label]['line']} and {i + 1})"))
+                f"footnote [^{label}]: defined twice (lines {defs[label]['line']} and {i + 1})"))
             continue
         if not text.strip():
             problems.append(("ERROR",
-                f"durchen [^{label}] (line {i + 1}): empty note — the API needs some text"))
+                f"footnote [^{label}] (line {i + 1}): empty note — the API needs some text"))
         defs[label] = {"text": text.strip(), "line": i + 1}
     return "\n".join(lines), defs, problems
+
+
+def layout_problems(marked, defs):
+    """Messages for a file whose labels break the layout: within each kind the
+    markers number 1, 2, 3… in text order, and the definitions run d1…dK and
+    then n1…nM. marked: labels in the order their first marker appears; defs:
+    label -> {"line"}. Files still on the old bare numbers are not checked."""
+    out = []
+    for k, prefix in ((DURCHEN, "d"), (NOTE, "n")):
+        got = list(dict.fromkeys(l for l in marked if kind(l) == k))
+        want = [f"{prefix}{i}" for i in range(1, len(got) + 1)]
+        if got != want:
+            bad = next(i for i, (g, w) in enumerate(zip(got, want)) if g != w)
+            out.append(f"[^{prefix}N] markers are not numbered 1, 2, 3… in text order: marker "
+                       f"{bad + 1} is [^{got[bad]}], expected [^{want[bad]}]")
+    order = [l for l, _ in sorted(defs.items(), key=lambda kv: kv[1]["line"])
+             if kind(l) in (DURCHEN, NOTE)]
+    want = sorted(order, key=lambda l: (kind(l) != DURCHEN, int(l[1:])))
+    if order != want:
+        out.append("footnote definitions are not grouped as d1…dK then n1…nM")
+    return out
 
 
 def lemma_of(note):

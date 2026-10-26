@@ -14,3 +14,4 @@ Copied byte-identical, without upstream's `output/` folder. Every later commit h
 ## Local changes
 
 - 2026-10-12: **durchens** (variant readings written as footnotes `[^n]`). Added `durchen.py`, shared by all four tools. The parser strips markers from `content` and TOC titles and writes `<stem>.durchens.json`. Not Nalanda-specific: offer it back to 21-taras-rails.
+- 2026-10-26: durchen.py updated (footnote types [^dN] / [^nN], shared copy). This tool does not use the types yet: every footnote, [^nN] included, is still sent as a durchen. Do not relabel commentaries until it does.
