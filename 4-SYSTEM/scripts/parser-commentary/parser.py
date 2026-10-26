@@ -143,9 +143,9 @@ INLINE_TAG_RE = re.compile(r"</?small>", re.IGNORECASE)
 
 
 def _strip_inline_tags(text):
-    """Clean a heading title: drop inline gloss tags and footnote markers, and
-    turn non-breaking spaces (U+00A0) into ordinary spaces."""
-    return durchen.FOOTNOTE_MARK_RE.sub("", INLINE_TAG_RE.sub("", text)).replace("\u00a0", " ")
+    """Clean a heading title: drop inline gloss tags and footnote markers, turn
+    space-like characters (U+00A0 …) into plain spaces and drop invisible ones."""
+    return durchen.normalize_spaces(durchen.FOOTNOTE_MARK_RE.sub("", INLINE_TAG_RE.sub("", text)))
 
 
 # Yigchung (ཡིག་ཆུང་, small-script gloss) is written <small>…</small>. In the
@@ -186,7 +186,8 @@ def _strip_yigchung(line, in_small, error):
     run_start = 0 if in_small else None
     last = 0
     for m in INLINE_MARK_RE.finditer(line):
-        piece = line[last:m.start()]
+        # normalised piece by piece, so the offsets are into the cleaned text
+        piece = durchen.normalize_spaces(line[last:m.start()])
         out.append(piece)
         pos += len(piece)
         last = m.end()
@@ -205,12 +206,12 @@ def _strip_yigchung(line, in_small, error):
                 continue
             runs.append([run_start, pos])
             run_start = None
-    piece = line[last:]
+    piece = durchen.normalize_spaces(line[last:])
     out.append(piece)
     pos += len(piece)
     if run_start is not None:
         runs.append([run_start, pos])  # carried to the next line, if any
-    text = "".join(out).replace("\u00a0", " ")
+    text = "".join(out)
     return text, runs, run_start is not None, marks
 
 

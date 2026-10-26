@@ -64,6 +64,46 @@ PUNCT = set("་༌།༎༑༔")
 BLANK = set(" \t\r\n ​‌‍﻿")
 
 
+# Characters that should not be in a source: spaces other than the plain space,
+# invisible zero-width characters, and line breaks other than \n (\r\n is fine).
+# The parsers normalise them (normalize_spaces) and the linters warn about them
+# (odd_characters), so the source gets cleaned.
+SPACE_LIKE = "    　" + "".join(map(chr, range(0x2000, 0x200b)))
+INVISIBLE = "​‌‍⁠﻿­"
+LINE_BREAKS = "  \u0085\u000b\u000c"
+_CHAR_NAMES = {" ": "no-break space U+00A0", "​": "zero-width space U+200B",
+               "‌": "zero-width non-joiner U+200C", "‍": "zero-width joiner U+200D",
+               "⁠": "word joiner U+2060", "﻿": "BOM / zero-width no-break space U+FEFF",
+               "­": "soft hyphen U+00AD", " ": "line separator U+2028",
+               " ": "paragraph separator U+2029", "\u0085": "next line U+0085",
+               "\u000b": "vertical tab", "\u000c": "form feed", "\r": "carriage return without \\n"}
+_SPACE_MAP = str.maketrans({**{c: " " for c in SPACE_LIKE}, **{c: None for c in INVISIBLE}})
+
+
+def normalize_spaces(text):
+    """Every space-like character becomes a plain space and invisible ones are
+    dropped. Line breaks are left alone."""
+    return text.translate(_SPACE_MAP)
+
+
+def char_name(c):
+    return _CHAR_NAMES.get(c) or f"space U+{ord(c):04X}"
+
+
+def odd_characters(text):
+    """(line, name) for every character a source should not contain: a space
+    other than the plain space, an invisible character, or a line break other
+    than \\n / \\r\\n. Line numbers are 1-based in text."""
+    out = []
+    for n, line in enumerate(text.split("\n"), 1):
+        if line.endswith("\r"):
+            line = line[:-1]
+        for c in line:
+            if c in SPACE_LIKE or c in INVISIBLE or c in LINE_BREAKS or c == "\r":
+                out.append((n, char_name(c)))
+    return out
+
+
 def split_definitions(body):
     """Take the footnote definitions out of the body.
 
@@ -84,6 +124,7 @@ def split_definitions(body):
             problems.append(("ERROR",
                 f"footnote [^{label}]: defined twice (lines {defs[label]['line']} and {i + 1})"))
             continue
+        text = normalize_spaces(text)
         if not text.strip():
             problems.append(("ERROR",
                 f"footnote [^{label}] (line {i + 1}): empty note — the API needs some text"))

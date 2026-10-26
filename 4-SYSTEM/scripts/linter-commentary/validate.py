@@ -540,6 +540,22 @@ def _extract_headers(body):
     return headers
 
 
+def _validate_characters(body, items):
+    """Warn about characters a source should not contain: spaces other than the
+    plain space (U+00A0 …), invisible ones (zero-width space, BOM …) and line
+    breaks other than \\n. The parser normalises them, but the source should be
+    cleaned (4-SYSTEM/scripts/clean-whitespace/clean_whitespace.py)."""
+    found = {}
+    for line, name in durchen.odd_characters(body):
+        found.setdefault(name, []).append(line)
+    for name, lines in found.items():
+        where = ", ".join(map(str, sorted(set(lines))[:8])) + (" …" if len(set(lines)) > 8 else "")
+        breaks = {durchen.char_name(c) for c in durchen.LINE_BREAKS + "\r"}
+        effect = "the parser does not read it as a line break" if name in breaks else "the parser normalises it"
+        items.append(("WARN", f"{len(lines)} {name} in the source (body line {where}) — {effect}; "
+                              f"clean the source with clean-whitespace/clean_whitespace.py"))
+
+
 def validate_edition(data, body):
     items = []
 
@@ -576,6 +592,7 @@ def validate_edition(data, body):
     if not body or not body.strip():
         items.append(("ERROR", "content body is empty"))
     else:
+        _validate_characters(body, items)
         # Footnote definitions are not edition blocks: take them out first.
         body, notes, note_problems = durchen.split_definitions(body)
         items.extend(note_problems)

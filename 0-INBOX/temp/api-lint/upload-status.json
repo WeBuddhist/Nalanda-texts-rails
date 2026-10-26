@@ -18334,7 +18334,7 @@
    "tx4CTEPnsq01FNdbCrW3u",
    "L464tU3qxf180pVGE0IXt",
    "j6Ra0NQ7yUzlt8xbTlDVZ",
-   "SaDXFp06CPsuDGvu9CBlT",
+   "BmEQHmMZ5xed1f4grRS5X",
    "NRPRsc1jcXAhzafr5CRZW",
    "WapBXN8bsgFP7nunRnfhK",
    "6FNvLRLwPGso9GvpUiFeT",
@@ -19352,9 +19352,15 @@
    {
     "step": "durchens",
     "ts": "2026-10-13T22:05:26"
+   },
+   {
+    "new_id": "BmEQHmMZ5xed1f4grRS5X",
+    "old_id": "SaDXFp06CPsuDGvu9CBlT",
+    "step": "durchen re-sent",
+    "why": "no-break spaces in the note text, cleaned in the source"
    }
   ],
-  "payload_hash": "f5d3cde5c1470762221a4b23bbffb9b1231f88e8fe5c1543abfb76aa6ea4b34e",
+  "payload_hash": "79222ddfd9d88199aecf6593611a29a89c1f9f69e2c0e93fc280918f1253cfba",
   "status": "uploaded",
   "text_id": "PTeAvbIVuWhNUWmDhTOvx",
   "toc_id": "DYJiLYe0SE89tRscuYChp",
