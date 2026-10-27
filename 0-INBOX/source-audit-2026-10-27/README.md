@@ -11,7 +11,7 @@ Scripts (read-only): `4-SYSTEM/scripts/footnote-labels/audit_footnotes.py` and `
 | definition text changed or invented | 0 | none |
 | raw footnote missing | 0 | none |
 | definition without a marker | 0 | none |
-| lemma does not match the text before the marker | 91 | **source**: the raw file has the same mismatch |
+| lemma does not match the text before the marker | 91 | **source**: the raw file has the same mismatch — 44 misplaced markers **moved** (see [Marker moves](#marker-moves-2026-10-27)) |
 | lemma does not match | 4 | **ours**: Bh_3CCM d562; Ch_3CCb_ d747, d1147, d1151 — **fixed** |
 | marker moved | 1 | **ours**: Bh_3CCM d562 — **fixed** |
 | no witness `༼…༽` | 23 | by design: generic `[^nN]` notes |
@@ -136,10 +136,61 @@ The ids are recorded in each file's frontmatter and in `0-INBOX/temp/api-lint/co
 
 Bh_3CCM was replaced twice: once after its lines were restored, and again after its tail was removed.
 
+## Marker moves (2026-10-27)
+
+Of the 91 source-side lemma mismatches, 44 were a marker placed one or more syllables away from its lemma, the same in the raw file. Example: Dh_3CF4 `ཡིན༌[^d3904]ཏེ།` with `[^d3904]: ཡིན་ཏེ། ༼སྣར། པེ།༽ ཡིན་ནོ། །` — the variant replaces ཡིན་ཏེ།, so the marker belongs after ཏེ།. Each marker was moved to the end of the text its lemma names: 37 forward, 7 back. The lemma, the variant and the body text are unchanged; only the marker's position (and the `༌` before it) changed.
+
+| text | moves |
+|---|---|
+| Na_3CAN | 9 |
+| Na_3CAO | 4 |
+| Dh_3CF4, As_3CDd_, Dh_3CF3, Sh_3CD1 | 3 each |
+| Va_3CE1, Ar_3CBr_, Ka_3CDK, Na_3C9H, Na_3C9U | 2 each |
+| Ka_3CDJ, Bh_3CCD, Ha_3CFM, Dh_3CF5, Ha_3CFJ, At_3CHN, Bh_3CCJ, Bh_3CCO, Na_3C9R | 1 each |
+
+The 20 originals are backed up in `0-INBOX/delete/move-markers-2026-10-27/`.
+
+**After the moves:**
+- 43 of the 44 durchens now span exactly their lemma. Ha_3CFM d1182 sits in the right place but its span reads བའོོ, a doubled vowel in the source.
+- Re-linted and re-parsed. The other durchens whose span differs from the lemma are the same as before the moves, all source-side.
+- Bh_3CCO was changed locally only; it is not in the library (held as a duplicate of Bh_3CCJ).
+
+### Library: updated in place (2026-10-28)
+
+The other 19 texts were updated in the library **without replacing the edition**: the edition id is kept. Order: durchens and yigchungs deleted, alignments deleted (Dh_3CF5 only), toc deleted, segmentation deleted, all content removed with a `PATCH`, the new parse's content inserted with a `PATCH`, then segmentation, toc, durchens and alignments posted again.
+
+Each live edition was then checked: the content equals the parse, every segment equals the parse (type, reference, lines), there is one toc, and the text has no other edition. Dh_3CF5's four alignment sets (from `Commentary_on_Valid_Cognition-rails`, 2,572 / 2,927 / 2,628 / 2,525 pairs) were re-sent and equal that vault's parser output.
+
+| text | edition (kept) | new toc |
+|---|---|---|
+| Dh_3CF4 | `fTwrWaawshW6GuJ1XJXNk` | `0CW5Ig00IXOQcUDol0Gcm` |
+| Ka_3CDJ | `f4VpUXDiMXyA3pR0iYddD` | `5lPbOTihy5J2WB9HgM6f2` |
+| Va_3CE1 | `cIZlHzXAIGAwqBzXV6tv3` | `Itj6xI6EcOSpKayRVKzZm` |
+| Bh_3CCD | `Ocn2Gam3ZQOLdD13SDHWg` | `A3SUaE3H6KogTtGEr7jGo` |
+| Ha_3CFM | `60EVv4yV6jIUJc28EJMmC` | `kgpJ3JPQSONNKzp4yNYbv` |
+| Ar_3CBr_ | `qI3ZQ6ScUkxgVsX2B2Om1` | `ZGmB8kSMereFLIBtNejsd` |
+| As_3CDd_ | `GUCvW04Iql3N4vKJJuQA3` | `siEUPUx9TgFwyHRrnn8MC` |
+| Dh_3CF3 | `1ovyjYwbWbVokRk2RiwuN` | `CffbDaY95dQ9tcyeHAeth` |
+| Dh_3CF5 | `35KZRPj0d3oErozfsTCJ8` | `4cCfIXscxG4dQn5pscnqf` |
+| Ha_3CFJ | `nNEQejsqJ0hEl8fsBetkN` | `HL206LhN0jKeMCuET9CTz` |
+| Ka_3CDK | `ihWFb6626czzQtdlfdBo2` | `tOiOc2cL9rbSUes8m7bah` |
+| Na_3C9H | `EMVt4FQ8Fyc1dhAT38wx3` | `hIdTpaGxZbeKZdgpNc4kt` |
+| Na_3C9U | `rbDqKl1eyF3T1AYYnM9YW` | `1P7KuKSbTT4aJZCpu3zod` |
+| Na_3CAN | `RxnxpwC0BkYsNWbiKdpEl` | `eiX94e3YZgAnqmYt1fevt` |
+| Na_3CAO | `5iu8lDbiGq3dgdEg0uexW` | `VDhw4W6Vjax0q2Qoku1Mn` |
+| Sh_3CD1 | `XL0hCaYxLkfjz5agcmgxu` | `di2Y0sFJ9B7XOBlPWV3zP` |
+| At_3CHN | `SNkzK7fQApq0eV12WQAlY` | `lQYe5JRHQhiupyfSO4Hw0` |
+| Bh_3CCJ | `CBnAh2lqd8sL4iaMlGq86` | `I70qazefuhfltCFmzcYmM` |
+| Na_3C9R | `bVywvwfiawAyBthBh8bJt` | `102mtg28wgyJhgWYv4iSx` |
+
+The new toc ids are in each file's frontmatter. Each ledger entry (`upload-status.json` for root texts, `commentary-upload-status.json` for commentaries) has an `updated_in_place` record with the old toc, durchen and yigchung ids; Dh_3CF5's also lists the four editions whose alignments were re-sent.
+
+The six editions in [Fixed](#fixed-2026-10-27) were replaced (delete and re-post) before this in-place method was adopted; their old ids cannot be restored.
+
 ## Not fixed: source-side
 
 These are in the material as received. They were left unchanged:
-- 91 lemma mismatches
+- 47 lemma mismatches (91 less the 44 moved markers): 13 sit in the right place but the lemma differs in spelling or is cut short, 25 need an editor to decide, and 9 are generic notes
 - 18 malformed sigla
 - 9 lemma-only notes
 - At_3CGX d11's editor's remark

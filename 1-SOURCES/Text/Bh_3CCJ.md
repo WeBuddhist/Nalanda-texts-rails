@@ -19,7 +19,7 @@ category_id: "JD5ULLPAV1cxg7RSb7L3q"
 category_name: "Middle Way / དབུ་མ།"
 text_id: "E2EAsSIgrSX5zzsqAgPAC"
 edition_id: "CBnAh2lqd8sL4iaMlGq86"
-toc_id: "yvQ94Vq5pC9ZAJVQmnaLZ"
+toc_id: "I70qazefuhfltCFmzcYmM"
 openpecha_text_id: "ab6m4VNCwY1qz0ycMD9ZI"
 ---
 
@@ -92,8 +92,8 @@ openpecha_text_id: "ab6m4VNCwY1qz0ycMD9ZI"
 
 དབུ་མ་ཡི་ནི་དོན་བསྡུས་པ། །
 དེ་ལྟར་བདག་གིས་བཤད་པ་ཡི། །
-དགེ་བ་བདག་གིས་བསགས་པ་ཡི། །
-དགེ༌[^d7]བ་གང་དེས་སེམས་ཅན་གྱི། །
+དགེ་བ་བདག་གིས་བསགས་པ་ཡི། །[^d7]
+དགེ་བ་གང་དེས་སེམས་ཅན་གྱི། །
 བསམ་པ་མྱུར་དུ་འགྲུབ་གྱུར་ཅིག །[^d8] ^2-5
 
 ## མཇུག་བྱང། ^a-0

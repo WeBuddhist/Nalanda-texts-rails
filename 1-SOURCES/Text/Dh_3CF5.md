@@ -20,7 +20,7 @@ category_id: "v3L4eTn4x2E30znIhHvQe"
 category_name: "Logic / ཚད་མ།"
 text_id: "xNRsZOBmR1HcMH4im8i1a"
 edition_id: "35KZRPj0d3oErozfsTCJ8"
-toc_id: "Q8cYA6QRhSui8xVMUFkjT"
+toc_id: "4cCfIXscxG4dQn5pscnqf"
 openpecha_text_id: "uN6DbrJPaApfPK3sH7Sat"
 ---
 
@@ -1541,7 +1541,7 @@ openpecha_text_id: "uN6DbrJPaApfPK3sH7Sat"
 ཚད་མ་ཡོད་པ་སྲིད་མ་ཡིན། ༈ ། ^1-323
 
 གང་གི་ཚིག་ནི་ཚད་མ་ཡིས།[^d193] །
-མི་སླུ་དེ་ཡིས་བྱས༌[^d194]པའི་ཚིག །
+མི་སླུ་དེ་ཡིས་བྱས་པའི་ཚིག །[^d194]
 དེ་ལུང་ཞེས་ཐོབ་དེ་ཡི་ཕྱིར། །
 སྐྱེས་བུས་བྱས་མིན་དོན་མེད་ཡིན། ། ^1-324
 
