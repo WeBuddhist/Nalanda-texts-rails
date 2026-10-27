@@ -1,6 +1,7 @@
 ---
-title: "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།"
+title: "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།༼དཔེ་དང་པོ།༽"
 alt_titles:
+  - bo: "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།"
 author:
 author_in_english:
 date:
@@ -10,7 +11,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 63) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ཀ༽ སྟོད་ཆ། .docx (10-Vasubandhu); https://wb.pub/3CE1"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 63) དབྱིག་གཉེན་གྱི་གསུང་འབུམ། ཀ༽ སྟོད་ཆ། .docx (10-Vasubandhu); https://wb.pub/3CE1 · Title changed 2026-10-27 (was 'འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།'): version tag: version 1 of 2 (Book 63); version 2 is Va_3CE7 ༼དཔེ་གཉིས་པ།༽ (Book 65), the same commentary in other wording. This version has the Sanskrit title and 8 sections; no distinguishing title is attested, so the versions are numbered in volume order."
 bdrc_work_id:
 source: "https://webuddhist.com/"
 license: "public"

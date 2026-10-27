@@ -172,5 +172,17 @@
   "new": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼ཀླུ་སྒྲུབ།༽",
   "clash": "Na_3CAN · Na_3CAO",
   "basis": "Author tag from its own colophon (^a-1 …སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཞབས་ཀྱིས་མཛད་པ); a different, much shorter sādhana than Na_3CAN / Na_3CAO (5% and 13% shared), whose texts name no author. BDRC WA0RT4261 (the other two have none)."
+ },
+ "Va_3CE1": {
+  "old": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།",
+  "new": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།༼དཔེ་དང་པོ།༽",
+  "clash": "Va_3CE7",
+  "basis": "Commentary. Same work, different version: no distinguishing title is attested (same title, colophon names Vasubandhu only), so versions are numbered in volume order. Version 1 (Book 63): has the Sanskrit title ཨཱརྱ་མུ་ཁ་ཥ་ཊ་དྷཱ་ར་ཎི་བྱཱ་ཁྱ་ཏ; 8 sections; 22 notes, mostly ༼པེ།༽. Already uploaded: title patched on the library (PATCH /v2/texts/l7JIJyrKGUzDcJylDpLcn, 2026-10-27)."
+ },
+ "Va_3CE7": {
+  "old": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།",
+  "new": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།༼དཔེ་གཉིས་པ།༽",
+  "clash": "Va_3CE1",
+  "basis": "Commentary. Same work, different version (about 60% shared wording). Version 2 (Book 65): no Sanskrit title; 7 sections, lacking Va_3CE1's སྦྱོར་བ་རྣམ་པར་དག་པ section and part of བསམ་པ་ཡོངས་སུ་དག་པ; 12 notes, mostly ༼སྣར། པེ།༽. Its 2026-10-14 upload failed while it shared Va_3CE1's title; uploaded 2026-10-27 as anJsNi9KS7erwHt7rsvro."
  }
 }
