@@ -556,6 +556,17 @@ def _validate_characters(body, items):
                               f"clean the source with clean-whitespace/clean_whitespace.py"))
 
 
+def _validate_witness_spacing(body, items):
+    """Warn about a footnote definition with no space before a witness bracket
+    ("…ནོ། །༼སྣར། པེ།༽" for "…ནོ། ། ༼སྣར། པེ།༽"): the convention is "lemma ༼witness༽ variant"."""
+    lines = [n for n, line in enumerate(body.splitlines(), 1)
+             if re.match(r"\[\^[^\]]+\]:", line) and re.search(r"\S༼", line.split(":", 1)[1])]
+    if lines:
+        where = ", ".join(map(str, lines[:8])) + (" …" if len(lines) > 8 else "")
+        items.append(("WARN", f"{len(lines)} footnote definition(s) with no space before ༼ (body line {where}); "
+                              f"fix with footnote-labels/space_before_witness.py"))
+
+
 def validate_edition(data, body):
     items = []
 
@@ -590,6 +601,7 @@ def validate_edition(data, body):
         items.append(("ERROR", "content body is empty"))
     else:
         _validate_characters(body, items)
+        _validate_witness_spacing(body, items)
         # Footnote definitions are not edition blocks: take them out first.
         body, notes, note_problems = durchen.split_definitions(body)
         items.extend(note_problems)

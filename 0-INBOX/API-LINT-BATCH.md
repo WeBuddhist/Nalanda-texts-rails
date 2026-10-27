@@ -2,7 +2,7 @@
 
 Runs `linter-root-text` then `parser-root-text` on every root text in `1-SOURCES/Text/`. How to run: the docstring of `0-INBOX/temp/api-lint/run_lint_batch.py`.
 
-Updated 2026-10-26 · 442 texts (small 358 · medium 60 · large 24) · done 441 · failed 0 · **held 6** · to do 0 · **uploaded 436**
+Updated 2026-10-27 · 442 texts (small 358 · medium 60 · large 24) · done 441 · failed 0 · **held 6** · to do 0 · **uploaded 436**
 
 | What | Path |
 |---|---|
@@ -21,11 +21,11 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 
 | # | id | size | chars | status | lint | err | warn | dur. warn | parse | segments | durchens | toc nodes | src changed | upload | text_id | ed. | toc | dur. up | yig. up | note |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Ar_3CBa_ | medium | 109,587 | done | OK | 0 | 1 | 0 | OK | 637 | 445 | 33 | no | uploaded | 4F3fLiT6ZvPqDpgbrB9Ci | ✓ | ✓ | 445/445 |  |  |
+| 1 | Ar_3CBa_ | medium | 109,595 | done | OK | 0 | 1 | 0 | OK | 637 | 445 | 33 | no | uploaded | 4F3fLiT6ZvPqDpgbrB9Ci | ✓ | ✓ | 445/445 |  |  |
 | 2 | Ar_3CBc_ | medium | 192,040 | done | OK | 0 | 2 | 0 | OK | 623 | 572 | 16 | no | uploaded | jhtsov3TZAjnUl934c1sb | ✓ | ✓ | 572/572 |  |  |
 | 3 | Ar_3CBe_ | small | 6,656 | done | OK | 0 | 2 | 0 | OK | 36 | 38 | 8 | no | uploaded | L3ST2FgFYWRkhBEpx2uab | ✓ | ✓ | 38/38 |  |  |
 | 4 | Ar_3CBf_ | small | 4,138 | done | OK | 0 | 1 | 0 | OK | 17 | 11 | 6 | no | uploaded | ZDwz6Ib9GFU6HU5WlSvZr | ✓ | ✓ | 11/11 |  |  |
-| 5 | Ar_3CBg_ | medium | 35,470 | done | OK | 0 | 2 | 0 | OK | 190 | 121 | 10 | no | uploaded | ZM95XEJkBt6VwCqWVZxSW | ✓ | ✓ | 121/121 |  |  |
+| 5 | Ar_3CBg_ | medium | 35,471 | done | OK | 0 | 2 | 0 | OK | 190 | 121 | 10 | no | uploaded | ZM95XEJkBt6VwCqWVZxSW | ✓ | ✓ | 121/121 |  |  |
 | 6 | Ar_3CBh_ | medium | 40,614 | done | OK | 0 | 2 | 0 | OK | 138 | 188 | 11 | no | uploaded | zV1Ny1svv4LDusoiFfvAd | ✓ | ✓ | 188/188 |  |  |
 | 7 | Ar_3CBi_ | small | 21,208 | done | OK | 0 | 3 | 1 | OK | 134 | 75 | 6 | no | uploaded | CPHehmylOiPTOfn5vyOuD | ✓ | ✓ | 75/75 |  |  |
 | 8 | Ar_3CBj_ | small | 10,198 | done | OK | 0 | 2 | 0 | OK | 57 | 28 | 5 | no | uploaded | 5DhL75Gp7PyaR49U9hUcS | ✓ | ✓ | 28/28 |  |  |
@@ -33,7 +33,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 10 | Ar_3CBl_ | small | 7,042 | done | OK | 0 | 2 | 0 | OK | 50 | 25 | 10 | no | uploaded | czhSRGDZlm4CDHCcPjxHQ | ✓ | ✓ | 25/25 |  |  |
 | 11 | Ar_3CBm_ | small | 11,939 | done | OK | 0 | 1 | 0 | OK | 76 | 33 | 8 | no | uploaded | WzmhTJuu3HCVDN3EIvjkI | ✓ | ✓ | 33/33 |  |  |
 | 12 | Ar_3CBn_ | small | 3,353 | done | OK | 0 | 2 | 0 | OK | 18 | 7 | 6 | no | uploaded | pyeb9zpoSDOtU46mn9c40 | ✓ | ✓ | 7/7 |  |  |
-| 13 | Ar_3CBo_ | small | 18,364 | done | OK | 0 | 2 | 0 | OK | 106 | 49 | 6 | no | uploaded | 2hIw2s3BhvIluA9MFvl6I | ✓ | ✓ | 49/49 |  |  |
+| 13 | Ar_3CBo_ | small | 18,365 | done | OK | 0 | 2 | 0 | OK | 106 | 49 | 6 | no | uploaded | 2hIw2s3BhvIluA9MFvl6I | ✓ | ✓ | 49/49 |  |  |
 | 14 | Ar_3CBp_ | small | 13,124 | done | OK | 0 | 2 | 0 | OK | 46 | 57 | 13 | no | uploaded | encpoWoRKWzfeerIy998U | ✓ | ✓ | 57/57 |  |  |
 | 15 | Ar_3CBq_ | small | 14,593 | done | OK | 0 | 1 | 0 | OK | 45 | 69 | 5 | no | uploaded | 8BaAsCZI0Y1CYeR3S23Sn | ✓ | ✓ | 69/69 |  |  |
 | 16 | Ar_3CBr_ | small | 4,336 | done | OK | 0 | 4 | 2 | OK | 21 | 4 | 5 | no | uploaded | XLROEy9SkjdHMELSQLdgM | ✓ | ✓ | 4/4 |  |  |
@@ -45,7 +45,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 22 | Ar_3CBx_ | small | 3,068 | done | OK | 0 | 3 | 1 | OK | 18 | 1 | 14 | no | uploaded | pUP7NHS69gi0Tfra6ec1W | ✓ | ✓ | 1/1 |  |  |
 | 23 | Ar_3CBy_ | small | 2,579 | done | OK | 0 | 2 | 0 | OK | 11 | 2 | 6 | no | uploaded | ZEQmS0BkpJHCBmNnfoj1y | ✓ | ✓ | 2/2 |  |  |
 | 24 | Ar_3CBz_ | small | 2,425 | done | OK | 0 | 1 | 0 | OK | 11 | 9 | 6 | no | uploaded | cqpHDkj30ct8GfCma4ufR | ✓ | ✓ | 9/9 |  |  |
-| 25 | Ar_3CC1 | medium | 69,466 | done | OK | 0 | 1 | 0 | OK | 426 | 389 | 20 | no | uploaded | SAW38UfEmuRYTt4rDomym | ✓ | ✓ | 389/389 |  |  |
+| 25 | Ar_3CC1 | medium | 69,468 | done | OK | 0 | 1 | 0 | OK | 426 | 389 | 20 | no | uploaded | SAW38UfEmuRYTt4rDomym | ✓ | ✓ | 389/389 |  |  |
 | 26 | Ar_3CC2 | small | 13,377 | done | OK | 0 | 2 | 0 | OK | 51 | 37 | 16 | no | uploaded | V51V3ga71RtKCVaryl8C3 | ✓ | ✓ | 37/37 |  |  |
 | 27 | Ar_3CC3 | small | 1,895 | done | OK | 0 | 2 | 0 | OK | 10 | 3 | 5 | no | uploaded | Fj3XA5lBa7idF3wI7ZKS6 | ✓ | ✓ | 3/3 |  |  |
 | 28 | Ar_3CC5 | small | 8,486 | done | OK | 0 | 2 | 0 | OK | 20 | 20 | 8 | no | uploaded | TxrvC8Fk4GaCAtnFqBehd | ✓ | ✓ | 20/20 |  |  |
@@ -56,7 +56,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 33 | Ar_3CCA | small | 3,553 | done | OK | 0 | 1 | 0 | OK | 17 | 0 | 5 | no | uploaded | B00dbH164vrSqb9nGr7Hx | ✓ | ✓ | 0/0 |  |  |
 | 34 | Ar_3CCB | small | 2,874 | done | OK | 0 | 1 | 0 | OK | 10 | 0 | 6 | no | uploaded | VAeISJ4pMg5H6loIy3r4r | ✓ | ✓ | 0/0 |  |  |
 | 35 | As_3CDc_ | small | 3,810 | done | OK | 0 | 1 | 0 | OK | 22 | 5 | 6 | no | uploaded | F8ik7b0uAOiQOoNt45lAV | ✓ | ✓ | 5/5 |  |  |
-| 36 | As_3CDd_ | small | 8,140 | done | OK | 0 | 7 | 5 | OK | 14 | 43 | 5 | no | uploaded | udEg2T5zWRjYYim0bUkHH | ✓ | ✓ | 43/43 |  |  |
+| 36 | As_3CDd_ | small | 8,141 | done | OK | 0 | 7 | 5 | OK | 14 | 43 | 5 | no | uploaded | udEg2T5zWRjYYim0bUkHH | ✓ | ✓ | 43/43 |  |  |
 | 37 | As_3CDe_ | small | 4,330 | done | OK | 0 | 2 | 0 | OK | 14 | 17 | 6 | no | uploaded | Y8NMcBJeBAGZU1qNDh864 | ✓ | ✓ | 17/17 |  |  |
 | 38 | As_3CDk_ | large | 309,723 | done | OK | 0 | 2 | 0 | OK | 601 | 1044 | 6 | no | uploaded | QQpmPjMFFWOkXQraQ6i6T | ✓ | ✓ | 1044/1044 |  |  |
 | 39 | As_3CDl_ | large | 724,282 | done | OK | 0 | 2 | 0 | OK | 1733 | 2260 | 11 | no | uploaded | 63kj31p9J5saliyvuD14z | ✓ | ✓ | 2260/2260 |  |  |
@@ -127,7 +127,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 104 | At_3CGU | small | 3,189 | done | OK | 0 | 2 | 1 | OK | 8 | 3 | 5 | no | uploaded | yr6JWNH2Cbx1O5Sp54KPb | ✓ | ✓ | 3/3 |  |  |
 | 105 | At_3CGV | small | 15,374 | done | OK | 0 | 2 | 0 | OK | 27 | 17 | 8 | no | uploaded | i0VWIpwhsgTVxXuyfr5Ch | ✓ | ✓ | 17/17 |  |  |
 | 106 | At_3CGW | small | 7,677 | done | OK | 0 | 2 | 0 | OK | 12 | 20 | 2 | no | uploaded | G0dtxYZ9iQ78sSFb9bDMi | ✓ | ✓ | 20/20 |  |  |
-| 107 | At_3CGX | small | 4,343 | done | OK | 0 | 2 | 0 | OK | 15 | 11 | 7 | no | uploaded | jJS4tXBEi07iIPEm7ElEl | ✓ | ✓ | 11/11 |  |  |
+| 107 | At_3CGX | small | 4,344 | done | OK | 0 | 2 | 0 | OK | 15 | 11 | 7 | no | uploaded | jJS4tXBEi07iIPEm7ElEl | ✓ | ✓ | 11/11 |  |  |
 | 108 | At_3CGY | small | 5,036 | done | OK | 0 | 2 | 0 | OK | 18 | 11 | 17 | no | uploaded | SFPoixXeWY767jVzKqXSN | ✓ | ✓ | 11/11 |  |  |
 | 109 | At_3CGZ | small | 4,028 | done | OK | 0 | 2 | 0 | OK | 6 | 9 | 5 | no | uploaded | vpmmYgT5QvOujtHCpEdxZ | ✓ | ✓ | 9/9 |  |  |
 | 110 | At_3CGa_ | small | 4,923 | **held** | OK | 0 | 1 | 0 | OK | 15 | 14 | 14 | no | **failed** |  |  |  |  |  | duplicate of At_3CGQ (uploaded): identical main text and footnotes (one verse is split over three lines instead of one); same BDRC WA0RT2596, same volume (Book 98) |
@@ -225,17 +225,17 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 202 | At_3CI8 | small | 6,119 | done | OK | 0 | 2 | 0 | OK | 29 | 15 | 9 | no | uploaded | XecdaEpC5AkUKbFpnSGxf | ✓ | ✓ | 15/15 |  |  |
 | 203 | At_3CI9 | small | 2,284 | done | OK | 0 | 2 | 0 | OK | 9 | 4 | 6 | no | uploaded | YYFtjAhqxVoxJ8aOPg6BB | ✓ | ✓ | 4/4 |  |  |
 | 204 | At_3CIA | small | 5,129 | done | OK | 0 | 2 | 0 | OK | 9 | 25 | 5 | no | uploaded | M9j9q2HjOq4Td0VQ2SSCC | ✓ | ✓ | 25/25 |  |  |
-| 205 | Bh_3CCH | medium | 121,447 | done | OK | 0 | 1 | 0 | OK | 490 | 487 | 12 | no | uploaded | JZxC8nBxIcoU0WkoiOvQZ | ✓ | ✓ | 487/487 |  |  |
-| 206 | Bh_3CCI | medium | 156,608 | done | OK | 0 | 1 | 0 | OK | 952 | 611 | 16 | no | uploaded | tdgf1ZvR64FQ8aqcxZt48 | ✓ | ✓ | 611/611 |  |  |
+| 205 | Bh_3CCH | medium | 121,453 | done | OK | 0 | 1 | 0 | OK | 490 | 487 | 12 | no | uploaded | JZxC8nBxIcoU0WkoiOvQZ | ✓ | ✓ | 487/487 |  |  |
+| 206 | Bh_3CCI | medium | 156,613 | done | OK | 0 | 1 | 0 | OK | 952 | 611 | 16 | no | uploaded | tdgf1ZvR64FQ8aqcxZt48 | ✓ | ✓ | 611/611 |  |  |
 | 207 | Bh_3CCJ | small | 3,318 | done | OK | 0 | 3 | 1 | OK | 16 | 10 | 7 | no | uploaded | E2EAsSIgrSX5zzsqAgPAC | ✓ | ✓ | 10/10 |  |  |
-| 208 | Bh_3CCK | medium | 32,350 | done | OK | 0 | 1 | 0 | OK | 53 | 152 | 8 | no | uploaded | biawaNa00iaPLuZ0hQypP | ✓ | ✓ | 152/152 |  |  |
+| 208 | Bh_3CCK | medium | 32,351 | done | OK | 0 | 1 | 0 | OK | 53 | 152 | 8 | no | uploaded | biawaNa00iaPLuZ0hQypP | ✓ | ✓ | 152/152 |  |  |
 | 209 | Bh_3CCO | small | 3,224 | **held** | OK | 0 | 3 | 1 | OK | 17 | 10 | 7 | no | **failed** |  |  |  |  |  | duplicate of Bh_3CCJ (uploaded): identical text and footnotes except one editorial heading (དམ་པའི་དོན། vs དོན་དམ།); same BDRC WA0RT3202; printed in Book 34 ཆ and Book 31 ག |
-| 210 | Ch_3CCP | small | 2,534 | done | OK | 0 | 2 | 0 | OK | 12 | 5 | 5 | no | uploaded | 9f5EERECqUI3Ntje1bHHO | ✓ | ✓ | 5/5 |  |  |
-| 211 | Ch_3CCR | medium | 34,659 | done | OK | 0 | 1 | 0 | OK | 131 | 105 | 9 | no | uploaded | EYqawxIsIeS56UOaKB7xs | ✓ | ✓ | 105/105 |  |  |
-| 212 | Ch_3CCS | small | 6,762 | done | OK | 0 | 1 | 0 | OK | 21 | 24 | 9 | no | uploaded | Yr26Oeg7fRct1vD5FpTXw | ✓ | ✓ | 24/24 |  |  |
+| 210 | Ch_3CCP | small | 2,535 | done | OK | 0 | 2 | 0 | OK | 12 | 5 | 5 | no | uploaded | 9f5EERECqUI3Ntje1bHHO | ✓ | ✓ | 5/5 |  |  |
+| 211 | Ch_3CCR | medium | 34,663 | done | OK | 0 | 1 | 0 | OK | 131 | 105 | 9 | no | uploaded | EYqawxIsIeS56UOaKB7xs | ✓ | ✓ | 105/105 |  |  |
+| 212 | Ch_3CCS | small | 6,763 | done | OK | 0 | 1 | 0 | OK | 21 | 24 | 9 | no | uploaded | Yr26Oeg7fRct1vD5FpTXw | ✓ | ✓ | 24/24 |  |  |
 | 213 | Ch_3CCU | small | 1,477 | done | OK | 0 | 1 | 0 | OK | 5 | 0 | 2 | no | uploaded | xeFFei4oAvczmFMylI7xG | ✓ | ✓ | 0/0 |  | retitled (see Retitled) |
-| 214 | Ch_3CCV | small | 8,327 | done | OK | 0 | 2 | 1 | OK | 27 | 18 | 5 | no | uploaded | IARirxx6epVNpdmThpEW0 | ✓ | ✓ | 18/18 |  |  |
-| 215 | Ch_3CCX | medium | 102,511 | done | OK | 0 | 1 | 0 | OK | 233 | 318 | 8 | no | uploaded | ACmWFR7EOLCyAS2PEAEyV | ✓ | ✓ | 318/318 |  | retitled (see Retitled) |
+| 214 | Ch_3CCV | small | 8,332 | done | OK | 0 | 2 | 1 | OK | 27 | 18 | 5 | no | uploaded | IARirxx6epVNpdmThpEW0 | ✓ | ✓ | 18/18 |  |  |
+| 215 | Ch_3CCX | medium | 102,512 | done | OK | 0 | 1 | 0 | OK | 233 | 318 | 8 | no | uploaded | ACmWFR7EOLCyAS2PEAEyV | ✓ | ✓ | 318/318 |  | retitled (see Retitled) |
 | 216 | Ch_3CCZ | small | 10,833 | done | OK | 0 | 2 | 0 | OK | 72 | 25 | 6 | no | uploaded | FupDtWCtILwxJ1Mdzeiwf | ✓ | ✓ | 25/25 |  |  |
 | 217 | Ch_3CCc_ | medium | 57,365 | done | OK | 0 | 2 | 0 | OK | 335 | 7 | 14 | no | uploaded | Vsd56G9qyrX3J7swTYgDK | ✓ | ✓ | 7/7 |  |  |
 | 218 | Ch_3CCd_ | medium | 66,337 | done | OK | 0 | 1 | 0 | OK | 328 | 195 | 14 | no | uploaded | 7SEP9SJUIhJUvECwH31AV | ✓ | ✓ | 195/195 |  |  |
@@ -245,7 +245,7 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 222 | Dh_3CF1 | small | 2,177 | done | OK | 0 | 1 | 0 | OK | 10 | 2 | 4 | no | uploaded | eMLnKHsf69MXpKFJNlLTt | ✓ | ✓ | 2/2 |  |  |
 | 223 | Dh_3CF2 | medium | 85,326 | done | OK | 0 | 1 | 0 | OK | 251 | 429 | 20 | no | uploaded | tmOIAbbaEbQYSNiBi1nuR | ✓ | ✓ | 429/429 |  |  |
 | 224 | Dh_3CF3 | small | 9,476 | done | OK | 0 | 6 | 4 | OK | 22 | 39 | 5 | no | uploaded | NVA95UKB5DSvHvwIV5Qcw | ✓ | ✓ | 39/39 |  |  |
-| 225 | Dh_3CF5 | large | 235,022 | done | OK | 0 | 3 | 2 | OK | 1712 | 1068 | 9 | no | uploaded | xNRsZOBmR1HcMH4im8i1a | ✓ | ✓ | 1068/1068 |  |  |
+| 225 | Dh_3CF5 | large | 235,023 | done | OK | 0 | 3 | 2 | OK | 1712 | 1068 | 9 | no | uploaded | xNRsZOBmR1HcMH4im8i1a | ✓ | ✓ | 1068/1068 |  |  |
 | 226 | Dh_3CF6 | large | 333,805 | done | OK | 0 | 1 | 0 | OK | 947 | 1951 | 8 | no | uploaded | rjtZldlRYAt0IsZbygK9L | ✓ | ✓ | 1951/1951 |  |  |
 | 227 | Dh_3CF7 | medium | 32,467 | done | OK | 0 | 1 | 0 | OK | 75 | 206 | 7 | no | uploaded | YS7pmQGI3dnobFzBMXDn2 | ✓ | ✓ | 206/206 |  |  |
 | 228 | Dh_3CF8 | medium | 79,180 | done | OK | 0 | 1 | 0 | OK | 148 | 495 | 9 | no | uploaded | kSX57CbbGobn6t1wVwdLg | ✓ | ✓ | 495/495 |  |  |
@@ -271,9 +271,9 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 248 | Ha_3CFG | large | 727,184 | done | OK | 0 | 1 | 0 | OK | 1202 | 1515 | 20 | no | uploaded | 3ZWGBFHqWzK6gc4cOeWcF | ✓ | ✓ | 1515/1515 |  | retitled (see Retitled) |
 | 249 | Ha_3CFH | large | 763,615 | done | OK | 0 | 2 | 0 | OK | 1084 | 1752 | 15 | no | uploaded | rFwVoQdwivrPEIQw8et0u | ✓ | ✓ | 1752/1752 |  |  |
 | 250 | Ha_3CFI | large | 680,292 | done | OK | 0 | 3 | 1 | OK | 765 | 1626 | 5 | no | uploaded | 32BuYLjXDVjh2iBCGiavE | ✓ | ✓ | 1626/1626 |  |  |
-| 251 | Ha_3CFJ | large | 680,410 | done | OK | 0 | 6 | 5 | OK | 722 | 1688 | 49 | no | uploaded | eVx546Q2x1suvW9UOZfrS | ✓ | ✓ | 1688/1688 |  | retitled (see Retitled) |
+| 251 | Ha_3CFJ | large | 680,411 | done | OK | 0 | 6 | 5 | OK | 722 | 1688 | 49 | no | uploaded | eVx546Q2x1suvW9UOZfrS | ✓ | ✓ | 1688/1688 |  | retitled (see Retitled) |
 | 252 | Ha_3CFO | medium | 92,184 | done | OK | 0 | 2 | 0 | OK | 202 | 585 | 10 | no | uploaded | PuHZG606GKjReCAdhEQ2G | ✓ | ✓ | 585/585 |  |  |
-| 253 | Ka_3CDK | large | 430,589 | done | OK | 0 | 3 | 2 | OK | 807 | 1316 | 5 | no | uploaded | 0Bf68a3IyhkHF5b2xXwyU | ✓ | ✓ | 1316/1316 |  |  |
+| 253 | Ka_3CDK | large | 430,597 | done | OK | 0 | 3 | 2 | OK | 807 | 1316 | 5 | no | uploaded | 0Bf68a3IyhkHF5b2xXwyU | ✓ | ✓ | 1316/1316 |  |  |
 | 254 | Ka_3CDL | medium | 114,478 | done | OK | 0 | 2 | 0 | OK | 747 | 351 | 5 | no | uploaded | kCBZNRtdWoWQIE4vJknDJ | ✓ | ✓ | 351/351 |  |  |
 | 255 | Ka_3CDM | medium | 70,739 | done | OK | 0 | 1 | 0 | OK | 167 | 182 | 8 | no | uploaded | HkcRlyi42Ratjw2dKrWNw | ✓ | ✓ | 182/182 |  |  |
 | 256 | Ka_3CDN | small | 9,976 | done | OK | 0 | 1 | 0 | OK | 38 | 0 | 6 | no | uploaded | zz2kQS2yo7ODxYpJRfyFg | ✓ | ✓ | 0/0 |  |  |
@@ -437,15 +437,15 @@ Upload columns: `upload` = uploaded / partial / failed · `text_id` = the id wri
 | 414 | Sh_3CCy_ | small | 4,095 | done | OK | 0 | 1 | 0 | OK | 14 | 4 | 9 | no | uploaded | DGKtIir0lGUCBbtJUK5WE | ✓ | ✓ | 4/4 |  |  |
 | 415 | Sh_3CCz_ | small | 4,187 | done | OK | 0 | 2 | 0 | OK | 15 | 11 | 8 | no | uploaded | 2QOWrMhIt8rfKoMmFdkrz | ✓ | ✓ | 11/11 |  |  |
 | 416 | Sh_3CD1 | medium | 42,819 | done | OK | 0 | 5 | 3 | OK | 58 | 6 | 8 | no | uploaded | myZsK7j5CWY93tpK9LJ3s | ✓ | ✓ | 6/6 |  |  |
-| 417 | Sh_3CD2 | medium | 59,259 | done | OK | 0 | 2 | 0 | OK | 171 | 180 | 35 | no | uploaded | m4RuDDwAIO84WrluJ9YxU | ✓ | ✓ | 180/180 |  |  |
+| 417 | Sh_3CD2 | medium | 59,260 | done | OK | 0 | 2 | 0 | OK | 171 | 180 | 35 | no | uploaded | m4RuDDwAIO84WrluJ9YxU | ✓ | ✓ | 180/180 |  |  |
 | 418 | Sh_3CD3 | medium | 106,268 | done | OK | 0 | 1 | 0 | OK | 147 | 341 | 10 | no | uploaded | EoWG5t2TxpWnh0oI8SAI9 | ✓ | ✓ | 341/341 |  |  |
 | 419 | Sh_3CD4 | medium | 78,902 | done | OK | 0 | 1 | 0 | OK | 138 | 265 | 12 | no | uploaded | lnjdvnw1qGlrLEI4LTNm1 | ✓ | ✓ | 265/265 |  |  |
 | 420 | Sh_3CD5 | small | 23,037 | done | OK | 0 | 2 | 0 | OK | 33 | 67 | 8 | no | uploaded | yMY2JjoVmjn30v1UXAy1I | ✓ | ✓ | 67/67 |  |  |
 | 421 | Sh_3CD6 | medium | 81,035 | done | OK | 0 | 1 | 0 | OK | 113 | 0 | 6 | no | uploaded | M5kHkS8kCivAjA17OUvms | ✓ | ✓ | 0/0 |  |  |
 | 422 | Sh_3CD7 | medium | 61,318 | done | OK | 0 | 1 | 0 | OK | 110 | 0 | 6 | no | uploaded | IufLPPxqlU9h3aAsonMx0 | ✓ | ✓ | 0/0 |  |  |
-| 423 | Sh_3CD8 | medium | 48,744 | done | OK | 0 | 2 | 0 | OK | 118 | 166 | 6 | no | uploaded | IzOQAnt6OEN9n32H5k3SD | ✓ | ✓ | 166/166 |  |  |
+| 423 | Sh_3CD8 | medium | 48,745 | done | OK | 0 | 2 | 0 | OK | 118 | 166 | 6 | no | uploaded | IzOQAnt6OEN9n32H5k3SD | ✓ | ✓ | 166/166 |  |  |
 | 424 | Sh_3CDA | small | 15,267 | done | OK | 0 | 1 | 0 | OK | 100 | 49 | 6 | no | uploaded | 1AQvtom61Uu3yhxNJZdzB | ✓ | ✓ | 49/49 |  |  |
-| 425 | Sh_3CDE | large | 571,146 | done | OK | 0 | 2 | 1 | OK | 3381 | 2663 | 35 | no | uploaded | ZXnSIFwTdHCQtMXw6ExUa | ✓ | ✓ | 2663/2663 |  |  |
+| 425 | Sh_3CDE | large | 571,168 | done | OK | 0 | 2 | 1 | OK | 3381 | 2663 | 35 | no | uploaded | ZXnSIFwTdHCQtMXw6ExUa | ✓ | ✓ | 2663/2663 |  |  |
 | 426 | Sh_3CDF | small | 12,155 | done | OK | 0 | 1 | 0 | OK | 60 | 0 | 7 | no | uploaded | BMxOpxX2FSaul3mRQnyI2 | ✓ | ✓ | 0/0 |  |  |
 | 427 | Sh_3CFZ | medium | 53,853 | **held** | OK | 0 | 1 | 0 | OK | 248 | 325 | 19 | no | **failed** |  |  |  |  |  | near-duplicate of Na_3CBB (uploaded): same translation, edited separately; see source_description |
 | 428 | Va_3CE0 | small | 1,431 | done | OK | 0 | 2 | 0 | OK | 6 | 2 | 5 | no | uploaded | QJIPc1h85yzpU080yQ0rO | ✓ | ✓ | 2/2 |  |  |
@@ -495,6 +495,8 @@ Texts whose `title:` was changed because the upload stopped on a title already i
 | At_3CGb_ | སྦྱིན་སྲེག་གི་ཆོ་ག | ཞི་བའི་སྦྱིན་སྲེག་གི་ཆོ་ག | At_3CG8 | Editorial: no distinct title is attested. The rite is pacifying in its own words (ཞི་བར་བྱ་བའི་ཕྱིར, ཞི་བའི་ཚིག, ཤནྟི་ཀུ་རུ ×2); At_3CG8 has none of these. |
 | At_3CHB | སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ། | ཇོ་བོ་རྗེའི་སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ། | Ar_3CBc_ | Editorial author qualifier. Different works with the same Tibetan title: Atiśa's Caryāsaṃgrahapradīpa vs Āryadeva's Caryāmelāpakapradīpa (Sanskrit titles in ^I-1). ཇོ་བོ་རྗེ from the collection title. |
 | At_3CHL | དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག | དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག༼མར་མེ་མཛད་བཟང་པོ།༽ | Na_3C9c_ | Author from its own colophon (^a-1 སློབ་དཔོན་མར་མེ་མཛད་བཟང་པོའི་ཞལ་སྔ་ནས་མཛད་པ). Different work from Na_3C9c_ (Nāgārjuna); both carry an author tag. Already uploaded: title patched on the library. |
+| Bh_3CCM | དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ། | དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།༼སྟོད་ཆ།༽ | Bh_3CCN | Commentary. Part 1 (Book 33, bam po 1–15) of a two-part work; Bh_3CCN (Book 34, bam po 16 on) labels itself ༼སྨད་ཆ།༽. Both share bdrc WA0RT3201. Already uploaded: title patched on the library (PATCH /v2/texts/nLztNphtFnyVCn3pNvjVj, 2026-10-27). |
+| Bh_3CCN | དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ། | དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།༼སྨད་ཆ།༽ | Bh_3CCM | Commentary. Part 2 (Book 34, bam po 16 on); its own heading reads ༼སྨད་ཆ།༽. Bh_3CCM (Book 33, bam po 1–15) is part 1. Uploaded 2026-10-27 as fP3mROrpMeyUajTzGv0CS, without a bdrc id: the library keeps one text per BDRC id, so Bh_3CCM carries WA0RT3201 (as with Va_3CE2 / Va_3CE3). Its wrong alt title '…བམ་པོ་དང་པོ།' (bam po 1) was dropped. |
 | Ch_3CCU | གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ། | གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཟླ་བ་གྲགས་པ།༽ | Na_3C9x_ · Sh_3CCh_ · Di_3CEi_ | One verse by ཟླ་བ་གྲགས་པ (^1-1 ཟླ་བ་གྲགས་པས་སྨྲས་པ།) from the 50-siddhas anthology; the four extracts share its title. Name as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཤཱནྟ་དེ་བ། ཕྱོགས་ཀྱི་གླང་པོ། ཟླ་བ་གྲགས་པ. |
 | Ch_3CCX | ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ། | ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།༼ཟླ་བ་གྲགས་པ།༽ | Va_3CEP | Author from its own colophon (^a-1 …སློབ་དཔོན་ཟླ་བ་གྲགས་པས་མཛད་པ). Different work from Va_3CEP (Vasubandhu); both carry an author tag. Already uploaded: title patched on the library. |
 | Di_3CEi_ | གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ། | གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཕྱོགས་ཀྱི་གླང་པོ།༽ | Ch_3CCU · Na_3C9x_ · Sh_3CCh_ | One verse by ཕྱོགས་ཀྱི་གླང་པོ (^1-1 ཕྱོགས་ཀྱི་གླང་པོས་སྨྲས་པ།) from the 50-siddhas anthology. ཞེས་བྱ་བ added from its own colophon (^a-1), matching the other three; the Dignāga volume (Book 75) heading lacks it. Already uploaded: title patched on the library. |

@@ -1,5 +1,31 @@
 # Durchen outliers: footnotes with no `༼…༽` witness
 
+## Update 2026-10-27: block IDs stamped inside commentary footnotes
+
+The commentary block-ID step (2026-10-14, `0-INBOX/resegmented/` → `0-INBOX/processed/commentaries/`) cut long footnote definitions into back-matter blocks. That stamped IDs into their text (`[^d226]: སྒྲའིའོ། ། ^b-10 ༼སྣར། པེ།༽ …`) and put a space after `། །` at each cut. `0-INBOX/temp/api-lint/fix_footnotes.py` repaired this in the files that went through `segmented-commentary-with-toc/`, but 7 commentaries reached `1-SOURCES/` with it. Relabelling did not cause it: the damage is already in the first commit of these files (da9bb077).
+
+- **Fixed in the sources:** 101 definitions in 7 commentaries. 83 held a block ID, and 18 had only the extra space. Each was restored from the raw intake file `0-INBOX/commentary/<id>.md`, matched by its letters (exactly one candidate each), and keeps its current `[^dN]` label. The script is `4-SYSTEM/scripts/footnote-labels/restore_footnote_text.py`.
+- **Check:** every footnote definition in all 121 commentaries now has the same text as the raw file. The one exception is Gu_3CFW `[^d3016]`, where the missing `༽` was added deliberately.
+- **Fixed on the library:** the 5 uploaded commentaries had 70 wrong durchens, with wrong text and, where a lemma held an ID, a wrong span. Each was deleted and the corrected one posted; the ledger has the new ids.
+
+| id | definitions restored | live durchens replaced | uploaded |
+|---|---|---|---|
+| Bh_3CCF | 4 | 4 | yes |
+| Bh_3CCG | 1 | 1 | yes |
+| Bh_3CCL | 26 | 26 | yes |
+| Bu_3CCC | 17 | 17 | yes |
+| Ch_3CCg_ | 22 | 22 | yes |
+| Bh_3CCN | 15 | — | uploaded afterwards with the corrected text (2026-10-27) |
+| Ch_3CCe_ | 15 | — | no (duplicate of a library text) |
+
+### Missing space before the witness bracket (2026-10-27)
+
+The convention is `lemma ༼witness༽ variant`, with a space before `༼`. In 210 footnote definitions the space was missing, always right after a shad (`…ནོ། །༼སྣར། པེ།༽`). Two of those definitions have two brackets, so 212 spaces were added. The gap came with the intake files; the restore above did not cause it. The affected definitions are in 14 commentaries (139) and 20 root texts (71).
+
+- **Sources fixed** with `4-SYSTEM/scripts/footnote-labels/space_before_witness.py`, then relinted and reparsed (all OK).
+- **Linter** (root text and commentary) now warns about a definition with no space before `༼`.
+- **Library updated (2026-10-27).** All 34 texts are uploaded. Their 210 affected durchens were deleted and posted again with the space. Every edition now matches its payload (same count, spans and texts), and the ledgers (`upload-status.json`, `commentary-upload-status.json`) hold the new durchen ids.
+
 ## Update 2026-10-26: footnotes now carry their type: `[^dN]` durchen, `[^nN]` generic note
 
 Footnote labels now say what a footnote is:
@@ -75,7 +101,7 @@ These notes are **not on the library** until a note endpoint exists. A1–A9 wer
 
 ### Still open
 
-- **Commentary payloads.** The 12 deleted notes were also taken out of the six commentaries' `durchens.json` in `4-SYSTEM/scripts/parser-commentary/output/`. Each payload now holds the same spans and texts as the live edition, and the same count as the ledger. The other payload files were not regenerated. The 5 commentaries not yet uploaded (Bh_3CCN, Ch_3CCe_, Ka_3CDH, Va_3CE4, Va_3CE7) have no notes; they need a fresh lint and parse before upload in any case.
+- **Commentary payloads.** The 12 deleted notes were also taken out of the six commentaries' `durchens.json` in `4-SYSTEM/scripts/parser-commentary/output/`. Each payload now holds the same spans and texts as the live edition, and the same count as the ledger. The other payload files were not regenerated. The 5 commentaries not uploaded at the time (Bh_3CCN, Ch_3CCe_, Ka_3CDH, Va_3CE4, Va_3CE7) have no notes. Bh_3CCN was relinted, reparsed and uploaded on 2026-10-27. The other four need a fresh lint and parse before any upload; three of them (Ch_3CCe_, Ka_3CDH, Va_3CE4) duplicate texts already on the library.
 
 ## Update 2026-10-13: current `1-SOURCES/Text/` (442 root texts)
 

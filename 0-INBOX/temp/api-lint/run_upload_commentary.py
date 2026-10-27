@@ -51,9 +51,10 @@ LEDGER = HERE / "commentary-upload-status.json"
 
 
 def find_source(stem):
-    for d in (VAULT / "0-INBOX" / "temp" / "segmented-commentary-with-toc",
-              VAULT / "0-INBOX" / "processed" / "commentaries",
-              VAULT / "1-SOURCES" / "Commentaries"):
+    # 1-SOURCES is the source of record now; the 0-INBOX copies are older pipeline outputs
+    for d in (VAULT / "1-SOURCES" / "Commentaries",
+              VAULT / "0-INBOX" / "temp" / "segmented-commentary-with-toc",
+              VAULT / "0-INBOX" / "processed" / "commentaries"):
         p = d / f"{stem}.md"
         if p.exists():
             return p
@@ -141,6 +142,8 @@ def check(stem, live):
             if t.get("bdrc"):
                 hits = ub.call("GET", f"/v2/texts?bdrc={t['bdrc']}&limit=5").get("items", [])
                 if hits:
+                    # the library keeps one text per bdrc id (a uniqueness constraint): a later
+                    # part of a split work is uploaded without one, as Va_3CE3 / As_3CDp_ are
                     problems.append(f"a live text already has bdrc {t['bdrc']}: {[h.get('id') for h in hits]}")
         except ub.ApiError as exc:
             warnings.append(f"live check skipped: {exc}")

@@ -1,6 +1,7 @@
 ---
-title: "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།"
+title: "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།༼སྟོད་ཆ།༽"
 alt_titles:
+  - bo: "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།"
   - bo: "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ་བམ་པོ་དང་པོ།"
 author: "སློབ་དཔོན་ལེགས་ལྡན་འབྱེད།"
 author_in_english: "Bhāviveka"
@@ -11,7 +12,7 @@ lang_tag: "bo"
 verse_id_format:
 registered_id:
 covers_verses:
-source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 33) ལེགས་ལྡན་འབྱེད་ཀྱི་གསུང་འབུམ། ཅ .docx (04-Bhavaviveka); https://wb.pub/3CCM"
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 33) ལེགས་ལྡན་འབྱེད་ཀྱི་གསུང་འབུམ། ཅ .docx (04-Bhavaviveka); https://wb.pub/3CCM · Title changed 2026-10-27 (was 'དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།'): part tag: part 1 of 2 (bam po 1–15); part 2 is Bh_3CCN ༼སྨད་ཆ།༽ (bam po 16 onward), which shares this title and bdrc_work_id."
 bdrc_work_id: "WA0RT3201"
 source: "https://webuddhist.com/"
 license: "public"

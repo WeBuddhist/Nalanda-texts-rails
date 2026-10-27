@@ -53,6 +53,18 @@
   "clash": "Sh_3CCt_",
   "basis": "Part 1 (Book 41, chapters 1–5) of a two-part work; Sh_3CCt_ (Book 42, chapter 6 on, colophon) is already ༼སྨད་ཆ།༽. Already uploaded: title patched on the library (PATCH /v2/texts/8Rny2ucutFoSoG5TmR9q5, 2026-10-23)."
  },
+ "Bh_3CCM": {
+  "old": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།",
+  "new": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།༼སྟོད་ཆ།༽",
+  "clash": "Bh_3CCN",
+  "basis": "Commentary. Part 1 (Book 33, bam po 1–15) of a two-part work; Bh_3CCN (Book 34, bam po 16 on) labels itself ༼སྨད་ཆ།༽. Both share bdrc WA0RT3201. Already uploaded: title patched on the library (PATCH /v2/texts/nLztNphtFnyVCn3pNvjVj, 2026-10-27)."
+ },
+ "Bh_3CCN": {
+  "old": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།",
+  "new": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།༼སྨད་ཆ།༽",
+  "clash": "Bh_3CCM",
+  "basis": "Commentary. Part 2 (Book 34, bam po 16 on); its own heading reads ༼སྨད་ཆ།༽. Bh_3CCM (Book 33, bam po 1–15) is part 1. Uploaded 2026-10-27 as fP3mROrpMeyUajTzGv0CS, without a bdrc id: the library keeps one text per BDRC id, so Bh_3CCM carries WA0RT3201 (as with Va_3CE2 / Va_3CE3). Its wrong alt title '…བམ་པོ་དང་པོ།' (bam po 1) was dropped."
+ },
  "Ch_3CCU": {
   "old": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།",
   "new": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཟླ་བ་གྲགས་པ།༽",
