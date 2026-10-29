@@ -10330,8 +10330,8 @@
    "m6RTvOcU3QBAwaiHYCLQP",
    "9peyDUYvuTdfmdDmfsFA3",
    "zhrJkhhNDTsOkNoLwt5nL",
-   "RYZqJnwsqXjqcFrFmdpsH",
-   "iWwsHZ2bwS76mgaAxL4OQ",
+   "TeWiMEb7bSAh38no8GLCR",
+   "IiOx3GJYDu3flkOAnf9zb",
    "Bav3eXLl1LHQfwcGN2wXB",
    "KdFJ3TYtHgIhPTEKa5u17",
    "aataY5vq3e2jD1Lh8CNrH",
@@ -12143,6 +12143,27 @@
    "bg34YUByL0bp6N9Sm9xIo",
    "yGC5BjZ3tf6B7KgvNwhFr"
   ],
+  "durchens_replaced": [
+   {
+    "at": "2026-10-29T13:31:00",
+    "edition_id": "Ocn2Gam3ZQOLdD13SDHWg",
+    "reason": "Fix 15 malformed witness sigla (missing final shad, tsheg for shad, stray tsheg); same in raw, corrected in 1-SOURCES 2026-10-29",
+    "replaced": [
+     {
+      "new_id": "TeWiMEb7bSAh38no8GLCR",
+      "new_text": "རྣལ་མ་ ༼སྣར། པེ།༽ རྣམ་མོ། །",
+      "old_id": "RYZqJnwsqXjqcFrFmdpsH",
+      "old_text": "རྣལ་མ་ ༼སྣར། པེ༽ རྣམ་མོ། །"
+     },
+     {
+      "new_id": "IiOx3GJYDu3flkOAnf9zb",
+      "new_text": "དོན་ ༼སྣར། པེ།༽ མདོ་",
+      "old_id": "iWwsHZ2bwS76mgaAxL4OQ",
+      "old_text": "དོན་ ༼སྣར། པེ༽ མདོ་"
+     }
+    ]
+   }
+  ],
   "edition_id": "Ocn2Gam3ZQOLdD13SDHWg",
   "log": [
    {
@@ -12175,7 +12196,7 @@
   "status": "uploaded",
   "text_id": "RtaqVJWqmKxzpEZSZj1Yj",
   "toc_id": "A3SUaE3H6KogTtGEr7jGo",
-  "updated": "2026-10-28T00:00:15",
+  "updated": "2026-10-29T13:31:01",
   "updated_in_place": [
    {
     "at": "2026-10-27T23:56:30",
@@ -129370,11 +129391,26 @@
    "yvPXtkNCqdGwPzvYXnFq9",
    "cuyS0bIXPgI7JuDfh3Aju",
    "3EDxWSKQVBNxrY2TYs4vz",
-   "3Fi1jNXt6IUJvhoQeIa98",
+   "xGysaynQuuQ2eGV03Clz1",
    "LW5jScYCkCm5T5Kx5MSXO",
    "AyQFp9qAHayYB9tzmRT8J",
    "FIP6XazgkRMCBZKlwySU4",
    "yMxTvF4szAAURQcQMxTKg"
+  ],
+  "durchens_replaced": [
+   {
+    "at": "2026-10-29T13:30:57",
+    "edition_id": "cIZlHzXAIGAwqBzXV6tv3",
+    "reason": "Fix 15 malformed witness sigla (missing final shad, tsheg for shad, stray tsheg); same in raw, corrected in 1-SOURCES 2026-10-29",
+    "replaced": [
+     {
+      "new_id": "xGysaynQuuQ2eGV03Clz1",
+      "new_text": "ཀྱིས་ ༼པེ།༽ ཀྱིས།",
+      "old_id": "3Fi1jNXt6IUJvhoQeIa98",
+      "old_text": "ཀྱིས་ ༼པེ༽ ཀྱིས།"
+     }
+    ]
+   }
   ],
   "edition_id": "cIZlHzXAIGAwqBzXV6tv3",
   "log": [
@@ -129408,7 +129444,7 @@
   "status": "uploaded",
   "text_id": "l7JIJyrKGUzDcJylDpLcn",
   "toc_id": "Itj6xI6EcOSpKayRVKzZm",
-  "updated": "2026-10-27T23:56:19",
+  "updated": "2026-10-29T13:30:58",
   "updated_in_place": [
    {
     "at": "2026-10-27T23:56:15",

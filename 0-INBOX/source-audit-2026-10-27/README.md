@@ -36,11 +36,13 @@ The comparison above ignores brackets, spacing and labels. These changes, which 
 - In every durchen the brackets alternate correctly, `༼…༽` then the next `༼…༽`. No bracket is unclosed, nested or reversed.
 - Every bracket contains only sigla: སྣར། པེ། སྡེ། ཅོ། and གསེར་བྲིས།, alone or combined.
 - No sigla were found outside brackets. Two durchens in Ka_3CDU and one in Na_3CBJ look like it at first, but there `སྡེ` is part of the text.
-- 18 durchens have a malformed siglum. Each is the same in the raw file, so the fault is in the source:
+- 17 durchens have a malformed siglum (first counted as 18). Each is the same in the raw file, so the fault is in the source:
   - the final shad is missing: `༼ཅོ༽` ×6 (Sh_3CD1), `༼པེ༽` ×4, `༼སྣར། པེ༽` ×2, `༼སྣར༽`;
   - `༼སྣར་།༽`, `༼པེ། སྣར་༽`;
   - `༼པ། སྣར།༽`, which should read པེ (As_3CDd_ d10);
   - `༼པེ། ཤྣར།༽` (Na_3CAN d89).
+  
+  The first 15 (punctuation only) were corrected on 2026-10-29; see [Sigla corrected](#sigla-corrected-2026-10-29). The two wrong-letter cases are left for the scholar.
 - At_3CGX d11 has an editor's remark in parentheses after its witness, also from the source.
 
 **Generic notes: 32**
@@ -48,6 +50,7 @@ The comparison above ignores brackets, spacing and labels. These changes, which 
 - 9 give a lemma only, with no witness and no variant: Di_3CEo_ n1–n3, Sh_3CDC n1 and Va_3CEA n1–n5. They are like that in the raw file, so these durchens were incomplete in the source.
 - The other 23 are colophons, verses printed as a footnote, source citations and editor's remarks. Some contain `༼ཉོ༽` or `༼༦༽`, but those are volume numbers, not witnesses.
 - Separating them from the durchens was correct in every case.
+- On 2026-10-29 the generic notes were relabelled as footnotes, `[^nN]` → `[^fN]`, with the same numbers (commit `7005d71c`). The labels in this section are the ones in use at the time of the audit.
 
 **Renumbering: 5,355 footnotes in 13 texts**
 - In each of the 13 texts the raw file numbers its footnotes 1…N in order.
@@ -220,10 +223,32 @@ Not covered: As_3CDy_ and As_3CDz_ (raw commentaries with no 1-SOURCES file), an
 
 The 9 generic notes were also checked one by one: each definition is identical to its raw footnote and each marker follows the same text as in raw.
 
+## Sigla corrected (2026-10-29)
+
+15 malformed sigla were corrected in 1-SOURCES. Each one is a punctuation slip in the source, and the raw file has it too, so **these 15 definitions now differ from raw on purpose**. Only the bracket changed; the lemma, the variant and the marker are as before.
+
+| text | notes | as written | corrected |
+|---|---|---|---|
+| Sh_3CD1 | d1–d6 | `༼ཅོ༽` | `༼ཅོ།༽` |
+| Na_3C9U | d2 | `༼པེ༽` | `༼པེ།༽` |
+| Na_3CAN | d55 | `༼པེ༽` | `༼པེ།༽` |
+| Va_3CE1 | d18 | `༼པེ༽` | `༼པེ།༽` |
+| At_3CGX | d11 (the second siglum, inside the editor's remark) | `༼པེ༽` | `༼པེ།༽` |
+| Bh_3CCD | d1268, d1269 | `༼སྣར། པེ༽` | `༼སྣར། པེ།༽` |
+| Na_3CAN | d11 | `༼སྣར༽` | `༼སྣར།༽` |
+| Na_3C9y_ | d1 | `༼པེ། སྣར་༽` | `༼པེ། སྣར།༽` |
+| Na_3CAN | d21 | `༼སྣར་།༽` | `༼སྣར།༽` |
+
+The originals are backed up in `0-INBOX/delete/fix-sigla-2026-10-29/`. All 7 texts lint and parse cleanly; every durchen span is unchanged.
+
+In the library only these 15 durchens were replaced (DELETE, then POST with the corrected text). Content, segmentation, toc and every other durchen were left as they were, and the edition ids are kept. Afterwards each edition's live durchens equalled the parse exactly. The old and new durchen ids are in each ledger entry under `durchens_replaced`.
+
+Left for the scholar: As_3CDd_ d10 `༼པ། སྣར།༽` and Na_3CAN d89 `༼པེ། ཤྣར།༽`, which have a wrong letter rather than a punctuation slip.
+
 ## Not fixed: source-side
 
 These are in the material as received. They were left unchanged:
 - 47 lemma mismatches (91 less the 44 moved markers): 13 sit in the right place but the lemma differs in spelling or is cut short, 25 need an editor to decide, and 9 are generic notes
-- 18 malformed sigla
+- 2 malformed sigla with a wrong letter (As_3CDd_ d10, Na_3CAN d89); the other 15 were corrected, see above
 - 9 lemma-only notes
 - At_3CGX d11's editor's remark

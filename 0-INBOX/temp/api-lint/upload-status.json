@@ -36115,7 +36115,22 @@
    "cq60gk4oXOIOBHGvk50If",
    "rMSH6pwyJODK9Exptbl4b",
    "LC2jHf3ccXj36PVWNfAJR",
-   "nsYnG1OG3UooUY6K7Icvw"
+   "QhjcsXSRC3F6BYZsK7eQX"
+  ],
+  "durchens_replaced": [
+   {
+    "at": "2026-10-29T13:30:58",
+    "edition_id": "RJ1QszrA0ZyfNWU57swtF",
+    "reason": "Fix 15 malformed witness sigla (missing final shad, tsheg for shad, stray tsheg); same in raw, corrected in 1-SOURCES 2026-10-29",
+    "replaced": [
+     {
+      "new_id": "QhjcsXSRC3F6BYZsK7eQX",
+      "new_text": "རྫོགས་སོ། ། ༼པེ།༽སྟོ། (འདིའི་འོག་ཏུ་རྫོགས་སོ་ཞེས་པ་རྣམས་ ༼པེ།༽ ལ་རྫོགས་སྟོ་ཞེས་འཁོད་ཡོད་མེད་ཅི་རིགས་སྣང་ཡང་བསྡུར་མཆན་དུ་བཀོད་མེད།",
+      "old_id": "nsYnG1OG3UooUY6K7Icvw",
+      "old_text": "རྫོགས་སོ། ། ༼པེ།༽སྟོ། (འདིའི་འོག་ཏུ་རྫོགས་སོ་ཞེས་པ་རྣམས་ ༼པེ༽ ལ་རྫོགས་སྟོ་ཞེས་འཁོད་ཡོད་མེད་ཅི་རིགས་སྣང་ཡང་བསྡུར་མཆན་དུ་བཀོད་མེད།"
+     }
+    ]
+   }
   ],
   "edition_id": "RJ1QszrA0ZyfNWU57swtF",
   "log": [
@@ -36142,7 +36157,7 @@
   "status": "uploaded",
   "text_id": "jJS4tXBEi07iIPEm7ElEl",
   "toc_id": "nngPlMiSGa2XqnzwdSQ2z",
-  "updated": "2026-10-13T16:55:55"
+  "updated": "2026-10-29T13:30:59"
  },
  "At_3CGY": {
   "date": "2026-10-13",
@@ -79910,7 +79925,7 @@
   "durchen_count": 12,
   "durchen_ids": [
    "cUqULFBEDEPhfiSIzOx2w",
-   "lRcUEFsNZ15SXDjmplRD9",
+   "ZwzofpWntsZqUsihdAJE0",
    "mM0XCuvozNFzlEFVOz642",
    "tQJae3qRdQW8EhebDHhPV",
    "ItrI0VAmWOpaf4LL0MsRu",
@@ -79921,6 +79936,21 @@
    "48904XkR8aO6I4BQBSemO",
    "OXZMZu3AsLmFmVVnTzi5z",
    "6e6EU24xb6F0eM2OHl8xp"
+  ],
+  "durchens_replaced": [
+   {
+    "at": "2026-10-29T13:30:53",
+    "edition_id": "rbDqKl1eyF3T1AYYnM9YW",
+    "reason": "Fix 15 malformed witness sigla (missing final shad, tsheg for shad, stray tsheg); same in raw, corrected in 1-SOURCES 2026-10-29",
+    "replaced": [
+     {
+      "new_id": "ZwzofpWntsZqUsihdAJE0",
+      "new_text": "བསྣམས་ ༼པེ།༽ རྣམས།",
+      "old_id": "lRcUEFsNZ15SXDjmplRD9",
+      "old_text": "བསྣམས་ ༼པེ༽ རྣམས།"
+     }
+    ]
+   }
   ],
   "edition_id": "rbDqKl1eyF3T1AYYnM9YW",
   "log": [
@@ -79955,7 +79985,7 @@
   "status": "uploaded",
   "text_id": "QoxlQmbW2PXeLIGEeMCEQ",
   "toc_id": "1P7KuKSbTT4aJZCpu3zod",
-  "updated": "2026-10-28T00:07:14",
+  "updated": "2026-10-29T13:30:54",
   "updated_in_place": [
    {
     "at": "2026-10-28T00:07:10",
@@ -82579,7 +82609,22 @@
   "date": "2026-10-26",
   "durchen_count": 1,
   "durchen_ids": [
-   "nzzg7W9hwLq1V6qYItWJa"
+   "cGBGK3GFpsqXkqRyHgsxW"
+  ],
+  "durchens_replaced": [
+   {
+    "at": "2026-10-29T13:31:03",
+    "edition_id": "PabLmNlX8GjU4vNX1bZrk",
+    "reason": "Fix 15 malformed witness sigla (missing final shad, tsheg for shad, stray tsheg); same in raw, corrected in 1-SOURCES 2026-10-29",
+    "replaced": [
+     {
+      "new_id": "cGBGK3GFpsqXkqRyHgsxW",
+      "new_text": "ཀྱི་ ༼པེ། སྣར།༽ ཀྱིས་",
+      "old_id": "nzzg7W9hwLq1V6qYItWJa",
+      "old_text": "ཀྱི་ ༼པེ། སྣར་༽ ཀྱིས་"
+     }
+    ]
+   }
   ],
   "edition_id": "PabLmNlX8GjU4vNX1bZrk",
   "log": [
@@ -82606,7 +82651,7 @@
   "status": "uploaded",
   "text_id": "0mxQKp3McvNB51Ldwx1a2",
   "toc_id": "Q5qUKWFMmuqQhuxAl252H",
-  "updated": "2026-10-26T13:26:16"
+  "updated": "2026-10-29T13:31:03"
  },
  "Na_3C9z_": {
   "date": "2026-10-13",
@@ -84188,7 +84233,7 @@
    "Uwiku05lOZgVPfKjpeJF2",
    "qBUPJpv7uXA6glow4R67O",
    "lTL7ReNMACCBEEFlwPpoz",
-   "oUWNVIJlnmNXj8m9qtaHU",
+   "B2m39hDB1OXndBbT5Ycut",
    "0CjmGZvns0cn0j3vglhNx",
    "aNSNw4QZVh7RwWnBTtVsg",
    "gAteBnvB0x6EECfe9teDa",
@@ -84198,7 +84243,7 @@
    "NvMA6OKSfb26UdoEXuOLt",
    "2jXClx6t47f5fNBKjRHuP",
    "0YEpwIJSEtXUeZyLDbrGp",
-   "LFSoKrFXHPyUoZyehoc1r",
+   "o8fCgRrIH0WdUgPyS9BGs",
    "bg62XxyjT0wVog8O6TBr0",
    "Igoex7ajRlbDy98Hu9YkM",
    "CssoStS8bojn2N53PMDuM",
@@ -84232,7 +84277,7 @@
    "kBzbaUwQFbN83BFMuh7TK",
    "gYafRYfm3CkUEDta6DBYG",
    "Bp70OZBufMbkGy8VoqHL5",
-   "uU61oevLLmm6CXMpvq3al",
+   "aI6M5fw50RqBrnRMySFbH",
    "SqIHwBZ7lkEgaKfnh6sr9",
    "4UI7fodxUaIB79Z2PtTMG",
    "Hfs89kYrsKxq1bFAVISKB",
@@ -84286,6 +84331,33 @@
    "p9IYSLOkMBuAmBbTfKIww",
    "K1oomnhYNEoGi2F8Hfyuh"
   ],
+  "durchens_replaced": [
+   {
+    "at": "2026-10-29T13:30:55",
+    "edition_id": "RxnxpwC0BkYsNWbiKdpEl",
+    "reason": "Fix 15 malformed witness sigla (missing final shad, tsheg for shad, stray tsheg); same in raw, corrected in 1-SOURCES 2026-10-29",
+    "replaced": [
+     {
+      "new_id": "B2m39hDB1OXndBbT5Ycut",
+      "new_text": "ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་ ༼སྣར།༽ ཏྭ་རེ་ཏུད་ཏཱ་རེ།",
+      "old_id": "oUWNVIJlnmNXj8m9qtaHU",
+      "old_text": "ཏཱ་རེ་ཏུཏྟཱ་རེ་ཏུ་རེ་ ༼སྣར༽ ཏྭ་རེ་ཏུད་ཏཱ་རེ།"
+     },
+     {
+      "new_id": "o8fCgRrIH0WdUgPyS9BGs",
+      "new_text": "ཡིད་འོང་ ༼སྣར།༽ ཡིད་འོངས་།",
+      "old_id": "LFSoKrFXHPyUoZyehoc1r",
+      "old_text": "ཡིད་འོང་ ༼སྣར་།༽ ཡིད་འོངས་།"
+     },
+     {
+      "new_id": "aI6M5fw50RqBrnRMySFbH",
+      "new_text": "རེ་ཨ་ ༼པེ།༽ ཨཱ།",
+      "old_id": "uU61oevLLmm6CXMpvq3al",
+      "old_text": "རེ་ཨ་ ༼པེ༽ ཨཱ།"
+     }
+    ]
+   }
+  ],
   "edition_id": "RxnxpwC0BkYsNWbiKdpEl",
   "log": [
    {
@@ -84319,7 +84391,7 @@
   "status": "uploaded",
   "text_id": "KyzK88hXyOfRnpAonPa6G",
   "toc_id": "eiX94e3YZgAnqmYt1fevt",
-  "updated": "2026-10-28T00:07:28",
+  "updated": "2026-10-29T13:30:57",
   "updated_in_place": [
    {
     "at": "2026-10-28T00:07:19",
@@ -97062,12 +97134,57 @@
   "date": "2026-10-13",
   "durchen_count": 6,
   "durchen_ids": [
-   "ahk3iWZl6I230zp5QTOyn",
-   "pIz0n4BIRgdR0CV9niD6t",
-   "MwgTL6MRiL1Qp8GKXvHdd",
-   "aIaFQM4W3fCzocMSkkx06",
-   "fmgWweFAk4VSpmJeDaWiA",
-   "JRYiM4n0Gk0lpye18PikI"
+   "7MojAje4bhL7pYQZLMyW6",
+   "Pf9i2tucHBbvgYPdLoHGH",
+   "cRdsIhCPCjvjiB1QIZ43K",
+   "D06THCLw9avV72OwwgU62",
+   "5BqgTVaC8JRCLccMUpIjr",
+   "amIujxV9sWx7rx1ZQmGfr"
+  ],
+  "durchens_replaced": [
+   {
+    "at": "2026-10-29T13:30:49",
+    "edition_id": "XL0hCaYxLkfjz5agcmgxu",
+    "reason": "Fix 15 malformed witness sigla (missing final shad, tsheg for shad, stray tsheg); same in raw, corrected in 1-SOURCES 2026-10-29",
+    "replaced": [
+     {
+      "new_id": "7MojAje4bhL7pYQZLMyW6",
+      "new_text": "སྔ་དྲོ། ༼ཅོ།༽ སྔོ།",
+      "old_id": "ahk3iWZl6I230zp5QTOyn",
+      "old_text": "སྔ་དྲོ། ༼ཅོ༽ སྔོ།"
+     },
+     {
+      "new_id": "Pf9i2tucHBbvgYPdLoHGH",
+      "new_text": "གཉེན། ༼ཅོ།༽ གཉན།",
+      "old_id": "pIz0n4BIRgdR0CV9niD6t",
+      "old_text": "གཉེན། ༼ཅོ༽ གཉན།"
+     },
+     {
+      "new_id": "cRdsIhCPCjvjiB1QIZ43K",
+      "new_text": "ཉ་འདྲེ། ༼ཅོ།༽ ཉ་འདྲ།",
+      "old_id": "MwgTL6MRiL1Qp8GKXvHdd",
+      "old_text": "ཉ་འདྲེ། ༼ཅོ༽ ཉ་འདྲ།"
+     },
+     {
+      "new_id": "D06THCLw9avV72OwwgU62",
+      "new_text": "མི་གཅད། ༼ཅོ།༽ མི་བཅད།",
+      "old_id": "aIaFQM4W3fCzocMSkkx06",
+      "old_text": "མི་གཅད། ༼ཅོ༽ མི་བཅད།"
+     },
+     {
+      "new_id": "5BqgTVaC8JRCLccMUpIjr",
+      "new_text": "མ་མཆིས། ༼ཅོ།༽ མ།",
+      "old_id": "fmgWweFAk4VSpmJeDaWiA",
+      "old_text": "མ་མཆིས། ༼ཅོ༽ མ།"
+     },
+     {
+      "new_id": "amIujxV9sWx7rx1ZQmGfr",
+      "new_text": "མ་མཆིས། ༼ཅོ།༽ མ།",
+      "old_id": "JRYiM4n0Gk0lpye18PikI",
+      "old_text": "མ་མཆིས། ༼ཅོ༽ མ།"
+     }
+    ]
+   }
   ],
   "edition_id": "XL0hCaYxLkfjz5agcmgxu",
   "log": [
@@ -97102,7 +97219,7 @@
   "status": "uploaded",
   "text_id": "myZsK7j5CWY93tpK9LJ3s",
   "toc_id": "di2Y0sFJ9B7XOBlPWV3zP",
-  "updated": "2026-10-28T00:07:49",
+  "updated": "2026-10-29T13:30:53",
   "updated_in_place": [
    {
     "at": "2026-10-28T00:07:45",
