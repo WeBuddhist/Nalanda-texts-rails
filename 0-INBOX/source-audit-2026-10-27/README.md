@@ -187,6 +187,39 @@ The new toc ids are in each file's frontmatter. Each ledger entry (`upload-statu
 
 The six editions in [Fixed](#fixed-2026-10-27) were replaced (delete and re-post) before this in-place method was adopted; their old ids cannot be restored.
 
+## Content audit, character by character (2026-10-29)
+
+The body check above compares syllables, so it is blind to punctuation. This second pass compares every character of the content, ignoring only whitespace and line breaks (every Unicode space, zero-width characters). Heading lines, footnote markers and definitions, block IDs and commentary transclusion lines are left out on both sides. Everything else must match: letters, `་` against `༌`, shads, `༄༅`, brackets, digits. The parser's edition content (what is uploaded) was compared with the raw file in the same way.
+
+| result | texts |
+|---|---|
+| identical to raw | 540 |
+| differ only by `་`/`༌`, at the 44 moved markers (each pre-move backup is identical to raw) | 19 |
+| content differs | 4 |
+
+| text | difference | origin | done |
+|---|---|---|---|
+| Dh_3CEz_ | 10 shads dropped (`། །X` → `། X`); L415 `རང་བཞིན་གྱི།` → `རང་བཞིན་གྱི་` | **ours**: the resegment step (`0-INBOX/resegmented/Dh_3CEz_.reseg.md`) | restored from raw |
+| Ar_3CBa_ | 3 shads dropped (L368 ×2, L3400) | **ours**: root-text processing, 13 Oct (`0-INBOX/processed/root/`) | restored from raw |
+| As_3CDp_ | raw's mid-text running title (two `###` lines) made into content block `^5-45` | **ours** | block removed; `^5-46…^5-751` renumbered to `^5-45…^5-750`, no gap (nothing linked to them) |
+| Va_3CEX | raw's title heading `༄༅། །ཆོས་མངོན་པའི་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པ་བཞུགས།` made into content block `^I-1` | **ours** | **kept** by decision; Va_3CEJ transcludes it, and no library alignment uses it |
+
+Of the 564 raw title headings (`#…༄༅།`), the other 562 stayed headings. As_3CDp_ is the only text with a running title in the middle of the text.
+
+The originals are backed up in `0-INBOX/delete/restore-shads-2026-10-29/` and `0-INBOX/delete/as-3cdp-running-title-2026-10-29/`. All three now match raw (Va_3CEX aside), lint and parse cleanly, pass the footnote audit, and keep every durchen span on its lemma (Dh_3CEz_ d1357 is the known source-side mismatch).
+
+The three were updated in the library in place, keeping the edition id. Each was checked live: content and segments equal the parse, all durchens re-posted, one toc.
+
+| text | edition (kept) | new toc | content |
+|---|---|---|---|
+| Dh_3CEz_ | `yzqjrtZp5VTN6WcqMvDWN` | `FzwFb32HQ3V1jnBkSOSFx` | 276,037 → 276,047 chars |
+| Ar_3CBa_ | `oB2yUpl8hSBlXAYRhG4At` | `50YNwVjx2cnWVm8W0RtXF` | 80,209 → 80,212 chars |
+| As_3CDp_ | `2EkWs4gitDxegBYbmZMtT` | `b3dyrJLzHKSVJNJwXOMQ1` | 647,130 → 647,077 chars; 1,316 → 1,315 segments |
+
+Not covered: As_3CDy_ and As_3CDz_ (raw commentaries with no 1-SOURCES file), and the live content of texts not updated since they were uploaded.
+
+The 9 generic notes were also checked one by one: each definition is identical to its raw footnote and each marker follows the same text as in raw.
+
 ## Not fixed: source-side
 
 These are in the material as received. They were left unchanged:
