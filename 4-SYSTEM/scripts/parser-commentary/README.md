@@ -22,6 +22,7 @@ output/
     <stem>.edition.json     # edition metadata, content and segments
     <stem>.yigchungs.json   # yigchung (small-script) annotation spans — only when the text has <small>
     <stem>.durchens.json    # durchen (variant-reading) notes with their spans
+    <stem>.footnotes.json   # footnotes [^fN] with their positions — only when the text has some
     <stem>.toc.json         # nested TOC with character spans
     <stem>.alignment.json   # commentary → root-text alignments
 ```
@@ -79,6 +80,10 @@ The note reads `<lemma> ༼<witness sigla>༽ <variant>`. `durchens.json` holds 
 - The API does not check for duplicates: before re-uploading an edition, delete or check its existing durchens
 
 The span logic is in `durchen.py`. The same file sits in `linter-root-text`, `linter-commentary`, `parser-root-text` and `parser-commentary`: change one, copy it to the other three.
+
+## Footnotes
+
+Built exactly as in `parser-root-text` (see its README). A footnote `[^fN]` has a **position**, not a span: the gap before `content[position]`, from `0` to `len(content)`, in Unicode code points: where the marker stood once the markers are out of `content`. `footnotes.json` is written only when the text has footnotes, and nothing uploads it yet (no API endpoint).
 
 ## Alignment
 

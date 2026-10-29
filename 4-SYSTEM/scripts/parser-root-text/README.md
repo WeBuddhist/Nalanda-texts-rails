@@ -20,6 +20,7 @@ output/
     <stem>.edition.json     # edition metadata, content and segments
     <stem>.yigchungs.json   # yigchung (small-script) annotation spans — only when the text has <small>
     <stem>.durchens.json    # durchen (variant-reading) notes with their spans
+    <stem>.footnotes.json   # footnotes [^fN] with their positions — only when the text has some
     <stem>.toc.json         # nested TOC with character spans
     <stem>.alignment.json   # translation/commentary → root-text alignments
 ```
@@ -104,6 +105,30 @@ The note reads `<lemma> ༼<witness sigla>༽ <variant>`. `durchens.json` holds 
 - The API does not check for duplicates: before re-uploading an edition, delete or check its existing durchens
 
 The span logic is in `durchen.py`. The same file sits in `linter-root-text`, `linter-commentary`, `parser-root-text` and `parser-commentary`: change one, copy it to the other three.
+
+## Footnotes
+
+The footnote label says what a footnote is: `[^dN]` is a durchen, `[^fN]` a footnote (an editorial remark, a source citation, a colophon printed as a footnote). The old bare `[^N]` is still read as a durchen. At the end of the file the durchen definitions come first, `d1…dK`, then the footnotes, `f1…fM`.
+
+A footnote has a **position**, not a span: the gap between two characters, from `0` (before the first character) to `len(content)` (after the last). The marker goes right before `content[position]`. For `ཀཁག`: `0` → `●ཀཁག`, `2` → `ཀཁ●ག`, `3` → `ཀཁག●`. Positions count Unicode code points, and adding a footnote never changes the content.
+
+```
+གསུང་ངོ་།།[^f1]  །། ^1-6
+
+[^f1]: ཆོས་ཚན་འདི་ཉིད་ནང་། …
+```
+
+```json
+{"footnotes": [{"position": 268, "text": "ཆོས་ཚན་འདི་ཉིད་ནང་། …"}]}
+```
+
+- The position is where the marker stood once the markers are taken out of `content`; there is no lemma to match
+- Sorted by position; footnotes at the same position keep their marker order
+- A marker at the end of a line sits at the end of that line's text, which is also the start of the next line's (lines are joined with no separator). A marker after the last text of a block, or on its own after it, sits at the end of the text before it
+- A marker in a heading, or in a block that is skipped, gets no footnote (warning). So does a marker with no definition, or with an empty note
+- Checked before writing: integer `position`, `0 <= position <= len(content)`, non-blank `text`
+- **No file when there are no footnotes**, and one left from an earlier run is deleted
+- There is no API endpoint for footnotes yet: nothing uploads `footnotes.json`
 
 ## Table of contents
 

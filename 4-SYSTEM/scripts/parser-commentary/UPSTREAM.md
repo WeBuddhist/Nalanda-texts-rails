@@ -15,4 +15,5 @@ Copied byte-identical, without upstream's `output/` folder. Every later commit h
 
 - 2026-10-12: **durchens** (variant readings written as footnotes `[^n]`). Added `durchen.py`, shared by all four tools. The parser strips markers from `content` and TOC titles and writes `<stem>.durchens.json`. Not Nalanda-specific: offer it back to 21-taras-rails.
 - 2026-10-26: **footnote types** (shared `durchen.py`): only `[^dN]` (and the old bare `[^N]`) become durchens. Generic notes `[^nN]` have no API endpoint yet: their markers are stripped from `content` and they are logged (`NOTE …`) but not sent. Same change as parser-root-text.
+- 2026-10-29: **footnotes by position** (shared `durchen.py`): `[^fN]` footnotes (was `[^nN]`) get a position, the gap where the marker stood, written to `<stem>.footnotes.json`. Same change as parser-root-text.
 - 2026-10-26: **odd spaces.** Same as parser-root-text: content, TOC titles and durchen texts go through `durchen.normalize_spaces()`.
