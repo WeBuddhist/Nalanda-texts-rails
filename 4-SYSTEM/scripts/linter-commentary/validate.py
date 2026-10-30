@@ -750,15 +750,24 @@ def validate_text_input(data):
             for i, item in enumerate(contribs):
                 validate_contribution(item, "contributions", i, items)
 
-    if "tag_ids" not in data:
+    # tag_ids: a list of tag ids, written "tag_ids: [id1, id2]" (a text can have several).
+    tag_ids = data.get("tag_ids")
+    if tag_ids is None:
         items.append(("INFO", "tag_ids: not set (optional)"))
+    elif not isinstance(tag_ids, list):
+        items.append(("ERROR", f"tag_ids: expected a list, got {tag_ids!r} — write it "
+                               f"tag_ids: [{tag_ids}], even for a single tag"))
     else:
-        tag_ids = data["tag_ids"]
-        if not isinstance(tag_ids, list):
-            items.append(("ERROR", "tag_ids: expected array"))
-        else:
-            for i, item in enumerate(tag_ids):
-                if not is_nonempty_string(item):
-                    items.append(("ERROR", f"tag_ids[{i}]: expected string with at least one character"))
+        for i, item in enumerate(tag_ids):
+            if not isinstance(item, str):
+                # YAML reads an unquoted id such as 123456, 1e5, yes or null as a
+                # number, boolean or null, not as a string.
+                items.append(("ERROR", f"tag_ids[{i}]: {item!r} was read as {type(item).__name__}, "
+                                       f"not a string — quote it: \"{item}\""))
+            elif not item.strip() or item != item.strip() or any(c.isspace() for c in item):
+                items.append(("ERROR", f"tag_ids[{i}]: {item!r} — an id has no spaces and is not empty"))
+        dupes = sorted({t for t in tag_ids if isinstance(t, str) and tag_ids.count(t) > 1})
+        if dupes:
+            items.append(("ERROR", f"tag_ids: listed more than once: {', '.join(dupes)}"))
 
     return items
