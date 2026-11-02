@@ -4,7 +4,7 @@ damaged definition's text from the raw intake file (0-INBOX/commentary/<id>.md).
 A definition is damaged when its text holds a block ID (" ^b-10 ", " ^a-4") — the 2026-10-14
 block-ID step treated parts of long footnote definitions as back-matter blocks, and also put a
 space after "། །" where it cut them — or when its letters match a raw definition but its spacing
-does not (a cut that left no ID). The current label ([^dN] / [^nN]) is kept; only the text after
+does not (a cut that left no ID). The current label ([^dN] / [^fN]) is kept; only the text after
 "]: " is replaced, and only by a raw definition whose letters (whitespace and IDs ignored) are
 identical. Anything without such a match is reported and left alone.
 
