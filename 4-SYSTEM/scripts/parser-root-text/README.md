@@ -93,7 +93,7 @@ The note reads `<lemma> ༼<witness sigla>༽ <variant>`. `durchens.json` holds 
 ```
 
 - The marker is dropped from `content`, and the definition lines are not content at all
-- `text` is the whole note, as written
+- `text` is the whole note, as written: a plain string. A link, a transclusion, another `[^label]`, a block ID or a `<small>` tag inside a note is note text, never read as markup. The definition lines are taken out before anything else (content, TOC, alignment) reads the file
 - **The span is the lemma**: the text before `༼`, matched backwards from the marker. Matching ignores whitespace, because verse lines are joined with no separator, and treats `༌` as `་`. Trailing tsheg and shad are inside the span, and trailing spaces are not. In the example above the span is `ལ༌`
 - A lemma of shad only (`།། །།`) spans the shad just before the marker
 - **Fallback (warning):** when the lemma does not end at the marker, or the note has no `༼` (an editorial note), the span is the syllable just before the marker. The marker position is certain, but the start of the span is then a guess, so check those notes

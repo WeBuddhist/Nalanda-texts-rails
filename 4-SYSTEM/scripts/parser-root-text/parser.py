@@ -244,6 +244,7 @@ def _root_heading_refs(fm, source_path):
         _, root_body = _read_source(resolved)
     except (ValueError, OSError):
         return set()
+    root_body, _, _ = durchen.split_definitions(root_body)
     return {
         b["ref"].lstrip("^")
         for b in _extract_blocks(root_body)
@@ -761,6 +762,8 @@ def build_alignment(source_path):
     skipped_heading_targets = set()
     alignments = []
     seen_pairs = set()
+    # A transclusion or block ID inside a note is note text, not alignment.
+    body, _, _ = durchen.split_definitions(body)
     blocks = _extract_blocks(body)
     pending_targets = []
 

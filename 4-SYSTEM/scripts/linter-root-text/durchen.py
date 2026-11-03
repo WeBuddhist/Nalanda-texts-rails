@@ -31,6 +31,12 @@ back to the syllable before the marker, and the caller is told so.
 
 Spans are half-open [start, end), absolute code-point offsets into the edition
 content, and always non-empty: the API stores an empty span but never returns it.
+
+The note text, of a durchen or a footnote, is a plain string. Nothing in it is
+read as markup: a link, a transclusion, another [^label], a block ID or a
+<small> tag inside a note is note text, sent as written. Only odd spaces are
+normalised (normalize_spaces). The definition lines are taken out of the body
+(split_definitions) before anything else reads it.
 """
 
 from __future__ import annotations
@@ -115,7 +121,9 @@ def split_definitions(body):
     Returns (body, defs, problems). Each definition line is replaced by an
     empty line, so line numbers and block boundaries stay where they were.
     defs maps label -> {"text", "line"} (1-based line in body). problems is a
-    list of (level, message) for duplicate labels and blank notes.
+    list of (level, message) for duplicate labels and blank notes. The text
+    after "]: " is kept as a string; markers, links and block IDs in it are
+    not read.
     """
     lines = body.split("\n")
     defs, problems = {}, []
