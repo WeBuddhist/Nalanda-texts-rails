@@ -1,2 +1,3 @@
 {"label": "group-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 14.2, "input": 51597, "output": 1857, "thought": 0}
 {"label": "group-low-a1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 12.1, "input": 51645, "output": 1451, "thought": 0}
+{"label": "group-low-a0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 15.9, "input": 51592, "output": 2268, "thought": 0}

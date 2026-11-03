@@ -34,7 +34,7 @@ Use it for root texts, editions and translations. Commentaries have their own li
 | `author` / `translator` | Optional (warning if both missing). See [Contributors](#contributors) |
 | `bdrc_work_id` (or `bdrc`) | Optional. Passed through as `bdrc`; never looked up by title |
 | `wiki`, `date`, `commentary_of`, `translation_of` | Optional strings |
-| `tag_ids` | Optional list of strings |
+| `tag_ids` | Optional. A list of tag ids, even for one tag: `tag_ids: [296WZOr8MXWteSqBBI7pl]` or `tag_ids: [id1, id2]`. Each id is a string with no spaces, listed once. Quote an id YAML would read as something else (`"123456"`, `"yes"`). A bare `tag_ids: id` is an error. Passed through to `text_input` as written |
 
 Pali (`pi`) titles must be in Roman script; see [Titles](#titles).
 

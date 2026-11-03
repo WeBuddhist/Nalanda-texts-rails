@@ -46,3 +46,52 @@ $ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/
    ✓ final-prose.md: letters identical; 1740 spacing difference(s) restored from the source — now identical (letters and spacing)
 /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Gu_3CFT/final-prose.md: 904 paragraphs (sentences per paragraph: 1 ×190, 2 ×223, 3 ×227, 4 ×94, 5 ×66, 6 ×48, 7 ×22, 8 ×10, 9 ×7, 10 ×6, 11 ×2, 12 ×1, 13 ×4, 14 ×4) · 27 stanzas (2 lines ×2, 4 lines ×15, 6 lines ×2, 8 lines ×3, 9 lines ×1, 10 lines ×2, 12 lines ×1, 20 lines ×1)
 
+
+=== 2026-10-13 18:38:32
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Gu_3CFT.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Gu_3CFT
+prose: 2808 sentences, 161 verse lines in 11 passage(s) · front matter (Sanskrit title, Tibetan title, homage), translators' colophon, raw paragraph breaks kept: 228, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །ལས་བརྒྱ་རྩ་གཅིག་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Gu_3CFT --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Gu_3CFT\toc-tree-anchored-Gu_3CFT.md
+prose: 2809 sentences, 161 verse lines in 11 passage(s) · front matter (Sanskrit title, Tibetan title, homage), translators' colophon, raw paragraph breaks kept: 228, first body heading moved up 1 pāda(s) to follow the front matter, 1 unit(s) split by a heading inside them · body headings: 0 not placed · translated from Sanskrit · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །ལས་བརྒྱ་རྩ་གཅིག་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## དང་པོར་རབ་ཏུ་འབྱུང་བའི་གཞིའི་སྐབས་ཀྱི་ཆོ་ག་དང་ལས་རྣམས། ^1-0
+   ## དགེ་སློང་མའི་རབ་ཏུ་འབྱུང་བའི་གཞིའི་སྐབས་ཀྱི་ཆོ་ག་དང་ལས་རྣམས། ^2-0
+   ## དགེ་སློང་གི་རྣམ་པར་འབྱེད་པའི་སྐབས་ཀྱི་ཆོ་ག་དང་ལས་རྣམས། ^3-0
+   ## ད་ནི་དགེ་སློང་མའི་རྣམ་པར་འབྱེད་པའི་སྐབས་ཀྱི་ཆོ་ག་དང་ལས་རྣམས། ^4-0
+   ## གསོ་སྦྱོང་གི་གཞིའི་སྐབས་ཀྱི་ཆོ་ག་དང་ལས་རྣམས། ^5-0
+   ## དབྱར་དང་དེ་དང་ཉེ་བའི་གཞི་དགག་དབྱེའི་གཞིའི་སྡོམ། ^6-0
+   ## སྲ་བརྐྱང་གི་གཞིའི་སྡོམ། ^7-0
+   ## གོས་ཀྱི་གཞི་དང་ཉེ་བའི་གོས་ཀྱི་གཞིའི་སྡོམ། ^8-0
+   ## སྨན་གྱི་གཞི་དང་ལས་ཀྱི་གཞིའི་སྡོམ། ^9-0
+   ## ཕྱིར་བཅོས་པའི་གཞིའི་སྡོམ། ^10-0
+   ## ཕྱིར་བཅོས་པའི་གཞི་དང་ཉེ་བའི་གཞིའི་སྡོམ། ^11-0
+   ## ས་གཞན་ན་གནས་པའི་སྤྱོད་པ་དང་ཡོངས་སུ་སྤྱོད་པའི་གཞིའི་སྡོམ། ^12-0
+   ## ལས་བྱེ་བ་དང་། དགེ་འདུན་བྱེ་བའི་གཞིའི་སྡོམ། ^13-0
+   ## རྩོད་པའི་གཞིའི་སྡོམ། ^14-0
+   ## གནས་མལ་གྱི་གཞི་དང་ཉེ་བའི་གཞིའི་སྡོམ། ^15-0
+   ## ལས་ཐམས་ཅད་བསྡུས་པ། ^16-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Gu_3CFT
+group-in-part1.md: units 1–585 → groups-prose-part1.json
+group-in-part2.md: units 586–1152 → groups-prose-part2.json
+group-in-part3.md: units 1153–1711 → groups-prose-part3.json
+group-in-part4.md: units 1712–2265 → groups-prose-part4.json
+group-in-part5.md: units 2266–2796 → groups-prose-part5.json
+group-in-part6.md: units 2797–2970 → groups-prose-part6.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Gu_3CFT
+groups-prose.json: 864 blocks from 6 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Gu_3CFT
+   ✓ final-prose.md: letters identical; 1811 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Gu_3CFT\final-prose.md: 837 paragraphs (sentences per paragraph: 1 ×165, 2 ×182, 3 ×208, 4 ×90, 5 ×73, 6 ×48, 7 ×25, 8 ×15, 9 ×10, 10 ×3, 11 ×6, 12 ×3, 13 ×4, 14 ×4, 18 ×1) · 27 stanzas (2 lines ×2, 4 lines ×14, 6 lines ×1, 8 lines ×3, 9 lines ×1, 10 lines ×5, 12 lines ×1)
+

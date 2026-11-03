@@ -169,8 +169,8 @@
     "909": "chapter colophon rubric",
     "1010": "chapter colophon rubric",
     "1111": "chapter colophon rubric",
-    "1140": "two-line verse fragment split by paragraph mark",
-    "1142": "two-line verse conclusion following paragraph mark"
+    "1140": "two-line half stanza ending before paragraph break",
+    "1142": "two-line half stanza continuing after paragraph break"
   }
 }
 ```

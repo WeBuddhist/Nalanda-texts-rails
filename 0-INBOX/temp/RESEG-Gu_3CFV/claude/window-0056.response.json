@@ -1,0 +1,15 @@
+[
+  {"op": "merge", "blocks": [1962, 1963]},
+  {"op": "merge", "blocks": [1964, 1965]},
+  {"op": "merge", "blocks": [1966, 1967]},
+  {"op": "merge", "blocks": [1968, 1969, 1970]},
+  {"op": "merge", "blocks": [1972, 1973, 1974]},
+  {"op": "merge", "blocks": [1975, 1976, 1977, 1978, 1979, 1980]},
+  {"op": "merge", "blocks": [1981, 1982, 1983, 1984, 1985, 1986]},
+  {"op": "merge", "blocks": [1987, 1988]},
+  {"op": "split", "block": 1989, "after": "སུ་འགྱུར་རོ།[^1258] །"},
+  {"op": "merge", "blocks": [1990, 1991]},
+  {"op": "merge", "blocks": [1993, 1994]},
+  {"op": "merge", "blocks": [1996, 1997]},
+  {"op": "merge", "blocks": [1998, 1999, 2000]}
+]

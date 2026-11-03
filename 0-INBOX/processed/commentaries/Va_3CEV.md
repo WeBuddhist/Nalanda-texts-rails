@@ -20,7 +20,6 @@ category_name: "Mind-only Treatises / སེམས་ཙམ།"
 text_id: "RMMNrrnTeamYKAcKQGt8o"
 edition_id: "9sVAaZHt8xaTSX3dEO5dE"
 toc_id: "j9C4bsf2Lg3GpbhrBTM4w"
-durchen_count: 1127
 openpecha_text_id: "pVFCgPKkLfrCicqzyyoKU"
 ---
 

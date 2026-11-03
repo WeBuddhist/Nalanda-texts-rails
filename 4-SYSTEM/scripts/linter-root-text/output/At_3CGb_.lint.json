@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/At_3CGb_.md",
+  "validated_at": "2026-10-26T08:56:06.666886+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 6 from 6 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
+    "toc: 9 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "segment 6 (^1-1): footnote [^d3] lemma 'གཉིས་བཅིག་པ།' does not end at the marker — the durchen will span the syllable before it, 'པ།'"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "ཞི་བའི་སྦྱིན་སྲེག་གི་ཆོ་ག"
+    },
+    "alt_titles": [
+      {
+        "bo": "སྦྱིན་སྲེག་གི་ཆོ་ག"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

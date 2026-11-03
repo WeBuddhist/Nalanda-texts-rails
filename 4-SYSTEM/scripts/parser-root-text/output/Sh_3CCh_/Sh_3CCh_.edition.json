@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "type": "critical",
+    "source": "https://webuddhist.com/"
+  },
+  "content": "༄༅༅། །ཤཱནྟ་དེ་བས་གསུངས་པ།ཀྱེ་ཧོ་སེམས་ནི་ཡེ་ཤེས་ཆེན་པོ་སྟེ། །འདི་ལས་གུད་ན་སངས་རྒྱས་མེད། །སེམས་ཀྱི་དེ་ཉིད་ཤེས་གྱུར་ན། །འཁོར་བ་རང་གྲོལ་མྱ་ངན་འདས། །གསུང་ངོ་།།  །།",
+  "segmentation": {
+    "segments": [
+      {
+        "lines": [
+          {
+            "start": 0,
+            "end": 25
+          }
+        ],
+        "type": "verse",
+        "reference": "1-1"
+      },
+      {
+        "lines": [
+          {
+            "start": 25,
+            "end": 60
+          }
+        ],
+        "type": "verse",
+        "reference": "1-2"
+      },
+      {
+        "lines": [
+          {
+            "start": 60,
+            "end": 88
+          }
+        ],
+        "type": "verse",
+        "reference": "1-3"
+      },
+      {
+        "lines": [
+          {
+            "start": 88,
+            "end": 117
+          }
+        ],
+        "type": "verse",
+        "reference": "1-4"
+      },
+      {
+        "lines": [
+          {
+            "start": 117,
+            "end": 144
+          }
+        ],
+        "type": "verse",
+        "reference": "1-5"
+      },
+      {
+        "lines": [
+          {
+            "start": 144,
+            "end": 158
+          }
+        ],
+        "type": "verse",
+        "reference": "1-6"
+      }
+    ]
+  }
+}

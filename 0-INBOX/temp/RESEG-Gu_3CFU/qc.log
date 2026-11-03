@@ -1,0 +1,55 @@
+Input:  0-INBOX\resegmented\Gu_3CFU.reseg.md
+ID:     Gu_3CFU
+
+Blocks: 2351
+
+Step 1 — Deterministic checks...
+  32 flag(s) found.
+  Block 9 — OBJECTION_REPLY_FUSED
+  Block 59 — OBJECTION_REPLY_FUSED
+  Block 241 — OBJECTION_REPLY_FUSED
+  Block 304 — CONNECTOR_ENDING
+  Block 332 — SHORT_FRAGMENT (3 syl)
+  Block 415 — CONNECTOR_ENDING
+  Block 465 — OBJECTION_REPLY_FUSED
+  Block 546 — SHORT_FRAGMENT (3 syl)
+  Block 701 — CONNECTOR_ENDING
+  Block 720 — OBJECTION_REPLY_FUSED
+  Block 773 — OBJECTION_REPLY_FUSED
+  Block 832 — CONNECTOR_ENDING
+  Block 872 — OBJECTION_REPLY_FUSED
+  Block 945 — OBJECTION_REPLY_FUSED
+  Block 1028 — OVER_LENGTH (304 syl)
+  Block 1029 — OVER_LENGTH (309 syl)
+  Block 1049 — CONNECTOR_ENDING
+  Block 1107 — OBJECTION_REPLY_FUSED
+  Block 1333 — OVER_LENGTH (273 syl)
+  Block 1364 — OVER_LENGTH (282 syl)
+  Block 1523 — OVER_LENGTH (361 syl)
+  Block 1646 — OVER_LENGTH (276 syl)
+  Block 1677 — OBJECTION_REPLY_FUSED
+  Block 1879 — CONNECTOR_ENDING
+  Block 1961 — OVER_LENGTH (252 syl)
+  Block 2042 — OBJECTION_REPLY_FUSED
+  Block 2078 — OBJECTION_REPLY_FUSED
+  Block 2123 — OBJECTION_REPLY_FUSED
+  Block 2167 — CONNECTOR_ENDING
+  Block 2177 — CONNECTOR_ENDING
+  Block 2186 — OBJECTION_REPLY_FUSED
+  Block 2345 — CONNECTOR_ENDING
+
+Step 2 — LLM repair...
+  LLM suggested 1 correction(s):
+    SPLIT block 2186 after: ['མདོ་ལས་གསུངས་སོ་ཞེ་ན།', 'ཞེས་གསུངས་པའི་ཕྱིར་རོ། །']
+  ✓ Integrity check passed. Blocks: 2351 → 2353
+
+Step 3 — Re-checking after repair...
+  32 flag(s) remain after repair.
+  Updated: 0-INBOX\resegmented\Gu_3CFU.reseg.md
+
+QC report: 0-INBOX\resegmented\Gu_3CFU.qc.md
+
+────────────────────────────────────────
+Flags before : 32
+Flags after  : 32
+Corrections  : 1

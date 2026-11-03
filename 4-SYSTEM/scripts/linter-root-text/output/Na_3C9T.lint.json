@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Text/Na_3C9T.md",
+  "validated_at": "2026-10-26T08:58:08.465423+00:00",
+  "notes": [
+    "wiki: not set (optional)",
+    "commentary_of: not set (optional)",
+    "translation_of: not set (optional)",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "durchens: 16 from 16 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
+    "toc: 5 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": "WA0RT0637",
+    "wiki": null,
+    "date": null,
+    "title": {
+      "bo": "རྡོ་རྗེ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།"
+    },
+    "alt_titles": [
+      {
+        "bo": "དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།"
+      },
+      {
+        "bo": "༄༅། །དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།"
+      }
+    ],
+    "language": "bo",
+    "commentary_of": null,
+    "translation_of": null,
+    "category_id": "REBGnT4qFooPfPEkR5pe5",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

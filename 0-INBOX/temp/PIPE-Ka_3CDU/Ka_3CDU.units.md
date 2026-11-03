@@ -1,3 +1,27 @@
+---
+title: "དགེ་སྦྱོང་གི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པའི་ཚིག་གི་བརྗེད་བྱང་དུ་བྱས་པ།"
+alt_titles:
+  - bo: "དགེ་སྦྱོང་གི་ཀ་རི་ཀ་ལྔ་བཅུ་པའི་ཚིག་གི་བརྗེད་བྱང་དུ་བྱས་པ།"
+  - bo: "དགེ་སྦྱོང་གི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པ་མདོ་ཙམ་དུ་བཤད་པ།"
+author: "ཀ་མ་ལ་ཤཱི་ལ།"
+author_in_english: "kamalashila"
+date:
+language: "Tibetan"
+file_type: "commentary"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 48)  ཀ་མ་ལ་ཤཱི་ལའི་གསུང་འབུམ། ག༽ .docx (08-Kamalashila); https://wb.pub/3CDU"
+bdrc_work_id: "WA0RT3466"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "08-Kamalashila"
+category_id: "4wuvGxIgXNZ5mb0bDWvkC"
+category_name: "Monastic Rules / འདུལ་བ།"
+openpecha_text_id: "x3ieLYD33Av2Y9Z27FwzB"
+---
+
 ## ༄༅། །དགེ་སྦྱོང་གི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པའི་ཚིག་གི་བརྗེད་བྱང་དུ་བྱས་པ།
 
 ༄༅༅། །ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། །

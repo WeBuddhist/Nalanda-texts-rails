@@ -404,9 +404,11 @@ def _validate_yigchung_tags(body, items):
             items.append(("ERROR", f"{where}: stray <small> (not closed by the end of {end})"))
 
 
-# Durchen (variant-reading notes) are footnotes: a marker [^n] right after the
-# text, a definition "[^n]: lemma ༼sigla༽ variant" at the end of the file. The
-# parser makes one durchen per marker, spanning the lemma before it.
+# Durchen (variant-reading notes) are footnotes: a marker [^dN] right after the
+# text, a definition "[^dN]: lemma ༼sigla༽ variant" at the end of the file. The
+# parser makes one durchen per marker, spanning the lemma before it. Footnotes
+# [^fN] are only checked for a definition: they have a position, not a span,
+# so there is no lemma to place. The old bare [^N] is still read as a durchen.
 INLINE_MARK_RE = re.compile(
     SMALL_TAG_RE.pattern + "|" + durchen.FOOTNOTE_MARK_RE.pattern, re.IGNORECASE
 )
@@ -433,9 +435,10 @@ def _validate_durchens(body, notes, items):
         if is_header:
             labels = [m.group(1) for m in durchen.FOOTNOTE_MARK_RE.finditer(lines[0])]
             for label in labels:
-                items.append(("WARN",
-                    f"header {block_num} ({ref}): footnote [^{label}] in a heading — headings "
-                    f"are not edition content, so it gets no durchen"))
+                if durchen.kind(label) is not None:
+                    items.append(("WARN",
+                        f"header {block_num} ({ref}): footnote [^{label}] in a heading — headings "
+                        f"are not edition content, so it is not sent"))
                 marks.append({"label": label, "pos": None, "where": f"header {block_num}"})
             continue
         if not any(durchen.FOOTNOTE_MARK_RE.sub("", l).strip() for l in content_lines):
@@ -468,16 +471,26 @@ def _validate_durchens(body, notes, items):
 
     content = "".join(parts)
     seen = set()
-    placed = 0
+    placed = placed_fn = 0
     for mk in marks:
         label, where = mk["label"], mk["where"]
+        k = durchen.kind(label)
+        if k is None:
+            items.append(("ERROR",
+                f"{where}: footnote [^{label}] — label must be [^dN] (durchen) or [^fN] (footnote)"))
+            continue
         if label in seen:
             items.append(("WARN",
-                f"{where}: footnote [^{label}] is marked more than once — one durchen for each"))
+                f"{where}: footnote [^{label}] is marked more than once — one "
+                + ("footnote" if k == durchen.FOOTNOTE else "durchen") + " for each"))
         seen.add(label)
         note = notes.get(label)
         if note is None:
             items.append(("ERROR", f"{where}: footnote [^{label}] has no definition"))
+            continue
+        if k == durchen.FOOTNOTE:
+            # A footnote sits at the marker's position: no lemma, nothing to place.
+            placed_fn += mk["pos"] is not None and bool(note["text"])
             continue
         if mk["pos"] is None or not note["text"]:
             continue
@@ -500,9 +513,18 @@ def _validate_durchens(body, notes, items):
         if label not in seen:
             items.append(("WARN",
                 f"footnote [^{label}] (line {note['line']}) is defined but never marked in the "
-                f"text — no durchen"))
+                f"text" + (" — not sent" if durchen.kind(label) is not None else "")))
+    for msg in durchen.layout_problems([mk["label"] for mk in marks], notes):
+        items.append(("WARN", msg))
+    fn_defs = [l for l in notes if durchen.kind(l) == durchen.FOOTNOTE]
+    legacy = [l for l in notes if durchen.kind(l) == durchen.LEGACY]
     if notes or marks:
-        items.append(("INFO", f"durchens: {placed} from {len(notes)} footnote definition(s)"))
+        items.append(("INFO", f"durchens: {placed} from {len(notes) - len(fn_defs)} durchen "
+                              f"definition(s); footnotes: {placed_fn} from {len(fn_defs)} footnote "
+                              f"definition(s), placed by position"))
+    if legacy:
+        items.append(("INFO", f"{len(legacy)} footnote(s) still use the old bare label [^N], read "
+                              f"as durchens — relabel them to [^dN] / [^fN]"))
 
 
 def _extract_headers(body):
@@ -518,6 +540,33 @@ def _extract_headers(body):
         text = text_with_ref[:m.start()].rstrip() if m else text_with_ref
         headers.append((level, text, ref))
     return headers
+
+
+def _validate_characters(body, items):
+    """Warn about characters a source should not contain: spaces other than the
+    plain space (U+00A0 …), invisible ones (zero-width space, BOM …) and line
+    breaks other than \\n. The parser normalises them, but the source should be
+    cleaned (4-SYSTEM/scripts/clean-whitespace/clean_whitespace.py)."""
+    found = {}
+    for line, name in durchen.odd_characters(body):
+        found.setdefault(name, []).append(line)
+    for name, lines in found.items():
+        where = ", ".join(map(str, sorted(set(lines))[:8])) + (" …" if len(set(lines)) > 8 else "")
+        breaks = {durchen.char_name(c) for c in durchen.LINE_BREAKS + "\r"}
+        effect = "the parser does not read it as a line break" if name in breaks else "the parser normalises it"
+        items.append(("WARN", f"{len(lines)} {name} in the source (body line {where}) — {effect}; "
+                              f"clean the source with clean-whitespace/clean_whitespace.py"))
+
+
+def _validate_witness_spacing(body, items):
+    """Warn about a footnote definition with no space before a witness bracket
+    ("…ནོ། །༼སྣར། པེ།༽" for "…ནོ། ། ༼སྣར། པེ།༽"): the convention is "lemma ༼witness༽ variant"."""
+    lines = [n for n, line in enumerate(body.splitlines(), 1)
+             if re.match(r"\[\^[^\]]+\]:", line) and re.search(r"\S༼", line.split(":", 1)[1])]
+    if lines:
+        where = ", ".join(map(str, lines[:8])) + (" …" if len(lines) > 8 else "")
+        items.append(("WARN", f"{len(lines)} footnote definition(s) with no space before ༼ (body line {where}); "
+                              f"fix with footnote-labels/space_before_witness.py"))
 
 
 def validate_edition(data, body):
@@ -553,6 +602,8 @@ def validate_edition(data, body):
     if not body or not body.strip():
         items.append(("ERROR", "content body is empty"))
     else:
+        _validate_characters(body, items)
+        _validate_witness_spacing(body, items)
         # Footnote definitions are not edition blocks: take them out first.
         body, notes, note_problems = durchen.split_definitions(body)
         items.extend(note_problems)
@@ -689,15 +740,24 @@ def validate_text_input(data):
             for i, item in enumerate(contribs):
                 validate_contribution(item, "contributions", i, items)
 
-    if "tag_ids" not in data:
+    # tag_ids: a list of tag ids, written "tag_ids: [id1, id2]" (a text can have several).
+    tag_ids = data.get("tag_ids")
+    if tag_ids is None:
         items.append(("INFO", "tag_ids: not set (optional)"))
+    elif not isinstance(tag_ids, list):
+        items.append(("ERROR", f"tag_ids: expected a list, got {tag_ids!r} — write it "
+                               f"tag_ids: [{tag_ids}], even for a single tag"))
     else:
-        tag_ids = data["tag_ids"]
-        if not isinstance(tag_ids, list):
-            items.append(("ERROR", "tag_ids: expected array"))
-        else:
-            for i, item in enumerate(tag_ids):
-                if not is_nonempty_string(item):
-                    items.append(("ERROR", f"tag_ids[{i}]: expected string with at least one character"))
+        for i, item in enumerate(tag_ids):
+            if not isinstance(item, str):
+                # YAML reads an unquoted id such as 123456, 1e5, yes or null as a
+                # number, boolean or null, not as a string.
+                items.append(("ERROR", f"tag_ids[{i}]: {item!r} was read as {type(item).__name__}, "
+                                       f"not a string — quote it: \"{item}\""))
+            elif not item.strip() or item != item.strip() or any(c.isspace() for c in item):
+                items.append(("ERROR", f"tag_ids[{i}]: {item!r} — an id has no spaces and is not empty"))
+        dupes = sorted({t for t in tag_ids if isinstance(t, str) and tag_ids.count(t) > 1})
+        if dupes:
+            items.append(("ERROR", f"tag_ids: listed more than once: {', '.join(dupes)}"))
 
     return items

@@ -20,7 +20,6 @@ category_name: "Discourses / མདོ་སྡེ།"
 text_id: "eUkgTmR9WRq4mkqjUFwaB"
 edition_id: "pwKqf51vQP8BU7V7Zmm4B"
 toc_id: "ZMwYvVgqoFEYM1kno1lCh"
-durchen_count: 412
 openpecha_text_id:
 ---
 

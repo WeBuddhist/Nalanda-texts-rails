@@ -1,16 +1,9 @@
----
-source: Ka_3CDU
-skill: commentary-toc-extract
-stage: toc-tree-qc
-date: 2026-10-13
-model: gemini-3.8-flash
-repaired: false
-issues_before: 0
-issues_after: 0
----
-
 # TOC tree QC report
 
-## Issues found
+issues: 3
 
-- (none)
+## Issues
+
+- L11: unparseable tree line: * I. ཀླད་ཀྱི་དོན། [[༄༅༅། །ཐམས་ཅད་མཁྱེན་པ་ལ་ཕྱག་འཚལ་ལོ། ། དགེ་སྦྱོང་གི་ཀཱ་རི་ཀཱ་ལྔ་]]
+- L74: unparseable tree line: * b. མཇུག་བྱང། [[དགེ་སྦྱོང་གི་ཀཱ་རི་ཀཱ་ལྔ་བཅུ་པ་མདོ་ཙམ་དུ་བཤད་པ། སློབ་དཔོན་]]
+- L75: unparseable tree line: * b.1 མཛད་བྱང། [[སློབ་དཔོན་ཀ་མ་ལ་ཤཱི་ལས་མཛད་པ་རྫོགས་སོ།། །།]]

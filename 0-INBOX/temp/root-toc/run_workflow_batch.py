@@ -263,7 +263,8 @@ def process(i, kind, thinking):
     with (LOGS / f"workflow-{i}.log").open("a", encoding="utf-8") as log:
         log.write(f"\n=== {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
         t0 = time.time()
-        for f in work.glob("groups-*.json"):        # a new segmentation: old groupings are invalid
+        for f in [*work.glob("groups-*.json"), *work.glob("group-in-part*.md")]:
+            # a new segmentation: old groupings and old split parts are invalid
             f.unlink()
         p = run([LIB, "segment", VAULT / f"0-INBOX/root/{i}.md", work], log)
         if not (work / "state.json").exists():

@@ -139,9 +139,9 @@ INLINE_TAG_RE = re.compile(r"</?small>", re.IGNORECASE)
 
 
 def _strip_inline_tags(text):
-    """Clean a heading title: drop inline gloss tags and footnote markers, and
-    turn non-breaking spaces (U+00A0) into ordinary spaces."""
-    return durchen.FOOTNOTE_MARK_RE.sub("", INLINE_TAG_RE.sub("", text)).replace("\u00a0", " ")
+    """Clean a heading title: drop inline gloss tags and footnote markers, turn
+    space-like characters (U+00A0 …) into plain spaces and drop invisible ones."""
+    return durchen.normalize_spaces(durchen.FOOTNOTE_MARK_RE.sub("", INLINE_TAG_RE.sub("", text)))
 
 
 # Yigchung (ཡིག་ཆུང་, small-script gloss) is written <small>…</small>. In the
@@ -150,8 +150,8 @@ def _strip_inline_tags(text):
 # offsets into the edition content.
 SMALL_TAG_RE = re.compile(r"<(/?)small>", re.IGNORECASE)
 # Everything the edition drops from a line: <small> tags (yigchung) and
-# footnote markers [^n] (durchen). One pass, so both get offsets into the same
-# cleaned text.
+# footnote markers [^dN] / [^fN] (durchen / footnote). One pass, so both get
+# offsets into the same cleaned text.
 INLINE_MARK_RE = re.compile(
     SMALL_TAG_RE.pattern + "|" + durchen.FOOTNOTE_MARK_RE.pattern, re.IGNORECASE
 )
@@ -182,7 +182,8 @@ def _strip_yigchung(line, in_small, error):
     run_start = 0 if in_small else None
     last = 0
     for m in INLINE_MARK_RE.finditer(line):
-        piece = line[last:m.start()]
+        # normalised piece by piece, so the offsets are into the cleaned text
+        piece = durchen.normalize_spaces(line[last:m.start()])
         out.append(piece)
         pos += len(piece)
         last = m.end()
@@ -201,12 +202,12 @@ def _strip_yigchung(line, in_small, error):
                 continue
             runs.append([run_start, pos])
             run_start = None
-    piece = line[last:]
+    piece = durchen.normalize_spaces(line[last:])
     out.append(piece)
     pos += len(piece)
     if run_start is not None:
         runs.append([run_start, pos])  # carried to the next line, if any
-    text = "".join(out).replace("\u00a0", " ")
+    text = "".join(out)
     return text, runs, run_start is not None, marks
 
 
@@ -243,6 +244,7 @@ def _root_heading_refs(fm, source_path):
         _, root_body = _read_source(resolved)
     except (ValueError, OSError):
         return set()
+    root_body, _, _ = durchen.split_definitions(root_body)
     return {
         b["ref"].lstrip("^")
         for b in _extract_blocks(root_body)
@@ -350,11 +352,11 @@ def _block_marks(lines):
 
 
 def _warn_lost_marks(block_num, lines, why, dropped):
-    labels = _block_marks(lines)
+    labels = [l for l in _block_marks(lines) if durchen.kind(l) is not None]
     if labels:
         dropped.update(labels)
         print(
-            f"  WARN block {block_num}: {why}, so no durchen is recorded for "
+            f"  WARN block {block_num}: {why}, so nothing is recorded for "
             f"{', '.join(f'[^{l}]' for l in labels)}",
             file=sys.stderr,
         )
@@ -368,7 +370,8 @@ def _build_content_and_segmentation(blocks, doc_default, notes=None):
     for the table of contents.
 
     notes are the footnote definitions (durchen.split_definitions); each
-    footnote marker becomes a durchen spanning the lemma before it.
+    [^dN] marker becomes a durchen spanning the lemma before it, and each
+    [^fN] marker a footnote at the position where it stood.
     """
     notes = notes or {}
     parts = []
@@ -514,27 +517,39 @@ def _build_content_and_segmentation(blocks, doc_default, notes=None):
             "no edition or yigchung payload written"
         )
     content = "".join(parts)
-    return content, seg_list, headings, yigchungs, _resolve_durchens(content, marks, notes, dropped)
+    durchens, footnotes = _resolve_footnotes(content, marks, notes, dropped)
+    return content, seg_list, headings, yigchungs, durchens, footnotes
 
 
-def _resolve_durchens(content, marks, notes, dropped):
-    """Turn footnote markers into durchens: the note text, over the lemma that
-    ends at the marker (or the syllable before it, with a warning)."""
+def _resolve_footnotes(content, marks, notes, dropped):
+    """Turn footnote markers into durchens and footnotes. A durchen ([^dN]) is
+    the note text over the lemma that ends at the marker (or the syllable
+    before it, with a warning). A footnote ([^fN]) is the note text at the
+    marker's position: the gap in the content where the marker stood, since
+    the markers are already out of the content. Returns (durchens, footnotes)."""
     def warn(msg):
         print(f"  WARN {msg}", file=sys.stderr)
 
-    out, seen = [], set()
+    out, footnotes, seen = [], [], set()
     for mk in marks:
         label, where = mk["label"], mk["where"]
+        k = durchen.kind(label)
+        if k is None:
+            warn(f"{where}: [^{label}] is neither [^dN] (durchen) nor [^fN] (footnote) — not sent")
+            continue
+        what = "footnote" if k == durchen.FOOTNOTE else "durchen"
         note = notes.get(label)
         if label in seen:
-            warn(f"{where}: [^{label}] is marked more than once — one durchen for each")
+            warn(f"{where}: [^{label}] is marked more than once — one {what} for each")
         seen.add(label)
         if note is None:
-            warn(f"{where}: [^{label}] has no definition — no durchen")
+            warn(f"{where}: [^{label}] has no definition — no {what}")
             continue
         if not note["text"]:
-            warn(f"{where}: [^{label}] has an empty note — no durchen")
+            warn(f"{where}: [^{label}] has an empty note — no {what}")
+            continue
+        if k == durchen.FOOTNOTE:
+            footnotes.append({"position": mk["pos"], "text": note["text"], "label": label})
             continue
         start, end, how = durchen.locate(content, mk["pos"], note["text"])
         if how is None:
@@ -551,13 +566,13 @@ def _resolve_durchens(content, marks, notes, dropped):
                 f"syllable before it, {content[start:end]!r}"
             )
         out.append({"start": start, "end": end, "text": note["text"], "label": label})
-    unused = [l for l in notes if l not in seen and l not in dropped]
+    unused = [l for l in notes if l not in seen and l not in dropped and durchen.kind(l) is not None]
     if unused:
         warn(
-            f"{len(unused)} footnote definition(s) never marked in the text — no durchen: "
+            f"{len(unused)} footnote definition(s) never marked in the text — not sent: "
             + ", ".join(f"[^{l}]" for l in unused[:10]) + (" …" if len(unused) > 10 else "")
         )
-    return out
+    return out, footnotes
 
 
 def build_edition(source_path, lint_path):
@@ -583,7 +598,7 @@ def build_edition(source_path, lint_path):
     else:
         doc_default = "paragraph" if fm.get("commentary_of") else "verse"
 
-    content_str, seg_list, headings, yigchungs, durchens = _build_content_and_segmentation(
+    content_str, seg_list, headings, yigchungs, durchens, footnotes = _build_content_and_segmentation(
         blocks, doc_default, notes
     )
 
@@ -604,7 +619,8 @@ def build_edition(source_path, lint_path):
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     yig_path, _ = write_yigchungs(stem, content_str, yigchungs)
     dur_path, _ = write_durchens(stem, content_str, durchens)
-    return out_path, out, headings, yig_path, yigchungs, dur_path, durchens
+    fn_path, _ = write_footnotes(stem, content_str, footnotes)
+    return out_path, out, headings, yig_path, yigchungs, dur_path, durchens, fn_path, footnotes
 
 
 # ---------------------------------------------------------------------------
@@ -647,6 +663,26 @@ def write_durchens(stem, content, durchens):
     """
     out = {"durchens": durchen.payload(durchens, len(content))}
     out_path = _out_dir(stem) / f"{stem}.durchens.json"
+    out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+    return out_path, out
+
+
+# ---------------------------------------------------------------------------
+# Function 2d: footnotes
+# ---------------------------------------------------------------------------
+
+def write_footnotes(stem, content, footnotes):
+    """Write the footnote payload: one item per [^fN] marker, sorted by
+    position. A footnote has a position, not a span: the gap before
+    content[position], 0…len(content). There is no API endpoint for footnotes
+    yet, so nothing uploads this file. Not written when the text has no
+    footnotes; a file left from an earlier run is removed.
+    """
+    out_path = _out_dir(stem) / f"{stem}.footnotes.json"
+    if not footnotes:
+        out_path.unlink(missing_ok=True)
+        return None, None
+    out = {"footnotes": durchen.footnote_payload(footnotes, len(content))}
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     return out_path, out
 
@@ -726,6 +762,8 @@ def build_alignment(source_path):
     skipped_heading_targets = set()
     alignments = []
     seen_pairs = set()
+    # A transclusion or block ID inside a note is note text, not alignment.
+    body, _, _ = durchen.split_definitions(body)
     blocks = _extract_blocks(body)
     pending_targets = []
 
@@ -812,7 +850,7 @@ def main(argv=None):
     edition_result = None
     try:
         (edition_out, edition_result, headings, yig_out, yigchungs,
-         dur_out, durchens) = build_edition(source_path, lint_path)
+         dur_out, durchens, fn_out, footnotes) = build_edition(source_path, lint_path)
         segs = edition_result["segmentation"]["segments"]
         content_len = len(edition_result["content"])
         by_type = {}
@@ -829,6 +867,9 @@ def main(argv=None):
         print(f"  yigchungs        : {len(yigchungs)}" + ("" if yig_out else " (no file written)"))
         print(f"OK    {source_path}  ->  {dur_out}")
         print(f"  durchens         : {len(durchens)}")
+        if fn_out:
+            print(f"OK    {source_path}  ->  {fn_out}")
+        print(f"  footnotes        : {len(footnotes)}" + ("" if fn_out else " (no file written)"))
     except Exception as exc:
         print(f"ERROR edition: {exc}", file=sys.stderr)
         had_error = True

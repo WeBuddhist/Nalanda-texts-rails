@@ -26,3 +26,111 @@ $ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_bu
    ✓ final-free.md: identical to Na_3CAg_.md (letters and spacing; only breaks, headings, IDs added)
 D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_\final-free.md: 147 stanzas — 1 lines ×8, 2 lines ×39, 3 lines ×17, 4 lines ×26, 5 lines ×13, 6 lines ×2, 7 lines ×6, 8 lines ×13, 9 lines ×6, 10 lines ×6, 11 lines ×3, 12 lines ×2, 13 lines ×2, 15 lines ×2, 20 lines ×1, 24 lines ×1
 
+
+=== 2026-10-13 16:23:04
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Na_3CAg_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+pādas 735 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 19, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །མགོན་པོ་བྱ་རོག་གདོང་གི་གཏོར་མདོས། ^0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAg_\toc-tree-anchored-Na_3CAg_.md
+pādas 734 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 19, 1 opening block(s) before the first part put in the front matter, -1 unit(s) split by a heading inside them · body headings: 0 not placed · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །མགོན་པོ་བྱ་རོག་གདོང་གི་གཏོར་མདོས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཏོར་མའི་ཕྲིན་ལས། ^1-0
+   ## དེ་ནས་མདོས་ཀྱི་ལམ་བསྟན་པ། ^2-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+748 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+groups-free.json: 141 blocks from 2 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+Traceback (most recent call last):
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 948, in <module>
+    finish(Path(a[1]))
+    ~~~~~~^^^^^^^^^^^^
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 806, in finish
+    build(work, g, work / f"final-{mode}.md", state.get("types"), state.get("breaks", []))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 818, in build
+    assert len({kind(i) for i in range(a, z + 1)}) == 1, \
+                ~~~~^^^
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 816, in <lambda>
+    kind =lambda i: types[i - 1] if types else "P"
+                    ~~~~~^^^^^^^
+IndexError: string index out of range
+
+
+=== 2026-10-13 16:24:17
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Na_3CAg_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+pādas 735 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 19, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །མགོན་པོ་བྱ་རོག་གདོང་གི་གཏོར་མདོས། ^0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAg_\toc-tree-anchored-Na_3CAg_.md
+pādas 734 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 19, 1 opening block(s) before the first part put in the front matter, -1 unit(s) split by a heading inside them · body headings: 0 not placed · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །མགོན་པོ་བྱ་རོག་གདོང་གི་གཏོར་མདོས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཏོར་མའི་ཕྲིན་ལས། ^1-0
+   ## དེ་ནས་མདོས་ཀྱི་ལམ་བསྟན་པ། ^2-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+748 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+groups-free.json: 139 blocks from 2 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+Traceback (most recent call last):
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 948, in <module>
+    finish(Path(a[1]))
+    ~~~~~~^^^^^^^^^^^^
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 806, in finish
+    build(work, g, work / f"final-{mode}.md", state.get("types"), state.get("breaks", []))
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 818, in build
+    assert len({kind(i) for i in range(a, z + 1)}) == 1, \
+                ~~~~^^^
+  File "D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py", line 816, in <lambda>
+    kind =lambda i: types[i - 1] if types else "P"
+                    ~~~~~^^^^^^^
+IndexError: string index out of range
+
+
+=== 2026-10-13 16:26:04
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Na_3CAg_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+pādas 735 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 19, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །མགོན་པོ་བྱ་རོག་གདོང་གི་གཏོར་མདོས། ^0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Na_3CAg_\toc-tree-anchored-Na_3CAg_.md
+pādas 734 · metre 7 syllables · author's colophon, raw paragraph breaks kept: 19, 1 opening block(s) before the first part put in the front matter · body headings: 0 not placed · not translated · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །མགོན་པོ་བྱ་རོག་གདོང་གི་གཏོར་མདོས། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཏོར་མའི་ཕྲིན་ལས། ^1-0
+   ## དེ་ནས་མདོས་ཀྱི་ལམ་བསྟན་པ། ^2-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+748 lines — no split needed: one subagent on group-in.md → groups-free.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_
+   ✓ final-free.md: identical to Na_3CAg_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Na_3CAg_\final-free.md: 145 stanzas — 1 lines ×6, 2 lines ×41, 3 lines ×19, 4 lines ×24, 5 lines ×12, 6 lines ×3, 7 lines ×4, 8 lines ×12, 9 lines ×7, 10 lines ×4, 11 lines ×2, 12 lines ×2, 13 lines ×3, 14 lines ×1, 15 lines ×3, 20 lines ×1, 24 lines ×1
+

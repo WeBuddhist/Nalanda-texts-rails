@@ -1,14 +1,14 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Ch_3CCX.md",
-  "validated_at": "2026-10-13T11:11:20.533464+00:00",
+  "validated_at": "2026-10-26T20:18:27.091007+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 318 from 318 footnote definition(s)",
+    "durchens: 318 from 318 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 8 headers found"
   ],
   "warnings": [
@@ -19,9 +19,12 @@
     "wiki": null,
     "date": null,
     "title": {
-      "bo": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།"
+      "bo": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།༼ཟླ་བ་གྲགས་པ།༽"
     },
     "alt_titles": [
+      {
+        "bo": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།"
+      },
       {
         "bo": "ཕུང་པོའི་ལྔའི་རབ་ཏུ་བྱེད་པ།"
       },

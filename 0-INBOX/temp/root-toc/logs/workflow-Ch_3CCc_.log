@@ -37,3 +37,43 @@ $ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_bu
    ✓ final-free.md: identical to Ch_3CCc_.md (letters and spacing; only breaks, headings, IDs added)
 D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ch_3CCc_\final-free.md: 333 stanzas — 1 lines ×13, 2 lines ×13, 3 lines ×7, 4 lines ×273, 5 lines ×8, 6 lines ×8, 7 lines ×1, 8 lines ×8, 10 lines ×1, 12 lines ×1
 
+
+=== 2026-10-13 18:25:51
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Ch_3CCc_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ch_3CCc_
+pādas 1332 · metre 9 syllables · front matter (Sanskrit title, Tibetan title, homage), translators' colophon, raw paragraph breaks kept: 31, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དབུ་མ་ལ་འཇུག་པའི་ཚིག་ལེའུར་བྱས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ch_3CCc_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Ch_3CCc_\toc-tree-anchored-Ch_3CCc_.md
+pādas 1332 · metre 9 syllables · front matter (Sanskrit title, Tibetan title, homage), translators' colophon, raw paragraph breaks kept: 31, first body heading moved up 16 pāda(s) to follow the front matter · body headings: 0 not placed · translated from Sanskrit · versions: free → run 4-SYSTEM/Skills/root-text-group/prompts/stanza-grouping.md → groups-free.json
+   # ༄༅། །དབུ་མ་ལ་འཇུག་པའི་ཚིག་ལེའུར་བྱས་པ། ^0
+   ## ཀླད་ཀྱི་དོན། ^I-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་དང་པོ། ^1-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་གཉིས་པ། ^2-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་གསུམ་པ། ^3-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་བཞི་པ། ^4-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་ལྔ་པ། ^5-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་དྲུག་པ་མངོན་དུ་གྱུར་པ། ^6-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་བདུན་པ་རིང་དུ་སོང་བ། ^7-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་བརྒྱད་པ་མི་གཡོ་བ། ^8-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་དགུ་པ་ལེགས་པའི་བློ་གྲོས། ^9-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་སེམས་བསྐྱེད་པ་བཅུ་པ་ཆོས་ཀྱི་སྤྲིན། ^10-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ch_3CCc_
+group-in-part1.md: units 1–581 → groups-free-part1.json
+group-in-part2.md: units 582–1195 → groups-free-part2.json
+group-in-part3.md: units 1196–1332 → groups-free-part3.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ch_3CCc_
+groups-free.json: 333 blocks from 3 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ch_3CCc_
+   ✓ final-free.md: identical to Ch_3CCc_.md (letters and spacing; only breaks, headings, IDs added)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ch_3CCc_\final-free.md: 333 stanzas — 1 lines ×12, 2 lines ×13, 3 lines ×6, 4 lines ×277, 5 lines ×8, 6 lines ×6, 7 lines ×2, 8 lines ×7, 10 lines ×1, 12 lines ×1
+

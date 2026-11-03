@@ -20,7 +20,6 @@ category_name: "Logic / ཚད་མ།"
 text_id: "dRHxyWQXjYDDrZXuAEcNO"
 edition_id: "pnP1QAbroXQfvTiFYZwy6"
 toc_id: "h8HowsEdgtq0MnVCDXNKJ"
-durchen_count: 1657
 openpecha_text_id: "XND4Tdt8bPsSJcfS4J4NO"
 ---
 

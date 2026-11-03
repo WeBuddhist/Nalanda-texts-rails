@@ -39,7 +39,7 @@ from pathlib import Path
 
 FRONTMATTER_RE = re.compile(r"\A---\n.*?\n---\n", re.DOTALL)
 BLOCK_ID_RE = re.compile(r"\s\^[A-Za-z0-9][A-Za-z0-9-]*\s*$")
-HEADING_RE = re.compile(r"^\s{0,3}#{1,6}\s")
+HEADING_RE = re.compile(r"^\s{0,3}#{1,}\s")
 TRANSCLUSION_RE = re.compile(r"^\s*!\[\[.*\]\]\s*$")
 ED_NOTE_RE = re.compile(r"\[Ed:[^\]]*\]")
 WIKILINK_RE = re.compile(r"(?<!!)\[\[([^\]|]*)\|([^\]]*)\]\]")

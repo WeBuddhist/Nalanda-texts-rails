@@ -6,7 +6,7 @@ Forked from `parser-root-text`. Content segments default to **`paragraph`**, and
 
 ## What it does
 
-1. **extract_text_input** — takes `text_input` from the lint JSON (or `resolved` from a `.lint.errors.json`), drops empty fields and contributors without an id, writes `text.json` (includes `commentary_of` when set)
+1. **extract_text_input** — takes `text_input` from the lint JSON (or `resolved` from a `.lint.errors.json`), drops empty fields and contributors without an id, writes `text.json` (includes `commentary_of` and `tag_ids` when set)
 2. **build_edition** — builds the edition content and its segments with character spans from the body text (headings left out), writes `edition.json`, the yigchung annotations found in `<small>…</small>`, writes `yigchungs.json`, and the durchens (variant readings) written as footnotes, writes `durchens.json`
 3. **build_toc** — builds a nested table of contents from the headings (headings are used only here), writes `toc.json`
 4. **build_alignment** — links commentary segments to root-text segments through transclusions, writes `alignment.json`
@@ -22,6 +22,7 @@ output/
     <stem>.edition.json     # edition metadata, content and segments
     <stem>.yigchungs.json   # yigchung (small-script) annotation spans — only when the text has <small>
     <stem>.durchens.json    # durchen (variant-reading) notes with their spans
+    <stem>.footnotes.json   # footnotes [^fN] with their positions — only when the text has some
     <stem>.toc.json         # nested TOC with character spans
     <stem>.alignment.json   # commentary → root-text alignments
 ```
@@ -67,7 +68,7 @@ The note reads `<lemma> ༼<witness sigla>༽ <variant>`. `durchens.json` holds 
 ```
 
 - The marker is dropped from `content`, and the definition lines are not content at all
-- `text` is the whole note, as written
+- `text` is the whole note, as written: a plain string. A link, a transclusion, another `[^label]`, a block ID or a `<small>` tag inside a note is note text, never read as markup. The definition lines are taken out before anything else (content, TOC, alignment) reads the file
 - **The span is the lemma**: the text before `༼`, matched backwards from the marker. Matching ignores whitespace, because verse lines are joined with no separator, and treats `༌` as `་`. Trailing tsheg and shad are inside the span, and trailing spaces are not. In the example above the span is `ལ༌`
 - A lemma of shad only (`།། །།`) spans the shad just before the marker
 - **Fallback (warning):** when the lemma does not end at the marker, or the note has no `༼` (an editorial note), the span is the syllable just before the marker. The marker position is certain, but the start of the span is then a guess, so check those notes
@@ -79,6 +80,10 @@ The note reads `<lemma> ༼<witness sigla>༽ <variant>`. `durchens.json` holds 
 - The API does not check for duplicates: before re-uploading an edition, delete or check its existing durchens
 
 The span logic is in `durchen.py`. The same file sits in `linter-root-text`, `linter-commentary`, `parser-root-text` and `parser-commentary`: change one, copy it to the other three.
+
+## Footnotes
+
+Built exactly as in `parser-root-text` (see its README). A footnote `[^fN]` has a **position**, not a span: the gap before `content[position]`, from `0` to `len(content)`, in Unicode code points: where the marker stood once the markers are out of `content`. `footnotes.json` is written only when the text has footnotes, and nothing uploads it yet (no API endpoint).
 
 ## Alignment
 

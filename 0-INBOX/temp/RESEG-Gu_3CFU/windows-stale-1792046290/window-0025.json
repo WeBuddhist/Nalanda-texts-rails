@@ -1,0 +1,47 @@
+{
+  "window_idx": 25,
+  "start_block": 876,
+  "end_block": 915,
+  "operations": [
+    {
+      "op": "merge",
+      "blocks": [
+        889,
+        890
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        892,
+        893
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        897,
+        898
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        901,
+        902
+      ]
+    },
+    {
+      "op": "split",
+      "block": 910,
+      "after": "ཆོས་གོས་ལྷག་མ་ཡང་ངོ་། །"
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        911,
+        912
+      ]
+    }
+  ]
+}

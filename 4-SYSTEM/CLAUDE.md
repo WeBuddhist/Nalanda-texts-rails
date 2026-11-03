@@ -186,7 +186,7 @@ Rules:
 - `####` headings use `^N-N-N-0`.
 - The `0` in the final position is **reserved** for the heading; original-text blocks always start at `1`.
 - **Heading IDs use the full path of the structural tree plus the `-0` slot — there is no segment cap.** A division numbered `1.2.2.1.1.4` gets `^1-2-2-1-1-4-0`. Never flatten or truncate a deep tree to fit a shorter ID.
-- Markdown heading level follows tree depth (`##` = top-level division, one `#` per level deeper). Markdown stops at `######`; nodes deeper than that keep `######` and wrap the title in `**bold**`, with the full-path block ID carrying the real depth.
+- Markdown heading level follows tree depth (`##` = top-level division, one `#` per level deeper) with no cap: the number of `#` is the block-ID path length plus one, so `^1-2-2-1-1-4-0` takes `#######`. Headings deeper than `######` also wrap the title in `**bold**` (Obsidian renders only six heading levels, so they display as plain text).
 - No zero-padding on any segment.
 
 ---

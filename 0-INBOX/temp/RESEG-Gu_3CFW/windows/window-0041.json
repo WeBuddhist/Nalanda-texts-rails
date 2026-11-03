@@ -1,0 +1,96 @@
+{
+  "window_idx": 41,
+  "start_block": 1436,
+  "end_block": 1475,
+  "operations": [
+    {
+      "op": "merge",
+      "blocks": [
+        1440,
+        1441
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1442,
+        1443
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1444,
+        1445
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1447,
+        1448
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1450,
+        1451
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1452,
+        1453
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1459,
+        1460,
+        1461
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1462,
+        1463,
+        1464
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1465,
+        1466
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1467,
+        1468,
+        1469
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1470,
+        1471,
+        1472
+      ]
+    },
+    {
+      "op": "merge",
+      "blocks": [
+        1473,
+        1474,
+        1475
+      ]
+    }
+  ]
+}

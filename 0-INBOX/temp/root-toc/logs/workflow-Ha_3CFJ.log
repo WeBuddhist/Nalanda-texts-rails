@@ -46,3 +46,206 @@ $ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/
    ✓ final-prose.md: letters identical; 1999 spacing difference(s) restored from the source — now identical (letters and spacing)
 /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Ha_3CFJ/final-prose.md: 763 paragraphs (sentences per paragraph: 1 ×97, 2 ×192, 3 ×118, 4 ×107, 5 ×72, 6 ×54, 7 ×24, 8 ×27, 9 ×23, 10 ×13, 11 ×2, 12 ×10, 13 ×5, 14 ×8, 15 ×5, 18 ×4, 21 ×1, 23 ×1) · 9 stanzas (4 lines ×5, 5 lines ×3, 6 lines ×1)
 
+
+=== 2026-10-13 15:37:06
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Ha_3CFJ.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+prose: 3178 sentences, 41 verse lines in 7 passage(s) · translators' colophon, raw paragraph breaks kept: 221, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། ^0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFJ\toc-tree-anchored-Ha_3CFJ.md
+prose: 3178 sentences, 41 verse lines in 7 passage(s) · translators' colophon, raw paragraph breaks kept: 221, 3 repeated anchor(s) lengthened to their own place, 6 heading(s) moved to their anchor's own place · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། ^0
+   ## བསྒོམ་པའི་ལམ་ལ་ལོག་པར་རྟོག་པ། ^1-0
+   ## མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པར་སྤྱིར་བཀོད་པ། ^2-0
+   ## སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^3-0
+   ## ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^4-0
+   ## རྗེས་སུ་དྲན་པ་དྲུག། ^5-0
+   ## སེམས་ཀྱི་སྐད་ཅིག་མ་གཅིག་པའི་མངོན་པར་རྟོགས་པ། ^6-0
+   ## སེམས་ཀྱི་སྐད་ཅིག་གིས་མངོན་པར་རྟོགས་པ། ^7-0
+   ## ཆོས་ཐམས་ཅད་མཚན་མ་མེད་པར་སྐད་ཅིག་མ་གཅིག་གིས་མངོན་པར་རྟོགས་པའི་མཚན་ཉིད་ཅན་གྱི་སེམས་ཀྱི་སྐད་ཅིག་གིས་མངོན་པར་རྟོགས་པ། ^8-0
+   ## གཉིས་སུ་མེད་པ་ཉིད་དུ་ཆོས་ཐམས་ཅད་སྐད་ཅིག་མ་གཅིག་ལ་མངོན་པར་རྟོགས་པའི་མཚན་ཉིད་ཅན་སེམས་ཀྱི་སྐད་ཅིག་མ་གཅིག་གིས་མངོན་པར་རྟོགས་པ། ^9-0
+   ## ངོ་བོ་ཉིད་ཀྱི་སྐུ། ^10-0
+   ## ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ། ^11-0
+   ## སྤྲུལ་པའི་སྐུ། ^12-0
+   ## སྤྲུལ་པའི་སྐུའི་སྒོ་ནས་ཆོས་ཀྱི་སྐུའི་ཕྲིན་ལས་སྤྱིར་བསྟན་པ། ^13-0
+   ## དམྱལ་བའི་འགྲོ་བ་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^14-0
+   ## བྱོལ་སོང་གི་སྐྱེ་གནས་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^15-0
+   ## ཡི་དགས་ཀྱི་འཇིག་རྟེན་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^16-0
+   ## ལྷའི་འགྲོ་བ་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^17-0
+   ## མིའི་འགྲོ་བ་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^18-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+group-in-part1.md: units 1–563 → groups-prose-part1.json
+group-in-part2.md: units 564–1130 → groups-prose-part2.json
+group-in-part3.md: units 1131–1690 → groups-prose-part3.json
+group-in-part4.md: units 1691–2267 → groups-prose-part4.json
+group-in-part5.md: units 2268–2838 → groups-prose-part5.json
+group-in-part6.md: units 2839–3219 → groups-prose-part6.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+groups-prose.json: 709 blocks from 6 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+   ✓ final-prose.md: letters identical; 2057 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ\final-prose.md: 700 paragraphs (sentences per paragraph: 1 ×65, 2 ×143, 3 ×124, 4 ×100, 5 ×64, 6 ×62, 7 ×43, 8 ×25, 9 ×22, 10 ×10, 11 ×4, 12 ×11, 13 ×9, 14 ×9, 15 ×5, 16 ×1, 18 ×3) · 9 stanzas (4 lines ×5, 5 lines ×3, 6 lines ×1)
+
+
+=== 2026-10-13 17:59:57
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Ha_3CFJ.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+prose: 3178 sentences, 41 verse lines in 7 passage(s) · translators' colophon, raw paragraph breaks kept: 221, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། ^0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFJ\toc-tree-anchored-Ha_3CFJ.md
+prose: 3178 sentences, 41 verse lines in 7 passage(s) · translators' colophon, raw paragraph breaks kept: 221, 14 repeated anchor(s) lengthened to their own place, 10 heading(s) moved to their anchor's own place · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། ^0
+   ## བསྒོམ་པའི་ལམ་ལ་ལོག་པར་རྟོག་པ། ^1-0
+   ## མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པར་སྤྱིར་བཀོད་པ། ^2-0
+   ## སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^3-0
+   ## ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^4-0
+   ## བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^5-0
+   ## བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^6-0
+   ## བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^7-0
+   ## ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^8-0
+   ## རྗེས་སུ་དྲན་པ་དྲུག། ^9-0
+   ## ཆོས་ཐམས་ཅད་དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་དུ་ཤེས་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^10-0
+   ## སེམས་ཀྱི་སྐད་ཅིག་མ་གཅིག་པའི་མངོན་པར་རྟོགས་པ། ^11-0
+   ## སེམས་ཀྱི་སྐད་ཅིག་གིས་མངོན་པར་རྟོགས་པ། ^12-0
+   ## ཆོས་ཐམས་ཅད་མཚན་མ་མེད་པར་སྐད་ཅིག་མ་གཅིག་གིས་མངོན་པར་རྟོགས་པའི་མཚན་ཉིད་ཅན་གྱི་སེམས་ཀྱི་སྐད་ཅིག་གིས་མངོན་པར་རྟོགས་པ། ^13-0
+   ## གཉིས་སུ་མེད་པ་ཉིད་དུ་ཆོས་ཐམས་ཅད་སྐད་ཅིག་མ་གཅིག་ལ་མངོན་པར་རྟོགས་པའི་མཚན་ཉིད་ཅན་སེམས་ཀྱི་སྐད་ཅིག་མ་གཅིག་གིས་མངོན་པར་རྟོགས་པ། ^14-0
+   ## ངོ་བོ་ཉིད་ཀྱི་སྐུ། ^15-0
+   ## ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ། ^16-0
+   ## སྤྲུལ་པའི་སྐུ། ^17-0
+   ## སྤྲུལ་པའི་སྐུའི་སྒོ་ནས་ཆོས་ཀྱི་སྐུའི་ཕྲིན་ལས་སྤྱིར་བསྟན་པ། ^18-0
+   ## དམྱལ་བའི་འགྲོ་བ་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^19-0
+   ## བྱོལ་སོང་གི་སྐྱེ་གནས་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^20-0
+   ## ཡི་དགས་ཀྱི་འཇིག་རྟེན་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^21-0
+   ## ལྷའི་འགྲོ་བ་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^22-0
+   ## མིའི་འགྲོ་བ་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^23-0
+   ## བསྡུ་བའི་དངོས་པོ་བཞི་ལ་འགོད་པའི་ཕྲིན་ལས། ^24-0
+   ## ཀུན་ནས་ཉོན་མོངས་པ་དང་རྣམ་པར་བྱང་བ་རྟོགས་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^25-0
+   ## སེམས་ཅན་རྣམས་དོན་ཇི་ལྟ་བ་བཞིན་དུ་འགོད་པའི་ཕྲིན་ལས། ^26-0
+   ## ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་ལ་འགོད་པའི་ཕྲིན་ལས། ^27-0
+   ## སངས་རྒྱས་ཀྱི་ལམ་ལ་འགོད་པའི་ཕྲིན་ལས། ^28-0
+   ## རང་བཞིན་སྟོང་པ་ཉིད་ལ་འགོད་པའི་ཕྲིན་ལས། ^29-0
+   ## གཉིས་སུ་མེད་པའི་ཆོས་ལ་འགོད་པའི་ཕྲིན་ལས། ^30-0
+   ## བརྡར་བཏགས་པའི་ཤེས་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^31-0
+   ## དམིགས་སུ་མེད་པའི་ཡེ་ཤེས་ལ་འགོད་པའི་ཕྲིན་ལས། ^32-0
+   ## སེམས་ཅན་ཡོངས་སུ་སྨིན་པར་བྱེད་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^33-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་ལམ་ལ་དགོད་པའི་ཕྲིན་ལས། ^34-0
+   ## ཆོས་ཐམས་ཅད་ལ་མངོན་པར་ཞེན་པ་སྤངས་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^35-0
+   ## ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཐོབ་པ་ལ་དགོད་པའི་ཕྲིན་ལས། ^36-0
+   ## སངས་རྒྱས་ཀྱི་ཞིང་ཡོངས་སུ་དག་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^37-0
+   ## ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལ་ངེས་པར་འཇོག་པའི་ཕྲིན་ལས། ^38-0
+   ## སེམས་ཅན་གྱི་དོན་ཚད་མེད་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^39-0
+   ## བྱང་ཆུབ་ཀྱི་ཡན་ལག་ལ་འགོད་པའི་ཕྲིན་ལས། ^40-0
+   ## ལས་དང་འབྲས་བུར་འབྲེལ་པ་ཆུད་མི་ཟ་བ་ལ་དགོད་པའི་ཕྲིན་ལས། ^41-0
+   ## བདེན་པ་མཐོང་བ་ལ་དགོད་པའི་ཕྲིན་ལས། ^42-0
+   ## ཕྱིན་ཅི་ལོག་སྤངས་པ་ལ་དགོད་པའི་ཕྲིན་ལས། ^43-0
+   ## ཕྱིན་ཅི་ལོག་བཞི་མེད་པ་སྤང་བའི་འདུ་ཤེས་ལ་རབ་ཏུ་དགོད་པའི་ཕྲིན་ལས། ^44-0
+   ## རྣམ་པར་བྱང་བ་ལ་དགོད་པའི་ཕྲིན་ལས། ^45-0
+   ## རྣམ་པར་བྱང་བའི་ཚོགས་ལ་དགོད་པའི་ཕྲིན་ལས། ^46-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+group-in-part1.md: units 1–563 → groups-prose-part1.json
+group-in-part2.md: units 564–1130 → groups-prose-part2.json
+group-in-part3.md: units 1131–1690 → groups-prose-part3.json
+group-in-part4.md: units 1691–2267 → groups-prose-part4.json
+group-in-part5.md: units 2268–2817 → groups-prose-part5.json
+group-in-part6.md: units 2818–3219 → groups-prose-part6.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+groups-prose.json: 692 blocks from 6 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+   ✓ final-prose.md: letters identical; 2070 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ\final-prose.md: 683 paragraphs (sentences per paragraph: 1 ×58, 2 ×140, 3 ×121, 4 ×100, 5 ×63, 6 ×56, 7 ×34, 8 ×36, 9 ×22, 10 ×10, 11 ×5, 12 ×11, 13 ×10, 14 ×6, 15 ×4, 16 ×2, 18 ×1, 20 ×1, 22 ×2, 27 ×1) · 9 stanzas (4 lines ×5, 5 lines ×3, 6 lines ×1)
+
+
+=== 2026-10-13 18:30:00
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Ha_3CFJ.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+prose: 3177 sentences, 41 verse lines in 7 passage(s) · translators' colophon, raw paragraph breaks kept: 220, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། ^0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Ha_3CFJ\toc-tree-anchored-Ha_3CFJ.md
+prose: 3177 sentences, 41 verse lines in 7 passage(s) · translators' colophon, raw paragraph breaks kept: 220, 14 repeated anchor(s) lengthened to their own place, 10 heading(s) moved to their anchor's own place · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅༅། །ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ། ^0
+   ## བསྒོམ་པའི་ལམ་ལ་ལོག་པར་རྟོག་པ། ^1-0
+   ## མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པར་སྤྱིར་བཀོད་པ། ^2-0
+   ## སྦྱིན་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^3-0
+   ## ཚུལ་ཁྲིམས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་ལ་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^4-0
+   ## བཟོད་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^5-0
+   ## བརྩོན་འགྲུས་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^6-0
+   ## བསམ་གཏན་གྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^7-0
+   ## ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^8-0
+   ## རྗེས་སུ་དྲན་པ་དྲུག། ^9-0
+   ## ཆོས་ཐམས་ཅད་དངོས་པོ་མེད་པའི་ངོ་བོ་ཉིད་དུ་ཤེས་པའི་མཐར་གྱིས་པའི་མངོན་པར་རྟོགས་པ། ^10-0
+   ## སེམས་ཀྱི་སྐད་ཅིག་མ་གཅིག་པའི་མངོན་པར་རྟོགས་པ། ^11-0
+   ## སེམས་ཀྱི་སྐད་ཅིག་གིས་མངོན་པར་རྟོགས་པ། ^12-0
+   ## ཆོས་ཐམས་ཅད་མཚན་མ་མེད་པར་སྐད་ཅིག་མ་གཅིག་གིས་མངོན་པར་རྟོགས་པའི་མཚན་ཉིད་ཅན་གྱི་སེམས་ཀྱི་སྐད་ཅིག་གིས་མངོན་པར་རྟོགས་པ། ^13-0
+   ## གཉིས་སུ་མེད་པ་ཉིད་དུ་ཆོས་ཐམས་ཅད་སྐད་ཅིག་མ་གཅིག་ལ་མངོན་པར་རྟོགས་པའི་མཚན་ཉིད་ཅན་སེམས་ཀྱི་སྐད་ཅིག་མ་གཅིག་གིས་མངོན་པར་རྟོགས་པ། ^14-0
+   ## ངོ་བོ་ཉིད་ཀྱི་སྐུ། ^15-0
+   ## ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ། ^16-0
+   ## སྤྲུལ་པའི་སྐུ། ^17-0
+   ## སྤྲུལ་པའི་སྐུའི་སྒོ་ནས་ཆོས་ཀྱི་སྐུའི་ཕྲིན་ལས་སྤྱིར་བསྟན་པ། ^18-0
+   ## དམྱལ་བའི་འགྲོ་བ་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^19-0
+   ## བྱོལ་སོང་གི་སྐྱེ་གནས་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^20-0
+   ## ཡི་དགས་ཀྱི་འཇིག་རྟེན་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^21-0
+   ## ལྷའི་འགྲོ་བ་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^22-0
+   ## མིའི་འགྲོ་བ་ཞི་བར་མཛད་པའི་ཕྲིན་ལས། ^23-0
+   ## བསྡུ་བའི་དངོས་པོ་བཞི་ལ་འགོད་པའི་ཕྲིན་ལས། ^24-0
+   ## ཀུན་ནས་ཉོན་མོངས་པ་དང་རྣམ་པར་བྱང་བ་རྟོགས་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^25-0
+   ## སེམས་ཅན་རྣམས་དོན་ཇི་ལྟ་བ་བཞིན་དུ་འགོད་པའི་ཕྲིན་ལས། ^26-0
+   ## ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་ལ་འགོད་པའི་ཕྲིན་ལས། ^27-0
+   ## སངས་རྒྱས་ཀྱི་ལམ་ལ་འགོད་པའི་ཕྲིན་ལས། ^28-0
+   ## རང་བཞིན་སྟོང་པ་ཉིད་ལ་འགོད་པའི་ཕྲིན་ལས། ^29-0
+   ## གཉིས་སུ་མེད་པའི་ཆོས་ལ་འགོད་པའི་ཕྲིན་ལས། ^30-0
+   ## བརྡར་བཏགས་པའི་ཤེས་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^31-0
+   ## དམིགས་སུ་མེད་པའི་ཡེ་ཤེས་ལ་འགོད་པའི་ཕྲིན་ལས། ^32-0
+   ## སེམས་ཅན་ཡོངས་སུ་སྨིན་པར་བྱེད་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^33-0
+   ## བྱང་ཆུབ་སེམས་དཔའི་ལམ་ལ་དགོད་པའི་ཕྲིན་ལས། ^34-0
+   ## ཆོས་ཐམས་ཅད་ལ་མངོན་པར་ཞེན་པ་སྤངས་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^35-0
+   ## ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ཐོབ་པ་ལ་དགོད་པའི་ཕྲིན་ལས། ^36-0
+   ## སངས་རྒྱས་ཀྱི་ཞིང་ཡོངས་སུ་དག་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^37-0
+   ## ཡང་དག་པར་རྫོགས་པའི་བྱང་ཆུབ་ལ་ངེས་པར་འཇོག་པའི་ཕྲིན་ལས། ^38-0
+   ## སེམས་ཅན་གྱི་དོན་ཚད་མེད་པ་ལ་འགོད་པའི་ཕྲིན་ལས། ^39-0
+   ## བྱང་ཆུབ་ཀྱི་ཡན་ལག་ལ་འགོད་པའི་ཕྲིན་ལས། ^40-0
+   ## ལས་དང་འབྲས་བུར་འབྲེལ་པ་ཆུད་མི་ཟ་བ་ལ་དགོད་པའི་ཕྲིན་ལས། ^41-0
+   ## བདེན་པ་མཐོང་བ་ལ་དགོད་པའི་ཕྲིན་ལས། ^42-0
+   ## ཕྱིན་ཅི་ལོག་སྤངས་པ་ལ་དགོད་པའི་ཕྲིན་ལས། ^43-0
+   ## ཕྱིན་ཅི་ལོག་བཞི་མེད་པ་སྤང་བའི་འདུ་ཤེས་ལ་རབ་ཏུ་དགོད་པའི་ཕྲིན་ལས། ^44-0
+   ## རྣམ་པར་བྱང་བ་ལ་དགོད་པའི་ཕྲིན་ལས། ^45-0
+   ## རྣམ་པར་བྱང་བའི་ཚོགས་ལ་དགོད་པའི་ཕྲིན་ལས། ^46-0
+   ## མཇུག་བྱང། ^a-0
+   ### འགྱུར་བྱང། ^a-1-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+group-in-part1.md: units 1–563 → groups-prose-part1.json
+group-in-part2.md: units 564–1130 → groups-prose-part2.json
+group-in-part3.md: units 1131–1690 → groups-prose-part3.json
+group-in-part4.md: units 1691–2267 → groups-prose-part4.json
+group-in-part5.md: units 2268–2817 → groups-prose-part5.json
+group-in-part6.md: units 2818–3218 → groups-prose-part6.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+groups-prose.json: 721 blocks from 6 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ
+   ✓ final-prose.md: letters identical; 2041 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Ha_3CFJ\final-prose.md: 712 paragraphs (sentences per paragraph: 1 ×91, 2 ×151, 3 ×114, 4 ×90, 5 ×64, 6 ×59, 7 ×33, 8 ×30, 9 ×24, 10 ×12, 11 ×3, 12 ×12, 13 ×9, 14 ×9, 15 ×5, 16 ×2, 18 ×3, 20 ×1) · 9 stanzas (4 lines ×5, 5 lines ×3, 6 lines ×1)
+

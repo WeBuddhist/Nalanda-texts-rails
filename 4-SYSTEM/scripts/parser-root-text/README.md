@@ -6,7 +6,7 @@ Run `linter-root-text` first.
 
 ## What it does
 
-1. **extract_text_input** — takes `text_input` from the lint JSON (or `resolved` from a `.lint.errors.json`), drops empty fields and contributors without an id, writes `text.json`
+1. **extract_text_input** — takes `text_input` from the lint JSON (or `resolved` from a `.lint.errors.json`), drops empty fields and contributors without an id, writes `text.json` (includes `tag_ids`, a list, when set)
 2. **build_edition** — builds the edition content and its segments with character spans from the body text (headings left out), writes `edition.json`, the yigchung annotations found in `<small>…</small>`, writes `yigchungs.json`, and the durchens (variant readings) written as footnotes, writes `durchens.json`
 3. **build_toc** — builds a nested table of contents from the headings (headings are used only here), writes `toc.json`
 4. **build_alignment** — for `file_type` `translation` or `commentary` only, links segments to the root text through transclusions, writes `alignment.json`
@@ -20,6 +20,7 @@ output/
     <stem>.edition.json     # edition metadata, content and segments
     <stem>.yigchungs.json   # yigchung (small-script) annotation spans — only when the text has <small>
     <stem>.durchens.json    # durchen (variant-reading) notes with their spans
+    <stem>.footnotes.json   # footnotes [^fN] with their positions — only when the text has some
     <stem>.toc.json         # nested TOC with character spans
     <stem>.alignment.json   # translation/commentary → root-text alignments
 ```
@@ -92,7 +93,7 @@ The note reads `<lemma> ༼<witness sigla>༽ <variant>`. `durchens.json` holds 
 ```
 
 - The marker is dropped from `content`, and the definition lines are not content at all
-- `text` is the whole note, as written
+- `text` is the whole note, as written: a plain string. A link, a transclusion, another `[^label]`, a block ID or a `<small>` tag inside a note is note text, never read as markup. The definition lines are taken out before anything else (content, TOC, alignment) reads the file
 - **The span is the lemma**: the text before `༼`, matched backwards from the marker. Matching ignores whitespace, because verse lines are joined with no separator, and treats `༌` as `་`. Trailing tsheg and shad are inside the span, and trailing spaces are not. In the example above the span is `ལ༌`
 - A lemma of shad only (`།། །།`) spans the shad just before the marker
 - **Fallback (warning):** when the lemma does not end at the marker, or the note has no `༼` (an editorial note), the span is the syllable just before the marker. The marker position is certain, but the start of the span is then a guess, so check those notes
@@ -104,6 +105,30 @@ The note reads `<lemma> ༼<witness sigla>༽ <variant>`. `durchens.json` holds 
 - The API does not check for duplicates: before re-uploading an edition, delete or check its existing durchens
 
 The span logic is in `durchen.py`. The same file sits in `linter-root-text`, `linter-commentary`, `parser-root-text` and `parser-commentary`: change one, copy it to the other three.
+
+## Footnotes
+
+The footnote label says what a footnote is: `[^dN]` is a durchen, `[^fN]` a footnote (an editorial remark, a source citation, a colophon printed as a footnote). The old bare `[^N]` is still read as a durchen. At the end of the file the durchen definitions come first, `d1…dK`, then the footnotes, `f1…fM`.
+
+A footnote has a **position**, not a span: the gap between two characters, from `0` (before the first character) to `len(content)` (after the last). The marker goes right before `content[position]`. For `ཀཁག`: `0` → `●ཀཁག`, `2` → `ཀཁ●ག`, `3` → `ཀཁག●`. Positions count Unicode code points, and adding a footnote never changes the content.
+
+```
+གསུང་ངོ་།།[^f1]  །། ^1-6
+
+[^f1]: ཆོས་ཚན་འདི་ཉིད་ནང་། …
+```
+
+```json
+{"footnotes": [{"position": 268, "text": "ཆོས་ཚན་འདི་ཉིད་ནང་། …"}]}
+```
+
+- The position is where the marker stood once the markers are taken out of `content`; there is no lemma to match
+- Sorted by position; footnotes at the same position keep their marker order
+- A marker at the end of a line sits at the end of that line's text, which is also the start of the next line's (lines are joined with no separator). A marker after the last text of a block, or on its own after it, sits at the end of the text before it
+- A marker in a heading, or in a block that is skipped, gets no footnote (warning). So does a marker with no definition, or with an empty note
+- Checked before writing: integer `position`, `0 <= position <= len(content)`, non-blank `text`
+- **No file when there are no footnotes**, and one left from an earlier run is deleted
+- There is no API endpoint for footnotes yet: nothing uploads `footnotes.json`
 
 ## Table of contents
 

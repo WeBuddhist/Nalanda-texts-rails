@@ -1,5 +1,108 @@
 # Durchen outliers: footnotes with no `༼…༽` witness
 
+## Update 2026-10-27: block IDs stamped inside commentary footnotes
+
+The commentary block-ID step (2026-10-14, `0-INBOX/resegmented/` → `0-INBOX/processed/commentaries/`) cut long footnote definitions into back-matter blocks. That stamped IDs into their text (`[^d226]: སྒྲའིའོ། ། ^b-10 ༼སྣར། པེ།༽ …`) and put a space after `། །` at each cut. `0-INBOX/temp/api-lint/fix_footnotes.py` repaired this in the files that went through `segmented-commentary-with-toc/`, but 7 commentaries reached `1-SOURCES/` with it. Relabelling did not cause it: the damage is already in the first commit of these files (da9bb077).
+
+- **Fixed in the sources:** 101 definitions in 7 commentaries. 83 held a block ID, and 18 had only the extra space. Each was restored from the raw intake file `0-INBOX/commentary/<id>.md`, matched by its letters (exactly one candidate each), and keeps its current `[^dN]` label. The script is `4-SYSTEM/scripts/footnote-labels/restore_footnote_text.py`.
+- **Check:** every footnote definition in all 121 commentaries now has the same text as the raw file. The one exception is Gu_3CFW `[^d3016]`, where the missing `༽` was added deliberately.
+- **Fixed on the library:** the 5 uploaded commentaries had 70 wrong durchens, with wrong text and, where a lemma held an ID, a wrong span. Each was deleted and the corrected one posted; the ledger has the new ids.
+
+| id | definitions restored | live durchens replaced | uploaded |
+|---|---|---|---|
+| Bh_3CCF | 4 | 4 | yes |
+| Bh_3CCG | 1 | 1 | yes |
+| Bh_3CCL | 26 | 26 | yes |
+| Bu_3CCC | 17 | 17 | yes |
+| Ch_3CCg_ | 22 | 22 | yes |
+| Bh_3CCN | 15 | — | uploaded afterwards with the corrected text (2026-10-27) |
+| Ch_3CCe_ | 15 | — | no (duplicate of a library text) |
+
+### Missing space before the witness bracket (2026-10-27)
+
+The convention is `lemma ༼witness༽ variant`, with a space before `༼`. In 210 footnote definitions the space was missing, always right after a shad (`…ནོ། །༼སྣར། པེ།༽`). Two of those definitions have two brackets, so 212 spaces were added. The gap came with the intake files; the restore above did not cause it. The affected definitions are in 14 commentaries (139) and 20 root texts (71).
+
+- **Sources fixed** with `4-SYSTEM/scripts/footnote-labels/space_before_witness.py`, then relinted and reparsed (all OK).
+- **Linter** (root text and commentary) now warns about a definition with no space before `༼`.
+- **Library updated (2026-10-27).** All 34 texts are uploaded. Their 210 affected durchens were deleted and posted again with the space. Every edition now matches its payload (same count, spans and texts), and the ledgers (`upload-status.json`, `commentary-upload-status.json`) hold the new durchen ids.
+
+## Update 2026-10-26: footnotes now carry their type: `[^dN]` durchen, `[^nN]` generic note
+
+Footnote labels now say what a footnote is:
+
+| type | marker | definition | what it is |
+|---|---|---|---|
+| durchen | `བཛྲ་ཏཱ་རཱ༌[^d1]` | `[^d1]: ཏཱ་རཱ། ༼པེ། སྣར།༽ ཏཱ་ར།` | a variant reading: the note has witness sigla in `༼…༽` |
+| generic note | `…བསྒྱུར་བའོ[^n1]` | `[^n1]: དཀར་ཆག་གི་ཟུར་མཆན། …` | everything else, for now: editorial remarks, source citations, colophons printed as footnotes |
+
+Each type is numbered 1, 2, 3… in the order its markers appear in the text. At the end of the file the definitions are grouped: d1…dK, a blank line, then n1…nM. A note that sat between durchens leaves the durchen series, and the durchens after it are renumbered.
+
+**Generic notes are not uploaded.** The API has no endpoint for them yet, so the parser has no support for sending them. It removes their markers from the edition content, sends nothing, and logs `NOTE n generic note(s) not sent — no note endpoint yet`. The linter only checks that each note has a definition, with no lemma or span check, so C7 is no longer an error. The old bare label `[^N]` is still read as a durchen until every source is relabelled. The tools: `durchen.py` (all four copies), `linter-root-text/validate.py`, `parser-root-text/parser.py`. The relabelling script: `4-SYSTEM/scripts/footnote-labels/relabel_footnotes.py`.
+
+### The 12 root texts: relabelled, released from hold, uploaded (2026-10-26)
+
+| Ref | File | Old label | Now | Uploaded |
+|---|---|---|---|---|
+| B1 | `Na_3CAN.md` | `[^75]` | `[^d75]`, a durchen. The missing `༼` was restored before relabelling | as a durchen |
+| C1 | `Ch_3CCU.md` | `[^1]` | `[^n1]` generic note | **no**, not sent |
+| C2 | `Na_3C9x_.md` | `[^1]` | `[^n1]` | **no** |
+| C3 | `Na_3C9y_.md` | `[^2]` | `[^n1]` | **no** |
+| C4 | `Sh_3CCh_.md` | `[^1]` | `[^n1]` | **no** |
+| C5 | `Sh_3CCi_.md` | `[^2]` | `[^n1]` | **no** |
+| C6 | `Na_3C9s_.md` | `[^1]` | `[^n1]` | **no** |
+| C7 | `Ch_3CCV.md` | `[^1]` | `[^n1]`; the durchens after it moved up from `[^2]`…`[^19]` to `[^d1]`…`[^d18]` | **no** (the linter error is gone) |
+| C8 | `Dh_3CF3.md` | `[^40]` | `[^n1]` | **no** |
+| C9 | `Sh_3CD6.md` | `[^1]` | `[^n1]` | **no** |
+| C10 | `Sh_3CD7.md` | `[^1]` | `[^n1]` | **no** |
+| C11 | `At_3CHK.md` | `[^3806]` | `[^n1]`: the 26-line colophon is **not on the library** until a note endpoint exists | **no** |
+
+All other footnotes in these files became `[^dN]` and were uploaded as durchens. The texts themselves are uploaded (see `API-LINT-BATCH.md`).
+
+### All other root texts: relabelled (2026-10-26)
+
+The other 430 root texts were relabelled by content (`relabel_footnotes.py --by-content`). 423 had footnotes and 7 had none. All of them relinted and reparsed cleanly. The durchens each text sends are **unchanged** in 433 texts. The only difference is 9 footnotes that turned out to be generic notes: catalogue or source citations whose `༼…༽` holds a volume letter or number, not a witness. Those texts were already uploaded, so these notes had been sent as durchens. **They are now `[^nN]`, and their durchens were deleted from the library** (`DELETE /v2/durchens/{id}`; each deletion is logged in `upload-status.json`). They are **not on the library** until a note endpoint exists:
+
+| File | Old label | Now | Deleted durchen |
+|---|---|---|---|
+| `Ar_3CBf_.md` | `[^12]` | `[^n1]` (the editor's note on the Āryadeva attribution) | `eGXFrpwC04X0N3JRpQ6iB` |
+| `Ar_3CC7.md` | `[^26]` | `[^n1]` | `tnprBR6Ed2EbXrLucctUl` |
+| `Ar_3CC7.md` | `[^27]` | `[^n2]` | `OwdKXbWZMTUzhl0ECY87I` |
+| `Ar_3CC8.md` | `[^1]` | `[^n1]` | `8cJzrzsiwXRJ3p5EoIpMj` |
+| `Ar_3CC9.md` | `[^1]` | `[^n1]` | `cSACL6ukwayBXGFRjidZS` |
+| `Ar_3CCA.md` | `[^1]` | `[^n1]` | `9tQIP0fuIMKYwg4ggUHhg` |
+| `Ar_3CCB.md` | `[^1]` | `[^n1]` | `WJZ7LttQyf3GFhUxrpQnB` |
+| `Di_3CEj_.md` | `[^1]` | `[^n1]` (the anthology compiler's note) | `GJAfryJ8z30RWQ2s62GBv` |
+| `Sh_3CCu_.md` | `[^1]` | `[^n1]` | `2hC4XGyfrZoUaArMTIJwo` |
+
+Every root text in `1-SOURCES/Text/` now uses `[^dN]` / `[^nN]`. Still to fix by hand: `At_3CGI [^d2]` is a durchen missing its `༽` (it parses, because the lemma ends at `༼`).
+
+The frontmatter no longer carries `durchen_count`. The upload scripts keep that count in their ledgers only.
+
+### Commentaries: relabelled (2026-10-26)
+
+`linter-commentary` and `parser-commentary` now handle the types the same way as the root-text tools. All 121 commentaries in `1-SOURCES/Commentaries/` were relabelled by content: 120 had footnotes, and none was skipped. Their 139,250 footnotes all carry standard witness sigla, except 12 that became generic notes: A1–A9 (a lemma with no witness and no variant) and C12–C14. The linter's checks, run in memory over every file, report no footnote errors. The one layout warning, Va_3CEK `[^d830]`, sits in a block with no block ID, so the linter skips it, as it did before the relabel. All 6 commentaries with notes are uploaded, so **their 12 note-durchens were deleted from the library**: each was matched by its exact text against the edition's live durchens.
+
+| Ref | File | Old label | Now | Deleted durchen |
+|---|---|---|---|---|
+| A1 | `Di_3CEo_.md` | `[^425]` | `[^n1]` | `g4ZY9Hklco8GoTsEveP4I` |
+| A2 | `Di_3CEo_.md` | `[^513]` | `[^n2]` | `ZLcMDBsyZx7hFHcPwoQrz` |
+| A3 | `Di_3CEo_.md` | `[^1314]` | `[^n3]` | `tnkEpvEtPQVkClfM93nwu` |
+| A4 | `Sh_3CDC.md` | `[^118]` | `[^n1]` | `DrgMnX7XyuXVcGqPT1hDR` |
+| A5 | `Va_3CEA.md` | `[^775]` | `[^n1]` | `wsaHTnn04VH4x48tDz3PI` |
+| A6 | `Va_3CEA.md` | `[^1057]` | `[^n2]` | `B83pqs7Qp3oB16BzgbbIP` |
+| A7 | `Va_3CEA.md` | `[^1163]` | `[^n3]` | `yaVNYAaUgH37V4EUuXtaQ` |
+| A8 | `Va_3CEA.md` | `[^1263]` | `[^n4]` | `wdVRBCxnLmXKEDz1Wa394` |
+| A9 | `Va_3CEA.md` | `[^2200]` | `[^n5]` | `RGVMX2XB0ZCgsqEC2G1Yf` |
+| C12 | `Di_3CEr_.md` | `[^1657]` | `[^n1]` (translator colophon; the text also has a shorter colophon at `^a-2`) | `0G02D6gYiPQMuIVbfCaxQ` |
+| C13 | `Ha_3CFM.md` | `[^1183]` | `[^n1]` (translator verse colophon) | `qL9gkI5ojLpDTUlO2sl5D` |
+| C14 | `Va_3CEK.md` | `[^1627]` | `[^n1]` (editor's remark on the volume split) | `B1pGcpfzPLSuSbAYxF1Wt` |
+
+These notes are **not on the library** until a note endpoint exists. A1–A9 were variant notes that had lost their witness and variant. Restoring them from the Pedurma (see section A below) would turn them back into `[^dN]` durchens. Also still to fix by hand: Gu_3CFW `[^d3016]` is a durchen missing its `༽`.
+
+### Still open
+
+- **Commentary payloads.** The 12 deleted notes were also taken out of the six commentaries' `durchens.json` in `4-SYSTEM/scripts/parser-commentary/output/`. Each payload now holds the same spans and texts as the live edition, and the same count as the ledger. The other payload files were not regenerated. The 5 commentaries not uploaded at the time (Bh_3CCN, Ch_3CCe_, Ka_3CDH, Va_3CE4, Va_3CE7) have no notes. Bh_3CCN was relinted, reparsed and uploaded on 2026-10-27. The other four need a fresh lint and parse before any upload; three of them (Ch_3CCe_, Ka_3CDH, Va_3CE4) duplicate texts already on the library.
+
 ## Update 2026-10-13: current `1-SOURCES/Text/` (442 root texts)
 
 `1-SOURCES/Text/` was replaced by the processed root texts, which have frontmatter, block IDs and headings, so **the line numbers further down are out of date**. The current state:

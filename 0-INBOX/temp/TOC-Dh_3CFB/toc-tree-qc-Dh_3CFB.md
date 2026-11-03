@@ -1,16 +1,9 @@
----
-source: Dh_3CFB
-skill: commentary-toc-extract
-stage: toc-tree-qc
-date: 2026-10-13
-model: gemini-3.8-flash
-repaired: false
-issues_before: 0
-issues_after: 0
----
-
 # TOC tree QC report
 
-## Issues found
+issues: 3
 
-- (none)
+## Issues
+
+- L11: unparseable tree line: * I. ཀླད་ཀྱི་དོན། [[༄༅༅། །རྒྱ་གར་སྐད་དུ། པྲ་མཱ་ཎཱ་བ་ཏཱ་ར་ཏི་ཀ་བྲྀཏྟི། བོད་སྐད་དུ།]]
+- L27: unparseable tree line: * b. མཇུག་བྱང། [[རིག་པ་ཆེན་པོ་སའི་སྟེང་མ་ལུས་པ་ན་སྨྲ་བའི་གླང་པོ་ཆེའི་སྤྱི་བོ་གནོན་པ]]
+- L28: unparseable tree line: * b.1 མཛད་བྱང། [[རིག་པ་ཆེན་པོ་སའི་སྟེང་མ་ལུས་པ་ན་སྨྲ་བའི་གླང་པོ་ཆེའི་སྤྱི་བོ་གནོན་པ]]

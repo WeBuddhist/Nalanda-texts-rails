@@ -1,3 +1,25 @@
+---
+title: "བྱང་ཆུབ་ཀྱི་སེམས་བདེ་བའི་མན་ངག"
+alt_titles:
+  - bo: "བྱང་ཆུབ་ཀྱི་སེམས་བདེ་བའི་མན་ངག།"
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CFr"
+bdrc_work_id: "WA0RT3079"
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "17-Atisha"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id: "3ZDfmvnJLbsVl5Qt3jsdR"
+---
 # ༄༅། །བྱང་ཆུབ་ཀྱི་སེམས་བདེ་བའི་མན་ངག། ^0
 
 ## ཀླད་ཀྱི་དོན། ^I-0
@@ -30,13 +52,11 @@
 
 བྱང་ཆུབ་ཀྱི་སེམས་བདེ་བ་ཆེན་པོའི་མན་ངག་རྫོགས་སོ།། །།
 
-རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀཱ་ར་ཤྲཱི་ཛྙཱ་ན་ཉིད་དང་།
-
 ## མཇུག་བྱང། ^a-0
 
 ### འགྱུར་བྱང། ^a-1-0
 
-ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་དགེ་བའི་བློ་གྲོས་ཀྱིས་བསྒྱུར་ཅིང་གཏན་ལ་ཕབ་ཕོ་བྲང་བྱང་ཆུབ་འོད་ཀྱིས་ཞུས་པའོ། །
+རྒྱ་གར་གྱི་མཁན་པོ་དཱི་པཾ་ཀཱ་ར་ཤྲཱི་ཛྙཱ་ན་ཉིད་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་དགེ་བའི་བློ་གྲོས་ཀྱིས་བསྒྱུར་ཅིང་གཏན་ལ་ཕབ་ཕོ་བྲང་བྱང་ཆུབ་འོད་ཀྱིས་ཞུས་པའོ། །
 
 [^1]: ལྟ་ ༼སྣར། པེ།༽ བལྟ་
 [^2]: བའོ། ༼སྣར། པེ།༽ ལོ།

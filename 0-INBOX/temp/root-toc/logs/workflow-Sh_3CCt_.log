@@ -40,3 +40,52 @@ $ /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/4-SYSTEM/Skills/
    ✓ final-prose.md: letters identical; 1226 spacing difference(s) restored from the source — now identical (letters and spacing)
 /Users/tashitsering/Desktop/work/Obsidian/Nalanda-texts-rails/0-INBOX/temp/root-final/Sh_3CCt_/final-prose.md: 671 paragraphs (sentences per paragraph: 1 ×168, 2 ×160, 3 ×123, 4 ×90, 5 ×47, 6 ×36, 7 ×19, 8 ×7, 9 ×9, 10 ×5, 11 ×2, 14 ×2, 15 ×2, 38 ×1) · 731 stanzas (1 lines ×8, 2 lines ×4, 3 lines ×6, 4 lines ×691, 5 lines ×9, 6 lines ×6, 8 lines ×7)
 
+
+=== 2026-10-13 17:02:25
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py segment D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\root\Sh_3CCt_.md D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCt_
+prose: 2104 sentences, 2935 verse lines in 72 passage(s) · author's colophon, translators' colophon, raw paragraph breaks kept: 226, body heading 'གཞུང་དངོས།' added (no TOC parts) · body headings: no tree · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །བསླབ་པ་ཀུན་ལས་བཏུས་པ།༼སྨད་ཆ།༽ ^0
+   ## གཞུང་དངོས། ^1-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+anchor repair: fixed 0, unresolved []
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py toc-ingest D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCt_ --tree D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\TOC-Sh_3CCt_\toc-tree-anchored-Sh_3CCt_.md
+prose: 2104 sentences, 2935 verse lines in 72 passage(s) · author's colophon, translators' colophon, raw paragraph breaks kept: 226 · body headings: 0 not placed · not translated · versions: prose → run 4-SYSTEM/Skills/root-text-group/prompts/prose-grouping.md → groups-prose.json
+   # ༄༅། །བསླབ་པ་ཀུན་ལས་བཏུས་པ།༼སྨད་ཆ།༽ ^0
+   ## ལུས་བསྲུང་བའི་ལེའུ་སྟེ་དྲུག་པ། ^6-0
+   ## ལོངས་སྤྱོད་དང་བསོད་ནམས་བསྲུང་བའི་ལེའུ་སྟེ་བདུན་པ། ^7-0
+   ## སྡིག་པ་སྦྱང་བའི་ལེའུ་སྟེ་བརྒྱད་པ། ^8-0
+   ## བཟོད་པའི་ལེའུ་སྟེ་དགུ་པ། ^9-0
+   ## བརྩོན་འགྲུས་ཀྱི་ལེའུ་སྟེ་བཅུ་པ། ^10-0
+   ## དགོན་པར་གནས་པར་བརྗོད་པ་ཞེས་བྱ་བའི་ལེའུ་སྟེ་བཅུ་གཅིག་པ། ^11-0
+   ## སེམས་ཡོངས་སུ་སྦྱང་བའི་ལེའུ་སྟེ་བཅུ་གཉིས་པ། ^12-0
+   ## དྲན་པ་ཉེ་བར་གཞག་པའི་ལེའུ་སྟེ་བཅུ་གསུམ་པ། ^13-0
+   ## ལུས་ཡོངས་སུ་དག་པའི་ལེའུ་སྟེ་བཅུ་བཞི་པ། ^14-0
+   ## ལོངས་སྤྱོད་དང་བསོད་ནམས་དག་པའི་ལེའུ་སྟེ་བཅོ་ལྔ་པ། ^15-0
+   ## ལེའུ་བཅུ་དྲུག་པ། ^16-0
+   ## ཕྱག་འཚལ་བ་ལ་སོགས་པའི་ཕན་ཡོན་གྱི་ལེའུ་སྟེ་བཅུ་བདུན་པ། ^17-0
+   ## དཀོན་མཆོག་གསུམ་རྗེས་སུ་དྲན་པའི་ལེའུ་སྟེ་བཅོ་བརྒྱད་པ། ^18-0
+   ## བསོད་ནམས་སྤེལ་བ། ^19-0
+   ## མཇུག་བྱང། ^a-0
+   ### མཛད་བྱང། ^a-1-0
+   ### འགྱུར་བྱང། ^a-2-0
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-split D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCt_
+group-in-part1.md: units 1–550 → groups-prose-part1.json
+group-in-part2.md: units 551–1120 → groups-prose-part2.json
+group-in-part3.md: units 1121–1679 → groups-prose-part3.json
+group-in-part4.md: units 1680–2249 → groups-prose-part4.json
+group-in-part5.md: units 2250–2825 → groups-prose-part5.json
+group-in-part6.md: units 2826–3391 → groups-prose-part6.json
+group-in-part7.md: units 3392–4619 → groups-prose-part7.json
+group-in-part8.md: units 4620–5039 → groups-prose-part8.json
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py group-join D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCt_
+groups-prose.json: 1422 blocks from 8 parts
+
+$ D:\Work\OpenPecha\Nalanda-texts-rails\4-SYSTEM\Skills\seg-toc-lib\root_text_build.py finish D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCt_
+   ✓ final-prose.md: letters identical; 1205 spacing difference(s) restored from the source — now identical (letters and spacing)
+D:\Work\OpenPecha\Nalanda-texts-rails\0-INBOX\temp\root-final\Sh_3CCt_\final-prose.md: 690 paragraphs (sentences per paragraph: 1 ×196, 2 ×168, 3 ×113, 4 ×90, 5 ×45, 6 ×34, 7 ×14, 8 ×9, 9 ×6, 10 ×3, 11 ×4, 14 ×2, 15 ×3, 16 ×1, 18 ×1, 39 ×1) · 732 stanzas (1 lines ×7, 2 lines ×6, 3 lines ×6, 4 lines ×693, 5 lines ×8, 6 lines ×5, 8 lines ×7)
+

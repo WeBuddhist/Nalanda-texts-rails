@@ -1,16 +1,10 @@
----
-source: Dh_3CF4
-skill: commentary-toc-extract
-stage: toc-tree-qc
-date: 2026-10-13
-model: gemini-3.8-flash
-repaired: false
-issues_before: 0
-issues_after: 0
----
-
 # TOC tree QC report
 
-## Issues found
+issues: 4
 
-- (none)
+## Issues
+
+- L11: unparseable tree line: * I. ཀླད་ཀྱི་དོན། [[༄༅༅། །རྒྱ་གར་སྐད་དུ། ཛཱ་ཏ་ཀ་མཱ་ལཱ་ཊཱི་ཀཱ། བོད་སྐད་དུ། སྐྱེས་པའི་རབས་ཀྱི་]]
+- L47: unparseable tree line: * b. མཇུག་བྱང། [[སྐྱེས་པའི་རབས་ཀྱི༌[^3987]རྒྱ་ཆེར་བཤད་པ༌[^3988]སློབ་དཔོན་དྷརྨ་ཀླི་རྟིས་མཛད་]]
+- L48: unparseable tree line: * b.1 མཛད་བྱང། [[སྐྱེས་པའི་རབས་ཀྱི༌[^3987]རྒྱ་ཆེར་བཤད་པ༌[^3988]སློབ་དཔོན་དྷརྨ་ཀླི་རྟིས་མཛད་]]
+- L49: unparseable tree line: * b.2 འགྱུར་བྱང། [[རྒྱ་གར་གྱི་མཁན་པོ་པཎྜི་ཏ་ཛ་ནཱར་དྷ་ན་དང་། ཞུ་ཆེན་གྱི་ལོ་ཙཱ་བ་ཨི་བུ་དགེ་སློང་]]

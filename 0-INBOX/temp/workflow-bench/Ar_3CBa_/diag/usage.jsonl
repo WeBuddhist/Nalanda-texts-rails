@@ -1,8 +1,0 @@
-{"label": "diag1", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 21.2, "input": 19541, "output": 2591, "thought": 0}
-{"label": "diag7", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 21.5, "input": 19541, "output": 2887, "thought": 0}
-{"label": "diag0", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 21.8, "input": 19541, "output": 2681, "thought": 0}
-{"label": "diag4", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 23.1, "input": 19541, "output": 3001, "thought": 0}
-{"label": "diag6", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 23.2, "input": 19541, "output": 3029, "thought": 0}
-{"label": "diag2", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 24.3, "input": 19541, "output": 3064, "thought": 0}
-{"label": "diag3", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 25.1, "input": 19541, "output": 3108, "thought": 0}
-{"label": "diag5", "model": "gemini-3.8-flash", "thinking": "low", "attempt": 1, "finish": "FinishReason.STOP", "seconds": 29.8, "input": 19541, "output": 3156, "thought": 0}

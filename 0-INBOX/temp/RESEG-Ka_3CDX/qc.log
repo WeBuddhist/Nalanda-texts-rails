@@ -1,0 +1,17 @@
+Input:  0-INBOX\resegmented\Ka_3CDX.reseg.md
+ID:     Ka_3CDX
+
+Blocks: 133
+
+Step 1 — Deterministic checks...
+  2 flag(s) found.
+  Block 111 — OVER_LENGTH (267 syl)
+  Block 128 — OBJECTION_REPLY_FUSED
+
+Step 2 — LLM repair...
+  LLM suggested 0 correction(s):
+
+QC report: 0-INBOX\resegmented\Ka_3CDX.qc.md
+
+────────────────────────────────────────
+Flags before : 2

@@ -1,0 +1,188 @@
+{
+ "As_3CDo_": {
+  "old": "རྣལ་འབྱོར་སྤྱོད་པའི་ས་རྣམ་པར་གཏན་ལ་དབབ་པ་བསྡུ་བ།",
+  "new": "རྣལ་འབྱོར་སྤྱོད་པའི་ས་རྣམ་པར་གཏན་ལ་དབབ་པ་བསྡུ་བ།༼སྟོད་ཆ།༽",
+  "clash": "As_3CDp_",
+  "basis": "Part 1 (Book 56) of a two-part work; As_3CDp_ (Book 57) is already ༼སྨད་ཆ།༽ and As_3CDp_ carries the colophon. Follows As_3CDk_ / As_3CDl_. Already uploaded: title patched on the library (PATCH /v2/texts/PTeAvbIVuWhNUWmDhTOvx, 2026-10-23)."
+ },
+ "At_3CG7": {
+  "old": "མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།",
+  "new": "བཅོམ་ལྡན་འདས་མི་འཁྲུགས་པའི་སྒྲུབ་ཐབས།",
+  "clash": "At_3CG6",
+  "basis": "Own colophon title (^a-1). At_3CG6's colophon calls itself the extensive (རྒྱས་པ) sādhana; this is the short one."
+ },
+ "At_3CGI": {
+  "old": "གཙུག་ཏོར་དྲི་མེད་ཀྱི་གཟུངས་ཆོག",
+  "new": "གཙུག་ཏོར་དྲི་མ་མེད་པའི་གཟུངས་ཀྱི་ཆོ་ག",
+  "clash": "At_3CGH",
+  "basis": "Full form from its own ^I-2 and colophon (^a-1). Note: At_3CGH ends with the same wording (^1-7) — the two remain near-identical to readers."
+ },
+ "At_3CGb_": {
+  "old": "སྦྱིན་སྲེག་གི་ཆོ་ག",
+  "new": "ཞི་བའི་སྦྱིན་སྲེག་གི་ཆོ་ག",
+  "clash": "At_3CG8",
+  "basis": "Editorial: no distinct title is attested. The rite is pacifying in its own words (ཞི་བར་བྱ་བའི་ཕྱིར, ཞི་བའི་ཚིག, ཤནྟི་ཀུ་རུ ×2); At_3CG8 has none of these."
+ },
+ "At_3CHB": {
+  "old": "སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།",
+  "new": "ཇོ་བོ་རྗེའི་སྤྱོད་པ་བསྡུས་པའི་སྒྲོན་མ།",
+  "clash": "Ar_3CBc_",
+  "basis": "Editorial author qualifier. Different works with the same Tibetan title: Atiśa's Caryāsaṃgrahapradīpa vs Āryadeva's Caryāmelāpakapradīpa (Sanskrit titles in ^I-1). ཇོ་བོ་རྗེ from the collection title."
+ },
+ "Ha_3CFJ": {
+  "old": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།",
+  "new": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་ལྔ་པ།༽",
+  "clash": "Ha_3CFG",
+  "basis": "Volume 5 (Book 86) of a five-volume set; follows the ༼དེབ་N།༽ pattern of Ha_3CFF / Ha_3CFH / Ha_3CFI."
+ },
+ "Ha_3CFG": {
+  "old": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།",
+  "new": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པ།༼དེབ་གཉིས་པ།༽",
+  "clash": "—",
+  "basis": "Volume 2 (Book 83) was missing its volume tag. Already uploaded: deleted (old text tce5facfRtmmMP067sELa) and re-uploaded under the new title."
+ },
+ "Na_3C9T": {
+  "old": "དཔལ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།",
+  "new": "རྡོ་རྗེ་ནག་པོ་ཆེན་པོའི་སྒྲུབ་ཐབས།",
+  "clash": "Na_3C9R",
+  "basis": "Editorial, from its own homage (^I-2). Dropped 3 alt_titles not attested in the text (…ཞེས་བྱ་བ། is Na_3C9R's wording; …སྲོག་གི་སྤུ་གྲིའི… and གུར་མགོན་ལྷ་བཅུ་བདུན… match neither)."
+ },
+ "Sh_3CCs_": {
+  "old": "བསླབ་པ་ཀུན་ལས་བཏུས་པ།",
+  "new": "བསླབ་པ་ཀུན་ལས་བཏུས་པ།༼སྟོད་ཆ།༽",
+  "clash": "Sh_3CCt_",
+  "basis": "Part 1 (Book 41, chapters 1–5) of a two-part work; Sh_3CCt_ (Book 42, chapter 6 on, colophon) is already ༼སྨད་ཆ།༽. Already uploaded: title patched on the library (PATCH /v2/texts/8Rny2ucutFoSoG5TmR9q5, 2026-10-23)."
+ },
+ "Bh_3CCM": {
+  "old": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།",
+  "new": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།༼སྟོད་ཆ།༽",
+  "clash": "Bh_3CCN",
+  "basis": "Commentary. Part 1 (Book 33, bam po 1–15) of a two-part work; Bh_3CCN (Book 34, bam po 16 on) labels itself ༼སྨད་ཆ།༽. Both share bdrc WA0RT3201. Already uploaded: title patched on the library (PATCH /v2/texts/nLztNphtFnyVCn3pNvjVj, 2026-10-27)."
+ },
+ "Bh_3CCN": {
+  "old": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།",
+  "new": "དབུ་མའི་སྙིང་པོའི་འགྲེལ་པ་རྟོག་གེ་འབར་བ།༼སྨད་ཆ།༽",
+  "clash": "Bh_3CCM",
+  "basis": "Commentary. Part 2 (Book 34, bam po 16 on); its own heading reads ༼སྨད་ཆ།༽. Bh_3CCM (Book 33, bam po 1–15) is part 1. Uploaded 2026-10-27 as fP3mROrpMeyUajTzGv0CS, without a bdrc id: the library keeps one text per BDRC id, so Bh_3CCM carries WA0RT3201 (as with Va_3CE2 / Va_3CE3). Its wrong alt title '…བམ་པོ་དང་པོ།' (bam po 1) was dropped."
+ },
+ "Ch_3CCU": {
+  "old": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།",
+  "new": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཟླ་བ་གྲགས་པ།༽",
+  "clash": "Na_3C9x_ · Sh_3CCh_ · Di_3CEi_",
+  "basis": "One verse by ཟླ་བ་གྲགས་པ (^1-1 ཟླ་བ་གྲགས་པས་སྨྲས་པ།) from the 50-siddhas anthology; the four extracts share its title. Name as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཤཱནྟ་དེ་བ། ཕྱོགས་ཀྱི་གླང་པོ། ཟླ་བ་གྲགས་པ."
+ },
+ "Na_3C9x_": {
+  "old": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།",
+  "new": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཀླུ་སྒྲུབ།༽",
+  "clash": "Ch_3CCU · Sh_3CCh_ · Di_3CEi_",
+  "basis": "One verse by Nāgārjuna (^1-1 ནཱ་གཱརྫུ་ནས་གསུངས་པ།) from the 50-siddhas anthology. ཀླུ་སྒྲུབ as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཤཱནྟ་དེ་བ། ཕྱོགས་ཀྱི་གླང་པོ། ཟླ་བ་གྲགས་པ and Na_3C9y_."
+ },
+ "Sh_3CCh_": {
+  "old": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།",
+  "new": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཤཱནྟ་དེ་བ།༽",
+  "clash": "Ch_3CCU · Na_3C9x_ · Di_3CEi_",
+  "basis": "One verse by ཤཱནྟ་དེ་བ (^1-1 ཤཱནྟ་དེ་བས་གསུངས་པ།) from the 50-siddhas anthology. Name as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཤཱནྟ་དེ་བ། ཕྱོགས་ཀྱི་གླང་པོ། ཟླ་བ་གྲགས་པ."
+ },
+ "Di_3CEi_": {
+  "old": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ།",
+  "new": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཕྱོགས་ཀྱི་གླང་པོ།༽",
+  "clash": "Ch_3CCU · Na_3C9x_ · Sh_3CCh_",
+  "basis": "One verse by ཕྱོགས་ཀྱི་གླང་པོ (^1-1 ཕྱོགས་ཀྱི་གླང་པོས་སྨྲས་པ།) from the 50-siddhas anthology. ཞེས་བྱ་བ added from its own colophon (^a-1), matching the other three; the Dignāga volume (Book 75) heading lacks it. Already uploaded: title patched on the library."
+ },
+ "Na_3C9y_": {
+  "old": "དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ།",
+  "new": "དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཀླུ་སྒྲུབ།༽",
+  "clash": "Di_3CEj_ · Sh_3CCi_",
+  "basis": "One verse by ཀླུ་སྒྲུབ (^1-1 སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱི་ཞལ་ནས།) from the 40-siddhas anthology; the three extracts share its title. Name as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཕྱོགས་ཀྱི་གླང་པོ། བྷུ་སུ་ཀུ."
+ },
+ "Di_3CEj_": {
+  "old": "དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ།",
+  "new": "དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཕྱོགས་ཀྱི་གླང་པོ།༽",
+  "clash": "Na_3C9y_ · Sh_3CCi_",
+  "basis": "One verse by ཕྱོགས་ཀྱི་གླང་པོ (^1-1 སློབ་དཔོན་ཕྱོགས་ཀྱི་གླང་པོའི་ཞལ་ནས།) from the 40-siddhas anthology. Name as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཕྱོགས་ཀྱི་གླང་པོ། བྷུ་སུ་ཀུ. Already uploaded: title patched on the library."
+ },
+ "Sh_3CCi_": {
+  "old": "དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ།",
+  "new": "དཔལ་ཨུ་རྒྱན་དུ་ཚོགས་འཁོར་བྱས་པའི་དུས་སུ་རྣལ་འབྱོར་པ་གྲུབ་པ་ཐོབ་པ་བཞི་བཅུས་རྡོ་རྗེའི་མགུར་བཞེངས་པ་ཉམས་ཀྱི་མན་ངག་ཐིག་ལེ་གསེར་གྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼བྷུ་སུ་ཀུ།༽",
+  "clash": "Na_3C9y_ · Di_3CEj_",
+  "basis": "One verse by བྷུ་སུ་ཀུ (^1-1 བྷུ་སུ་ཀུའི་ཞལ་ནས།) from the 40-siddhas anthology. Name as in the compiler's note (footnote) listing ཀླུ་སྒྲུབ། ཕྱོགས་ཀྱི་གླང་པོ། བྷུ་སུ་ཀུ."
+ },
+ "Na_3CBW": {
+  "old": "བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།",
+  "new": "དཀོན་མཆོག་གསུམ་དང་མཛད་པ་བཅུ་གཉིས་ཀྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།",
+  "clash": "Na_3CBX",
+  "basis": "Own colophon title (^a-1 དཀོན་མཆོག་གསུམ་དང་མཛད་པ་བཅུ་གཉིས་ཀྱི་བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ་སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པ). Different work from Na_3CBX (20% similar; buddha and bodhisattva names), which keeps the plain title its own colophon gives. Same author and translators, so an author tag would not separate them. Already uploaded: title patched on the library."
+ },
+ "Va_3CEP": {
+  "old": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།",
+  "new": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།༼དབྱིག་གཉེན།༽",
+  "clash": "Ch_3CCX",
+  "basis": "Author from its own colophon (^a-1 …སློབ་དཔོན་དབྱིག་གཉེན་གྱིས་མཛད་པ). Different work from Ch_3CCX (Candrakīrti, ~5× longer, different BDRC id); both carry an author tag."
+ },
+ "Ch_3CCX": {
+  "old": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།",
+  "new": "ཕུང་པོ་ལྔའི་རབ་ཏུ་བྱེད་པ།༼ཟླ་བ་གྲགས་པ།༽",
+  "clash": "Va_3CEP",
+  "basis": "Author from its own colophon (^a-1 …སློབ་དཔོན་ཟླ་བ་གྲགས་པས་མཛད་པ). Different work from Va_3CEP (Vasubandhu); both carry an author tag. Already uploaded: title patched on the library."
+ },
+ "Na_3C9c_": {
+  "old": "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག",
+  "new": "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག༼ཀླུ་སྒྲུབ།༽",
+  "clash": "At_3CHL",
+  "basis": "Author from its own colophon (^a-1 …སློབ་དཔོན་ཀླུ་སྒྲུབ་ཀྱི་ཞལ་སྔ་ནས་མཛད་པ). Different work from At_3CHL (Dīpaṃkarabhadra; ~14% shared, different homage, paṇḍita and BDRC id); both carry an author tag."
+ },
+ "At_3CHL": {
+  "old": "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག",
+  "new": "དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་གྱི་ཆོ་ག༼མར་མེ་མཛད་བཟང་པོ།༽",
+  "clash": "Na_3C9c_",
+  "basis": "Author from its own colophon (^a-1 སློབ་དཔོན་མར་མེ་མཛད་བཟང་པོའི་ཞལ་སྔ་ནས་མཛད་པ). Different work from Na_3C9c_ (Nāgārjuna); both carry an author tag. Already uploaded: title patched on the library."
+ },
+ "Na_3C9V": {
+  "old": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།",
+  "new": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་དང་པོ།༽",
+  "clash": "Na_3C9W · Na_3C9X",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 1: Sanskrit title …aṣṭapadastotra; 10 verses; colophon names Nāgārjuna only, no translator. Already uploaded: title patched on the library."
+ },
+ "Na_3C9W": {
+  "old": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།",
+  "new": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་གཉིས་པ།༽",
+  "clash": "Na_3C9V · Na_3C9X",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 2: Sanskrit title …aṣṭamantrastotra; verses reordered and reworded; lacks Na_3C9V's verses 4, 8 and 10; adds the ཀྵཾ verse and a closing benefit verse; no translator named."
+ },
+ "Na_3C9X": {
+  "old": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།",
+  "new": "དཔལ་ནག་པོ་ཆེན་པོའི་བསྟོད་པ་རྐང་པ་བརྒྱད་པ།༼དཔེ་གསུམ་པ།༽",
+  "clash": "Na_3C9V · Na_3C9W",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 3: Sanskrit title …aṣṭamantrastotra; Na_3C9V's verses in the same order with spelling variants, verse 6 replaced and verse 8 missing; translated by Vairocanavajra and Ldi ri chos grags (^a-1)."
+ },
+ "Na_3CAN": {
+  "old": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།",
+  "new": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼དཔེ་དང་པོ།༽",
+  "clash": "Na_3CAO",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 1: the shorter wording of the same rite sequence as Na_3CAO; homage རྡོ་རྗེ་སྒྲོལ་མ་ལ; no author or translator named."
+ },
+ "Na_3CAO": {
+  "old": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།",
+  "new": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼དཔེ་གཉིས་པ།༽",
+  "clash": "Na_3CAN",
+  "basis": "Same work, different version: no distinguishing title is attested, so versions are numbered in volume order. Version 2: the fuller wording of the same rite sequence as Na_3CAN; homage འཕགས་མ་སྒྲོལ་མ་ལ; no author or translator named. Already uploaded: title patched on the library."
+ },
+ "Na_3CAP": {
+  "old": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།",
+  "new": "རྡོ་རྗེ་སྒྲོལ་མའི་སྒྲུབ་ཐབས།༼ཀླུ་སྒྲུབ།༽",
+  "clash": "Na_3CAN · Na_3CAO",
+  "basis": "Author tag from its own colophon (^a-1 …སློབ་དཔོན་འཕགས་པ་ཀླུ་སྒྲུབ་ཞབས་ཀྱིས་མཛད་པ); a different, much shorter sādhana than Na_3CAN / Na_3CAO (5% and 13% shared), whose texts name no author. BDRC WA0RT4261 (the other two have none)."
+ },
+ "Va_3CE1": {
+  "old": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།",
+  "new": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།༼དཔེ་དང་པོ།༽",
+  "clash": "Va_3CE7",
+  "basis": "Commentary. Same work, different version: no distinguishing title is attested (same title, colophon names Vasubandhu only), so versions are numbered in volume order. Version 1 (Book 63): has the Sanskrit title ཨཱརྱ་མུ་ཁ་ཥ་ཊ་དྷཱ་ར་ཎི་བྱཱ་ཁྱ་ཏ; 8 sections; 22 notes, mostly ༼པེ།༽. Already uploaded: title patched on the library (PATCH /v2/texts/l7JIJyrKGUzDcJylDpLcn, 2026-10-27)."
+ },
+ "Va_3CE7": {
+  "old": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།",
+  "new": "འཕགས་པ་སྒོ་དྲུག་པའི་གཟུངས་ཀྱི་རྣམ་པར་བཤད་པ།༼དཔེ་གཉིས་པ།༽",
+  "clash": "Va_3CE1",
+  "basis": "Commentary. Same work, different version (about 60% shared wording). Version 2 (Book 65): no Sanskrit title; 7 sections, lacking Va_3CE1's སྦྱོར་བ་རྣམ་པར་དག་པ section and part of བསམ་པ་ཡོངས་སུ་དག་པ; 12 notes, mostly ༼སྣར། པེ།༽. Its 2026-10-14 upload failed while it shared Va_3CE1's title; uploaded 2026-10-27 as anJsNi9KS7erwHt7rsvro."
+ }
+}

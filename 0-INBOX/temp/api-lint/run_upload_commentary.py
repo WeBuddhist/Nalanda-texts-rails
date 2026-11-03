@@ -15,8 +15,10 @@ Without --execute it SENDS NOTHING. With --execute it posts, in order:
 
 and after each step writes the id into the commentary's own frontmatter (the file in
 0-INBOX/temp/segmented-commentary-with-toc/<stem>.md): text_id, edition_id, toc_id,
-durchen_count, yigchung_count. A step whose id is already in the frontmatter is skipped, so an
-interrupted run resumes. Ids are also kept in commentary-upload-status.json next to this script.
+yigchung_count. A step whose id is already in the frontmatter is skipped, so an interrupted run
+resumes; durchens are skipped when the ledger or the live edition already has them (their count
+is not written to the frontmatter). Ids are also kept in commentary-upload-status.json next to
+this script.
 
 --execute needs --confirm <stem> (the same name again). Only run it after a human has approved
 the dry-run plan.
@@ -49,9 +51,10 @@ LEDGER = HERE / "commentary-upload-status.json"
 
 
 def find_source(stem):
-    for d in (VAULT / "0-INBOX" / "temp" / "segmented-commentary-with-toc",
-              VAULT / "0-INBOX" / "processed" / "commentaries",
-              VAULT / "1-SOURCES" / "Commentaries"):
+    # 1-SOURCES is the source of record now; the 0-INBOX copies are older pipeline outputs
+    for d in (VAULT / "1-SOURCES" / "Commentaries",
+              VAULT / "0-INBOX" / "temp" / "segmented-commentary-with-toc",
+              VAULT / "0-INBOX" / "processed" / "commentaries"):
         p = d / f"{stem}.md"
         if p.exists():
             return p
@@ -139,6 +142,8 @@ def check(stem, live):
             if t.get("bdrc"):
                 hits = ub.call("GET", f"/v2/texts?bdrc={t['bdrc']}&limit=5").get("items", [])
                 if hits:
+                    # the library keeps one text per bdrc id (a uniqueness constraint): a later
+                    # part of a split work is uploaded without one, as Va_3CE3 / As_3CDp_ are
                     problems.append(f"a live text already has bdrc {t['bdrc']}: {[h.get('id') for h in hits]}")
         except ub.ApiError as exc:
             warnings.append(f"live check skipped: {exc}")
@@ -168,7 +173,8 @@ def execute(stem, p, src):
         entry.setdefault("log", []).append(
             {"step": step, "ts": _dt.datetime.now().isoformat(timespec="seconds"), **kw})
         save()
-        ub.patch_fm(src, key, value)
+        if key in ub.FM_KEYS:
+            ub.patch_fm(src, key, value)
         print(f"    {step:<9} {key} = {value}")
 
     if ids.get("text_id"):
@@ -193,8 +199,13 @@ def execute(stem, p, src):
         done("toc", "toc_id", ub.call("POST", f"/v2/editions/{eid}/table-of-contents", p["toc"])["id"])
 
     notes = p["durchens"].get("durchens", [])
-    if ids.get("durchen_count"):
-        print(f"    durchens  skipped, durchen_count = {ids['durchen_count']}")
+    # the durchen count is no longer kept in the frontmatter: the ledger, or else the live
+    # edition, says whether the durchens were sent
+    sent = ids.get("durchen_count") or entry.get("durchen_count")
+    if not sent and notes and ids.get("edition_id"):
+        sent = len(ub.call("GET", f"/v2/editions/{eid}/durchens") or [])
+    if sent:
+        print(f"    durchens  skipped, {sent} already on the edition")
     elif notes:
         res = ub.call("POST", f"/v2/editions/{eid}/durchens", notes)
         if len(res) != len(notes):

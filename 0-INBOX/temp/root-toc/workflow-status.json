@@ -110,10 +110,10 @@
  "Ar_3CBq_": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.01 · 0.2 min",
+  "run": "low · $0.02 · 0.2 min",
   "form_out": "free",
   "headings": "0 not placed",
-  "blocks": 48,
+  "blocks": 45,
   "note": ""
  },
  "Ar_3CBr_": {
@@ -200,7 +200,7 @@
  "Ar_3CC1": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.24 · 3.6 min",
+  "run": "low · $0.50 · 3.9 min",
   "form_out": "free",
   "headings": "0 not placed",
   "blocks": 423,
@@ -326,19 +326,19 @@
  "As_3CDs_": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.10 · 0.7 min",
+  "run": "low · $0.17 · 0.4 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 226,
+  "blocks": 218,
   "note": ""
  },
  "As_3CDt_": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.09 · 0.3 min",
+  "run": "low · $0.14 · 0.3 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 135,
+  "blocks": 131,
   "note": "breaks-review.md: raw breaks ending mid-sentence"
  },
  "As_3CDu_": {
@@ -488,7 +488,7 @@
  "At_3CFr_": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.00 · 0.1 min",
+  "run": "low · $0.01 · 0.1 min",
   "form_out": "prose",
   "headings": "—",
   "blocks": 7,
@@ -1049,7 +1049,7 @@
   "run": "low · $0.01 · 0.1 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 14,
+  "blocks": 12,
   "note": ""
  },
  "At_3CGX": {
@@ -1775,7 +1775,7 @@
  "Ch_3CCc_": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.08 · 1.0 min",
+  "run": "low · $0.14 · 0.7 min",
   "form_out": "free",
   "headings": "0 not placed",
   "blocks": 333,
@@ -1901,10 +1901,10 @@
  "Dh_3CF7": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.02 · 0.2 min",
+  "run": "low · $0.04 · 0.4 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 73,
+  "blocks": 53,
   "note": ""
  },
  "Dh_3CF8": {
@@ -2090,10 +2090,10 @@
  "Ka_3CDO": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.09 · 0.5 min",
+  "run": "low · $0.14 · 0.3 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 110,
+  "blocks": 151,
   "note": ""
  },
  "Ka_3CDP": {
@@ -2207,10 +2207,10 @@
  "Na_3C99": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.00 · 0.1 min",
+  "run": "low · $0.01 · 0.1 min",
   "form_out": "free",
   "headings": "—",
-  "blocks": 12,
+  "blocks": 11,
   "note": ""
  },
  "Na_3C9A": {
@@ -2324,11 +2324,11 @@
  "Na_3C9h_": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.04 · 0.5 min",
+  "run": "low · $0.25 · 4.2 min",
   "form_out": "free",
   "headings": "0 not placed",
-  "blocks": 286,
-  "note": ""
+  "blocks": 293,
+  "note": "grouping fell back to medium for part(s) 2"
  },
  "Na_3C9I": {
   "status": "done",
@@ -2477,7 +2477,7 @@
  "Na_3C9S": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.00 · 0.1 min",
+  "run": "low · $0.01 · 0.1 min",
   "form_out": "free",
   "headings": "0 not placed",
   "blocks": 11,
@@ -2486,10 +2486,10 @@
  "Na_3C9s_": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.00 · 0.2 min",
+  "run": "low · $0.01 · 0.1 min",
   "form_out": "free",
   "headings": "—",
-  "blocks": 6,
+  "blocks": 5,
   "note": ""
  },
  "Na_3C9T": {
@@ -2567,7 +2567,7 @@
  "Na_3C9X": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.00 · 0.1 min",
+  "run": "low · $0.01 · 0.1 min",
   "form_out": "free",
   "headings": "—",
   "blocks": 11,
@@ -2615,7 +2615,7 @@
   "run": "low · $0.00 · 0.1 min",
   "form_out": "free",
   "headings": "0 not placed",
-  "blocks": 4,
+  "blocks": 5,
   "note": ""
  },
  "Na_3CA1": {
@@ -2705,7 +2705,7 @@
   "run": "low · $0.00 · 0.1 min",
   "form_out": "free",
   "headings": "0 not placed",
-  "blocks": 6,
+  "blocks": 5,
   "note": ""
  },
  "Na_3CAb_": {
@@ -2801,19 +2801,19 @@
  "Na_3CAg_": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.03 · 0.6 min",
+  "run": "low · $0.13 · 0.5 min",
   "form_out": "free",
   "headings": "0 not placed",
-  "blocks": 147,
+  "blocks": 145,
   "note": ""
  },
  "Na_3CAH": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.00 · 0.1 min",
+  "run": "low · $0.01 · 0.1 min",
   "form_out": "prose",
   "headings": "—",
-  "blocks": 7,
+  "blocks": 4,
   "note": ""
  },
  "Na_3CAh_": {
@@ -2828,10 +2828,10 @@
  "Na_3CAI": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.00 · 0.1 min",
+  "run": "low · $0.01 · 0.3 min",
   "form_out": "prose",
   "headings": "—",
-  "blocks": 4,
+  "blocks": 2,
   "note": ""
  },
  "Na_3CAi_": {
@@ -2855,10 +2855,10 @@
  "Na_3CAK": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.00 · 0.1 min",
+  "run": "low · $0.01 · 0.2 min",
   "form_out": "prose",
   "headings": "—",
-  "blocks": 4,
+  "blocks": 3,
   "note": ""
  },
  "Na_3CAk_": {
@@ -2873,10 +2873,10 @@
  "Na_3CAL": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.00 · 0.1 min",
+  "run": "low · $0.02 · 0.4 min",
   "form_out": "prose",
   "headings": "—",
-  "blocks": 4,
+  "blocks": 3,
   "note": ""
  },
  "Na_3CAl_": {
@@ -3188,11 +3188,11 @@
  "Na_3CBH": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.04 · 0.5 min",
+  "run": "low · $0.08 · 0.4 min",
   "note": "",
   "headings": "—",
   "form_out": "free",
-  "blocks": 119
+  "blocks": 121
  },
  "Na_3CBI": {
   "status": "done",
@@ -3224,7 +3224,7 @@
  "Na_3CBL": {
   "status": "done",
   "toc": "no parts",
-  "run": "low · $0.00 · 0.1 min",
+  "run": "low · $0.01 · 0.1 min",
   "form_out": "prose",
   "headings": "—",
   "blocks": 4,
@@ -3452,7 +3452,7 @@
   "run": "low · $0.00 · 0.1 min",
   "form_out": "free",
   "headings": "—",
-  "blocks": 7,
+  "blocks": 6,
   "note": ""
  },
  "Sh_3CCx_": {
@@ -3728,19 +3728,19 @@
  "As_3CDm_": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $0.96 · 16.4 min",
+  "run": "medium · $1.76 · 12.7 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 1073,
+  "blocks": 1039,
   "note": "breaks-review.md: raw breaks ending mid-sentence"
  },
  "As_3CDn_": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $1.04 · 17.9 min",
+  "run": "medium · $3.24 · 21.5 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 1074,
+  "blocks": 1072,
   "note": ""
  },
  "As_3CDo_": {
@@ -3800,11 +3800,11 @@
  "As_3CDq_": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $1.30 · 20.0 min",
+  "run": "medium · $2.50 · 21.2 min",
   "form_out": "prose",
-  "headings": "2 not placed",
-  "blocks": 1236,
-  "note": "REVIEW: heading(s) not placed — insert by hand"
+  "headings": "0 not placed",
+  "blocks": 1264,
+  "note": "2 anchor(s) repaired (footnote marker / ༌)"
  },
  "As_3CDv_": {
   "status": "done",
@@ -3845,37 +3845,37 @@
  "Gu_3CFS": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $0.97 · 19.9 min",
+  "run": "medium · $3.14 · 27.2 min",
   "form_out": "prose",
-  "headings": "4 not placed",
-  "blocks": 1275,
-  "note": "REVIEW: heading(s) not placed — insert by hand"
+  "headings": "0 not placed",
+  "blocks": 1184,
+  "note": ""
  },
  "Gu_3CFT": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $1.19 · 21.3 min",
+  "run": "medium · $2.17 · 17.9 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 931,
+  "blocks": 864,
   "note": ""
  },
  "Ha_3CFF": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $0.91 · 15.2 min",
+  "run": "medium · $1.84 · 18.1 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 882,
-  "note": ""
+  "blocks": 831,
+  "note": "4 anchor(s) repaired (footnote marker / ༌)"
  },
  "Ha_3CFG": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $1.13 · 19.0 min",
+  "run": "medium · $3.15 · 17.8 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 1177,
+  "blocks": 1202,
   "note": ""
  },
  "Ha_3CFH": {
@@ -3890,10 +3890,10 @@
  "Ha_3CFI": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $0.71 · 10.8 min",
+  "run": "medium · $1.45 · 11.6 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 801,
+  "blocks": 765,
   "note": ""
  },
  "Ka_3CDK": {
@@ -3926,10 +3926,10 @@
  "Sh_3CCt_": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $1.28 · 25.4 min",
+  "run": "medium · $2.64 · 29.1 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 1402,
+  "blocks": 1422,
   "note": ""
  },
  "Sh_3CDE": {
@@ -3953,19 +3953,19 @@
  "Ha_3CFJ": {
   "status": "done",
   "toc": "tree",
-  "run": "medium · $0.75 · 11.8 min",
+  "run": "medium · $3.70 · 17.8 min",
   "form_out": "prose",
   "headings": "0 not placed",
-  "blocks": 772,
+  "blocks": 721,
   "note": ""
  },
  "Ch_3CCd_": {
   "status": "done",
   "toc": "tree",
-  "run": "low · $0.06 · 0.7 min",
+  "run": "low · $0.11 · 0.6 min",
   "form_out": "free",
   "headings": "0 not placed",
-  "blocks": 326,
+  "blocks": 318,
   "note": ""
  },
  "Di_3CEp_": {

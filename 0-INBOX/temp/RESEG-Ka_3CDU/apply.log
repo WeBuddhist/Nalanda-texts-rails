@@ -1,0 +1,109 @@
+Input:      0-INBOX\segmented\Ka_3CDU.toc.md
+ID:         Ka_3CDU
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-Ka_3CDU\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDU.reseg.md
+
+Blocks: 658  (headings: 66, content: 592)
+Windows: 19  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 86
+  MERGE [6, 7]
+  MERGE [21, 22, 23]
+  MERGE [33, 34]
+  MERGE [48, 49]
+  MERGE [53, 54, 55, 56]
+  MERGE [64, 65, 66, 67]
+  MERGE [70, 71, 72, 73]
+  MERGE [75, 76]
+  MERGE [78, 79]
+  MERGE [91, 92, 93]
+  MERGE [94, 95, 96]
+  MERGE [98, 99]
+  MERGE [104, 105, 106]
+  MERGE [109, 110, 111]
+  MERGE [112, 113, 114, 115]
+  MERGE [121, 122, 123, 124, 125]
+  MERGE [128, 129, 130, 131, 132, 133, 134]
+  MERGE [137, 138, 139]
+  MERGE [144, 145]
+  MERGE [146, 147]
+  MERGE [148, 149]
+  MERGE [150, 151]
+  MERGE [154, 155, 156]
+  MERGE [157, 158]
+  MERGE [161, 162, 163, 164]
+  MERGE [165, 166, 167]
+  MERGE [178, 179]
+  MERGE [182, 183, 184]
+  MERGE [188, 189]
+  MERGE [191, 192, 193, 194, 195]
+  MERGE [197, 198, 199, 200, 201]
+  MERGE [204, 205, 206, 207, 208, 209]
+  MERGE [217, 218, 219, 220, 221, 222, 223]
+  MERGE [225, 226, 227, 228]
+  MERGE [236, 237, 238, 239, 240, 241]
+  MERGE [248, 249]
+  MERGE [251, 252, 253, 254, 255, 256, 257, 258, 259]
+  MERGE [266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283]
+  MERGE [285, 286]
+  MERGE [288, 289]
+  MERGE [291, 292]
+  MERGE [294, 295, 296, 297]
+  MERGE [303, 304, 305]
+  MERGE [307, 308, 309, 310]
+  MERGE [311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323]
+  MERGE [326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338]
+  MERGE [342, 343, 344, 345, 346, 347, 348, 349, 350, 351]
+  MERGE [354, 355, 356, 357, 358]
+  MERGE [361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 371]
+  MERGE [373, 374, 375, 376, 377, 378, 379, 380, 381, 382]
+  MERGE [384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415]
+  MERGE [417, 418, 419, 420]
+  MERGE [423, 424, 425, 426, 427, 428, 429, 430, 431, 432]
+  MERGE [434, 435, 436, 437]
+  MERGE [439, 440, 441, 442, 443]
+  MERGE [445, 446]
+  MERGE [448, 449]
+  MERGE [453, 454, 455]
+  MERGE [457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471]
+  MERGE [473, 474]
+  MERGE [476, 477]
+  MERGE [482, 483, 484, 485, 486, 487]
+  MERGE [489, 490, 491, 492, 493]
+  MERGE [503, 504]
+  MERGE [506, 507]
+  MERGE [514, 515]
+  MERGE [517, 518]
+  MERGE [520, 521, 522, 523, 524, 525, 526]
+  MERGE [528, 529]
+  MERGE [531, 532, 533, 534, 535, 536]
+  MERGE [538, 539, 540]
+  MERGE [542, 543, 544]
+  MERGE [546, 547, 548, 549]
+  MERGE [556, 557, 558]
+  MERGE [563, 564]
+  MERGE [565, 566]
+  MERGE [580, 581, 582]
+  MERGE [586, 587, 588]
+  MERGE [598, 599, 600, 601, 602, 603]
+  MERGE [604, 605, 606, 607, 608]
+  MERGE [614, 615, 616, 617]
+  MERGE [620, 621]
+  MERGE [622, 623]
+  MERGE [626, 627]
+  MERGE [631, 632, 633]
+  MERGE [650, 651]
+
+Overlap disagreements (1) — boundary kept:
+  - Blocks 177 | 178: windows [4, 5], joined by [5]
+
+Blocks: 658 → 354
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDU.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDU.ops.md
+
+1 overlap disagreement(s) resolved by keeping the boundary — see ops log.

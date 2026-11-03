@@ -13,9 +13,9 @@ parser payloads in 4-SYSTEM/scripts/parser-root-text/output/<id>/ in this order:
     5. POST /v2/editions/{edition_id}/yigchungs <- <id>.yigchungs.json only when the file exists
 
 After each successful step the id is written into the source frontmatter
-(1-SOURCES/Text/<id>.md: text_id, edition_id, toc_id, durchen_count, yigchung_count) and
-into the ledger upload-status.json next to this script, which also keeps every durchen and
-yigchung id. A step whose id is already recorded is skipped, so an interrupted run resumes.
+(1-SOURCES/Text/<id>.md: text_id, edition_id, toc_id, yigchung_count) and into the ledger
+upload-status.json next to this script, which also keeps the durchen count and every durchen
+and yigchung id (the durchen count is not written to the frontmatter). A step whose id is already recorded is skipped, so an interrupted run resumes.
 The report 0-INBOX/API-LINT-BATCH.md is rebuilt with the upload columns after every text.
 
 Dry run is the default: it checks the payloads (and, read-only, the live API) and prints the
@@ -144,6 +144,8 @@ def save_ledger(ledger):
 
 FM_RE = re.compile(r"\A---\r?\n(.*?)\r?\n---\r?\n", re.DOTALL)
 ID_KEYS = ("text_id", "edition_id", "toc_id", "durchen_count", "yigchung_count")
+# written into the source frontmatter after each step; the durchen count stays in the ledger only
+FM_KEYS = ("text_id", "edition_id", "toc_id", "yigchung_count")
 ANCHOR_KEYS = ("category_id", "category_name") + ID_KEYS
 
 
@@ -382,7 +384,8 @@ def upload_one(tid, payloads, paths, entry, ledger):
         entry[key] = value
         entry.setdefault("log", []).append({"step": step, "ts": _dt.datetime.now().isoformat(timespec="seconds"), **kw})
         save()
-        patch_fm(src, key, value)
+        if key in FM_KEYS:
+            patch_fm(src, key, value)
         print(f"    {step:<9} {key} = {value}")
 
     entry.setdefault("payload_hash", payload_hash(paths))

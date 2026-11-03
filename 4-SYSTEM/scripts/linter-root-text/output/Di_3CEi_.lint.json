@@ -1,28 +1,31 @@
 {
   "status": "ok",
   "source": "1-SOURCES/Text/Di_3CEi_.md",
-  "validated_at": "2026-10-13T11:11:29.990609+00:00",
+  "validated_at": "2026-10-26T08:57:28.537535+00:00",
   "notes": [
     "wiki: not set (optional)",
     "commentary_of: not set (optional)",
     "translation_of: not set (optional)",
     "tag_ids: not set (optional)",
     "source: source = 'https://webuddhist.com/'",
-    "durchens: 2 from 2 footnote definition(s)",
+    "durchens: 2 from 2 durchen definition(s); generic notes: 0 (not sent — no note endpoint yet)",
     "toc: 4 headers found"
   ],
   "warnings": [
-    "contributions: author/translator missing — ignored for now",
-    "alt_titles: missing — ignored for now"
+    "contributions: author/translator missing — ignored for now"
   ],
   "text_input": {
     "bdrc": null,
     "wiki": null,
     "date": null,
     "title": {
-      "bo": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ།"
+      "bo": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ་ཞེས་བྱ་བ།༼ཕྱོགས་ཀྱི་གླང་པོ།༽"
     },
-    "alt_titles": null,
+    "alt_titles": [
+      {
+        "bo": "གྲུབ་ཐོབ་ལྔ་བཅུའི་རྟོགས་པ་བརྗོད་པ་ཐིག་ལེ་འོད་ཀྱི་ཕྲེང་བ།"
+      }
+    ],
     "language": "bo",
     "commentary_of": null,
     "translation_of": null,

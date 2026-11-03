@@ -21,7 +21,6 @@ category_name: "Logic / ཚད་མ།"
 text_id: "1WjCvN7oGHVHjoFu5Ho7S"
 edition_id: "KA4mHIwLBv5SZOyiqK8Qy"
 toc_id: "qg3acwIJOIRG2QaksuOEA"
-durchen_count: 2693
 openpecha_text_id: "9u4HFaS9uZv2wfCifWeVt"
 ---
 

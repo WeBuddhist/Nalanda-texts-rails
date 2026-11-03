@@ -1,0 +1,49 @@
+Input:      0-INBOX\segmented\Ka_3CDX.toc.md
+ID:         Ka_3CDX
+Vault root: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails
+Staging:    C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\temp\RESEG-Ka_3CDX\windows
+Output:     C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDX.reseg.md
+
+Blocks: 206  (headings: 31, content: 175)
+Windows: 6  (size=40, overlap=5)
+
+--apply-only: skipping LLM calls, loading staged results.
+
+Operations to apply: 31
+  MERGE [19, 20]
+  MERGE [22, 23]
+  MERGE [29, 30, 31, 32, 33]
+  MERGE [34, 35]
+  MERGE [39, 40, 41, 42, 43]
+  MERGE [44, 45, 46, 47]
+  MERGE [48, 49]
+  MERGE [56, 57, 58, 59, 60, 61]
+  MERGE [63, 64]
+  MERGE [67, 68]
+  MERGE [69, 70]
+  MERGE [71, 72, 73]
+  MERGE [74, 75]
+  MERGE [77, 78, 79]
+  MERGE [83, 84]
+  MERGE [88, 89]
+  MERGE [93, 94, 95, 96, 97, 98, 99, 100]
+  MERGE [101, 102, 103, 104, 105, 106]
+  MERGE [121, 122]
+  MERGE [128, 129]
+  MERGE [139, 140]
+  MERGE [141, 142]
+  MERGE [149, 150]
+  MERGE [158, 159, 160, 161, 162]
+  MERGE [163, 164, 165]
+  MERGE [167, 168, 169, 170, 171]
+  MERGE [180, 181, 182]
+  MERGE [183, 184, 185, 186, 187, 188, 189, 190]
+  MERGE [192, 193, 194, 195, 196]
+  MERGE [197, 198]
+  MERGE [199, 200, 201]
+
+Blocks: 206 → 133
+✓ Integrity check passed
+
+Output:  C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDX.reseg.md
+Ops log: C:\Users\geshe lobzang tseten\repos\Nalanda-texts-rails\0-INBOX\resegmented\Ka_3CDX.ops.md

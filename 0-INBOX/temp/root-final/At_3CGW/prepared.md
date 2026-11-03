@@ -1,5 +1,27 @@
-
+---
+title: "སྔགས་ཀྱི་དོན་འཇུག་པ།"
+alt_titles:
+author:
+author_in_english:
+date:
+language: "Tibetan"
+file_type: "root-text"
+lang_tag: "bo"
+verse_id_format:
+registered_id:
+covers_verses:
+source_description: "Nalanda Masters collected works (from Nalanda-docx): Book No 98) ཇོ་བོ་རྗེའི་གསུང་འབུམ། ཀ༽ .docx (17-Atisha); https://wb.pub/3CGW"
+bdrc_work_id:
+source: "https://webuddhist.com/"
+license: "public"
+pandita: "17-Atisha"
+category_id: "REBGnT4qFooPfPEkR5pe5"
+category_name: "Tantras / རྒྱུད་སྡེ།"
+openpecha_text_id:
+---
 # ༄༅། །སྔགས་ཀྱི་དོན་འཇུག་པ། ^0
+
+## གསང་སྔགས་ལ་འཇུག་པ། ^1-0
 
 ༄༅༅། རྒྱལ་པོ་ཟ་ཞེས་བྱ་བ་ཞིག་གསང་སྔགས་ཀྱི་ཐེག་པ་བཀའ་མ་ཡིན་ཟེར་བས། དེའི་ལོག་རྟོགས་དགག་པའི་ཆེད་དུ་མཛད་པའོ། །[^1]
 
@@ -8,8 +30,6 @@
 ༄༅༅། །གླིང་གསུམ་དུ་ས་ཁྱད་པར་དུ་གྱུར་པ་འཛམ་བུ་གླིང་། འགྲོ་བ་རིགས་དྲུག་ལས་ཁྱད་པར་དུ་གྱུར་པ་དལ་འབྱོར་དང་ལྡན་པ། སྒྲུབ་པ་ཁྱད་པར་དུ་གྱུར་པ་མུ་སྟེགས་པ་མ་ཡིན་པ། བུདྡྷའི་ཐེག་པ་ལ་ཞུགས་པ། བུདྡྷའི་ཐེག་པ་ལས་ཉན་ཐོས་དང་རང་སངས་རྒྱས་ལས་ཁྱད་པར་དུ་གྱུར་པ་འཕགས་པའི་ཐེག་པ་ཆེན་པོའོ། །
 
 ཐེག་པ་ཆེན་པོ་ལས་ཁྱད་པར་དུ་གྱུར་པ་གསང་སྔགས་བླ་ན་མེད་པ་ཞུགས་པའི་དེ་ལྟ་བུར་གྱུར་པ་གཅིག །
-
-## གསང་སྔགས་ལ་འཇུག་པ། ^1-0
 
 གསང་སྔགས་ལ་འཇུག་པར་འདིར་བཤད་པར་བྱའོ། །
 

@@ -20,7 +20,6 @@ category_name: "Tantras / རྒྱུད་སྡེ།"
 text_id: "EnUSEa5YsXGFMF1t6Xq8e"
 edition_id: "edzjtDACpiQHnWuHASVRZ"
 toc_id: "k2YEn4QYh9R6bSzDsBlRF"
-durchen_count: 1
 openpecha_text_id: "oAZh09jqr7qhNprRxoDTX"
 ---
 
@@ -30,7 +29,7 @@ openpecha_text_id: "oAZh09jqr7qhNprRxoDTX"
 
 ༄༅། །བླ་མ་རྣམས་ལ་ཕྱག་འཚལ་ལོ། ། ^1-1
 
-དམ་པ་ཉེར་བསྟན༌[^1]ཅིག་ཤོས་མིན། །
+དམ་པ་ཉེར་བསྟན༌[^d1]ཅིག་ཤོས་མིན། །
 སྣོད་དང་ལྡན་པ་རྣམ་པར་བརྟག ། ^1-2
 
 འདོད་ཕྱིར་གཞན་ལ་གནོད་པ་སྤོང་། །
@@ -44,4 +43,4 @@ openpecha_text_id: "oAZh09jqr7qhNprRxoDTX"
 
 ཡན་ལག་གི་ཉེས་པ་བདུན་པ་རྫོགས་སོ། ། ^1-6
 
-[^1]: བསྟན་ ༼སྣར། པེ།༽ བསྟེན་
+[^d1]: བསྟན་ ༼སྣར། པེ།༽ བསྟེན་
